@@ -1,0 +1,4 @@
+---
+title: Seewald
+url: /seewald/
+---

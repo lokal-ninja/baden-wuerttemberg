@@ -1,0 +1,4 @@
+---
+title: Neubulach
+url: /neubulach/
+---

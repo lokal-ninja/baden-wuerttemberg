@@ -1,0 +1,4 @@
+---
+title: Burgrieden
+url: /burgrieden/
+---

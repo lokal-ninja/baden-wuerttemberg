@@ -1,0 +1,4 @@
+---
+title: Spiegelberg
+url: /spiegelberg/
+---

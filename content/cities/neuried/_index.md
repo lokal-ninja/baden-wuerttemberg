@@ -1,0 +1,4 @@
+---
+title: Neuried
+url: /neuried/
+---

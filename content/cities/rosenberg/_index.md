@@ -1,0 +1,4 @@
+---
+title: Rosenberg
+url: /rosenberg/
+---

@@ -1,0 +1,4 @@
+---
+title: Wurmlingen
+url: /wurmlingen/
+---

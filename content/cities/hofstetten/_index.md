@@ -1,0 +1,4 @@
+---
+title: Hofstetten
+url: /hofstetten/
+---

@@ -1,0 +1,4 @@
+---
+title: Bernstadt
+url: /bernstadt/
+---

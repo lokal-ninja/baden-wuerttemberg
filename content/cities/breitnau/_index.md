@@ -1,0 +1,4 @@
+---
+title: Breitnau
+url: /breitnau/
+---

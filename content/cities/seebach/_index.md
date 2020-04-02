@@ -1,0 +1,4 @@
+---
+title: Seebach
+url: /seebach/
+---

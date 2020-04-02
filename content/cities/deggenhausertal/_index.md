@@ -1,0 +1,4 @@
+---
+title: Deggenhausertal
+url: /deggenhausertal/
+---

@@ -1,0 +1,4 @@
+---
+title: Frickingen
+url: /frickingen/
+---

@@ -1,0 +1,4 @@
+---
+title: Bollschweil
+url: /bollschweil/
+---

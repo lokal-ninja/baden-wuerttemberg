@@ -1,0 +1,4 @@
+---
+title: Wutöschingen
+url: /wutoeschingen/
+---

@@ -1,0 +1,4 @@
+---
+title: Beimerstetten
+url: /beimerstetten/
+---

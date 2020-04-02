@@ -1,0 +1,4 @@
+---
+title: Sonnenbühl
+url: /sonnenbuehl/
+---

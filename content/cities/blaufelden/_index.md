@@ -1,0 +1,4 @@
+---
+title: Blaufelden
+url: /blaufelden/
+---

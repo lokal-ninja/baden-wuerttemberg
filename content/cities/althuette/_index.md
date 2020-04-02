@@ -1,0 +1,4 @@
+---
+title: Althütte
+url: /althuette/
+---

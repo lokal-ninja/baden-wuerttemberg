@@ -1,0 +1,4 @@
+---
+title: Wangen
+url: /wangen/
+---

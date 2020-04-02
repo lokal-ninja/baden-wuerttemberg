@@ -1,0 +1,4 @@
+---
+title: Kuchen
+url: /kuchen/
+---

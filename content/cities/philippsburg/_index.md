@@ -1,0 +1,4 @@
+---
+title: Philippsburg
+url: /philippsburg/
+---

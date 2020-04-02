@@ -1,0 +1,4 @@
+---
+title: Hattenhofen
+url: /hattenhofen/
+---

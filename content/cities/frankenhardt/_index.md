@@ -1,0 +1,4 @@
+---
+title: Frankenhardt
+url: /frankenhardt/
+---

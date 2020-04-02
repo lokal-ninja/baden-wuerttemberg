@@ -1,0 +1,4 @@
+---
+title: Friedenweiler
+url: /friedenweiler/
+---

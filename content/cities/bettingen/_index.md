@@ -1,0 +1,4 @@
+---
+title: Bettingen
+url: /bettingen/
+---

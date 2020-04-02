@@ -1,0 +1,4 @@
+---
+title: Vöhrenbach
+url: /voehrenbach/
+---

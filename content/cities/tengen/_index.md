@@ -1,0 +1,4 @@
+---
+title: Tengen
+url: /tengen/
+---

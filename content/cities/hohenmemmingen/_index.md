@@ -1,0 +1,4 @@
+---
+title: Hohenmemmingen
+url: /hohenmemmingen/
+---

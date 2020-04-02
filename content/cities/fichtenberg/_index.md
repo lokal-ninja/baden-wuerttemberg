@@ -1,0 +1,4 @@
+---
+title: Fichtenberg
+url: /fichtenberg/
+---

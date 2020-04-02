@@ -1,0 +1,4 @@
+---
+title: "Hof am Eichenhain"
+url: /stuttgart/hof-am-eichenhain/
+---

@@ -1,0 +1,4 @@
+---
+title: Rangendingen
+url: /rangendingen/
+---

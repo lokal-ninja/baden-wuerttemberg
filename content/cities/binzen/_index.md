@@ -1,0 +1,4 @@
+---
+title: Binzen
+url: /binzen/
+---

@@ -1,0 +1,4 @@
+---
+title: Collenberg
+url: /collenberg/
+---

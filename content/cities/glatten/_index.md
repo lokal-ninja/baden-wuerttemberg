@@ -1,0 +1,4 @@
+---
+title: Glatten
+url: /glatten/
+---

@@ -1,0 +1,4 @@
+---
+title: Geradstetten
+url: /geradstetten/
+---

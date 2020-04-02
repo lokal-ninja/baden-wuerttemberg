@@ -1,0 +1,4 @@
+---
+title: "Metzgerei Balzer"
+url: /dotternhausen/metzgerei-balzer/
+---

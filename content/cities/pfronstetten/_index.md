@@ -1,0 +1,4 @@
+---
+title: Pfronstetten
+url: /pfronstetten/
+---

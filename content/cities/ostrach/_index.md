@@ -1,0 +1,4 @@
+---
+title: Ostrach
+url: /ostrach/
+---

@@ -1,0 +1,4 @@
+---
+title: Horgenzell
+url: /horgenzell/
+---

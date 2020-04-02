@@ -1,0 +1,4 @@
+---
+title: Fischingen
+url: /fischingen/
+---

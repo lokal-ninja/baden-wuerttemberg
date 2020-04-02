@@ -1,0 +1,4 @@
+---
+title: Altenriet
+url: /altenriet/
+---

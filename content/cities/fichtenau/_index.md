@@ -1,0 +1,4 @@
+---
+title: Fichtenau
+url: /fichtenau/
+---

@@ -1,0 +1,4 @@
+---
+title: "Edeka Schindler"
+url: /elzach/edeka-schindler/
+---

@@ -1,0 +1,4 @@
+---
+title: Argenbühl
+url: /argenbuehl/
+---

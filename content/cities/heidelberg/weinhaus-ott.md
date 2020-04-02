@@ -1,0 +1,4 @@
+---
+title: "Weinhaus Ott"
+url: /heidelberg/weinhaus-ott/
+---

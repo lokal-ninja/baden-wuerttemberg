@@ -1,0 +1,4 @@
+---
+title: Seckach
+url: /seckach/
+---

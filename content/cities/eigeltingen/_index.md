@@ -1,0 +1,4 @@
+---
+title: Eigeltingen
+url: /eigeltingen/
+---

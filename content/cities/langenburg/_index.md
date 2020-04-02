@@ -1,0 +1,4 @@
+---
+title: Langenburg
+url: /langenburg/
+---

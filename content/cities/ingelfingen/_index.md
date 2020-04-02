@@ -1,0 +1,4 @@
+---
+title: Ingelfingen
+url: /ingelfingen/
+---

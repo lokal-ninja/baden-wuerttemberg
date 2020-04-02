@@ -1,0 +1,4 @@
+---
+title: Nagold
+url: /nagold/
+---

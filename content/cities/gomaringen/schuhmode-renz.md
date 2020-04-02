@@ -1,0 +1,4 @@
+---
+title: "Schuhmode Renz"
+url: /gomaringen/schuhmode-renz/
+---

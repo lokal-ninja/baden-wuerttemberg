@@ -1,0 +1,4 @@
+---
+title: "Blumenhaus Wasser"
+url: /mannheim/blumenhaus-wasser/
+---

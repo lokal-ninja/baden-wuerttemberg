@@ -1,0 +1,4 @@
+---
+title: Rickenbach
+url: /rickenbach/
+---

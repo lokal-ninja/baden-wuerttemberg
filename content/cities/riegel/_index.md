@@ -1,0 +1,4 @@
+---
+title: Riegel
+url: /riegel/
+---

@@ -1,0 +1,4 @@
+---
+title: Mittelbiberach
+url: /mittelbiberach/
+---

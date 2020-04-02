@@ -1,0 +1,4 @@
+---
+title: Eggingen
+url: /eggingen/
+---

@@ -1,0 +1,4 @@
+---
+title: Berghaupten
+url: /berghaupten/
+---

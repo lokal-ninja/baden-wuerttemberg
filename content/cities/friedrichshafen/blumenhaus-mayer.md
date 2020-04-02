@@ -1,0 +1,4 @@
+---
+title: "Blumenhaus Mayer"
+url: /friedrichshafen/blumenhaus-mayer/
+---

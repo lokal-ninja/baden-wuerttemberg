@@ -1,0 +1,4 @@
+---
+title: Burgstetten
+url: /burgstetten/
+---

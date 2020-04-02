@@ -1,0 +1,4 @@
+---
+title: Baltmannsweiler
+url: /baltmannsweiler/
+---

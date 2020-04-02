@@ -1,0 +1,4 @@
+---
+title: Amtzell
+url: /amtzell/
+---

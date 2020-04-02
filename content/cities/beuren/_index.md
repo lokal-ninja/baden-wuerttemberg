@@ -1,0 +1,4 @@
+---
+title: Beuren
+url: /beuren/
+---

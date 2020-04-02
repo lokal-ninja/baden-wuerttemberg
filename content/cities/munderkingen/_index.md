@@ -1,0 +1,4 @@
+---
+title: Munderkingen
+url: /munderkingen/
+---

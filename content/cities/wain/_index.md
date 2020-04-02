@@ -1,0 +1,4 @@
+---
+title: Wain
+url: /wain/
+---

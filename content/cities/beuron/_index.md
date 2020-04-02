@@ -1,0 +1,4 @@
+---
+title: Beuron
+url: /beuron/
+---

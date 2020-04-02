@@ -1,0 +1,4 @@
+---
+title: Möglingen
+url: /moeglingen/
+---

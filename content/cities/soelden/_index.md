@@ -1,0 +1,4 @@
+---
+title: Sölden
+url: /soelden/
+---

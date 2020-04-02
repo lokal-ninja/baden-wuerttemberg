@@ -1,0 +1,4 @@
+---
+title: "Landtechnik Vogel"
+url: /steinheim-am-albuch/landtechnik-vogel/
+---

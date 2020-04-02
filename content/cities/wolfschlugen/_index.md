@@ -1,0 +1,4 @@
+---
+title: Wolfschlugen
+url: /wolfschlugen/
+---

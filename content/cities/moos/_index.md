@@ -1,0 +1,4 @@
+---
+title: Moos
+url: /moos/
+---

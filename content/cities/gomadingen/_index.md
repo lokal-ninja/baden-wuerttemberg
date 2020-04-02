@@ -1,0 +1,4 @@
+---
+title: Gomadingen
+url: /gomadingen/
+---

@@ -1,0 +1,4 @@
+---
+title: Lottstetten
+url: /lottstetten/
+---

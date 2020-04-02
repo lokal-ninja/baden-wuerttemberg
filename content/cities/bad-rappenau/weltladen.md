@@ -1,0 +1,4 @@
+---
+title: "Weltladen"
+url: /bad-rappenau/weltladen/
+---

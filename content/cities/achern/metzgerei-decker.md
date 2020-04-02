@@ -1,0 +1,4 @@
+---
+title: "Metzgerei Decker"
+url: /achern/metzgerei-decker/
+---

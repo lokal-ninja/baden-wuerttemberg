@@ -1,0 +1,4 @@
+---
+title: Schechingen
+url: /schechingen/
+---

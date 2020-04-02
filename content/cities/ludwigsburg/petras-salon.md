@@ -1,0 +1,4 @@
+---
+title: "Petras Salon"
+url: /ludwigsburg/petras-salon/
+---

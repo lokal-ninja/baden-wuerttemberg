@@ -1,0 +1,4 @@
+---
+title: Buggingen
+url: /buggingen/
+---

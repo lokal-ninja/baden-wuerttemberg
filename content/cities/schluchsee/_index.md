@@ -1,0 +1,4 @@
+---
+title: Schluchsee
+url: /schluchsee/
+---

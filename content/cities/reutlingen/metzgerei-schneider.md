@@ -1,0 +1,4 @@
+---
+title: "Metzgerei Schneider"
+url: /reutlingen/metzgerei-schneider/
+---

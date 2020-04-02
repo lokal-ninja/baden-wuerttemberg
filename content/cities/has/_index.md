@@ -1,0 +1,4 @@
+---
+title: Has
+url: /has/
+---

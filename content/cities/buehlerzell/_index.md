@@ -1,0 +1,4 @@
+---
+title: Bühlerzell
+url: /buehlerzell/
+---

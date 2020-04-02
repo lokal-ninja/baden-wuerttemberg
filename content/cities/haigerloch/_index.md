@@ -1,0 +1,4 @@
+---
+title: Haigerloch
+url: /haigerloch/
+---

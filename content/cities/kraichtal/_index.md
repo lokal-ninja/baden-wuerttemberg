@@ -1,0 +1,4 @@
+---
+title: Kraichtal
+url: /kraichtal/
+---

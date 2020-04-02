@@ -1,0 +1,4 @@
+---
+title: Freiamt
+url: /freiamt/
+---

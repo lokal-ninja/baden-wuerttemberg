@@ -1,0 +1,4 @@
+---
+title: Deckenpfronn
+url: /deckenpfronn/
+---

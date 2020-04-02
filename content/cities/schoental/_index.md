@@ -1,0 +1,4 @@
+---
+title: Schöntal
+url: /schoental/
+---

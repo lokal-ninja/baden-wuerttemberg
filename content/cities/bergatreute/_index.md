@@ -1,0 +1,4 @@
+---
+title: Bergatreute
+url: /bergatreute/
+---

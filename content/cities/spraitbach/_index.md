@@ -1,0 +1,4 @@
+---
+title: Spraitbach
+url: /spraitbach/
+---

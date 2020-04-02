@@ -1,0 +1,4 @@
+---
+title: Leinzell
+url: /leinzell/
+---

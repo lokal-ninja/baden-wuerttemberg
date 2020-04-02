@@ -1,0 +1,4 @@
+---
+title: Gerlingen
+url: /gerlingen/
+---

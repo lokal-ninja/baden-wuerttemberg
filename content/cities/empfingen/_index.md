@@ -1,0 +1,4 @@
+---
+title: Empfingen
+url: /empfingen/
+---

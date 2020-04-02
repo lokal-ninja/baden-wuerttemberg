@@ -1,0 +1,4 @@
+---
+title: Pfaffenweiler
+url: /pfaffenweiler/
+---

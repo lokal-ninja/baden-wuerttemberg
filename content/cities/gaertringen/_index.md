@@ -1,0 +1,4 @@
+---
+title: Gärtringen
+url: /gaertringen/
+---

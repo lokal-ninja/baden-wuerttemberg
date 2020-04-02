@@ -1,0 +1,4 @@
+---
+title: Schwendi
+url: /schwendi/
+---

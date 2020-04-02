@@ -1,0 +1,4 @@
+---
+title: Assamstadt
+url: /assamstadt/
+---

@@ -1,0 +1,4 @@
+---
+title: Adelberg
+url: /adelberg/
+---

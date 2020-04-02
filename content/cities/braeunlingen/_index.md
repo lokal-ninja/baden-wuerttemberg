@@ -1,0 +1,4 @@
+---
+title: Bräunlingen
+url: /braeunlingen/
+---

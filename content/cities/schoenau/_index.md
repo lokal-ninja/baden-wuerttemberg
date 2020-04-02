@@ -1,0 +1,4 @@
+---
+title: Schönau
+url: /schoenau/
+---

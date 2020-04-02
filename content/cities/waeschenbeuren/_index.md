@@ -1,0 +1,4 @@
+---
+title: Wäschenbeuren
+url: /waeschenbeuren/
+---

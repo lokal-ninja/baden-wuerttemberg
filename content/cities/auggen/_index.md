@@ -1,0 +1,4 @@
+---
+title: Auggen
+url: /auggen/
+---

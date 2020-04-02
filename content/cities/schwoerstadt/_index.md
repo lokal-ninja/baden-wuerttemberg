@@ -1,0 +1,4 @@
+---
+title: Schwörstadt
+url: /schwoerstadt/
+---

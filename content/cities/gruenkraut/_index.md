@@ -1,0 +1,4 @@
+---
+title: Grünkraut
+url: /gruenkraut/
+---

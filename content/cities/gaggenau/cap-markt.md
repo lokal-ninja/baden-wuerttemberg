@@ -1,0 +1,4 @@
+---
+title: "CAP-Markt"
+url: /gaggenau/cap-markt/
+---

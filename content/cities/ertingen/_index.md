@@ -1,0 +1,4 @@
+---
+title: Ertingen
+url: /ertingen/
+---

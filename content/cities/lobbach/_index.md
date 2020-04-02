@@ -1,0 +1,4 @@
+---
+title: Lobbach
+url: /lobbach/
+---

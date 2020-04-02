@@ -1,0 +1,4 @@
+---
+title: Göggingen
+url: /goeggingen/
+---

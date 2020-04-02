@@ -1,0 +1,4 @@
+---
+title: Mulfingen
+url: /mulfingen/
+---

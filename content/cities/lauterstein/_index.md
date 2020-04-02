@@ -1,0 +1,4 @@
+---
+title: Lauterstein
+url: /lauterstein/
+---

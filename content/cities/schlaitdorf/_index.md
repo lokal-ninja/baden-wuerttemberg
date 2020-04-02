@@ -1,0 +1,4 @@
+---
+title: Schlaitdorf
+url: /schlaitdorf/
+---

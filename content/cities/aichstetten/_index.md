@@ -1,0 +1,4 @@
+---
+title: Aichstetten
+url: /aichstetten/
+---

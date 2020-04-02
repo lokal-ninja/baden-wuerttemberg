@@ -1,0 +1,4 @@
+---
+title: Bodnegg
+url: /bodnegg/
+---

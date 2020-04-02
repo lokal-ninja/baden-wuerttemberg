@@ -1,0 +1,4 @@
+---
+title: Stimpfach
+url: /stimpfach/
+---

@@ -1,0 +1,4 @@
+---
+title: "DB Reisezentrum"
+url: /wangen-im-allgaeu/db-reisezentrum/
+---

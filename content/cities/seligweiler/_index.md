@@ -1,0 +1,4 @@
+---
+title: Seligweiler
+url: /seligweiler/
+---

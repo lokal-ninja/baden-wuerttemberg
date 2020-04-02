@@ -1,0 +1,4 @@
+---
+title: Krauchenwies
+url: /krauchenwies/
+---

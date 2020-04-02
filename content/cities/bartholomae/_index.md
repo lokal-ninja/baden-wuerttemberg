@@ -1,0 +1,4 @@
+---
+title: Bartholomä
+url: /bartholomae/
+---

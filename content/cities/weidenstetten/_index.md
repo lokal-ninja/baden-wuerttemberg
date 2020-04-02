@@ -1,0 +1,4 @@
+---
+title: Weidenstetten
+url: /weidenstetten/
+---

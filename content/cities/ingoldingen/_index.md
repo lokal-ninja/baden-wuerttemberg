@@ -1,0 +1,4 @@
+---
+title: Ingoldingen
+url: /ingoldingen/
+---

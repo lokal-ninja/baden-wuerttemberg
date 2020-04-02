@@ -1,0 +1,4 @@
+---
+title: Friolzheim
+url: /friolzheim/
+---

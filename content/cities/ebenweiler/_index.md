@@ -1,0 +1,4 @@
+---
+title: Ebenweiler
+url: /ebenweiler/
+---

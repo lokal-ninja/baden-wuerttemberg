@@ -1,0 +1,4 @@
+---
+title: Schnürpflingen
+url: /schnuerpflingen/
+---

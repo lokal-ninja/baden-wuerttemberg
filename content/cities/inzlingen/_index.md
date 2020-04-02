@@ -1,0 +1,4 @@
+---
+title: Inzlingen
+url: /inzlingen/
+---
