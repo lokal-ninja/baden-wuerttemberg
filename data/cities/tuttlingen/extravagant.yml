@@ -5,7 +5,7 @@ latitude: 47.9848434
 longitude: 8.8211096
 postcode: 78532
 city: Tuttlingen
-street: Königstraße
+street: "Königstraße"
 housenumber: 18
 phone: "+49 7461 9102938"
 opening_hours: ""

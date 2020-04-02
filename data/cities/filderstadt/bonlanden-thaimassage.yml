@@ -5,7 +5,7 @@ latitude: 48.654271
 longitude: 9.215864700000001
 postcode: 70794
 city: Filderstadt
-street: Bonländer Hauptstraße
+street: "Bonländer Hauptstraße"
 housenumber: 42
 phone: "+49 711 21579803"
 opening_hours: "Mo-Su 09:00-20:00; Tu,PH off"

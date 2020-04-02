@@ -5,7 +5,7 @@ latitude: 47.8790841
 longitude: 9.635779300000001
 postcode: 
 city: Wolpertswende
-street: Robert-Stolz-Straße
+street: "Robert-Stolz-Straße"
 housenumber: 6
 phone: "+49 7502 921854"
 opening_hours: ""

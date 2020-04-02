@@ -5,7 +5,7 @@ latitude: 47.69789
 longitude: 9.561984800000001
 postcode: 88074
 city: Meckenbeuren
-street: Lindberghstraße
+street: "Lindberghstraße"
 housenumber: 8
 phone: "+49 7542 98 05 65"
 opening_hours: "Mo-Fr 08:30-18:00"

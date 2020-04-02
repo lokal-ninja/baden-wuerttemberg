@@ -5,7 +5,7 @@ latitude: 48.922353300000005
 longitude: 9.144548
 postcode: 71634
 city: Ludwigsburg
-street: Maybachstraße
+street: "Maybachstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.778064900000004
 longitude: 9.163735800000001
 postcode: 70176
 city: Stuttgart
-street: Silberburgstraße
+street: "Silberburgstraße"
 housenumber: 93
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.2751536
 longitude: 9.1596577
 postcode: 74831
 city: Gundelsheim
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 106
 phone: "+49 6269 42160"
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00;Sa 09:00-14:00;Su,PH off"

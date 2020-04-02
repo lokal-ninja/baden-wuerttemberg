@@ -5,7 +5,7 @@ latitude: 48.050978
 longitude: 8.467299200000001
 postcode: 78050
 city: Villingen-Schwenningen
-street: Lantwattenstraße
+street: "Lantwattenstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

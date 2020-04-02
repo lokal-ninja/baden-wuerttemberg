@@ -5,7 +5,7 @@ latitude: 48.9373018
 longitude: 8.916857100000001
 postcode: 71665
 city: Vaihingen an der Enz
-street: Lugstraße
+street: "Lugstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 07:00-12:30,15:30-18:15; Tu 07:00-12:30; Sa 07:00-12:15"

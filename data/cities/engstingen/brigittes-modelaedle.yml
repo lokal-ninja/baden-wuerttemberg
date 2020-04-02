@@ -5,7 +5,7 @@ latitude: 48.3857932
 longitude: 9.3005007
 postcode: 72829
 city: Engstingen
-street: Bernlocher Straße
+street: "Bernlocher Straße"
 housenumber: 23
 phone: "+49 7129 691620"
 opening_hours: ""

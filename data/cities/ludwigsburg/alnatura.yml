@@ -5,7 +5,7 @@ latitude: 48.8934797
 longitude: 9.1871223
 postcode: 71638
 city: Ludwigsburg
-street: Myliusstraße
+street: "Myliusstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

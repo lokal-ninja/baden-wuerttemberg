@@ -5,7 +5,7 @@ latitude: 48.722343900000006
 longitude: 9.1582913
 postcode: 70567
 city: Stuttgart
-street: Widmaierstraße
+street: "Widmaierstraße"
 housenumber: 110
 phone: "+49 711 2208380"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00"

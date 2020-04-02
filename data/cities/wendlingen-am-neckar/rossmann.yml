@@ -5,7 +5,7 @@ latitude: 48.6744603
 longitude: 9.381904500000001
 postcode: 73240
 city: Wendlingen am Neckar
-street: Unterboihinger Straße
+street: "Unterboihinger Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-16:00; PH off"

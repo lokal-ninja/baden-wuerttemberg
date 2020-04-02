@@ -5,7 +5,7 @@ latitude: 48.6991091
 longitude: 9.6783363
 postcode: 73037
 city: Göppingen
-street: Ulmer Straße
+street: "Ulmer Straße"
 housenumber: 93
 phone: "+49 7161 1568285"
 opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"

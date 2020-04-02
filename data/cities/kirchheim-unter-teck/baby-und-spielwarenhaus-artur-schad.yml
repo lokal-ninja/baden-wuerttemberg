@@ -5,7 +5,7 @@ latitude: 48.648550400000005
 longitude: 9.4490683
 postcode: 73230
 city: Kirchheim unter Teck
-street: Alleenstraße
+street: "Alleenstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

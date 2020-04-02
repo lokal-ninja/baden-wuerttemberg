@@ -5,7 +5,7 @@ latitude: 48.8319965
 longitude: 9.158903500000001
 postcode: 70435
 city: Stuttgart
-street: Schwieberdinger Straße
+street: "Schwieberdinger Straße"
 housenumber: 64
 phone: ""
 opening_hours: ""

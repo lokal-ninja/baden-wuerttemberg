@@ -5,7 +5,7 @@ latitude: 49.0435535
 longitude: 9.033546600000001
 postcode: 74389
 city: Cleebronn
-street: Steuppergstraße
+street: "Steuppergstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

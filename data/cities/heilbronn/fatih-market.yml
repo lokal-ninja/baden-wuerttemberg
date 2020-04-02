@@ -5,7 +5,7 @@ latitude: 49.1545282
 longitude: 9.2196311
 postcode: 74076
 city: Heilbronn
-street: Goppeltstraße
+street: "Goppeltstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

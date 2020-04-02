@@ -5,7 +5,7 @@ latitude: 49.033107300000005
 longitude: 8.7173668
 postcode: 75015
 city: Bretten
-street: Weißhofer Straße
+street: "Weißhofer Straße"
 housenumber: 100
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.716166
 longitude: 9.296495
 postcode: 73760
 city: Ostfildern
-street: Ludwig-Jahn-Straße
+street: "Ludwig-Jahn-Straße"
 housenumber: 60
 phone: "+49 711 3002169"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"

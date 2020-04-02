@@ -5,7 +5,7 @@ latitude: 48.7857496
 longitude: 9.212753000000001
 postcode: 70188
 city: Stuttgart
-street: Abelsbergstraße
+street: "Abelsbergstraße"
 housenumber: 69
 phone: ""
 opening_hours: ""

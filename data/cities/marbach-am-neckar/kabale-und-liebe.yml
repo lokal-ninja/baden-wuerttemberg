@@ -5,7 +5,7 @@ latitude: 48.940031000000005
 longitude: 9.256612200000001
 postcode: 71672
 city: Marbach am Neckar
-street: Rathausgasse
+street: "Rathausgasse"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00"

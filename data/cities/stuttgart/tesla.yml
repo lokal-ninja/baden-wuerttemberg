@@ -5,7 +5,7 @@ latitude: 48.7751036
 longitude: 9.180859
 postcode: 70173
 city: Stuttgart
-street: Dorotheenplatz
+street: "Dorotheenplatz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-20:00"

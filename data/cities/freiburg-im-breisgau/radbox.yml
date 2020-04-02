@@ -5,7 +5,7 @@ latitude: 47.986043900000006
 longitude: 7.8497981
 postcode: 79102
 city: Freiburg im Breisgau
-street: Erwinstraße
+street: "Erwinstraße"
 housenumber: 15-17
 phone: "+4976121417788"
 opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 10:00-14:00"

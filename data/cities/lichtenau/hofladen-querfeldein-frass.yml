@@ -5,7 +5,7 @@ latitude: 48.732785400000004
 longitude: 8.009334
 postcode: 77839
 city: Lichtenau
-street: Stollhofener Straße
+street: "Stollhofener Straße"
 housenumber: 32
 phone: "+49 7227 3811"
 opening_hours: "Tu 09:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00"

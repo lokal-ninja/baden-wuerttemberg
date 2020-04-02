@@ -5,7 +5,7 @@ latitude: 48.626202500000005
 longitude: 10.0112909
 postcode: 89547
 city: Gerstetten
-street: Wallbacher Straße
+street: "Wallbacher Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.306771100000006
 longitude: 9.2389955
 postcode: 72818
 city: Trochtelfingen
-street: Kapelleschweg
+street: "Kapelleschweg"
 housenumber: 7
 phone: "+49 7124 793"
 opening_hours: "Mo-Sa 07:00-20:00"

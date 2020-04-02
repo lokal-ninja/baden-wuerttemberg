@@ -5,7 +5,7 @@ latitude: 48.7209811
 longitude: 9.1204516
 postcode: 70565
 city: Stuttgart
-street: Galileistraße
+street: "Galileistraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

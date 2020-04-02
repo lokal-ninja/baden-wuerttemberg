@@ -5,7 +5,7 @@ latitude: 47.984351100000005
 longitude: 8.817878
 postcode: 78532
 city: Tuttlingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 6
 phone: "+49 7461 2861"
 opening_hours: ""

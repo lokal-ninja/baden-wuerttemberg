@@ -5,7 +5,7 @@ latitude: 48.995163000000005
 longitude: 8.3900396
 postcode: 76137
 city: Karlsruhe
-street: Barbarossaplatz
+street: "Barbarossaplatz"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 48.0859948
 longitude: 7.944981800000001
 postcode: 79183
 city: Waldkirch
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 5
 phone: "+49 7681 5012"
 opening_hours: ""

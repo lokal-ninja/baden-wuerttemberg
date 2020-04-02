@@ -5,7 +5,7 @@ latitude: 49.291099
 longitude: 9.0826043
 postcode: 74928
 city: Hüffenhardt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 19
 phone: "+49 6268 928415"
 opening_hours: ""

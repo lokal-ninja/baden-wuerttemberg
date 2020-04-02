@@ -5,7 +5,7 @@ latitude: 48.964048600000005
 longitude: 8.2810102
 postcode: 76287
 city: Rheinstetten
-street: Hertzstraße
+street: "Hertzstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"

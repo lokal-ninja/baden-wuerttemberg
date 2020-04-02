@@ -5,7 +5,7 @@ latitude: 48.8174039
 longitude: 9.2731914
 postcode: 70736
 city: Fellbach
-street: Maicklerstraße
+street: "Maicklerstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30, Sa 06:00-13:00, Su 07:30-17:00"

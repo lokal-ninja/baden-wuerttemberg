@@ -5,7 +5,7 @@ latitude: 48.8826173
 longitude: 10.187401000000001
 postcode: 73463
 city: Westhausen
-street: Deutschordenstraße
+street: "Deutschordenstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.386742100000006
 longitude: 8.5738911
 postcode: 68723
 city: Schwetzingen
-street: Heidelberger Straße
+street: "Heidelberger Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.910660500000006
 longitude: 8.4285008
 postcode: 76275
 city: Ettlingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 65a
 phone: ""
 opening_hours: ""

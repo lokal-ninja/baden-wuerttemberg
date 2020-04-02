@@ -5,7 +5,7 @@ latitude: 47.978745800000006
 longitude: 7.895989200000001
 postcode: 79117
 city: Freiburg im Breisgau
-street: Sonnenbergstraße
+street: "Sonnenbergstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

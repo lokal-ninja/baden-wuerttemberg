@@ -5,7 +5,7 @@ latitude: 49.42365950000001
 longitude: 9.4154751
 postcode: 74706
 city: Osterburken
-street: Hans-Ulrich-Breymann-Straße
+street: "Hans-Ulrich-Breymann-Straße"
 housenumber: 23
 phone: "+49 6291 64540"
 opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"

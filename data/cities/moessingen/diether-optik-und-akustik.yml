@@ -5,7 +5,7 @@ latitude: 48.4068284
 longitude: 9.0604332
 postcode: 72116
 city: Mössingen
-street: Falltorstraße
+street: "Falltorstraße"
 housenumber: 36
 phone: "+49 7473 26260"
 opening_hours: "Mo-Fr 08:30-12:30, 14:30-18:30; Sa 08:30-12:30"

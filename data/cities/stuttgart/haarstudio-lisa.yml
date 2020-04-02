@@ -5,7 +5,7 @@ latitude: 48.7686469
 longitude: 9.1612068
 postcode: 70178
 city: Stuttgart
-street: Reinsburgstraße
+street: "Reinsburgstraße"
 housenumber: 61
 phone: "+49711621144"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"

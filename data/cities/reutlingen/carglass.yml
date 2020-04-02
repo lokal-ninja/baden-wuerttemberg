@@ -5,7 +5,7 @@ latitude: 48.495751500000004
 longitude: 9.2055249
 postcode: 72762
 city: Reutlingen
-street: Unter den Linden
+street: "Unter den Linden"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00"

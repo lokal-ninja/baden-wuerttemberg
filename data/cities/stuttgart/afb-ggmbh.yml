@@ -5,7 +5,7 @@ latitude: 48.7717746
 longitude: 9.1684158
 postcode: 70178
 city: Stuttgart
-street: Silberburgstraße
+street: "Silberburgstraße"
 housenumber: 167
 phone: "+49 711 6203098101"
 opening_hours: ""

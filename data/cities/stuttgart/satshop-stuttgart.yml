@@ -5,7 +5,7 @@ latitude: 48.7604047
 longitude: 9.160640500000001
 postcode: 70199
 city: Stuttgart
-street: Schreiberstraße
+street: "Schreiberstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

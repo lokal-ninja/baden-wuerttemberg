@@ -5,7 +5,7 @@ latitude: 48.714440800000006
 longitude: 9.1663149
 postcode: 70567
 city: Stuttgart
-street: Schelmenwasenstraße
+street: "Schelmenwasenstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

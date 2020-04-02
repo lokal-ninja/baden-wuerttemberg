@@ -5,7 +5,7 @@ latitude: 48.83491840000001
 longitude: 10.097337000000001
 postcode: 73431
 city: Aalen
-street: Wilhelm-Merz-Straße
+street: "Wilhelm-Merz-Straße"
 housenumber: 35
 phone: "+49 7361 93670"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su, PH off"

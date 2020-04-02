@@ -5,7 +5,7 @@ latitude: 48.8993296
 longitude: 8.668347500000001
 postcode: 
 city: Pforzheim
-street: Konstanzer Straße
+street: "Konstanzer Straße"
 housenumber: 3/1
 phone: ""
 opening_hours: ""

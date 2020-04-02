@@ -5,7 +5,7 @@ latitude: 48.805146400000005
 longitude: 9.5280862
 postcode: 73614
 city: Schorndorf
-street: Johann-Philipp-Palm-Straße
+street: "Johann-Philipp-Palm-Straße"
 housenumber: 6
 phone: "+49 7181 6059180"
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00; PH off"

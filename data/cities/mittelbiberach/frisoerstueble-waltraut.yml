@@ -5,7 +5,7 @@ latitude: 48.0898271
 longitude: 9.7529629
 postcode: 88441
 city: Mittelbiberach
-street: Galgenbergstraße
+street: "Galgenbergstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

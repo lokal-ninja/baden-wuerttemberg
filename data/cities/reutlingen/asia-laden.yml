@@ -5,7 +5,7 @@ latitude: 48.489670600000004
 longitude: 9.214280500000001
 postcode: 72764
 city: Reutlingen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 09:30-13:00,14:00-20:00; Sa 09:00-19:00"

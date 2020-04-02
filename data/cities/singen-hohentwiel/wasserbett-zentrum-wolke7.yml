@@ -5,7 +5,7 @@ latitude: 47.753591300000004
 longitude: 8.865442400000001
 postcode: 78224
 city: Singen (Hohentwiel)
-street: Freibühlstraße
+street: "Freibühlstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-We 09:00-18:00; Th,Fr 09:00-20:00; Sa 10:00-16:00"

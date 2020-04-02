@@ -5,7 +5,7 @@ latitude: 48.286116500000006
 longitude: 7.8181086
 postcode: 77972
 city: Mahlberg
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 06:00-12:30"

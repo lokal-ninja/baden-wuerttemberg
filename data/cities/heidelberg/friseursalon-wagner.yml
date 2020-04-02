@@ -5,7 +5,7 @@ latitude: 49.429543900000006
 longitude: 8.6814208
 postcode: 69121
 city: Heidelberg
-street: Mühlingstraße
+street: "Mühlingstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

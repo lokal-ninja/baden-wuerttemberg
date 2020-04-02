@@ -5,7 +5,7 @@ latitude: 48.9290407
 longitude: 9.639144100000001
 postcode: 73667
 city: Kaisersbach
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.411428
 longitude: 8.7086778
 postcode: 69117
 city: Heidelberg
-street: Kettengasse
+street: "Kettengasse"
 housenumber: 5
 phone: "+49 6221 20552"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 49.3335924
 longitude: 8.535222000000001
 postcode: 68766
 city: Hockenheim
-street: Duttweiler Straße
+street: "Duttweiler Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 48.3457439
 longitude: 8.405772500000001
 postcode: 72275
 city: Alpirsbach
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

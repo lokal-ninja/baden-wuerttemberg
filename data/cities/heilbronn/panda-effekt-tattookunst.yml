@@ -5,7 +5,7 @@ latitude: 49.168435800000005
 longitude: 9.197942900000001
 postcode: 74078
 city: Heilbronn
-street: Frankenbacher Straße
+street: "Frankenbacher Straße"
 housenumber: 44
 phone: ""
 opening_hours: ""

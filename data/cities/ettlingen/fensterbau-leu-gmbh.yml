@@ -5,7 +5,7 @@ latitude: 48.9423826
 longitude: 8.4044434
 postcode: 76275
 city: Ettlingen
-street: Mohrenstraße
+street: "Mohrenstraße"
 housenumber: 4
 phone: "+49 7243 12262"
 opening_hours: "Mo-Fr 09:30-12:00; Tu,Th 09:30-12:00,14:30-18:00; Sa,Su,PH off"

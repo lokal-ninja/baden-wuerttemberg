@@ -5,7 +5,7 @@ latitude: 47.572372400000006
 longitude: 8.0990987
 postcode: 79725
 city: Laufenburg (Baden)
-street: Luttinger Straße
+street: "Luttinger Straße"
 housenumber: 29
 phone: ""
 opening_hours: ""

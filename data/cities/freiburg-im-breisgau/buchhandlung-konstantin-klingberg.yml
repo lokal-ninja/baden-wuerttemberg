@@ -5,7 +5,7 @@ latitude: 47.990082
 longitude: 7.8541176
 postcode: 79102
 city: Freiburg im Breisgau
-street: Hildastraße
+street: "Hildastraße"
 housenumber: 2a
 phone: "+49 761 29083806"
 opening_hours: "Tu, Th, Fr 11:00-18:00; We 10:00-13:00; Sa 10:00-13:00"

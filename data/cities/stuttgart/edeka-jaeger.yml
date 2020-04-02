@@ -5,7 +5,7 @@ latitude: 48.6906769
 longitude: 9.1939027
 postcode: 70629
 city: Stuttgart
-street: Flughafenstraße
+street: "Flughafenstraße"
 housenumber: 100
 phone: ""
 opening_hours: "Mo-Su,PH 06:00-22:00"

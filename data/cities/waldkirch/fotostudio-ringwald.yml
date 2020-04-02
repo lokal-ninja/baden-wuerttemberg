@@ -5,7 +5,7 @@ latitude: 48.093520500000004
 longitude: 7.9605388
 postcode: 79183
 city: Waldkirch
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Th 09:00-12:30,14:00-18:00; Fr 09:00-12:30, nachmittags Termine nach Vereinbarung; Sa 09:00-13:00"

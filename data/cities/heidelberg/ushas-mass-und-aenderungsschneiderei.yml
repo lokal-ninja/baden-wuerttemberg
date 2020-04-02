@@ -5,7 +5,7 @@ latitude: 49.4172834
 longitude: 8.7613465
 postcode: 69118
 city: Heidelberg
-street: Brahmsstraße
+street: "Brahmsstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

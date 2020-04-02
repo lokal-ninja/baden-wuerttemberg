@@ -5,7 +5,7 @@ latitude: 48.4936273
 longitude: 9.390797000000001
 postcode: 72574
 city: Bad Urach
-street: Im Unterwässer
+street: "Im Unterwässer"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"

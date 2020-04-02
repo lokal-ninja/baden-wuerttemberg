@@ -5,7 +5,7 @@ latitude: 48.625066600000004
 longitude: 8.7469877
 postcode: 72218
 city: Wildberg
-street: Talstraße
+street: "Talstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.4829555
 longitude: 8.881874
 postcode: 72149
 city: Neustetten
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 95
 phone: ""
 opening_hours: "Mo-Fr 06:30-12:30, Mo,Tu,Th,Fr 14:30-18:00, Sa 06:30-13:00"

@@ -5,7 +5,7 @@ latitude: 47.812795900000005
 longitude: 9.271916000000001
 postcode: 88699
 city: Frickingen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 6
 phone: "+49 7554 241"
 opening_hours: ""

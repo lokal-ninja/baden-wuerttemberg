@@ -5,7 +5,7 @@ latitude: 47.6764224
 longitude: 9.318601000000001
 postcode: 88709
 city: Hagnau am Bodensee
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

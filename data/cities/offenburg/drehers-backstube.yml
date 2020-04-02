@@ -5,7 +5,7 @@ latitude: 48.471887900000006
 longitude: 7.943317700000001
 postcode: 77652
 city: Offenburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 31
 phone: "+49 781 6390197"
 opening_hours: ""

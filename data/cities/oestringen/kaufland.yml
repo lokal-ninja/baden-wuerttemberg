@@ -5,7 +5,7 @@ latitude: 49.2143406
 longitude: 8.693914600000001
 postcode: 76684
 city: Östringen
-street: Thomas-Howie-Straße
+street: "Thomas-Howie-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

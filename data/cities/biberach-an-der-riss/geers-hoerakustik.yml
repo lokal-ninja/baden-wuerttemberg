@@ -5,7 +5,7 @@ latitude: 48.097599100000004
 longitude: 9.7889893
 postcode: 88400
 city: Biberach an der Riß
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa nach Vereinbarung"

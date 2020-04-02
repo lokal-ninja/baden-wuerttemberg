@@ -5,7 +5,7 @@ latitude: 47.873808000000004
 longitude: 7.6471162
 postcode: 79423
 city: Heitersheim
-street: Beiersdorfstraße
+street: "Beiersdorfstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.459545000000006
 longitude: 9.1031524
 postcode: 72810
 city: Gomaringen
-street: Ohmenhäuser Straße
+street: "Ohmenhäuser Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 48.876730200000004
 longitude: 9.3501217
 postcode: 71409
 city: Schwaikheim
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 12
 phone: "+4971952093797"
 opening_hours: ""

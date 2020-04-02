@@ -5,7 +5,7 @@ latitude: 48.0618412
 longitude: 8.538394700000001
 postcode: 78054
 city: Villingen-Schwenningen
-street: Alte Herdstraße
+street: "Alte Herdstraße"
 housenumber: 25
 phone: "+497720955955"
 opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; PH off"

@@ -5,7 +5,7 @@ latitude: 49.142002600000005
 longitude: 9.1918687
 postcode: 74080
 city: Heilbronn
-street: Hans-Multscher-Straße
+street: "Hans-Multscher-Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

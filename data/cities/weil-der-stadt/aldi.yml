@@ -5,7 +5,7 @@ latitude: 48.75782340000001
 longitude: 8.8680649
 postcode: 71263
 city: Weil der Stadt
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

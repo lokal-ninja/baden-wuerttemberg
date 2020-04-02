@@ -5,7 +5,7 @@ latitude: 48.5485138
 longitude: 8.7273827
 postcode: 72202
 city: Nagold
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo 13:00-18:30;Tu-Fr 09:30-18:30;Sa 09:00-16:00"

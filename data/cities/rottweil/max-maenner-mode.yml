@@ -5,7 +5,7 @@ latitude: 48.167090200000004
 longitude: 8.6279564
 postcode: 78628
 city: Rottweil
-street: Hochbrücktorstraße
+street: "Hochbrücktorstraße"
 housenumber: 11
 phone: "+49 7423 6024"
 opening_hours: ""

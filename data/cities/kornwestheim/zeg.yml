@@ -5,7 +5,7 @@ latitude: 48.873311900000004
 longitude: 9.1752076
 postcode: 70806
 city: Kornwestheim
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

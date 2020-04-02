@@ -5,7 +5,7 @@ latitude: 49.4099036
 longitude: 8.6331097
 postcode: 
 city: Eppelheim
-street: Dr.-Eckener-Straße
+street: "Dr.-Eckener-Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-16:00"

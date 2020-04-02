@@ -5,7 +5,7 @@ latitude: 47.854024
 longitude: 8.771520500000001
 postcode: 78234
 city: Engen
-street: Peterstraße
+street: "Peterstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Fr 14:00-18:00; Sa 10:00-12:30"

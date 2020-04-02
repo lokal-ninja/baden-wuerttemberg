@@ -5,7 +5,7 @@ latitude: 49.009305100000006
 longitude: 8.421702400000001
 postcode: 76131
 city: Karlsruhe
-street: Ludwig-Wilhelm-Straße
+street: "Ludwig-Wilhelm-Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Tu-Fr 16:00-22:00; Sa 10:00-14:00"

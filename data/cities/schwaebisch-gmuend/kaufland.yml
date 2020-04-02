@@ -5,7 +5,7 @@ latitude: 48.8041497
 longitude: 9.8392386
 postcode: 73527
 city: Schwäbisch Gmünd
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00, Ph off"

@@ -5,7 +5,7 @@ latitude: 48.7404682
 longitude: 9.3178043
 postcode: 73728
 city: Esslingen am Neckar
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 72
 phone: "+49-0711-318 0880"
 opening_hours: "Mo-Tu,Th-Fr 08:00-18:00; Sa 08:30-13:30"

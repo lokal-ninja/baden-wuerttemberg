@@ -5,7 +5,7 @@ latitude: 47.791333300000005
 longitude: 9.6216349
 postcode: 88212
 city: Ravensburg
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 85
 phone: "+49 751 23319"
 opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:30-13:30"

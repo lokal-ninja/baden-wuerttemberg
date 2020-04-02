@@ -5,7 +5,7 @@ latitude: 49.287362900000005
 longitude: 9.7089123
 postcode: 74653
 city: Künzelsau
-street: Steinbacher Weg
+street: "Steinbacher Weg"
 housenumber: 35
 phone: ""
 opening_hours: "Mo 08:30-13:00,17:00-19:00; Tu,We 17:00-19:00; Tu 08:30-19:00; Fr 15:00-19:00; Sa 08:30-13:00"

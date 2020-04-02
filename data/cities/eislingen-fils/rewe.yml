@@ -5,7 +5,7 @@ latitude: 48.6973836
 longitude: 9.717067
 postcode: 73054
 city: Eislingen/Fils
-street: Salacher Straße
+street: "Salacher Straße"
 housenumber: 85
 phone: "+49 7161 987265"
 opening_hours: "Mo-Sa 07:00-22:00"

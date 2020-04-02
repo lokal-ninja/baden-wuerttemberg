@@ -5,7 +5,7 @@ latitude: 48.2194318
 longitude: 10.069258000000001
 postcode: 89165
 city: Dietenheim
-street: Räuchlestraße
+street: "Räuchlestraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

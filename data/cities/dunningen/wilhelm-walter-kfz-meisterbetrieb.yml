@@ -5,7 +5,7 @@ latitude: 48.241032700000005
 longitude: 8.494431
 postcode: 78655
 city: Dunningen
-street: Unterbergenweg
+street: "Unterbergenweg"
 housenumber: 11
 phone: "+49 7402 8153"
 opening_hours: ""

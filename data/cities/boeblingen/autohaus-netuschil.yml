@@ -5,7 +5,7 @@ latitude: 48.682481900000006
 longitude: 8.9976831
 postcode: 71034
 city: Böblingen
-street: Herrenberger Straße
+street: "Herrenberger Straße"
 housenumber: 60
 phone: ""
 opening_hours: ""

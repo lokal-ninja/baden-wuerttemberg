@@ -5,7 +5,7 @@ latitude: 48.8795061
 longitude: 8.3360198
 postcode: 76316
 city: Malsch
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 40
 phone: "+49 175 7633106"
 opening_hours: "Fr 14:00-18:00; Sa 10:00-12:00 || Sa und nach Vereinbarung"

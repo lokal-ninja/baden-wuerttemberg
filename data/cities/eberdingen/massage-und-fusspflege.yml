@@ -5,7 +5,7 @@ latitude: 48.8943803
 longitude: 8.939166100000001
 postcode: 71735
 city: Eberdingen
-street: Martinstraße
+street: "Martinstraße"
 housenumber: 4
 phone: "+49 7042 3767795"
 opening_hours: ""

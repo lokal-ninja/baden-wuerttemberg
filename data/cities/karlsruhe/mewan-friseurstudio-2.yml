@@ -5,7 +5,7 @@ latitude: 49.0104831
 longitude: 8.398554800000001
 postcode: 76133
 city: Karlsruhe
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

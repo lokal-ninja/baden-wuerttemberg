@@ -5,7 +5,7 @@ latitude: 49.341754200000004
 longitude: 8.667769700000001
 postcode: 69181
 city: Leimen
-street: Leimbachstraße
+street: "Leimbachstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

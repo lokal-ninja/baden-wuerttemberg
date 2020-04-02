@@ -5,7 +5,7 @@ latitude: 49.4943262
 longitude: 9.7727895
 postcode: 97980
 city: Bad Mergentheim
-street: Johann-Hammer-Straße
+street: "Johann-Hammer-Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.784507500000004
 longitude: 9.1902345
 postcode: 70182
 city: Stuttgart
-street: Kernerstraße
+street: "Kernerstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 10:00-21:00"

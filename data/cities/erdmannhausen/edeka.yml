@@ -5,7 +5,7 @@ latitude: 48.9411879
 longitude: 9.296254600000001
 postcode: 71729
 city: Erdmannhausen
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 6
 phone: "+49 7144 34834"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.038433700000006
 longitude: 8.674151700000001
 postcode: 75015
 city: Bretten
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

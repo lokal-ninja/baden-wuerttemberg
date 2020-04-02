@@ -5,7 +5,7 @@ latitude: 48.4377445
 longitude: 9.9728521
 postcode: 89081
 city: Ulm
-street: Junginger Straße
+street: "Junginger Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-20:00"

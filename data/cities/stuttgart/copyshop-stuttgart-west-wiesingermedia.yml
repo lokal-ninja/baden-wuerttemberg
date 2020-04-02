@@ -5,7 +5,7 @@ latitude: 48.783905700000005
 longitude: 9.1638824
 postcode: 70174
 city: Stuttgart
-street: Hegelstraße
+street: "Hegelstraße"
 housenumber: 48
 phone: "+49 0711 28464257"
 opening_hours: "Mo-Fr 09:00-18:00"

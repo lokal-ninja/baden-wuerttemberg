@@ -5,7 +5,7 @@ latitude: 48.5943461
 longitude: 8.8603725
 postcode: 71083
 city: Herrenberg
-street: Kalkofenstraße
+street: "Kalkofenstraße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 47.9994814
 longitude: 7.7901942
 postcode: 79111
 city: Freiburg im Breisgau
-street: Maxim-Gorkij-Straße
+street: "Maxim-Gorkij-Straße"
 housenumber: 21
 phone: ""
 opening_hours: "08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 47.673152300000005
 longitude: 8.1606283
 postcode: 79809
 city: Weilheim
-street: Gupfenstraße
+street: "Gupfenstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

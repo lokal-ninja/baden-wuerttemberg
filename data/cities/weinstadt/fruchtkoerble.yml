@@ -5,7 +5,7 @@ latitude: 48.80995050000001
 longitude: 9.3649555
 postcode: 71384
 city: Weinstadt
-street: Schafgasse
+street: "Schafgasse"
 housenumber: 11A
 phone: "+49 7151 967848"
 opening_hours: ""

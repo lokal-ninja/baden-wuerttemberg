@@ -5,7 +5,7 @@ latitude: 48.8410385
 longitude: 9.1982788
 postcode: 70437
 city: Stuttgart
-street: Kirchäckerstraße
+street: "Kirchäckerstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 06:30-13:00,14:30-18:00; Sa 06:30-12:30; Su 08:00-11:00"

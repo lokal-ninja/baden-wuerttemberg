@@ -5,7 +5,7 @@ latitude: 49.3921432
 longitude: 8.631986900000001
 postcode: 69214
 city: Eppelheim
-street: Rudolf-Wild-Straße
+street: "Rudolf-Wild-Straße"
 housenumber: 84
 phone: ""
 opening_hours: ""

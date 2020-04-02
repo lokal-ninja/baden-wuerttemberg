@@ -5,7 +5,7 @@ latitude: 47.9968659
 longitude: 8.828451300000001
 postcode: 78532
 city: Tuttlingen
-street: Carl-Zeiss-Straße
+street: "Carl-Zeiss-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

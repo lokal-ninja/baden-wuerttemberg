@@ -5,7 +5,7 @@ latitude: 47.9965179
 longitude: 8.8296858
 postcode: 78532
 city: Tuttlingen
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 28/2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1492555
 longitude: 8.6396212
 postcode: 78628
 city: Rottweil
-street: Saline
+street: "Saline"
 housenumber: 5
 phone: "+49 741 209000"
 opening_hours: "Mo-Sa 07:00-22:00"

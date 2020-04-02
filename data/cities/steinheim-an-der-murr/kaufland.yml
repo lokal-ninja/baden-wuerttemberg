@@ -5,7 +5,7 @@ latitude: 48.9695763
 longitude: 9.2666117
 postcode: 71711
 city: Steinheim an der Murr
-street: Steinbeisstraße
+street: "Steinbeisstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 47.8075306
 longitude: 9.641939200000001
 postcode: 88250
 city: Weingarten
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Tu,Th-Fr 09:00-18:00; We 08:30-18:00; Sa 09:00-14:00; PH off"

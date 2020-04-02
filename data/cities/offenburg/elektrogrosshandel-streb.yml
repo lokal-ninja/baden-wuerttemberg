@@ -5,7 +5,7 @@ latitude: 48.475342500000004
 longitude: 7.940727600000001
 postcode: 77652
 city: Offenburg
-street: Gaswerkstraße
+street: "Gaswerkstraße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Th 07:00-17:00+; Fr 07:00-15:00"

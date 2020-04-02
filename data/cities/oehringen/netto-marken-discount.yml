@@ -5,7 +5,7 @@ latitude: 49.2033891
 longitude: 9.5043728
 postcode: 74613
 city: Öhringen
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

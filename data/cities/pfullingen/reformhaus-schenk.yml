@@ -5,7 +5,7 @@ latitude: 48.4648356
 longitude: 9.2262287
 postcode: 72793
 city: Pfullingen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.4917096
 longitude: 9.3998045
 postcode: 72574
 city: Bad Urach
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-13:00, Su,PH off"

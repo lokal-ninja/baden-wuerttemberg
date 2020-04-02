@@ -5,7 +5,7 @@ latitude: 49.332140900000006
 longitude: 8.4467168
 postcode: 67346
 city: Speyer
-street: Im Geißhorn
+street: "Im Geißhorn"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 47.964831700000005
 longitude: 7.9545978
 postcode: 79199
 city: Kirchzarten
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 8
 phone: "+49 7661 908134"
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"

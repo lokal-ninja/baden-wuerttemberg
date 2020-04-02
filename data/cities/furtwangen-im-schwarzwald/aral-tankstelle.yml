@@ -5,7 +5,7 @@ latitude: 48.046650400000004
 longitude: 8.1972267
 postcode: 78120
 city: Furtwangen im Schwarzwald
-street: Bregstraße
+street: "Bregstraße"
 housenumber: 40a
 phone: ""
 opening_hours: "Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00"

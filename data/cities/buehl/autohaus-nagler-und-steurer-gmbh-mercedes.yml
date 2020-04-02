@@ -5,7 +5,7 @@ latitude: 48.710334
 longitude: 8.126706
 postcode: 77815
 city: Bühl
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 8
 phone: "+49 7223 8083830"
 opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-12:00"

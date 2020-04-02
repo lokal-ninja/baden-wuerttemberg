@@ -5,7 +5,7 @@ latitude: 48.9476797
 longitude: 9.430361900000001
 postcode: 71522
 city: Backnang
-street: Uhlandstraße
+street: "Uhlandstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

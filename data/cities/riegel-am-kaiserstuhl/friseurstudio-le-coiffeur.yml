@@ -5,7 +5,7 @@ latitude: 48.1504558
 longitude: 7.750668200000001
 postcode: 79359
 city: Riegel am Kaiserstuhl
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

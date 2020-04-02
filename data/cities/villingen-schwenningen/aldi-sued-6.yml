@@ -5,7 +5,7 @@ latitude: 48.0612586
 longitude: 8.5321987
 postcode: 78054
 city: Villingen-Schwenningen
-street: Bärenstraße
+street: "Bärenstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Dec 24 Mo-Sa 08:00-14:00; PH off"

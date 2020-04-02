@@ -5,7 +5,7 @@ latitude: 49.1513398
 longitude: 8.718250900000001
 postcode: 76703
 city: Kraichtal
-street: Jedermannstraße
+street: "Jedermannstraße"
 housenumber: 2
 phone: "+49 7259 432"
 opening_hours: "Mo-Fr"

@@ -5,7 +5,7 @@ latitude: 48.5094131
 longitude: 7.980142300000001
 postcode: 77770
 city: Durbach
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

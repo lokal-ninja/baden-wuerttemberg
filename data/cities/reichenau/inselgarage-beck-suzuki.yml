@@ -5,7 +5,7 @@ latitude: 47.693577100000006
 longitude: 9.069661100000001
 postcode: 78479
 city: Reichenau
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 2a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.618520600000004
 longitude: 10.0241775
 postcode: 89547
 city: Gerstetten
-street: Ulmer Straße
+street: "Ulmer Straße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 06:00-19:00; Sa,Su 06:00-18:00"

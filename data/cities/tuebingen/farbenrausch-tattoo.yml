@@ -5,7 +5,7 @@ latitude: 48.504519300000005
 longitude: 9.050661400000001
 postcode: 72072
 city: Tübingen
-street: Jurastraße
+street: "Jurastraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 12:00-18:00"

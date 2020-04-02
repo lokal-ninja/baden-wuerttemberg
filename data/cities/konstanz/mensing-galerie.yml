@@ -5,7 +5,7 @@ latitude: 47.6604017
 longitude: 9.1755052
 postcode: 78462
 city: Konstanz
-street: Marktstätte
+street: "Marktstätte"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00"

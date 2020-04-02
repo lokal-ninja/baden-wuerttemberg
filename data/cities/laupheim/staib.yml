@@ -5,7 +5,7 @@ latitude: 48.227059800000006
 longitude: 9.877844300000001
 postcode: 88471
 city: Laupheim
-street: Biberacher Straße
+street: "Biberacher Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 06:30-19:00; Su 07:00-19:00"

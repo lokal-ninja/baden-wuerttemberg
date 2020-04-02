@@ -5,7 +5,7 @@ latitude: 49.034401800000005
 longitude: 8.6813748
 postcode: 75015
 city: Bretten
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 08:00-11:00"

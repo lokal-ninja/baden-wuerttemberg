@@ -5,7 +5,7 @@ latitude: 48.469321300000004
 longitude: 7.944123500000001
 postcode: 77652
 city: Offenburg
-street: Steinstraße
+street: "Steinstraße"
 housenumber: 3
 phone: "+49 25515"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"

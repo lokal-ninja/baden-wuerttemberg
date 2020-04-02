@@ -5,7 +5,7 @@ latitude: 49.330507600000004
 longitude: 8.5496763
 postcode: 68766
 city: Hockenheim
-street: Ernst-Brauch-Straße
+street: "Ernst-Brauch-Straße"
 housenumber: 70
 phone: ""
 opening_hours: ""

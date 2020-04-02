@@ -5,7 +5,7 @@ latitude: 48.768396100000004
 longitude: 9.177848000000001
 postcode: 70180
 city: Stuttgart
-street: Mozartstraße
+street: "Mozartstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

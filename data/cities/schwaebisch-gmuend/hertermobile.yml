@@ -5,7 +5,7 @@ latitude: 48.801757900000005
 longitude: 9.797539500000001
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Kappelgasse
+street: "Kappelgasse"
 housenumber: 7
 phone: ""
 opening_hours: ""

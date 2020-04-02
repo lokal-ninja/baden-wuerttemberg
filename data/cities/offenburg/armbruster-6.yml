@@ -5,7 +5,7 @@ latitude: 48.4754731
 longitude: 7.985412500000001
 postcode: 77654
 city: Offenburg
-street: Weinstraße
+street: "Weinstraße"
 housenumber: 19
 phone: "+49 781 9480013"
 opening_hours: "Mo-Fr 06:00-17:30, Sa 06:30-12:00, Su 08:00-11:00"

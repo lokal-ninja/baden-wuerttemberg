@@ -5,7 +5,7 @@ latitude: 47.981509100000004
 longitude: 7.890149500000001
 postcode: 79117
 city: Freiburg im Breisgau
-street: Kunzenweg
+street: "Kunzenweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

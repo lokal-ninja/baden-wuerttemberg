@@ -5,7 +5,7 @@ latitude: 48.730295500000004
 longitude: 9.3295346
 postcode: 73730
 city: Esslingen am Neckar
-street: Plochinger Straße
+street: "Plochinger Straße"
 housenumber: 116
 phone: ""
 opening_hours: "07:30 -18:00"

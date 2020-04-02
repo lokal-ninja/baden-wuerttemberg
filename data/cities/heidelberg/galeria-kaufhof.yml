@@ -5,7 +5,7 @@ latitude: 49.4088111
 longitude: 8.693670000000001
 postcode: 69115
 city: Heidelberg
-street: Bergheimer Straße
+street: "Bergheimer Straße"
 housenumber: 1
 phone: "+49 6221 9160"
 opening_hours: "Mo-Sa 09:30-20:00"

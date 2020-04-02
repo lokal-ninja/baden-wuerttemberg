@@ -5,7 +5,7 @@ latitude: 48.631720200000004
 longitude: 10.149681600000001
 postcode: 89542
 city: Herbrechtingen
-street: Herbrechtinger Straße
+street: "Herbrechtinger Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

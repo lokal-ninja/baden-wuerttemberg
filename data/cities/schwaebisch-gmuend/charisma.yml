@@ -5,7 +5,7 @@ latitude: 48.801716000000006
 longitude: 9.795390000000001
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Ledergasse
+street: "Ledergasse"
 housenumber: 8
 phone: "+497171 37026"
 opening_hours: ""

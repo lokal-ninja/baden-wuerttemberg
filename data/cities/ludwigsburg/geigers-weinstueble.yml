@@ -5,7 +5,7 @@ latitude: 48.9120986
 longitude: 9.280272100000001
 postcode: 71642
 city: Ludwigsburg
-street: Holzweg
+street: "Holzweg"
 housenumber: 80
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.777771200000004
 longitude: 9.1688919
 postcode: 70174
 city: Stuttgart
-street: Leuschnerstraße
+street: "Leuschnerstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:30; Sa 10:00-16:00"

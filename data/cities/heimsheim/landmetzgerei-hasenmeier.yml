@@ -5,7 +5,7 @@ latitude: 48.8045234
 longitude: 8.8664743
 postcode: 71296
 city: Heimsheim
-street: Leonberger Straße
+street: "Leonberger Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Tu-Fr 08:30-13:00; Tu,Th,Fr 15:00-18:00; Sa 08:00-12:30"

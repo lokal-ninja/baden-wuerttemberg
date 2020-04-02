@@ -5,7 +5,7 @@ latitude: 48.075275600000005
 longitude: 9.946235000000001
 postcode: 
 city: Ochsenhausen
-street: Güterbahnhof
+street: "Güterbahnhof"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.753399900000005
 longitude: 9.2428767
 postcode: 70619
 city: Stuttgart
-street: Riederstraße
+street: "Riederstraße"
 housenumber: 8
 phone: "+49 0711 427289"
 opening_hours: "Mo-Fr 16:00-19:00;Sa 09:00-12:00;PH off"

@@ -5,7 +5,7 @@ latitude: 48.2596026
 longitude: 9.2300073
 postcode: 72501
 city: Gammertingen
-street: Eichertstraße
+street: "Eichertstraße"
 housenumber: 69
 phone: "+49 176 473 181 66"
 opening_hours: ""

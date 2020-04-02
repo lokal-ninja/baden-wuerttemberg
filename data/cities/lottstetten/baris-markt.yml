@@ -5,7 +5,7 @@ latitude: 47.6268716
 longitude: 8.5725312
 postcode: 79807
 city: Lottstetten
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 45
 phone: "+49 7745 927 26 30"
 opening_hours: "Mo-Sa 08:00-20:00"

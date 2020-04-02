@@ -5,7 +5,7 @@ latitude: 49.690497500000006
 longitude: 9.395826000000001
 postcode: 63930
 city: Neunkirchen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 1
 phone: "+499378 99694"
 opening_hours: ""

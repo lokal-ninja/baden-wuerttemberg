@@ -5,7 +5,7 @@ latitude: 48.387433300000005
 longitude: 9.2887065
 postcode: 72829
 city: Engstingen
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

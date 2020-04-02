@@ -5,7 +5,7 @@ latitude: 48.7919344
 longitude: 9.184782
 postcode: 70191
 city: Stuttgart
-street: Wolframstraße
+street: "Wolframstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

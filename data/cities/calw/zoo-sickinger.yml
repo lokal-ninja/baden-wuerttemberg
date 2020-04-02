@@ -5,7 +5,7 @@ latitude: 48.717054700000006
 longitude: 8.736669800000001
 postcode: 75365
 city: Calw
-street: In der Insel
+street: "In der Insel"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

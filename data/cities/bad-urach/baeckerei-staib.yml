@@ -5,7 +5,7 @@ latitude: 48.4945597
 longitude: 9.3980417
 postcode: 72574
 city: Bad Urach
-street: Gebrüder-Gross-Straße
+street: "Gebrüder-Gross-Straße"
 housenumber: 2
 phone: "+49 7125 9690855"
 opening_hours: "Mo-Sa 07:00-19:00,PH off"

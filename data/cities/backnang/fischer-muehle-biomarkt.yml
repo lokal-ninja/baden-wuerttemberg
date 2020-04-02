@@ -5,7 +5,7 @@ latitude: 48.9469052
 longitude: 9.4338162
 postcode: 71522
 city: Backnang
-street: Annonay-Straße
+street: "Annonay-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

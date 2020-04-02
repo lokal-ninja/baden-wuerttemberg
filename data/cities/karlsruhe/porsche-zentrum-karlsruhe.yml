@@ -5,7 +5,7 @@ latitude: 48.991618200000005
 longitude: 8.372044500000001
 postcode: 76135
 city: Karlsruhe
-street: Schenkenburgstraße
+street: "Schenkenburgstraße"
 housenumber: 1
 phone: "+49 721 1201911"
 opening_hours: ""

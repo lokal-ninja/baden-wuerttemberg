@@ -5,7 +5,7 @@ latitude: 48.6652654
 longitude: 7.9405571
 postcode: 
 city: Rheinau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 19
 phone: "+49 7844 98927"
 opening_hours: ""

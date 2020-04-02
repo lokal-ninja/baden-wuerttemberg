@@ -5,7 +5,7 @@ latitude: 48.6382641
 longitude: 10.153738500000001
 postcode: 89542
 city: Bolheim
-street: Heidenheimer Straße
+street: "Heidenheimer Straße"
 housenumber: 80-82
 phone: ""
 opening_hours: ""

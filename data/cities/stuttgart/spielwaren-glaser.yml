@@ -5,7 +5,7 @@ latitude: 48.8046627
 longitude: 9.213835900000001
 postcode: 70372
 city: Stuttgart
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 43
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

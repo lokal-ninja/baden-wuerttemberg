@@ -5,7 +5,7 @@ latitude: 48.89218210000001
 longitude: 9.183998
 postcode: 71636
 city: Ludwigsburg
-street: Pflugfelder Straße
+street: "Pflugfelder Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Su,PH 06:00-21:00"

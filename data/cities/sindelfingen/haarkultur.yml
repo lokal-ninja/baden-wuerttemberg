@@ -5,7 +5,7 @@ latitude: 48.707278300000006
 longitude: 9.004421
 postcode: 71065
 city: Sindelfingen
-street: Böblinger Straße
+street: "Böblinger Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

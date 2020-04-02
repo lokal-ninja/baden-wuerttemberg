@@ -5,7 +5,7 @@ latitude: 48.514464600000004
 longitude: 9.0689828
 postcode: 72072
 city: Tübingen
-street: Hügelstraße
+street: "Hügelstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; PH off"

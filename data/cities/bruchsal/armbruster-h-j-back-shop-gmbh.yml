@@ -5,7 +5,7 @@ latitude: 49.1401612
 longitude: 8.5619443
 postcode: 76646
 city: Bruchsal
-street: Am Mantel
+street: "Am Mantel"
 housenumber: 9
 phone: "+49 7251 3049251"
 opening_hours: "Mo-Sa 08:00-22:00"

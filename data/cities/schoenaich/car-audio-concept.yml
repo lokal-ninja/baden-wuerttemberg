@@ -5,7 +5,7 @@ latitude: 48.66798360000001
 longitude: 9.0676289
 postcode: 71101
 city: Schönaich
-street: Dornierstraße
+street: "Dornierstraße"
 housenumber: 22
 phone: "+49 7031 655663"
 opening_hours: "Mo-Fr 09:00-13:00,15:00-19:00; Sa 09:00-14:00; Su,PH off"

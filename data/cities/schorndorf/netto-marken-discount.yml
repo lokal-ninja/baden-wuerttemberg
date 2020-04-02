@@ -5,7 +5,7 @@ latitude: 48.803478500000004
 longitude: 9.535949800000001
 postcode: 73614
 city: Schorndorf
-street: Göppinger Straße
+street: "Göppinger Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

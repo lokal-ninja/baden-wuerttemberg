@@ -5,7 +5,7 @@ latitude: 48.6726806
 longitude: 8.1165328
 postcode: 77833
 city: Ottersweier
-street: Hägenichstraße
+street: "Hägenichstraße"
 housenumber: 4
 phone: "+49 7223 910597"
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 48.8003282
 longitude: 9.833138
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Mühlweg
+street: "Mühlweg"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:30; Sa 09:30-18:00; Su, PH off"

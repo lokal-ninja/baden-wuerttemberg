@@ -5,7 +5,7 @@ latitude: 47.985523500000006
 longitude: 7.805537
 postcode: 79114
 city: Freiburg im Breisgau
-street: Carl-Mez-Straße
+street: "Carl-Mez-Straße"
 housenumber: 75
 phone: "+49 761 3844725"
 opening_hours: ""

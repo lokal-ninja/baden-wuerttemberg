@@ -5,7 +5,7 @@ latitude: 47.688263000000006
 longitude: 9.8369905
 postcode: 88239
 city: Wangen im Allgäu
-street: Scherrichmühlweg
+street: "Scherrichmühlweg"
 housenumber: 10
 phone: "+49 7522 21292"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.149346400000006
 longitude: 9.4819534
 postcode: 88499
 city: Riedlingen
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

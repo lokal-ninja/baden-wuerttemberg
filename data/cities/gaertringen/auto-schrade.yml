@@ -5,7 +5,7 @@ latitude: 48.625475300000005
 longitude: 8.9207684
 postcode: 71116
 city: Gärtringen
-street: Seestraße
+street: "Seestraße"
 housenumber: 3/1
 phone: ""
 opening_hours: ""

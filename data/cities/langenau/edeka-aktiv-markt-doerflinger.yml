@@ -5,7 +5,7 @@ latitude: 48.493878800000005
 longitude: 10.119112600000001
 postcode: 89129
 city: Langenau
-street: Angertorstraße
+street: "Angertorstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

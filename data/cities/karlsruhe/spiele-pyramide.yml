@@ -5,7 +5,7 @@ latitude: 49.0081737
 longitude: 8.4103983
 postcode: 76133
 city: Karlsruhe
-street: Fritz-Erler-Straße
+street: "Fritz-Erler-Straße"
 housenumber: 9
 phone: "+49 721 8514443"
 opening_hours: "Mo-Fr 10:30-19:00; Sa 10:30-17:00"

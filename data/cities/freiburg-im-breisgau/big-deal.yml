@@ -5,7 +5,7 @@ latitude: 48.012047200000005
 longitude: 7.824243300000001
 postcode: 79110
 city: Freiburg im Breisgau
-street: Rufacher Straße
+street: "Rufacher Straße"
 housenumber: 7
 phone: "+49 761 89759640"
 opening_hours: "Tu-Fr 13:00-18:00; Sa 10:00-16:00"

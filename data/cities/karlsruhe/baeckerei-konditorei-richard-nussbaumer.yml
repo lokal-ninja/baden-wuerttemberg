@@ -5,7 +5,7 @@ latitude: 49.005314000000006
 longitude: 8.501351300000001
 postcode: 76229
 city: Karlsruhe
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-12:00"

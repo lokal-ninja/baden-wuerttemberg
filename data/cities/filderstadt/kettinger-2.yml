@@ -5,7 +5,7 @@ latitude: 48.648557100000005
 longitude: 9.246533300000001
 postcode: 70794
 city: Filderstadt
-street: Harthäuser Hauptstraße
+street: "Harthäuser Hauptstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

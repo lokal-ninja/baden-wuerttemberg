@@ -5,7 +5,7 @@ latitude: 48.809706500000004
 longitude: 9.564749800000001
 postcode: 73660
 city: Urbach
-street: Wasenstraße
+street: "Wasenstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

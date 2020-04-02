@@ -5,7 +5,7 @@ latitude: 47.6521531
 longitude: 7.565284500000001
 postcode: 
 city: Efringen-Kirchen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

@@ -5,7 +5,7 @@ latitude: 48.061548900000005
 longitude: 8.5313747
 postcode: 78054
 city: Villingen-Schwenningen
-street: Harzerstraße
+street: "Harzerstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off; Dec 24 Mo-Fr 08:00-14:00"

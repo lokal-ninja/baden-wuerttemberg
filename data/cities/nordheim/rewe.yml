@@ -5,7 +5,7 @@ latitude: 49.1066439
 longitude: 9.119679000000001
 postcode: 74226
 city: Nordheim
-street: Zimmerer Höhe
+street: "Zimmerer Höhe"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

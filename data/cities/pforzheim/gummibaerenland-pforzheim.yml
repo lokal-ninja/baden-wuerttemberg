@@ -5,7 +5,7 @@ latitude: 48.901700500000004
 longitude: 8.662491300000001
 postcode: 75179
 city: Pforzheim
-street: Karlsruher Straße
+street: "Karlsruher Straße"
 housenumber: 24a
 phone: "+49-7231-352287"
 opening_hours: "Mo-Fr 09:00-19:00, Sa 10:00-18:00"

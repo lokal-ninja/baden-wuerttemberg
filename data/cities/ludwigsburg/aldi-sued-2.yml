@@ -5,7 +5,7 @@ latitude: 48.879688800000004
 longitude: 9.218967600000001
 postcode: 71638
 city: Ludwigsburg
-street: Aldinger Straße
+street: "Aldinger Straße"
 housenumber: 170
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

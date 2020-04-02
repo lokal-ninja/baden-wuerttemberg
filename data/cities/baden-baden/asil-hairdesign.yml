@@ -5,7 +5,7 @@ latitude: 48.7611069
 longitude: 8.2395894
 postcode: 76530
 city: Baden-Baden
-street: Luisenstraße
+street: "Luisenstraße"
 housenumber: 1
 phone: "+49 7221 32560"
 opening_hours: "Termin nach Vereinbarung"

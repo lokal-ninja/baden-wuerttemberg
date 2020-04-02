@@ -5,7 +5,7 @@ latitude: 48.4976308
 longitude: 9.199643
 postcode: 72760
 city: Reutlingen
-street: Emil-Adolff-Straße
+street: "Emil-Adolff-Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su off; PH off"

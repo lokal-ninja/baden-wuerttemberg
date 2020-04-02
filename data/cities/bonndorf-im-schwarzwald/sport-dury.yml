@@ -5,7 +5,7 @@ latitude: 47.8201127
 longitude: 8.3386162
 postcode: 79848
 city: Bonndorf im Schwarzwald
-street: Martinstraße
+street: "Martinstraße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-13:00"

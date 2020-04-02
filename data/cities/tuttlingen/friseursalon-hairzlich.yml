@@ -5,7 +5,7 @@ latitude: 47.983697400000004
 longitude: 8.816373500000001
 postcode: 78532
 city: Tuttlingen
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 12
 phone: "+49 7461 73850"
 opening_hours: ""

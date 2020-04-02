@@ -5,7 +5,7 @@ latitude: 48.8268518
 longitude: 9.069128000000001
 postcode: 71254
 city: Ditzingen
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 17
 phone: "+49 7156 8871"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 07:30-10:30"

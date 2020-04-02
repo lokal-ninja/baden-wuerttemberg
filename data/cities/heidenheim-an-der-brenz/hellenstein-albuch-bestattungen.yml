@@ -5,7 +5,7 @@ latitude: 48.6787405
 longitude: 10.108899300000001
 postcode: 89518
 city: Heidenheim an der Brenz
-street: Stubentalstraße
+street: "Stubentalstraße"
 housenumber: 60
 phone: "+49 7321 279417"
 opening_hours: ""

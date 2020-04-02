@@ -5,7 +5,7 @@ latitude: 48.48164310000001
 longitude: 7.936406000000001
 postcode: 77652
 city: Offenburg
-street: Im Seewinkel
+street: "Im Seewinkel"
 housenumber: 26
 phone: ""
 opening_hours: ""

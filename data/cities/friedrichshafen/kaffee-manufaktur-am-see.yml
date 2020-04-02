@@ -5,7 +5,7 @@ latitude: 47.677185200000004
 longitude: 9.4217071
 postcode: 88048
 city: Friedrichshafen
-street: Dornierstraße
+street: "Dornierstraße"
 housenumber: 147/1
 phone: ""
 opening_hours: ""

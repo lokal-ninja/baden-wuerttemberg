@@ -5,7 +5,7 @@ latitude: 49.122857100000004
 longitude: 8.5916814
 postcode: 76646
 city: Bruchsal
-street: Moltkestraße
+street: "Moltkestraße"
 housenumber: 4
 phone: "+49 7251 83579"
 opening_hours: ""

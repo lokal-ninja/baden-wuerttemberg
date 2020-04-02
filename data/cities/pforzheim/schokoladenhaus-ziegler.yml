@@ -5,7 +5,7 @@ latitude: 48.892275700000006
 longitude: 8.6972956
 postcode: 
 city: Pforzheim
-street: Museumstraße
+street: "Museumstraße"
 housenumber: 4
 phone: "+49 7231 312510"
 opening_hours: ""

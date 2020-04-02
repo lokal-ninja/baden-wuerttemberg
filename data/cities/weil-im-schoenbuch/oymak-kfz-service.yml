@@ -5,7 +5,7 @@ latitude: 48.6196308
 longitude: 9.041153900000001
 postcode: 71093
 city: Weil im Schönbuch
-street: Karl-Benz-Straße
+street: "Karl-Benz-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00"

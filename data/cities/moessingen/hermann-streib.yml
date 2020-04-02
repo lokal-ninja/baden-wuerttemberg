@@ -5,7 +5,7 @@ latitude: 48.4104784
 longitude: 9.056948100000001
 postcode: 72116
 city: Mössingen
-street: Karl-Jaggy-Straße
+street: "Karl-Jaggy-Straße"
 housenumber: 43
 phone: "+49 7473 5728"
 opening_hours: "Tu-Fr 08:00-12:00; Sa 08:00-14:30"

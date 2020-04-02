@@ -5,7 +5,7 @@ latitude: 48.9466515
 longitude: 9.4364618
 postcode: 71522
 city: Backnang
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

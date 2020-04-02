@@ -5,7 +5,7 @@ latitude: 48.509554200000004
 longitude: 9.0430179
 postcode: 72072
 city: Tübingen
-street: Europastraße
+street: "Europastraße"
 housenumber: 57
 phone: "+49 7071 797 60-0"
 opening_hours: ""

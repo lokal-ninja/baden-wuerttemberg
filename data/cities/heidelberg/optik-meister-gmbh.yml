@@ -5,7 +5,7 @@ latitude: 49.408136500000005
 longitude: 8.6909389
 postcode: 69115
 city: Heidelberg
-street: Poststraße
+street: "Poststraße"
 housenumber: 14
 phone: "+49 6221 26008"
 opening_hours: ""

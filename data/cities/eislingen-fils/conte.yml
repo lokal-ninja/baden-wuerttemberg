@@ -5,7 +5,7 @@ latitude: 48.6930053
 longitude: 9.7094158
 postcode: 73054
 city: Eislingen/Fils
-street: Ulmer Straße
+street: "Ulmer Straße"
 housenumber: 32
 phone: "+49 7161 815404"
 opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.5052207
 longitude: 9.18068
 postcode: 72770
 city: Reutlingen
-street: Klopstockstraße
+street: "Klopstockstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

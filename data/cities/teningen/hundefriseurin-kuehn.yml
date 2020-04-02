@@ -5,7 +5,7 @@ latitude: 48.1053549
 longitude: 7.7762577
 postcode: 79331
 city: Teningen
-street: Langstraße
+street: "Langstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

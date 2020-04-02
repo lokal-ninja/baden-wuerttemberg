@@ -5,7 +5,7 @@ latitude: 48.5206285
 longitude: 8.32205
 postcode: 72270
 city: Baiersbronn
-street: Alfredstraße
+street: "Alfredstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

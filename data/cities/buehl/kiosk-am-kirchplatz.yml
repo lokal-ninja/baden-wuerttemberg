@@ -5,7 +5,7 @@ latitude: 48.6961127
 longitude: 8.134603700000001
 postcode: 77815
 city: Bühl
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.434837300000005
 longitude: 8.7069278
 postcode: 72160
 city: Horb am Neckar
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.679759700000005
 longitude: 9.1626344
 postcode: 78467
 city: Konstanz
-street: Joseph-Belli-Weg
+street: "Joseph-Belli-Weg"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-16:00; Su 09:00-12:00"

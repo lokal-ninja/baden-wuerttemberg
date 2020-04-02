@@ -5,7 +5,7 @@ latitude: 48.0594911
 longitude: 8.460919800000001
 postcode: 78050
 city: Villingen-Schwenningen
-street: Bickenstraße
+street: "Bickenstraße"
 housenumber: 6
 phone: "+49 - 7721 - 9800-0"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"

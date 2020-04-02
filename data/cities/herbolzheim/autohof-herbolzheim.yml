@@ -5,7 +5,7 @@ latitude: 48.2270818
 longitude: 7.7540886
 postcode: 79336
 city: Herbolzheim
-street: Breisgauallee
+street: "Breisgauallee"
 housenumber: 2
 phone: "+49 7643 91100"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.743393600000005
 longitude: 9.340413400000001
 postcode: 73732
 city: Esslingen am Neckar
-street: Esslinger Straße
+street: "Esslinger Straße"
 housenumber: 4
 phone: "+49 711 371294"
 opening_hours: "Mo 08:00-12:30,14:30-18:00; Tu 08:00-12:30; We-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:30; Su off"

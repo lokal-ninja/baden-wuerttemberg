@@ -5,7 +5,7 @@ latitude: 48.663139400000006
 longitude: 9.3618722
 postcode: 72669
 city: Unterensingen
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 64
 phone: "+49 (7022) 9662-0"
 opening_hours: ""

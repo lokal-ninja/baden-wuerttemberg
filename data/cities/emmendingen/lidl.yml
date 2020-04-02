@@ -5,7 +5,7 @@ latitude: 48.111245800000006
 longitude: 7.865425
 postcode: 79312
 city: Emmendingen
-street: Kollmarsreuter Straße
+street: "Kollmarsreuter Straße"
 housenumber: 55/1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.7947877
 longitude: 9.705561300000001
 postcode: 73547
 city: Lorch
-street: Ziegelwaldstraße
+street: "Ziegelwaldstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00; PH off"

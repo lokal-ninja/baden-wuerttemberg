@@ -5,7 +5,7 @@ latitude: 48.474114400000005
 longitude: 8.932486500000001
 postcode: 72108
 city: Rottenburg am Neckar
-street: Kirchgasse
+street: "Kirchgasse"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:30,14:00-18:30; Sa 08:00-13:00"

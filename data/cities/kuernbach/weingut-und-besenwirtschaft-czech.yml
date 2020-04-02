@@ -5,7 +5,7 @@ latitude: 49.07777
 longitude: 8.841354800000001
 postcode: 75057
 city: Kürnbach
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

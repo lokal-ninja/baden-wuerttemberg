@@ -5,7 +5,7 @@ latitude: 47.700456800000005
 longitude: 9.5613164
 postcode: 88074
 city: Meckenbeuren
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 5
 phone: "+49754215 08"
 opening_hours: "Mo-Fr 08:30-12:30,14:00-18:30; Sa 08:00-14:00"

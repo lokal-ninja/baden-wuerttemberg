@@ -5,7 +5,7 @@ latitude: 48.0674848
 longitude: 7.8859342
 postcode: 79211
 city: Denzlingen
-street: Schwarzwaldstraße
+street: "Schwarzwaldstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-18:00"

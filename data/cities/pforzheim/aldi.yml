@@ -5,7 +5,7 @@ latitude: 48.892147900000005
 longitude: 8.6702294
 postcode: 
 city: Pforzheim
-street: Kurze Steig
+street: "Kurze Steig"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

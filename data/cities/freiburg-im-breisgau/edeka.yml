@@ -5,7 +5,7 @@ latitude: 47.996149700000004
 longitude: 7.8371626
 postcode: 79106
 city: Freiburg im Breisgau
-street: Engelbergerstraße
+street: "Engelbergerstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

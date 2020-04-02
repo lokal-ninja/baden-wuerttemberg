@@ -5,7 +5,7 @@ latitude: 48.720483900000005
 longitude: 8.0013799
 postcode: 
 city: Lichtenau
-street: Gänsweg
+street: "Gänsweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

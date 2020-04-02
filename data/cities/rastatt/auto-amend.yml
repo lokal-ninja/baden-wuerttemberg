@@ -5,7 +5,7 @@ latitude: 48.859176000000005
 longitude: 8.2320515
 postcode: 76437
 city: Rastatt
-street: Woogseestraße
+street: "Woogseestraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.1938425
 longitude: 8.0345136
 postcode: 79215
 city: Biederbach
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

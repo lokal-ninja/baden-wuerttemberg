@@ -5,7 +5,7 @@ latitude: 49.0092707
 longitude: 8.443773700000001
 postcode: 76131
 city: Karlsruhe
-street: Weinweg
+street: "Weinweg"
 housenumber: 20
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.136563100000004
 longitude: 9.2212551
 postcode: 74072
 city: Heilbronn
-street: Urbanstraße
+street: "Urbanstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

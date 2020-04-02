@@ -5,7 +5,7 @@ latitude: 48.5827425
 longitude: 8.005885600000001
 postcode: 77871
 city: Renchen
-street: Schwarzwaldstraße
+street: "Schwarzwaldstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

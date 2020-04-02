@@ -5,7 +5,7 @@ latitude: 48.7625813
 longitude: 8.243680600000001
 postcode: 76530
 city: Baden-Baden
-street: Sophienstraße
+street: "Sophienstraße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"

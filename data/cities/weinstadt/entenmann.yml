@@ -5,7 +5,7 @@ latitude: 48.812248200000006
 longitude: 9.364094600000001
 postcode: 71384
 city: Weinstadt
-street: Strümpfelbacher Straße
+street: "Strümpfelbacher Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 09:30-14:00"

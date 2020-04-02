@@ -5,7 +5,7 @@ latitude: 47.7195064
 longitude: 9.3931894
 postcode: 88677
 city: Markdorf
-street: Ravensburger Straße
+street: "Ravensburger Straße"
 housenumber: 28
 phone: "+49 7544 71912"
 opening_hours: ""

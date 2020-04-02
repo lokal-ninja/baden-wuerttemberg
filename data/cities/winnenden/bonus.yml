@@ -5,7 +5,7 @@ latitude: 48.865344300000004
 longitude: 9.3829986
 postcode: 71364
 city: Winnenden
-street: Forststraße
+street: "Forststraße"
 housenumber: 42
 phone: ""
 opening_hours: "Mo - Fr 08:00 - 21:00; Sa 08:00 - 18:00"

@@ -5,7 +5,7 @@ latitude: 49.1514588
 longitude: 9.198563
 postcode: 74080
 city: Heilbronn
-street: Neckargartacher Straße
+street: "Neckargartacher Straße"
 housenumber: 120
 phone: "+49 7131 121410"
 opening_hours: "Mo-Sa 10:00-19:00"

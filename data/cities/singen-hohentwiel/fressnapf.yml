@@ -5,7 +5,7 @@ latitude: 47.7486971
 longitude: 8.849465700000001
 postcode: 78224
 city: Singen (Hohentwiel)
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.401297500000005
 longitude: 9.5052897
 postcode: 74747
 city: Ravenstein
-street: Eschenweg
+street: "Eschenweg"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"

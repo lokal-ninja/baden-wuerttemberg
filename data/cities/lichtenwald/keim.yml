@@ -5,7 +5,7 @@ latitude: 48.754807500000005
 longitude: 9.4860045
 postcode: 73669
 city: Lichtenwald
-street: Am freien Feld
+street: "Am freien Feld"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-11:00"

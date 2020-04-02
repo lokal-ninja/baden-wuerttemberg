@@ -5,7 +5,7 @@ latitude: 49.4864632
 longitude: 8.4550718
 postcode: 68159
 city: Mannheim
-street: Schleusenweg
+street: "Schleusenweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

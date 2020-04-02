@@ -5,7 +5,7 @@ latitude: 48.845305700000004
 longitude: 8.541158600000001
 postcode: 75334
 city: Straubenhardt
-street: Bernsteinstraße
+street: "Bernsteinstraße"
 housenumber: 6
 phone: "+49 7082 50001"
 opening_hours: ""

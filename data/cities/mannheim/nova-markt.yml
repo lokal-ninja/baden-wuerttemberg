@@ -5,7 +5,7 @@ latitude: 49.5138693
 longitude: 8.542424800000001
 postcode: 68309
 city: Mannheim
-street: Rudolstadter Weg
+street: "Rudolstadter Weg"
 housenumber: 14
 phone: "+49 621 3214394"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00; PH off"

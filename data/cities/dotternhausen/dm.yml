@@ -5,7 +5,7 @@ latitude: 48.2327992
 longitude: 8.7938614
 postcode: 72359
 city: Dotternhausen
-street: Robert-Koch-Straße
+street: "Robert-Koch-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

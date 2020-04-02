@@ -5,7 +5,7 @@ latitude: 48.061018100000005
 longitude: 9.8297761
 postcode: 88444
 city: Ummendorf
-street: Schweinhauser Straße
+street: "Schweinhauser Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

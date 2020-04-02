@@ -5,7 +5,7 @@ latitude: 48.6214237
 longitude: 9.5520894
 postcode: 73235
 city: Weilheim an der Teck
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

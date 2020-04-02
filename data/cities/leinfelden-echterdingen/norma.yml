@@ -5,7 +5,7 @@ latitude: 48.683807400000006
 longitude: 9.1650489
 postcode: 70771
 city: Leinfelden-Echterdingen
-street: Tübinger Straße
+street: "Tübinger Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

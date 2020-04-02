@@ -5,7 +5,7 @@ latitude: 48.769444
 longitude: 9.1546239
 postcode: 70197
 city: Stuttgart
-street: Seyfferstraße
+street: "Seyfferstraße"
 housenumber: 27
 phone: "+49 711 627279"
 opening_hours: "Mo,We,Fr 08:30-20:00; Tu,Th,Sa 09:30-20:00"

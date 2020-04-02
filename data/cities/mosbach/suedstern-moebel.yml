@@ -5,7 +5,7 @@ latitude: 49.3443118
 longitude: 9.124111000000001
 postcode: 74821
 city: Mosbach
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 13
 phone: "+49 6261 2195"
 opening_hours: ""

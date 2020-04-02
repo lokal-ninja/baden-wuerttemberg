@@ -5,7 +5,7 @@ latitude: 48.886897600000005
 longitude: 8.3286577
 postcode: 76316
 city: Malsch
-street: Sézanner Straße
+street: "Sézanner Straße"
 housenumber: 40
 phone: "+49 7246 8168"
 opening_hours: ""

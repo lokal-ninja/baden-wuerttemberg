@@ -5,7 +5,7 @@ latitude: 48.7308527
 longitude: 9.247365400000001
 postcode: 73760
 city: Ostfildern
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 42
 phone: "+49 711 44009723"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.476773200000004
 longitude: 8.9337143
 postcode: 72108
 city: Rottenburg am Neckar
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

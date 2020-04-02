@@ -5,7 +5,7 @@ latitude: 48.398892000000004
 longitude: 8.9761792
 postcode: 72411
 city: Bodelshausen
-street: Amselweg
+street: "Amselweg"
 housenumber: 17
 phone: ""
 opening_hours: ""

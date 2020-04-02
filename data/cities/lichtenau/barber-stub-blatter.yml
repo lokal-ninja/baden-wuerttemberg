@@ -5,7 +5,7 @@ latitude: 48.7257764
 longitude: 8.0086175
 postcode: 77839
 city: Lichtenau
-street: Pfarrstraße
+street: "Pfarrstraße"
 housenumber: 2
 phone: "+49 7227 2311"
 opening_hours: ""

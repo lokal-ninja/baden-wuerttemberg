@@ -5,7 +5,7 @@ latitude: 48.497185200000004
 longitude: 9.0426806
 postcode: 72072
 city: Tübingen
-street: Weinbergstraße
+street: "Weinbergstraße"
 housenumber: 100
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00"

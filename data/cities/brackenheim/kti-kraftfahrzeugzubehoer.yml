@@ -5,7 +5,7 @@ latitude: 49.066663000000005
 longitude: 9.068261600000001
 postcode: 74336
 city: Brackenheim
-street: Biegelstraße
+street: "Biegelstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:00,13:00-18:00; Sa 07:30-13:00; PH off"

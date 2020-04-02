@@ -5,7 +5,7 @@ latitude: 48.003912500000006
 longitude: 8.7788383
 postcode: 78573
 city: Wurmlingen
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

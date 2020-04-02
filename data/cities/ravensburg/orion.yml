@@ -5,7 +5,7 @@ latitude: 47.780374200000004
 longitude: 9.6060643
 postcode: 88214
 city: Ravensburg
-street: Ziegelstraße
+street: "Ziegelstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00"

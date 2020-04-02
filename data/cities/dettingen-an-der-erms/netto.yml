@@ -5,7 +5,7 @@ latitude: 48.5273454
 longitude: 9.347293
 postcode: 72581
 city: Dettingen an der Erms
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 82
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

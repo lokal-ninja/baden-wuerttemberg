@@ -5,7 +5,7 @@ latitude: 48.638012800000006
 longitude: 8.0594977
 postcode: 77855
 city: Achern
-street: Von-Drais-Straße
+street: "Von-Drais-Straße"
 housenumber: 4
 phone: "+49 7841 5064"
 opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 09:00-13:00"

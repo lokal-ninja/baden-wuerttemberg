@@ -5,7 +5,7 @@ latitude: 48.402915300000004
 longitude: 10.0003288
 postcode: 89073
 city: Ulm
-street: Schwambergerstraße
+street: "Schwambergerstraße"
 housenumber: 3
 phone: "+49 731 715162"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.863456400000004
 longitude: 10.342327500000001
 postcode: 73441
 city: Bopfingen
-street: Aalener Straße
+street: "Aalener Straße"
 housenumber: 58
 phone: ""
 opening_hours: ""

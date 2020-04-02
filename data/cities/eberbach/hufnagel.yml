@@ -5,7 +5,7 @@ latitude: 49.472275700000004
 longitude: 8.986682100000001
 postcode: 69412
 city: Eberbach
-street: Ohrsbergweg
+street: "Ohrsbergweg"
 housenumber: 9
 phone: ""
 opening_hours: ""

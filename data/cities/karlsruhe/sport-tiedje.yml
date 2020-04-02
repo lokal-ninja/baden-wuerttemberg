@@ -5,7 +5,7 @@ latitude: 49.0056646
 longitude: 8.3824433
 postcode: 76135
 city: Karlsruhe
-street: Kriegsstraße
+street: "Kriegsstraße"
 housenumber: 220
 phone: "+49 721 14540020"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH,Su closed"

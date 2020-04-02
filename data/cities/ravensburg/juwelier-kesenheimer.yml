@@ -5,7 +5,7 @@ latitude: 47.783002
 longitude: 9.612146300000001
 postcode: 88212
 city: Ravensburg
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

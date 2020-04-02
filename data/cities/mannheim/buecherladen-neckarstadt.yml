@@ -5,7 +5,7 @@ latitude: 49.4962761
 longitude: 8.4805703
 postcode: 68167
 city: Mannheim
-street: Uhlandstraße
+street: "Uhlandstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-13:00"

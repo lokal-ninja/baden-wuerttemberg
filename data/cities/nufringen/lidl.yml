@@ -5,7 +5,7 @@ latitude: 48.633159400000004
 longitude: 8.8989566
 postcode: 71154
 city: Nufringen
-street: Ferdinand-Porsche-Straße
+street: "Ferdinand-Porsche-Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; PH off"

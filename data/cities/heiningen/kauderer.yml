@@ -5,7 +5,7 @@ latitude: 48.6542948
 longitude: 9.6488835
 postcode: 73092
 city: Heiningen
-street: Riedstraße
+street: "Riedstraße"
 housenumber: 3
 phone: "+49 7161 9875082"
 opening_hours: "Mo-Fr 05:30-19:00; Sa 08:00-17:00; Su 09:00-17:00"

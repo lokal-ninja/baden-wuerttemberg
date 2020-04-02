@@ -5,7 +5,7 @@ latitude: 49.3529983
 longitude: 8.6834938
 postcode: 69181
 city: Leimen
-street: Lübecker Straße
+street: "Lübecker Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

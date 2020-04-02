@@ -5,7 +5,7 @@ latitude: 49.425378200000004
 longitude: 8.6851699
 postcode: 69121
 city: Heidelberg
-street: Rottmannstraße
+street: "Rottmannstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Tu-Th 09:00-18:30; Fr 09:00-20:00; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 48.5735632
 longitude: 9.678862500000001
 postcode: 73342
 city: Bad Ditzenbach
-street: Neue Steige
+street: "Neue Steige"
 housenumber: 2
 phone: ""
 opening_hours: ""

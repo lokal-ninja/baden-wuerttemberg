@@ -5,7 +5,7 @@ latitude: 48.299305800000006
 longitude: 9.9897162
 postcode: 89195
 city: Staig
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 15
 phone: "+49 7346 5151"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 07:30-13:30"

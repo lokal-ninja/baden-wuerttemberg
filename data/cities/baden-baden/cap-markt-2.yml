@@ -5,7 +5,7 @@ latitude: 48.729086900000006
 longitude: 8.1621042
 postcode: 76534
 city: Baden-Baden
-street: Steinbacher Straße
+street: "Steinbacher Straße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-16:00"

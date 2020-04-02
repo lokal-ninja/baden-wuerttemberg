@@ -5,7 +5,7 @@ latitude: 49.051372
 longitude: 9.184653800000001
 postcode: 74382
 city: Neckarwestheim
-street: Falkenstraße
+street: "Falkenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

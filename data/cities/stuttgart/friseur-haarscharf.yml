@@ -5,7 +5,7 @@ latitude: 48.785428700000004
 longitude: 9.1932448
 postcode: 70190
 city: Stuttgart
-street: Landhausstraße
+street: "Landhausstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

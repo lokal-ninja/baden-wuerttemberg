@@ -5,7 +5,7 @@ latitude: 47.8957971
 longitude: 7.6237405
 postcode: 79427
 city: Eschbach
-street: Max-Immelmann-Allee
+street: "Max-Immelmann-Allee"
 housenumber: 10c
 phone: ""
 opening_hours: ""

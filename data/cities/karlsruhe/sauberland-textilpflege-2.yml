@@ -5,7 +5,7 @@ latitude: 49.004777000000004
 longitude: 8.4482897
 postcode: 76137
 city: Karlsruhe
-street: Durlacher Allee
+street: "Durlacher Allee"
 housenumber: 111
 phone: "+49 721 617783"
 opening_hours: "Mo-Sa 08:00-20:00"

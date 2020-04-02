@@ -5,7 +5,7 @@ latitude: 48.080313600000004
 longitude: 9.781742000000001
 postcode: 88400
 city: Biberach an der Riß
-street: Amriswilstraße
+street: "Amriswilstraße"
 housenumber: 49
 phone: "+49 7351 5296626"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00"

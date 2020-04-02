@@ -5,7 +5,7 @@ latitude: 48.786798700000006
 longitude: 8.9937675
 postcode: 71229
 city: Leonberg
-street: Hertichstraße
+street: "Hertichstraße"
 housenumber: 81
 phone: "+49 7152 901660"
 opening_hours: ""

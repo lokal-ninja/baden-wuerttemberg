@@ -5,7 +5,7 @@ latitude: 49.191309700000005
 longitude: 9.223049600000001
 postcode: 74172
 city: Neckarsulm
-street: Urbanstraße
+street: "Urbanstraße"
 housenumber: 12
 phone: "+49 7132 3869464"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"

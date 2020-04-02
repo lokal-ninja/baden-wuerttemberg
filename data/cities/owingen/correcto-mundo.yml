@@ -5,7 +5,7 @@ latitude: 47.8107514
 longitude: 9.175403300000001
 postcode: 
 city: Owingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 58
 phone: ""
 opening_hours: ""

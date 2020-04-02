@@ -5,7 +5,7 @@ latitude: 48.5620859
 longitude: 9.3410633
 postcode: 72664
 city: Kohlberg
-street: Erscheckweg
+street: "Erscheckweg"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 06:00-13:00; Sa 06:00-12:00; Su 08:00-11:00"

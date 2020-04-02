@@ -5,7 +5,7 @@ latitude: 49.1688616
 longitude: 9.2033728
 postcode: 74078
 city: Heilbronn
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 2/1
 phone: "+49 1704964023"
 opening_hours: ""

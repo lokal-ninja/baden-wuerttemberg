@@ -5,7 +5,7 @@ latitude: 48.890163300000005
 longitude: 8.6644477
 postcode: 75179
 city: Pforzheim
-street: Dietlinger Straße
+street: "Dietlinger Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

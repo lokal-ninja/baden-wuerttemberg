@@ -5,7 +5,7 @@ latitude: 48.189669200000004
 longitude: 8.355201300000001
 postcode: 78144
 city: Schramberg
-street: Am Unterschiltacher Weg
+street: "Am Unterschiltacher Weg"
 housenumber: 6
 phone: "+49 7729 8484"
 opening_hours: ""

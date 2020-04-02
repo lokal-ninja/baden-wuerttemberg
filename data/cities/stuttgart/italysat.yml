@@ -5,7 +5,7 @@ latitude: 48.809281000000006
 longitude: 9.209531400000001
 postcode: 70376
 city: Stuttgart
-street: Haldenstraße
+street: "Haldenstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

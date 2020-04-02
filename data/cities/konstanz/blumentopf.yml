@@ -5,7 +5,7 @@ latitude: 47.714550800000005
 longitude: 9.1723906
 postcode: 78465
 city: Konstanz
-street: Martin-Schleyer-Straße
+street: "Martin-Schleyer-Straße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:00,14:30-18:00; We 08:30-12:00; Sa 08:30-12:30"

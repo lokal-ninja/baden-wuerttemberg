@@ -5,7 +5,7 @@ latitude: 49.3486361
 longitude: 8.985002900000001
 postcode: 74858
 city: Aglasterhausen
-street: Im Oberen Tal
+street: "Im Oberen Tal"
 housenumber: 16
 phone: "+49 6262 959985"
 opening_hours: "Apr-Aug: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00; Su,PH off; Sep-Mar: Tu-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00; Mo,Su,PH off"

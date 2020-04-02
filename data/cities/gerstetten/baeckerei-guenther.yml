@@ -5,7 +5,7 @@ latitude: 48.623071700000004
 longitude: 10.018051
 postcode: 89547
 city: Gerstetten
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 6
 phone: ""
 opening_hours: "mo-fr06:30-18:00 sa 06:30-12:30"

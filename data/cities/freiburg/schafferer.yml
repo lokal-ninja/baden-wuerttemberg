@@ -5,7 +5,7 @@ latitude: 47.9944148
 longitude: 7.849244100000001
 postcode: 79098
 city: Freiburg
-street: Kaiser-Joseph-Straße
+street: "Kaiser-Joseph-Straße"
 housenumber: 236
 phone: "+49 761 5158200"
 opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-19:00"

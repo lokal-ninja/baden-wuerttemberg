@@ -5,7 +5,7 @@ latitude: 47.911632600000004
 longitude: 9.8917283
 postcode: 88410
 city: Bad Wurzach
-street: Oberriedstraße
+street: "Oberriedstraße"
 housenumber: 4
 phone: "+49-7564-9323-0"
 opening_hours: ""

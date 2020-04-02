@@ -5,7 +5,7 @@ latitude: 48.80772
 longitude: 9.388179300000001
 postcode: 
 city: Weinstadt
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

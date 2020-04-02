@@ -5,7 +5,7 @@ latitude: 48.618502500000005
 longitude: 10.2505427
 postcode: 89537
 city: Giengen an der Brenz
-street: Gerschweiler Straße
+street: "Gerschweiler Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

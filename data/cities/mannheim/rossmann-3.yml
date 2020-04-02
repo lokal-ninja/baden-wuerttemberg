@@ -5,7 +5,7 @@ latitude: 49.472665400000004
 longitude: 8.4717876
 postcode: 68163
 city: Mannheim
-street: Lindenhofstraße
+street: "Lindenhofstraße"
 housenumber: 91
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

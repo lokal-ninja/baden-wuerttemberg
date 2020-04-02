@@ -5,7 +5,7 @@ latitude: 48.0940427
 longitude: 7.960518700000001
 postcode: 79183
 city: Waldkirch
-street: Engelstraße
+street: "Engelstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

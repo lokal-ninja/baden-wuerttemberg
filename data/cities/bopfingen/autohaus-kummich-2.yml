@@ -5,7 +5,7 @@ latitude: 48.855829400000005
 longitude: 10.360851
 postcode: 73441
 city: Bopfingen
-street: Neue Nördlinger Straße
+street: "Neue Nördlinger Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

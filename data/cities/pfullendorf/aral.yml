@@ -5,7 +5,7 @@ latitude: 47.927863900000006
 longitude: 9.2431593
 postcode: 88630
 city: Pfullendorf
-street: Überlinger Straße
+street: "Überlinger Straße"
 housenumber: 58
 phone: "+49 7552 8625"
 opening_hours: "24/7"

@@ -5,7 +5,7 @@ latitude: 48.9562164
 longitude: 9.144039600000001
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Geisinger Straße
+street: "Geisinger Straße"
 housenumber: 65
 phone: "+49 7142 90160"
 opening_hours: "Mo-Sa 08:00-20:00"

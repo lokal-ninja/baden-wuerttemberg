@@ -5,7 +5,7 @@ latitude: 49.136538300000005
 longitude: 8.5924174
 postcode: 76646
 city: Bruchsal
-street: Stegwiesenstraße
+street: "Stegwiesenstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

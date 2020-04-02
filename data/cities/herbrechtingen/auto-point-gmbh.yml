@@ -5,7 +5,7 @@ latitude: 48.630455500000004
 longitude: 10.1629348
 postcode: 
 city: Herbrechtingen
-street: Schlosserstraße
+street: "Schlosserstraße"
 housenumber: 7
 phone: "+49 7324 9607-0"
 opening_hours: ""

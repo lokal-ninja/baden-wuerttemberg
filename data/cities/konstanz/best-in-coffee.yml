@@ -5,7 +5,7 @@ latitude: 47.674315
 longitude: 9.1509821
 postcode: 78467
 city: Konstanz
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.036652800000006
 longitude: 8.6992613
 postcode: 75015
 city: Bretten
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 43
 phone: ""
 opening_hours: ""

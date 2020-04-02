@@ -5,7 +5,7 @@ latitude: 48.982127500000004
 longitude: 8.3245512
 postcode: 76287
 city: Rheinstetten
-street: Franz-Joseph-Buss-Straße
+street: "Franz-Joseph-Buss-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

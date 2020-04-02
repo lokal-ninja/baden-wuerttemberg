@@ -5,7 +5,7 @@ latitude: 48.897636000000006
 longitude: 9.18919
 postcode: 71634
 city: Ludwigsburg
-street: Körnerstraße
+street: "Körnerstraße"
 housenumber: 12
 phone: "+4971417963935"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00; PH off"

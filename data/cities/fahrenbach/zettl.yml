@@ -5,7 +5,7 @@ latitude: 49.4392384
 longitude: 9.164625800000001
 postcode: 74864
 city: Fahrenbach
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

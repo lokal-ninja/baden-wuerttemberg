@@ -5,7 +5,7 @@ latitude: 49.521464
 longitude: 9.3258778
 postcode: 74722
 city: Buchen (Odenwald)
-street: Kellereistraße
+street: "Kellereistraße"
 housenumber: 11
 phone: "+49 6281 8987"
 opening_hours: "Mo-Tu,Th-Fr 08:00-18:00; We 08:00-12:00; Sa 07:45-13:00"

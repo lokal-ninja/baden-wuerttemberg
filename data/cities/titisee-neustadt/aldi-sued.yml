@@ -5,7 +5,7 @@ latitude: 47.923195500000006
 longitude: 8.190079500000001
 postcode: 79822
 city: Titisee-Neustadt
-street: Freiburger Straße
+street: "Freiburger Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 48.08699480000001
 longitude: 9.2150928
 postcode: 72488
 city: Sigmaringen
-street: Fürst-Wilhelm-Straße
+street: "Fürst-Wilhelm-Straße"
 housenumber: 38
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.394287500000004
 longitude: 8.5659074
 postcode: 68723
 city: Schwetzingen
-street: Friedrichsfelder Straße
+street: "Friedrichsfelder Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

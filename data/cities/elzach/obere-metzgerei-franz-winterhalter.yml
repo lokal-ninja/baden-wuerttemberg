@@ -5,7 +5,7 @@ latitude: 48.173442900000005
 longitude: 8.071584
 postcode: 79215
 city: Elzach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.5045871
 longitude: 9.058605
 postcode: 72072
 city: Tübingen
-street: Hechinger Straße
+street: "Hechinger Straße"
 housenumber: 130
 phone: "+49 7071 73536"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-14:00"

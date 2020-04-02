@@ -5,7 +5,7 @@ latitude: 49.5048656
 longitude: 8.603862600000001
 postcode: 68542
 city: Heddesheim
-street: Oberdorfstraße
+street: "Oberdorfstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

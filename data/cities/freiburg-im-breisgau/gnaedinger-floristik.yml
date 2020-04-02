@@ -5,7 +5,7 @@ latitude: 48.0125243
 longitude: 7.8093291
 postcode: 79110
 city: Freiburg im Breisgau
-street: Sundgauallee
+street: "Sundgauallee"
 housenumber: 118
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00-13:00"

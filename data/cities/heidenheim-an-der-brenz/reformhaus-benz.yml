@@ -5,7 +5,7 @@ latitude: 48.6794695
 longitude: 10.153013900000001
 postcode: 89518
 city: Heidenheim an der Brenz
-street: Olgastraße
+street: "Olgastraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.063080500000005
 longitude: 9.005176
 postcode: 74363
 city: Güglingen
-street: Emil-Weber-Straße
+street: "Emil-Weber-Straße"
 housenumber: 25
 phone: "+49 7135 9360600"
 opening_hours: ""

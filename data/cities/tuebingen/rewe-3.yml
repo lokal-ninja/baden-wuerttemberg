@@ -5,7 +5,7 @@ latitude: 48.516311300000005
 longitude: 9.0586409
 postcode: 72072
 city: Tübingen
-street: Europaplatz
+street: "Europaplatz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

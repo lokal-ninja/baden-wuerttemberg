@@ -5,7 +5,7 @@ latitude: 49.355637300000005
 longitude: 8.6804878
 postcode: 69181
 city: Leimen
-street: Olpenitzer Straße
+street: "Olpenitzer Straße"
 housenumber: 
 phone: "+49-6224-766223"
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.143532
 longitude: 9.1256454
 postcode: 74211
 city: Leingarten
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 54
 phone: "+49 7131 2797851"
 opening_hours: ""

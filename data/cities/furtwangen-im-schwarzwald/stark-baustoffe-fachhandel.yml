@@ -5,7 +5,7 @@ latitude: 48.058641800000004
 longitude: 8.201928800000001
 postcode: 78120
 city: Furtwangen im Schwarzwald
-street: Luisenstraße
+street: "Luisenstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

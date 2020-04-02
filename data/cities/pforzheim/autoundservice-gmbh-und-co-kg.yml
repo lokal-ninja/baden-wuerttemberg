@@ -5,7 +5,7 @@ latitude: 48.886253100000005
 longitude: 8.754979500000001
 postcode: 75181
 city: Pforzheim
-street: Gablonzer Straße
+street: "Gablonzer Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

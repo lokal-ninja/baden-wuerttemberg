@@ -5,7 +5,7 @@ latitude: 48.8153139
 longitude: 9.369223100000001
 postcode: 71384
 city: Weinstadt
-street: Birkelstraße
+street: "Birkelstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Th 09:00-12:30, 14:30-18:30; Fr 09:00-18:30; Sa 09:00-16:00; Su, PH off"

@@ -5,7 +5,7 @@ latitude: 49.000774500000006
 longitude: 8.410293900000001
 postcode: 76137
 city: Karlsruhe
-street: Luisenstraße
+street: "Luisenstraße"
 housenumber: 68
 phone: ""
 opening_hours: ""

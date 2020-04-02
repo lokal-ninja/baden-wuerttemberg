@@ -5,7 +5,7 @@ latitude: 48.809418
 longitude: 8.980689700000001
 postcode: 71229
 city: Leonberg
-street: Carl-Zeiss-Straße
+street: "Carl-Zeiss-Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

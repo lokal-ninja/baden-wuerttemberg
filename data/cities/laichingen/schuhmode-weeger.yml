@@ -5,7 +5,7 @@ latitude: 48.4764179
 longitude: 9.6309588
 postcode: 89150
 city: Laichingen
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 101-103
 phone: "+49 7333 7014"
 opening_hours: ""

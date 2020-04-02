@@ -5,7 +5,7 @@ latitude: 48.6857532
 longitude: 9.8023322
 postcode: 73072
 city: Donzdorf
-street: Wagnerstraße
+street: "Wagnerstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00; PH off"

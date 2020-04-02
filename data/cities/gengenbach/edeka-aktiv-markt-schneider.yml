@@ -5,7 +5,7 @@ latitude: 48.4131413
 longitude: 8.006283
 postcode: 77723
 city: Gengenbach
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 2
 phone: "+49 7803 926190"
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.0454305
 longitude: 7.644777800000001
 postcode: 79241
 city: Ihringen
-street: Breisacherstraße
+street: "Breisacherstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

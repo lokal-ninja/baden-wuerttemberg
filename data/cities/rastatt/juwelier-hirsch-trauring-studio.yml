@@ -5,7 +5,7 @@ latitude: 48.857934400000005
 longitude: 8.2058401
 postcode: 76437
 city: Rastatt
-street: Poststraße
+street: "Poststraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-16:00"

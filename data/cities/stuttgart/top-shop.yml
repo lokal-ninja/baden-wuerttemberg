@@ -5,7 +5,7 @@ latitude: 48.7804498
 longitude: 9.2029627
 postcode: 70186
 city: Stuttgart
-street: Wagenburgstraße
+street: "Wagenburgstraße"
 housenumber: 92
 phone: "+49 711 50484807"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-17:00"

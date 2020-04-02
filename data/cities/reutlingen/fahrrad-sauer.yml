@@ -5,7 +5,7 @@ latitude: 48.498210300000004
 longitude: 9.1818115
 postcode: 72770
 city: Reutlingen
-street: Steinachstraße
+street: "Steinachstraße"
 housenumber: 48
 phone: ""
 opening_hours: ""

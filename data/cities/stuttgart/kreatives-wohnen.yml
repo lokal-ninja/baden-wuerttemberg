@@ -5,7 +5,7 @@ latitude: 48.730854
 longitude: 9.110985900000001
 postcode: 70563
 city: Stuttgart
-street: Vaihinger Markt
+street: "Vaihinger Markt"
 housenumber: 18
 phone: ""
 opening_hours: "Fr 14:00-18:00; Sa 09:00-13:00"

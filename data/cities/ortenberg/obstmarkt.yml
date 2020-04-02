@@ -5,7 +5,7 @@ latitude: 48.4453046
 longitude: 7.967651900000001
 postcode: 77799
 city: Ortenberg
-street: Am Marktplatz
+street: "Am Marktplatz"
 housenumber: 5
 phone: ""
 opening_hours: ""

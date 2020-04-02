@@ -5,7 +5,7 @@ latitude: 47.94086840000001
 longitude: 10.0823795
 postcode: 88319
 city: Aitrach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Tu-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-12:00; Su, PH, Mo off"

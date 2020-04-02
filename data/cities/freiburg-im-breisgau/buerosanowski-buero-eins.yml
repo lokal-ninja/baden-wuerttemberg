@@ -5,7 +5,7 @@ latitude: 48.0111063
 longitude: 7.8490142
 postcode: 79106
 city: Freiburg im Breisgau
-street: Güterhallenstraße
+street: "Güterhallenstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

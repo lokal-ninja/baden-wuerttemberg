@@ -5,7 +5,7 @@ latitude: 47.572858700000005
 longitude: 7.798017000000001
 postcode: 79618
 city: Rheinfelden (Baden)
-street: Schildgasse
+street: "Schildgasse"
 housenumber: 25
 phone: ""
 opening_hours: ""

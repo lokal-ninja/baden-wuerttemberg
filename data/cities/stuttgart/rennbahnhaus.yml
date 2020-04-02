@@ -5,7 +5,7 @@ latitude: 48.8274301
 longitude: 9.1796784
 postcode: 70435
 city: Stuttgart
-street: Hohenloher Straße
+street: "Hohenloher Straße"
 housenumber: 60
 phone: ""
 opening_hours: ""

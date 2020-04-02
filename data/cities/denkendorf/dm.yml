@@ -5,7 +5,7 @@ latitude: 48.7033916
 longitude: 9.3126116
 postcode: 73770
 city: Denkendorf
-street: Rechbergstraße
+street: "Rechbergstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

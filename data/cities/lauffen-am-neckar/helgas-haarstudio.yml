@@ -5,7 +5,7 @@ latitude: 49.076249100000005
 longitude: 9.167251400000001
 postcode: 74348
 city: Lauffen am Neckar
-street: Ilsfelder Straße
+street: "Ilsfelder Straße"
 housenumber: 3
 phone: "+49-7133-9292952"
 opening_hours: "Tu-Fr 08:30-12:00,13:00-18:00; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.7857665
 longitude: 9.1984914
 postcode: 70190
 city: Stuttgart
-street: Rotenbergstraße
+street: "Rotenbergstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

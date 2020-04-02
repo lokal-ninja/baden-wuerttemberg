@@ -5,7 +5,7 @@ latitude: 49.1383713
 longitude: 9.219618500000001
 postcode: 74072
 city: Heilbronn
-street: Am Wollhaus
+street: "Am Wollhaus"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Th 10:00-13:00,14:00-19:00; Fr 10:00-13:00,14:00-18:00; Sa 10:00-16:00; PH closed"

@@ -5,7 +5,7 @@ latitude: 49.2944827
 longitude: 8.565526100000001
 postcode: 68799
 city: Reilingen
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

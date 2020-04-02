@@ -5,7 +5,7 @@ latitude: 48.5196728
 longitude: 9.057905700000001
 postcode: 72074
 city: Tübingen
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su,PH off"

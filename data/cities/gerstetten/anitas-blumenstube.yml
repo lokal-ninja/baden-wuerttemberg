@@ -5,7 +5,7 @@ latitude: 48.623288800000005
 longitude: 10.0188714
 postcode: 89547
 city: Gerstetten
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

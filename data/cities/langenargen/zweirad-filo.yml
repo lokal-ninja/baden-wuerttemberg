@@ -5,7 +5,7 @@ latitude: 47.5967994
 longitude: 9.543204600000001
 postcode: 88085
 city: Langenargen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 3
 phone: "+49 7543 912910"
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; We 09:00-12:30; Sa 09:00-13:00; Su,PH off"

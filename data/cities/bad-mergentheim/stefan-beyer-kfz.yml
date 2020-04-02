@@ -5,7 +5,7 @@ latitude: 49.447424100000006
 longitude: 9.7878553
 postcode: 
 city: Bad Mergentheim
-street: In den Torgärten
+street: "In den Torgärten"
 housenumber: 7
 phone: ""
 opening_hours: ""

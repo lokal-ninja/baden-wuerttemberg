@@ -5,7 +5,7 @@ latitude: 48.9320919
 longitude: 8.956142400000001
 postcode: 71665
 city: Vaihingen an der Enz
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 20
 phone: "+49 7042 911111"
 opening_hours: "Tu-Fr 09:30-13:00,14:30-18:00; Sa 09:30-13:00"

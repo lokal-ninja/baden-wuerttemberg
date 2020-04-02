@@ -5,7 +5,7 @@ latitude: 48.7290962
 longitude: 9.1094559
 postcode: 70563
 city: Stuttgart
-street: Robert-Koch-Straße
+street: "Robert-Koch-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

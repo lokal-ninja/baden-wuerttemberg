@@ -5,7 +5,7 @@ latitude: 49.058743
 longitude: 9.2627214
 postcode: 74360
 city: Ilsfeld
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

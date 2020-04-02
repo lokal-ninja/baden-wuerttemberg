@@ -5,7 +5,7 @@ latitude: 48.960079400000005
 longitude: 10.1300212
 postcode: 73479
 city: Ellwangen (Jagst)
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 22
 phone: "+49 7961 52052"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

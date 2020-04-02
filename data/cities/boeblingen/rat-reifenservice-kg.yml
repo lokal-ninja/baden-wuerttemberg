@@ -5,7 +5,7 @@ latitude: 48.682723800000005
 longitude: 8.997078100000001
 postcode: 71034
 city: Böblingen
-street: Schlotterbeckstraße
+street: "Schlotterbeckstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

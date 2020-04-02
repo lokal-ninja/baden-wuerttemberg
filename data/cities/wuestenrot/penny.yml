@@ -5,7 +5,7 @@ latitude: 49.083932000000004
 longitude: 9.4608629
 postcode: 71543
 city: Wüstenrot
-street: Löwensteiner Straße
+street: "Löwensteiner Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 9:00-21:00; Su off"

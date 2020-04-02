@@ -5,7 +5,7 @@ latitude: 49.0682277
 longitude: 9.5967208
 postcode: 74535
 city: Mainhardt
-street: Hofwiesenstraße
+street: "Hofwiesenstraße"
 housenumber: 14
 phone: "+49 7903 941244"
 opening_hours: ""

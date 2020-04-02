@@ -5,7 +5,7 @@ latitude: 48.832481400000006
 longitude: 9.1746593
 postcode: 70435
 city: Stuttgart
-street: Ludwigsburger Straße
+street: "Ludwigsburger Straße"
 housenumber: 133
 phone: "+49 (0) 711 – 81 47 49 66"
 opening_hours: ""

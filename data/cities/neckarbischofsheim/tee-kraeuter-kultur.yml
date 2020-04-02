@@ -5,7 +5,7 @@ latitude: 49.2948469
 longitude: 8.9687974
 postcode: 74924
 city: Neckarbischofsheim
-street: von-Hindenburg-Straße
+street: "von-Hindenburg-Straße"
 housenumber: 54
 phone: "+49 7263 60108"
 opening_hours: ""

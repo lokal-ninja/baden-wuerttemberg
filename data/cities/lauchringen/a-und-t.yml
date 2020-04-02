@@ -5,7 +5,7 @@ latitude: 47.623025000000005
 longitude: 8.3277262
 postcode: 79787
 city: Lauchringen
-street: Mühleweg
+street: "Mühleweg"
 housenumber: 12
 phone: ""
 opening_hours: ""

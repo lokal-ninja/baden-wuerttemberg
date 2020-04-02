@@ -5,7 +5,7 @@ latitude: 48.222219200000005
 longitude: 7.7600986
 postcode: 79336
 city: Herbolzheim
-street: Holzmattenstraße
+street: "Holzmattenstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

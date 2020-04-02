@@ -5,7 +5,7 @@ latitude: 48.7836123
 longitude: 10.105453200000001
 postcode: 73447
 city: Oberkochen
-street: Heidenheimer Straße
+street: "Heidenheimer Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.783672
 longitude: 9.8383549
 postcode: 73529
 city: Schwäbisch Gmünd
-street: Weilerstraße
+street: "Weilerstraße"
 housenumber: 20
 phone: "+49717181809"
 opening_hours: ""

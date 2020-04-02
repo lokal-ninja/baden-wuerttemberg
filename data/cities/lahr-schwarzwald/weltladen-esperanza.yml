@@ -5,7 +5,7 @@ latitude: 48.3404139
 longitude: 7.8720547000000005
 postcode: 77933
 city: Lahr/Schwarzwald
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 12
 phone: "+49 151 59179213"
 opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:30-18:30; We,Sa 09:00-13:00; Su,PH off"

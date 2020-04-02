@@ -5,7 +5,7 @@ latitude: 48.7213348
 longitude: 7.9946701000000004
 postcode: 77839
 city: Lichtenau
-street: Im Gewerbegebiet
+street: "Im Gewerbegebiet"
 housenumber: 47
 phone: "+49 7227 3003"
 opening_hours: "Mo-Sa 08:00-21:00"

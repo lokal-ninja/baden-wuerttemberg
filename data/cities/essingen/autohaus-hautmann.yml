@@ -5,7 +5,7 @@ latitude: 48.8150618
 longitude: 10.0287542
 postcode: 73457
 city: Essingen
-street: Heerweg
+street: "Heerweg"
 housenumber: 79
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

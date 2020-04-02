@@ -5,7 +5,7 @@ latitude: 49.032676800000004
 longitude: 8.715883
 postcode: 75015
 city: Bretten
-street: Breitenbachweg
+street: "Breitenbachweg"
 housenumber: 13
 phone: "+49 7252 94920"
 opening_hours: ""

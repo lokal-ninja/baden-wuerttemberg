@@ -5,7 +5,7 @@ latitude: 49.370688900000005
 longitude: 8.748338500000001
 postcode: 
 city: Gaiberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 97
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.066005600000004
 longitude: 7.8684215
 postcode: 79211
 city: Denzlingen
-street: Kronenstraße
+street: "Kronenstraße"
 housenumber: 40
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.0869416
 longitude: 7.9441632
 postcode: 79183
 city: Waldkirch
-street: Mauermattenstraße
+street: "Mauermattenstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Th 07:15-16:00;Fr 07:15-15:00;PH off"

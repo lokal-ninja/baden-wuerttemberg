@@ -5,7 +5,7 @@ latitude: 48.373395900000006
 longitude: 7.8761346
 postcode: 77948
 city: Friesenheim
-street: Friesenheimer Hauptstraße
+street: "Friesenheimer Hauptstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 15:00-18:00, Sa 09:30-12:30"

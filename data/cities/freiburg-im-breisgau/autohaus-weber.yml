@@ -5,7 +5,7 @@ latitude: 48.014880600000005
 longitude: 7.804164
 postcode: 79110
 city: Freiburg im Breisgau
-street: Breisgauer Straße
+street: "Breisgauer Straße"
 housenumber: 22a
 phone: ""
 opening_hours: ""

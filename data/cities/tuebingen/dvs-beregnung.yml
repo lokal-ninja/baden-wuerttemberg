@@ -5,7 +5,7 @@ latitude: 48.496986
 longitude: 9.057694900000001
 postcode: 72072
 city: Tübingen
-street: Ernst-Simon-Straße
+street: "Ernst-Simon-Straße"
 housenumber: 8
 phone: "+49 7071 1450050"
 opening_hours: ""

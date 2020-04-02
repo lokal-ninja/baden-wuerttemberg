@@ -5,7 +5,7 @@ latitude: 49.1245278
 longitude: 9.2394034
 postcode: 74074
 city: Heilbronn
-street: Seeloch
+street: "Seeloch"
 housenumber: 9
 phone: "+49 7131 172924"
 opening_hours: ""

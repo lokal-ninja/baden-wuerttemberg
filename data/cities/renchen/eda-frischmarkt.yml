@@ -5,7 +5,7 @@ latitude: 48.5887885
 longitude: 8.0092877
 postcode: 77871
 city: Renchen
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 47
 phone: ""
 opening_hours: "Sa 08:00-13:00"

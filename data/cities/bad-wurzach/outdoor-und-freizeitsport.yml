@@ -5,7 +5,7 @@ latitude: 47.9090682
 longitude: 9.898204
 postcode: 88410
 city: Bad Wurzach
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

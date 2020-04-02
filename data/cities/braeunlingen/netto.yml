@@ -5,7 +5,7 @@ latitude: 47.9308727
 longitude: 8.462063500000001
 postcode: 78199
 city: Bräunlingen
-street: Hüfinger Straße
+street: "Hüfinger Straße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

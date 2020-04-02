@@ -5,7 +5,7 @@ latitude: 48.859197900000005
 longitude: 8.2007387
 postcode: 76437
 city: Rastatt
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 59
 phone: "+49 7222 35540"
 opening_hours: "Mo-Fr 08:00-12:30, 14:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.967426100000004
 longitude: 9.0706515
 postcode: 74343
 city: Sachsenheim
-street: Kelterstraße
+street: "Kelterstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.706845200000004
 longitude: 10.2406012
 postcode: 89564
 city: Nattheim
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

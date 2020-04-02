@@ -5,7 +5,7 @@ latitude: 48.8299431
 longitude: 9.817544900000001
 postcode: 73527
 city: Schwäbisch Gmünd
-street: Hans-Diemar-Straße
+street: "Hans-Diemar-Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo 07:00-13:00; Tu 07:00-13:00,14:30-18:00; We 07:00-13:00; Th-Fr 07:00-13:00,14:30-18:00; Sa 07:00-12:30"

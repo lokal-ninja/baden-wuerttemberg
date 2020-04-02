@@ -5,7 +5,7 @@ latitude: 49.0101244
 longitude: 8.355941300000001
 postcode: 76185
 city: Karlsruhe
-street: Hardtstraße
+street: "Hardtstraße"
 housenumber: 10
 phone: "+49 721 9524511"
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-13:00"

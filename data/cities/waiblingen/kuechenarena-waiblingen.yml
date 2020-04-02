@@ -5,7 +5,7 @@ latitude: 48.8222006
 longitude: 9.299346100000001
 postcode: 71332
 city: Waiblingen
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 129
 phone: "+49 7151 975080"
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00"

@@ -5,7 +5,7 @@ latitude: 48.7632227
 longitude: 9.162045200000001
 postcode: 70199
 city: Stuttgart
-street: Böblinger Straße
+street: "Böblinger Straße"
 housenumber: 49
 phone: "+49 711 66487188"
 opening_hours: ""

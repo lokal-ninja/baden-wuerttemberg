@@ -5,7 +5,7 @@ latitude: 48.491415100000005
 longitude: 9.2142666
 postcode: 72764
 city: Reutlingen
-street: Weibermarkt
+street: "Weibermarkt"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su,PH off"

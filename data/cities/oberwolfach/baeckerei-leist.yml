@@ -5,7 +5,7 @@ latitude: 48.3179357
 longitude: 8.2162513
 postcode: 77709
 city: Oberwolfach
-street: Wolftalstraße
+street: "Wolftalstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 08:30-12:30, 15:00-18:00; We, Sa 15:00-18:00 off"

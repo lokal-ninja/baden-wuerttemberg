@@ -5,7 +5,7 @@ latitude: 49.2915931
 longitude: 9.2707464
 postcode: 74861
 city: Neudenau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

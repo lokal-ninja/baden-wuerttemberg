@@ -5,7 +5,7 @@ latitude: 48.480825800000005
 longitude: 9.116435300000001
 postcode: 72127
 city: Kusterdingen
-street: Ohmenhäuser Straße
+street: "Ohmenhäuser Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Tu 09:00-12:00; Fr 15:00-18:00; Sa 09:00-12:00"

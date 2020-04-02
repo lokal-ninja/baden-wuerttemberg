@@ -5,7 +5,7 @@ latitude: 48.493853
 longitude: 9.208525100000001
 postcode: 72764
 city: Reutlingen
-street: Eberhardstraße
+street: "Eberhardstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

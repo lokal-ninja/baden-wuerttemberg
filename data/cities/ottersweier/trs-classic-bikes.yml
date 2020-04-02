@@ -5,7 +5,7 @@ latitude: 48.6676232
 longitude: 8.110995800000001
 postcode: 77833
 city: Ottersweier
-street: Laufer Straße
+street: "Laufer Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-13:30; We,Su,PH off"

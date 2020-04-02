@@ -5,7 +5,7 @@ latitude: 49.0307899
 longitude: 8.3827884
 postcode: 76149
 city: Karlsruhe
-street: New-York-Straße
+street: "New-York-Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-16:00"

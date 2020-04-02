@@ -5,7 +5,7 @@ latitude: 49.2051626
 longitude: 9.4884166
 postcode: 74613
 city: Öhringen
-street: Austraße
+street: "Austraße"
 housenumber: 5
 phone: "+49 7941 9898 98"
 opening_hours: ""

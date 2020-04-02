@@ -5,7 +5,7 @@ latitude: 48.818283900000004
 longitude: 9.7827126
 postcode: 73527
 city: Schwäbisch Gmünd
-street: An der Oberen Halde
+street: "An der Oberen Halde"
 housenumber: 64
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

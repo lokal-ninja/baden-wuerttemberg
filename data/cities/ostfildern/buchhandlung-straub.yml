@@ -5,7 +5,7 @@ latitude: 48.7142734
 longitude: 9.3012984
 postcode: 73760
 city: Ostfildern
-street: Esslinger Straße
+street: "Esslinger Straße"
 housenumber: 26
 phone: "+49 711 3482737"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.398808900000006
 longitude: 8.5353692
 postcode: 68782
 city: Brühl
-street: Mannheimer Straße
+street: "Mannheimer Straße"
 housenumber: 52
 phone: "+49 6202 77686"
 opening_hours: ""

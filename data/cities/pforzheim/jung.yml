@@ -5,7 +5,7 @@ latitude: 48.8915914
 longitude: 8.7007142
 postcode: 75172
 city: Pforzheim
-street: Westliche Karl-Friedrich-Straße
+street: "Westliche Karl-Friedrich-Straße"
 housenumber: 22
 phone: "+49 7231 38640"
 opening_hours: ""

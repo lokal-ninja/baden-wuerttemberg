@@ -5,7 +5,7 @@ latitude: 47.5992443
 longitude: 9.544918800000001
 postcode: 88085
 city: Langenargen
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 18
 phone: "+49 7543 913680"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off; Jan,Feb: Mo-Th 10:00-14:00"

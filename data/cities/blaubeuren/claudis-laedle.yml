@@ -5,7 +5,7 @@ latitude: 48.408724400000004
 longitude: 9.7854624
 postcode: 89143
 city: Blaubeuren
-street: Weilerstraße
+street: "Weilerstraße"
 housenumber: 41
 phone: "+49 7344 9526910"
 opening_hours: "Mo-Fr 09:00-18:00; Sa,Su,PH off"

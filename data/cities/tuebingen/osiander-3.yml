@@ -5,7 +5,7 @@ latitude: 48.518534700000004
 longitude: 9.0578353
 postcode: 72072
 city: Tübingen
-street: Uhlandstraße
+street: "Uhlandstraße"
 housenumber: 2/1
 phone: ""
 opening_hours: ""

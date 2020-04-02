@@ -5,7 +5,7 @@ latitude: 48.833461400000004
 longitude: 9.195917600000001
 postcode: 70437
 city: Stuttgart
-street: Haldenrainstraße
+street: "Haldenrainstraße"
 housenumber: 182
 phone: "+49 711 875625"
 opening_hours: "Mo-Fr 13:00-18:00; We off; Sa 10:00-13:00;PH off"

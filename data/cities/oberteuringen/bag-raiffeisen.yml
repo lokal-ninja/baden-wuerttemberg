@@ -5,7 +5,7 @@ latitude: 47.724393000000006
 longitude: 9.4639026
 postcode: 88094
 city: Oberteuringen
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

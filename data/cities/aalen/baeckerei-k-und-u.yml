@@ -5,7 +5,7 @@ latitude: 48.8494724
 longitude: 10.0949098
 postcode: 73430
 city: Aalen
-street: Heinrich-Rieger-Straße
+street: "Heinrich-Rieger-Straße"
 housenumber: 22
 phone: "+49 7361 5559105"
 opening_hours: "Mo-Sa 08:00-22:00"

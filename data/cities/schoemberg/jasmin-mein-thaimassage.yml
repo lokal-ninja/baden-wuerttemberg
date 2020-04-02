@@ -5,7 +5,7 @@ latitude: 48.787483200000004
 longitude: 8.644547300000001
 postcode: 75328
 city: Schömberg
-street: Hugo-Römpler-Straße
+street: "Hugo-Römpler-Straße"
 housenumber: 11
 phone: "+49 7084 5990471"
 opening_hours: "Tu-Sa 12:00-20:00; Su-Mo off"

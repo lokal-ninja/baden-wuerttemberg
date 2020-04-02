@@ -5,7 +5,7 @@ latitude: 48.323609700000006
 longitude: 8.9068976
 postcode: 72406
 city: Bisingen
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 1
 phone: "+49 (0)74 76 94 46-44"
 opening_hours: ""

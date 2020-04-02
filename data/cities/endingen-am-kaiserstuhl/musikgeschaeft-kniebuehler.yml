@@ -5,7 +5,7 @@ latitude: 48.139770000000006
 longitude: 7.7037325
 postcode: 79346
 city: Endingen am Kaiserstuhl
-street: Lindenplatz
+street: "Lindenplatz"
 housenumber: 13-15
 phone: ""
 opening_hours: "Mo-Fr 09:30-12:30,14:00-18:00; We,Sa 09:30-13:00"

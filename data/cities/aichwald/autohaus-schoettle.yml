@@ -5,7 +5,7 @@ latitude: 48.7586412
 longitude: 9.3734716
 postcode: 73773
 city: Aichwald
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 53
 phone: ""
 opening_hours: "Mo-Fr 07:45-18:00; Sa 08:30-12:30; Su, PH off"

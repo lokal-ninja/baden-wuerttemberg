@@ -5,7 +5,7 @@ latitude: 48.5957651
 longitude: 8.867949600000001
 postcode: 71083
 city: Herrenberg
-street: Bronntor
+street: "Bronntor"
 housenumber: 2
 phone: ""
 opening_hours: ""

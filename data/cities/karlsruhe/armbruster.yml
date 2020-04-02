@@ -5,7 +5,7 @@ latitude: 49.0018614
 longitude: 8.4625834
 postcode: 76227
 city: Karlsruhe
-street: Hauptbahnstraße
+street: "Hauptbahnstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 05:00-19:00; Sa 06:30-18:00; Su,PH 07:00-18:00"

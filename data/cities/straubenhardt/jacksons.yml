@@ -5,7 +5,7 @@ latitude: 48.842550800000005
 longitude: 8.535836100000001
 postcode: 75334
 city: Straubenhardt
-street: Neuenbürger Straße
+street: "Neuenbürger Straße"
 housenumber: 34
 phone: ""
 opening_hours: ""

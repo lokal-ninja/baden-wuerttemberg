@@ -5,7 +5,7 @@ latitude: 49.117800300000006
 longitude: 9.172018900000001
 postcode: 74081
 city: Heilbronn
-street: Amsterdamer Straße
+street: "Amsterdamer Straße"
 housenumber: 11/1
 phone: "+49 7131 8878860"
 opening_hours: ""

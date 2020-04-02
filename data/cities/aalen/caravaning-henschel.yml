@@ -5,7 +5,7 @@ latitude: 48.8749112
 longitude: 10.118582
 postcode: 73433
 city: Aalen
-street: Knappenstraße
+street: "Knappenstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

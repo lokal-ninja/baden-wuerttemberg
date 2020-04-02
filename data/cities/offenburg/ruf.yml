@@ -5,7 +5,7 @@ latitude: 48.468489700000006
 longitude: 7.9464426
 postcode: 77652
 city: Offenburg
-street: Gerberstraße
+street: "Gerberstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

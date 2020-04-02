@@ -5,7 +5,7 @@ latitude: 47.768680200000006
 longitude: 9.5518327
 postcode: 88213
 city: Ravensburg
-street: Ganterhofstraße
+street: "Ganterhofstraße"
 housenumber: 1
 phone: "+49 751 5093-0"
 opening_hours: ""

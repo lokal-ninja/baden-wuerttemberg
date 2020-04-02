@@ -5,7 +5,7 @@ latitude: 49.0101846
 longitude: 8.379633700000001
 postcode: 76135
 city: Karlsruhe
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 6
 phone: "+49 176 32084949"
 opening_hours: "Mo-Fr 09:00-18:30, Sa 08:30-17:00; PH closed"

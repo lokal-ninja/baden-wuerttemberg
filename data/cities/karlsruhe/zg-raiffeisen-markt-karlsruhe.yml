@@ -5,7 +5,7 @@ latitude: 48.993140600000004
 longitude: 8.4085316
 postcode: 76137
 city: Karlsruhe
-street: Fautenbruchstraße
+street: "Fautenbruchstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00, Sa 08:30-16:00"

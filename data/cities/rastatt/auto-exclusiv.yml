@@ -5,7 +5,7 @@ latitude: 48.8693418
 longitude: 8.1881617
 postcode: 76437
 city: Rastatt
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00"

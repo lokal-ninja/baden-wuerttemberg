@@ -5,7 +5,7 @@ latitude: 47.594297000000005
 longitude: 9.5491013
 postcode: 88085
 city: Langenargen
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

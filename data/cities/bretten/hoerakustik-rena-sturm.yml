@@ -5,7 +5,7 @@ latitude: 49.0370928
 longitude: 8.7073239
 postcode: 75015
 city: Bretten
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 5
 phone: ""
 opening_hours: ""

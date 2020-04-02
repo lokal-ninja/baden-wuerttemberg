@@ -5,7 +5,7 @@ latitude: 48.485807
 longitude: 7.9398961
 postcode: 77652
 city: Offenburg
-street: Englerstraße
+street: "Englerstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

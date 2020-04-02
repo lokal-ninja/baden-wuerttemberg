@@ -5,7 +5,7 @@ latitude: 48.8575862
 longitude: 8.2048257
 postcode: 76437
 city: Rastatt
-street: Herrenstraße
+street: "Herrenstraße"
 housenumber: 16a
 phone: "+49 7222 787027"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00"

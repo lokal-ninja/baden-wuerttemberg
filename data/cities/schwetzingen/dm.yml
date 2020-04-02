@@ -5,7 +5,7 @@ latitude: 49.378193200000005
 longitude: 8.561279500000001
 postcode: 68723
 city: Schwetzingen
-street: Hockenheimer Landstraße
+street: "Hockenheimer Landstraße"
 housenumber: 4-8
 phone: "+49 6202 126681"
 opening_hours: ""

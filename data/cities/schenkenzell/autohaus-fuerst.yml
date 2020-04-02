@@ -5,7 +5,7 @@ latitude: 48.308195500000004
 longitude: 8.3713054
 postcode: 77773
 city: Schenkenzell
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

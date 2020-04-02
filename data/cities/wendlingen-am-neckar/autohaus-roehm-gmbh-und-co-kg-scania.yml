@@ -5,7 +5,7 @@ latitude: 48.677895400000004
 longitude: 9.3728493
 postcode: 73240
 city: Wendlingen am Neckar
-street: Schäferhauser Straße
+street: "Schäferhauser Straße"
 housenumber: 16
 phone: "+49 7024 920190"
 opening_hours: ""

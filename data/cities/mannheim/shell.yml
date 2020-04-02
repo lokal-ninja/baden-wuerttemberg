@@ -5,7 +5,7 @@ latitude: 49.4743476
 longitude: 8.484531500000001
 postcode: 68165
 city: Mannheim
-street: Viehhofstraße
+street: "Viehhofstraße"
 housenumber: 23
 phone: "+49 621 4310612"
 opening_hours: "24/7"

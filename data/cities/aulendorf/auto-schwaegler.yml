@@ -5,7 +5,7 @@ latitude: 47.9501481
 longitude: 9.628564500000001
 postcode: 88326
 city: Aulendorf
-street: Saulgauer Straße
+street: "Saulgauer Straße"
 housenumber: 37
 phone: "+49 7525 553944"
 opening_hours: "Tu-Sa 09:00-12:00, Tu-Fr 14:00-18:00"

@@ -5,7 +5,7 @@ latitude: 49.2392528
 longitude: 9.094492200000001
 postcode: 74906
 city: Bad Rappenau
-street: Babstadter Straße
+street: "Babstadter Straße"
 housenumber: 45
 phone: "+49 7131 201020"
 opening_hours: ""

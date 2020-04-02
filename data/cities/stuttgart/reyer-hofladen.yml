@@ -5,7 +5,7 @@ latitude: 48.7245993
 longitude: 9.145024600000001
 postcode: 70567
 city: Stuttgart
-street: Unteraicher Straße
+street: "Unteraicher Straße"
 housenumber: 4
 phone: "+49711711890"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.2790831
 longitude: 8.0906043
 postcode: 77716
 city: Haslach im Kinzigtal
-street: Schwarzwaldstraße
+street: "Schwarzwaldstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

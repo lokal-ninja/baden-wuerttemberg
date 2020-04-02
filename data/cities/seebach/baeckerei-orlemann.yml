@@ -5,7 +5,7 @@ latitude: 48.575694600000006
 longitude: 8.169130800000001
 postcode: 77889
 city: Seebach
-street: Ruhesteinstraße
+street: "Ruhesteinstraße"
 housenumber: 18
 phone: "+49 7842 1724"
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-12:30"

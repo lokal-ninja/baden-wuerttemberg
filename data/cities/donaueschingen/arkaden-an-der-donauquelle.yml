@@ -5,7 +5,7 @@ latitude: 47.9524148
 longitude: 8.5022526
 postcode: 78166
 city: Donaueschingen
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 69
 phone: ""
 opening_hours: ""

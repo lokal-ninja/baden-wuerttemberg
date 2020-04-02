@@ -5,7 +5,7 @@ latitude: 49.386783900000005
 longitude: 8.8034073
 postcode: 69151
 city: Neckargemünd
-street: Wiesenbacher Straße
+street: "Wiesenbacher Straße"
 housenumber: 65-69
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

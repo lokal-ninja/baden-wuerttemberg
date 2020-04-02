@@ -5,7 +5,7 @@ latitude: 48.513745400000005
 longitude: 9.062576
 postcode: 72072
 city: Tübingen
-street: Eugenstraße
+street: "Eugenstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 07:30-13:00; PH off"

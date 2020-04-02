@@ -5,7 +5,7 @@ latitude: 48.762654100000006
 longitude: 9.600030100000001
 postcode: 73099
 city: Adelberg
-street: Rankstraße
+street: "Rankstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.43627600000001
 longitude: 9.147515400000001
 postcode: 72770
 city: Reutlingen
-street: Bronnweilerstraße
+street: "Bronnweilerstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

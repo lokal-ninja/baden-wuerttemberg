@@ -5,7 +5,7 @@ latitude: 48.1544837
 longitude: 9.470133500000001
 postcode: 
 city: Riedlingen
-street: Gammertinger Straße
+street: "Gammertinger Straße"
 housenumber: 25/1
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Th 08:00-19:00; Sa 08:30-13:30"

@@ -5,7 +5,7 @@ latitude: 48.959227600000006
 longitude: 8.295251
 postcode: 76287
 city: Rheinstetten
-street: Badener Straße
+street: "Badener Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 15:00-18:00, Sa 09:30-12:30"

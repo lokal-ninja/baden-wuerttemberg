@@ -5,7 +5,7 @@ latitude: 48.058089300000006
 longitude: 8.460394800000001
 postcode: 78050
 city: Villingen-Schwenningen
-street: Niedere Straße
+street: "Niedere Straße"
 housenumber: 42
 phone: "+49 7721 9953773"
 opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-14:00; PH off"

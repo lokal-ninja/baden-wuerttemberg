@@ -5,7 +5,7 @@ latitude: 49.2030486
 longitude: 9.965218400000001
 postcode: 74592
 city: Kirchberg an der Jagst
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

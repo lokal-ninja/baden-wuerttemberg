@@ -5,7 +5,7 @@ latitude: 49.1127777
 longitude: 9.7357367
 postcode: 74523
 city: Schwäbisch Hall
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

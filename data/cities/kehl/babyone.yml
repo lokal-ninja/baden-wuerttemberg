@@ -5,7 +5,7 @@ latitude: 48.5754268
 longitude: 7.817489200000001
 postcode: 77694
 city: Kehl
-street: Straßburger Straße
+street: "Straßburger Straße"
 housenumber: 34
 phone: "+49 7851 4737"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-17:00"

@@ -5,7 +5,7 @@ latitude: 49.0314745
 longitude: 10.273669100000001
 postcode: 73499
 city: Wört
-street: Weiherwehr
+street: "Weiherwehr"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 07:30 - 19:00; Sa07:00-14:00"

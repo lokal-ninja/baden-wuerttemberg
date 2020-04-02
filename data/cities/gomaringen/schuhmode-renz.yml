@@ -5,7 +5,7 @@ latitude: 48.4535922
 longitude: 9.095237500000001
 postcode: 72810
 city: Gomaringen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 53
 phone: "+49 7072 920029"
 opening_hours: ""

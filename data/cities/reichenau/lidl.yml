@@ -5,7 +5,7 @@ latitude: 47.688452100000006
 longitude: 9.1239076
 postcode: 78479
 city: Reichenau
-street: Am Wollmatinger Ried
+street: "Am Wollmatinger Ried"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

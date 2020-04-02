@@ -5,7 +5,7 @@ latitude: 48.6082673
 longitude: 9.348368800000001
 postcode: 72622
 city: Nürtingen
-street: Eichendorffstraße
+street: "Eichendorffstraße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

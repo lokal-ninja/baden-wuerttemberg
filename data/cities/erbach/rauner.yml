@@ -5,7 +5,7 @@ latitude: 48.301433100000004
 longitude: 9.9046707
 postcode: 89155
 city: Erbach
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

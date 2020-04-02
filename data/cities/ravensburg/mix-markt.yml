@@ -5,7 +5,7 @@ latitude: 47.7842635
 longitude: 9.579028600000001
 postcode: 88213
 city: Ravensburg
-street: Karmeliterstraße
+street: "Karmeliterstraße"
 housenumber: 59
 phone: "+49 751 7914825"
 opening_hours: "Mo-Sa 08:00-20:00"

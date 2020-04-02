@@ -5,7 +5,7 @@ latitude: 48.8751467
 longitude: 9.3936001
 postcode: 71364
 city: Winnenden
-street: Waiblinger Straße
+street: "Waiblinger Straße"
 housenumber: 15
 phone: "+49 7195 9599509"
 opening_hours: "Mo - Fr 08:00 - 18:00"

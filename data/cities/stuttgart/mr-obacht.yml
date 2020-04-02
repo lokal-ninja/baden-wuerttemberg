@@ -5,7 +5,7 @@ latitude: 48.787122100000005
 longitude: 9.1921519
 postcode: 70190
 city: Stuttgart
-street: Neckarstraße
+street: "Neckarstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

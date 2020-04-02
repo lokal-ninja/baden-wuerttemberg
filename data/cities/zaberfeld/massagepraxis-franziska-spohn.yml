@@ -5,7 +5,7 @@ latitude: 49.071845200000006
 longitude: 8.9430821
 postcode: 74374
 city: Zaberfeld
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

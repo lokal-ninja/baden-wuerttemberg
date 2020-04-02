@@ -5,7 +5,7 @@ latitude: 49.0636178
 longitude: 8.657557
 postcode: 75053
 city: Gondelsheim
-street: Bruchsaler Straße
+street: "Bruchsaler Straße"
 housenumber: 56
 phone: "+49 7252 9757626"
 opening_hours: "Tu-Fr 09:00-13:00,14:00-18:30; Sa 09:00-13:00"

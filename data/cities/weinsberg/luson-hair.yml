@@ -5,7 +5,7 @@ latitude: 49.1515545
 longitude: 9.287397200000001
 postcode: 74189
 city: Weinsberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

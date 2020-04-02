@@ -5,7 +5,7 @@ latitude: 47.7753176
 longitude: 9.1878734
 postcode: 88662
 city: Überlingen
-street: Abigstraße
+street: "Abigstraße"
 housenumber: 1
 phone: "+49 7551 947080"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

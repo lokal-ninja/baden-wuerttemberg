@@ -5,7 +5,7 @@ latitude: 48.5406149
 longitude: 10.2282448
 postcode: 89168
 city: Niederstotzingen
-street: Theodor-Storm-Straße
+street: "Theodor-Storm-Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

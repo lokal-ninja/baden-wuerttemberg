@@ -5,7 +5,7 @@ latitude: 48.4791527
 longitude: 9.1362606
 postcode: 72770
 city: Reutlingen
-street: Hohe Straße
+street: "Hohe Straße"
 housenumber: 28
 phone: ""
 opening_hours: "Fr 09:00-11:30; Sa 09:00-12:00; Su off; PH off"

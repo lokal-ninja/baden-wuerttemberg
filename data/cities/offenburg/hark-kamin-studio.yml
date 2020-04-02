@@ -5,7 +5,7 @@ latitude: 48.470439000000006
 longitude: 7.932601600000001
 postcode: 77656
 city: Offenburg
-street: Heinrich-Hertz-Straße
+street: "Heinrich-Hertz-Straße"
 housenumber: 4
 phone: "+49 781 96949673"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

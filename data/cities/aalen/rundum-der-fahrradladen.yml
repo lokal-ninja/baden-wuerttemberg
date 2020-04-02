@@ -5,7 +5,7 @@ latitude: 48.8636958
 longitude: 10.103152900000001
 postcode: 73433
 city: Aalen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

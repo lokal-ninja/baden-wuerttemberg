@@ -5,7 +5,7 @@ latitude: 48.288431200000005
 longitude: 8.5546133
 postcode: 78727
 city: Oberndorf am Neckar
-street: August-Gaiser-Straße
+street: "August-Gaiser-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

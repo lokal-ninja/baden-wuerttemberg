@@ -5,7 +5,7 @@ latitude: 49.1786874
 longitude: 10.143833
 postcode: 74589
 city: Satteldorf
-street: Brühlweg
+street: "Brühlweg"
 housenumber: 2
 phone: "+49 7950 800986"
 opening_hours: ""

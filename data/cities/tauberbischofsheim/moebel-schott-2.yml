@@ -5,7 +5,7 @@ latitude: 49.637742700000004
 longitude: 9.6524529
 postcode: 97941
 city: Tauberbischofsheim
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

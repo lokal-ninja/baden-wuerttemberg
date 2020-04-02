@@ -5,7 +5,7 @@ latitude: 48.6666577
 longitude: 9.5758182
 postcode: 73110
 city: Hattenhofen
-street: Bruckwiesenstraße
+street: "Bruckwiesenstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

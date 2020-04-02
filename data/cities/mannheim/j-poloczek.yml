@@ -5,7 +5,7 @@ latitude: 49.5113241
 longitude: 8.534629200000001
 postcode: 68309
 city: Mannheim
-street: Fürstenwalder Weg
+street: "Fürstenwalder Weg"
 housenumber: 
 phone: "+49 621 707474"
 opening_hours: ""

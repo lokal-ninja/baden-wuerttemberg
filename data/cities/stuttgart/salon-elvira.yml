@@ -5,7 +5,7 @@ latitude: 48.731831
 longitude: 9.1039777
 postcode: 70563
 city: Stuttgart
-street: Gültsteiner Straße
+street: "Gültsteiner Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

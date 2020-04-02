@@ -5,7 +5,7 @@ latitude: 48.773208800000006
 longitude: 9.184419400000001
 postcode: 70182
 city: Stuttgart
-street: Olgastraße
+street: "Olgastraße"
 housenumber: 53
 phone: "+49 176 84545173"
 opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-16:00"

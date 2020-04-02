@@ -5,7 +5,7 @@ latitude: 48.780844900000005
 longitude: 9.2010977
 postcode: 70188
 city: Stuttgart
-street: Schwarenbergstraße
+street: "Schwarenbergstraße"
 housenumber: 133
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 07:00-15:00"

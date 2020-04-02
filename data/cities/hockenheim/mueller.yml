@@ -5,7 +5,7 @@ latitude: 49.3187621
 longitude: 8.5464307
 postcode: 68766
 city: Hockenheim
-street: Karlsruher Straße
+street: "Karlsruher Straße"
 housenumber: 3
 phone: "+49 6205 309990"
 opening_hours: "09:00-19:00"

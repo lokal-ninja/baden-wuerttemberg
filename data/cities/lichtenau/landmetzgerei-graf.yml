@@ -5,7 +5,7 @@ latitude: 48.7277525
 longitude: 8.0086393
 postcode: 77839
 city: Lichtenau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: "+49 7227 992014"
 opening_hours: "Mo-Fr 07:30-20:00; Sa 07:00-16:00"

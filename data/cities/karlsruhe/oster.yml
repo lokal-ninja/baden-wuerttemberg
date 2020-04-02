@@ -5,7 +5,7 @@ latitude: 48.9761171
 longitude: 8.407109100000001
 postcode: 
 city: Karlsruhe
-street: Ostendorfplatz
+street: "Ostendorfplatz"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:30; Sa 09:00-13:00"

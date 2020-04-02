@@ -5,7 +5,7 @@ latitude: 47.6290552
 longitude: 8.2610545
 postcode: 79761
 city: Waldshut-Tiengen
-street: Badstraße
+street: "Badstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

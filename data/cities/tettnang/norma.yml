@@ -5,7 +5,7 @@ latitude: 47.670284900000006
 longitude: 9.5877297
 postcode: 88069
 city: Tettnang
-street: Grabenstraße
+street: "Grabenstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

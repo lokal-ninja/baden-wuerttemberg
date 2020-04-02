@@ -5,7 +5,7 @@ latitude: 48.6276464
 longitude: 8.0605435
 postcode: 77855
 city: Achern
-street: Fautenbacher Straße
+street: "Fautenbacher Straße"
 housenumber: 34
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

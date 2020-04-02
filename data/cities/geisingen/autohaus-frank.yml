@@ -5,7 +5,7 @@ latitude: 47.868209400000005
 longitude: 8.6594329
 postcode: 78187
 city: Geisingen
-street: Mühltalstraße
+street: "Mühltalstraße"
 housenumber: 14
 phone: ""
 opening_hours: "08:00-12:00,14:00-17:00"

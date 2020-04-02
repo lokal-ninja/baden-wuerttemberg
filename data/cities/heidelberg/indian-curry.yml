@@ -5,7 +5,7 @@ latitude: 49.4042782
 longitude: 8.6848226
 postcode: 69115
 city: Heidelberg
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 11:00-22:00; Su 12:00-22:00; PH 12:00-22:00"

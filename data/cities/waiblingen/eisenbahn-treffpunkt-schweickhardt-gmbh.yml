@@ -5,7 +5,7 @@ latitude: 48.8192132
 longitude: 9.3422643
 postcode: 71334
 city: Waiblingen
-street: Biegelwiesenstraße
+street: "Biegelwiesenstraße"
 housenumber: 31
 phone: "+49 7161 937932"
 opening_hours: ""

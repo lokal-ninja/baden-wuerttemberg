@@ -5,7 +5,7 @@ latitude: 48.492485
 longitude: 9.211238400000001
 postcode: 72764
 city: Reutlingen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:30; Su off; PH off"

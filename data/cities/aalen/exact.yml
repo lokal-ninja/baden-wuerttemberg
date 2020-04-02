@@ -5,7 +5,7 @@ latitude: 48.8359619
 longitude: 10.0910737
 postcode: 73430
 city: Aalen
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-We 08:00-18:00; Th,Fr 08:00-20:00; Sa 08:00-13:00"

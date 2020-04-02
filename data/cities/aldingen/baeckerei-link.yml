@@ -5,7 +5,7 @@ latitude: 48.0944632
 longitude: 8.704835600000001
 postcode: 78554
 city: Aldingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

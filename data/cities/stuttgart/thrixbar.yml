@@ -5,7 +5,7 @@ latitude: 48.728274600000006
 longitude: 9.1446383
 postcode: 70567
 city: Stuttgart
-street: Balinger Straße
+street: "Balinger Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

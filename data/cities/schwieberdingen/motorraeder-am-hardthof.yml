@@ -5,7 +5,7 @@ latitude: 48.8884107
 longitude: 9.0385045
 postcode: 71706
 city: Schwieberdingen
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 48
 phone: "+49 7145 936935"
 opening_hours: ""

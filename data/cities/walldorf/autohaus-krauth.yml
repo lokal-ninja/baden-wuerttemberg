@@ -5,7 +5,7 @@ latitude: 49.306535100000005
 longitude: 8.6310526
 postcode: 69190
 city: Walldorf
-street: Josef-Reiert-Straße
+street: "Josef-Reiert-Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

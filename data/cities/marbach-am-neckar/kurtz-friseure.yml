@@ -5,7 +5,7 @@ latitude: 48.9427802
 longitude: 9.264904000000001
 postcode: 71672
 city: Marbach am Neckar
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: "+4971441602067"
 opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-14:00"

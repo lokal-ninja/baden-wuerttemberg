@@ -5,7 +5,7 @@ latitude: 48.8880665
 longitude: 9.169137000000001
 postcode: 71636
 city: Ludwigsburg
-street: Friedenstraße
+street: "Friedenstraße"
 housenumber: 78
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.874410600000004
 longitude: 9.391069700000001
 postcode: 71364
 city: Winnenden
-street: Waiblinger Straße
+street: "Waiblinger Straße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 49.0187827
 longitude: 9.098281
 postcode: 
 city: Erligheim
-street: Löchgauer Straße
+street: "Löchgauer Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

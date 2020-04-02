@@ -5,7 +5,7 @@ latitude: 49.180944200000006
 longitude: 9.4102786
 postcode: 74626
 city: Bretzfeld
-street: Schwabenstraße
+street: "Schwabenstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; Su, PH off"

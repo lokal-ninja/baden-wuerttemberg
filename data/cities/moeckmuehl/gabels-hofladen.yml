@@ -5,7 +5,7 @@ latitude: 49.3409576
 longitude: 9.3172414
 postcode: 74219
 city: Möckmühl
-street: Längstalstraße
+street: "Längstalstraße"
 housenumber: 16
 phone: "+49 6298 2999"
 opening_hours: ""

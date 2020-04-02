@@ -5,7 +5,7 @@ latitude: 47.6704291
 longitude: 9.4934001
 postcode: 88046
 city: Friedrichshafen
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 12
 phone: "+49 7541 60 32 0"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00; Su,PH off"

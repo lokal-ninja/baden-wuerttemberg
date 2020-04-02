@@ -5,7 +5,7 @@ latitude: 48.837900100000006
 longitude: 10.0937131
 postcode: 73430
 city: Aalen
-street: Reichsstädter Straße
+street: "Reichsstädter Straße"
 housenumber: 10b
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00"

@@ -5,7 +5,7 @@ latitude: 48.893586000000006
 longitude: 8.9398301
 postcode: 71735
 city: Eberdingen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 2
 phone: "+49 7042 941662"
 opening_hours: "Mo-Fr 08:00-12:00,15:00-18:00; We,Sa 08:00-12:00"

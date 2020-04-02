@@ -5,7 +5,7 @@ latitude: 48.712313800000004
 longitude: 9.0132777
 postcode: 71063
 city: Sindelfingen
-street: Hermann-Löns-Straße
+street: "Hermann-Löns-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.953851500000006
 longitude: 8.9566374
 postcode: 71665
 city: Vaihingen an der Enz
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 2
 phone: "+49 7042 840024"
 opening_hours: "Mo-Fr 04:00-19:00; Sa 04:00-16:00; Su 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 47.8872712
 longitude: 10.072469100000001
 postcode: 88317
 city: Aichstetten
-street: Hochstraße
+street: "Hochstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-19:00; Su, PH off"

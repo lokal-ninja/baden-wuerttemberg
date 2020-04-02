@@ -5,7 +5,7 @@ latitude: 47.815846
 longitude: 9.6464348
 postcode: 88250
 city: Weingarten
-street: Kurze Straße
+street: "Kurze Straße"
 housenumber: 7
 phone: "+49 751 45663"
 opening_hours: ""

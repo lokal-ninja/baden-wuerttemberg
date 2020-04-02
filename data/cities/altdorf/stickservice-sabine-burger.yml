@@ -5,7 +5,7 @@ latitude: 48.596080300000004
 longitude: 9.273188300000001
 postcode: 72655
 city: Altdorf
-street: Weinbergweg
+street: "Weinbergweg"
 housenumber: 11
 phone: ""
 opening_hours: ""

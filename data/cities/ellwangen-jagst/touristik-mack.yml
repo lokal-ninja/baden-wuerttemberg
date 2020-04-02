@@ -5,7 +5,7 @@ latitude: 48.961032100000004
 longitude: 10.1319131
 postcode: 73479
 city: Ellwangen (Jagst)
-street: Spitalstraße
+street: "Spitalstraße"
 housenumber: 15
 phone: "+49 7961 9130730"
 opening_hours: ""

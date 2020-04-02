@@ -5,7 +5,7 @@ latitude: 48.7261303
 longitude: 9.146822700000001
 postcode: 70567
 city: Stuttgart
-street: Filderbahnstraße
+street: "Filderbahnstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

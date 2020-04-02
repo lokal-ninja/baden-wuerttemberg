@@ -5,7 +5,7 @@ latitude: 49.102431800000005
 longitude: 9.692100700000001
 postcode: 74545
 city: Michelfeld
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 71
 phone: ""
 opening_hours: ""

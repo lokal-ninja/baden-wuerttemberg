@@ -5,7 +5,7 @@ latitude: 49.2364175
 longitude: 9.098111600000001
 postcode: 74906
 city: Bad Rappenau
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 23
 phone: "+49 7264 2069914"
 opening_hours: "Mo-Sa 09:00-20:00"

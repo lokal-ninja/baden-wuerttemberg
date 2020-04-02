@@ -5,7 +5,7 @@ latitude: 49.125262500000005
 longitude: 8.593891600000001
 postcode: 76646
 city: Bruchsal
-street: Luisenstraße
+street: "Luisenstraße"
 housenumber: 1
 phone: "+49 7251 305690"
 opening_hours: ""

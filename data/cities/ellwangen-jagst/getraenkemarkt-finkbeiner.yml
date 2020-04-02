@@ -5,7 +5,7 @@ latitude: 48.968019500000004
 longitude: 10.127425800000001
 postcode: 73479
 city: Ellwangen (Jagst)
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 4
 phone: "+49 7961 564573"
 opening_hours: ""

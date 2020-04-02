@@ -5,7 +5,7 @@ latitude: 48.0698786
 longitude: 8.458955000000001
 postcode: 78048
 city: Villingen-Schwenningen
-street: Singener Straße
+street: "Singener Straße"
 housenumber: 8/1
 phone: "+49 7721 9936 969"
 opening_hours: "Mo-Fr 08:00-17:00 || Sa nach Vereinbarung"

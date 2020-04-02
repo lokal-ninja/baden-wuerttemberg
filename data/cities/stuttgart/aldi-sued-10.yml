@@ -5,7 +5,7 @@ latitude: 48.775966100000005
 longitude: 9.2374545
 postcode: 70327
 city: Stuttgart
-street: Ulmer Straße
+street: "Ulmer Straße"
 housenumber: 269
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

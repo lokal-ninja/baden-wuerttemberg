@@ -5,7 +5,7 @@ latitude: 48.4024863
 longitude: 9.048480000000001
 postcode: 72116
 city: Mössingen
-street: Röhlerstraße
+street: "Röhlerstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

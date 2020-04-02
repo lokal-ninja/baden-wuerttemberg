@@ -5,7 +5,7 @@ latitude: 48.8080129
 longitude: 9.2087448
 postcode: 70376
 city: Stuttgart
-street: Aachener Straße
+street: "Aachener Straße"
 housenumber: 34
 phone: ""
 opening_hours: "Mo-Th 09:30-12:30,14:00-18:00; We 09:30-12:30; Fr 09:30-12:30,14:00-17:00; PH off"

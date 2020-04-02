@@ -5,7 +5,7 @@ latitude: 48.780293400000005
 longitude: 8.3474357
 postcode: 76571
 city: Gaggenau
-street: Klingelbergstraße
+street: "Klingelbergstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

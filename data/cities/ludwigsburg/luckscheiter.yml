@@ -5,7 +5,7 @@ latitude: 48.9005827
 longitude: 9.215378900000001
 postcode: 71640
 city: Ludwigsburg
-street: Kornbeckstraße
+street: "Kornbeckstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.734843100000006
 longitude: 9.1816346
 postcode: 70597
 city: Stuttgart
-street: Hofgärten
+street: "Hofgärten"
 housenumber: 15
 phone: ""
 opening_hours: ""

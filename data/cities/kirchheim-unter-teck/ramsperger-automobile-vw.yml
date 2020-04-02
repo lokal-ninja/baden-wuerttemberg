@@ -5,7 +5,7 @@ latitude: 48.64240950000001
 longitude: 9.453672300000001
 postcode: 73230
 city: Kirchheim unter Teck
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

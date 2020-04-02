@@ -5,7 +5,7 @@ latitude: 47.9953573
 longitude: 7.8372302000000005
 postcode: 79106
 city: Freiburg im Breisgau
-street: Klarastraße
+street: "Klarastraße"
 housenumber: 78
 phone: "+49 157 53616412"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.694604000000005
 longitude: 8.136031000000001
 postcode: 77815
 city: Bühl
-street: Sternenstraße
+street: "Sternenstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

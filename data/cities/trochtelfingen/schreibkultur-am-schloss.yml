@@ -5,7 +5,7 @@ latitude: 48.3075617
 longitude: 9.243377500000001
 postcode: 72818
 city: Trochtelfingen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

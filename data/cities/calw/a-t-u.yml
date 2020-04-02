@@ -5,7 +5,7 @@ latitude: 48.704551
 longitude: 8.760076
 postcode: 75365
 city: Calw
-street: Ferdinand-von-Steinbeis-Straße
+street: "Ferdinand-von-Steinbeis-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"

@@ -5,7 +5,7 @@ latitude: 48.6780277
 longitude: 9.0208214
 postcode: 71032
 city: Böblingen
-street: Schönaicher Straße
+street: "Schönaicher Straße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

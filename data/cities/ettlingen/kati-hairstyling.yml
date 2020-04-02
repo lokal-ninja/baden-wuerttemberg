@@ -5,7 +5,7 @@ latitude: 48.941530900000004
 longitude: 8.4055145
 postcode: 76275
 city: Ettlingen
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

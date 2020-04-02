@@ -5,7 +5,7 @@ latitude: 49.2469036
 longitude: 8.878563100000001
 postcode: 74889
 city: Sinsheim
-street: Strombergstraße
+street: "Strombergstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Th 07:00-22:30; Fr,Sa 07:00-23:00"

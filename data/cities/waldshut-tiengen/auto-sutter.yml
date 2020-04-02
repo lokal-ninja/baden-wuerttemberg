@@ -5,7 +5,7 @@ latitude: 47.6338492
 longitude: 8.268964800000001
 postcode: 79761
 city: Waldshut-Tiengen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 21
 phone: "+49 7741 2051"
 opening_hours: ""

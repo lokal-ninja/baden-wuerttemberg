@@ -5,7 +5,7 @@ latitude: 48.1973737
 longitude: 7.7737623000000005
 postcode: 79341
 city: Kenzingen
-street: Feuerwehrweg
+street: "Feuerwehrweg"
 housenumber: 2
 phone: "+497644926840"
 opening_hours: "Mo-Sa 08:00-21:00"

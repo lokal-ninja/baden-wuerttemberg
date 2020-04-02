@@ -5,7 +5,7 @@ latitude: 49.1449395
 longitude: 9.306560600000001
 postcode: 74189
 city: Weinsberg
-street: Am Autobahnkreuz
+street: "Am Autobahnkreuz"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

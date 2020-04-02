@@ -5,7 +5,7 @@ latitude: 49.461922200000004
 longitude: 8.986510200000001
 postcode: 69412
 city: Eberbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 19
 phone: "+49 6271 917289"
 opening_hours: ""

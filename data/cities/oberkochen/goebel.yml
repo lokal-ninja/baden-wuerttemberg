@@ -5,7 +5,7 @@ latitude: 48.786552500000006
 longitude: 10.107590100000001
 postcode: 73447
 city: Oberkochen
-street: Bürgermeister-Bosch-Straße
+street: "Bürgermeister-Bosch-Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

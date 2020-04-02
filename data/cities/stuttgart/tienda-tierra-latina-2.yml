@@ -5,7 +5,7 @@ latitude: 48.7826364
 longitude: 9.165664900000001
 postcode: 70174
 city: Stuttgart
-street: Lerchenstraße
+street: "Lerchenstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

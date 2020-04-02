@@ -5,7 +5,7 @@ latitude: 48.9594116
 longitude: 9.1249879
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 65
 phone: ""
 opening_hours: ""

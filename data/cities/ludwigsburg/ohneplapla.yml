@@ -5,7 +5,7 @@ latitude: 48.8988011
 longitude: 9.1909585
 postcode: 71634
 city: Ludwigsburg
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Tu,Th 09:00-19:00; Sa 09:00-16:00"

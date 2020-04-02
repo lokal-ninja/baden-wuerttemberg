@@ -5,7 +5,7 @@ latitude: 48.4707286
 longitude: 8.162831200000001
 postcode: 77728
 city: Oppenau
-street: Renchtalstraße
+street: "Renchtalstraße"
 housenumber: 8
 phone: "+49 7804 614"
 opening_hours: "Th 14:00-20:00; Fr 08:00-13:00, 14:00-20:00; Sa 08:00-13:00"

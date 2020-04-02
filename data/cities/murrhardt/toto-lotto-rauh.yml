@@ -5,7 +5,7 @@ latitude: 48.9800374
 longitude: 9.5793382
 postcode: 71540
 city: Murrhardt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 07:30-13:00; We-Fr 14:30-18:00"

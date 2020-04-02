@@ -5,7 +5,7 @@ latitude: 48.799038100000004
 longitude: 9.194116300000001
 postcode: 70191
 city: Stuttgart
-street: Rosensteinstraße
+street: "Rosensteinstraße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Fr 08:00-22:00; Sa 08:00-22:00; PH off"

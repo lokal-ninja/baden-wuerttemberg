@@ -5,7 +5,7 @@ latitude: 47.76812210000001
 longitude: 9.1589293
 postcode: 88662
 city: Überlingen
-street: Turmgasse
+street: "Turmgasse"
 housenumber: 8
 phone: "+49755160575"
 opening_hours: "Mo 09:30-15:00; Tu 09:30-13:00,14:30-18:30; We-Sa 9:30-15:00"

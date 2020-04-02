@@ -5,7 +5,7 @@ latitude: 48.595504500000004
 longitude: 8.1134803
 postcode: 77876
 city: Kappelrodeck
-street: Bronnmattstraße
+street: "Bronnmattstraße"
 housenumber: 7
 phone: "+49 7842 2212"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.8115995
 longitude: 9.384332800000001
 postcode: 71384
 city: Weinstadt
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00, Sa 09:00-13:00, Su, PH off"

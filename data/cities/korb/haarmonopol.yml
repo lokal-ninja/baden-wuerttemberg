@@ -5,7 +5,7 @@ latitude: 48.830504000000005
 longitude: 9.3731189
 postcode: 71404
 city: Korb
-street: Korber Straße
+street: "Korber Straße"
 housenumber: 31
 phone: "+49 7151 30803"
 opening_hours: ""

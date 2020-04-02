@@ -5,7 +5,7 @@ latitude: 48.901107800000005
 longitude: 8.8110654
 postcode: 75223
 city: Niefern-Öschelbronn
-street: Brühlstraße
+street: "Brühlstraße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

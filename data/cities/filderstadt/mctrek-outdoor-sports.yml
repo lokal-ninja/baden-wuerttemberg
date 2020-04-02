@@ -5,7 +5,7 @@ latitude: 48.656569100000006
 longitude: 9.205798600000001
 postcode: 70794
 city: Filderstadt
-street: Heinrich-Hertz-Straße
+street: "Heinrich-Hertz-Straße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00; Mo-Fr 09:00-19:00; Sa 09:00-18:00"

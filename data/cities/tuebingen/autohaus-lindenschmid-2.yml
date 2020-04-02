@@ -5,7 +5,7 @@ latitude: 48.5333156
 longitude: 9.0777947
 postcode: 72074
 city: Tübingen
-street: Bebenhäuser Straße
+street: "Bebenhäuser Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

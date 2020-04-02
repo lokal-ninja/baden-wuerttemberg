@@ -5,7 +5,7 @@ latitude: 47.836705
 longitude: 10.016835500000001
 postcode: 88299
 city: Leutkirch im Allgäu
-street: Memminger Straße
+street: "Memminger Straße"
 housenumber: 105
 phone: "+49 7561 3247"
 opening_hours: "Mo-Fr 08:00-17:00"

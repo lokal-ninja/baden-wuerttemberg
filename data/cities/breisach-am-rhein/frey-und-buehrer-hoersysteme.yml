@@ -5,7 +5,7 @@ latitude: 48.028600600000004
 longitude: 7.583508800000001
 postcode: 79206
 city: Breisach am Rhein
-street: Neutorstraße
+street: "Neutorstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"

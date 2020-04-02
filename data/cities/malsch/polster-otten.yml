@@ -5,7 +5,7 @@ latitude: 48.893622900000004
 longitude: 8.310731500000001
 postcode: 76316
 city: Malsch
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

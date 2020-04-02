@@ -5,7 +5,7 @@ latitude: 48.0998819
 longitude: 9.7868648
 postcode: 88400
 city: Biberach an der Riß
-street: Wielandstraße
+street: "Wielandstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

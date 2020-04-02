@@ -5,7 +5,7 @@ latitude: 48.7135636
 longitude: 9.2968507
 postcode: 73760
 city: Ostfildern
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 19
 phone: "+49 711 3482000"
 opening_hours: ""

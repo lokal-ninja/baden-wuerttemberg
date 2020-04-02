@@ -5,7 +5,7 @@ latitude: 49.169148
 longitude: 9.2013038
 postcode: 74078
 city: Heilbronn
-street: Hirschstraße
+street: "Hirschstraße"
 housenumber: 3
 phone: "+49 7131 7975222"
 opening_hours: ""

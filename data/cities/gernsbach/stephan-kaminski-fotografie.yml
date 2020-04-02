@@ -5,7 +5,7 @@ latitude: 48.763074100000004
 longitude: 8.3383009
 postcode: 76593
 city: Gernsbach
-street: Igelbachstraße
+street: "Igelbachstraße"
 housenumber: 10
 phone: "+4972241710"
 opening_hours: "Mo-Tu 09:30-12:30,14:30-18:00, Th-Fr 09:30-12:30,14:30-18:00, Sa 09:30-12:30"

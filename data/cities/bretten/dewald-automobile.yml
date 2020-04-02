@@ -5,7 +5,7 @@ latitude: 49.043528900000005
 longitude: 8.7191288
 postcode: 75015
 city: Bretten
-street: Eppinger Straße
+street: "Eppinger Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.305554900000004
 longitude: 9.0210965
 postcode: 74921
 city: Helmstadt-Bargen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

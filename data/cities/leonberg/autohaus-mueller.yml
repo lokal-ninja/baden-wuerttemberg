@@ -5,7 +5,7 @@ latitude: 48.7888366
 longitude: 9.017621100000001
 postcode: 71229
 city: Leonberg
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-13:00"

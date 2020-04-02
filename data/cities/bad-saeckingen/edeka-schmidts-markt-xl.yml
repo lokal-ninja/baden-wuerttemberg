@@ -5,7 +5,7 @@ latitude: 47.5523578
 longitude: 7.9346455
 postcode: 79713
 city: Bad Säckingen
-street: Tullastraße
+street: "Tullastraße"
 housenumber: 12
 phone: "+49 7761 55327 - 0"
 opening_hours: "Mo-Sa 07:30-21:00"

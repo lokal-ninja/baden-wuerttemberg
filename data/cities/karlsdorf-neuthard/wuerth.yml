@@ -5,7 +5,7 @@ latitude: 49.1498733
 longitude: 8.5509118
 postcode: 76689
 city: Karlsdorf-Neuthard
-street: Im Ochsenstall
+street: "Im Ochsenstall"
 housenumber: 30a
 phone: ""
 opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00; Sa,Su,PH off"

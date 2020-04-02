@@ -5,7 +5,7 @@ latitude: 48.711725400000006
 longitude: 9.3069178
 postcode: 73760
 city: Ostfildern
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Th 07:00-18:30; Fr 07:00-18:00; Sa 10:00-14:00"

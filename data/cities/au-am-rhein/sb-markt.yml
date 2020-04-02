@@ -5,7 +5,7 @@ latitude: 48.954340800000004
 longitude: 8.241555400000001
 postcode: 76474
 city: Au am Rhein
-street: Neuburgweierer Straße
+street: "Neuburgweierer Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

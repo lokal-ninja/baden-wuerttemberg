@@ -5,7 +5,7 @@ latitude: 48.4967454
 longitude: 9.416965900000001
 postcode: 72574
 city: Bad Urach
-street: Schützenstraße
+street: "Schützenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00, Su,PH off"

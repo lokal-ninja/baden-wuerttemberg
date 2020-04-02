@@ -5,7 +5,7 @@ latitude: 48.601089300000005
 longitude: 7.8362074
 postcode: 77694
 city: Kehl
-street: Freiburger Straße
+street: "Freiburger Straße"
 housenumber: 1b
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

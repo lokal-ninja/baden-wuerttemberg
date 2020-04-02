@@ -5,7 +5,7 @@ latitude: 48.086200600000005
 longitude: 7.8098033000000004
 postcode: 79276
 city: Reute
-street: Kreuzmattenstraße
+street: "Kreuzmattenstraße"
 housenumber: 21
 phone: "+49 7641 1863"
 opening_hours: ""

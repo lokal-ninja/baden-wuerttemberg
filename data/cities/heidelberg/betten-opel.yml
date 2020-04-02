@@ -5,7 +5,7 @@ latitude: 49.3999928
 longitude: 8.6908542
 postcode: 69115
 city: Heidelberg
-street: Rohrbacher Straße
+street: "Rohrbacher Straße"
 housenumber: 91
 phone: "+49 6221 13170"
 opening_hours: "Mo-Fr 09:30-13:00, 14:00-18:30; Sa 09:30-14:00"

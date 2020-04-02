@@ -5,7 +5,7 @@ latitude: 48.971536300000004
 longitude: 8.309415900000001
 postcode: 76287
 city: Rheinstetten
-street: Karlsruher Straße
+street: "Karlsruher Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 9:00-12:00; Mo,Tu,Th,Fr 15:30-18:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.492278600000006
 longitude: 9.4000661
 postcode: 72574
 city: Bad Urach
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.966097000000005
 longitude: 7.8273019
 postcode: 79249
 city: Merzhausen
-street: Am Marktplatz
+street: "Am Marktplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-13:00,15:00-18:30; Sa 09:30-13:00"

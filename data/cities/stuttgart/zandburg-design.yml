@@ -5,7 +5,7 @@ latitude: 48.7741551
 longitude: 9.181877100000001
 postcode: 70182
 city: Stuttgart
-street: Esslinger Straße
+street: "Esslinger Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

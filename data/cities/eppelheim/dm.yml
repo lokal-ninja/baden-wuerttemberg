@@ -5,7 +5,7 @@ latitude: 49.4094993
 longitude: 8.6275265
 postcode: 
 city: Eppelheim
-street: Seestraße
+street: "Seestraße"
 housenumber: 71
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

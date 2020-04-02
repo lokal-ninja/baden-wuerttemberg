@@ -5,7 +5,7 @@ latitude: 48.71457890000001
 longitude: 9.5257948
 postcode: 73061
 city: Ebersbach an der Fils
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.2347411
 longitude: 9.027404800000001
 postcode: 72461
 city: Albstadt
-street: Konrad-Adenauer-Straße
+street: "Konrad-Adenauer-Straße"
 housenumber: 54
 phone: ""
 opening_hours: ""

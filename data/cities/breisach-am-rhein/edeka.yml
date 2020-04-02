@@ -5,7 +5,7 @@ latitude: 48.0267366
 longitude: 7.590439000000001
 postcode: 79206
 city: Breisach am Rhein
-street: Ihringer Landstraße
+street: "Ihringer Landstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

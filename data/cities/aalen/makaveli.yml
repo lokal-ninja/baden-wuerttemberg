@@ -5,7 +5,7 @@ latitude: 48.839178800000006
 longitude: 10.092319600000002
 postcode: 73430
 city: Aalen
-street: Beinstraße
+street: "Beinstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-16:00; Su, PH off"

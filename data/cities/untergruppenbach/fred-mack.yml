@@ -5,7 +5,7 @@ latitude: 49.0862373
 longitude: 9.286131600000001
 postcode: 74199
 city: Untergruppenbach
-street: Happenbacher Straße
+street: "Happenbacher Straße"
 housenumber: 90
 phone: "+49 7131 701996"
 opening_hours: ""

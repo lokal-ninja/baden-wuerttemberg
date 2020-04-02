@@ -5,7 +5,7 @@ latitude: 48.800321700000005
 longitude: 8.3134566
 postcode: 76571
 city: Gaggenau
-street: Konrad-Adenauer-Straße
+street: "Konrad-Adenauer-Straße"
 housenumber: 38
 phone: "+49 7225 983514"
 opening_hours: "Mo-Sa 09:00-13:00,14:00-18:00"

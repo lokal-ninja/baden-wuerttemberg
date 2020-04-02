@@ -5,7 +5,7 @@ latitude: 48.8680004
 longitude: 8.1878068
 postcode: 76437
 city: Rastatt
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 11
 phone: "+49 7222 92900"
 opening_hours: ""

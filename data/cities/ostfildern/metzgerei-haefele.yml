@@ -5,7 +5,7 @@ latitude: 48.7208934
 longitude: 9.2722186
 postcode: 73760
 city: Ostfildern
-street: Niemöllerstraße
+street: "Niemöllerstraße"
 housenumber: 7/1
 phone: "+49711/36568324"
 opening_hours: "Mo-Sa 08:00-19:00"

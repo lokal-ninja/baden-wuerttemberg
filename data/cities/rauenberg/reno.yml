@@ -5,7 +5,7 @@ latitude: 49.274741000000006
 longitude: 8.695092500000001
 postcode: 69231
 city: Rauenberg
-street: Hohenaspen
+street: "Hohenaspen"
 housenumber: 34
 phone: ""
 opening_hours: ""

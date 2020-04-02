@@ -5,7 +5,7 @@ latitude: 48.52162250000001
 longitude: 9.120133500000001
 postcode: 72127
 city: Kusterdingen
-street: Emil-Martin-Straße
+street: "Emil-Martin-Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

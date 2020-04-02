@@ -5,7 +5,7 @@ latitude: 48.153535000000005
 longitude: 9.4760112
 postcode: 88499
 city: Riedlingen
-street: Haldenstraße
+street: "Haldenstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

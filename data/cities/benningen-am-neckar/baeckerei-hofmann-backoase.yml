@@ -5,7 +5,7 @@ latitude: 48.938921
 longitude: 9.2370221
 postcode: 71726
 city: Benningen am Neckar
-street: Hirschmann-Ring
+street: "Hirschmann-Ring"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 06:15-20:00, Sa 06:15-19:00"

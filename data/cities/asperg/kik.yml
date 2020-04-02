@@ -5,7 +5,7 @@ latitude: 48.906021200000005
 longitude: 9.1342528
 postcode: 71679
 city: Asperg
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 4
 phone: "+49 2383 9540"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.898778500000006
 longitude: 9.156157700000001
 postcode: 71679
 city: Asperg
-street: Boschstraße
+street: "Boschstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

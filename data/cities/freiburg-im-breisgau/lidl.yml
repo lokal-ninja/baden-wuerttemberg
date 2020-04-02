@@ -5,7 +5,7 @@ latitude: 47.9978034
 longitude: 7.7952586
 postcode: 79111
 city: Freiburg im Breisgau
-street: Geschwister-Scholl-Platz
+street: "Geschwister-Scholl-Platz"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

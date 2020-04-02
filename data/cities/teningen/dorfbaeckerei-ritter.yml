@@ -5,7 +5,7 @@ latitude: 48.13878750000001
 longitude: 7.8052957
 postcode: 79331
 city: Teningen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Tu 06:30-12:30,15:00-18:00; Th-Fr 06:30-12:30,15:00-18:00; Sa 06:30-12:30"

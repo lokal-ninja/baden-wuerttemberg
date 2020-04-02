@@ -5,7 +5,7 @@ latitude: 48.086452400000006
 longitude: 9.7960033
 postcode: 88400
 city: Biberach an der Riß
-street: Waldseer Straße
+street: "Waldseer Straße"
 housenumber: 105/1
 phone: ""
 opening_hours: ""

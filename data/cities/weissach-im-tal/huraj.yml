@@ -5,7 +5,7 @@ latitude: 48.9193918
 longitude: 9.482539000000001
 postcode: 71554
 city: Weissach im Tal
-street: Unterweissacher Straße
+street: "Unterweissacher Straße"
 housenumber: 27
 phone: "+49 7191 51481"
 opening_hours: ""

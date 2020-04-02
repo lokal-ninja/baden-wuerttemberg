@@ -5,7 +5,7 @@ latitude: 47.587676200000004
 longitude: 8.2931883
 postcode: 5330
 city: Bad Zurzach
-street: Hauptstrasse
+street: "Hauptstrasse"
 housenumber: 55
 phone: ""
 opening_hours: ""

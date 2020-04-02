@@ -5,7 +5,7 @@ latitude: 49.151537700000006
 longitude: 8.9855988
 postcode: 75050
 city: Gemmingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 59
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:00,13:30-18:00; We,Sa 08:30-12:30"

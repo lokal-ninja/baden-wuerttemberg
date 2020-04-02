@@ -5,7 +5,7 @@ latitude: 48.679644100000004
 longitude: 10.1382417
 postcode: 89518
 city: Heidenheim an der Brenz
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 100
 phone: "+49 7321 279487"
 opening_hours: "Mo-Fr 05:30-19:00; sa-su 06:00-18:00"

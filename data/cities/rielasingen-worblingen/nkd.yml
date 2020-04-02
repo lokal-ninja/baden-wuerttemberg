@@ -5,7 +5,7 @@ latitude: 47.732128700000004
 longitude: 8.837614
 postcode: 78239
 city: Rielasingen-Worblingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

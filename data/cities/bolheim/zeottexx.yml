@@ -5,7 +5,7 @@ latitude: 48.6398651
 longitude: 10.1545787
 postcode: 89542
 city: Bolheim
-street: Heidenheimer Straße
+street: "Heidenheimer Straße"
 housenumber: 80
 phone: "+49 7324 982990"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00; PH off"

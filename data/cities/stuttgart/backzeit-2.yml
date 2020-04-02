@@ -5,7 +5,7 @@ latitude: 48.764348600000005
 longitude: 9.1670032
 postcode: 70178
 city: Stuttgart
-street: Marienplatz
+street: "Marienplatz"
 housenumber: 5B
 phone: "+49 711 3803113"
 opening_hours: "Mo-Fr 06:30-19:00; Sa 07:00-14:00"

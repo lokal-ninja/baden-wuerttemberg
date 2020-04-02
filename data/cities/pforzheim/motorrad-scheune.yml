@@ -5,7 +5,7 @@ latitude: 48.887243000000005
 longitude: 8.705702500000001
 postcode: 75175
 city: Pforzheim
-street: Holzgartenstraße
+street: "Holzgartenstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

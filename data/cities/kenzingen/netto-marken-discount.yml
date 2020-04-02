@@ -5,7 +5,7 @@ latitude: 48.188410000000005
 longitude: 7.7662857
 postcode: 
 city: Kenzingen
-street: Freiburger Straße
+street: "Freiburger Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

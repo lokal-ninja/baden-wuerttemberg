@@ -5,7 +5,7 @@ latitude: 48.823054500000005
 longitude: 9.381122300000001
 postcode: 71384
 city: Weinstadt
-street: Klingenstraße
+street: "Klingenstraße"
 housenumber: 36
 phone: ""
 opening_hours: ""

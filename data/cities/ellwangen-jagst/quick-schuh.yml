@@ -5,7 +5,7 @@ latitude: 48.961292400000005
 longitude: 10.130424000000001
 postcode: 73479
 city: Ellwangen (Jagst)
-street: Schmiedstraße
+street: "Schmiedstraße"
 housenumber: 18
 phone: "+49 7961 9695535"
 opening_hours: ""

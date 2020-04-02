@@ -5,7 +5,7 @@ latitude: 47.877055500000004
 longitude: 9.364726300000001
 postcode: 88636
 city: Illmensee
-street: Sturmbergstraße
+street: "Sturmbergstraße"
 housenumber: 8
 phone: "+49 7558 938661"
 opening_hours: ""

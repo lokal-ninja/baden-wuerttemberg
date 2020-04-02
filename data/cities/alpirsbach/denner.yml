@@ -5,7 +5,7 @@ latitude: 48.33846440000001
 longitude: 8.3960982
 postcode: 72275
 city: Alpirsbach
-street: Rötenbacher Straße
+street: "Rötenbacher Straße"
 housenumber: 19
 phone: "+497444 2280"
 opening_hours: ""

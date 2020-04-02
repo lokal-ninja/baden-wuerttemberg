@@ -5,7 +5,7 @@ latitude: 47.694292700000005
 longitude: 9.827629700000001
 postcode: 88239
 city: Wangen im Allgäu
-street: Ravensburger Straße
+street: "Ravensburger Straße"
 housenumber: 71
 phone: ""
 opening_hours: ""

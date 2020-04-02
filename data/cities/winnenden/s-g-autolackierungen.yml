@@ -5,7 +5,7 @@ latitude: 48.8736455
 longitude: 9.381843100000001
 postcode: 71364
 city: Winnenden
-street: Max-Eyth-Straße
+street: "Max-Eyth-Straße"
 housenumber: 51
 phone: "+49 7195 9771684"
 opening_hours: ""

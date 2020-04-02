@@ -5,7 +5,7 @@ latitude: 48.4386105
 longitude: 7.927935300000001
 postcode: 77656
 city: Offenburg
-street: Carl-Zeiss-Straße
+street: "Carl-Zeiss-Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

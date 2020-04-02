@@ -5,7 +5,7 @@ latitude: 48.520292500000004
 longitude: 8.0032788
 postcode: 77767
 city: Appenweier
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

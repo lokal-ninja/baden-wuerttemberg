@@ -5,7 +5,7 @@ latitude: 47.909156200000005
 longitude: 9.8921376
 postcode: 88410
 city: Bad Wurzach
-street: Ravensburger Straße
+street: "Ravensburger Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

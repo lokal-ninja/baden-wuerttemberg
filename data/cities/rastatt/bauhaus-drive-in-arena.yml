@@ -5,7 +5,7 @@ latitude: 48.860052800000005
 longitude: 8.2396048
 postcode: 76437
 city: Rastatt
-street: Im Baisert
+street: "Im Baisert"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00"

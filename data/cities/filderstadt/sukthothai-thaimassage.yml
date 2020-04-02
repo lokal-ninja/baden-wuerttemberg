@@ -5,7 +5,7 @@ latitude: 48.653567200000005
 longitude: 9.197327300000001
 postcode: 70794
 city: Filderstadt
-street: Uhlbergstraße
+street: "Uhlbergstraße"
 housenumber: 40
 phone: "+49 711 99723996"
 opening_hours: "Mo-Su 10:00-20:00"

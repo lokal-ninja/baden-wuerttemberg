@@ -5,7 +5,7 @@ latitude: 48.3589232
 longitude: 9.950502
 postcode: 89079
 city: Ulm
-street: Hans-Lorenser-Straße
+street: "Hans-Lorenser-Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 7:30 - 18:00; Sa 10:30 - 18:00; Su, PH 10:00-17:30 nur Café"

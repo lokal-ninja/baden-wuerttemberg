@@ -5,7 +5,7 @@ latitude: 49.2943243
 longitude: 8.6980427
 postcode: 69168
 city: Wiesloch
-street: Pfarrstraße
+street: "Pfarrstraße"
 housenumber: 4
 phone: "+49 6222 920112"
 opening_hours: "Mo-Fr 10:00-13:00,14:00-18:30; Sa 10:00-15:00"

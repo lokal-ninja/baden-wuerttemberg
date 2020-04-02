@@ -5,7 +5,7 @@ latitude: 48.628863
 longitude: 10.0099842
 postcode: 89547
 city: Gerstetten
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

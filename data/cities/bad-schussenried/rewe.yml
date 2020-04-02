@@ -5,7 +5,7 @@ latitude: 48.0100081
 longitude: 9.6546793
 postcode: 88427
 city: Bad Schussenried
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 1
 phone: "+49 7583 9420000"
 opening_hours: ""

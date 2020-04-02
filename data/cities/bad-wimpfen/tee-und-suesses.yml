@@ -5,7 +5,7 @@ latitude: 49.2294258
 longitude: 9.1635027
 postcode: 74206
 city: Bad Wimpfen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 25
 phone: "+49 7063 7653"
 opening_hours: "Mo-Sa 10:00-13:00; Tu 15:00-18:00;Th 15:00-18:00;Fr 15:00-18:00"

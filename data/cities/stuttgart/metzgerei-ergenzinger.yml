@@ -5,7 +5,7 @@ latitude: 48.77198670000001
 longitude: 9.1786314
 postcode: 70173
 city: Stuttgart
-street: Hauptstätter Straße
+street: "Hauptstätter Straße"
 housenumber: 47
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00"

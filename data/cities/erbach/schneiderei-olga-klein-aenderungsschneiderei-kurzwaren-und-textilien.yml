@@ -5,7 +5,7 @@ latitude: 48.327927800000005
 longitude: 9.8925544
 postcode: 89155
 city: Erbach
-street: Donaustetter Straße
+street: "Donaustetter Straße"
 housenumber: 2/1
 phone: ""
 opening_hours: ""

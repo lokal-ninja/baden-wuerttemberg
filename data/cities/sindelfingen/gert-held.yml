@@ -5,7 +5,7 @@ latitude: 48.70907690000001
 longitude: 9.002919200000001
 postcode: 71063
 city: Sindelfingen
-street: Ziegelstraße
+street: "Ziegelstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.944696400000005
 longitude: 8.575229700000001
 postcode: 75196
 city: Remchingen
-street: Pforzheimer Straße
+street: "Pforzheimer Straße"
 housenumber: 6
 phone: "+49 7232 372054"
 opening_hours: ""

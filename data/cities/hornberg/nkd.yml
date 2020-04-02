@@ -5,7 +5,7 @@ latitude: 48.2142667
 longitude: 8.2273057
 postcode: 78132
 city: Hornberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 53
 phone: ""
 opening_hours: ""

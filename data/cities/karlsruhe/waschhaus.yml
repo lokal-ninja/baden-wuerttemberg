@@ -5,7 +5,7 @@ latitude: 49.008080400000004
 longitude: 8.3816539
 postcode: 76135
 city: Karlsruhe
-street: Scheffelstraße
+street: "Scheffelstraße"
 housenumber: 23
 phone: "+49 175 2438167"
 opening_hours: "Mo-Sa 06:00-23:00; PH off"

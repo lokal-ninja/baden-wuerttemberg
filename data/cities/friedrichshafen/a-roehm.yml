@@ -5,7 +5,7 @@ latitude: 47.6578564
 longitude: 9.463183
 postcode: 88045
 city: Friedrichshafen
-street: Montafonstraße
+street: "Montafonstraße"
 housenumber: 3
 phone: "+49 7541 22208"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"

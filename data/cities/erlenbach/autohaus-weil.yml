@@ -5,7 +5,7 @@ latitude: 49.1804946
 longitude: 9.239500900000001
 postcode: 74235
 city: Erlenbach
-street: Georg-Ohm-Straße
+street: "Georg-Ohm-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

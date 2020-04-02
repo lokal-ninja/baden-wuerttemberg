@@ -5,7 +5,7 @@ latitude: 47.985392700000006
 longitude: 7.857077800000001
 postcode: 79102
 city: Freiburg im Breisgau
-street: Dreikönigstraße
+street: "Dreikönigstraße"
 housenumber: 52
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.478030600000004
 longitude: 9.142085900000001
 postcode: 72770
 city: Reutlingen
-street: Brühlstraße
+street: "Brühlstraße"
 housenumber: 8
 phone: "+49 7121 5147792"
 opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-16:00"

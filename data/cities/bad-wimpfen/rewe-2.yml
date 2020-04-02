@@ -5,7 +5,7 @@ latitude: 49.2292342
 longitude: 9.1899493
 postcode: 74206
 city: Bad Wimpfen
-street: Brühlstraße
+street: "Brühlstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

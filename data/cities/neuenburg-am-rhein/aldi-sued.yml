@@ -5,7 +5,7 @@ latitude: 47.817569500000005
 longitude: 7.5568482
 postcode: 79395
 city: Neuenburg am Rhein
-street: Colmarer Straße
+street: "Colmarer Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

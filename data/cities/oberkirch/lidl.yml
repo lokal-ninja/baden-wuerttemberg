@@ -5,7 +5,7 @@ latitude: 48.5364408
 longitude: 8.0626722
 postcode: 77704
 city: Oberkirch
-street: Hammermatt
+street: "Hammermatt"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

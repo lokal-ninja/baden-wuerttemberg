@@ -5,7 +5,7 @@ latitude: 49.477853800000005
 longitude: 8.593971100000001
 postcode: 68526
 city: Ladenburg
-street: Boveristraße
+street: "Boveristraße"
 housenumber: 
 phone: "+49 6203 402410"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.591613200000005
 longitude: 9.2341987
 postcode: 72654
 city: Neckartenzlingen
-street: Neckarstraße
+street: "Neckarstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

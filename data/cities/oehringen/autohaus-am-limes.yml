@@ -5,7 +5,7 @@ latitude: 49.201872300000005
 longitude: 9.495548300000001
 postcode: 74613
 city: Öhringen
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 15
 phone: "+49 7941 6498 07"
 opening_hours: "Mo-Fr 09:00-18:15; Sa 09:00-14:00"

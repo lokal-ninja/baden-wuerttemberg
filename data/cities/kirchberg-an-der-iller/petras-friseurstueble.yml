@@ -5,7 +5,7 @@ latitude: 48.1295463
 longitude: 10.0819784
 postcode: 88486
 city: Kirchberg an der Iller
-street: Buchenstraße
+street: "Buchenstraße"
 housenumber: 4
 phone: "+49 7354 934189"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4679407
 longitude: 8.4702745
 postcode: 68163
 city: Mannheim
-street: Meerwiesenstraße
+street: "Meerwiesenstraße"
 housenumber: 23
 phone: "+49 621 811837"
 opening_hours: "Mo-Fr 07:00-13:00, Mo-Fr 15:00-18:30, Sa 08:00-13:00"

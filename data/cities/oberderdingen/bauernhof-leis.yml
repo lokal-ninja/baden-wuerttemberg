@@ -5,7 +5,7 @@ latitude: 49.0866048
 longitude: 8.7844683
 postcode: 75038
 city: Oberderdingen
-street: Franz-von-Sickingen-Straße
+street: "Franz-von-Sickingen-Straße"
 housenumber: 33
 phone: ""
 opening_hours: "24/7"

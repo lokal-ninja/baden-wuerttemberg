@@ -5,7 +5,7 @@ latitude: 48.8873271
 longitude: 8.705018
 postcode: 75175
 city: Pforzheim
-street: Holzgartenstraße
+street: "Holzgartenstraße"
 housenumber: 6
 phone: "+49 7231 62313"
 opening_hours: ""

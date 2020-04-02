@@ -5,7 +5,7 @@ latitude: 49.546420100000006
 longitude: 8.6560058
 postcode: 69469
 city: Weinheim
-street: Cavaillonstraße
+street: "Cavaillonstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

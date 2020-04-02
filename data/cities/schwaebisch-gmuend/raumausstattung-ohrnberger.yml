@@ -5,7 +5,7 @@ latitude: 48.7880891
 longitude: 9.752803400000001
 postcode: 73529
 city: Schwäbisch Gmünd
-street: Alexander-von-Humboldt-Straße
+street: "Alexander-von-Humboldt-Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Tu 09:30-13:00, 14:00-18:00; We 09:30-13:00; Th-Fr 09:30-13:00, 14:00-18:00"

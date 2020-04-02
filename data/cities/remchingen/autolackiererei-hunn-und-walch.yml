@@ -5,7 +5,7 @@ latitude: 48.945870600000006
 longitude: 8.5722963
 postcode: 75196
 city: Remchingen
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

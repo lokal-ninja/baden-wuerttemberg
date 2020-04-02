@@ -5,7 +5,7 @@ latitude: 48.910666400000004
 longitude: 8.719187400000001
 postcode: 75177
 city: Pforzheim
-street: Kieselbronner Straße
+street: "Kieselbronner Straße"
 housenumber: 37
 phone: "+49 7231 91000"
 opening_hours: ""

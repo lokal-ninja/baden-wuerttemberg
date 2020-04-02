@@ -5,7 +5,7 @@ latitude: 48.635346500000004
 longitude: 8.0629674
 postcode: 77855
 city: Achern
-street: Severinstraße
+street: "Severinstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"

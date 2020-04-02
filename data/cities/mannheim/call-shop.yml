@@ -5,7 +5,7 @@ latitude: 49.5033279
 longitude: 8.4630457
 postcode: 68169
 city: Mannheim
-street: Ackerstraße
+street: "Ackerstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

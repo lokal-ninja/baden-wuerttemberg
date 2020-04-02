@@ -5,7 +5,7 @@ latitude: 48.332995000000004
 longitude: 7.8450901
 postcode: 77933
 city: Lahr/Schwarzwald
-street: Im Götzmann
+street: "Im Götzmann"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH Su off"

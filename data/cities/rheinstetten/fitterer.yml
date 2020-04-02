@@ -5,7 +5,7 @@ latitude: 48.9609267
 longitude: 8.2801018
 postcode: 76287
 city: Rheinstetten
-street: Boschstraße
+street: "Boschstraße"
 housenumber: 12
 phone: "+49 7242 93720"
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"

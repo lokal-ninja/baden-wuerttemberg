@@ -5,7 +5,7 @@ latitude: 49.668816400000004
 longitude: 9.5264588
 postcode: 
 city: Külsheim
-street: Rommelstraße
+street: "Rommelstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

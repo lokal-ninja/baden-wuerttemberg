@@ -5,7 +5,7 @@ latitude: 49.404644700000006
 longitude: 9.389918600000001
 postcode: 74740
 city: Adelsheim
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 25
 phone: "+49 6291 646677"
 opening_hours: ""

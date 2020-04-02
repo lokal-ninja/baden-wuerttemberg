@@ -5,7 +5,7 @@ latitude: 48.468300400000004
 longitude: 9.225350800000001
 postcode: 72793
 city: Pfullingen
-street: Kurze Straße
+street: "Kurze Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

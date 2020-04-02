@@ -5,7 +5,7 @@ latitude: 48.386159400000004
 longitude: 8.980485
 postcode: 72411
 city: Bodelshausen
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 22
 phone: "+4974717397041"
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 08:00-11:00"

@@ -5,7 +5,7 @@ latitude: 49.0128192
 longitude: 10.217033500000001
 postcode: 73488
 city: Ellenberg
-street: Pfarrstraße
+street: "Pfarrstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.395892100000005
 longitude: 8.023690700000001
 postcode: 77723
 city: Gengenbach
-street: Flößerstraße
+street: "Flößerstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.485551
 longitude: 9.002236
 postcode: 72072
 city: Tübingen
-street: Bonlanden
+street: "Bonlanden"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

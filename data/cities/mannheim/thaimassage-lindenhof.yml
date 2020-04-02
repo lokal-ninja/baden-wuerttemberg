@@ -5,7 +5,7 @@ latitude: 49.4737042
 longitude: 8.4681988
 postcode: 68163
 city: Mannheim
-street: Windeckstraße
+street: "Windeckstraße"
 housenumber: 9
 phone: "+49 163 6923375"
 opening_hours: "Mo-Sa 10:00-20:00"

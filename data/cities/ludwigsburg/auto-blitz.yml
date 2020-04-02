@@ -5,7 +5,7 @@ latitude: 48.909083200000005
 longitude: 9.1720653
 postcode: 71634
 city: Ludwigsburg
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 72
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.0156122
 longitude: 8.3976752
 postcode: 76131
 city: Karlsruhe
-street: Willy-Brandt-Allee
+street: "Willy-Brandt-Allee"
 housenumber: 3
 phone: "+49 721 9201618"
 opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00"

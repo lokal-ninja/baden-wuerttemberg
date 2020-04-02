@@ -5,7 +5,7 @@ latitude: 49.254222000000006
 longitude: 9.8603824
 postcode: 74595
 city: Langenburg
-street: Bahnweg
+street: "Bahnweg"
 housenumber: 38
 phone: "+49 7905 243"
 opening_hours: ""

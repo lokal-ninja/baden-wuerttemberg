@@ -5,7 +5,7 @@ latitude: 48.6503226
 longitude: 8.1307848
 postcode: 77886
 city: Lauf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 41
 phone: "+49 7841 62380"
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00"

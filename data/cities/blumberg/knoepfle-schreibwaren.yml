@@ -5,7 +5,7 @@ latitude: 47.8395979
 longitude: 8.5318451
 postcode: 78176
 city: Blumberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 79
 phone: ""
 opening_hours: ""

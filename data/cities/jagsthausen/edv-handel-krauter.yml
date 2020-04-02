@@ -5,7 +5,7 @@ latitude: 49.313436200000005
 longitude: 9.445204700000001
 postcode: 74249
 city: Jagsthausen
-street: Am Berg
+street: "Am Berg"
 housenumber: 5
 phone: "+49 7943 943975"
 opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"

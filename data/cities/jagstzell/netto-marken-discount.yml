@@ -5,7 +5,7 @@ latitude: 49.0337941
 longitude: 10.0961266
 postcode: 73489
 city: Jagstzell
-street: Crailsheimer Straße
+street: "Crailsheimer Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

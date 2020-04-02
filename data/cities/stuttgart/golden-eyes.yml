@@ -5,7 +5,7 @@ latitude: 48.7759305
 longitude: 9.178369100000001
 postcode: 70173
 city: Stuttgart
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

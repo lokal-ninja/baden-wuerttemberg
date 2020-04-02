@@ -5,7 +5,7 @@ latitude: 49.071866500000006
 longitude: 9.7272843
 postcode: 74538
 city: Rosengarten
-street: Karl-Kurz-Straße
+street: "Karl-Kurz-Straße"
 housenumber: 15
 phone: "+49 791 9452920"
 opening_hours: ""

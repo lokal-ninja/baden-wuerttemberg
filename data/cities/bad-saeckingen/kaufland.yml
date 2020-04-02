@@ -5,7 +5,7 @@ latitude: 47.5598426
 longitude: 7.9723335
 postcode: 79713
 city: Bad Säckingen
-street: Schaffhauser Straße
+street: "Schaffhauser Straße"
 housenumber: 90
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 48.168143400000005
 longitude: 8.6264797
 postcode: 78628
 city: Rottweil
-street: Engelgasse
+street: "Engelgasse"
 housenumber: 14
 phone: ""
 opening_hours: ""

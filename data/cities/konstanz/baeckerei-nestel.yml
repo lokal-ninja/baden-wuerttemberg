@@ -5,7 +5,7 @@ latitude: 47.6665993
 longitude: 9.172152500000001
 postcode: 78462
 city: Konstanz
-street: Rheingutstraße
+street: "Rheingutstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Su,PH 08:00-11:00; Mo-Fr 06:30-18:30; Sa 06:30-13:00"

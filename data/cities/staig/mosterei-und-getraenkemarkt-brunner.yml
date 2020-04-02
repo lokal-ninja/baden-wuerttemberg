@@ -5,7 +5,7 @@ latitude: 48.299904000000005
 longitude: 9.999939000000001
 postcode: 89195
 city: Staig
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 14
 phone: "+49 7346 6541"
 opening_hours: ""

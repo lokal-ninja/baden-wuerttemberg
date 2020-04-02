@@ -5,7 +5,7 @@ latitude: 48.792476400000005
 longitude: 9.933381
 postcode: 73540
 city: Heubach
-street: Gmünder Straße
+street: "Gmünder Straße"
 housenumber: 3
 phone: "+49 7173 4151"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-14:00"

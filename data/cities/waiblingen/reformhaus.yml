@@ -5,7 +5,7 @@ latitude: 48.830825600000004
 longitude: 9.312789500000001
 postcode: 71332
 city: Waiblingen
-street: Fronackerstraße
+street: "Fronackerstraße"
 housenumber: 10-12
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.520610500000004
 longitude: 9.053284000000001
 postcode: 72070
 city: Tübingen
-street: Marktgasse
+street: "Marktgasse"
 housenumber: 1
 phone: "+49 7071 9809089"
 opening_hours: "Mo-Fr 10:30-14:00,14:30-18:30,Sa 10:30-16:00"

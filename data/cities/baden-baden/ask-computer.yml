@@ -5,7 +5,7 @@ latitude: 48.7442769
 longitude: 8.2598366
 postcode: 76534
 city: Baden-Baden
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 93
 phone: "+49 7221 9711652"
 opening_hours: "Mo-Fr 09:30-18:30; We 09:30-14:00"

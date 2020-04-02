@@ -5,7 +5,7 @@ latitude: 49.0032579
 longitude: 8.382996
 postcode: 76135
 city: Karlsruhe
-street: Schwindstraße
+street: "Schwindstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

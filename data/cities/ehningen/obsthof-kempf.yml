@@ -5,7 +5,7 @@ latitude: 48.6574116
 longitude: 8.9413088
 postcode: 71139
 city: Ehningen
-street: Hildrizhauser Straße
+street: "Hildrizhauser Straße"
 housenumber: 31
 phone: "+49 7034 5611"
 opening_hours: "Mo,We,Fr 09:00-13:00,16:30-19:00; Sa 09:00-13:00; PH off"

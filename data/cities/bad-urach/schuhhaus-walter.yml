@@ -5,7 +5,7 @@ latitude: 48.4945096
 longitude: 9.3878173
 postcode: 72574
 city: Bad Urach
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00; PH off"

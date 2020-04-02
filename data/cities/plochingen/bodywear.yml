@@ -5,7 +5,7 @@ latitude: 48.710677000000004
 longitude: 9.4164291
 postcode: 
 city: Plochingen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.687693700000004
 longitude: 9.4253824
 postcode: 73249
 city: Wernau (Neckar)
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 42/1
 phone: ""
 opening_hours: ""

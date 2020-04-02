@@ -5,7 +5,7 @@ latitude: 48.8205365
 longitude: 9.2194587
 postcode: 
 city: Stuttgart
-street: Nagoldstraße
+street: "Nagoldstraße"
 housenumber: 40
 phone: ""
 opening_hours: ""

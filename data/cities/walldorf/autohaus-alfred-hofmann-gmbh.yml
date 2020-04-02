@@ -5,7 +5,7 @@ latitude: 49.3049091
 longitude: 8.6322645
 postcode: 69190
 city: Walldorf
-street: Carl-Zeiss-Straße
+street: "Carl-Zeiss-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.1693331
 longitude: 9.2628454
 postcode: 74235
 city: Erlenbach
-street: Im Unterwasser
+street: "Im Unterwasser"
 housenumber: 21
 phone: "+49 7132 9918133"
 opening_hours: "Mo-Sa 07:00-21:00"

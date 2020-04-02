@@ -5,7 +5,7 @@ latitude: 49.013402500000005
 longitude: 8.6068727
 postcode: 75045
 city: Walzbachtal
-street: Bruchstraße
+street: "Bruchstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

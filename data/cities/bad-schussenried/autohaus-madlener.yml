@@ -5,7 +5,7 @@ latitude: 47.9791322
 longitude: 9.647909100000001
 postcode: 88427
 city: Bad Schussenried
-street: Laimbacher Straße
+street: "Laimbacher Straße"
 housenumber: 4
 phone: "+49 7525 911 411"
 opening_hours: ""

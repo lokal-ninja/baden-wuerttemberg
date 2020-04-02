@@ -5,7 +5,7 @@ latitude: 48.9473216
 longitude: 9.428824
 postcode: 71522
 city: Backnang
-street: Grabenstraße
+street: "Grabenstraße"
 housenumber: 15
 phone: "+49 7191 343590"
 opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00"

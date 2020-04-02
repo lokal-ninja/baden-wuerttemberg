@@ -5,7 +5,7 @@ latitude: 48.869837100000005
 longitude: 8.6344407
 postcode: 75217
 city: Birkenfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 91
 phone: "+49 7231 481760"
 opening_hours: "Mo.-Fr. 8:30 -19:00, Sa. 8:00-14:00"

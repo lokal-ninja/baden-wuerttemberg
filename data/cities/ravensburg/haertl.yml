@@ -5,7 +5,7 @@ latitude: 47.7840671
 longitude: 9.6123271
 postcode: 88212
 city: Ravensburg
-street: Obere Breite Straße
+street: "Obere Breite Straße"
 housenumber: 50
 phone: "+49 751 21763"
 opening_hours: ""

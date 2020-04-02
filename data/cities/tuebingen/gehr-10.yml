@@ -5,7 +5,7 @@ latitude: 48.534600700000006
 longitude: 9.053167
 postcode: 72076
 city: Tübingen
-street: Robert-Gradmann-Weg
+street: "Robert-Gradmann-Weg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-16:00; Su 08:00-11:00"

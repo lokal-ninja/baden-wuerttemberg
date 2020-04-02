@@ -5,7 +5,7 @@ latitude: 49.2533954
 longitude: 9.8482433
 postcode: 74595
 city: Langenburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 29
 phone: "+49 7905 277"
 opening_hours: ""

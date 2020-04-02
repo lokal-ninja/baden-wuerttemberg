@@ -5,7 +5,7 @@ latitude: 48.6791526
 longitude: 10.145819600000001
 postcode: 89518
 city: Heidenheim an der Brenz
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 45-49
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.73094570000001
 longitude: 9.242355
 postcode: 73760
 city: Ostfildern
-street: Senefelderstraße
+street: "Senefelderstraße"
 housenumber: 12/1
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

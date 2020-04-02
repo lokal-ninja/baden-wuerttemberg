@@ -5,7 +5,7 @@ latitude: 48.817046600000005
 longitude: 9.296615000000001
 postcode: 71332
 city: Waiblingen
-street: Essener Straße
+street: "Essener Straße"
 housenumber: 8
 phone: "+49 7151 562423"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

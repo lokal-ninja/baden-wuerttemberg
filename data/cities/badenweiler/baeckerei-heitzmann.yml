@@ -5,7 +5,7 @@ latitude: 47.801465900000004
 longitude: 7.6727464
 postcode: 79410
 city: Badenweiler
-street: Luisenstraße
+street: "Luisenstraße"
 housenumber: 2
 phone: "+49 7632 5019"
 opening_hours: "Mo-Fr 06:30-18:30, Sa 06:30-17:30, So 07:30-17:30"

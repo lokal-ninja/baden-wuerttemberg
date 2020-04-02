@@ -5,7 +5,7 @@ latitude: 48.4018512
 longitude: 9.9897983
 postcode: 89073
 city: Ulm
-street: Olgastraße
+street: "Olgastraße"
 housenumber: 93
 phone: ""
 opening_hours: ""

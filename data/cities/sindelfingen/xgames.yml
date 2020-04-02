@@ -5,7 +5,7 @@ latitude: 48.707069700000005
 longitude: 8.9983082
 postcode: 71063
 city: Sindelfingen
-street: Wettbachstraße
+street: "Wettbachstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Fr 11:00-20:00; Sa 10:00-20:00; PH off"

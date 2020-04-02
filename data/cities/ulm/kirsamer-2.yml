@@ -5,7 +5,7 @@ latitude: 48.397777700000006
 longitude: 9.9955788
 postcode: 89073
 city: Ulm
-street: Frauenstraße
+street: "Frauenstraße"
 housenumber: 1
 phone: "+49 731 14395441"
 opening_hours: "Mo-Sa 07:00-18:30"

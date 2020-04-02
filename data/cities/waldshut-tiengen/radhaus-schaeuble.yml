@@ -5,7 +5,7 @@ latitude: 47.6469254
 longitude: 8.2469581
 postcode: 79761
 city: Waldshut-Tiengen
-street: Schlüchttalstraße
+street: "Schlüchttalstraße"
 housenumber: 33
 phone: "+49 7741 967158"
 opening_hours: "Tu-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-13:00"

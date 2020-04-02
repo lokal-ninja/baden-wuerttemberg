@@ -5,7 +5,7 @@ latitude: 48.679064200000006
 longitude: 8.9749538
 postcode: 71034
 city: Böblingen
-street: Hanns-Klemm-Straße
+street: "Hanns-Klemm-Straße"
 housenumber: 50
 phone: "+49 7031 43589 0"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00; PH off"

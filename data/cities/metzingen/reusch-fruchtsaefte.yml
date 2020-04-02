@@ -5,7 +5,7 @@ latitude: 48.531705200000005
 longitude: 9.3065494
 postcode: 72555
 city: Metzingen
-street: Kelternstraße
+street: "Kelternstraße"
 housenumber: 25
 phone: "+49 7123 4563"
 opening_hours: ""

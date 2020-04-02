@@ -5,7 +5,7 @@ latitude: 48.5868497
 longitude: 9.188178500000001
 postcode: 72141
 city: Walddorfhäslach
-street: Heerstraße
+street: "Heerstraße"
 housenumber: 31
 phone: "+49 7127 237273"
 opening_hours: "on appointment"

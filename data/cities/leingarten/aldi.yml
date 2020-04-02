@@ -5,7 +5,7 @@ latitude: 49.1485032
 longitude: 9.119132800000001
 postcode: 74211
 city: Leingarten
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

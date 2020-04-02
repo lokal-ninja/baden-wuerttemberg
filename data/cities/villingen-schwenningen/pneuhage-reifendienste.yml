@@ -5,7 +5,7 @@ latitude: 48.071859100000005
 longitude: 8.457766600000001
 postcode: 78048
 city: Villingen-Schwenningen
-street: Vockenhauser Straße
+street: "Vockenhauser Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.7973791
 longitude: 9.9306993
 postcode: 73540
 city: Heubach
-street: Beiswanger Straße
+street: "Beiswanger Straße"
 housenumber: 23
 phone: "+49 7173 12410"
 opening_hours: "Mo-Fr 08:30-13:00, 14:00-18:00; Sa 08:00-13:00"

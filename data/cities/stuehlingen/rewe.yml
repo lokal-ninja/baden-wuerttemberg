@@ -5,7 +5,7 @@ latitude: 47.744359200000005
 longitude: 8.4495699
 postcode: 
 city: Stühlingen
-street: Lindenweg
+street: "Lindenweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

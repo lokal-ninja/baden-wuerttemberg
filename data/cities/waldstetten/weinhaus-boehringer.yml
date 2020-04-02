@@ -5,7 +5,7 @@ latitude: 48.7323284
 longitude: 9.810544700000001
 postcode: 73550
 city: Waldstetten
-street: Talstraße
+street: "Talstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

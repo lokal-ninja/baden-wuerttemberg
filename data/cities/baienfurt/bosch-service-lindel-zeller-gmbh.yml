@@ -5,7 +5,7 @@ latitude: 47.831682900000004
 longitude: 9.6661379
 postcode: 88255
 city: Baienfurt
-street: Kartonstraße
+street: "Kartonstraße"
 housenumber: 4
 phone: "+49 751 41061"
 opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-15:30; Sa 09:00-12:00"

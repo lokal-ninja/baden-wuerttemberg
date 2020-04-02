@@ -5,7 +5,7 @@ latitude: 49.0669903
 longitude: 9.0839368
 postcode: 74336
 city: Brackenheim
-street: Wilhelm-Schmid-Straße
+street: "Wilhelm-Schmid-Straße"
 housenumber: 26
 phone: "+49 7135 6828"
 opening_hours: "Mo-Fr 08:30-12:30,14:00-18:30; Sa 08:30-13:00; PH off"

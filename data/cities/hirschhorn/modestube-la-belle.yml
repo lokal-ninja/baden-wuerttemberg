@@ -5,7 +5,7 @@ latitude: 49.4473673
 longitude: 8.8983468
 postcode: 69434
 city: Hirschhorn
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 38
 phone: "+49 6272 1400"
 opening_hours: "Mo-Fr 15:00-18:00, Sa 10:00-13:00"

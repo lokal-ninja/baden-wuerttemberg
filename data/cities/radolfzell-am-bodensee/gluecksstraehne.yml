@@ -5,7 +5,7 @@ latitude: 47.736785600000005
 longitude: 8.969779
 postcode: 78315
 city: Radolfzell am Bodensee
-street: Seestraße
+street: "Seestraße"
 housenumber: 27
 phone: "+497732938222"
 opening_hours: ""

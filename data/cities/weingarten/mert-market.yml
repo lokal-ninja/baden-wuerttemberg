@@ -5,7 +5,7 @@ latitude: 47.815989800000004
 longitude: 9.6299674
 postcode: 88250
 city: Weingarten
-street: Maybachstraße
+street: "Maybachstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"

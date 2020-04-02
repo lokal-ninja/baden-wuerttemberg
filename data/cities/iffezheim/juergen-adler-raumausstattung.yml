@@ -5,7 +5,7 @@ latitude: 48.821519800000004
 longitude: 8.145895300000001
 postcode: 76473
 city: Iffezheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,15:00-18:30; We,Sa 09:00-13:00"

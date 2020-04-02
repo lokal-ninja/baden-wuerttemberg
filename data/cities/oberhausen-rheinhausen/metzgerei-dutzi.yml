@@ -5,7 +5,7 @@ latitude: 49.2564007
 longitude: 8.485456300000001
 postcode: 68794
 city: Oberhausen-Rheinhausen
-street: Schanzenstraße
+street: "Schanzenstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

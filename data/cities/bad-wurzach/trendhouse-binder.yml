@@ -5,7 +5,7 @@ latitude: 47.908237
 longitude: 9.8948288
 postcode: 88410
 city: Bad Wurzach
-street: Herrenstraße
+street: "Herrenstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

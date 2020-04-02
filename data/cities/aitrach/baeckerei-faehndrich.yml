@@ -5,7 +5,7 @@ latitude: 47.939082500000005
 longitude: 10.0905049
 postcode: 88319
 city: Aitrach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 48
 phone: ""
 opening_hours: ""

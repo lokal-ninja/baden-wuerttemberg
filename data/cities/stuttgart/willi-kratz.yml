@@ -5,7 +5,7 @@ latitude: 48.7812569
 longitude: 9.1584392
 postcode: 70176
 city: Stuttgart
-street: Johannesstraße
+street: "Johannesstraße"
 housenumber: 87
 phone: ""
 opening_hours: "Mo 06:30-18:30; Tu-We off; Th-Fr 06:30-18:30; Sa 06:30-13:00; Su 08:00-11:00"

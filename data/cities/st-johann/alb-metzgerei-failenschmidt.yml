@@ -5,7 +5,7 @@ latitude: 48.431232800000004
 longitude: 9.3814074
 postcode: 72813
 city: St. Johann
-street: Parkstraße
+street: "Parkstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.9687126
 longitude: 8.478145600000001
 postcode: 76228
 city: Karlsruhe
-street: Tiefentalstraße
+street: "Tiefentalstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-17:00"

@@ -5,7 +5,7 @@ latitude: 47.692523
 longitude: 9.0743364
 postcode: 78479
 city: Reichenau
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 1
 phone: "+49 7534 1752"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-16:00"

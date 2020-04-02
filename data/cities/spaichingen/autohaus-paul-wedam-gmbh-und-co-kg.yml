@@ -5,7 +5,7 @@ latitude: 48.0679996
 longitude: 8.731303200000001
 postcode: 78549
 city: Spaichingen
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.823844
 longitude: 10.061610400000001
 postcode: 73431
 city: Aalen
-street: Carl-Zeiss-Straße
+street: "Carl-Zeiss-Straße"
 housenumber: 85
 phone: ""
 opening_hours: ""

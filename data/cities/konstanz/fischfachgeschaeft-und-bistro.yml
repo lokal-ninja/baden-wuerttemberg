@@ -5,7 +5,7 @@ latitude: 47.6815055
 longitude: 9.2111546
 postcode: 78464
 city: Konstanz
-street: William-Graf-Platz
+street: "William-Graf-Platz"
 housenumber: 4
 phone: "+49 7531 8076961"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.017229900000004
 longitude: 8.4436259
 postcode: 76131
 city: Karlsruhe
-street: Brettener Straße
+street: "Brettener Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo,We-Fr 09:00-12:30, 14:30-18:00;Tu 09:00-12:30; Sa 09:00-12:00; Su,PH off"

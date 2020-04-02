@@ -5,7 +5,7 @@ latitude: 48.8513024
 longitude: 9.937738600000001
 postcode: 73572
 city: Heuchlingen
-street: Leinzeller Straße
+street: "Leinzeller Straße"
 housenumber: 46
 phone: ""
 opening_hours: "Mo,Tu,We,Fr 09:30-12:00,14:00-18:30; Th 09:30-12:00,14:00-20:30; Sa 09:30-16:00, PH off"

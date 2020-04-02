@@ -5,7 +5,7 @@ latitude: 48.785943700000004
 longitude: 10.1147817
 postcode: 73447
 city: Oberkochen
-street: Aalener Straße
+street: "Aalener Straße"
 housenumber: 82
 phone: ""
 opening_hours: ""

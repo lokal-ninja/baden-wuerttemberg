@@ -5,7 +5,7 @@ latitude: 48.513536
 longitude: 9.156890200000001
 postcode: 72827
 city: Wannweil
-street: Katharinenstraße
+street: "Katharinenstraße"
 housenumber: 10
 phone: "+49 7121 55148"
 opening_hours: ""

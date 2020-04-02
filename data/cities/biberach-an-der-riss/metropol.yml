@@ -5,7 +5,7 @@ latitude: 48.098566000000005
 longitude: 9.7906242
 postcode: 88400
 city: Biberach an der Riß
-street: Bachgasse
+street: "Bachgasse"
 housenumber: 15
 phone: ""
 opening_hours: ""

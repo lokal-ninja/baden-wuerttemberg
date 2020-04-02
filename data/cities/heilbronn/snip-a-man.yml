@@ -5,7 +5,7 @@ latitude: 49.1454059
 longitude: 9.217848400000001
 postcode: 74072
 city: Heilbronn
-street: Platz am Bollwerksturm
+street: "Platz am Bollwerksturm"
 housenumber: 1
 phone: "+49 7131 3944733"
 opening_hours: "Tu,We,Fr 09:00-19:00; Th 10:00-20:00; Sa 09:00-15:00"

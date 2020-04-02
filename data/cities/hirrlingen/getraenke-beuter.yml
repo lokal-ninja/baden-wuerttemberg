@@ -5,7 +5,7 @@ latitude: 48.406649300000005
 longitude: 8.884370500000001
 postcode: 72145
 city: Hirrlingen
-street: Rangendinger Straße
+street: "Rangendinger Straße"
 housenumber: 2
 phone: "+49 7478 8479"
 opening_hours: ""

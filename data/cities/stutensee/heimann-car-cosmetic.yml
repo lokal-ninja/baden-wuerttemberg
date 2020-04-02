@@ -5,7 +5,7 @@ latitude: 49.075101100000005
 longitude: 8.459311600000001
 postcode: 76297
 city: Stutensee
-street: Lorenzstraße
+street: "Lorenzstraße"
 housenumber: 3c
 phone: ""
 opening_hours: ""

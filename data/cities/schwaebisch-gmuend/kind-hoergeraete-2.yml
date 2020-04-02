@@ -5,7 +5,7 @@ latitude: 48.7989965
 longitude: 9.793613500000001
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Bocksgasse
+street: "Bocksgasse"
 housenumber: 26
 phone: ""
 opening_hours: ""

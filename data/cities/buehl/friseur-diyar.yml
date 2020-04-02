@@ -5,7 +5,7 @@ latitude: 48.6973527
 longitude: 8.1373773
 postcode: 77815
 city: Bühl
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 84
 phone: "+49 7223 8011538"
 opening_hours: ""

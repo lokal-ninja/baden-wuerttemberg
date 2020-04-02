@@ -5,7 +5,7 @@ latitude: 48.537096600000005
 longitude: 9.2837248
 postcode: 72555
 city: Metzingen
-street: Ulmer Straße
+street: "Ulmer Straße"
 housenumber: 3-7
 phone: "+49 7123 162 629"
 opening_hours: "Mo-Fr 10:00-20:00, Sa 09:00-20:00; PH off"

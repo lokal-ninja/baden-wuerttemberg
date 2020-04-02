@@ -5,7 +5,7 @@ latitude: 49.0743537
 longitude: 8.4526675
 postcode: 76297
 city: Stutensee
-street: Helmholtzstraße
+street: "Helmholtzstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

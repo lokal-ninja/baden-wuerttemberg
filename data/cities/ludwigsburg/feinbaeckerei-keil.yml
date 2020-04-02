@@ -5,7 +5,7 @@ latitude: 48.910124700000004
 longitude: 9.176740500000001
 postcode: 71634
 city: Ludwigsburg
-street: Geisinger Straße
+street: "Geisinger Straße"
 housenumber: 15
 phone: "+49 7141 35532"
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-13:00"

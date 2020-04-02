@@ -5,7 +5,7 @@ latitude: 48.1473165
 longitude: 9.6127265
 postcode: 
 city: Uttenweiler
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 07:30-13:00,14:00-18:00; We 07:30-13:00; Sa 07:30-12:30; PH off"

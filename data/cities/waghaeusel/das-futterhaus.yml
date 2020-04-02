@@ -5,7 +5,7 @@ latitude: 49.2109114
 longitude: 8.528304700000001
 postcode: 68753
 city: Waghäusel
-street: Hambrücker Landstraße
+street: "Hambrücker Landstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00; Su,PH off"

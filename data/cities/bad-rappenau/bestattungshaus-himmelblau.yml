@@ -5,7 +5,7 @@ latitude: 49.2396152
 longitude: 9.1004055
 postcode: 74906
 city: Bad Rappenau
-street: Kronenstraße
+street: "Kronenstraße"
 housenumber: 2/1
 phone: "+49 7264 9599424"
 opening_hours: ""

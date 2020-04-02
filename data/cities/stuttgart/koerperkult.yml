@@ -5,7 +5,7 @@ latitude: 48.840586800000004
 longitude: 9.1976182
 postcode: 70437
 city: Stuttgart
-street: Blankensteinstraße
+street: "Blankensteinstraße"
 housenumber: 79
 phone: ""
 opening_hours: ""

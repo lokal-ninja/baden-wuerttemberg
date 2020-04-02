@@ -5,7 +5,7 @@ latitude: 49.2954286
 longitude: 8.7025033
 postcode: 69168
 city: Wiesloch
-street: Altwieslocher Straße
+street: "Altwieslocher Straße"
 housenumber: 3
 phone: "+49 6222 51954"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

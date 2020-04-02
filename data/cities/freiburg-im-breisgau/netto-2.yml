@@ -5,7 +5,7 @@ latitude: 48.0003133
 longitude: 7.839914200000001
 postcode: 79106
 city: Freiburg im Breisgau
-street: Lehener Straße
+street: "Lehener Straße"
 housenumber: 23-25
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

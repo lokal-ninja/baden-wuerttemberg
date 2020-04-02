@@ -5,7 +5,7 @@ latitude: 48.9403282
 longitude: 8.6740742
 postcode: 75239
 city: Eisingen
-street: Weberstraße
+street: "Weberstraße"
 housenumber: 52
 phone: ""
 opening_hours: ""

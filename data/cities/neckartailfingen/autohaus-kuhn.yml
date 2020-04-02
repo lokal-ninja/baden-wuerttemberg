@@ -5,7 +5,7 @@ latitude: 48.608403700000004
 longitude: 9.259251200000001
 postcode: 72666
 city: Neckartailfingen
-street: Tübinger Straße
+street: "Tübinger Straße"
 housenumber: 111
 phone: ""
 opening_hours: ""

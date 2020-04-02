@@ -5,7 +5,7 @@ latitude: 48.538409800000004
 longitude: 7.9791762
 postcode: 77767
 city: Appenweier
-street: Ortenauer Straße
+street: "Ortenauer Straße"
 housenumber: 23
 phone: "+49 7805 4504"
 opening_hours: "Mo-We 08:30-13:00, 14:00-18:00; Th,Fr 08:30-13:00, 14:00-20:00; 08:00-14:00"

@@ -5,7 +5,7 @@ latitude: 48.559358
 longitude: 8.034526600000001
 postcode: 77704
 city: Oberkirch
-street: Ortenaustraße
+street: "Ortenaustraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.710085400000004
 longitude: 7.5319856000000005
 postcode: 
 city: Bad Bellingen
-street: Burgunderstraße
+street: "Burgunderstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

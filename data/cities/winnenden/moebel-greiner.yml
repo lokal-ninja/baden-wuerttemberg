@@ -5,7 +5,7 @@ latitude: 48.8755767
 longitude: 9.402156900000001
 postcode: 71364
 city: Winnenden
-street: Gutenbergweg
+street: "Gutenbergweg"
 housenumber: 3
 phone: "+49 7195 2238"
 opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-13:00"

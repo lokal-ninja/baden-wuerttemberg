@@ -5,7 +5,7 @@ latitude: 48.942967200000005
 longitude: 9.101227
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 26/2
 phone: ""
 opening_hours: ""

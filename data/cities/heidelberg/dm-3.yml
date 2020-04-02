@@ -5,7 +5,7 @@ latitude: 49.438009400000006
 longitude: 8.6793186
 postcode: 69121
 city: Heidelberg
-street: Fritz-Frey-Straße
+street: "Fritz-Frey-Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

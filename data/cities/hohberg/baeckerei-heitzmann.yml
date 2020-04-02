@@ -5,7 +5,7 @@ latitude: 48.4244045
 longitude: 7.907717600000001
 postcode: 77749
 city: Hohberg
-street: Freiburger Straße
+street: "Freiburger Straße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-13:00; Su 08:00-17:00"

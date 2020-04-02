@@ -5,7 +5,7 @@ latitude: 47.6283668
 longitude: 8.3155684
 postcode: 79787
 city: Lauchringen
-street: Riedstraße
+street: "Riedstraße"
 housenumber: 4
 phone: "+49 7741 66 100"
 opening_hours: ""

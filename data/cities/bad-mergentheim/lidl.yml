@@ -5,7 +5,7 @@ latitude: 49.496436100000004
 longitude: 9.7647002
 postcode: 
 city: Bad Mergentheim
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

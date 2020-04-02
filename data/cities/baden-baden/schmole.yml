@@ -5,7 +5,7 @@ latitude: 48.7569366
 longitude: 8.2480607
 postcode: 76530
 city: Baden-Baden
-street: Friedhofstraße
+street: "Friedhofstraße"
 housenumber: 38
 phone: "+49 7221 60099"
 opening_hours: ""

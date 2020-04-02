@@ -5,7 +5,7 @@ latitude: 48.555959800000004
 longitude: 9.374719800000001
 postcode: 72639
 city: Neuffen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo 14:00-18:00, We 09:00-13:00, Fr 14:00-18:00 || by appointment; PH off"

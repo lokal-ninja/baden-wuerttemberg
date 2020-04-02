@@ -5,7 +5,7 @@ latitude: 49.4133148
 longitude: 8.5439135
 postcode: 68723
 city: Schwetzingen
-street: Zündholzstraße
+street: "Zündholzstraße"
 housenumber: 2
 phone: "+49 62021275348"
 opening_hours: "Mo-Fr 7:00-17:00; Sa 7:00-14:00"

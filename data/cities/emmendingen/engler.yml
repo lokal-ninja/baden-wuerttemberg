@@ -5,7 +5,7 @@ latitude: 48.1284866
 longitude: 7.826825400000001
 postcode: 79312
 city: Emmendingen
-street: Bundesstraße
+street: "Bundesstraße"
 housenumber: 10/1
 phone: ""
 opening_hours: ""

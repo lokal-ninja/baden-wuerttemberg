@@ -5,7 +5,7 @@ latitude: 47.8276721
 longitude: 10.023887400000001
 postcode: 88299
 city: Leutkirch im Allgäu
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Fr 9:00-18:30; Sa 9:00-17:30"

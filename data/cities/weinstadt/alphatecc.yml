@@ -5,7 +5,7 @@ latitude: 48.8147473
 longitude: 9.3608157
 postcode: 71384
 city: Weinstadt
-street: Kalkofenstraße
+street: "Kalkofenstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00"

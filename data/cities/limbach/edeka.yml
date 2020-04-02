@@ -5,7 +5,7 @@ latitude: 49.456864
 longitude: 9.2132573
 postcode: 74838
 city: Limbach
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

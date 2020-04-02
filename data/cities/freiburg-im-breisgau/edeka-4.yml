@@ -5,7 +5,7 @@ latitude: 48.006800600000005
 longitude: 7.863790600000001
 postcode: 79104
 city: Freiburg im Breisgau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 68
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00;Sa 07:00-14:00;Su,PH off"

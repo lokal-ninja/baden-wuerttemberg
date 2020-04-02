@@ -5,7 +5,7 @@ latitude: 47.9677658
 longitude: 7.958833800000001
 postcode: 79199
 city: Kirchzarten
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 25
 phone: "+49 7661 9361066"
 opening_hours: "Mo-Su 09:00-22:00"

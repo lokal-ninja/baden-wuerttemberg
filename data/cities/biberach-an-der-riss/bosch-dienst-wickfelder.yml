@@ -5,7 +5,7 @@ latitude: 48.1068725
 longitude: 9.7930509
 postcode: 88400
 city: Biberach an der Riß
-street: Freiburger Straße
+street: "Freiburger Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

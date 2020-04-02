@@ -5,7 +5,7 @@ latitude: 48.630255700000006
 longitude: 8.506796000000001
 postcode: 72226
 city: Simmersfeld
-street: Albblickstraße
+street: "Albblickstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

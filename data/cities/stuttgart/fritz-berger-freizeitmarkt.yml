@@ -5,7 +5,7 @@ latitude: 48.8230833
 longitude: 9.1022119
 postcode: 70499
 city: Stuttgart
-street: Holderäckerstraße
+street: "Holderäckerstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"

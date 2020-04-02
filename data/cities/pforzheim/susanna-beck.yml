@@ -5,7 +5,7 @@ latitude: 48.8848939
 longitude: 8.696240300000001
 postcode: 75173
 city: Pforzheim
-street: Kallhardtstraße
+street: "Kallhardtstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

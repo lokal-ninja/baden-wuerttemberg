@@ -5,7 +5,7 @@ latitude: 48.7287079
 longitude: 8.354290800000001
 postcode: 76599
 city: Weisenbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 10:00-12:00,15:00-18:00; Sa 10:00-13:00"

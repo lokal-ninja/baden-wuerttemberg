@@ -5,7 +5,7 @@ latitude: 49.271226500000004
 longitude: 9.090701000000001
 postcode: 74936
 city: Siegelsbach
-street: Lindengasse
+street: "Lindengasse"
 housenumber: 11
 phone: "+49 7264 1216"
 opening_hours: ""

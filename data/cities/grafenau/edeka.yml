@@ -5,7 +5,7 @@ latitude: 48.714498000000006
 longitude: 8.9054722
 postcode: 71120
 city: Grafenau
-street: Dätzinger Straße
+street: "Dätzinger Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

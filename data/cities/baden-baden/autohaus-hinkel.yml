@@ -5,7 +5,7 @@ latitude: 48.8053651
 longitude: 8.220811600000001
 postcode: 76532
 city: Baden-Baden
-street: Karlsruher Straße
+street: "Karlsruher Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

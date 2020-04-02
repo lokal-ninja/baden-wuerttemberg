@@ -5,7 +5,7 @@ latitude: 48.896541000000006
 longitude: 9.193006200000001
 postcode: 71634
 city: Ludwigsburg
-street: Eberhardstraße
+street: "Eberhardstraße"
 housenumber: 6
 phone: "+49 7141 2992090"
 opening_hours: ""

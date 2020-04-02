@@ -5,7 +5,7 @@ latitude: 47.922506600000006
 longitude: 7.790150700000001
 postcode: 79283
 city: Bollschweil
-street: Hexentalstraße
+street: "Hexentalstraße"
 housenumber: 28a
 phone: "+49 7633 9334453"
 opening_hours: ""

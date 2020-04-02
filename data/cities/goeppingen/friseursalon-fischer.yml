@@ -5,7 +5,7 @@ latitude: 48.7029337
 longitude: 9.6511932
 postcode: 73033
 city: Göppingen
-street: Querstraße
+street: "Querstraße"
 housenumber: 18
 phone: "+49 7161 74286"
 opening_hours: "Tu-Fr"

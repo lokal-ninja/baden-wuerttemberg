@@ -5,7 +5,7 @@ latitude: 48.9476433
 longitude: 9.1457236
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Buchstraße
+street: "Buchstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:15; Sa 09:00-13:00"

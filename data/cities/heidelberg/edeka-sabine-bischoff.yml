@@ -5,7 +5,7 @@ latitude: 49.4178839
 longitude: 8.7566479
 postcode: 69118
 city: Heidelberg
-street: In der Neckarhelle
+street: "In der Neckarhelle"
 housenumber: 1-3
 phone: "+496221800735"
 opening_hours: "Mo-Sa 08:00-21:00"

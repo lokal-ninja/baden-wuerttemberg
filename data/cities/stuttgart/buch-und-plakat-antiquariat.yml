@@ -5,7 +5,7 @@ latitude: 48.773528400000004
 longitude: 9.1830648
 postcode: 70182
 city: Stuttgart
-street: Wagnerstraße
+street: "Wagnerstraße"
 housenumber: 43
 phone: ""
 opening_hours: ""

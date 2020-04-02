@@ -5,7 +5,7 @@ latitude: 48.068157500000005
 longitude: 7.8903635
 postcode: 79211
 city: Denzlingen
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 100a
 phone: ""
 opening_hours: "Tu-Fr 9:00-18:30; Sa 9:00-13:00"

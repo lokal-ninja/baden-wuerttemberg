@@ -5,7 +5,7 @@ latitude: 48.7143266
 longitude: 9.5625859
 postcode: 73066
 city: Uhingen
-street: Bleichereistraße
+street: "Bleichereistraße"
 housenumber: 54
 phone: "+49-7161-9659100"
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 49.235688700000004
 longitude: 9.1940012
 postcode: 74177
 city: Bad Friedrichshall
-street: Heuchlinger Straße
+street: "Heuchlinger Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

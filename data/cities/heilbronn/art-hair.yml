@@ -5,7 +5,7 @@ latitude: 49.14360670000001
 longitude: 9.2200442
 postcode: 74072
 city: Heilbronn
-street: Gemmingergasse
+street: "Gemmingergasse"
 housenumber: 1
 phone: ""
 opening_hours: ""

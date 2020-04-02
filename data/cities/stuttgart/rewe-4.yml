@@ -5,7 +5,7 @@ latitude: 48.8301001
 longitude: 9.1682316
 postcode: 70435
 city: Stuttgart
-street: Burgunderstraße
+street: "Burgunderstraße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Sa 07:00-24:00"

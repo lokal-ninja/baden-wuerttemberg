@@ -5,7 +5,7 @@ latitude: 47.9226625
 longitude: 7.738220600000001
 postcode: 79238
 city: Ehrenkirchen-Kirchhofen
-street: Otto-Löw-Straße
+street: "Otto-Löw-Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Di - Fr 12-18 Uhr, Sa 10-14 Uhr"

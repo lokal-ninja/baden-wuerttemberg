@@ -5,7 +5,7 @@ latitude: 49.1276827
 longitude: 9.165975300000001
 postcode: 74080
 city: Heilbronn
-street: Neipperger Straße
+street: "Neipperger Straße"
 housenumber: 121
 phone: ""
 opening_hours: ""

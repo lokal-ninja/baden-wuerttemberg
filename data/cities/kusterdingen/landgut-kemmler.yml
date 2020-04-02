@@ -5,7 +5,7 @@ latitude: 48.498879200000005
 longitude: 9.101341300000001
 postcode: 72127
 city: Kusterdingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 20
 phone: "+49 7071 8599540"
 opening_hours: "Tu-Fr 08:30-19:00, Sa 07:30-17:00"

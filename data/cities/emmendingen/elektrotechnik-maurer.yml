@@ -5,7 +5,7 @@ latitude: 48.121546900000006
 longitude: 7.8486342
 postcode: 79312
 city: Emmendingen
-street: Lammstraße
+street: "Lammstraße"
 housenumber: 14
 phone: "+49 7641 91920"
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30;Sa 09:30-13:00;PH off"

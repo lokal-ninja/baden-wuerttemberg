@@ -5,7 +5,7 @@ latitude: 49.482771400000004
 longitude: 8.4449965
 postcode: 67059
 city: Ludwigshafen am Rhein
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

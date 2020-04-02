@@ -5,7 +5,7 @@ latitude: 48.493764500000005
 longitude: 9.1006248
 postcode: 72127
 city: Kusterdingen
-street: Albstraße
+street: "Albstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Tu 09:30-12:30,16:00-18:00, Sa 09:30-12:30"

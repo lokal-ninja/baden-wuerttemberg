@@ -5,7 +5,7 @@ latitude: 48.869099500000004
 longitude: 9.3608317
 postcode: 71409
 city: Schwaikheim
-street: Dammstraße
+street: "Dammstraße"
 housenumber: 2
 phone: "+49719595450"
 opening_hours: ""

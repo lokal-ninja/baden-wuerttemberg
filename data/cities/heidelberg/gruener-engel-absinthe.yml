@@ -5,7 +5,7 @@ latitude: 49.4121049
 longitude: 8.7072591
 postcode: 69117
 city: Heidelberg
-street: Untere Straße
+street: "Untere Straße"
 housenumber: 14
 phone: "+49 6221 4339230"
 opening_hours: "12:00- 21:00; Su,Ph off"

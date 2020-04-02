@@ -5,7 +5,7 @@ latitude: 47.712053100000006
 longitude: 9.6919465
 postcode: 88285
 city: Bodnegg
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

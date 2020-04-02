@@ -5,7 +5,7 @@ latitude: 49.0336276
 longitude: 8.340677300000001
 postcode: 76187
 city: Karlsruhe
-street: Lönsstraße
+street: "Lönsstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

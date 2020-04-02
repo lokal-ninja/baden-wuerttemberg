@@ -5,7 +5,7 @@ latitude: 49.204798800000006
 longitude: 9.537647600000001
 postcode: 74613
 city: Öhringen
-street: Eichklingenweg
+street: "Eichklingenweg"
 housenumber: 7
 phone: ""
 opening_hours: ""

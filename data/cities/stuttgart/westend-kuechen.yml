@@ -5,7 +5,7 @@ latitude: 48.7723418
 longitude: 9.1564004
 postcode: 70197
 city: Stuttgart
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 77
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,14:30-18:00; Sa 10:00-14:00"

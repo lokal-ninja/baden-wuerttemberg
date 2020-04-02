@@ -5,7 +5,7 @@ latitude: 48.381258
 longitude: 8.898473300000001
 postcode: 72414
 city: Rangendingen
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 10:00-12:00,14:30-19:00; Sa 09:00-12:30"

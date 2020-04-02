@@ -5,7 +5,7 @@ latitude: 47.7218188
 longitude: 9.3843569
 postcode: 88677
 city: Markdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

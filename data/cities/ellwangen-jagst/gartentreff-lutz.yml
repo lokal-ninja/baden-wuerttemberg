@@ -5,7 +5,7 @@ latitude: 48.970968400000004
 longitude: 10.1206867
 postcode: 73479
 city: Ellwangen (Jagst)
-street: Haller Straße
+street: "Haller Straße"
 housenumber: 71
 phone: "+49 7961 566161"
 opening_hours: ""

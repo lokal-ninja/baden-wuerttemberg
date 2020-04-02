@@ -5,7 +5,7 @@ latitude: 49.1359945
 longitude: 8.9234218
 postcode: 
 city: Eppingen
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 1/1
 phone: ""
 opening_hours: ""

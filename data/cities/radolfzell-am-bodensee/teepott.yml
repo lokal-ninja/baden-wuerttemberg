@@ -5,7 +5,7 @@ latitude: 47.738267300000004
 longitude: 8.9700026
 postcode: 78315
 city: Radolfzell am Bodensee
-street: Löwengasse
+street: "Löwengasse"
 housenumber: 8
 phone: "+49 7732 3223"
 opening_hours: "Mo-Fr 9:00-12:30, 14:30-18:00; Sa 9:00-14:00"

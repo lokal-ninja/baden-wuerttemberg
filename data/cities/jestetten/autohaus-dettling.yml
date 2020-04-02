@@ -5,7 +5,7 @@ latitude: 47.646871600000004
 longitude: 8.563791
 postcode: 79798
 city: Jestetten
-street: Waldshuter Straße
+street: "Waldshuter Straße"
 housenumber: 27
 phone: "+49 7745 926 80"
 opening_hours: ""

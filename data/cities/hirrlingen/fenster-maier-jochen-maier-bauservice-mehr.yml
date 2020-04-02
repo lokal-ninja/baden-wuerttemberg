@@ -5,7 +5,7 @@ latitude: 48.407844000000004
 longitude: 8.882726
 postcode: 72145
 city: Hirrlingen
-street: Starzelstraße
+street: "Starzelstraße"
 housenumber: 23
 phone: "+49 7478 26 21 024"
 opening_hours: ""

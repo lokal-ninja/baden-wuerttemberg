@@ -5,7 +5,7 @@ latitude: 49.051305600000006
 longitude: 8.524918900000001
 postcode: 76356
 city: Weingarten (Baden)
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Tu 08:30-12:30,15:00-18:00; We 08:30-12:30; Th-Fr 08:30-12:30,15:00-18:00; Sa 08:30-12:00"

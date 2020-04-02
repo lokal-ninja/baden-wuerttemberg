@@ -5,7 +5,7 @@ latitude: 48.892734700000005
 longitude: 8.680740400000001
 postcode: 75172
 city: Pforzheim
-street: Maximilianstraße
+street: "Maximilianstraße"
 housenumber: 98
 phone: ""
 opening_hours: "Tu 15:00-18:00; Th 15:00-18:00"

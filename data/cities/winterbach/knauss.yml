@@ -5,7 +5,7 @@ latitude: 48.799554900000004
 longitude: 9.475042
 postcode: 73650
 city: Winterbach
-street: Westergasse
+street: "Westergasse"
 housenumber: 45
 phone: ""
 opening_hours: ""

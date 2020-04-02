@@ -5,7 +5,7 @@ latitude: 49.033288600000006
 longitude: 9.094253100000001
 postcode: 74357
 city: Bönnigheim
-street: Erligheimer Straße
+street: "Erligheimer Straße"
 housenumber: 55
 phone: ""
 opening_hours: ""

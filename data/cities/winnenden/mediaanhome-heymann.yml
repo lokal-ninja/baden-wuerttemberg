@@ -5,7 +5,7 @@ latitude: 48.878263600000004
 longitude: 9.395438200000001
 postcode: 71364
 city: Winnenden
-street: Alfred-Kärcher-Straße
+street: "Alfred-Kärcher-Straße"
 housenumber: 11
 phone: "+49 7195 10770"
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-14:00"

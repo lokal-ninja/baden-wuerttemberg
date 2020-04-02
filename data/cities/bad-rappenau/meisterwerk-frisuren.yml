@@ -5,7 +5,7 @@ latitude: 49.2392027
 longitude: 9.098432500000001
 postcode: 74906
 city: Bad Rappenau
-street: Turmstraße
+street: "Turmstraße"
 housenumber: 3
 phone: "+49 7264 8902060"
 opening_hours: ""

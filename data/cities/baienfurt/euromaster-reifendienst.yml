@@ -5,7 +5,7 @@ latitude: 47.8229642
 longitude: 9.627703700000001
 postcode: 88255
 city: Baienfurt
-street: Schussentalstraße
+street: "Schussentalstraße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00; Sa 08:00-12:00"

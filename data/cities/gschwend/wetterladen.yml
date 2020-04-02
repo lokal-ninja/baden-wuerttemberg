@@ -5,7 +5,7 @@ latitude: 48.934399000000006
 longitude: 9.7396314
 postcode: 74417
 city: Gschwend
-street: Welzheimer Straße
+street: "Welzheimer Straße"
 housenumber: 31
 phone: ""
 opening_hours: "Th-Fr 13:00-17:00; Sa 10:00-14:00"

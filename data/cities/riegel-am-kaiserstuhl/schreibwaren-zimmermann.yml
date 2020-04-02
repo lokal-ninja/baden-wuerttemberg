@@ -5,7 +5,7 @@ latitude: 48.151094900000004
 longitude: 7.750677700000001
 postcode: 79359
 city: Riegel am Kaiserstuhl
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 3
 phone: "+49 7642 8524"
 opening_hours: "Mo-We,Fr 07:30-12:30,15:00-18:00; Th,Sa 07:30-12:30"

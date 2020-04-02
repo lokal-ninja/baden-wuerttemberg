@@ -5,7 +5,7 @@ latitude: 48.7994727
 longitude: 9.0621276
 postcode: 70839
 city: Gerlingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 21
 phone: "+49715694460"
 opening_hours: "Mo-Fr 07:30-18:30; Sa 07:00-13:00"

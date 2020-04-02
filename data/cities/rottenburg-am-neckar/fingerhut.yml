@@ -5,7 +5,7 @@ latitude: 48.4729224
 longitude: 8.932945400000001
 postcode: 72108
 city: Rottenburg am Neckar
-street: Ehinger Platz
+street: "Ehinger Platz"
 housenumber: 13
 phone: "+49 7472 9848050"
 opening_hours: "Mo-Fr 14:00-18:00, Sa 09:30-12:30"

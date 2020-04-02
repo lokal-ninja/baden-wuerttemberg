@@ -5,7 +5,7 @@ latitude: 48.7374092
 longitude: 9.1659251
 postcode: 70597
 city: Stuttgart
-street: Bruno-Jacoby-Weg
+street: "Bruno-Jacoby-Weg"
 housenumber: 8
 phone: ""
 opening_hours: ""

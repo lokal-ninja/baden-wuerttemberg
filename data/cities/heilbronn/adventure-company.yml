@@ -5,7 +5,7 @@ latitude: 49.149850300000004
 longitude: 9.2141049
 postcode: 74076
 city: Heilbronn
-street: Edisonstraße
+street: "Edisonstraße"
 housenumber: 3
 phone: "+49 7131 8705 5"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"

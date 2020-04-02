@@ -5,7 +5,7 @@ latitude: 48.8626487
 longitude: 8.234492300000001
 postcode: 76437
 city: Rastatt
-street: Im Wöhr
+street: "Im Wöhr"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00"

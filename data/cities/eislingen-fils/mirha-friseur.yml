@@ -5,7 +5,7 @@ latitude: 48.69785460000001
 longitude: 9.7184801
 postcode: 73054
 city: Eislingen/Fils
-street: Leonhardstraße
+street: "Leonhardstraße"
 housenumber: 81
 phone: "+49 7161 852357"
 opening_hours: "Mo-Fr 09:00-17:00"

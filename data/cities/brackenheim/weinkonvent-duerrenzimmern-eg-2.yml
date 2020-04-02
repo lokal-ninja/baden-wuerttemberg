@@ -5,7 +5,7 @@ latitude: 49.0845241
 longitude: 9.0792721
 postcode: 74336
 city: Brackenheim
-street: Meimsheimer Straße
+street: "Meimsheimer Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off"

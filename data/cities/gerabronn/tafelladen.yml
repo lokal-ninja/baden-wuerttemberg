@@ -5,7 +5,7 @@ latitude: 49.25268620000001
 longitude: 9.919016800000001
 postcode: 74582
 city: Gerabronn
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 21
 phone: ""
 opening_hours: "Tu 14:30-15:30"

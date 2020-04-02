@@ -5,7 +5,7 @@ latitude: 48.823926300000004
 longitude: 10.058181600000001
 postcode: 73431
 city: Aalen
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.1825799
 longitude: 8.547334900000001
 postcode: 76707
 city: Hambrücken
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.139048300000006
 longitude: 8.764703500000001
 postcode: 78559
 city: Gosheim
-street: Wehinger Straße
+street: "Wehinger Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

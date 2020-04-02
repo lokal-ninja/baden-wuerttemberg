@@ -5,7 +5,7 @@ latitude: 48.722466100000005
 longitude: 8.7017317
 postcode: 75365
 city: Calw
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

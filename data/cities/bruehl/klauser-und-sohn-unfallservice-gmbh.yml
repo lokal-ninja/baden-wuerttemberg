@@ -5,7 +5,7 @@ latitude: 49.387979200000004
 longitude: 8.5231812
 postcode: 68782
 city: Brühl
-street: Weidweg
+street: "Weidweg"
 housenumber: 3a
 phone: "+49 6202 947240"
 opening_hours: ""

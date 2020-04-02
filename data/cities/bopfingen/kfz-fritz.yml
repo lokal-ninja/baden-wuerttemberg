@@ -5,7 +5,7 @@ latitude: 48.842992100000004
 longitude: 10.3970651
 postcode: 73441
 city: Bopfingen
-street: Ostalbstraße
+street: "Ostalbstraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

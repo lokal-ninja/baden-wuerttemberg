@@ -5,7 +5,7 @@ latitude: 48.660367300000004
 longitude: 9.645266000000001
 postcode: 73092
 city: Heiningen
-street: Bezgenrieter Straße
+street: "Bezgenrieter Straße"
 housenumber: 42
 phone: "+49-7161-41468"
 opening_hours: ""

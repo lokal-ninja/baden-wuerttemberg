@@ -5,7 +5,7 @@ latitude: 49.136744300000004
 longitude: 9.355909800000001
 postcode: 74182
 city: Obersulm
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 1
 phone: ""
 opening_hours: ""

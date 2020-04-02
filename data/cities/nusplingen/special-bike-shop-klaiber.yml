@@ -5,7 +5,7 @@ latitude: 48.131414500000005
 longitude: 8.889473
 postcode: 72362
 city: Nusplingen
-street: Rathausgasse
+street: "Rathausgasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.2849731
 longitude: 9.7299824
 postcode: 89584
 city: Ehingen (Donau)
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: "+49 7391 6343"
 opening_hours: "Mo-Fr 09:00-12:15,14:00-18:00; Sa 09:00-12:30"

@@ -5,7 +5,7 @@ latitude: 48.514062700000004
 longitude: 9.1520638
 postcode: 72827
 city: Wannweil
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 26
 phone: "+49 7121 1397027"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 08:00-17:00"

@@ -5,7 +5,7 @@ latitude: 48.6106805
 longitude: 8.138352300000001
 postcode: 77887
 city: Sasbachwalden
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

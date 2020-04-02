@@ -5,7 +5,7 @@ latitude: 48.167372400000005
 longitude: 8.624066800000001
 postcode: 78628
 city: Rottweil
-street: Waldtorstraße
+street: "Waldtorstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Tu-Fr 08:00-18:00; Sa 07:30-13:00; Su,Mo off"

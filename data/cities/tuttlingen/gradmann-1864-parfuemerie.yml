@@ -5,7 +5,7 @@ latitude: 47.9835062
 longitude: 8.8189461
 postcode: 78532
 city: Tuttlingen
-street: Obere Hauptstraße
+street: "Obere Hauptstraße"
 housenumber: 10
 phone: "+49 7461 13272"
 opening_hours: ""

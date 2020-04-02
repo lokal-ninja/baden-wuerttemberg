@@ -5,7 +5,7 @@ latitude: 48.893669800000005
 longitude: 8.7026492
 postcode: 75175
 city: Pforzheim
-street: Bahnhofplatz
+street: "Bahnhofplatz"
 housenumber: 1
 phone: "+49 7231 1393682"
 opening_hours: "Mo-Fr 05:00-19:00; Sa 06:00-17:00"

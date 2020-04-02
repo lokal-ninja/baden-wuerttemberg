@@ -5,7 +5,7 @@ latitude: 48.9433987
 longitude: 8.2774315
 postcode: 76448
 city: Durmersheim
-street: Karlsruher Straße
+street: "Karlsruher Straße"
 housenumber: 27a
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

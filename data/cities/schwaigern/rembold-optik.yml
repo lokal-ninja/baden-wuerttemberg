@@ -5,7 +5,7 @@ latitude: 49.140525800000006
 longitude: 9.056891400000001
 postcode: 74193
 city: Schwaigern
-street: Frizstraße
+street: "Frizstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

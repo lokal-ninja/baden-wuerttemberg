@@ -5,7 +5,7 @@ latitude: 48.764192400000006
 longitude: 9.1629473
 postcode: 70199
 city: Stuttgart
-street: Arminstraße
+street: "Arminstraße"
 housenumber: 47
 phone: "+49 711 96897231"
 opening_hours: "Mo-Sa 10:00-22:00"

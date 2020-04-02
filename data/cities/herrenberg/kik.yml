@@ -5,7 +5,7 @@ latitude: 48.5938377
 longitude: 8.8642243
 postcode: 71083
 city: Herrenberg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

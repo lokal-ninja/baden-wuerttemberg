@@ -5,7 +5,7 @@ latitude: 49.3941255
 longitude: 8.7984752
 postcode: 69151
 city: Neckargemünd
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 43
 phone: ""
 opening_hours: ""

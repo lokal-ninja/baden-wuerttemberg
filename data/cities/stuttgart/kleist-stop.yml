@@ -5,7 +5,7 @@ latitude: 48.771430800000005
 longitude: 9.1454742
 postcode: 70197
 city: Stuttgart
-street: Rotenwaldstraße
+street: "Rotenwaldstraße"
 housenumber: 99
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.8030795
 longitude: 9.528456400000001
 postcode: 73614
 city: Schorndorf
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

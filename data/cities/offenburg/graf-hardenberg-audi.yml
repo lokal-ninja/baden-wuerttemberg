@@ -5,7 +5,7 @@ latitude: 48.48251500000001
 longitude: 7.936905500000001
 postcode: 77652
 city: Offenburg
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

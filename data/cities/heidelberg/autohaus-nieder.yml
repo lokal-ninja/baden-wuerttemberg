@@ -5,7 +5,7 @@ latitude: 49.398586900000005
 longitude: 8.686416300000001
 postcode: 69115
 city: Heidelberg
-street: Franz-Knauff-Straße
+street: "Franz-Knauff-Straße"
 housenumber: 17a
 phone: ""
 opening_hours: ""

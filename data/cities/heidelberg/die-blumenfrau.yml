@@ -5,7 +5,7 @@ latitude: 49.4121043
 longitude: 8.7078963
 postcode: 69117
 city: Heidelberg
-street: Dreikönigstraße
+street: "Dreikönigstraße"
 housenumber: 24
 phone: "+49 6221 24297"
 opening_hours: "Tu,Th,Fr 08:30-18:00, We,Sa 08:30-14:00"

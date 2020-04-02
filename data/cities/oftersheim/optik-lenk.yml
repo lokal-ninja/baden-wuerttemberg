@@ -5,7 +5,7 @@ latitude: 49.3697401
 longitude: 8.583525700000001
 postcode: 68723
 city: Oftersheim
-street: Mannheimer Straße
+street: "Mannheimer Straße"
 housenumber: 42
 phone: "+49 6202 54834"
 opening_hours: "Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 14:30-18:30; Sa 09:00-13:00"

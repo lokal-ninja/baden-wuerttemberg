@@ -5,7 +5,7 @@ latitude: 49.000021700000005
 longitude: 9.2910327
 postcode: 71723
 city: Großbottwar
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

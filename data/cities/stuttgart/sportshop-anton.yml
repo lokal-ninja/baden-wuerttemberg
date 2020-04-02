@@ -5,7 +5,7 @@ latitude: 48.8145934
 longitude: 9.112702
 postcode: 70499
 city: Stuttgart
-street: Solitudestraße
+street: "Solitudestraße"
 housenumber: 234
 phone: ""
 opening_hours: ""

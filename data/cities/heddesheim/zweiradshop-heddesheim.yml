@@ -5,7 +5,7 @@ latitude: 49.5023999
 longitude: 8.599954
 postcode: 68542
 city: Heddesheim
-street: Lissenstraße
+street: "Lissenstraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00; We,Sa 09:00-13:00"

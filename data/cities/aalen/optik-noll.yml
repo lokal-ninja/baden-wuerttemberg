@@ -5,7 +5,7 @@ latitude: 48.8666465
 longitude: 10.106146200000001
 postcode: 73433
 city: Aalen
-street: Karlsplatz
+street: "Karlsplatz"
 housenumber: 7
 phone: "+49 7361 73290"
 opening_hours: ""

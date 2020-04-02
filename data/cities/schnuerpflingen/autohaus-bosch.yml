@@ -5,7 +5,7 @@ latitude: 48.2807438
 longitude: 9.977932800000001
 postcode: 89194
 city: Schnürpflingen
-street: Ortsstraße
+street: "Ortsstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

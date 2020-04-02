@@ -5,7 +5,7 @@ latitude: 49.385949100000005
 longitude: 9.1910117
 postcode: 74834
 city: Elztal
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

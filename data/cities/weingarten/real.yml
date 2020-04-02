@@ -5,7 +5,7 @@ latitude: 47.797223200000005
 longitude: 9.6237905
 postcode: 88250
 city: Weingarten
-street: Franz-Beer-Straße
+street: "Franz-Beer-Straße"
 housenumber: 107
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

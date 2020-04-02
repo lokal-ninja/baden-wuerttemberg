@@ -5,7 +5,7 @@ latitude: 48.8036146
 longitude: 9.2750087
 postcode: 70734
 city: Fellbach
-street: Hintere Straße
+street: "Hintere Straße"
 housenumber: 76
 phone: "+497113008753"
 opening_hours: ""

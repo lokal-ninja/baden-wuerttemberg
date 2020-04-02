@@ -5,7 +5,7 @@ latitude: 49.057392300000004
 longitude: 9.283242900000001
 postcode: 74360
 city: Ilsfeld
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

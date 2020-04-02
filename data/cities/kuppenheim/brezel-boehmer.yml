@@ -5,7 +5,7 @@ latitude: 48.833976500000006
 longitude: 8.255674
 postcode: 76456
 city: Kuppenheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:00-13:00; Su 08:00-17:00"

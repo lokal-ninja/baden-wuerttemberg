@@ -5,7 +5,7 @@ latitude: 48.779400100000004
 longitude: 9.162066900000001
 postcode: 70176
 city: Stuttgart
-street: Forststraße
+street: "Forststraße"
 housenumber: 51
 phone: "+49 711 67418388"
 opening_hours: "Tu-Fr 09:00-19:00, Sa 09:00-14:00"

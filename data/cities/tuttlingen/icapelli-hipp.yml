@@ -5,7 +5,7 @@ latitude: 47.984418700000006
 longitude: 8.820761800000001
 postcode: 78532
 city: Tuttlingen
-street: Jägerhofstraße
+street: "Jägerhofstraße"
 housenumber: 5
 phone: "+49 7461 3235"
 opening_hours: ""

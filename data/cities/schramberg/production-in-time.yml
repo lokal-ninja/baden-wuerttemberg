@@ -5,7 +5,7 @@ latitude: 48.240910400000004
 longitude: 8.4238541
 postcode: 
 city: Schramberg
-street: Dr.-Konstantin-Hank-Straße
+street: "Dr.-Konstantin-Hank-Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

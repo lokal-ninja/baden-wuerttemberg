@@ -5,7 +5,7 @@ latitude: 49.058422400000005
 longitude: 8.9236032
 postcode: 74374
 city: Zaberfeld
-street: Leonbronner Straße
+street: "Leonbronner Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

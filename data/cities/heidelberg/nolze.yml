@@ -5,7 +5,7 @@ latitude: 49.428374100000006
 longitude: 8.687435200000001
 postcode: 69121
 city: Heidelberg
-street: Mühltalstraße
+street: "Mühltalstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

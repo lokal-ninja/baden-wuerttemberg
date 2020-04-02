@@ -5,7 +5,7 @@ latitude: 48.740509700000004
 longitude: 9.3123463
 postcode: 
 city: Esslingen am Neckar
-street: Wagnerstraße
+street: "Wagnerstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

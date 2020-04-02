@@ -5,7 +5,7 @@ latitude: 48.005729200000005
 longitude: 7.827042700000001
 postcode: 79110
 city: Freiburg im Breisgau
-street: Breisacher Straße
+street: "Breisacher Straße"
 housenumber: 147
 phone: "+49 761 89826166"
 opening_hours: "Mo-Sa 07:00-22:00"

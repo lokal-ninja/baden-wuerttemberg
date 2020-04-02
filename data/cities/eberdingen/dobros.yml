@@ -5,7 +5,7 @@ latitude: 48.8942283
 longitude: 8.9401232
 postcode: 71735
 city: Eberdingen
-street: Wittumstraße
+street: "Wittumstraße"
 housenumber: 3
 phone: "+49 7042 16726"
 opening_hours: ""

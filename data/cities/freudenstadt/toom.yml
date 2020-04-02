@@ -5,7 +5,7 @@ latitude: 48.4650126
 longitude: 8.4392645
 postcode: 72250
 city: Freudenstadt
-street: Planckstraße
+street: "Planckstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

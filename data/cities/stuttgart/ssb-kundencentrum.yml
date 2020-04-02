@@ -5,7 +5,7 @@ latitude: 48.782962000000005
 longitude: 9.180626
 postcode: 70173
 city: Stuttgart
-street: Arnulf-Klett-Platz
+street: "Arnulf-Klett-Platz"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:30; Sa,Su,PH off"

@@ -5,7 +5,7 @@ latitude: 48.6283711
 longitude: 8.0721444
 postcode: 77855
 city: Achern
-street: Rathausplatz
+street: "Rathausplatz"
 housenumber: 5
 phone: "+49 7841 25360"
 opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:30; Sa 09:00-14:00"

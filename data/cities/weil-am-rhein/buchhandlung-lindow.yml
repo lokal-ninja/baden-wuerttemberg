@@ -5,7 +5,7 @@ latitude: 47.5922047
 longitude: 7.633919400000001
 postcode: 79576
 city: Weil am Rhein
-street: Hinterdorfstraße
+street: "Hinterdorfstraße"
 housenumber: 35
 phone: "+49 7621 71334"
 opening_hours: "Mo-Fr 08:00-12:30,14:30-18:30; Sa 08:00-13:00; PH off"

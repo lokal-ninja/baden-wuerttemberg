@@ -5,7 +5,7 @@ latitude: 49.0816013
 longitude: 8.8407443
 postcode: 75057
 city: Kürnbach
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 7
 phone: "+49 7258/9272710"
 opening_hours: ""

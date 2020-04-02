@@ -5,7 +5,7 @@ latitude: 48.649002700000004
 longitude: 9.246777900000001
 postcode: 70794
 city: Filderstadt
-street: Harthäuser Hauptstraße
+street: "Harthäuser Hauptstraße"
 housenumber: 10
 phone: "+49 7158 1898821"
 opening_hours: ""

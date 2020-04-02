@@ -5,7 +5,7 @@ latitude: 48.5582234
 longitude: 9.2048064
 postcode: 72124
 city: Pliezhausen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

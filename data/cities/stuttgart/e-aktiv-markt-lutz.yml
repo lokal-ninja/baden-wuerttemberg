@@ -5,7 +5,7 @@ latitude: 48.821783200000006
 longitude: 9.210316
 postcode: 70376
 city: Stuttgart
-street: Löwentorstraße
+street: "Löwentorstraße"
 housenumber: 257
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

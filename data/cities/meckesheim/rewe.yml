@@ -5,7 +5,7 @@ latitude: 49.3172031
 longitude: 8.813355900000001
 postcode: 74909
 city: Meckesheim
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 1/1
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

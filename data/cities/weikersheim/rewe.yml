@@ -5,7 +5,7 @@ latitude: 49.4821393
 longitude: 9.901214900000001
 postcode: 
 city: Weikersheim
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 8
 phone: "+49 7934 994238"
 opening_hours: ""

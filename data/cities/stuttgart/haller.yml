@@ -5,7 +5,7 @@ latitude: 48.7299821
 longitude: 9.1170092
 postcode: 70563
 city: Stuttgart
-street: Möhringer Landstraße
+street: "Möhringer Landstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

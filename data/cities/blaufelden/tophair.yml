@@ -5,7 +5,7 @@ latitude: 49.29629490000001
 longitude: 9.9727931
 postcode: 74572
 city: Blaufelden
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

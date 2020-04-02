@@ -5,7 +5,7 @@ latitude: 49.011857400000004
 longitude: 8.3604701
 postcode: 76185
 city: Karlsruhe
-street: Sedanstraße
+street: "Sedanstraße"
 housenumber: 8
 phone: ""
 opening_hours: "11:00-22:00"

@@ -5,7 +5,7 @@ latitude: 48.8043725
 longitude: 8.3150762
 postcode: 76571
 city: Gaggenau
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 14a
 phone: "+49 7225 72611"
 opening_hours: "Mo,Tu,Th,Fr 15:30-18:00; We,Sa 09:00-12:30"

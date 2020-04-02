@@ -5,7 +5,7 @@ latitude: 48.998555
 longitude: 8.3705694
 postcode: 76185
 city: Karlsruhe
-street: Bannwaldallee
+street: "Bannwaldallee"
 housenumber: 42a
 phone: "+49 721 98750"
 opening_hours: ""

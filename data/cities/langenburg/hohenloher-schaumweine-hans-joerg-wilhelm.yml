@@ -5,7 +5,7 @@ latitude: 49.275214600000005
 longitude: 9.8332042
 postcode: 74595
 city: Langenburg
-street: Mühlgasse
+street: "Mühlgasse"
 housenumber: 4
 phone: "+49 7905 940600"
 opening_hours: "Th 12:00-20:00"

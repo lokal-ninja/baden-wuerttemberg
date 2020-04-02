@@ -5,7 +5,7 @@ latitude: 47.9835532
 longitude: 8.818066100000001
 postcode: 78532
 city: Tuttlingen
-street: Helfereistraße
+street: "Helfereistraße"
 housenumber: 15
 phone: "+49 7461 9659297"
 opening_hours: ""

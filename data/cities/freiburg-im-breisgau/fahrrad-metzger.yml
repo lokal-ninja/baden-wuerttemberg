@@ -5,7 +5,7 @@ latitude: 48.0151297
 longitude: 7.824253400000001
 postcode: 79110
 city: Freiburg im Breisgau
-street: Elsässer Straße
+street: "Elsässer Straße"
 housenumber: 69
 phone: ""
 opening_hours: "Mo off; Tu-Fr 12:00-18:00; Sa 10:00-13:00"

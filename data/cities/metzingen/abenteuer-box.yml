@@ -5,7 +5,7 @@ latitude: 48.537826800000005
 longitude: 9.282338000000001
 postcode: 72555
 city: Metzingen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 25
 phone: "+49 7123 20347"
 opening_hours: ""

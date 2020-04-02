@@ -5,7 +5,7 @@ latitude: 49.240969400000004
 longitude: 8.4616506
 postcode: 76661
 city: Philippsburg
-street: Am Freyersee
+street: "Am Freyersee"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"

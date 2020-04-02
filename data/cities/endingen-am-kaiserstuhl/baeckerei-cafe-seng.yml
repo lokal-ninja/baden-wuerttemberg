@@ -5,7 +5,7 @@ latitude: 48.141864700000006
 longitude: 7.7030029
 postcode: 79346
 city: Endingen am Kaiserstuhl
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-16:00; Su 07:00-11:00"

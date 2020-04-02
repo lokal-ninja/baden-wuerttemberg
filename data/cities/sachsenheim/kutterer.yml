@@ -5,7 +5,7 @@ latitude: 48.958216900000004
 longitude: 9.0794327
 postcode: 74343
 city: Sachsenheim
-street: Max-Eyth-Straße
+street: "Max-Eyth-Straße"
 housenumber: 1/1
 phone: ""
 opening_hours: ""

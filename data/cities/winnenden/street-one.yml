@@ -5,7 +5,7 @@ latitude: 48.875942
 longitude: 9.4003657
 postcode: 71364
 city: Winnenden
-street: Adlerplatz
+street: "Adlerplatz"
 housenumber: 8
 phone: "+49 7195 13609"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"

@@ -5,7 +5,7 @@ latitude: 49.4718109
 longitude: 8.9941964
 postcode: 69412
 city: Eberbach
-street: Friedrichsdorfer Landstraße
+street: "Friedrichsdorfer Landstraße"
 housenumber: 48
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

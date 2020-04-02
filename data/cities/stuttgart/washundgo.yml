@@ -5,7 +5,7 @@ latitude: 48.7729774
 longitude: 9.156170000000001
 postcode: 70197
 city: Stuttgart
-street: Schwabstraße
+street: "Schwabstraße"
 housenumber: 73
 phone: ""
 opening_hours: "Mo-Su 06:00-24:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.680040500000004
 longitude: 9.556704100000001
 postcode: 73095
 city: Albershausen
-street: Hattenhofer Straße
+street: "Hattenhofer Straße"
 housenumber: 1
 phone: "+49 7161 31838"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-14:00"

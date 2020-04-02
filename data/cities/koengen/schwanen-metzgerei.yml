@@ -5,7 +5,7 @@ latitude: 48.6839432
 longitude: 9.3623294
 postcode: 73257
 city: Köngen
-street: Hirschstraße
+street: "Hirschstraße"
 housenumber: 18
 phone: "+49(0)7024/81488"
 opening_hours: ""

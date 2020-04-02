@@ -5,7 +5,7 @@ latitude: 48.641145800000004
 longitude: 8.895988500000001
 postcode: 71116
 city: Gärtringen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

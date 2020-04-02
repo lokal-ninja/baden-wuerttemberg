@@ -5,7 +5,7 @@ latitude: 49.503236400000006
 longitude: 8.474718300000001
 postcode: 68169
 city: Mannheim
-street: Maybachstraße
+street: "Maybachstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

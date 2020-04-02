@@ -5,7 +5,7 @@ latitude: 48.953468900000004
 longitude: 8.422148100000001
 postcode: 76275
 city: Ettlingen
-street: Durlacher Straße
+street: "Durlacher Straße"
 housenumber: 34a
 phone: ""
 opening_hours: "Tu, Fr 14:00-18:00; Sa 09:00-13:00"

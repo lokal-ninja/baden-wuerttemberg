@@ -5,7 +5,7 @@ latitude: 47.759531800000005
 longitude: 8.8388569
 postcode: 78224
 city: Singen
-street: Hegaustraße
+street: "Hegaustraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.897044
 longitude: 9.1493999
 postcode: 71679
 city: Asperg
-street: Neckarstraße
+street: "Neckarstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"

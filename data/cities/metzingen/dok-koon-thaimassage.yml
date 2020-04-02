@@ -5,7 +5,7 @@ latitude: 48.540508200000005
 longitude: 9.2878054
 postcode: 72555
 city: Metzingen
-street: Olgastraße
+street: "Olgastraße"
 housenumber: 9
 phone: "+49 7123 161 38 18"
 opening_hours: "Tu-Fr 10:00-20:00; Sa 09:00-19:00; Su,Mo,PH off"

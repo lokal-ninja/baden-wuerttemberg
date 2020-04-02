@@ -5,7 +5,7 @@ latitude: 47.6497649
 longitude: 9.4804852
 postcode: 88045
 city: Friedrichshafen
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 39
 phone: "+49 7541 9538639"
 opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-17:00; Su,PH off"

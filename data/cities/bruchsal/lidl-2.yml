@@ -5,7 +5,7 @@ latitude: 49.121695100000004
 longitude: 8.5827255
 postcode: 76646
 city: Bruchsal
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 1-5
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"

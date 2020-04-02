@@ -5,7 +5,7 @@ latitude: 49.222579700000004
 longitude: 8.516356100000001
 postcode: 68753
 city: Waghäusel
-street: Schanzenstraße
+street: "Schanzenstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

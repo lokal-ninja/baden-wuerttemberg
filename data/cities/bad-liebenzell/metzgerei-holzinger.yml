@@ -5,7 +5,7 @@ latitude: 48.774171700000004
 longitude: 8.730797
 postcode: 75378
 city: Bad Liebenzell
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 4
 phone: "+49 7052 1395"
 opening_hours: "Mo-Fr 07:30-13:00,14:30-18:00, Sa 07:30-12:30"

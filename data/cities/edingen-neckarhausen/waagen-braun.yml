@@ -5,7 +5,7 @@ latitude: 49.467573900000005
 longitude: 8.5988091
 postcode: 68535
 city: Edingen-Neckarhausen
-street: Theresienstraße
+street: "Theresienstraße"
 housenumber: 4
 phone: "+49 6203 14207"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.5004733
 longitude: 7.8251796
 postcode: 77694
 city: Kehl
-street: Eschauer Allee
+street: "Eschauer Allee"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"

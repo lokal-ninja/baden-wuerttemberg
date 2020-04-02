@@ -5,7 +5,7 @@ latitude: 48.8842244
 longitude: 9.392096200000001
 postcode: 71397
 city: Leutenbach
-street: Winnender Straße
+street: "Winnender Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

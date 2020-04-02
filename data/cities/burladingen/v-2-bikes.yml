@@ -5,7 +5,7 @@ latitude: 48.361476800000005
 longitude: 9.1448554
 postcode: 72393
 city: Burladingen
-street: Talheimer Straße
+street: "Talheimer Straße"
 housenumber: 16
 phone: "+49 7126 9216040"
 opening_hours: ""

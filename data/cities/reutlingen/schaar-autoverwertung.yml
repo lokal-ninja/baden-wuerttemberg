@@ -5,7 +5,7 @@ latitude: 48.4956892
 longitude: 9.154366000000001
 postcode: 72770
 city: Reutlingen
-street: Markwiesenstraße
+street: "Markwiesenstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

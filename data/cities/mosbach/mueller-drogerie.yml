@@ -5,7 +5,7 @@ latitude: 49.3537175
 longitude: 9.1447403
 postcode: 74821
 city: Mosbach
-street: An der Bachmühle
+street: "An der Bachmühle"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

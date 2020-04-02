@@ -5,7 +5,7 @@ latitude: 48.3001756
 longitude: 8.4872464
 postcode: 78737
 city: Fluorn-Winzeln
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

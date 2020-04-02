@@ -5,7 +5,7 @@ latitude: 48.4951159
 longitude: 9.183404900000001
 postcode: 72770
 city: Reutlingen
-street: Olgastraße
+street: "Olgastraße"
 housenumber: 47
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"

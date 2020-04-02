@@ -5,7 +5,7 @@ latitude: 48.00868010000001
 longitude: 7.851746200000001
 postcode: 79104
 city: Freiburg im Breisgau
-street: Stefan-Meier-Straße
+street: "Stefan-Meier-Straße"
 housenumber: 169
 phone: ""
 opening_hours: ""

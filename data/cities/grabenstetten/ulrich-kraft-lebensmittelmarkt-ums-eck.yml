@@ -5,7 +5,7 @@ latitude: 48.524731100000004
 longitude: 9.455442900000001
 postcode: 72582
 city: Grabenstetten
-street: Uracher Straße
+street: "Uracher Straße"
 housenumber: 47
 phone: "+49 7382 5722"
 opening_hours: ""

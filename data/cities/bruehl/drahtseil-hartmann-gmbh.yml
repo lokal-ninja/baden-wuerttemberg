@@ -5,7 +5,7 @@ latitude: 49.407873200000004
 longitude: 8.524368200000001
 postcode: 68782
 city: Brühl
-street: Brühler Straße
+street: "Brühler Straße"
 housenumber: 52
 phone: "+49 6202 700110"
 opening_hours: ""

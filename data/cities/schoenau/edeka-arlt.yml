@@ -5,7 +5,7 @@ latitude: 49.4368604
 longitude: 8.811812900000001
 postcode: 69250
 city: Schönau
-street: Greiner Straße
+street: "Greiner Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.775523500000006
 longitude: 9.180242400000001
 postcode: 70173
 city: Stuttgart
-street: Sporerstraße
+street: "Sporerstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

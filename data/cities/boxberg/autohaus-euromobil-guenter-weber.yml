@@ -5,7 +5,7 @@ latitude: 49.485141500000005
 longitude: 9.6467683
 postcode: 97944
 city: Boxberg
-street: Kurpfalzstraße
+street: "Kurpfalzstraße"
 housenumber: 55
 phone: "+49 7930 6346"
 opening_hours: ""

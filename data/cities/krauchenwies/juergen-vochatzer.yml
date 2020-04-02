@@ -5,7 +5,7 @@ latitude: 48.003728300000006
 longitude: 9.200014900000001
 postcode: 72505
 city: Krauchenwies
-street: Linzgaustraße
+street: "Linzgaustraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.6575922
 longitude: 9.0598538
 postcode: 71101
 city: Schönaich
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

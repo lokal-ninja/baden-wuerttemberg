@@ -5,7 +5,7 @@ latitude: 47.982030200000004
 longitude: 7.778633200000001
 postcode: 79111
 city: Freiburg im Breisgau
-street: Bötzinger Straße
+street: "Bötzinger Straße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

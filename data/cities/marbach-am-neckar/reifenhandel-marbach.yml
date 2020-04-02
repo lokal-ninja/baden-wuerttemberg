@@ -5,7 +5,7 @@ latitude: 48.932670300000005
 longitude: 9.2502247
 postcode: 71672
 city: Marbach am Neckar
-street: Ludwigsburger Straße
+street: "Ludwigsburger Straße"
 housenumber: 74
 phone: "+49 7144 3349894"
 opening_hours: ""

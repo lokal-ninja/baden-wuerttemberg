@@ -5,7 +5,7 @@ latitude: 48.8645238
 longitude: 9.1813014
 postcode: 70806
 city: Kornwestheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:45, 14:30-19:00, Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 48.791974100000004
 longitude: 9.834133600000001
 postcode: 73529
 city: Schwäbisch Gmünd
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

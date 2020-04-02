@@ -5,7 +5,7 @@ latitude: 48.394516
 longitude: 9.9970291
 postcode: 89231
 city: Neu-Ulm
-street: Krankenhausstraße
+street: "Krankenhausstraße"
 housenumber: 1
 phone: "+49 731 / 9809449"
 opening_hours: "Mo-Fr 06:15-18:00; Sa 06:15-13:00"

@@ -5,7 +5,7 @@ latitude: 47.761167300000004
 longitude: 9.5414857
 postcode: 88213
 city: Ravensburg
-street: Oberzeller Straße
+street: "Oberzeller Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

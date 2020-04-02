@@ -5,7 +5,7 @@ latitude: 48.743947500000004
 longitude: 9.2361448
 postcode: 70619
 city: Stuttgart
-street: Nellinger Straße
+street: "Nellinger Straße"
 housenumber: 27
 phone: "+49 711 443989"
 opening_hours: ""

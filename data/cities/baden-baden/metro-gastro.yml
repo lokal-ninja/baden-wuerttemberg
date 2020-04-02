@@ -5,7 +5,7 @@ latitude: 48.815466900000004
 longitude: 8.196475900000001
 postcode: 76532
 city: Baden-Baden
-street: Lärchenstraße
+street: "Lärchenstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-15:00"

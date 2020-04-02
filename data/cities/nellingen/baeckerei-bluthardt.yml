@@ -5,7 +5,7 @@ latitude: 48.7136444
 longitude: 9.3010724
 postcode: 73760
 city: Nellingen
-street: Esslinger Straße
+street: "Esslinger Straße"
 housenumber: 12
 phone: "+49 711 5536553"
 opening_hours: "Mo-Sa 06:30-12:30; Mo-Fr 14:30-18:00"

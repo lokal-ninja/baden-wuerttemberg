@@ -5,7 +5,7 @@ latitude: 48.793901500000004
 longitude: 9.9337221
 postcode: 
 city: Heubach
-street: Böbinger Straße
+street: "Böbinger Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

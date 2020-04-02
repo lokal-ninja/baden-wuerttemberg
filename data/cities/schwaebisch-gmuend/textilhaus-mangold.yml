@@ -5,7 +5,7 @@ latitude: 48.800041400000005
 longitude: 9.8011503
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Rinderbacher Gasse
+street: "Rinderbacher Gasse"
 housenumber: 24
 phone: ""
 opening_hours: ""

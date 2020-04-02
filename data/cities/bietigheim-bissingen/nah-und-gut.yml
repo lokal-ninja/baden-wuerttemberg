@@ -5,7 +5,7 @@ latitude: 48.946363100000006
 longitude: 9.0995155
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Kreuzstraße
+street: "Kreuzstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-14:00"

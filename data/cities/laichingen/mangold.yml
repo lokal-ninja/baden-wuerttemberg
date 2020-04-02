@@ -5,7 +5,7 @@ latitude: 48.489663400000005
 longitude: 9.689095100000001
 postcode: 
 city: Laichingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

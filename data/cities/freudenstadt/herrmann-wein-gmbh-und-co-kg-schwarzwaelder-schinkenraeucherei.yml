@@ -5,7 +5,7 @@ latitude: 48.4966261
 longitude: 8.4729512
 postcode: 72250
 city: Freudenstadt
-street: Dornstetter Straße
+street: "Dornstetter Straße"
 housenumber: 29
 phone: "+49 7443 245-0"
 opening_hours: ""

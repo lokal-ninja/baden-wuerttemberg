@@ -5,7 +5,7 @@ latitude: 48.519978200000004
 longitude: 9.054052800000001
 postcode: 72070
 city: Tübingen
-street: Kronenstraße
+street: "Kronenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "We-Sa 13:00-18:00"

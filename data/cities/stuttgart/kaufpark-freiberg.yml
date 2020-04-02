@@ -5,7 +5,7 @@ latitude: 48.8362507
 longitude: 9.203769000000001
 postcode: 70437
 city: Stuttgart
-street: Adalbert-Stifter-Straße
+street: "Adalbert-Stifter-Straße"
 housenumber: 101
 phone: ""
 opening_hours: ""

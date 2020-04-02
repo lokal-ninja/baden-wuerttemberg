@@ -5,7 +5,7 @@ latitude: 49.1490875
 longitude: 9.2872708
 postcode: 74189
 city: Weinsberg
-street: Kernerstraße
+street: "Kernerstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

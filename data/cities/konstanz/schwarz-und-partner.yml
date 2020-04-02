@@ -5,7 +5,7 @@ latitude: 47.673981100000006
 longitude: 9.150770600000001
 postcode: 78467
 city: Konstanz
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 3
 phone: "+49 7531 57878"
 opening_hours: ""

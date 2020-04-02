@@ -5,7 +5,7 @@ latitude: 49.2288331
 longitude: 9.216065
 postcode: 74177
 city: Bad Friedrichshall
-street: Friedrichsplatz
+street: "Friedrichsplatz"
 housenumber: 7-10
 phone: "+49 7136 9614271"
 opening_hours: "Mo-Sa 08:00-20:00"

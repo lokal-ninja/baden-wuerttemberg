@@ -5,7 +5,7 @@ latitude: 48.5899743
 longitude: 9.235664100000001
 postcode: 72654
 city: Neckartenzlingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

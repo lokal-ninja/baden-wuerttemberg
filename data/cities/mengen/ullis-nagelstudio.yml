@@ -5,7 +5,7 @@ latitude: 48.003296500000005
 longitude: 9.3242204
 postcode: 88512
 city: Mengen
-street: Weiherhaldenstraße
+street: "Weiherhaldenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

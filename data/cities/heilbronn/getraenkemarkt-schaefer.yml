@@ -5,7 +5,7 @@ latitude: 49.131893000000005
 longitude: 9.190167500000001
 postcode: 74080
 city: Heilbronn
-street: Hohlstraße
+street: "Hohlstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.8659672
 longitude: 8.218780200000001
 postcode: 76437
 city: Rastatt
-street: Biblisweg
+street: "Biblisweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00"

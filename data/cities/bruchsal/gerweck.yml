@@ -5,7 +5,7 @@ latitude: 49.121328500000004
 longitude: 8.5949167
 postcode: 76646
 city: Bruchsal
-street: Durlacher Straße
+street: "Durlacher Straße"
 housenumber: 60
 phone: "+49 07251 3927984"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 6:00-13:00; Su 08:00-18:00"

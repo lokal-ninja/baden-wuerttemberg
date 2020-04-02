@@ -5,7 +5,7 @@ latitude: 48.7980725
 longitude: 9.690951
 postcode: 73547
 city: Lorch
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:15, 14:30-18:00; We 09:00-12:15; Sa 09:00-12:45; Su, PH off"

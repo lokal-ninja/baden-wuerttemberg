@@ -5,7 +5,7 @@ latitude: 48.8960166
 longitude: 8.7013497
 postcode: 75177
 city: Pforzheim
-street: Ebersteinstraße
+street: "Ebersteinstraße"
 housenumber: 16
 phone: "+49 7231 313328"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.8047708
 longitude: 9.2158826
 postcode: 70372
 city: Stuttgart
-street: Spreuergasse
+street: "Spreuergasse"
 housenumber: 11
 phone: ""
 opening_hours: ""

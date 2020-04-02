@@ -5,7 +5,7 @@ latitude: 48.0332355
 longitude: 8.411160200000001
 postcode: 78052
 city: Villingen-Schwenningen
-street: Asternweg
+street: "Asternweg"
 housenumber: 11
 phone: ""
 opening_hours: ""

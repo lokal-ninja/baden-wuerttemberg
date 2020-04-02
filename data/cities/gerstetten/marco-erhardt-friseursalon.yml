@@ -5,7 +5,7 @@ latitude: 48.6226484
 longitude: 10.0206458
 postcode: 89547
 city: Gerstetten
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Tu-Fr 08:00-12:00,13:15-18:00;Sa 7:30-13:00"

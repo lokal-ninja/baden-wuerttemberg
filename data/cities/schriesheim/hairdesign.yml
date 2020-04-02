@@ -5,7 +5,7 @@ latitude: 49.475238000000004
 longitude: 8.6645587
 postcode: 69198
 city: Schriesheim
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 1a
 phone: "+49 6203 61304"
 opening_hours: "Mo 10:00-18:00, Tu-Fr 9:00-18:00, Sa 8:00-13:00"

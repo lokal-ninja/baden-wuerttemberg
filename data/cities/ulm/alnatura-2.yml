@@ -5,7 +5,7 @@ latitude: 48.4005748
 longitude: 9.970697600000001
 postcode: 89077
 city: Ulm
-street: Blaubeurer Straße
+street: "Blaubeurer Straße"
 housenumber: 53
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

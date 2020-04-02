@@ -5,7 +5,7 @@ latitude: 48.522474800000005
 longitude: 9.0545459
 postcode: 72070
 city: Tübingen
-street: Lange Gasse
+street: "Lange Gasse"
 housenumber: 25
 phone: "+49 7071 22495"
 opening_hours: "Tu-Fr 10:00-12:30,14:00-19:00, Sa 10:00-15:00"

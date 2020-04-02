@@ -5,7 +5,7 @@ latitude: 49.0103105
 longitude: 9.149540700000001
 postcode: 74399
 city: Walheim
-street: Finkenweg
+street: "Finkenweg"
 housenumber: 2-4
 phone: "+497143 8992266"
 opening_hours: ""

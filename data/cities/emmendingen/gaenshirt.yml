@@ -5,7 +5,7 @@ latitude: 48.117027300000004
 longitude: 7.854429700000001
 postcode: 79312
 city: Emmendingen
-street: Neubronnstraße
+street: "Neubronnstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

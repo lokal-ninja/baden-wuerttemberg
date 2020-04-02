@@ -5,7 +5,7 @@ latitude: 48.7577676
 longitude: 9.255544
 postcode: 70329
 city: Stuttgart
-street: Amstetter Straße
+street: "Amstetter Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.808218100000005
 longitude: 8.1950932
 postcode: 76532
 city: Baden-Baden
-street: Sandweierer Straße
+street: "Sandweierer Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00"

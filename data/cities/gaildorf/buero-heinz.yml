@@ -5,7 +5,7 @@ latitude: 48.999716500000005
 longitude: 9.7696143
 postcode: 74405
 city: Gaildorf
-street: Kanzleistraße
+street: "Kanzleistraße"
 housenumber: 1
 phone: "+49 7917 6265"
 opening_hours: ""

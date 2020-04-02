@@ -5,7 +5,7 @@ latitude: 49.0100823
 longitude: 8.3996293
 postcode: 76133
 city: Karlsruhe
-street: Herrenstraße
+street: "Herrenstraße"
 housenumber: 18
 phone: "+49 721 16 089 508"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

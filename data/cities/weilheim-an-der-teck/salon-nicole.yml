@@ -5,7 +5,7 @@ latitude: 48.614927900000005
 longitude: 9.5396874
 postcode: 73235
 city: Weilheim an der Teck
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

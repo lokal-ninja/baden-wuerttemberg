@@ -5,7 +5,7 @@ latitude: 48.6887119
 longitude: 9.6304432
 postcode: 73035
 city: Göppingen
-street: Herdweg
+street: "Herdweg"
 housenumber: 9
 phone: "+49-7161-45868"
 opening_hours: ""

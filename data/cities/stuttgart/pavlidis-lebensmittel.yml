@@ -5,7 +5,7 @@ latitude: 48.769536300000006
 longitude: 9.1605744
 postcode: 70178
 city: Stuttgart
-street: Augustenstraße
+street: "Augustenstraße"
 housenumber: 69
 phone: ""
 opening_hours: ""

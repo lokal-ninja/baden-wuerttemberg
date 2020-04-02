@@ -5,7 +5,7 @@ latitude: 47.6797149
 longitude: 9.1529305
 postcode: 78467
 city: Konstanz
-street: Max-Stromeyer-Straße
+street: "Max-Stromeyer-Straße"
 housenumber: 170
 phone: ""
 opening_hours: ""

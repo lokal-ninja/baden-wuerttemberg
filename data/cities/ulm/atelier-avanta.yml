@@ -5,7 +5,7 @@ latitude: 48.392410500000004
 longitude: 9.955704200000001
 postcode: 89077
 city: Ulm
-street: Krausstraße
+street: "Krausstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

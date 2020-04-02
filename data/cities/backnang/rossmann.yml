@@ -5,7 +5,7 @@ latitude: 48.94696810000001
 longitude: 9.433651300000001
 postcode: 71522
 city: Backnang
-street: Sulzbacher Straße
+street: "Sulzbacher Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.797400100000004
 longitude: 9.798035500000001
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Sebaldstraße
+street: "Sebaldstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

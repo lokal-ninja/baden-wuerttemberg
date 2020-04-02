@@ -5,7 +5,7 @@ latitude: 48.6533491
 longitude: 9.2170394
 postcode: 70794
 city: Filderstadt
-street: Metzinger Straße
+street: "Metzinger Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 07:00-24:00"

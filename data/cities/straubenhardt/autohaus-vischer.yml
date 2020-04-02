@@ -5,7 +5,7 @@ latitude: 48.8461015
 longitude: 8.5391163
 postcode: 75334
 city: Straubenhardt
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 24
 phone: "+49 7082 8920"
 opening_hours: ""

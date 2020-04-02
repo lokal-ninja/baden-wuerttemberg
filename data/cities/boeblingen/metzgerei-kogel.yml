@@ -5,7 +5,7 @@ latitude: 48.6843932
 longitude: 9.013698100000001
 postcode: 71032
 city: Böblingen
-street: Poststraße
+street: "Poststraße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Fr 07:30-13:00, Mo,Tu,Th,Fr 14:30-18:00, Sa 07:00-13:00"

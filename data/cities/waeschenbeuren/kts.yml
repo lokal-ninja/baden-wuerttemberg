@@ -5,7 +5,7 @@ latitude: 48.762185
 longitude: 9.6912123
 postcode: 73116
 city: Wäschenbeuren
-street: Rosensteinstraße
+street: "Rosensteinstraße"
 housenumber: 10
 phone: "+49 7172 919944"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.525011000000006
 longitude: 8.9868497
 postcode: 72070
 city: Tübingen
-street: Jesinger Hauptstraße
+street: "Jesinger Hauptstraße"
 housenumber: 125
 phone: ""
 opening_hours: "Mo-We 09:00-10:00; Th 09:00-10:00,16:00-18:00; Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00, Su, PH off"

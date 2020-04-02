@@ -5,7 +5,7 @@ latitude: 47.600101200000005
 longitude: 8.1548718
 postcode: 79774
 city: Albbruck
-street: Dr. Rudolf-Eberle-Straße
+street: "Dr. Rudolf-Eberle-Straße"
 housenumber: 38
 phone: "+49 7753 939962"
 opening_hours: "Mo-Fr 08:30-12:30,13:30-18:00; Sa 8:30-13:00"

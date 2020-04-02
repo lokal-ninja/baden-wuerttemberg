@@ -5,7 +5,7 @@ latitude: 48.815989
 longitude: 9.958831100000001
 postcode: 73563
 city: Mögglingen
-street: Heubacher Straße
+street: "Heubacher Straße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su, PH off"

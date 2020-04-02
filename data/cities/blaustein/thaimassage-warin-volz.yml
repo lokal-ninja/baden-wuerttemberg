@@ -5,7 +5,7 @@ latitude: 48.4160229
 longitude: 9.920911400000001
 postcode: 89134
 city: Blaustein
-street: Martinstraße
+street: "Martinstraße"
 housenumber: 6
 phone: "+49 7304 929200"
 opening_hours: "Mo-Sa 09:00-19:00; Su,PH off"

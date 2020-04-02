@@ -5,7 +5,7 @@ latitude: 48.551293
 longitude: 9.1981674
 postcode: 72768
 city: Reutlingen
-street: Hauweg
+street: "Hauweg"
 housenumber: 36
 phone: "+49 7121 3017889"
 opening_hours: ""

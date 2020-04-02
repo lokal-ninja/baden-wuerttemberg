@@ -5,7 +5,7 @@ latitude: 49.302979400000005
 longitude: 9.021535700000001
 postcode: 74921
 city: Helmstadt-Bargen
-street: Staxstraße
+street: "Staxstraße"
 housenumber: 10
 phone: "+49 6268 253414"
 opening_hours: ""

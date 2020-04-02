@@ -5,7 +5,7 @@ latitude: 48.892923700000004
 longitude: 9.2257119
 postcode: 71640
 city: Ludwigsburg
-street: Friesenstraße
+street: "Friesenstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 6:30-18:00; Sa 6:00-13:00"

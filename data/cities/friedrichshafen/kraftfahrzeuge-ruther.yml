@@ -5,7 +5,7 @@ latitude: 47.6769814
 longitude: 9.477019700000001
 postcode: 88045
 city: Friedrichshafen
-street: Albert-Maier-Straße
+street: "Albert-Maier-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

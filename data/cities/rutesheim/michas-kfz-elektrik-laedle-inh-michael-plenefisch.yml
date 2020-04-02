@@ -5,7 +5,7 @@ latitude: 48.809233400000004
 longitude: 8.9306991
 postcode: 71277
 city: Rutesheim
-street: Drescherstraße
+street: "Drescherstraße"
 housenumber: 42
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00; PH off"

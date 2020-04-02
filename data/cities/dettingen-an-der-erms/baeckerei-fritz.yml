@@ -5,7 +5,7 @@ latitude: 48.529267700000005
 longitude: 9.3443204
 postcode: 72581
 city: Dettingen an der Erms
-street: Metzinger Straße
+street: "Metzinger Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

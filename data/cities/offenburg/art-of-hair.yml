@@ -5,7 +5,7 @@ latitude: 48.472960300000004
 longitude: 7.9852787
 postcode: 77654
 city: Offenburg
-street: Talweg
+street: "Talweg"
 housenumber: 9
 phone: "+49 781 41 10 01"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"

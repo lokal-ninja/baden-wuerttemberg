@@ -5,7 +5,7 @@ latitude: 49.4065682
 longitude: 8.6718855
 postcode: 69115
 city: Heidelberg
-street: Emil-Maier-Straße
+street: "Emil-Maier-Straße"
 housenumber: 16
 phone: "+49 179 6763118"
 opening_hours: ""

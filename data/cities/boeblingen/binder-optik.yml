@@ -5,7 +5,7 @@ latitude: 48.685726100000004
 longitude: 9.0091967
 postcode: 71034
 city: Böblingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"

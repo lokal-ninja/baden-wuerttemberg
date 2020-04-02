@@ -5,7 +5,7 @@ latitude: 48.8394655
 longitude: 10.093687500000001
 postcode: 73430
 city: Aalen
-street: Spritzenhausplatz
+street: "Spritzenhausplatz"
 housenumber: 28
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00; Mo, Su, PH off"

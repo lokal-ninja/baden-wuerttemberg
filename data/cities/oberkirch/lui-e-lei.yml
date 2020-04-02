@@ -5,7 +5,7 @@ latitude: 48.530823000000005
 longitude: 8.0794906
 postcode: 77704
 city: Oberkirch
-street: Kirchplatz
+street: "Kirchplatz"
 housenumber: 8
 phone: "+49 7802 7053038"
 opening_hours: "Mo,Tu,Fr 08:30-18:30; We,Su 08:30-15:00; Th 08:30+; PH off"

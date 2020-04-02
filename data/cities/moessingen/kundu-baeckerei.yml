@@ -5,7 +5,7 @@ latitude: 48.4073379
 longitude: 9.039547500000001
 postcode: 72116
 city: Mössingen
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

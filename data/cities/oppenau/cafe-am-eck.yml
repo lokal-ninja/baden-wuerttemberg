@@ -5,7 +5,7 @@ latitude: 48.4744838
 longitude: 8.164789800000001
 postcode: 77728
 city: Oppenau
-street: Allmendplatz
+street: "Allmendplatz"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 05:30-18:00; Su 07:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.675165400000004
 longitude: 9.383647700000001
 postcode: 73240
 city: Wendlingen am Neckar
-street: Fabrikstraße
+street: "Fabrikstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

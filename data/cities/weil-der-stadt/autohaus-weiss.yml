@@ -5,7 +5,7 @@ latitude: 48.7620969
 longitude: 8.8540588
 postcode: 
 city: Weil der Stadt
-street: Schwarzwaldstraße
+street: "Schwarzwaldstraße"
 housenumber: 2-4
 phone: ""
 opening_hours: "Mo-Fr 07:45-18:00, Sa 09:00-12:00"

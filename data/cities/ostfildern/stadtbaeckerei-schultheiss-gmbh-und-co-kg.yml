@@ -5,7 +5,7 @@ latitude: 48.718627600000005
 longitude: 9.2310842
 postcode: 73760
 city: Ostfildern
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 2
 phone: "+49 711 45973959"
 opening_hours: "Mo-Fr 06:30-13:00, 14:30-18:00; Sa 06:30-13:00; Su,PH 08:00-11:00"

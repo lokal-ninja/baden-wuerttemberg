@@ -5,7 +5,7 @@ latitude: 47.98579
 longitude: 7.811753500000001
 postcode: 79115
 city: Freiburg im Breisgau
-street: Uffhauser Straße
+street: "Uffhauser Straße"
 housenumber: 41
 phone: "+49 761 61249211"
 opening_hours: "Mo-Sa 10:00-20:00"

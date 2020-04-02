@@ -5,7 +5,7 @@ latitude: 47.5904089
 longitude: 8.3079844
 postcode: 79790
 city: Küssaberg
-street: Zwischen den Rainen
+street: "Zwischen den Rainen"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

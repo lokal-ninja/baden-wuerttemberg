@@ -5,7 +5,7 @@ latitude: 49.198156600000004
 longitude: 9.2060654
 postcode: 74172
 city: Neckarsulm
-street: Silcherstraße
+street: "Silcherstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

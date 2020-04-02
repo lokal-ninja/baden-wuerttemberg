@@ -5,7 +5,7 @@ latitude: 48.403837800000005
 longitude: 8.0130192
 postcode: 
 city: Gengenbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

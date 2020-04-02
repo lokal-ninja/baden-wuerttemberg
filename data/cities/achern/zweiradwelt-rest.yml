@@ -5,7 +5,7 @@ latitude: 48.612846000000005
 longitude: 8.0827691
 postcode: 77855
 city: Achern
-street: Oberacherner Straße
+street: "Oberacherner Straße"
 housenumber: 77
 phone: "+49 7941 282 50"
 opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:30; Sa 09:00-13:00"

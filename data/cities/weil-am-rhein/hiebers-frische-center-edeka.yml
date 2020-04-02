@@ -5,7 +5,7 @@ latitude: 47.5985554
 longitude: 7.623041400000001
 postcode: 79576
 city: Weil am Rhein
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 65
 phone: "+49 7621 1618990"
 opening_hours: "Mo-Sa 08:00-20:00; SU,PH off"

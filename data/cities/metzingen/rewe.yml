@@ -5,7 +5,7 @@ latitude: 48.5444808
 longitude: 9.2895328
 postcode: 72555
 city: Metzingen
-street: Nürtinger Straße
+street: "Nürtinger Straße"
 housenumber: 63
 phone: "+49 7123 9757732"
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"

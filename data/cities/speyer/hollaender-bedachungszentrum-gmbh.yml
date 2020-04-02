@@ -5,7 +5,7 @@ latitude: 49.3341275
 longitude: 8.445485600000001
 postcode: 67346
 city: Speyer
-street: Auestraße
+street: "Auestraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

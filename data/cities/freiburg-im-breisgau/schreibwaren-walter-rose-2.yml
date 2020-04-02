@@ -5,7 +5,7 @@ latitude: 47.989651300000006
 longitude: 7.84832
 postcode: 79102
 city: Freiburg im Breisgau
-street: Günterstalstraße
+street: "Günterstalstraße"
 housenumber: 3
 phone: "+49 761 72924"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-16:00"

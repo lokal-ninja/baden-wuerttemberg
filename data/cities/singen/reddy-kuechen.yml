@@ -5,7 +5,7 @@ latitude: 47.753488000000004
 longitude: 8.849751300000001
 postcode: 78224
 city: Singen
-street: Georg-Fischer-Straße
+street: "Georg-Fischer-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

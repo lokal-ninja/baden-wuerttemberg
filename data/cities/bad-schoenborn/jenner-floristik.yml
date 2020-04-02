@@ -5,7 +5,7 @@ latitude: 49.2003539
 longitude: 8.646074800000001
 postcode: 76669
 city: Bad Schönborn
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 92
 phone: "+49 7253 8466000"
 opening_hours: ""

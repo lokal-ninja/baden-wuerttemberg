@@ -5,7 +5,7 @@ latitude: 47.845217500000004
 longitude: 8.9999807
 postcode: 78333
 city: Stockach
-street: Radolfzeller Straße
+street: "Radolfzeller Straße"
 housenumber: 35
 phone: "+49 7771 2625"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.351157900000004
 longitude: 8.502242500000001
 postcode: 72175
 city: Dornhan
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

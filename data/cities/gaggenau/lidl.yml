@@ -5,7 +5,7 @@ latitude: 48.79881090000001
 longitude: 8.317043
 postcode: 76571
 city: Gaggenau
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

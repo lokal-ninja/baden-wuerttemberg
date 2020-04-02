@@ -5,7 +5,7 @@ latitude: 48.804197900000005
 longitude: 9.5250152
 postcode: 
 city: Schorndorf
-street: Urbanstraße
+street: "Urbanstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

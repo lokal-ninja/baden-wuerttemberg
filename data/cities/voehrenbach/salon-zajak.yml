@@ -5,7 +5,7 @@ latitude: 48.0456574
 longitude: 8.3049526
 postcode: 78147
 city: Vöhrenbach
-street: Josef-Hepting-Straße
+street: "Josef-Hepting-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

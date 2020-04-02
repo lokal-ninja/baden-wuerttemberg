@@ -5,7 +5,7 @@ latitude: 48.1427332
 longitude: 7.710986200000001
 postcode: 79346
 city: Endingen am Kaiserstuhl
-street: Riegeler Straße
+street: "Riegeler Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 8:00-17:00"

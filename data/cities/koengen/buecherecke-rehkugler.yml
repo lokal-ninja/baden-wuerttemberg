@@ -5,7 +5,7 @@ latitude: 48.6852679
 longitude: 9.363012300000001
 postcode: 73257
 city: Köngen
-street: Golterstraße
+street: "Golterstraße"
 housenumber: 1
 phone: "+49(0)7024/98 98 55"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.5771716
 longitude: 7.810501200000001
 postcode: 
 city: Kehl
-street: Straßburger Straße
+street: "Straßburger Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

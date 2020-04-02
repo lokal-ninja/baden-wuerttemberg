@@ -5,7 +5,7 @@ latitude: 48.7904848
 longitude: 9.0089485
 postcode: 71229
 city: Leonberg
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

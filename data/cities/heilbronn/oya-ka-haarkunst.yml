@@ -5,7 +5,7 @@ latitude: 49.141916
 longitude: 9.209327400000001
 postcode: 74072
 city: Heilbronn
-street: Mozartstraße
+street: "Mozartstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

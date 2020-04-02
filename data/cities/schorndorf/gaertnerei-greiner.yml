@@ -5,7 +5,7 @@ latitude: 48.805744700000005
 longitude: 9.530947000000001
 postcode: 73614
 city: Schorndorf
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 37
 phone: "+49 7181 5458"
 opening_hours: "Mo,We,Th,Fr 08:30-18:30; Tu 08:30-13:30, Sa 08:30-14:00"

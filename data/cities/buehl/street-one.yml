@@ -5,7 +5,7 @@ latitude: 48.6957815
 longitude: 8.1360197
 postcode: 77815
 city: Bühl
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-We,Fr 09:30-18:30; Th 09:30-19:00; Sa 09:00-16:00"

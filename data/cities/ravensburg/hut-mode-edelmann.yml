@@ -5,7 +5,7 @@ latitude: 47.782679
 longitude: 9.611522200000001
 postcode: 88212
 city: Ravensburg
-street: Obere Breite Straße
+street: "Obere Breite Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

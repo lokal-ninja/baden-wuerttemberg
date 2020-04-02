@@ -5,7 +5,7 @@ latitude: 47.781385400000005
 longitude: 9.610969
 postcode: 88214
 city: Ravensburg
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Th 08:30-18:15; Fr 08:30-18:00; Sa 07:30-13:30"

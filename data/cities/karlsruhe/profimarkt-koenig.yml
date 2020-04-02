@@ -5,7 +5,7 @@ latitude: 48.9916441
 longitude: 8.4385653
 postcode: 76227
 city: Karlsruhe
-street: Wachhausstraße
+street: "Wachhausstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-15:00"

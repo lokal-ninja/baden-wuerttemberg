@@ -5,7 +5,7 @@ latitude: 48.0529674
 longitude: 8.2057763
 postcode: 78120
 city: Furtwangen im Schwarzwald
-street: Grieshaberstraße
+street: "Grieshaberstraße"
 housenumber: 8
 phone: "+497723914197"
 opening_hours: "Mo-Sa 07:00-21:00"

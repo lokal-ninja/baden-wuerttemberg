@@ -5,7 +5,7 @@ latitude: 47.6604632
 longitude: 9.1747096
 postcode: 78462
 city: Konstanz
-street: Kanzleistraße
+street: "Kanzleistraße"
 housenumber: 2-4
 phone: ""
 opening_hours: ""

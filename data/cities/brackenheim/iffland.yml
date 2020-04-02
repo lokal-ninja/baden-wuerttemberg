@@ -5,7 +5,7 @@ latitude: 49.0751896
 longitude: 9.0662033
 postcode: 74336
 city: Brackenheim
-street: Georg-Kohl-Straße
+street: "Georg-Kohl-Straße"
 housenumber: 1
 phone: "+49 7135 964877"
 opening_hours: ""

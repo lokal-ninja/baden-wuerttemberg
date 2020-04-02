@@ -5,7 +5,7 @@ latitude: 49.1451785
 longitude: 10.0492358
 postcode: 74564
 city: Crailsheim
-street: Wolfgangstraße
+street: "Wolfgangstraße"
 housenumber: 63
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

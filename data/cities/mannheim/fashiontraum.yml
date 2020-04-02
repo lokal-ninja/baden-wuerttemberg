@@ -5,7 +5,7 @@ latitude: 49.486165400000004
 longitude: 8.5333141
 postcode: 68259
 city: Mannheim
-street: Eberbacher Straße
+street: "Eberbacher Straße"
 housenumber: 2
 phone: "+49 151 61038067"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"

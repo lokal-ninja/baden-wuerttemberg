@@ -5,7 +5,7 @@ latitude: 48.1042682
 longitude: 7.9703610000000005
 postcode: 79183
 city: Waldkirch
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

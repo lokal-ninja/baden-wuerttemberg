@@ -5,7 +5,7 @@ latitude: 49.151700000000005
 longitude: 9.2846217
 postcode: 74189
 city: Weinsberg
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 5
 phone: "+49 7134 9069372"
 opening_hours: ""

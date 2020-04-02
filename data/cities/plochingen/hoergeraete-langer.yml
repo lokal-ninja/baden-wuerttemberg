@@ -5,7 +5,7 @@ latitude: 48.7114702
 longitude: 9.416594400000001
 postcode: 
 city: Plochingen
-street: Urbanstraße
+street: "Urbanstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

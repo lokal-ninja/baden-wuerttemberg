@@ -5,7 +5,7 @@ latitude: 48.597729
 longitude: 9.4914635
 postcode: 73266
 city: Bissingen an der Teck
-street: Vordere Straße
+street: "Vordere Straße"
 housenumber: 21
 phone: "+49 7023 6977"
 opening_hours: "Tu 08:30-12:15,We 08:30-12:00,Th 08:30-20:00, Fr 08:30-19:00, Sa 08:30-14:00"

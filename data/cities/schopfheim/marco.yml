@@ -5,7 +5,7 @@ latitude: 47.649985400000006
 longitude: 7.8222776000000005
 postcode: 79650
 city: Schopfheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"

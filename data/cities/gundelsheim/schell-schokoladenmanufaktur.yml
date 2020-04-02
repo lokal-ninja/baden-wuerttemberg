@@ -5,7 +5,7 @@ latitude: 49.2859545
 longitude: 9.1584155
 postcode: 74831
 city: Gundelsheim
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 31
 phone: "+49 6269 350"
 opening_hours: ""

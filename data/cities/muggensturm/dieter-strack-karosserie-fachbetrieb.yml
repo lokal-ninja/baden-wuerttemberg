@@ -5,7 +5,7 @@ latitude: 48.878278200000004
 longitude: 8.271095500000001
 postcode: 76461
 city: Muggensturm
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 143
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.521364000000005
 longitude: 9.0530503
 postcode: 72070
 city: Tübingen
-street: Bei der Fruchtschranne
+street: "Bei der Fruchtschranne"
 housenumber: 2
 phone: "+49 7071 23710"
 opening_hours: "Mo 09:00-18:00; Tu,We,Fr 09:00-19:00; Th 09:00-20:00; Sa 08:00-16:00; Su, PH off"

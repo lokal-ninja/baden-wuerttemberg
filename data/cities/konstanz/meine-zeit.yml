@@ -5,7 +5,7 @@ latitude: 47.6736519
 longitude: 9.1883473
 postcode: 78464
 city: Konstanz
-street: Allmannsdorfer Straße
+street: "Allmannsdorfer Straße"
 housenumber: 46
 phone: "+49 (0) 7531 63253"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.064421900000006
 longitude: 8.4710692
 postcode: 76297
 city: Stutensee
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 114
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-14:00; Su 08:00-17:00"

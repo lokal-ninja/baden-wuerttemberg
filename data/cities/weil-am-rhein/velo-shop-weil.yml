@@ -5,7 +5,7 @@ latitude: 47.5927195
 longitude: 7.635209700000001
 postcode: 79576
 city: Weil am Rhein
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 65
 phone: "+49 7621 78915"
 opening_hours: ""

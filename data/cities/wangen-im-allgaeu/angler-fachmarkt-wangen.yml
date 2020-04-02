@@ -5,7 +5,7 @@ latitude: 47.688393500000004
 longitude: 9.828658800000001
 postcode: 
 city: Wangen im Allgäu
-street: Am Bahnhof
+street: "Am Bahnhof"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:15,14:00-18:15; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.0270073
 longitude: 9.376789800000001
 postcode: 88367
 city: Hohentengen
-street: Am Friedhof
+street: "Am Friedhof"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

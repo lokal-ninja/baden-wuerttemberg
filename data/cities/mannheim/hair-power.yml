@@ -5,7 +5,7 @@ latitude: 49.4310836
 longitude: 8.527072200000001
 postcode: 68219
 city: Mannheim
-street: Waldseestraße
+street: "Waldseestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

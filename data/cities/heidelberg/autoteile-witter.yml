@@ -5,7 +5,7 @@ latitude: 49.3976282
 longitude: 8.6752242
 postcode: 69115
 city: Heidelberg
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 24
 phone: "+49 6221 418 570"
 opening_hours: ""

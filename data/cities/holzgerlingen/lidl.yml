@@ -5,7 +5,7 @@ latitude: 48.6459326
 longitude: 9.0075103
 postcode: 71088
 city: Holzgerlingen
-street: Olgastraße
+street: "Olgastraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00;PH off"

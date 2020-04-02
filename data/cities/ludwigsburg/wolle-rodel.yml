@@ -5,7 +5,7 @@ latitude: 48.8957879
 longitude: 9.1905087
 postcode: 71638
 city: Ludwigsburg
-street: Seestraße
+street: "Seestraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

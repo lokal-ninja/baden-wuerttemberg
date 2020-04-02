@@ -5,7 +5,7 @@ latitude: 47.730184200000004
 longitude: 8.7768315
 postcode: 78244
 city: Gottmadingen
-street: Friedhofstraße
+street: "Friedhofstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 13:00-19:00; Sa nach Vereinbarung"

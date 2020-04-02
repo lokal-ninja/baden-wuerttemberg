@@ -5,7 +5,7 @@ latitude: 48.8364199
 longitude: 10.064788100000001
 postcode: 73434
 city: Aalen
-street: Hofherrnstraße
+street: "Hofherrnstraße"
 housenumber: 66
 phone: "+49 7361 943023"
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

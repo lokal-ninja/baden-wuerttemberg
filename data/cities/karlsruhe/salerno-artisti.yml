@@ -5,7 +5,7 @@ latitude: 49.004125300000005
 longitude: 8.4190015
 postcode: 76131
 city: Karlsruhe
-street: Ludwig-Erhard-Allee
+street: "Ludwig-Erhard-Allee"
 housenumber: 12
 phone: ""
 opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-16:00; Mo,Su,PH off"

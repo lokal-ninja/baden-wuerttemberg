@@ -5,7 +5,7 @@ latitude: 48.6800815
 longitude: 10.1520969
 postcode: 89518
 city: Heidenheim an der Brenz
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

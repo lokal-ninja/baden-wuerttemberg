@@ -5,7 +5,7 @@ latitude: 48.009198000000005
 longitude: 9.5087727
 postcode: 
 city: Bad Saulgau
-street: Platzstraße
+street: "Platzstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

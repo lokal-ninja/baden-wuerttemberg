@@ -5,7 +5,7 @@ latitude: 47.652212000000006
 longitude: 9.4786598
 postcode: 
 city: Friedrichshafen
-street: Metzstraße
+street: "Metzstraße"
 housenumber: 2
 phone: "+49 7541 207699"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

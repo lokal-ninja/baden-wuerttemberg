@@ -5,7 +5,7 @@ latitude: 49.2383329
 longitude: 9.3300658
 postcode: 74196
 city: Neuenstadt am Kocher
-street: Bahnweg
+street: "Bahnweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

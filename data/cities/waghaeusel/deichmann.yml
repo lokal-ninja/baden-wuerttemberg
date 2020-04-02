@@ -5,7 +5,7 @@ latitude: 49.246768800000005
 longitude: 8.503364000000001
 postcode: 68753
 city: Waghäusel
-street: Mannheimer Straße
+street: "Mannheimer Straße"
 housenumber: 138
 phone: ""
 opening_hours: ""

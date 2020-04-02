@@ -5,7 +5,7 @@ latitude: 48.765767200000006
 longitude: 8.335732100000001
 postcode: 76593
 city: Gernsbach
-street: Bleichstraße
+street: "Bleichstraße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:45"

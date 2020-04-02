@@ -5,7 +5,7 @@ latitude: 48.929808200000004
 longitude: 8.4725514
 postcode: 76337
 city: Waldbronn
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 8
 phone: "+49 7243 65 24 36"
 opening_hours: ""

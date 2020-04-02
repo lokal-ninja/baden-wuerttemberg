@@ -5,7 +5,7 @@ latitude: 48.956505500000006
 longitude: 9.074379200000001
 postcode: 74343
 city: Sachsenheim
-street: Karl-Heinz-Lüth-Straße
+street: "Karl-Heinz-Lüth-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

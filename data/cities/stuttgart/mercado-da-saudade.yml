@@ -5,7 +5,7 @@ latitude: 48.8175539
 longitude: 9.1908309
 postcode: 70376
 city: Stuttgart
-street: James-F.-Byrnes-Straße
+street: "James-F.-Byrnes-Straße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Th 14:00-19:00;Fr 12:00-19:00; Sa 09:00-17:00"

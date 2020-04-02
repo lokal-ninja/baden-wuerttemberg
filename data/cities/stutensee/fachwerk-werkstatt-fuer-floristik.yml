@@ -5,7 +5,7 @@ latitude: 49.092006500000004
 longitude: 8.5099972
 postcode: 76297
 city: Stutensee
-street: Weingartener Straße
+street: "Weingartener Straße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo off; Tu-Fr 09:00-13:00, 14:30-18:00; Sa 08:00-13:00"

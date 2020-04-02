@@ -5,7 +5,7 @@ latitude: 48.714009600000004
 longitude: 8.906977300000001
 postcode: 71120
 city: Grafenau
-street: Schafhauser Weg
+street: "Schafhauser Weg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:30,14:30-18:00; Tu,Sa 08:30-12:30; Su,PH off"

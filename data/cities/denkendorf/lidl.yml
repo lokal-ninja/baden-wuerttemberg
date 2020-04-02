@@ -5,7 +5,7 @@ latitude: 48.7026692
 longitude: 9.310842300000001
 postcode: 73770
 city: Denkendorf
-street: Albstraße
+street: "Albstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 48.636534700000006
 longitude: 8.0894487
 postcode: 77880
 city: Sasbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.636747
 longitude: 9.1317062
 postcode: 71111
 city: Waldenbuch
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

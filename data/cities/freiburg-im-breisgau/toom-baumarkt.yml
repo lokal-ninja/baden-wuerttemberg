@@ -5,7 +5,7 @@ latitude: 48.0308025
 longitude: 7.858827300000001
 postcode: 
 city: Freiburg im Breisgau
-street: Hans-Bunte-Straße
+street: "Hans-Bunte-Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00"

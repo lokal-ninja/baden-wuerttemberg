@@ -5,7 +5,7 @@ latitude: 48.822093200000005
 longitude: 9.9626674
 postcode: 73563
 city: Mögglingen
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

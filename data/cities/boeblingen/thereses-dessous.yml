@@ -5,7 +5,7 @@ latitude: 48.681383600000004
 longitude: 9.005196100000001
 postcode: 71034
 city: Böblingen
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"

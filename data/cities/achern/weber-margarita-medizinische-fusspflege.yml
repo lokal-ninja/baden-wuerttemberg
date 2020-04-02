@@ -5,7 +5,7 @@ latitude: 48.6334638
 longitude: 8.045112600000001
 postcode: 77855
 city: Achern
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 92
 phone: ""
 opening_hours: ""

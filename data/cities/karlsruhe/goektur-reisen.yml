@@ -5,7 +5,7 @@ latitude: 49.0070527
 longitude: 8.4106181
 postcode: 76133
 city: Karlsruhe
-street: Fritz-Erler-Straße
+street: "Fritz-Erler-Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

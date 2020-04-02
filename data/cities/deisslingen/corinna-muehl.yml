@@ -5,7 +5,7 @@ latitude: 48.116626600000004
 longitude: 8.6131457
 postcode: 78652
 city: Deißlingen
-street: Pfarrer-Huber-Straße
+street: "Pfarrer-Huber-Straße"
 housenumber: 26
 phone: "+49 7420 6929822"
 opening_hours: ""

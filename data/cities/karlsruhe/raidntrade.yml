@@ -5,7 +5,7 @@ latitude: 48.999137000000005
 longitude: 8.4577984
 postcode: 76227
 city: Karlsruhe
-street: Schinnrainstraße
+street: "Schinnrainstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Tu-Th 10:30-18:00; Fr 12:00-20:00; Sa 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 48.7484709
 longitude: 9.170408700000001
 postcode: 70597
 city: Stuttgart
-street: Felix-Dahn-Straße
+street: "Felix-Dahn-Straße"
 housenumber: 11A
 phone: ""
 opening_hours: ""

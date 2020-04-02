@@ -5,7 +5,7 @@ latitude: 47.642864100000004
 longitude: 7.7405919
 postcode: 79585
 city: Steinen
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 11a
 phone: ""
 opening_hours: ""

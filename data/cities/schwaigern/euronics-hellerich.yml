@@ -5,7 +5,7 @@ latitude: 49.14067420000001
 longitude: 9.056769300000001
 postcode: 74193
 city: Schwaigern
-street: Theodor-Heuss-Straße
+street: "Theodor-Heuss-Straße"
 housenumber: 4-6
 phone: "+49 7138 920343"
 opening_hours: "Mo,Th,Tu,Fr 09:00-12:30, 14:00-18:00; We,Sa 09:00-13:00"

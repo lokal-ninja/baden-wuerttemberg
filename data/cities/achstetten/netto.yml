@@ -5,7 +5,7 @@ latitude: 48.2576173
 longitude: 9.9017275
 postcode: 88480
 city: Achstetten
-street: Paradiesstraße
+street: "Paradiesstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

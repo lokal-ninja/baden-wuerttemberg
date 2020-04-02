@@ -5,7 +5,7 @@ latitude: 47.781827
 longitude: 9.615403200000001
 postcode: 88212
 city: Ravensburg
-street: Gespinstmarkt
+street: "Gespinstmarkt"
 housenumber: 25
 phone: "+49 751 33132"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-18:00; PH off"

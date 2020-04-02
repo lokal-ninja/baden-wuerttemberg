@@ -5,7 +5,7 @@ latitude: 49.3153165
 longitude: 8.5367341
 postcode: 68766
 city: Hockenheim
-street: Lussheimer Straße
+street: "Lussheimer Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-24:00; Su,PH off"

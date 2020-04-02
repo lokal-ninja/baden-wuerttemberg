@@ -5,7 +5,7 @@ latitude: 48.8706745
 longitude: 9.3537131
 postcode: 71409
 city: Schwaikheim
-street: Fritz-Ebert-Straße
+street: "Fritz-Ebert-Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Tu-Fr 08:00-12:00,13:30-18:00; Sa 07:00-13:00"

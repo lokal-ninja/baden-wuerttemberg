@@ -5,7 +5,7 @@ latitude: 49.100618700000005
 longitude: 9.2142108
 postcode: 74223
 city: Flein
-street: Ilsfelder Straße
+street: "Ilsfelder Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

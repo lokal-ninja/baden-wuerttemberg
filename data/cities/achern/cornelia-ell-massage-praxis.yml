@@ -5,7 +5,7 @@ latitude: 48.621716400000004
 longitude: 7.996355100000001
 postcode: 77855
 city: Achern
-street: Maiwaldstraße
+street: "Maiwaldstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

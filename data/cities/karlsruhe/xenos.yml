@@ -5,7 +5,7 @@ latitude: 49.0067486
 longitude: 8.402508000000001
 postcode: 
 city: Karlsruhe
-street: Karl-Friedrich-Straße
+street: "Karl-Friedrich-Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

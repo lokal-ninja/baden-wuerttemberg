@@ -5,7 +5,7 @@ latitude: 48.6379048
 longitude: 9.340391
 postcode: 72622
 city: Nürtingen
-street: Walter-Rauch-Straße
+street: "Walter-Rauch-Straße"
 housenumber: 7
 phone: "+49 7022 266772"
 opening_hours: ""

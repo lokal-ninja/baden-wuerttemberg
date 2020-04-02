@@ -5,7 +5,7 @@ latitude: 49.464432
 longitude: 8.488372100000001
 postcode: 68163
 city: Mannheim
-street: Neckarauer Straße
+street: "Neckarauer Straße"
 housenumber: 126
 phone: ""
 opening_hours: ""

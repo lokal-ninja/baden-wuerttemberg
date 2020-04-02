@@ -5,7 +5,7 @@ latitude: 49.067661900000004
 longitude: 9.063074
 postcode: 74336
 city: Brackenheim
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 39a
 phone: ""
 opening_hours: ""

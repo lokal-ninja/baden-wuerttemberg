@@ -5,7 +5,7 @@ latitude: 48.895044600000006
 longitude: 8.7046797
 postcode: 75177
 city: Pforzheim
-street: Pfälzerstraße
+street: "Pfälzerstraße"
 housenumber: 2
 phone: "+49 7231 102361"
 opening_hours: ""

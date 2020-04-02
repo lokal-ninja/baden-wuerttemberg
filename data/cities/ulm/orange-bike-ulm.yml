@@ -5,7 +5,7 @@ latitude: 48.3629666
 longitude: 9.9884371
 postcode: 89079
 city: Ulm
-street: Schleifmühleweg
+street: "Schleifmühleweg"
 housenumber: 10
 phone: "+49 175 418 080 0"
 opening_hours: ""

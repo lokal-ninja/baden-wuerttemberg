@@ -5,7 +5,7 @@ latitude: 47.967715600000005
 longitude: 7.7776491000000005
 postcode: 79227
 city: Schallstadt
-street: Basler Straße
+street: "Basler Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

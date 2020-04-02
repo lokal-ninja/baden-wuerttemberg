@@ -5,7 +5,7 @@ latitude: 48.876207400000006
 longitude: 9.529419800000001
 postcode: 73635
 city: Rudersberg
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 57
 phone: "+49 7183 7322"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00; Su,PH off"

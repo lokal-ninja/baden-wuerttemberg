@@ -5,7 +5,7 @@ latitude: 48.677971500000005
 longitude: 8.896520500000001
 postcode: 71134
 city: Aidlingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

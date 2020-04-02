@@ -5,7 +5,7 @@ latitude: 48.4689871
 longitude: 7.946201
 postcode: 77652
 city: Offenburg
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

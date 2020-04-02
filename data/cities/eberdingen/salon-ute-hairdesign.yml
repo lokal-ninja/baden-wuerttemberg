@@ -5,7 +5,7 @@ latitude: 48.886322500000006
 longitude: 9.0008269
 postcode: 71735
 city: Eberdingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

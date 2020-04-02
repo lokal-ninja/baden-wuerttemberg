@@ -5,7 +5,7 @@ latitude: 48.302955100000005
 longitude: 8.423746300000001
 postcode: 78733
 city: Aichhalden
-street: Zubermoosstraße
+street: "Zubermoosstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30, Sa 06:30-13:00"

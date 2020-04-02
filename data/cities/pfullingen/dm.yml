@@ -5,7 +5,7 @@ latitude: 48.4808893
 longitude: 9.231225
 postcode: 72793
 city: Pfullingen
-street: Karl-von-Drais-Straße
+street: "Karl-von-Drais-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"

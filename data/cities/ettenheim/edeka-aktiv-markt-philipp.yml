@@ -5,7 +5,7 @@ latitude: 48.254551000000006
 longitude: 7.821798200000001
 postcode: 77955
 city: Ettenheim
-street: Otto-Stoelcker-Straße
+street: "Otto-Stoelcker-Straße"
 housenumber: 73
 phone: "+49 7822 30217"
 opening_hours: "Mo-Sa 08:00-21:00"

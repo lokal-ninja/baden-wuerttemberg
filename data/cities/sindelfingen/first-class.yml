@@ -5,7 +5,7 @@ latitude: 48.706291300000004
 longitude: 8.998641600000001
 postcode: 71063
 city: Sindelfingen
-street: Mercedesstraße
+street: "Mercedesstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

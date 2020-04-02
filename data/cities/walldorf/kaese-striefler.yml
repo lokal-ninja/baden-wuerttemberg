@@ -5,7 +5,7 @@ latitude: 49.29130180000001
 longitude: 8.648812900000001
 postcode: 69190
 city: Walldorf
-street: Ohmstraße
+street: "Ohmstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

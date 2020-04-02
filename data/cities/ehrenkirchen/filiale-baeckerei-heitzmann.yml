@@ -5,7 +5,7 @@ latitude: 47.915311900000006
 longitude: 7.752550800000001
 postcode: 
 city: Ehrenkirchen
-street: Wentzingerstraße
+street: "Wentzingerstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:30-17:30; Su 07:00-17:30"

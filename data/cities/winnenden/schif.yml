@@ -5,7 +5,7 @@ latitude: 48.879041400000006
 longitude: 9.3962912
 postcode: 71364
 city: Winnenden
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

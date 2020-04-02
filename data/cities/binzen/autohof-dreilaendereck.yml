@@ -5,7 +5,7 @@ latitude: 47.6258531
 longitude: 7.6071523
 postcode: 79589
 city: Binzen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

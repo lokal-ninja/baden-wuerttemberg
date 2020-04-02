@@ -5,7 +5,7 @@ latitude: 48.841348700000005
 longitude: 8.222262500000001
 postcode: 76437
 city: Rastatt
-street: Murgtalstraße
+street: "Murgtalstraße"
 housenumber: 79
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

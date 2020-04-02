@@ -5,7 +5,7 @@ latitude: 48.732405500000006
 longitude: 9.1139124
 postcode: 70563
 city: Stuttgart
-street: Fauststraße
+street: "Fauststraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo -Fr 08:00 - 18:00, Sa 09:00 - 12:00"

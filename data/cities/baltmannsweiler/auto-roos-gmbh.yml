@@ -5,7 +5,7 @@ latitude: 48.761469600000005
 longitude: 9.4539252
 postcode: 73666
 city: Baltmannsweiler
-street: Vogelsangstraße
+street: "Vogelsangstraße"
 housenumber: 58
 phone: ""
 opening_hours: ""

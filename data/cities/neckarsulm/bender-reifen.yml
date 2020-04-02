@@ -5,7 +5,7 @@ latitude: 49.178426800000004
 longitude: 9.2212651
 postcode: 74172
 city: Neckarsulm
-street: Rötelstraße
+street: "Rötelstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

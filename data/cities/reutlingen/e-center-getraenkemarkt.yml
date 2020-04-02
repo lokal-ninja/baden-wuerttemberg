@@ -5,7 +5,7 @@ latitude: 48.5045245
 longitude: 9.219129800000001
 postcode: 72766
 city: Reutlingen
-street: Birnenweg
+street: "Birnenweg"
 housenumber: 8
 phone: "+49 7121 46961"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00"

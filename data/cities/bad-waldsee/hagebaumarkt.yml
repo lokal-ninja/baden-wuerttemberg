@@ -5,7 +5,7 @@ latitude: 47.940182500000006
 longitude: 9.7636324
 postcode: 
 city: Bad Waldsee
-street: Felix-Wankel-Straße
+street: "Felix-Wankel-Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

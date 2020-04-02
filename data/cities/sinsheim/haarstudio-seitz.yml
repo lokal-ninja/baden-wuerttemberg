@@ -5,7 +5,7 @@ latitude: 49.2435507
 longitude: 8.9843025
 postcode: 74889
 city: Sinsheim
-street: Eichwaldstraße
+street: "Eichwaldstraße"
 housenumber: 32
 phone: "+49 7266 1505"
 opening_hours: ""

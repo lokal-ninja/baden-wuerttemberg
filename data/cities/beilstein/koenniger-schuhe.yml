@@ -5,7 +5,7 @@ latitude: 49.0406209
 longitude: 9.3145559
 postcode: 71717
 city: Beilstein
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

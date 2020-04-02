@@ -5,7 +5,7 @@ latitude: 47.6103813
 longitude: 7.665163400000001
 postcode: 79539
 city: Lörrach
-street: Wallbrunnstraße
+street: "Wallbrunnstraße"
 housenumber: 45
 phone: "+49 7621 9492060"
 opening_hours: "Mo-Fr 08:30-20:00, Sa 08:00-17:00, PH off"

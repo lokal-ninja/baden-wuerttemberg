@@ -5,7 +5,7 @@ latitude: 48.105937600000004
 longitude: 7.9717596
 postcode: 79183
 city: Kollnau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 48
 phone: "+49 7681 4746419"
 opening_hours: "Mar-Aug Mo-Fr 09:30-19:00; Mar-Aug Sa 09:00-16:00; Sep-Feb Mo-Fr 10:00-18:30; Sep-Feb Sa 10:00-14:00"

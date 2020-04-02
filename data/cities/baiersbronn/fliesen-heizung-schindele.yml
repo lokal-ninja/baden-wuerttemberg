@@ -5,7 +5,7 @@ latitude: 48.4926606
 longitude: 8.375744300000001
 postcode: 72270
 city: Baiersbronn
-street: Uferweg
+street: "Uferweg"
 housenumber: 55
 phone: ""
 opening_hours: ""

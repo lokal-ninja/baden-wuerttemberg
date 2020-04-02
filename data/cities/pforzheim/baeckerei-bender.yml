@@ -5,7 +5,7 @@ latitude: 48.8588326
 longitude: 8.6599273
 postcode: 75180
 city: Pforzheim
-street: Breitenackerweg
+street: "Breitenackerweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

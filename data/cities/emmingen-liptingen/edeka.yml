@@ -5,7 +5,7 @@ latitude: 47.930520900000005
 longitude: 8.8540576
 postcode: 78576
 city: Emmingen-Liptingen
-street: Talstraße
+street: "Talstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.9068465
 longitude: 9.143783800000001
 postcode: 71679
 city: Asperg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 70
 phone: ""
 opening_hours: ""

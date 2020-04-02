@@ -5,7 +5,7 @@ latitude: 48.6387468
 longitude: 8.0921166
 postcode: 77880
 city: Sasbach
-street: Obersasbacher Straße
+street: "Obersasbacher Straße"
 housenumber: 1
 phone: "+49 7841 1283"
 opening_hours: ""

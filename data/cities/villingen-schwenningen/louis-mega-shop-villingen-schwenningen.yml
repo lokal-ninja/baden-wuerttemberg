@@ -5,7 +5,7 @@ latitude: 48.067760500000006
 longitude: 8.4513654
 postcode: 78048
 city: Villingen-Schwenningen
-street: Am Krebsgraben
+street: "Am Krebsgraben"
 housenumber: 2
 phone: "+49 7721 2067231"
 opening_hours: "Mo-We 09:00-20:00; Th-Fr 09:00-21:00; Sa 09:00-20:00"

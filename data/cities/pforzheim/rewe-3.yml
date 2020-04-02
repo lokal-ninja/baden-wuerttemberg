@@ -5,7 +5,7 @@ latitude: 48.8855354
 longitude: 8.670101
 postcode: 75172
 city: Pforzheim
-street: Büchenbronner Straße
+street: "Büchenbronner Straße"
 housenumber: 70
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

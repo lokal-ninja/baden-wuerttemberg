@@ -5,7 +5,7 @@ latitude: 47.664585
 longitude: 9.5725269
 postcode: 88069
 city: Tettnang
-street: Prinz-Eugen-Straße
+street: "Prinz-Eugen-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

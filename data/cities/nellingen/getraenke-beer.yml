@@ -5,7 +5,7 @@ latitude: 48.5447183
 longitude: 9.7905268
 postcode: 89191
 city: Nellingen
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 15:30-18:30; We off; Sa 08:30-12:30"

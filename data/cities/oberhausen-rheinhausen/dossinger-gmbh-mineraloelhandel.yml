@@ -5,7 +5,7 @@ latitude: 49.270670200000005
 longitude: 8.473842300000001
 postcode: 68794
 city: Oberhausen-Rheinhausen
-street: Draisstraße
+street: "Draisstraße"
 housenumber: 2
 phone: ""
 opening_hours: "24/7"

@@ -5,7 +5,7 @@ latitude: 49.125368800000004
 longitude: 9.2232418
 postcode: 74074
 city: Heilbronn
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 85
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

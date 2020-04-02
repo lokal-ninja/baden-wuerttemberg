@@ -5,7 +5,7 @@ latitude: 48.5137736
 longitude: 9.0545843
 postcode: 72072
 city: Tübingen
-street: Schellingstraße
+street: "Schellingstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo 16:00-19:00; We 16:00-23:00; Su,PH off"

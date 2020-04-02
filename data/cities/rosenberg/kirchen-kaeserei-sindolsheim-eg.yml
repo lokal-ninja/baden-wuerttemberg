@@ -5,7 +5,7 @@ latitude: 49.4882937
 longitude: 9.458743700000001
 postcode: 74749
 city: Rosenberg
-street: Vorstadt
+street: "Vorstadt"
 housenumber: 11a
 phone: "+49 175 555 74 11"
 opening_hours: "Sa 10:00-17:00"

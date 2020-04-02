@@ -5,7 +5,7 @@ latitude: 47.985159800000005
 longitude: 8.8202197
 postcode: 78532
 city: Tuttlingen
-street: Untere Hauptstraße
+street: "Untere Hauptstraße"
 housenumber: 20
 phone: "+49 7461 3312"
 opening_hours: ""

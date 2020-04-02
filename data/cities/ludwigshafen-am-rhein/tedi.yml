@@ -5,7 +5,7 @@ latitude: 49.478682400000004
 longitude: 8.4531869
 postcode: 67061
 city: Ludwigshafen am Rhein
-street: Yorckstraße
+street: "Yorckstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00, Sa 09:00-20:00"

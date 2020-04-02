@@ -5,7 +5,7 @@ latitude: 48.3900415
 longitude: 9.180880400000001
 postcode: 72820
 city: Sonnenbühl
-street: Schießgasse
+street: "Schießgasse"
 housenumber: 4
 phone: "+49 7128.2302"
 opening_hours: ""

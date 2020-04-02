@@ -5,7 +5,7 @@ latitude: 47.882057
 longitude: 7.7310208000000005
 postcode: 79219
 city: Staufen im Breisgau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 46
 phone: "+49 7633 802508"
 opening_hours: "Mo-Fr 09:30-12:30,15:00-18:00; Sa 09:30-12:30"

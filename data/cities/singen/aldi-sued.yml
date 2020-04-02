@@ -5,7 +5,7 @@ latitude: 47.750709300000004
 longitude: 8.851489500000001
 postcode: 78224
 city: Singen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

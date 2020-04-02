@@ -5,7 +5,7 @@ latitude: 48.031227300000005
 longitude: 7.765472600000001
 postcode: 79224
 city: Umkirch
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 29
 phone: "+49-7665-99211"
 opening_hours: "Tu,We,Fr 09:00-18:00; Th 09:00-20:00; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.121934800000005
 longitude: 9.1972149
 postcode: 74081
 city: Heilbronn
-street: Ludwig-Richter-Straße
+street: "Ludwig-Richter-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.0888572
 longitude: 9.277195200000001
 postcode: 74199
 city: Untergruppenbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

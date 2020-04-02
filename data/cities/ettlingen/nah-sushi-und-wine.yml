@@ -5,7 +5,7 @@ latitude: 48.9420506
 longitude: 8.4042019
 postcode: 76275
 city: Ettlingen
-street: Hildastraße
+street: "Hildastraße"
 housenumber: 20
 phone: "+49 7243 5610888"
 opening_hours: "Mo-Sa 11:30-22:30; Su,PH 17:00-22:30"

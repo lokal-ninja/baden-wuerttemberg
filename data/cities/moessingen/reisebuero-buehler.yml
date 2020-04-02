@@ -5,7 +5,7 @@ latitude: 48.409535000000005
 longitude: 9.0573969
 postcode: 72116
 city: Mössingen
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 72
 phone: ""
 opening_hours: ""

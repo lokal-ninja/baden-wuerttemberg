@@ -5,7 +5,7 @@ latitude: 49.1250785
 longitude: 10.0818714
 postcode: 74564
 city: Crailsheim
-street: Dr.-Bareilles-Straße
+street: "Dr.-Bareilles-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

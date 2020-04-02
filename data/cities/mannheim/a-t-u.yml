@@ -5,7 +5,7 @@ latitude: 49.455295500000005
 longitude: 8.500015600000001
 postcode: 68199
 city: Mannheim
-street: Morchfeldstraße
+street: "Morchfeldstraße"
 housenumber: 47
 phone: ""
 opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-16:00"

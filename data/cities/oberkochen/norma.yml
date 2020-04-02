@@ -5,7 +5,7 @@ latitude: 48.7857926
 longitude: 10.1166111
 postcode: 73447
 city: Oberkochen
-street: Röchlingstraße
+street: "Röchlingstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

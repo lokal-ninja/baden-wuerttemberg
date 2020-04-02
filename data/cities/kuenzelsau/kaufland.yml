@@ -5,7 +5,7 @@ latitude: 49.277596700000004
 longitude: 9.684161300000001
 postcode: 74653
 city: Künzelsau
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 10-12
 phone: ""
 opening_hours: ""

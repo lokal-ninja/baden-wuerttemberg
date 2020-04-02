@@ -5,7 +5,7 @@ latitude: 49.14619080000001
 longitude: 9.2208033
 postcode: 74072
 city: Heilbronn
-street: Berliner Platz
+street: "Berliner Platz"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

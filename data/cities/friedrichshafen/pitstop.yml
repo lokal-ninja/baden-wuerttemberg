@@ -5,7 +5,7 @@ latitude: 47.6551527
 longitude: 9.485867200000001
 postcode: 
 city: Friedrichshafen
-street: Paulinenstraße
+street: "Paulinenstraße"
 housenumber: 3/1
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00"

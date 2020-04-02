@@ -5,7 +5,7 @@ latitude: 47.6532202
 longitude: 9.4854538
 postcode: 88046
 city: Friedrichshafen
-street: Werderstraße
+street: "Werderstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

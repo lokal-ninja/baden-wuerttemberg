@@ -5,7 +5,7 @@ latitude: 48.7182856
 longitude: 9.091071000000001
 postcode: 70565
 city: Stuttgart
-street: Am Wildwechsel
+street: "Am Wildwechsel"
 housenumber: 24
 phone: "+49 711 9074050"
 opening_hours: "Mo-Sa 06:30-13:00; Mo,Tu,Th,Fr 15:00-18:00"

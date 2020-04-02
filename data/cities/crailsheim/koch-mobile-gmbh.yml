@@ -5,7 +5,7 @@ latitude: 49.1346244
 longitude: 10.037405900000001
 postcode: 74564
 city: Crailsheim
-street: Ludwig-Erhard-Straße
+street: "Ludwig-Erhard-Straße"
 housenumber: 118
 phone: ""
 opening_hours: ""

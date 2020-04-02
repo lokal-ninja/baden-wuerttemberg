@@ -5,7 +5,7 @@ latitude: 48.012678300000005
 longitude: 7.852879700000001
 postcode: 79106
 city: Freiburg im Breisgau
-street: Waldkircher Straße
+street: "Waldkircher Straße"
 housenumber: 57
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"

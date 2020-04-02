@@ -5,7 +5,7 @@ latitude: 47.690354000000006
 longitude: 9.146929700000001
 postcode: 78467
 city: Konstanz
-street: Radolfzeller Straße
+street: "Radolfzeller Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

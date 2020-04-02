@@ -5,7 +5,7 @@ latitude: 49.0277602
 longitude: 8.4548693
 postcode: 76139
 city: Karlsruhe
-street: Karlsruher Straße
+street: "Karlsruher Straße"
 housenumber: 62-64
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 48.164173500000004
 longitude: 7.702125100000001
 postcode: 79362
 city: Forchheim
-street: Kronenstraße
+street: "Kronenstraße"
 housenumber: 18
 phone: "+49 7642 1402"
 opening_hours: ""

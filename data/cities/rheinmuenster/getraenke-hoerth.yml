@@ -5,7 +5,7 @@ latitude: 48.761901200000004
 longitude: 8.0524444
 postcode: 77836
 city: Rheinmünster
-street: Herrenstraße
+street: "Herrenstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

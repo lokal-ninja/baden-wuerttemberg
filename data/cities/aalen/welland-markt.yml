@@ -5,7 +5,7 @@ latitude: 48.870860500000006
 longitude: 10.0255126
 postcode: 73434
 city: Aalen
-street: Fachsenfelder Straße
+street: "Fachsenfelder Straße"
 housenumber: 4/1
 phone: "+49 7366 9299657"
 opening_hours: "Mo-Fr 6:30-19:00; Sa 7:00-13:00; Su 08:00-10:00"

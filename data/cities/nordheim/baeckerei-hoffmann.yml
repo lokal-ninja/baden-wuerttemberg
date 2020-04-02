@@ -5,7 +5,7 @@ latitude: 49.1076216
 longitude: 9.137842500000001
 postcode: 74226
 city: Nordheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Fr 05:15-12:30,14:00-18:00; Sa 05:15-13:00"

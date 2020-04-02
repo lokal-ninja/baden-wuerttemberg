@@ -5,7 +5,7 @@ latitude: 49.364450600000005
 longitude: 8.5409152
 postcode: 68775
 city: Ketsch
-street: Karlsruher Straße
+street: "Karlsruher Straße"
 housenumber: 115
 phone: "+49 6202 29977"
 opening_hours: "mar 1 - oct 31 mo-fr 10:00-14:00, 15:00-18:30; sa 10:00-14:00 ; Nov 1 - Feb 28 mo-fr 15:00-18:30; sa 10:00-14:00"

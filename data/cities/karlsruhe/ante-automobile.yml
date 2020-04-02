@@ -5,7 +5,7 @@ latitude: 49.0052426
 longitude: 8.4169525
 postcode: 
 city: Karlsruhe
-street: Kriegsstraße
+street: "Kriegsstraße"
 housenumber: 38a
 phone: ""
 opening_hours: ""

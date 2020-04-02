@@ -5,7 +5,7 @@ latitude: 48.1769862
 longitude: 9.087410100000001
 postcode: 72479
 city: Straßberg
-street: Bohlstraße
+street: "Bohlstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 06:30-12:30,14:00-18:00; Sa 06:30-12:30"

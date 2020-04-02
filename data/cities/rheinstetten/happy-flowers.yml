@@ -5,7 +5,7 @@ latitude: 48.9756675
 longitude: 8.308041000000001
 postcode: 76287
 city: Rheinstetten
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6b
 phone: ""
 opening_hours: ""

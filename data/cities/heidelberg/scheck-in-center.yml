@@ -5,7 +5,7 @@ latitude: 49.405857600000004
 longitude: 8.686826100000001
 postcode: 69115
 city: Heidelberg
-street: Kurfürsten-Anlage
+street: "Kurfürsten-Anlage"
 housenumber: 21-23
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

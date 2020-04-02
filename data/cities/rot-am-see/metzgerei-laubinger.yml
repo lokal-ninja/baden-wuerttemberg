@@ -5,7 +5,7 @@ latitude: 49.250054600000006
 longitude: 10.0256311
 postcode: 74585
 city: Rot am See
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

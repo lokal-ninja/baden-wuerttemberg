@@ -5,7 +5,7 @@ latitude: 48.802703300000005
 longitude: 9.0691711
 postcode: 70839
 city: Gerlingen
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 62
 phone: ""
 opening_hours: ""

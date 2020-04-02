@@ -5,7 +5,7 @@ latitude: 48.813818600000005
 longitude: 9.522763300000001
 postcode: 73614
 city: Schorndorf
-street: Waiblinger Straße
+street: "Waiblinger Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

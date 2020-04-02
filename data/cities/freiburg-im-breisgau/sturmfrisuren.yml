@@ -5,7 +5,7 @@ latitude: 47.9893851
 longitude: 7.823050500000001
 postcode: 79115
 city: Freiburg im Breisgau
-street: Carl-Kistner-Straße
+street: "Carl-Kistner-Straße"
 housenumber: 72
 phone: "+49 761 484372"
 opening_hours: "Tu,Th 09:00-18:00; We,Fr 09:00-20:00; Sa 08:00-13:00"

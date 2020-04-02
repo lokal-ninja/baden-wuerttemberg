@@ -5,7 +5,7 @@ latitude: 48.1972558
 longitude: 7.815548000000001
 postcode: 79341
 city: Kenzingen
-street: Rebhofweg
+street: "Rebhofweg"
 housenumber: 15
 phone: "+49 7644 4405"
 opening_hours: ""

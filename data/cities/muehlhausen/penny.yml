@@ -5,7 +5,7 @@ latitude: 49.2481232
 longitude: 8.7373493
 postcode: 69242
 city: Mühlhausen
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

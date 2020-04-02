@@ -5,7 +5,7 @@ latitude: 48.790241400000006
 longitude: 9.6481893
 postcode: 73547
 city: Lorch
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 92
 phone: ""
 opening_hours: ""

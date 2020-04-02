@@ -5,7 +5,7 @@ latitude: 48.6901269
 longitude: 9.627279900000001
 postcode: 73035
 city: Göppingen
-street: Autenbachstraße
+street: "Autenbachstraße"
 housenumber: 2
 phone: "+49-7161-42900"
 opening_hours: ""

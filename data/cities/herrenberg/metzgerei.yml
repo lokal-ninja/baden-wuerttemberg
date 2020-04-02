@@ -5,7 +5,7 @@ latitude: 48.623959400000004
 longitude: 8.831452200000001
 postcode: 71083
 city: Herrenberg
-street: Mahdenstraße
+street: "Mahdenstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

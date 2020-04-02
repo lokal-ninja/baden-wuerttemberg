@@ -5,7 +5,7 @@ latitude: 49.070326900000005
 longitude: 9.1583283
 postcode: 74348
 city: Lauffen am Neckar
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 75
 phone: "+49-7133-6000"
 opening_hours: "24/7"

@@ -5,7 +5,7 @@ latitude: 49.057917100000004
 longitude: 9.2854752
 postcode: 74360
 city: Ilsfeld
-street: Ludwig-Thoma-Straße
+street: "Ludwig-Thoma-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.2883184
 longitude: 8.8196148
 postcode: 72351
 city: Geislingen
-street: Vorstadtstraße
+street: "Vorstadtstraße"
 housenumber: 65
 phone: ""
 opening_hours: ""

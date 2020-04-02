@@ -5,7 +5,7 @@ latitude: 48.723296100000006
 longitude: 8.704822700000001
 postcode: 75365
 city: Calw
-street: Schwarzwaldstraße
+street: "Schwarzwaldstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

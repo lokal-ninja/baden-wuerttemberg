@@ -5,7 +5,7 @@ latitude: 48.831169
 longitude: 9.793992300000001
 postcode: 73557
 city: Mutlangen
-street: In der Breite
+street: "In der Breite"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00, PH off"

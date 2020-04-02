@@ -5,7 +5,7 @@ latitude: 48.832532400000005
 longitude: 9.169569000000001
 postcode: 70435
 city: Stuttgart
-street: Kirchtalstraße
+street: "Kirchtalstraße"
 housenumber: 1
 phone: "+49 711 875444"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"

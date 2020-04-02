@@ -5,7 +5,7 @@ latitude: 48.7081419
 longitude: 9.2632287
 postcode: 73760
 city: Ostfildern
-street: Nellinger Straße
+street: "Nellinger Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,14:30-18:00; Sa 08:00-12:00"

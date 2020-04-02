@@ -5,7 +5,7 @@ latitude: 47.787579900000004
 longitude: 9.8826474
 postcode: 88353
 city: Kißlegg
-street: Herrenstraße
+street: "Herrenstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

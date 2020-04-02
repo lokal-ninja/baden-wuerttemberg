@@ -5,7 +5,7 @@ latitude: 48.994365
 longitude: 8.789228000000001
 postcode: 75433
 city: Maulbronn
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 16
 phone: "+49 7043 955290"
 opening_hours: "Mo-Fr 14:00-18:00; Sa,Su,PH off || Samstags nach Vereinbarung"

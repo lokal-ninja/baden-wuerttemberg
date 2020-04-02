@@ -5,7 +5,7 @@ latitude: 48.4103848
 longitude: 8.8955649
 postcode: 72145
 city: Hirrlingen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 71
 phone: ""
 opening_hours: ""

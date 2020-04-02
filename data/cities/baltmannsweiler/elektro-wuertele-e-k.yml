@@ -5,7 +5,7 @@ latitude: 48.7501966
 longitude: 9.443346
 postcode: 73666
 city: Baltmannsweiler
-street: Silcherstraße
+street: "Silcherstraße"
 housenumber: 67
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:30, Mo,Tu,Th,Fr 14:00-18:30, We 14:00-18:00, Sa 09:00-13:30"

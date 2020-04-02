@@ -5,7 +5,7 @@ latitude: 49.2925946
 longitude: 8.6583676
 postcode: 69190
 city: Walldorf
-street: Heinrich-Lanz-Straße
+street: "Heinrich-Lanz-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"

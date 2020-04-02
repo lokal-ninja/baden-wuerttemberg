@@ -5,7 +5,7 @@ latitude: 47.9817103
 longitude: 7.803674300000001
 postcode: 79111
 city: Freiburg im Breisgau
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-13:00"

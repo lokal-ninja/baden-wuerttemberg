@@ -5,7 +5,7 @@ latitude: 48.099844600000004
 longitude: 9.463477300000001
 postcode: 88521
 city: Ertingen
-street: Riedlinger Straße
+street: "Riedlinger Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

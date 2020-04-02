@@ -5,7 +5,7 @@ latitude: 48.503317200000005
 longitude: 8.825203
 postcode: 72108
 city: Rottenburg am Neckar
-street: Mercedesstraße
+street: "Mercedesstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

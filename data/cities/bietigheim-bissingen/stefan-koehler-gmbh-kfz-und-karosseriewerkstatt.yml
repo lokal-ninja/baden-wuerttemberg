@@ -5,7 +5,7 @@ latitude: 48.945307500000006
 longitude: 9.0838243
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Bissinger Straße
+street: "Bissinger Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

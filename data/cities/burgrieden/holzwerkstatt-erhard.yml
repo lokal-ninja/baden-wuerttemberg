@@ -5,7 +5,7 @@ latitude: 48.225355300000004
 longitude: 9.9482592
 postcode: 
 city: Burgrieden
-street: Bühler Straße
+street: "Bühler Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.952812200000004
 longitude: 9.6398968
 postcode: 88326
 city: Aulendorf
-street: Kornhausstraße
+street: "Kornhausstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"

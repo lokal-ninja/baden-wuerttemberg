@@ -5,7 +5,7 @@ latitude: 47.8534731
 longitude: 9.0139473
 postcode: 78333
 city: Stockach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

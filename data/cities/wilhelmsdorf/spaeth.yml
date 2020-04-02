@@ -5,7 +5,7 @@ latitude: 47.849508400000005
 longitude: 9.431342800000001
 postcode: 88271
 city: Wilhelmsdorf
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-12:15, Mo,Tu,Th,Fr 14:00-18:00"

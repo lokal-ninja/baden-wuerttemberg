@@ -5,7 +5,7 @@ latitude: 49.000431500000005
 longitude: 8.466564400000001
 postcode: 76227
 city: Karlsruhe
-street: Zur Gießerei
+street: "Zur Gießerei"
 housenumber: 1
 phone: "+49 721 9463497"
 opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; We,Sa 10:00-13:00"

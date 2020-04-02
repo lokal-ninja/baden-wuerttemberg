@@ -5,7 +5,7 @@ latitude: 49.045078100000005
 longitude: 9.037359
 postcode: 74389
 city: Cleebronn
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

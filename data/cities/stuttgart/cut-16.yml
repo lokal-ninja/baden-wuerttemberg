@@ -5,7 +5,7 @@ latitude: 48.833203000000005
 longitude: 9.1701207
 postcode: 70435
 city: Stuttgart
-street: Kirchtalstraße
+street: "Kirchtalstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.441790600000004
 longitude: 8.57771
 postcode: 
 city: Mannheim
-street: Vogesenstraße
+street: "Vogesenstraße"
 housenumber: 29
 phone: "+49 621 471247"
 opening_hours: "Tu,We 09:00-18:00; Th,Fr 09:00-20:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.9396884
 longitude: 9.1329911
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Werner-Siemens-Straße
+street: "Werner-Siemens-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-16:00"

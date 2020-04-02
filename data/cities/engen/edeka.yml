@@ -5,7 +5,7 @@ latitude: 47.8547944
 longitude: 8.767909900000001
 postcode: 
 city: Engen
-street: Hegaustraße
+street: "Hegaustraße"
 housenumber: 5a
 phone: "+49 7733 50572 0"
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

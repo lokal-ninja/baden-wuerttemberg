@@ -5,7 +5,7 @@ latitude: 48.952591600000005
 longitude: 8.8515669
 postcode: 75417
 city: Mühlacker
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 30
 phone: "+49 7041 96640"
 opening_hours: "Mo-Fr 07:00-18:00, Sa 09:00-13:00"

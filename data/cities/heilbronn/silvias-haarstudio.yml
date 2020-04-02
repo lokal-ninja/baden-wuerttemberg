@@ -5,7 +5,7 @@ latitude: 49.184566100000005
 longitude: 9.111727
 postcode: 74078
 city: Heilbronn
-street: Deutschritterstraße
+street: "Deutschritterstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

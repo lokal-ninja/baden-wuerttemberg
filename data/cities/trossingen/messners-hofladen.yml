@@ -5,7 +5,7 @@ latitude: 48.0519644
 longitude: 8.643432200000001
 postcode: 78647
 city: Trossingen
-street: Im Winkel
+street: "Im Winkel"
 housenumber: 7
 phone: ""
 opening_hours: "Tu,Fr 09:00-19:00"

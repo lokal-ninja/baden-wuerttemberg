@@ -5,7 +5,7 @@ latitude: 48.830883
 longitude: 10.0799593
 postcode: 73430
 city: Aalen
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 102
 phone: "+49 178 6002658"
 opening_hours: ""

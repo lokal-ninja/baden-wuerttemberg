@@ -5,7 +5,7 @@ latitude: 47.727246400000006
 longitude: 9.320363
 postcode: 88697
 city: Bermatingen
-street: Heiligenbergstraße
+street: "Heiligenbergstraße"
 housenumber: 21
 phone: "+49 7544 3534"
 opening_hours: ""

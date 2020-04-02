@@ -5,7 +5,7 @@ latitude: 49.061748300000005
 longitude: 9.3669562
 postcode: 71717
 city: Beilstein
-street: Klingener Weg
+street: "Klingener Weg"
 housenumber: 2
 phone: "+49 7062 930934"
 opening_hours: ""

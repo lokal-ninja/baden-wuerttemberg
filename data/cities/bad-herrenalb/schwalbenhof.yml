@@ -5,7 +5,7 @@ latitude: 48.817611400000004
 longitude: 8.4805797
 postcode: 76332
 city: Bad Herrenalb
-street: Uhlandstraße
+street: "Uhlandstraße"
 housenumber: 2/2
 phone: "+49 7083 9250846"
 opening_hours: "Do+Fr 15:00 - 19:00; Sa 09:00 - 13:00"

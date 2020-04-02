@@ -5,7 +5,7 @@ latitude: 48.4529933
 longitude: 7.8872682
 postcode: 77746
 city: Schutterwald
-street: Saint-Denis-Straße
+street: "Saint-Denis-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

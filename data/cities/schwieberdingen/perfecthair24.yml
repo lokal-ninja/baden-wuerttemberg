@@ -5,7 +5,7 @@ latitude: 48.875592000000005
 longitude: 9.0738862
 postcode: 71701
 city: Schwieberdingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 15
 phone: "+49 7150 391603"
 opening_hours: ""

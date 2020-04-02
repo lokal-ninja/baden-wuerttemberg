@@ -5,7 +5,7 @@ latitude: 48.954297800000006
 longitude: 9.1166374
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Alexander-Fleming-Straße
+street: "Alexander-Fleming-Straße"
 housenumber: 6
 phone: "+49 7142 9033-0"
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.490599100000004
 longitude: 8.4757423
 postcode: 68161
 city: Mannheim
-street: Friedrichsring
+street: "Friedrichsring"
 housenumber: 46
 phone: "+49 621-44589661"
 opening_hours: ""

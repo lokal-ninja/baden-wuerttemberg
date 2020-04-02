@@ -5,7 +5,7 @@ latitude: 48.8166871
 longitude: 9.1097408
 postcode: 70499
 city: Stuttgart
-street: Glemsgaustraße
+street: "Glemsgaustraße"
 housenumber: 47
 phone: "+49 711 8874590"
 opening_hours: "Mo-Fr 08:00-13:00, 14:30-18:00; Sa 08:00-13:00"

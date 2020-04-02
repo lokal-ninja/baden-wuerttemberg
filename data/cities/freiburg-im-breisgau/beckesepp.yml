@@ -5,7 +5,7 @@ latitude: 47.9881133
 longitude: 7.861058300000001
 postcode: 79102
 city: Freiburg im Breisgau
-street: Nägeleseestraße
+street: "Nägeleseestraße"
 housenumber: 4a
 phone: ""
 opening_hours: "Mo-Sa 8:00-22:00"

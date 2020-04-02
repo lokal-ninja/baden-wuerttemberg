@@ -5,7 +5,7 @@ latitude: 49.430765400000006
 longitude: 9.426011800000001
 postcode: 74706
 city: Osterburken
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 10
 phone: "+49 6291 8175"
 opening_hours: ""

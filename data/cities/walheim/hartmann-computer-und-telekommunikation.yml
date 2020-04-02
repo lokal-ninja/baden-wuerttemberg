@@ -5,7 +5,7 @@ latitude: 49.0112639
 longitude: 9.1544162
 postcode: 74399
 city: Walheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 65/2
 phone: ""
 opening_hours: ""

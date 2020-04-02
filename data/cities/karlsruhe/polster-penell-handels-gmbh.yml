@@ -5,7 +5,7 @@ latitude: 48.9948801
 longitude: 8.3445034
 postcode: 76189
 city: Karlsruhe
-street: Durmersheimer Straße
+street: "Durmersheimer Straße"
 housenumber: 159
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off"

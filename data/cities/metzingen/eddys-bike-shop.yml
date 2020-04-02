@@ -5,7 +5,7 @@ latitude: 48.5096855
 longitude: 9.3093693
 postcode: 72555
 city: Metzingen
-street: Neuhauser Straße
+street: "Neuhauser Straße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Fr 9:00-12:00,13:30-19:00; Sa,Su,PH off"

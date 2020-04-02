@@ -5,7 +5,7 @@ latitude: 49.1361518
 longitude: 9.2189636
 postcode: 74072
 city: Heilbronn
-street: Innsbrucker Straße
+street: "Innsbrucker Straße"
 housenumber: 20
 phone: "+49 7131 3901325"
 opening_hours: "Mo-We 13:00-18:30; Th-Fr 10:00-15:00"

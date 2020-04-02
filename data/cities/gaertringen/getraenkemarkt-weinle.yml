@@ -5,7 +5,7 @@ latitude: 48.6386473
 longitude: 8.9042159
 postcode: 71116
 city: Gärtringen
-street: Reinhardstraße
+street: "Reinhardstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

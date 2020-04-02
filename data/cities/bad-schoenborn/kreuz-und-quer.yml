@@ -5,7 +5,7 @@ latitude: 49.220680200000004
 longitude: 8.659191100000001
 postcode: 76669
 city: Bad Schönborn
-street: Monestraße
+street: "Monestraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

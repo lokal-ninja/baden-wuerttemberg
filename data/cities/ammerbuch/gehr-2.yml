@@ -5,7 +5,7 @@ latitude: 48.554818600000004
 longitude: 8.965466900000001
 postcode: 72119
 city: Ammerbuch
-street: Herrenberger Straße
+street: "Herrenberger Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-14:00; Su 08:00-11:00"

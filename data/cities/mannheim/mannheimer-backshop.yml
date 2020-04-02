@@ -5,7 +5,7 @@ latitude: 49.494494
 longitude: 8.4573701
 postcode: 68159
 city: Mannheim
-street: Hafenstraße
+street: "Hafenstraße"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Fr 6:00-18:00;Sa 06:00-15:00"

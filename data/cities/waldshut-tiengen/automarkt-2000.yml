@@ -5,7 +5,7 @@ latitude: 47.627946200000004
 longitude: 8.265082000000001
 postcode: 79761
 city: Waldshut-Tiengen
-street: Waldshuter Straße
+street: "Waldshuter Straße"
 housenumber: 14
 phone: "+49 7741 680350"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"

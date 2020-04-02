@@ -5,7 +5,7 @@ latitude: 48.8704881
 longitude: 8.626234400000001
 postcode: 75217
 city: Birkenfeld
-street: Herrenalber Straße
+street: "Herrenalber Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00"

@@ -5,7 +5,7 @@ latitude: 48.7044961
 longitude: 9.143833500000001
 postcode: 70771
 city: Leinfelden-Echterdingen
-street: Adlerstraße
+street: "Adlerstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

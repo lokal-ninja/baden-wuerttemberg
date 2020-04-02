@@ -5,7 +5,7 @@ latitude: 47.9949108
 longitude: 7.8428366
 postcode: 79098
 city: Freiburg im Breisgau
-street: Sedanstraße
+street: "Sedanstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

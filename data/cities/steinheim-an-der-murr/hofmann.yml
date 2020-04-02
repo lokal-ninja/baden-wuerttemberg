@@ -5,7 +5,7 @@ latitude: 48.9653008
 longitude: 9.278746
 postcode: 71711
 city: Steinheim an der Murr
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.192136700000006
 longitude: 9.223579500000001
 postcode: 74172
 city: Neckarsulm
-street: Schloßgasse
+street: "Schloßgasse"
 housenumber: 8
 phone: ""
 opening_hours: ""

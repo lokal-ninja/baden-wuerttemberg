@@ -5,7 +5,7 @@ latitude: 49.176504800000004
 longitude: 9.201282800000001
 postcode: 74078
 city: Heilbronn
-street: Mosbacher Straße
+street: "Mosbacher Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

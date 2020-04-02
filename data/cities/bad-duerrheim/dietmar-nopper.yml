@@ -5,7 +5,7 @@ latitude: 47.9980922
 longitude: 8.6353091
 postcode: 78073
 city: Bad Dürrheim
-street: Haugenrainstraße
+street: "Haugenrainstraße"
 housenumber: 18
 phone: "+49 7706 722"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.388145900000005
 longitude: 8.7257209
 postcode: 72186
 city: Empfingen
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 07:00-21:00, Sa 07:00-21:00; PH off"

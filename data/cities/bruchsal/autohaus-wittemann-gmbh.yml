@@ -5,7 +5,7 @@ latitude: 49.1190871
 longitude: 8.5736273
 postcode: 76646
 city: Bruchsal
-street: Dieselweg
+street: "Dieselweg"
 housenumber: 7-9
 phone: "+49 7251 8080"
 opening_hours: "Mo-Fr 07:30-17:30, Sa 08:30-12:00"

@@ -5,7 +5,7 @@ latitude: 49.0090353
 longitude: 8.373902900000001
 postcode: 76185
 city: Karlsruhe
-street: Yorckstraße
+street: "Yorckstraße"
 housenumber: 25
 phone: "+49 721 83086856"
 opening_hours: "Mo-Sa 09:00-19:00"

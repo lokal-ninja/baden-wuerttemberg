@@ -5,7 +5,7 @@ latitude: 49.0352096
 longitude: 8.444357
 postcode: 76139
 city: Karlsruhe
-street: Neisser Straße
+street: "Neisser Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:15;Sa 08:00-13:00"

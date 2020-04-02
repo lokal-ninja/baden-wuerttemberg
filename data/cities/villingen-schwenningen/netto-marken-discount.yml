@@ -5,7 +5,7 @@ latitude: 48.0646022
 longitude: 8.4606691
 postcode: 78048
 city: Villingen-Schwenningen
-street: An der Schelmengaß
+street: "An der Schelmengaß"
 housenumber: 25
 phone: ""
 opening_hours: "07:00-21:00; Su,PH off"

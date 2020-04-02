@@ -5,7 +5,7 @@ latitude: 48.3421043
 longitude: 8.3966198
 postcode: 72275
 city: Alpirsbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 64
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.0089436
 longitude: 8.4429195
 postcode: 76131
 city: Karlsruhe
-street: Heinrich-Wittmann-Straße
+street: "Heinrich-Wittmann-Straße"
 housenumber: 23
 phone: "+49 721 96142481"
 opening_hours: ""

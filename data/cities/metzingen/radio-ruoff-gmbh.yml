@@ -5,7 +5,7 @@ latitude: 48.537865700000005
 longitude: 9.2860175
 postcode: 72555
 city: Metzingen
-street: Schlossstraße
+street: "Schlossstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

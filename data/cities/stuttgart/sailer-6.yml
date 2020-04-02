@@ -5,7 +5,7 @@ latitude: 48.8147752
 longitude: 9.2266785
 postcode: 70374
 city: Stuttgart
-street: Hofener Straße
+street: "Hofener Straße"
 housenumber: 126
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

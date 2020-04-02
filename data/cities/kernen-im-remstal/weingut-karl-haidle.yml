@@ -5,7 +5,7 @@ latitude: 48.786555
 longitude: 9.3416178
 postcode: 71394
 city: Kernen im Remstal
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr: 8-12 u. 13-18 Uhr, Sa: 9-15 Uhr"

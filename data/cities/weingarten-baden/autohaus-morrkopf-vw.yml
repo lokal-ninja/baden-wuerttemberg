@@ -5,7 +5,7 @@ latitude: 49.0462684
 longitude: 8.5261264
 postcode: 76356
 city: Weingarten (Baden)
-street: Durlacher Straße
+street: "Durlacher Straße"
 housenumber: 80
 phone: "+49724470710"
 opening_hours: "mo-fr 07:00-18:00; sa 09:00-13:00"

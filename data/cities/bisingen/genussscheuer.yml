@@ -5,7 +5,7 @@ latitude: 48.32741660000001
 longitude: 8.933271900000001
 postcode: 72406
 city: Bisingen
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 63
 phone: ""
 opening_hours: "Dienstag – Freitag: 19:30–21 Uhr; Samstag 9–14 Uhr"

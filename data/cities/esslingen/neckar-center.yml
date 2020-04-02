@@ -5,7 +5,7 @@ latitude: 48.742300300000004
 longitude: 9.2684133
 postcode: 73733
 city: Esslingen
-street: Weilstraße
+street: "Weilstraße"
 housenumber: 227
 phone: ""
 opening_hours: "Mo-Th 08:00-20:00;Fr-Sa 08:00-21:00;Su,PH off"

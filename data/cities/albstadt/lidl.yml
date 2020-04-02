@@ -5,7 +5,7 @@ latitude: 48.2496384
 longitude: 9.017658
 postcode: 72461
 city: Albstadt
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 64
 phone: ""
 opening_hours: ""

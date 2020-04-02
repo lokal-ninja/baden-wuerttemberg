@@ -5,7 +5,7 @@ latitude: 48.8042935
 longitude: 8.1849462
 postcode: 76532
 city: Baden-Baden
-street: Werkstraße
+street: "Werkstraße"
 housenumber: 7
 phone: "+79 7221 61879"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"

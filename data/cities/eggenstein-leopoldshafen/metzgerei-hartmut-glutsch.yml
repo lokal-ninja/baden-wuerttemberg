@@ -5,7 +5,7 @@ latitude: 49.075005600000004
 longitude: 8.3898498
 postcode: 76344
 city: Eggenstein-Leopoldshafen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 108
 phone: ""
 opening_hours: ""

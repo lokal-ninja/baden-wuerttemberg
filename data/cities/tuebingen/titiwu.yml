@@ -5,7 +5,7 @@ latitude: 48.5022147
 longitude: 9.0545478
 postcode: 72072
 city: Tübingen
-street: Paul-Dietz-Straße
+street: "Paul-Dietz-Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00"

@@ -5,7 +5,7 @@ latitude: 49.2793239
 longitude: 8.4690984
 postcode: 68794
 city: Oberhausen-Rheinhausen
-street: Eichendorffweg
+street: "Eichendorffweg"
 housenumber: 14
 phone: ""
 opening_hours: "Mo,Fr 08:00-13:00; We 08:00-13:00,17:00-21:00; Th 17:00-21:00"

@@ -5,7 +5,7 @@ latitude: 49.1489166
 longitude: 8.553526
 postcode: 76689
 city: Karlsdorf-Neuthard
-street: Simon-Hegele-Straße
+street: "Simon-Hegele-Straße"
 housenumber: 1d
 phone: ""
 opening_hours: "24/7"

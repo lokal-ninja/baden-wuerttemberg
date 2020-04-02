@@ -5,7 +5,7 @@ latitude: 49.2919533
 longitude: 8.917994
 postcode: 74915
 city: Waibstadt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 103
 phone: "+49 7263 5908"
 opening_hours: "Mo-Su 07:0-20:00"

@@ -5,7 +5,7 @@ latitude: 48.5739998
 longitude: 9.265706900000001
 postcode: 72658
 city: Bempflingen
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.928570500000006
 longitude: 9.4197035
 postcode: 88376
 city: Königseggwald
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

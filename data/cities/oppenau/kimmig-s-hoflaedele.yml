@@ -5,7 +5,7 @@ latitude: 48.466796900000006
 longitude: 8.159466700000001
 postcode: 77728
 city: Oppenau
-street: Vorderbühlweg
+street: "Vorderbühlweg"
 housenumber: 7
 phone: "+49 7804 3662"
 opening_hours: "Mo-Sa"

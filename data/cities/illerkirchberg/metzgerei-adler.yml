@@ -5,7 +5,7 @@ latitude: 48.3377944
 longitude: 9.998668400000001
 postcode: 89171
 city: Illerkirchberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 38
 phone: "+4973469258000"
 opening_hours: "Mo,We 07:00-14:00; Tu,Th,Fr 07:00-18:00; Sa 07:00-13:00; PH off"

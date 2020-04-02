@@ -5,7 +5,7 @@ latitude: 49.0218081
 longitude: 8.4594874
 postcode: 76139
 city: Karlsruhe
-street: An der Tagweide
+street: "An der Tagweide"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-16:00; Sa 08:00-11:00; Su,PH off"

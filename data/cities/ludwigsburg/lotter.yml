@@ -5,7 +5,7 @@ latitude: 48.8966702
 longitude: 9.1917738
 postcode: 71634
 city: Ludwigsburg
-street: Obere Marktstraße
+street: "Obere Marktstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

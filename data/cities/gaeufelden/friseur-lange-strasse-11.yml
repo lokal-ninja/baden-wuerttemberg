@@ -5,7 +5,7 @@ latitude: 48.562285700000004
 longitude: 8.847063
 postcode: 71126
 city: Gäufelden
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

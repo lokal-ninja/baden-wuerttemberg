@@ -5,7 +5,7 @@ latitude: 47.980520500000004
 longitude: 7.794626500000001
 postcode: 79111
 city: Freiburg im Breisgau
-street: Hartkirchweg
+street: "Hartkirchweg"
 housenumber: 61
 phone: ""
 opening_hours: "Tu-Fr 10:00-13:00,14:30-18:30; Sa 10:00-13:00"

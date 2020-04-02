@@ -5,7 +5,7 @@ latitude: 49.0638097
 longitude: 8.7973848
 postcode: 75038
 city: Oberderdingen
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

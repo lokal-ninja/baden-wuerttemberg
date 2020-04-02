@@ -5,7 +5,7 @@ latitude: 48.689384100000005
 longitude: 9.420542900000001
 postcode: 73249
 city: Wernau (Neckar)
-street: Kirchheimer Straße
+street: "Kirchheimer Straße"
 housenumber: 90
 phone: "+49 7153 558674"
 opening_hours: ""

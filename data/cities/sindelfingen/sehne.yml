@@ -5,7 +5,7 @@ latitude: 48.700116200000004
 longitude: 9.0162537
 postcode: 71065
 city: Sindelfingen
-street: Berliner Platz
+street: "Berliner Platz"
 housenumber: 9
 phone: ""
 opening_hours: ""

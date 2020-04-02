@@ -5,7 +5,7 @@ latitude: 49.468855500000004
 longitude: 10.0304214
 postcode: 97993
 city: Creglingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

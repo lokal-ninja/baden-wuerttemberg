@@ -5,7 +5,7 @@ latitude: 47.874861900000006
 longitude: 9.633844900000001
 postcode: 88284
 city: Wolpertswende
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: "+49 7502 1367"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.7395973
 longitude: 9.1300994
 postcode: 70569
 city: Stuttgart
-street: Böblinger Straße
+street: "Böblinger Straße"
 housenumber: 473
 phone: ""
 opening_hours: ""

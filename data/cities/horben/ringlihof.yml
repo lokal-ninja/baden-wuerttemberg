@@ -5,7 +5,7 @@ latitude: 47.937627400000004
 longitude: 7.8437694
 postcode: 79289
 city: Horben
-street: Katzentalweg
+street: "Katzentalweg"
 housenumber: 1
 phone: "+49 761 29583"
 opening_hours: "Tu-Fr 15:00-18:00"

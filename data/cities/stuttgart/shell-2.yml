@@ -5,7 +5,7 @@ latitude: 48.75537670000001
 longitude: 9.141951200000001
 postcode: 70199
 city: Stuttgart
-street: Burgstallstraße
+street: "Burgstallstraße"
 housenumber: 122
 phone: ""
 opening_hours: "24/7"

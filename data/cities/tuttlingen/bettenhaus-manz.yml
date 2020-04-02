@@ -5,7 +5,7 @@ latitude: 47.9831227
 longitude: 8.8171095
 postcode: 78532
 city: Tuttlingen
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 12
 phone: "+49 7461 12967"
 opening_hours: ""

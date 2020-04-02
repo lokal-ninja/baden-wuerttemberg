@@ -5,7 +5,7 @@ latitude: 48.521702600000005
 longitude: 9.056871000000001
 postcode: 72070
 city: Tübingen
-street: Metzgergasse
+street: "Metzgergasse"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-We 09:30-18:30; Th 09:30-14:00, Fr  09:30-18:30; Sa 09:30-13:00; Su,PH off"

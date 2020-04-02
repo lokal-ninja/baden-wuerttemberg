@@ -5,7 +5,7 @@ latitude: 48.455043700000004
 longitude: 9.3883927
 postcode: 72813
 city: St. Johann
-street: Bohnengasse
+street: "Bohnengasse"
 housenumber: 2
 phone: "+49 7122 9069"
 opening_hours: ""

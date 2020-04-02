@@ -5,7 +5,7 @@ latitude: 48.5996316
 longitude: 8.8709333
 postcode: 71083
 city: Herrenberg
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 10:30 - 18:30;Sa 9:30-13:00"

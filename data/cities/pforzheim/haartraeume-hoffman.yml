@@ -5,7 +5,7 @@ latitude: 48.8989969
 longitude: 8.715486400000001
 postcode: 75177
 city: Pforzheim
-street: Blumenheckstraße
+street: "Blumenheckstraße"
 housenumber: 52
 phone: ""
 opening_hours: "Tu-Fr 08:00-17:00; Sa 08:00-12:00"

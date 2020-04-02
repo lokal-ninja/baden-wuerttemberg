@@ -5,7 +5,7 @@ latitude: 48.4917535
 longitude: 9.2139419
 postcode: 72764
 city: Reutlingen
-street: Metzgerstraße
+street: "Metzgerstraße"
 housenumber: 59
 phone: "+49 7121 334232"
 opening_hours: "Tu-Th 10:00-19:00; Fr 10:00-20:00; Sa 09:30-19:00; Su,PH off"

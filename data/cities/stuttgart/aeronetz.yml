@@ -5,7 +5,7 @@ latitude: 48.780121
 longitude: 9.1607588
 postcode: 70176
 city: Stuttgart
-street: Rosenbergstraße
+street: "Rosenbergstraße"
 housenumber: 54
 phone: ""
 opening_hours: ""

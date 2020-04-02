@@ -5,7 +5,7 @@ latitude: 49.105972
 longitude: 8.480491800000001
 postcode: 76297
 city: Stutensee
-street: Wallonenstraße
+street: "Wallonenstraße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 10:00-12:30, 15:00-18:00; Sa 10:00-13:00"

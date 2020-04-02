@@ -5,7 +5,7 @@ latitude: 48.1718556
 longitude: 8.576787000000001
 postcode: 78658
 city: Zimmern ob Rottweil
-street: Steinhäuslebühl
+street: "Steinhäuslebühl"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00, Su off"

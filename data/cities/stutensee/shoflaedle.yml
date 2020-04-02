@@ -5,7 +5,7 @@ latitude: 49.1123491
 longitude: 8.510839800000001
 postcode: 76297
 city: Stutensee
-street: Spechaastraße
+street: "Spechaastraße"
 housenumber: 25
 phone: ""
 opening_hours: "Sa 08:30-12:30"

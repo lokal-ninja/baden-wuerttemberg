@@ -5,7 +5,7 @@ latitude: 47.695598600000004
 longitude: 10.041963
 postcode: 
 city: Isny im Allgäu
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

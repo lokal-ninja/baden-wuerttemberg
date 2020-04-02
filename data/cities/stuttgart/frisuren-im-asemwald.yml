@@ -5,7 +5,7 @@ latitude: 48.7253466
 longitude: 9.1928449
 postcode: 70599
 city: Stuttgart
-street: Im Asemwald
+street: "Im Asemwald"
 housenumber: 48
 phone: "+49 711 7222920"
 opening_hours: ""

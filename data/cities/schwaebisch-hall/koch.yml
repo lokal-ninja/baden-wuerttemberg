@@ -5,7 +5,7 @@ latitude: 49.105264600000005
 longitude: 9.7157342
 postcode: 74523
 city: Schwäbisch Hall
-street: Aschenhausweg
+street: "Aschenhausweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

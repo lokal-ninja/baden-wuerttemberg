@@ -5,7 +5,7 @@ latitude: 48.95990260000001
 longitude: 9.127151300000001
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Schieringerstraße
+street: "Schieringerstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 10:00-12:30, 15:00-18:00, 09:00-18:00; Sa 10:00-13:00"

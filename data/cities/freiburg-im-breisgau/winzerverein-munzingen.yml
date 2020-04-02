@@ -5,7 +5,7 @@ latitude: 47.968892100000005
 longitude: 7.6991963000000005
 postcode: 79112
 city: Freiburg im Breisgau
-street: St.-Erentrudis-Straße
+street: "St.-Erentrudis-Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00, Tu 14:00-17:00, Fr 16:00-19:00; Sa 10:00-13:00; Su,PH off"

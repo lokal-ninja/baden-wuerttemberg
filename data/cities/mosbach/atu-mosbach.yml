@@ -5,7 +5,7 @@ latitude: 49.3410081
 longitude: 9.120098200000001
 postcode: 74821
 city: Mosbach
-street: Mosbacher Straße
+street: "Mosbacher Straße"
 housenumber: 67/1
 phone: ""
 opening_hours: ""

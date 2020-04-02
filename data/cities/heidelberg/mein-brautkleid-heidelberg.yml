@@ -5,7 +5,7 @@ latitude: 49.403521000000005
 longitude: 8.664051500000001
 postcode: 69115
 city: Heidelberg
-street: Langer Anger
+street: "Langer Anger"
 housenumber: 68
 phone: ""
 opening_hours: ""

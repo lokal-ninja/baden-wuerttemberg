@@ -5,7 +5,7 @@ latitude: 48.3467082
 longitude: 8.412031500000001
 postcode: 72275
 city: Alpirsbach
-street: Freudenstädter Straße
+street: "Freudenstädter Straße"
 housenumber: 78
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"

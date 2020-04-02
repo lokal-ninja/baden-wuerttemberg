@@ -5,7 +5,7 @@ latitude: 48.717836000000005
 longitude: 9.230873500000001
 postcode: 73760
 city: Ostfildern
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

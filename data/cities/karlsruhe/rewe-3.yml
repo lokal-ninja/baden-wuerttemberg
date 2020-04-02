@@ -5,7 +5,7 @@ latitude: 49.009530100000006
 longitude: 8.4380474
 postcode: 76131
 city: Karlsruhe
-street: Theodor-Rehbock-Straße
+street: "Theodor-Rehbock-Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"

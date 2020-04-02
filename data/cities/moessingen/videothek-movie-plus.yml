@@ -5,7 +5,7 @@ latitude: 48.4061742
 longitude: 9.048286800000001
 postcode: 72116
 city: Mössingen
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 2-8
 phone: "+49 7473 1373"
 opening_hours: "Mo, We, Th, Fr 10:00-12:00, 15:00-20:00;Sa 10:00-20:00"

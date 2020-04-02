@@ -5,7 +5,7 @@ latitude: 48.213026000000006
 longitude: 9.0247107
 postcode: 72458
 city: Albstadt
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00"

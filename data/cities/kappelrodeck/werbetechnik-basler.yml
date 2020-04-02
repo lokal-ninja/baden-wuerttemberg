@@ -5,7 +5,7 @@ latitude: 48.596760200000006
 longitude: 8.1092068
 postcode: 77876
 city: Kappelrodeck
-street: Kohlmattstraße
+street: "Kohlmattstraße"
 housenumber: 6
 phone: "+497842600655"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.722151600000004
 longitude: 9.2087492
 postcode: 70599
 city: Stuttgart
-street: Birkheckenstraße
+street: "Birkheckenstraße"
 housenumber: 1
 phone: ""
 opening_hours: "We-Sa 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00; Su,PH off"

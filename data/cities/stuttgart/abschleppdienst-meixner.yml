@@ -5,7 +5,7 @@ latitude: 48.799457000000004
 longitude: 9.2166184
 postcode: 70372
 city: Stuttgart
-street: Elwertstraße
+street: "Elwertstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

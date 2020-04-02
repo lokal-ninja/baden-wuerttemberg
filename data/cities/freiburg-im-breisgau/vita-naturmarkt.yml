@@ -5,7 +5,7 @@ latitude: 48.0320891
 longitude: 7.8504946
 postcode: 79108
 city: Freiburg im Breisgau
-street: Robert-Bunsen-Straße
+street: "Robert-Bunsen-Straße"
 housenumber: 6
 phone: "+49 (0) 761 - 500508"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.6884397
 longitude: 9.9243628
 postcode: 89558
 city: Böhmenkirch
-street: Im Hart
+street: "Im Hart"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

@@ -5,7 +5,7 @@ latitude: 47.649996200000004
 longitude: 9.4790507
 postcode: 88045
 city: Friedrichshafen
-street: Schanzstraße
+street: "Schanzstraße"
 housenumber: 2
 phone: "+49 7541 22250"
 opening_hours: "09:00-18:00; Su,PH off"

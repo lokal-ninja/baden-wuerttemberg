@@ -5,7 +5,7 @@ latitude: 48.999928100000005
 longitude: 8.473031200000001
 postcode: 76227
 city: Karlsruhe
-street: Ochsentorstraße
+street: "Ochsentorstraße"
 housenumber: 10
 phone: "+49 721 44931"
 opening_hours: "Tu-Fr 08:30-18:00; Sa 07:30-13:00;Mo,Su,PH off"

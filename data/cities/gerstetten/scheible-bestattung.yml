@@ -5,7 +5,7 @@ latitude: 48.623983300000006
 longitude: 10.0208765
 postcode: 89547
 city: Gerstetten
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

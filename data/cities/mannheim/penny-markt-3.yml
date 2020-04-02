@@ -5,7 +5,7 @@ latitude: 49.4894449
 longitude: 8.5473391
 postcode: 68259
 city: Mannheim
-street: Mohnäckerstraße
+street: "Mohnäckerstraße"
 housenumber: 1-5
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00; Sa 07:00-22:00"

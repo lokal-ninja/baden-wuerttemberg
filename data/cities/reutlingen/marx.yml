@@ -5,7 +5,7 @@ latitude: 48.4889815
 longitude: 9.190747400000001
 postcode: 72762
 city: Reutlingen
-street: Friedrich-Naumann-Straße
+street: "Friedrich-Naumann-Straße"
 housenumber: 11
 phone: "+49 7121 29611"
 opening_hours: "Tu-Th 08:00-12:30, 14:00-18:30; Fr 08:00-18:30; Sa 08:00-14:00"

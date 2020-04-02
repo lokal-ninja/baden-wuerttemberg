@@ -5,7 +5,7 @@ latitude: 48.574331300000004
 longitude: 8.762550300000001
 postcode: 71131
 city: Jettingen
-street: Stumpenweg
+street: "Stumpenweg"
 housenumber: 6
 phone: ""
 opening_hours: ""

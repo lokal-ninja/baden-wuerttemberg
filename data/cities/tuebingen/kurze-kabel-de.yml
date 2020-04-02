@@ -5,7 +5,7 @@ latitude: 48.5105779
 longitude: 9.060753400000001
 postcode: 72072
 city: Tübingen
-street: Ruth-Marx-Straße
+street: "Ruth-Marx-Straße"
 housenumber: 5
 phone: "+49 7071 7936899"
 opening_hours: ""

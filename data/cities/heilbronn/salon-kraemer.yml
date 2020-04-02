@@ -5,7 +5,7 @@ latitude: 49.1267483
 longitude: 9.221692800000001
 postcode: 74074
 city: Heilbronn
-street: Hohenstaufenstraße
+street: "Hohenstaufenstraße"
 housenumber: 57
 phone: ""
 opening_hours: ""

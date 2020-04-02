@@ -5,7 +5,7 @@ latitude: 47.585968
 longitude: 8.2963208
 postcode: 5330
 city: Bad Zurzach
-street: Promenadestrasse
+street: "Promenadestrasse"
 housenumber: 10
 phone: "+41 58 567 27 00"
 opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00"

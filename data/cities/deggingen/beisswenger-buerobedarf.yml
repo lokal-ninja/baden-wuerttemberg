@@ -5,7 +5,7 @@ latitude: 48.5971831
 longitude: 9.722926300000001
 postcode: 73326
 city: Deggingen
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 3
 phone: "+49 733 5204"
 opening_hours: ""

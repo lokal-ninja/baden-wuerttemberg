@@ -5,7 +5,7 @@ latitude: 48.946990400000004
 longitude: 9.099617700000001
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-14:00"

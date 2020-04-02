@@ -5,7 +5,7 @@ latitude: 48.3995534
 longitude: 9.9941147
 postcode: 89073
 city: Ulm
-street: Kornhausplatz
+street: "Kornhausplatz"
 housenumber: 2
 phone: "+49 731 28065428"
 opening_hours: ""

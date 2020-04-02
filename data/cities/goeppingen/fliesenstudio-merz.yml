@@ -5,7 +5,7 @@ latitude: 48.6842929
 longitude: 9.6255182
 postcode: 73035
 city: Göppingen
-street: Baronenwaldstraße
+street: "Baronenwaldstraße"
 housenumber: 41
 phone: "+49 71 61 / 4 11 36"
 opening_hours: ""

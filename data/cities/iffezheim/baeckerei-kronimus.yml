@@ -5,7 +5,7 @@ latitude: 48.820360900000004
 longitude: 8.143086700000001
 postcode: 76473
 city: Iffezheim
-street: Sternenstraße
+street: "Sternenstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

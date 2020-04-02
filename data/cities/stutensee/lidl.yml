@@ -5,7 +5,7 @@ latitude: 49.0808211
 longitude: 8.4615659
 postcode: 76297
 city: Stutensee
-street: Linkenheimer Straße
+street: "Linkenheimer Straße"
 housenumber: 56
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"

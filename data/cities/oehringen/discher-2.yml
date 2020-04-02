@@ -5,7 +5,7 @@ latitude: 49.198532900000004
 longitude: 9.511559400000001
 postcode: 74613
 city: Öhringen
-street: Rendelstraße
+street: "Rendelstraße"
 housenumber: 26
 phone: "+49 7941 6461 91"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-12:30; Su 07:30-11:00"

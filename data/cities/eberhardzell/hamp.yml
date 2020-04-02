@@ -5,7 +5,7 @@ latitude: 48.001866
 longitude: 9.8242753
 postcode: 
 city: Eberhardzell
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

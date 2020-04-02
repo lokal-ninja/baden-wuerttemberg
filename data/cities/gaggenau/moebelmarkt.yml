@@ -5,7 +5,7 @@ latitude: 48.786863600000004
 longitude: 8.3312834
 postcode: 76571
 city: Gaggenau
-street: Pionierweg
+street: "Pionierweg"
 housenumber: 2
 phone: "+49 7225 96350"
 opening_hours: "Mo-Fr 9:00-18:30; Sa 9:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.0088586
 longitude: 8.407141000000001
 postcode: 76133
 city: Karlsruhe
-street: Zähringerstraße
+street: "Zähringerstraße"
 housenumber: 78
 phone: "+49 721 378383"
 opening_hours: "Mo-Fr 10:00-13:30,14:30-19:00, Sa 10:00-16:00"

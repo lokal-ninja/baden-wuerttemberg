@@ -5,7 +5,7 @@ latitude: 48.890247300000006
 longitude: 8.7016829
 postcode: 
 city: Pforzheim
-street: Am Waisenhausplatz
+street: "Am Waisenhausplatz"
 housenumber: 6
 phone: "+49 7231 359032"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.5011931
 longitude: 8.470806900000001
 postcode: 68169
 city: Mannheim
-street: Waldhofstraße
+street: "Waldhofstraße"
 housenumber: 41
 phone: "+49 621 861893282"
 opening_hours: "Mo-Fr 07:30-12:30,13:30-17:00"

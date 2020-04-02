@@ -5,7 +5,7 @@ latitude: 48.719352
 longitude: 9.322569600000001
 postcode: 73734
 city: Esslingen am Neckar
-street: Kronenstraße
+street: "Kronenstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

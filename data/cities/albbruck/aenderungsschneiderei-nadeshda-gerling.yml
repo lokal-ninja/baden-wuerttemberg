@@ -5,7 +5,7 @@ latitude: 47.5890326
 longitude: 8.124914500000001
 postcode: 79774
 city: Albbruck
-street: Hauensteiner Straße
+street: "Hauensteiner Straße"
 housenumber: 2
 phone: "+49 7753 919161"
 opening_hours: "Mo-Fr 14:00-19:00"

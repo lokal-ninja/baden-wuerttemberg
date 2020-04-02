@@ -5,7 +5,7 @@ latitude: 48.9435379
 longitude: 9.436640500000001
 postcode: 71522
 city: Backnang
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 69
 phone: ""
 opening_hours: ""

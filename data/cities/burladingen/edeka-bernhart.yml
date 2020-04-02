@@ -5,7 +5,7 @@ latitude: 48.291652000000006
 longitude: 9.0995149
 postcode: 72393
 city: Burladingen
-street: Hausener Straße
+street: "Hausener Straße"
 housenumber: 15
 phone: "+49 7475 9536290"
 opening_hours: ""

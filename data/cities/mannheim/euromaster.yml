@@ -5,7 +5,7 @@ latitude: 49.4601124
 longitude: 8.499962700000001
 postcode: 68199
 city: Mannheim
-street: Floßwörthstraße
+street: "Floßwörthstraße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.7959261
 longitude: 10.2611187
 postcode: 73450
 city: Neresheim
-street: Neresheimer Straße
+street: "Neresheimer Straße"
 housenumber: 32
 phone: "+49 7367 / 2532"
 opening_hours: "Mo-Fr 07:45-12:00, 13:00-16:45"

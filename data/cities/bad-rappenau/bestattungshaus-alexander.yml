@@ -5,7 +5,7 @@ latitude: 49.241812700000004
 longitude: 9.100817300000001
 postcode: 74906
 city: Bad Rappenau
-street: Siegelsbacher Straße
+street: "Siegelsbacher Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

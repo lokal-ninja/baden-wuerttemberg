@@ -5,7 +5,7 @@ latitude: 49.300677
 longitude: 8.696314300000001
 postcode: 
 city: Wiesloch
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

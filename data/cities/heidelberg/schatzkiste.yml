@@ -5,7 +5,7 @@ latitude: 49.3758039
 longitude: 8.6636769
 postcode: 69124
 city: Heidelberg
-street: Ernst-Rehm-Straße
+street: "Ernst-Rehm-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

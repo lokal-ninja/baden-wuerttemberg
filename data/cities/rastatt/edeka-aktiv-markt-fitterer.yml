@@ -5,7 +5,7 @@ latitude: 48.863588400000005
 longitude: 8.2151983
 postcode: 76437
 city: Rastatt
-street: Karlsruher Straße
+street: "Karlsruher Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.079699500000004
 longitude: 8.5848914
 postcode: 76646
 city: Bruchsal
-street: Winzerstraße
+street: "Winzerstraße"
 housenumber: 57
 phone: "+49 7257 929295"
 opening_hours: ""

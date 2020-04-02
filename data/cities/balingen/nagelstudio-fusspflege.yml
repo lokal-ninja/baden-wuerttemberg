@@ -5,7 +5,7 @@ latitude: 48.2416295
 longitude: 8.883929400000001
 postcode: 72336
 city: Balingen
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

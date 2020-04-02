@@ -5,7 +5,7 @@ latitude: 49.233321700000005
 longitude: 9.1914344
 postcode: 74177
 city: Bad Friedrichshall
-street: Deutschordenstraße
+street: "Deutschordenstraße"
 housenumber: 19
 phone: "+49 7136 8485"
 opening_hours: "Mo-Tu, Th-Fr 06:00-12:00, 14:30-17:00; We, Sa 06:00-12:00; Su 07:30-10:00"

@@ -5,7 +5,7 @@ latitude: 48.897009800000006
 longitude: 10.0089102
 postcode: 73453
 city: Abtsgmünd
-street: Osteren
+street: "Osteren"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00;PH off"

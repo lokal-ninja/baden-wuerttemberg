@@ -5,7 +5,7 @@ latitude: 48.72406530000001
 longitude: 9.124031800000001
 postcode: 70565
 city: Stuttgart
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 49A
 phone: "+49 711 213 09 839"
 opening_hours: "Tu 11:30-13:30"

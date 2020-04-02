@@ -5,7 +5,7 @@ latitude: 48.492932700000004
 longitude: 9.7408154
 postcode: 89150
 city: Laichingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

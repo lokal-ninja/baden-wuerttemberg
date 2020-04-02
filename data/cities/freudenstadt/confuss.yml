@@ -5,7 +5,7 @@ latitude: 48.464904800000006
 longitude: 8.4111028
 postcode: 72250
 city: Freudenstadt
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 57
 phone: ""
 opening_hours: "09:00-18:30"

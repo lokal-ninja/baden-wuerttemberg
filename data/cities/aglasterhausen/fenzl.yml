@@ -5,7 +5,7 @@ latitude: 49.3549522
 longitude: 8.9891153
 postcode: 74858
 city: Aglasterhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

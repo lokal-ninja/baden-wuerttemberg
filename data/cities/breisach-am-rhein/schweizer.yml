@@ -5,7 +5,7 @@ latitude: 48.028518000000005
 longitude: 7.585153
 postcode: 79206
 city: Breisach am Rhein
-street: Richard-Müller-Straße
+street: "Richard-Müller-Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

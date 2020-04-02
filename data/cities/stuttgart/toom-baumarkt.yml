@@ -5,7 +5,7 @@ latitude: 48.7981167
 longitude: 9.2204051
 postcode: 70372
 city: Stuttgart
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 104
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

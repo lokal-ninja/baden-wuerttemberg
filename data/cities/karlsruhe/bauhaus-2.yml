@@ -5,7 +5,7 @@ latitude: 49.00815
 longitude: 8.4404322
 postcode: 76131
 city: Karlsruhe
-street: Käppelestraße
+street: "Käppelestraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"

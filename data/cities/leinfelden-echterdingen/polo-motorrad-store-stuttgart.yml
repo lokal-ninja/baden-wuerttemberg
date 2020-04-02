@@ -5,7 +5,7 @@ latitude: 48.6953424
 longitude: 9.170835
 postcode: 70771
 city: Leinfelden-Echterdingen
-street: Esslinger Straße
+street: "Esslinger Straße"
 housenumber: 11
 phone: "+49 711 8821871"
 opening_hours: "Feb-Sep Mo-Sa 09:00-20:00; Oct-Jan 09:30-19:00; Su,PH off"

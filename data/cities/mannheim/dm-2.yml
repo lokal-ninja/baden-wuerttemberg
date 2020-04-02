@@ -5,7 +5,7 @@ latitude: 49.4873714
 longitude: 8.467659900000001
 postcode: 68161
 city: Mannheim
-street: P2
+street: "P2"
 housenumber: 3
 phone: "+49 621 12508793"
 opening_hours: "Mo-Sa 08:00-20:00"

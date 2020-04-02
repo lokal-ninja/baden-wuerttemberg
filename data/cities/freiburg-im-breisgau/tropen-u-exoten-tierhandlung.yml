@@ -5,7 +5,7 @@ latitude: 48.016890800000006
 longitude: 7.8528589
 postcode: 79108
 city: Freiburg im Breisgau
-street: Offenburger Straße
+street: "Offenburger Straße"
 housenumber: 33a
 phone: ""
 opening_hours: ""

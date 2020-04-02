@@ -5,7 +5,7 @@ latitude: 48.697231300000006
 longitude: 9.7057748
 postcode: 73054
 city: Eislingen/Fils
-street: Schlossplatz
+street: "Schlossplatz"
 housenumber: 2-4
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

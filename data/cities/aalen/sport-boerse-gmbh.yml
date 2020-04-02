@@ -5,7 +5,7 @@ latitude: 48.8255325
 longitude: 10.0700971
 postcode: 73431
 city: Aalen
-street: Ernst-Abbe-Straße
+street: "Ernst-Abbe-Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su, Ph off"

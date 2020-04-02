@@ -5,7 +5,7 @@ latitude: 48.017784600000006
 longitude: 9.4995778
 postcode: 88348
 city: Bad Saulgau
-street: Kreuzgasse
+street: "Kreuzgasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

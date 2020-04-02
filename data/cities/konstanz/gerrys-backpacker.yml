@@ -5,7 +5,7 @@ latitude: 47.6827349
 longitude: 9.1390699
 postcode: 78467
 city: Konstanz
-street: Byk-Gulden-Straße
+street: "Byk-Gulden-Straße"
 housenumber: 33
 phone: "+49 7531 67676"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.782359400000004
 longitude: 8.1914365
 postcode: 76532
 city: Baden-Baden
-street: Gewerbepark Cité
+street: "Gewerbepark Cité"
 housenumber: 7
 phone: "+49 7221 972279-0"
 opening_hours: "Mo-Sa 09:00-20:00"

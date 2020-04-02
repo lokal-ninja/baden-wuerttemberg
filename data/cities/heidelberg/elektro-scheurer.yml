@@ -5,7 +5,7 @@ latitude: 49.421018100000005
 longitude: 8.7563625
 postcode: 69118
 city: Heidelberg
-street: Peterstaler Straße
+street: "Peterstaler Straße"
 housenumber: 40
 phone: ""
 opening_hours: ""

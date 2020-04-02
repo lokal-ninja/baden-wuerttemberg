@@ -5,7 +5,7 @@ latitude: 49.0458001
 longitude: 8.7707993
 postcode: 75038
 city: Oberderdingen
-street: Freudensteiner Straße
+street: "Freudensteiner Straße"
 housenumber: 1
 phone: "+49 7045 8565"
 opening_hours: "Mo,Tu 09:00-13:00; We-Sa 11:00-23:00"

@@ -5,7 +5,7 @@ latitude: 48.861553
 longitude: 9.1819892
 postcode: 70806
 city: Kornwestheim
-street: Johannesstraße
+street: "Johannesstraße"
 housenumber: 37
 phone: "+49 71546071"
 opening_hours: "Mo-Fr 9:00-13:00, 14:30-19:00; Sa 9:00-14:00"

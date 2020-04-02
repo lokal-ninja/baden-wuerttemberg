@@ -5,7 +5,7 @@ latitude: 48.065338700000005
 longitude: 8.4610184
 postcode: 
 city: Villingen-Schwenningen
-street: Mönchweilerstraße
+street: "Mönchweilerstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30;Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.4108481
 longitude: 8.7047874
 postcode: 69117
 city: Heidelberg
-street: Sandgasse
+street: "Sandgasse"
 housenumber: 4a
 phone: "+49 6221 183597"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"

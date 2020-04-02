@@ -5,7 +5,7 @@ latitude: 48.521400500000006
 longitude: 9.033240900000001
 postcode: 72070
 city: Tübingen
-street: Sindelfinger Straße
+street: "Sindelfinger Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

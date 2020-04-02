@@ -5,7 +5,7 @@ latitude: 47.9368689
 longitude: 8.4995533
 postcode: 78166
 city: Donaueschingen
-street: Bregstraße
+street: "Bregstraße"
 housenumber: 28
 phone: "+49 771 929162 0"
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

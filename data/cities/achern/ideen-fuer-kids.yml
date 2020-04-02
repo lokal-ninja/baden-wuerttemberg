@@ -5,7 +5,7 @@ latitude: 48.627946400000006
 longitude: 8.071651000000001
 postcode: 77855
 city: Achern
-street: Am Markt
+street: "Am Markt"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 48.007621
 longitude: 7.8552935
 postcode: 79104
 city: Freiburg im Breisgau
-street: Habsburgerstraße
+street: "Habsburgerstraße"
 housenumber: 61
 phone: ""
 opening_hours: "Mo-Sa 06:30-19:00; Su 07:00-18:00"

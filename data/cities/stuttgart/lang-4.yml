@@ -5,7 +5,7 @@ latitude: 48.78284480000001
 longitude: 9.1582544
 postcode: 70193
 city: Stuttgart
-street: Hölderlinplatz
+street: "Hölderlinplatz"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30;Sa 06:30-14:00;Su 08:00-11:00"

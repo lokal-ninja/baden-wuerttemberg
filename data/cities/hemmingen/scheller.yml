@@ -5,7 +5,7 @@ latitude: 48.86788850000001
 longitude: 9.041477800000001
 postcode: 71282
 city: Hemmingen
-street: Schlosshaldenstraße
+street: "Schlosshaldenstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

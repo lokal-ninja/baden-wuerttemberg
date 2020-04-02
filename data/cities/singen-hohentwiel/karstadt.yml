@@ -5,7 +5,7 @@ latitude: 47.7589685
 longitude: 8.839533000000001
 postcode: 78224
 city: Singen (Hohentwiel)
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 19-21
 phone: "+49 7731 838 229"
 opening_hours: ""

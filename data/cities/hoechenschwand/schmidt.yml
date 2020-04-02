@@ -5,7 +5,7 @@ latitude: 47.733694500000006
 longitude: 8.1639947
 postcode: 79862
 city: Höchenschwand
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

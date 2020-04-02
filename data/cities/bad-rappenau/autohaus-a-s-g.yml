@@ -5,7 +5,7 @@ latitude: 49.210461
 longitude: 9.0932405
 postcode: 74906
 city: Bad Rappenau
-street: Kirchhausener Straße
+street: "Kirchhausener Straße"
 housenumber: 55
 phone: "+49 7066 912943"
 opening_hours: ""

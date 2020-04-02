@@ -5,7 +5,7 @@ latitude: 48.494729500000005
 longitude: 9.2051663
 postcode: 72762
 city: Reutlingen
-street: Gminderstraße
+street: "Gminderstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

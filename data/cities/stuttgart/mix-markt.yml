@@ -5,7 +5,7 @@ latitude: 48.8034699
 longitude: 9.0916273
 postcode: 70499
 city: Stuttgart
-street: Ernst-Reuter-Platz
+street: "Ernst-Reuter-Platz"
 housenumber: 4
 phone: "+49 711 80638730"
 opening_hours: "Mo-Sa 08:00-20:00"

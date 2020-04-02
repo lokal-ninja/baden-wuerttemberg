@@ -5,7 +5,7 @@ latitude: 47.6449316
 longitude: 7.814597000000001
 postcode: 79650
 city: Schopfheim
-street: Belchenstraße
+street: "Belchenstraße"
 housenumber: 86
 phone: ""
 opening_hours: ""

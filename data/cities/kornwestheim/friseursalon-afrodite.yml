@@ -5,7 +5,7 @@ latitude: 48.860813900000004
 longitude: 9.1837902
 postcode: 70806
 city: Kornwestheim
-street: Karl-Joos-Straße
+street: "Karl-Joos-Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00, Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.3912169
 longitude: 9.291974600000001
 postcode: 72829
 city: Engstingen
-street: Kohlstetter Straße
+street: "Kohlstetter Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

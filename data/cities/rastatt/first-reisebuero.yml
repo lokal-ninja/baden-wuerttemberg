@@ -5,7 +5,7 @@ latitude: 48.8553769
 longitude: 8.2054155
 postcode: 76437
 city: Rastatt
-street: Kapellenstraße
+street: "Kapellenstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00"

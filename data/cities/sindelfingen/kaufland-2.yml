@@ -5,7 +5,7 @@ latitude: 48.707397300000004
 longitude: 8.9979069
 postcode: 71063
 city: Sindelfingen
-street: Calwer Straße
+street: "Calwer Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

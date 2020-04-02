@@ -5,7 +5,7 @@ latitude: 48.7268655
 longitude: 9.1577075
 postcode: 70567
 city: Stuttgart
-street: Märzenbaumstraße
+street: "Märzenbaumstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Tu-Fr 09:00-17:30, Sa 08:30-12:00"

@@ -5,7 +5,7 @@ latitude: 48.5286759
 longitude: 9.064494400000001
 postcode: 72074
 city: Tübingen
-street: Wächterstraße
+street: "Wächterstraße"
 housenumber: 33
 phone: "+49 7071 7781157"
 opening_hours: "Mo-Sa 09:00-20:00; Su off"

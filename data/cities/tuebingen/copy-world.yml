@@ -5,7 +5,7 @@ latitude: 48.5109106
 longitude: 9.077033400000001
 postcode: 72072
 city: Tübingen
-street: Provenceweg
+street: "Provenceweg"
 housenumber: 2
 phone: "+49 7071 36 82 04"
 opening_hours: "geschlossen"

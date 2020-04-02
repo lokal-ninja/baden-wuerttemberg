@@ -5,7 +5,7 @@ latitude: 47.770526200000006
 longitude: 9.6751606
 postcode: 88281
 city: Schlier
-street: Dorfplatz
+street: "Dorfplatz"
 housenumber: 23
 phone: ""
 opening_hours: ""

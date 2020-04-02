@@ -5,7 +5,7 @@ latitude: 48.472813900000006
 longitude: 7.9489521000000005
 postcode: 77654
 city: Offenburg
-street: Luisenstraße
+street: "Luisenstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

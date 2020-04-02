@@ -5,7 +5,7 @@ latitude: 49.4284224
 longitude: 9.4216277
 postcode: 74706
 city: Osterburken
-street: Güterhallenstraße
+street: "Güterhallenstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su off"

@@ -5,7 +5,7 @@ latitude: 48.740584000000005
 longitude: 9.3062733
 postcode: 73728
 city: Esslingen am Neckar
-street: Innere Brücke
+street: "Innere Brücke"
 housenumber: 19
 phone: ""
 opening_hours: ""

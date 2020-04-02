@@ -5,7 +5,7 @@ latitude: 48.888990400000004
 longitude: 9.3956044
 postcode: 71397
 city: Leutenbach
-street: Lehmgrubenweg
+street: "Lehmgrubenweg"
 housenumber: 18
 phone: "+49 7195 978011"
 opening_hours: ""

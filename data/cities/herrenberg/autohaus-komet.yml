@@ -5,7 +5,7 @@ latitude: 48.599566700000004
 longitude: 8.8614435
 postcode: 71083
 city: Herrenberg
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

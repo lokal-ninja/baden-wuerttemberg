@@ -5,7 +5,7 @@ latitude: 48.8576338
 longitude: 9.191661
 postcode: 70806
 city: Kornwestheim
-street: Ludwig-Herr-Straße
+street: "Ludwig-Herr-Straße"
 housenumber: 58
 phone: ""
 opening_hours: "Mo 07:30-13:00; Tu-Fr 07:30-13:00,15:00-18:00; Sa 07:30-13:00"

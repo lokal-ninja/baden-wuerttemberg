@@ -5,7 +5,7 @@ latitude: 48.7131234
 longitude: 9.510533500000001
 postcode: 73061
 city: Ebersbach an der Fils
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 115
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su off"

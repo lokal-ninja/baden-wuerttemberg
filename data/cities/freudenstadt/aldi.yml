@@ -5,7 +5,7 @@ latitude: 48.4682399
 longitude: 8.4125502
 postcode: 72250
 city: Freudenstadt
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.259997600000005
 longitude: 8.491102600000001
 postcode: 68794
 city: Oberhausen-Rheinhausen
-street: Raimundstraße
+street: "Raimundstraße"
 housenumber: 5
 phone: ""
 opening_hours: "by appointment"

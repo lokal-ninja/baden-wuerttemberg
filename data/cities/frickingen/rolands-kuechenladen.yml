@@ -5,7 +5,7 @@ latitude: 47.8228316
 longitude: 9.2530103
 postcode: 88699
 city: Frickingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 21
 phone: "+49 7554 97292"
 opening_hours: ""

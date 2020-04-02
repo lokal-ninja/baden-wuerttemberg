@@ -5,7 +5,7 @@ latitude: 49.0198612
 longitude: 8.4580113
 postcode: 76139
 city: Karlsruhe
-street: Am Storrenacker
+street: "Am Storrenacker"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00;Sa 09:00-19:00;Su,PH off"

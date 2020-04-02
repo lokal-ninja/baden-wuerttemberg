@@ -5,7 +5,7 @@ latitude: 49.2456371
 longitude: 9.2449402
 postcode: 74229
 city: Oedheim
-street: Tannenstraße
+street: "Tannenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

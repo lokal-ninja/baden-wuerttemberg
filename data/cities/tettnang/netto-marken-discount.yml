@@ -5,7 +5,7 @@ latitude: 47.6599708
 longitude: 9.5954764
 postcode: 88069
 city: Tettnang
-street: Enderwiesenstraße
+street: "Enderwiesenstraße"
 housenumber: 7
 phone: "+49 7542 95030"
 opening_hours: "Mo-Sa 07:00-21:00"

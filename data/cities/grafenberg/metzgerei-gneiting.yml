@@ -5,7 +5,7 @@ latitude: 48.566052000000006
 longitude: 9.3044557
 postcode: 72661
 city: Grafenberg
-street: Kleinbettlinger Straße
+street: "Kleinbettlinger Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

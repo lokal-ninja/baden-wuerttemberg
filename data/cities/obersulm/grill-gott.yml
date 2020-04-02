@@ -5,7 +5,7 @@ latitude: 49.132318600000005
 longitude: 9.359405500000001
 postcode: 74182
 city: Obersulm
-street: Löwensteiner Straße
+street: "Löwensteiner Straße"
 housenumber: 60
 phone: ""
 opening_hours: ""

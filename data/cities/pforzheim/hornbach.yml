@@ -5,7 +5,7 @@ latitude: 48.906224
 longitude: 8.655694
 postcode: 75179
 city: Pforzheim
-street: Schwenninger Straße
+street: "Schwenninger Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

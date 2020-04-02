@@ -5,7 +5,7 @@ latitude: 48.7996482
 longitude: 9.060567800000001
 postcode: 70839
 city: Gerlingen
-street: Eltinger Straße
+street: "Eltinger Straße"
 housenumber: 24
 phone: "+497156602075"
 opening_hours: "Mo off; Tu-Sa 09:00-13:00; Tu-Th 14:30-17:30; We-Fr 14:30-18:30"

@@ -5,7 +5,7 @@ latitude: 49.0421136
 longitude: 9.1038344
 postcode: 74357
 city: Bönnigheim
-street: Schmiedsberger Weg
+street: "Schmiedsberger Weg"
 housenumber: 40
 phone: "+49 7143 8740 0"
 opening_hours: ""

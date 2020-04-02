@@ -5,7 +5,7 @@ latitude: 48.511839
 longitude: 9.064627600000001
 postcode: 72072
 city: Tübingen
-street: Katharinenstraße
+street: "Katharinenstraße"
 housenumber: 34
 phone: "+49 7071 32821"
 opening_hours: "Tu-Fr 10:00-13:00, 14:00-18:30; Sa-Mo, PH off"

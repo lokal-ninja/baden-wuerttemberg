@@ -5,7 +5,7 @@ latitude: 48.7987796
 longitude: 8.9993713
 postcode: 71229
 city: Leonberg
-street: Schweizermühle
+street: "Schweizermühle"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

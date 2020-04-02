@@ -5,7 +5,7 @@ latitude: 48.6562436
 longitude: 9.0611548
 postcode: 71101
 city: Schönaich
-street: Wettgasse
+street: "Wettgasse"
 housenumber: 29
 phone: "+49 7031 651312"
 opening_hours: "Mo-Tu 08:00-13:00,15:00-18:30; We 08:00-13:00; Th-Fr 08:00-13:00,15:00-18:30; Sa 08:00-13:00; Su,PH off"

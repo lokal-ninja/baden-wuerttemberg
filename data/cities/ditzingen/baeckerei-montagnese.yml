@@ -5,7 +5,7 @@ latitude: 48.836095
 longitude: 9.0385269
 postcode: 71254
 city: Ditzingen
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30, Sa 06:00-12:00, Su 08:00-11:00"

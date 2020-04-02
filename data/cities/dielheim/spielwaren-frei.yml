@@ -5,7 +5,7 @@ latitude: 49.2839795
 longitude: 8.732239400000001
 postcode: 69234
 city: Dielheim
-street: Augartenstraße
+street: "Augartenstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

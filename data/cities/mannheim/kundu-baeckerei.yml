@@ -5,7 +5,7 @@ latitude: 49.480839100000004
 longitude: 8.4846944
 postcode: 68165
 city: Mannheim
-street: Augustaanlage
+street: "Augustaanlage"
 housenumber: 37
 phone: "+49 621 3288367"
 opening_hours: "Mo-Fr 06:30-16:00; Sa 06:30-12:00"

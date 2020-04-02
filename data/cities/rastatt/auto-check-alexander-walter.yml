@@ -5,7 +5,7 @@ latitude: 48.8574977
 longitude: 8.2228148
 postcode: 76437
 city: Rastatt
-street: Werkstraße
+street: "Werkstraße"
 housenumber: 7
 phone: "+49 7222 81862"
 opening_hours: ""

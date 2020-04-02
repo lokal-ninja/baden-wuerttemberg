@@ -5,7 +5,7 @@ latitude: 48.5515714
 longitude: 8.723074
 postcode: 72202
 city: Nagold
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"

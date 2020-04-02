@@ -5,7 +5,7 @@ latitude: 48.622256
 longitude: 10.252183200000001
 postcode: 89537
 city: Giengen an der Brenz
-street: Albert-Ziegler-Straße
+street: "Albert-Ziegler-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:30-11:45,12:45-16:30; Sa 10:00-14:00; PH off"

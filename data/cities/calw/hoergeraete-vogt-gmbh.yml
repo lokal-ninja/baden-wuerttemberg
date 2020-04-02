@@ -5,7 +5,7 @@ latitude: 48.714436400000004
 longitude: 8.7404984
 postcode: 75365
 city: Calw
-street: Sparkassenplatz
+street: "Sparkassenplatz"
 housenumber: 2
 phone: "+49 7051 30080"
 opening_hours: ""

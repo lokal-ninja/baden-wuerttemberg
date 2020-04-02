@@ -5,7 +5,7 @@ latitude: 48.825484800000005
 longitude: 9.165355700000001
 postcode: 70435
 city: Stuttgart
-street: Grenzstraße
+street: "Grenzstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

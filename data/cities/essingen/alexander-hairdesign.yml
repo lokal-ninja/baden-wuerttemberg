@@ -5,7 +5,7 @@ latitude: 48.8077112
 longitude: 10.027306600000001
 postcode: 73457
 city: Essingen
-street: Rathausgasse
+street: "Rathausgasse"
 housenumber: 18
 phone: ""
 opening_hours: ""

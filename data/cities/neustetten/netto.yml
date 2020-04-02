@@ -5,7 +5,7 @@ latitude: 48.4860782
 longitude: 8.8813352
 postcode: 72149
 city: Neustetten
-street: Seebronner Straße
+street: "Seebronner Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00"

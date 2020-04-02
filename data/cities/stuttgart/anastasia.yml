@@ -5,7 +5,7 @@ latitude: 48.724815500000005
 longitude: 9.1464829
 postcode: 70567
 city: Stuttgart
-street: Hechinger Straße
+street: "Hechinger Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

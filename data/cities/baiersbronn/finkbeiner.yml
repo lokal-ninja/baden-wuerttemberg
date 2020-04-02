@@ -5,7 +5,7 @@ latitude: 48.523144
 longitude: 8.3128185
 postcode: 72270
 city: Baiersbronn
-street: Max-Eyth-Straße
+street: "Max-Eyth-Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

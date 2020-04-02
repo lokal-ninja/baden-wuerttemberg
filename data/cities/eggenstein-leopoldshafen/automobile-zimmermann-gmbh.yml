@@ -5,7 +5,7 @@ latitude: 49.077709500000005
 longitude: 8.3800469
 postcode: 76344
 city: Eggenstein-Leopoldshafen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 2b
 phone: "+49 721 96556060"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-15:00; PH off"

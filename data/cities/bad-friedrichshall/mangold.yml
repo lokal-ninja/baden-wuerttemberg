@@ -5,7 +5,7 @@ latitude: 49.215006800000005
 longitude: 9.212920800000001
 postcode: 74177
 city: Bad Friedrichshall
-street: Bergrat-Bilfinger-Straße
+street: "Bergrat-Bilfinger-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

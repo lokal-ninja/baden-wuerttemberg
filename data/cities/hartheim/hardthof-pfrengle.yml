@@ -5,7 +5,7 @@ latitude: 47.936978100000005
 longitude: 7.610377300000001
 postcode: 79258
 city: Hartheim
-street: Hardthof
+street: "Hardthof"
 housenumber: 1
 phone: "+49 7633 3722"
 opening_hours: "Sa 09:00-13:00; PH off"

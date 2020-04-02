@@ -5,7 +5,7 @@ latitude: 48.720412100000004
 longitude: 9.587549300000001
 postcode: 73066
 city: Uhingen
-street: Schorndorfer Straße
+street: "Schorndorfer Straße"
 housenumber: 161
 phone: "+49 7161 39047"
 opening_hours: ""

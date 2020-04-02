@@ -5,7 +5,7 @@ latitude: 48.518866
 longitude: 9.0837903
 postcode: 72072
 city: Tübingen
-street: Schaffhausenstraße
+street: "Schaffhausenstraße"
 housenumber: 119
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.532287100000005
 longitude: 8.076126
 postcode: 77704
 city: Oberkirch
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 60
 phone: ""
 opening_hours: ""

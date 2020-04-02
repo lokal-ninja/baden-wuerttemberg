@@ -5,7 +5,7 @@ latitude: 48.683647900000004
 longitude: 9.758063100000001
 postcode: 73079
 city: Süßen
-street: Rechbergstraße
+street: "Rechbergstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00"

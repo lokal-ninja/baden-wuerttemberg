@@ -5,7 +5,7 @@ latitude: 47.724399600000005
 longitude: 8.934614400000001
 postcode: 78345
 city: Moos
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 40
 phone: "+49 7732 / 4454"
 opening_hours: "Tu-Fr 09:00-18:00; Sa,Su,PH 09:00-19:00"

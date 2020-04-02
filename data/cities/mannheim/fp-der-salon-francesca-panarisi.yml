@@ -5,7 +5,7 @@ latitude: 49.458752700000005
 longitude: 8.484285100000001
 postcode: 68199
 city: Mannheim
-street: Rottfeldstraße
+street: "Rottfeldstraße"
 housenumber: 41A
 phone: "+49 621 851576"
 opening_hours: "Tu-Fr 09:00-18:00;Sa 09:00-13:00"

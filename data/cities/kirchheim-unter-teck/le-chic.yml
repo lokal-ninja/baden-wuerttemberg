@@ -5,7 +5,7 @@ latitude: 48.649011200000004
 longitude: 9.4517022
 postcode: 73230
 city: Kirchheim unter Teck
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

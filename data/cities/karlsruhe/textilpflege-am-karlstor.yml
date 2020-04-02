@@ -5,7 +5,7 @@ latitude: 49.004609900000005
 longitude: 8.3938989
 postcode: 76133
 city: Karlsruhe
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

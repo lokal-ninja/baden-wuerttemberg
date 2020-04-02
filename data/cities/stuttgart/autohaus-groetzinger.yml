@@ -5,7 +5,7 @@ latitude: 48.7299803
 longitude: 9.0875958
 postcode: 70569
 city: Stuttgart
-street: Gründgensstraße
+street: "Gründgensstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

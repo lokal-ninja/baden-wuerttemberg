@@ -5,7 +5,7 @@ latitude: 48.694435500000004
 longitude: 8.176827600000001
 postcode: 77830
 city: Bühlertal
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 07:30-13:00,14:30-18:00; Sa 06:30-12:30"

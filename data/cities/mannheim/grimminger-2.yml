@@ -5,7 +5,7 @@ latitude: 49.5058384
 longitude: 8.4685617
 postcode: 68169
 city: Mannheim
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-12:00"

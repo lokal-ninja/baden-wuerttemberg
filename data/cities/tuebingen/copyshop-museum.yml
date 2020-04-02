@@ -5,7 +5,7 @@ latitude: 48.522721100000005
 longitude: 9.0583825
 postcode: 72074
 city: Tübingen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 3
 phone: "+49 7071 6888410"
 opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-17:30; Su, PH off || im Winter und Ferien 30 min früher geschlossen!"

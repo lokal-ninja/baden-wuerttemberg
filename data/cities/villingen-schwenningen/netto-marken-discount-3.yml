@@ -5,7 +5,7 @@ latitude: 48.053711500000006
 longitude: 8.5227333
 postcode: 78054
 city: Villingen-Schwenningen
-street: Schubertstraße
+street: "Schubertstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

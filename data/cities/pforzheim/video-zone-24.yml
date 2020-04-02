@@ -5,7 +5,7 @@ latitude: 48.888159300000005
 longitude: 8.695848100000001
 postcode: 75173
 city: Pforzheim
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 23
 phone: "+49 7231 1337038"
 opening_hours: ""

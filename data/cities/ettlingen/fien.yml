@@ -5,7 +5,7 @@ latitude: 48.9375632
 longitude: 8.377169700000001
 postcode: 76275
 city: Ettlingen
-street: Nobelstraße
+street: "Nobelstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

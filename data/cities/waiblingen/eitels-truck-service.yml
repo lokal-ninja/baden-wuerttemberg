@@ -5,7 +5,7 @@ latitude: 48.858143000000005
 longitude: 9.329915
 postcode: 71336
 city: Waiblingen
-street: Boschstraße
+street: "Boschstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

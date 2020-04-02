@@ -5,7 +5,7 @@ latitude: 49.3227653
 longitude: 9.3597338
 postcode: 74219
 city: Möckmühl
-street: Untere Gasse
+street: "Untere Gasse"
 housenumber: 12
 phone: "+49 6298 1308"
 opening_hours: ""

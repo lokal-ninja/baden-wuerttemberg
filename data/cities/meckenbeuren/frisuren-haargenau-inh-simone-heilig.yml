@@ -5,7 +5,7 @@ latitude: 47.703428900000006
 longitude: 9.550640600000001
 postcode: 88074
 city: Meckenbeuren
-street: Humpisstraße
+street: "Humpisstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.3401882
 longitude: 8.029868500000001
 postcode: 77781
 city: Biberach
-street: Friedenstraße
+street: "Friedenstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

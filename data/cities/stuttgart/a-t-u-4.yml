@@ -5,7 +5,7 @@ latitude: 48.8165515
 longitude: 9.177530500000001
 postcode: 70469
 city: Stuttgart
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 324
 phone: ""
 opening_hours: ""

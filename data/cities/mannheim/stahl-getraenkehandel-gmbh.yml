@@ -5,7 +5,7 @@ latitude: 49.437592800000004
 longitude: 8.5251807
 postcode: 68219
 city: Mannheim
-street: Durlacher Straße
+street: "Durlacher Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

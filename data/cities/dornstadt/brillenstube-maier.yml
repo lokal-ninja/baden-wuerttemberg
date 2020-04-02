@@ -5,7 +5,7 @@ latitude: 48.4647597
 longitude: 9.9419346
 postcode: 89160
 city: Dornstadt
-street: Rathausgasse
+street: "Rathausgasse"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.8083102
 longitude: 9.639609700000001
 postcode: 88250
 city: Weingarten
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 7
 phone: "+49 751 46265"
 opening_hours: ""

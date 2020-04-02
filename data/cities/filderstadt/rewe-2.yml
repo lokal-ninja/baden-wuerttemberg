@@ -5,7 +5,7 @@ latitude: 48.680945200000004
 longitude: 9.238502500000001
 postcode: 70794
 city: Filderstadt
-street: Im Köller
+street: "Im Köller"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 47.56513
 longitude: 7.6178131
 postcode: 4058
 city: Basel
-street: Bäumlihofstrasse
+street: "Bäumlihofstrasse"
 housenumber: 132/134
 phone: ""
 opening_hours: "Mo-Fr 07:30-20:00, Sa 07:30-18:00"

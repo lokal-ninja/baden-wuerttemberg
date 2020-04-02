@@ -5,7 +5,7 @@ latitude: 47.9910871
 longitude: 7.845939
 postcode: 79098
 city: Freiburg im Breisgau
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

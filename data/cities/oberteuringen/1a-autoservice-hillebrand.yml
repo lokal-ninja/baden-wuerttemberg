@@ -5,7 +5,7 @@ latitude: 47.713034900000004
 longitude: 9.459441
 postcode: 88094
 city: Oberteuringen
-street: von-Deuring-Straße
+street: "von-Deuring-Straße"
 housenumber: 21/1
 phone: ""
 opening_hours: ""

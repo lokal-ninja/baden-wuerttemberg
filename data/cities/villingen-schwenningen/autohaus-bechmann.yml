@@ -5,7 +5,7 @@ latitude: 48.062931600000006
 longitude: 8.5521714
 postcode: 78056
 city: Villingen-Schwenningen
-street: Lichtensteinstraße
+street: "Lichtensteinstraße"
 housenumber: 54
 phone: "+4977207786"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"

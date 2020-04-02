@@ -5,7 +5,7 @@ latitude: 48.8426367
 longitude: 8.5157484
 postcode: 75334
 city: Straubenhardt
-street: Steinbeisstraße
+street: "Steinbeisstraße"
 housenumber: 5
 phone: "+49 7082 949680"
 opening_hours: ""

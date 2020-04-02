@@ -5,7 +5,7 @@ latitude: 48.7708701
 longitude: 9.166253300000001
 postcode: 70178
 city: Stuttgart
-street: Hermannstraße
+street: "Hermannstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

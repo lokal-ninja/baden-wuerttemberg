@@ -5,7 +5,7 @@ latitude: 47.7573072
 longitude: 9.9134042
 postcode: 
 city: Kißlegg
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 32
 phone: "+49 7563 2102"
 opening_hours: "Mo-Tu 06:00-12:30,14:30-18:00; We 6:30-12:30; Th-Fr 06:00-12:30,14:30-18:00; Sa 6:30-12:00"

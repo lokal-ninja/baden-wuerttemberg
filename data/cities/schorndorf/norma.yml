@@ -5,7 +5,7 @@ latitude: 48.806686000000006
 longitude: 9.521785900000001
 postcode: 73614
 city: Schorndorf
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

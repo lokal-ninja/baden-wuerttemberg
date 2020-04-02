@@ -5,7 +5,7 @@ latitude: 49.0857493
 longitude: 8.552888600000001
 postcode: 76646
 city: Bruchsal
-street: Weingartener Straße
+street: "Weingartener Straße"
 housenumber: 5
 phone: "+49 7257 9257453"
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00; Su,PH off"

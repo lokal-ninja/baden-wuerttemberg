@@ -5,7 +5,7 @@ latitude: 48.151946200000005
 longitude: 7.6934583000000005
 postcode: 79346
 city: Endingen am Kaiserstuhl
-street: Marckolsheimer Straße
+street: "Marckolsheimer Straße"
 housenumber: 5
 phone: "+49 7642 1735"
 opening_hours: "Mo-Fr 07:30-18:30; Sa 09:00-13:00"

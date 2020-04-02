@@ -5,7 +5,7 @@ latitude: 48.411081100000004
 longitude: 8.893556
 postcode: 72145
 city: Hirrlingen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Tu-Fr 10:00-13:00, 15:00-19:00; Sa 09:00-13:00"

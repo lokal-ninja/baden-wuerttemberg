@@ -5,7 +5,7 @@ latitude: 48.2362127
 longitude: 9.6496516
 postcode: 89597
 city: Munderkingen
-street: Rottenackerstraße
+street: "Rottenackerstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

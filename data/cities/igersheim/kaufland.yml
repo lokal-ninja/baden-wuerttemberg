@@ -5,7 +5,7 @@ latitude: 49.486306500000005
 longitude: 9.819674000000001
 postcode: 
 city: Igersheim
-street: Hermann-von-Mittnacht-Straße
+street: "Hermann-von-Mittnacht-Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

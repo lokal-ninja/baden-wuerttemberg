@@ -5,7 +5,7 @@ latitude: 48.741079400000004
 longitude: 9.306747000000001
 postcode: 73728
 city: Esslingen am Neckar
-street: Innere Brücke
+street: "Innere Brücke"
 housenumber: 12
 phone: "+49 711 3969990"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-16:00; Su off"

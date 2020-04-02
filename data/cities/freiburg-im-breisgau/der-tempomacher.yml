@@ -5,7 +5,7 @@ latitude: 47.998142400000006
 longitude: 7.793281400000001
 postcode: 79111
 city: Freiburg im Breisgau
-street: Rieselfeldallee
+street: "Rieselfeldallee"
 housenumber: 31
 phone: ""
 opening_hours: ""

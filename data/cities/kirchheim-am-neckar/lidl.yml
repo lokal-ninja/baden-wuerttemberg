@@ -5,7 +5,7 @@ latitude: 49.036603400000004
 longitude: 9.144900900000001
 postcode: 74366
 city: Kirchheim am Neckar
-street: Kreidlerstraße
+street: "Kreidlerstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

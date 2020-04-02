@@ -5,7 +5,7 @@ latitude: 48.7169187
 longitude: 9.4121887
 postcode: 73207
 city: Plochingen
-street: Esslinger Straße
+street: "Esslinger Straße"
 housenumber: 85
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"

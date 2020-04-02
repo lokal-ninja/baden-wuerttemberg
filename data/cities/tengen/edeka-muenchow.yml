@@ -5,7 +5,7 @@ latitude: 47.818229200000005
 longitude: 8.6560731
 postcode: 
 city: Tengen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 9
 phone: "+49 7736 97197"
 opening_hours: "Mo-Sa 08:00-20:00"

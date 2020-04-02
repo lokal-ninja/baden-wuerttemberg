@@ -5,7 +5,7 @@ latitude: 47.9349489
 longitude: 7.9536613
 postcode: 79254
 city: Oberried
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 07:00-13:00,14:30-18:30; Sa 07:00-13:00; Su 08:00-12:00"

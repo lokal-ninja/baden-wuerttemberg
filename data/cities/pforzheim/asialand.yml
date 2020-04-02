@@ -5,7 +5,7 @@ latitude: 48.8950425
 longitude: 8.7069334
 postcode: 75177
 city: Pforzheim
-street: Christophallee
+street: "Christophallee"
 housenumber: 2
 phone: ""
 opening_hours: ""

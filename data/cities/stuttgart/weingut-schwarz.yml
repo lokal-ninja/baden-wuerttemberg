@@ -5,7 +5,7 @@ latitude: 48.783420500000005
 longitude: 9.251427600000001
 postcode: 70327
 city: Stuttgart
-street: Ötztaler Straße
+street: "Ötztaler Straße"
 housenumber: 44
 phone: "+49 711334727"
 opening_hours: ""

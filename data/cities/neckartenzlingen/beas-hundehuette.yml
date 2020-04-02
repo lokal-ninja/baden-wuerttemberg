@@ -5,7 +5,7 @@ latitude: 48.5883904
 longitude: 9.2365645
 postcode: 72654
 city: Neckartenzlingen
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

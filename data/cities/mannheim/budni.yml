@@ -5,7 +5,7 @@ latitude: 49.458362
 longitude: 8.5630488
 postcode: 68239
 city: Mannheim
-street: Hinter den Dorfgärten
+street: "Hinter den Dorfgärten"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-19:00"

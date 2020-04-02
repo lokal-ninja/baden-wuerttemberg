@@ -5,7 +5,7 @@ latitude: 49.488316000000005
 longitude: 8.455923700000001
 postcode: 68159
 city: Mannheim
-street: Parkring
+street: "Parkring"
 housenumber: 45
 phone: ""
 opening_hours: ""

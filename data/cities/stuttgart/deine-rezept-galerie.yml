@@ -5,7 +5,7 @@ latitude: 48.782791200000005
 longitude: 9.166013000000001
 postcode: 70174
 city: Stuttgart
-street: Lerchenstraße
+street: "Lerchenstraße"
 housenumber: 7A
 phone: "+49 711 25511333"
 opening_hours: "Mo-Sa 10:00-22:00"

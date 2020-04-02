@@ -5,7 +5,7 @@ latitude: 48.9098029
 longitude: 8.751635400000001
 postcode: 75181
 city: Pforzheim
-street: Sägewerkstraße
+street: "Sägewerkstraße"
 housenumber: 4b
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

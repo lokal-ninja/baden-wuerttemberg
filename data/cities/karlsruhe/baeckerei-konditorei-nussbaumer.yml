@@ -5,7 +5,7 @@ latitude: 49.006544000000005
 longitude: 8.4968027
 postcode: 76229
 city: Karlsruhe
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 08:00-12:00"

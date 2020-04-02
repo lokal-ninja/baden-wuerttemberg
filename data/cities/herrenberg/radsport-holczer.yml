@@ -5,7 +5,7 @@ latitude: 48.5893128
 longitude: 8.8648539
 postcode: 71083
 city: Herrenberg
-street: Horber Straße
+street: "Horber Straße"
 housenumber: 61
 phone: ""
 opening_hours: "Mo-Tu,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-14:00"

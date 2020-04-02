@@ -5,7 +5,7 @@ latitude: 48.3747315
 longitude: 7.904042400000001
 postcode: 77948
 city: Friesenheim
-street: Oberweierer Hauptstraße
+street: "Oberweierer Hauptstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

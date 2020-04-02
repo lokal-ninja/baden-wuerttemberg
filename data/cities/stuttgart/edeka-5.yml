@@ -5,7 +5,7 @@ latitude: 48.772035300000006
 longitude: 9.1724721
 postcode: 70178
 city: Stuttgart
-street: Sophienstraße
+street: "Sophienstraße"
 housenumber: 21
 phone: "+497116744780"
 opening_hours: "Mo-Sa 07:30-22:00"

@@ -5,7 +5,7 @@ latitude: 49.0366112
 longitude: 8.706979
 postcode: 75015
 city: Bretten
-street: Pforzheimer Straße
+street: "Pforzheimer Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

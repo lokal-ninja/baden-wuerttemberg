@@ -5,7 +5,7 @@ latitude: 48.717543500000005
 longitude: 9.2294186
 postcode: 73760
 city: Ostfildern
-street: Birkacher Straße
+street: "Birkacher Straße"
 housenumber: 2
 phone: "+49 711 4586205"
 opening_hours: ""

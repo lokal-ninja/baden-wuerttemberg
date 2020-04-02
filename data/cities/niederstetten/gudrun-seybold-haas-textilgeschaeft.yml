@@ -5,7 +5,7 @@ latitude: 49.40118450000001
 longitude: 9.917938300000001
 postcode: 97996
 city: Niederstetten
-street: Lange Gasse
+street: "Lange Gasse"
 housenumber: 8
 phone: ""
 opening_hours: ""

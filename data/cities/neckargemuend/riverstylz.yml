@@ -5,7 +5,7 @@ latitude: 49.3955178
 longitude: 8.7970748
 postcode: 69151
 city: Neckargemünd
-street: Schiffgasse
+street: "Schiffgasse"
 housenumber: 11
 phone: ""
 opening_hours: ""

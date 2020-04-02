@@ -5,7 +5,7 @@ latitude: 47.6139906
 longitude: 7.6112821
 postcode: 79576
 city: Weil am Rhein
-street: Dammstraße
+street: "Dammstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-13:00"

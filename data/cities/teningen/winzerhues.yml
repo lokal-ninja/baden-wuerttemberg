@@ -5,7 +5,7 @@ latitude: 48.139942500000004
 longitude: 7.806839200000001
 postcode: 79331
 city: Teningen
-street: Klingelgasse
+street: "Klingelgasse"
 housenumber: 10
 phone: "+49 7641 42991"
 opening_hours: ""

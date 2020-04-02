@@ -5,7 +5,7 @@ latitude: 48.8320566
 longitude: 9.1710201
 postcode: 70435
 city: Stuttgart
-street: Unterländer Straße
+street: "Unterländer Straße"
 housenumber: 43
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

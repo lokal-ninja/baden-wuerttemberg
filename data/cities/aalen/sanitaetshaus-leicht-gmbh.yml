@@ -5,7 +5,7 @@ latitude: 48.8402564
 longitude: 10.095753
 postcode: 73430
 city: Aalen
-street: Johann-Gottfried-Pahl-Straße
+street: "Johann-Gottfried-Pahl-Straße"
 housenumber: 3
 phone: "+49 7361 960101"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00"

@@ -5,7 +5,7 @@ latitude: 47.985180500000006
 longitude: 8.8181636
 postcode: 78532
 city: Tuttlingen
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 5
 phone: "+49 7461 71712"
 opening_hours: ""

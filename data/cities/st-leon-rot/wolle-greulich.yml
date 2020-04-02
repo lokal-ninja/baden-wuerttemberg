@@ -5,7 +5,7 @@ latitude: 49.267443400000005
 longitude: 8.617482200000001
 postcode: 68789
 city: St. Leon-Rot
-street: Im Schiff
+street: "Im Schiff"
 housenumber: 2
 phone: "+49 6227 841857"
 opening_hours: ""

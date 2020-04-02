@@ -5,7 +5,7 @@ latitude: 48.6823588
 longitude: 9.3640108
 postcode: 73257
 city: Köngen
-street: Kiesweg
+street: "Kiesweg"
 housenumber: 31
 phone: "+49(0)7024/8 29 49"
 opening_hours: ""

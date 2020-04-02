@@ -5,7 +5,7 @@ latitude: 48.7703599
 longitude: 9.1798876
 postcode: 70180
 city: Stuttgart
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 8b
 phone: ""
 opening_hours: ""

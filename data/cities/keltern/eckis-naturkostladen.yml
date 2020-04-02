@@ -5,7 +5,7 @@ latitude: 48.887726300000004
 longitude: 8.545801500000001
 postcode: 75210
 city: Keltern
-street: Mühlbachstraße
+street: "Mühlbachstraße"
 housenumber: 9
 phone: "+49 7236 980582"
 opening_hours: "Mo-Fr 08:00-12:30,15:00-19:00; Sa 08:00-13:00"

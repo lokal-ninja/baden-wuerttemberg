@@ -5,7 +5,7 @@ latitude: 49.323286
 longitude: 9.359889200000001
 postcode: 74219
 city: Möckmühl
-street: Seckachtorgasse
+street: "Seckachtorgasse"
 housenumber: 7
 phone: ""
 opening_hours: ""

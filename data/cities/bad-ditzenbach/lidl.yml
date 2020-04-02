@@ -5,7 +5,7 @@ latitude: 48.5721762
 longitude: 9.678178800000001
 postcode: 73342
 city: Bad Ditzenbach
-street: Drackensteiner Straße
+street: "Drackensteiner Straße"
 housenumber: 125
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

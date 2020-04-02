@@ -5,7 +5,7 @@ latitude: 48.141197600000005
 longitude: 7.7041864
 postcode: 79346
 city: Endingen am Kaiserstuhl
-street: Ritterstraße
+street: "Ritterstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo 08:30-13:00; Tu 08:30-13:00,16:00-18:30; We-Th 08:30-13:00; Fr 08:30-13:00,16:00-18:30; Sa 08:00-13:00"

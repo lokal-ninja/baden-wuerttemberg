@@ -5,7 +5,7 @@ latitude: 48.6069352
 longitude: 9.227553200000001
 postcode: 72667
 city: Schlaitdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 95
 phone: ""
 opening_hours: ""

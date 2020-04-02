@@ -5,7 +5,7 @@ latitude: 48.740968
 longitude: 10.114604100000001
 postcode: 89551
 city: Königsbronn
-street: Aalener Straße
+street: "Aalener Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 09:00-12:00; Mo,Tu,Th,Fr 14:30-18:00"

@@ -5,7 +5,7 @@ latitude: 49.4207915
 longitude: 8.6631059
 postcode: 69120
 city: Heidelberg
-street: Im Neuenheimer Feld
+street: "Im Neuenheimer Feld"
 housenumber: 706
 phone: ""
 opening_hours: "Tu, Th 16:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.7803288
 longitude: 9.2280324
 postcode: 70188
 city: Stuttgart
-street: Ulmer Straße
+street: "Ulmer Straße"
 housenumber: 174
 phone: "+49 711 461277"
 opening_hours: "Mo-Sa 09:00-19:00"

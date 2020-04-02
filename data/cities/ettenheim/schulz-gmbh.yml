@@ -5,7 +5,7 @@ latitude: 48.263180600000005
 longitude: 7.8013973000000005
 postcode: 77955
 city: Ettenheim
-street: Stückle-Straße
+street: "Stückle-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

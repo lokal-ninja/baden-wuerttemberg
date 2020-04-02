@@ -5,7 +5,7 @@ latitude: 48.7576284
 longitude: 9.265829400000001
 postcode: 70329
 city: Stuttgart
-street: Mercedes-Benz Werk 2 (Hedelfingen)
+street: "Mercedes-Benz Werk 2 (Hedelfingen)"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Fr 05:45-09:20,11:30-15:00; PH off"

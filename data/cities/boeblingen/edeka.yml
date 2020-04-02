@@ -5,7 +5,7 @@ latitude: 48.6876456
 longitude: 9.0062726
 postcode: 71034
 city: Böblingen
-street: Wolfgang-Brumme-Allee
+street: "Wolfgang-Brumme-Allee"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

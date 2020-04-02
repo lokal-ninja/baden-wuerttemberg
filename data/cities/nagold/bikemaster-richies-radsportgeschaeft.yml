@@ -5,7 +5,7 @@ latitude: 48.550033400000004
 longitude: 8.7237611
 postcode: 72202
 city: Nagold
-street: Hirschstraße
+street: "Hirschstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

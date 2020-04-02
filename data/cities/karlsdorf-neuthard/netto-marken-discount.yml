@@ -5,7 +5,7 @@ latitude: 49.1411433
 longitude: 8.552204900000001
 postcode: 76689
 city: Karlsdorf-Neuthard
-street: Bruchsaler Straße
+street: "Bruchsaler Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00"

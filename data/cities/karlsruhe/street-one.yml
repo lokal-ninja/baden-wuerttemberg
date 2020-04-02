@@ -5,7 +5,7 @@ latitude: 49.0099614
 longitude: 8.399126200000001
 postcode: 76133
 city: Karlsruhe
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 106
 phone: ""
 opening_hours: "closed Bis auf Weiteres wegen Wasserschaden geschlossen"

@@ -5,7 +5,7 @@ latitude: 48.772215200000005
 longitude: 9.1550851
 postcode: 70197
 city: Stuttgart
-street: Rötestraße
+street: "Rötestraße"
 housenumber: 46
 phone: ""
 opening_hours: ""

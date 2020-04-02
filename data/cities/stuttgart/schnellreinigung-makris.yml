@@ -5,7 +5,7 @@ latitude: 48.729035700000004
 longitude: 9.1444472
 postcode: 70567
 city: Stuttgart
-street: Leinenweberstraße
+street: "Leinenweberstraße"
 housenumber: 51
 phone: ""
 opening_hours: ""

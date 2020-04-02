@@ -5,7 +5,7 @@ latitude: 48.945941000000005
 longitude: 8.3912882
 postcode: 
 city: Ettlingen
-street: Zehntwiesenstraße
+street: "Zehntwiesenstraße"
 housenumber: 68
 phone: ""
 opening_hours: ""

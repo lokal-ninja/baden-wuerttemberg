@@ -5,7 +5,7 @@ latitude: 49.111485
 longitude: 9.130966
 postcode: 74226
 city: Nordheim
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

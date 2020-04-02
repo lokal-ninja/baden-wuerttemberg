@@ -5,7 +5,7 @@ latitude: 48.8521056
 longitude: 8.208384800000001
 postcode: 76437
 city: Rastatt
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,14:30-18:00; We,Sa 09:00-12:00"

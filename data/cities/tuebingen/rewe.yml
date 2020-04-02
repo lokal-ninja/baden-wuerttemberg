@@ -5,7 +5,7 @@ latitude: 48.530796
 longitude: 9.079883
 postcode: 72074
 city: Tübingen
-street: Dorfackerstraße
+street: "Dorfackerstraße"
 housenumber: 19
 phone: "+49 7071 81306"
 opening_hours: "Mo-Sa 08:00-22:00"

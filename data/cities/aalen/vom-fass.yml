@@ -5,7 +5,7 @@ latitude: 48.838593800000005
 longitude: 10.093184
 postcode: 73430
 city: Aalen
-street: Mittelbachstraße
+street: "Mittelbachstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; PH off"

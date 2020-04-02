@@ -5,7 +5,7 @@ latitude: 48.328309000000004
 longitude: 9.8891138
 postcode: 89155
 city: Erbach
-street: Erlenbachstraße
+street: "Erlenbachstraße"
 housenumber: 43
 phone: "+49 7305 / 6061"
 opening_hours: ""

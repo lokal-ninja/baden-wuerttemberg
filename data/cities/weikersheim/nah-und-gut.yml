@@ -5,7 +5,7 @@ latitude: 49.476739
 longitude: 9.900924400000001
 postcode: 97990
 city: Weikersheim
-street: Humboldtstraße
+street: "Humboldtstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

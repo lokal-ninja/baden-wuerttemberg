@@ -5,7 +5,7 @@ latitude: 48.6397825
 longitude: 7.871367800000001
 postcode: 77866
 city: Rheinau
-street: Kirchplatz
+street: "Kirchplatz"
 housenumber: 2
 phone: "+49 152 54593338"
 opening_hours: "Mo-Fr 05:30-10:30; Sa 06:00-10:30"

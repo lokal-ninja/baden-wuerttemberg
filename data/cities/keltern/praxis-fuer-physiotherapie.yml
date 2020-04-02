@@ -5,7 +5,7 @@ latitude: 48.895935400000006
 longitude: 8.576543800000001
 postcode: 75210
 city: Keltern
-street: Murgstraße
+street: "Murgstraße"
 housenumber: 17
 phone: "+49 7236 98 00 41"
 opening_hours: ""

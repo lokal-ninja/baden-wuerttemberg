@@ -5,7 +5,7 @@ latitude: 48.731439900000005
 longitude: 9.183260200000001
 postcode: 70597
 city: Stuttgart
-street: Im Hoftäle
+street: "Im Hoftäle"
 housenumber: 2
 phone: "+49 711 7227569"
 opening_hours: "Mo-Fr 17:30-18:00; Sa 17:00-17:30"

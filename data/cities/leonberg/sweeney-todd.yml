@@ -5,7 +5,7 @@ latitude: 48.802355000000006
 longitude: 9.0162894
 postcode: 71229
 city: Leonberg
-street: Graf-Ulrich-Straße
+street: "Graf-Ulrich-Straße"
 housenumber: 9
 phone: "+49 7152 6101263"
 opening_hours: "Tu-Fr 12:00-19:00; Sa 09:00-14:00; Ph off"

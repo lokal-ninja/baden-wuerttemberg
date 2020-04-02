@@ -5,7 +5,7 @@ latitude: 48.626313800000005
 longitude: 9.2645634
 postcode: 72631
 city: Grötzingen
-street: Turmstraße
+street: "Turmstraße"
 housenumber: 3
 phone: "+49 7127 50846"
 opening_hours: "Mo-Fr 16:30-20:00; Sa 08:30-13:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 49.4465717
 longitude: 9.752551700000001
 postcode: 97980
 city: Bad Mergentheim
-street: Rengershäuser Straße
+street: "Rengershäuser Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

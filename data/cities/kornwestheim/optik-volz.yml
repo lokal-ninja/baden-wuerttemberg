@@ -5,7 +5,7 @@ latitude: 48.861679300000006
 longitude: 9.183790400000001
 postcode: 70806
 city: Kornwestheim
-street: Weimarstraße
+street: "Weimarstraße"
 housenumber: 42
 phone: "+49 7154 21551"
 opening_hours: "Mo - Fr 9:00 - 18:30,Sa 9:00 - 14:00"

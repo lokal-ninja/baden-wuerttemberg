@@ -5,7 +5,7 @@ latitude: 49.000478400000006
 longitude: 9.1411561
 postcode: 74354
 city: Besigheim
-street: Entengasse
+street: "Entengasse"
 housenumber: 15
 phone: ""
 opening_hours: ""

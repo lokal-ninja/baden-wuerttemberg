@@ -5,7 +5,7 @@ latitude: 47.623154500000005
 longitude: 9.6601592
 postcode: 88069
 city: Tettnang
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.503433900000005
 longitude: 8.4737457
 postcode: 68169
 city: Mannheim
-street: Huthorstweg
+street: "Huthorstweg"
 housenumber: 20
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.702515500000004
 longitude: 9.652916900000001
 postcode: 73033
 city: Göppingen
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 3
 phone: "+49 7161 75131"
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30;Sa 09:00-14:00"

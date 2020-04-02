@@ -5,7 +5,7 @@ latitude: 48.765557400000006
 longitude: 8.235987100000001
 postcode: 76530
 city: Baden-Baden
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00"

@@ -5,7 +5,7 @@ latitude: 47.643322700000006
 longitude: 7.7385644000000005
 postcode: 79585
 city: Steinen
-street: Lörracher Straße
+street: "Lörracher Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

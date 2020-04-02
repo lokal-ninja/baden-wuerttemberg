@@ -5,7 +5,7 @@ latitude: 48.7494834
 longitude: 9.380500000000001
 postcode: 73773
 city: Aichwald
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 42
 phone: ""
 opening_hours: "Fr 08:00-16:00; Sa 09:00-13:00; Mo-Th, Su, PH off"

@@ -5,7 +5,7 @@ latitude: 47.758921
 longitude: 8.8389042
 postcode: 78224
 city: Singen
-street: Erzbergerstraße
+street: "Erzbergerstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr. 8:00-19:00"

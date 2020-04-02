@@ -5,7 +5,7 @@ latitude: 49.320190700000005
 longitude: 8.8555914
 postcode: 74927
 city: Eschelbronn
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

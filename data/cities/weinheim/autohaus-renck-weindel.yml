@@ -5,7 +5,7 @@ latitude: 49.5448796
 longitude: 8.6598957
 postcode: 69469
 city: Weinheim
-street: Mierendorffstraße
+street: "Mierendorffstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.261911500000004
 longitude: 8.8507276
 postcode: 72336
 city: Balingen
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

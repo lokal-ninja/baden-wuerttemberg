@@ -5,7 +5,7 @@ latitude: 48.6261081
 longitude: 8.716358000000001
 postcode: 72218
 city: Wildberg
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 6
 phone: "+49 7054 7141"
 opening_hours: ""

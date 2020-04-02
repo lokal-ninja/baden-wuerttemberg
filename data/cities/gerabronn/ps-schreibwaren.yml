@@ -5,7 +5,7 @@ latitude: 49.251011600000005
 longitude: 9.9226948
 postcode: 74582
 city: Gerabronn
-street: Blaufeldener Straße
+street: "Blaufeldener Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:00"

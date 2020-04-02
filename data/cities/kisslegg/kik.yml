@@ -5,7 +5,7 @@ latitude: 47.784767200000005
 longitude: 9.8916543
 postcode: 88353
 city: Kißlegg
-street: Erlenweg
+street: "Erlenweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

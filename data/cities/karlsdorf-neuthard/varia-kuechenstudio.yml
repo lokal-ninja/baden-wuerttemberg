@@ -5,7 +5,7 @@ latitude: 49.1360261
 longitude: 8.5444437
 postcode: 
 city: Karlsdorf-Neuthard
-street: Amalienstraße
+street: "Amalienstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

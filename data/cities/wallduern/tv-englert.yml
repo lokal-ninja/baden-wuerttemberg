@@ -5,7 +5,7 @@ latitude: 49.583087500000005
 longitude: 9.368095400000001
 postcode: 74731
 city: Walldürn
-street: Am Plan
+street: "Am Plan"
 housenumber: 4
 phone: ""
 opening_hours: ""

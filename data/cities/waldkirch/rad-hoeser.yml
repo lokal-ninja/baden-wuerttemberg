@@ -5,7 +5,7 @@ latitude: 48.1020127
 longitude: 7.9731516000000004
 postcode: 
 city: Waldkirch
-street: Fabrikstraße
+street: "Fabrikstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

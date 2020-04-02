@@ -5,7 +5,7 @@ latitude: 48.3048525
 longitude: 9.0608977
 postcode: 72393
 city: Burladingen
-street: Kirchsteige
+street: "Kirchsteige"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00"

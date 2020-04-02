@@ -5,7 +5,7 @@ latitude: 49.418305700000005
 longitude: 8.7571288
 postcode: 69118
 city: Heidelberg
-street: Kleingemünder Straße
+street: "Kleingemünder Straße"
 housenumber: 1
 phone: "+496221800831"
 opening_hours: "Mo-Fr 06:45-13:00,15:00-18:00; Sa 06:45-13:00; Su 08:00-11:00"

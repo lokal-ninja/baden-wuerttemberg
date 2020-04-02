@@ -5,7 +5,7 @@ latitude: 48.7632168
 longitude: 9.1726677
 postcode: 70180
 city: Stuttgart
-street: Strohberg
+street: "Strohberg"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30;Sa 06:30-13:00"

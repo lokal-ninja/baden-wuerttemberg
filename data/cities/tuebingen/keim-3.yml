@@ -5,7 +5,7 @@ latitude: 48.542436
 longitude: 9.0606662
 postcode: 72076
 city: Tübingen
-street: Berliner Ring
+street: "Berliner Ring"
 housenumber: 20
 phone: "+497071650402"
 opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"

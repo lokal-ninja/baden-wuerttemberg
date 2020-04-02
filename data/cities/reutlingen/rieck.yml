@@ -5,7 +5,7 @@ latitude: 48.5199932
 longitude: 9.175479900000001
 postcode: 72768
 city: Reutlingen
-street: Leiblstraße
+street: "Leiblstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

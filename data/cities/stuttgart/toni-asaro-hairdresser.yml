@@ -5,7 +5,7 @@ latitude: 48.8144889
 longitude: 9.1116489
 postcode: 70499
 city: Stuttgart
-street: Glemsgaustraße
+street: "Glemsgaustraße"
 housenumber: 5
 phone: ""
 opening_hours: "Tu-Fr 09:00-20:00; Sa 09:00-14:00"

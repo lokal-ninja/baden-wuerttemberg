@@ -5,7 +5,7 @@ latitude: 49.042227100000005
 longitude: 9.312890900000001
 postcode: 71717
 city: Beilstein
-street: Auensteiner Straße
+street: "Auensteiner Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

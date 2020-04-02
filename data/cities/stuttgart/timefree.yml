@@ -5,7 +5,7 @@ latitude: 48.817672
 longitude: 9.213134100000001
 postcode: 70376
 city: Stuttgart
-street: Bottroper Straße
+street: "Bottroper Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

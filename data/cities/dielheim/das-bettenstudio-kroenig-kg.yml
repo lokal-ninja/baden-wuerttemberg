@@ -5,7 +5,7 @@ latitude: 49.279184900000004
 longitude: 8.744396700000001
 postcode: 69234
 city: Dielheim
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 2
 phone: "+49 6222 / 67 93 85"
 opening_hours: "Mo-Fr 10:00-12:00,14:30-18:30; Sa 10:00-14:00"

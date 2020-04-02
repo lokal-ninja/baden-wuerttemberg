@@ -5,7 +5,7 @@ latitude: 48.7309348
 longitude: 9.150056900000001
 postcode: 70567
 city: Stuttgart
-street: Rembrandtstraße
+street: "Rembrandtstraße"
 housenumber: 47
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

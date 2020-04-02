@@ -5,7 +5,7 @@ latitude: 49.07294580000001
 longitude: 9.2700803
 postcode: 74360
 city: Ilsfeld
-street: Heilbronner Weg
+street: "Heilbronner Weg"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.9675844
 longitude: 8.9544674
 postcode: 71665
 city: Vaihingen an der Enz
-street: Robert-Koch-Straße
+street: "Robert-Koch-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

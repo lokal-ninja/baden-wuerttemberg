@@ -5,7 +5,7 @@ latitude: 48.9972292
 longitude: 8.4045697
 postcode: 76137
 city: Karlsruhe
-street: Nebeniusstraße
+street: "Nebeniusstraße"
 housenumber: 4-6
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su,PH off"

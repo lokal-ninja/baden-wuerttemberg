@@ -5,7 +5,7 @@ latitude: 48.7461897
 longitude: 9.1031899
 postcode: 70569
 city: Stuttgart
-street: Pfaffenwaldring
+street: "Pfaffenwaldring"
 housenumber: 45
 phone: "+49 711 6875916"
 opening_hours: "Mo-Fr 09:00-17:30"

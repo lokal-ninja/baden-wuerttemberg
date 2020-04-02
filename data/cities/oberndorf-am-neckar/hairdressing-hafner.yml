@@ -5,7 +5,7 @@ latitude: 48.2907334
 longitude: 8.569738300000001
 postcode: 78727
 city: Oberndorf am Neckar
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

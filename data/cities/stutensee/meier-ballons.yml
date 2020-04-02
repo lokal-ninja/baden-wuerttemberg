@@ -5,7 +5,7 @@ latitude: 49.076373200000006
 longitude: 8.4649604
 postcode: 76297
 city: Stutensee
-street: Am Sohlweg
+street: "Am Sohlweg"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Th 08:00-16:30; Fr 08:00-16:00; Sa,Su,PH off"

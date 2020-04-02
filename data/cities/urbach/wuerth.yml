@@ -5,7 +5,7 @@ latitude: 48.809791600000004
 longitude: 9.570025900000001
 postcode: 73660
 city: Urbach
-street: Mühlwiesen
+street: "Mühlwiesen"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00; Sa, Su, PH off"

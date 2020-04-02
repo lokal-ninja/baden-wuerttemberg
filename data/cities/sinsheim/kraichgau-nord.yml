@@ -5,7 +5,7 @@ latitude: 49.2436407
 longitude: 8.881534700000001
 postcode: 74889
 city: Sinsheim
-street: Schwarzwaldstraße
+street: "Schwarzwaldstraße"
 housenumber: 5
 phone: ""
 opening_hours: "24/7"

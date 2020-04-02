@@ -5,7 +5,7 @@ latitude: 48.6555132
 longitude: 7.9975981
 postcode: 77855
 city: Renchen
-street: Maiwald
+street: "Maiwald"
 housenumber: 10
 phone: "+49 7844 7231"
 opening_hours: "Fr 09:00-18:00"

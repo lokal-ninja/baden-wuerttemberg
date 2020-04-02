@@ -5,7 +5,7 @@ latitude: 47.8622869
 longitude: 9.4250489
 postcode: 88271
 city: Wilhelmsdorf
-street: Öschweg
+street: "Öschweg"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

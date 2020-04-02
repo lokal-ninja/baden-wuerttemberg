@@ -5,7 +5,7 @@ latitude: 48.8459299
 longitude: 8.522421900000001
 postcode: 75334
 city: Straubenhardt
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

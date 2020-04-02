@@ -5,7 +5,7 @@ latitude: 48.7818751
 longitude: 9.369632300000001
 postcode: 71384
 city: Weinstadt
-street: Hintere Straße
+street: "Hintere Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Fr 14:00-18:00; Sa 09:00-12:00,13:00-16:00 || nach Vereinbarung"

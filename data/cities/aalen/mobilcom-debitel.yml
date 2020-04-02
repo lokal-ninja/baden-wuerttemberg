@@ -5,7 +5,7 @@ latitude: 48.8368728
 longitude: 10.0932966
 postcode: 73430
 city: Aalen
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-15:00; Su, PH off"

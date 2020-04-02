@@ -5,7 +5,7 @@ latitude: 48.820207800000006
 longitude: 9.2230299
 postcode: 70376
 city: Stuttgart
-street: Kocherstraße
+street: "Kocherstraße"
 housenumber: 30
 phone: ""
 opening_hours: "Tu-Sa 08:00-19:00; Fr 08:00-19:30;PH off"

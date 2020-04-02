@@ -5,7 +5,7 @@ latitude: 49.6698777
 longitude: 9.518695300000001
 postcode: 
 city: Külsheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

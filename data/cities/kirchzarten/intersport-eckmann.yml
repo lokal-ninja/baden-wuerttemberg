@@ -5,7 +5,7 @@ latitude: 47.9694693
 longitude: 7.958249100000001
 postcode: 79199
 city: Kirchzarten
-street: Stegener Straße
+street: "Stegener Straße"
 housenumber: 14
 phone: "+49 7661 902700"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

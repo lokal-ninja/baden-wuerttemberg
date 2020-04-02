@@ -5,7 +5,7 @@ latitude: 49.5198923
 longitude: 8.5000728
 postcode: 68305
 city: Mannheim
-street: Speckweg
+street: "Speckweg"
 housenumber: 156
 phone: "+49 621 751212"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"

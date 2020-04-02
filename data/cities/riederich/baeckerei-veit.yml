@@ -5,7 +5,7 @@ latitude: 48.5578489
 longitude: 9.268087300000001
 postcode: 72585
 city: Riederich
-street: Metzinger Straße
+street: "Metzinger Straße"
 housenumber: 40
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.8057347
 longitude: 9.438819
 postcode: 73630
 city: Remshalden
-street: Alfred-Klingele-Straße
+street: "Alfred-Klingele-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

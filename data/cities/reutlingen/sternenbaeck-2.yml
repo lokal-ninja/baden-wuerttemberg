@@ -5,7 +5,7 @@ latitude: 48.506433200000004
 longitude: 9.220842300000001
 postcode: 72766
 city: Reutlingen
-street: Am Heilbrunnen
+street: "Am Heilbrunnen"
 housenumber: 88
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 48.6335503
 longitude: 9.802623
 postcode: 73329
 city: Kuchen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

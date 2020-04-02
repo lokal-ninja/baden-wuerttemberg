@@ -5,7 +5,7 @@ latitude: 49.4944107
 longitude: 8.458986000000001
 postcode: 68159
 city: Mannheim
-street: Böckstraße
+street: "Böckstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

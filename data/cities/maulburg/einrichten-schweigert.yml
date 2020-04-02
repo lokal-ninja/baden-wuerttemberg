@@ -5,7 +5,7 @@ latitude: 47.6468439
 longitude: 7.7775366
 postcode: 79689
 city: Maulburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 28
 phone: "+49 7622 3993 0"
 opening_hours: "Mo-We,Fr 10:00-19:00; Th 10:00-21:00; Sa 09:00-18:00; Su,PH off"

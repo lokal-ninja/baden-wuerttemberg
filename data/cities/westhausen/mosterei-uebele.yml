@@ -5,7 +5,7 @@ latitude: 48.88948490000001
 longitude: 10.1878863
 postcode: 73463
 city: Westhausen
-street: Dalkinger Straße
+street: "Dalkinger Straße"
 housenumber: 70
 phone: "+49 7363 6648"
 opening_hours: "Su-Mo off; Tu-Fr 08:30-12:00, 14:00-18:00; Sa 08:00-12:30"

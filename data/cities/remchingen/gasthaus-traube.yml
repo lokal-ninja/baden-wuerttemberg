@@ -5,7 +5,7 @@ latitude: 48.9281432
 longitude: 8.568402500000001
 postcode: 75196
 city: Remchingen
-street: Karlsbader Straße
+street: "Karlsbader Straße"
 housenumber: 59
 phone: "+49 7232 79611"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.4867063
 longitude: 9.185144600000001
 postcode: 72762
 city: Reutlingen
-street: Walter-Gropius-Platz
+street: "Walter-Gropius-Platz"
 housenumber: 3
 phone: ""
 opening_hours: ""

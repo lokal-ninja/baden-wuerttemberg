@@ -5,7 +5,7 @@ latitude: 48.8992378
 longitude: 8.674492800000001
 postcode: 75179
 city: Pforzheim
-street: Hachelallee
+street: "Hachelallee"
 housenumber: 65
 phone: "+49 7231 316552"
 opening_hours: ""

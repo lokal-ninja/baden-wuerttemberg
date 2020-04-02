@@ -5,7 +5,7 @@ latitude: 49.5269689
 longitude: 9.2057967
 postcode: 69427
 city: Mudau
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

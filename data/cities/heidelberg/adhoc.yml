@@ -5,7 +5,7 @@ latitude: 49.4085478
 longitude: 8.6992071
 postcode: 69117
 city: Heidelberg
-street: Friedrich-Ebert-Anlage
+street: "Friedrich-Ebert-Anlage"
 housenumber: 31
 phone: ""
 opening_hours: ""

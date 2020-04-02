@@ -5,7 +5,7 @@ latitude: 48.2621789
 longitude: 7.7244039
 postcode: 77977
 city: Rust
-street: Alemannenstraße
+street: "Alemannenstraße"
 housenumber: 1
 phone: "+49 7822 867370"
 opening_hours: "Mo-Sa 06:30-20:00; Su 07:00-10:00"

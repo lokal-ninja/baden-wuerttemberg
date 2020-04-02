@@ -5,7 +5,7 @@ latitude: 49.2023754
 longitude: 9.5035018
 postcode: 74613
 city: Öhringen
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:30; Su,PH off"

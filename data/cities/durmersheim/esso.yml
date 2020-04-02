@@ -5,7 +5,7 @@ latitude: 48.9386796
 longitude: 8.2745346
 postcode: 76448
 city: Durmersheim
-street: Hansjakobstraße
+street: "Hansjakobstraße"
 housenumber: 2
 phone: "+49 7245 3844"
 opening_hours: "Mo-Su 06:00-21:00"

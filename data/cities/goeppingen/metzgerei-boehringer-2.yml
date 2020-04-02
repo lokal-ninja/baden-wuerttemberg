@@ -5,7 +5,7 @@ latitude: 48.6870623
 longitude: 9.6275103
 postcode: 73035
 city: Göppingen
-street: Boller Straße
+street: "Boller Straße"
 housenumber: 16
 phone: "+49 7161 9881340"
 opening_hours: "Mo-Fr 07:30-15:00, Sa-Su off"

@@ -5,7 +5,7 @@ latitude: 48.773139400000005
 longitude: 9.174335300000001
 postcode: 70178
 city: Stuttgart
-street: Kleine Königstraße
+street: "Kleine Königstraße"
 housenumber: 1-7
 phone: ""
 opening_hours: ""

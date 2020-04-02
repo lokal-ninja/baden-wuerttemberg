@@ -5,7 +5,7 @@ latitude: 47.653091200000006
 longitude: 8.5748
 postcode: 79798
 city: Jestetten
-street: Saarstraße
+street: "Saarstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:30; Sa 09:00-16:00"

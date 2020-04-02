@@ -5,7 +5,7 @@ latitude: 49.0003698
 longitude: 8.4203209
 postcode: 76137
 city: Karlsruhe
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 33
 phone: ""
 opening_hours: ""

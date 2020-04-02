@@ -5,7 +5,7 @@ latitude: 48.957446600000004
 longitude: 8.8492034
 postcode: 75417
 city: Mühlacker
-street: Vetterstraße
+street: "Vetterstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

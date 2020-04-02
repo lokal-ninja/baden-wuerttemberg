@@ -5,7 +5,7 @@ latitude: 48.7050915
 longitude: 9.017714900000001
 postcode: 71065
 city: Sindelfingen
-street: Schwertstraße
+street: "Schwertstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

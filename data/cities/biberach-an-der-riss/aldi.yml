@@ -5,7 +5,7 @@ latitude: 48.1009613
 longitude: 9.770573
 postcode: 88400
 city: Biberach an der Riß
-street: Gaisentalstraße
+street: "Gaisentalstraße"
 housenumber: 72
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

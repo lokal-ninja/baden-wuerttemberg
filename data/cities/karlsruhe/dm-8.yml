@@ -5,7 +5,7 @@ latitude: 49.0066226
 longitude: 8.3944907
 postcode: 76133
 city: Karlsruhe
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 36
 phone: "+49 721 90997010"
 opening_hours: "Mo-Sa 08:00-20:00; Su closed"

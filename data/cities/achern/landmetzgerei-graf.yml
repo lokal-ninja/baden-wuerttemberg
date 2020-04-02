@@ -5,7 +5,7 @@ latitude: 48.6615118
 longitude: 8.0181787
 postcode: 77855
 city: Achern
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 125
 phone: "+49 7841 26018"
 opening_hours: ""

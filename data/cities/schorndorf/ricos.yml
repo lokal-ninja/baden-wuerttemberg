@@ -5,7 +5,7 @@ latitude: 48.805414000000006
 longitude: 9.525496200000001
 postcode: 
 city: Schorndorf
-street: Bahngasse
+street: "Bahngasse"
 housenumber: 4
 phone: ""
 opening_hours: ""

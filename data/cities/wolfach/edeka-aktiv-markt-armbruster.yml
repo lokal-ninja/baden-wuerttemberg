@@ -5,7 +5,7 @@ latitude: 48.2918772
 longitude: 8.219789800000001
 postcode: 77709
 city: Wolfach
-street: Hausacher Straße
+street: "Hausacher Straße"
 housenumber: 8
 phone: "+49 7834 865160"
 opening_hours: "Mo-Sa 08:00-21:00"

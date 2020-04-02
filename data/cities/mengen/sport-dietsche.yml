@@ -5,7 +5,7 @@ latitude: 48.0499153
 longitude: 9.3315287
 postcode: 88512
 city: Mengen
-street: Reiserstraße
+street: "Reiserstraße"
 housenumber: 2
 phone: "+49757276370"
 opening_hours: ""

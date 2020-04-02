@@ -5,7 +5,7 @@ latitude: 48.5252466
 longitude: 8.565825400000001
 postcode: 72285
 city: Pfalzgrafenweiler
-street: Kronenstraße
+street: "Kronenstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:15,14:00-18:15; Sa 08:00-12:00"

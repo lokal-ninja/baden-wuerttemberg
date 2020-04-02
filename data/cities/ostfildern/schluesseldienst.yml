@@ -5,7 +5,7 @@ latitude: 48.707673
 longitude: 9.262818300000001
 postcode: 73760
 city: Ostfildern
-street: Ruiter Straße
+street: "Ruiter Straße"
 housenumber: 5
 phone: "+49 7158 68037"
 opening_hours: ""

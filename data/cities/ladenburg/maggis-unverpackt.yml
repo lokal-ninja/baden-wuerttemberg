@@ -5,7 +5,7 @@ latitude: 49.4725071
 longitude: 8.6117635
 postcode: 68526
 city: Ladenburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 48
 phone: "+49 6203 67 31 812"
 opening_hours: "Tu 09:00-13:00, 15:00-18:00; We 10:00-13:00; Th 10:00-13:00, 15:00-18:00; Fr 09:00-18:00; Sa 10:00-13:00"

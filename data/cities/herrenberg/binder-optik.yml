@@ -5,7 +5,7 @@ latitude: 48.594828500000006
 longitude: 8.8697804
 postcode: 71083
 city: Herrenberg
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

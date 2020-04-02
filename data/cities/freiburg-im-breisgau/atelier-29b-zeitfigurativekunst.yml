@@ -5,7 +5,7 @@ latitude: 47.977767400000005
 longitude: 7.8274825
 postcode: 79115
 city: Freiburg im Breisgau
-street: Wiesentalstraße
+street: "Wiesentalstraße"
 housenumber: 29b
 phone: ""
 opening_hours: ""

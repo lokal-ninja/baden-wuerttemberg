@@ -5,7 +5,7 @@ latitude: 48.086869500000006
 longitude: 7.8906378
 postcode: 79350
 city: Sexau
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 2
 phone: "+49 7641 9336600"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00"

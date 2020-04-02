@@ -5,7 +5,7 @@ latitude: 48.804692900000006
 longitude: 9.525380100000001
 postcode: 
 city: Schorndorf
-street: Schlichtener Straße
+street: "Schlichtener Straße"
 housenumber: 10
 phone: "+49 7181 61661"
 opening_hours: "Mo-Fr 09:30-12:30; Mo,Tu,Th,Fr 14:00-18:00;Sa 09:00-13:00"

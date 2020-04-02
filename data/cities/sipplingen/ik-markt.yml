@@ -5,7 +5,7 @@ latitude: 47.7956109
 longitude: 9.0964949
 postcode: 78354
 city: Sipplingen
-street: Seestraße
+street: "Seestraße"
 housenumber: 66
 phone: ""
 opening_hours: "Mo - Fr: 06:30 - 18:00, Sa: 06:30 - 12:00, So: 06:30 - 10:00"

@@ -5,7 +5,7 @@ latitude: 49.446285200000005
 longitude: 8.614803400000001
 postcode: 68535
 city: Edingen-Neckarhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 57
 phone: "+49620385956"
 opening_hours: ""

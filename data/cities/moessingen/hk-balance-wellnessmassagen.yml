@@ -5,7 +5,7 @@ latitude: 48.410012
 longitude: 9.0688668
 postcode: 72116
 city: Mössingen
-street: Firstwaldstraße
+street: "Firstwaldstraße"
 housenumber: 4/2
 phone: "+49 7473 22287"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.283437000000006
 longitude: 9.158356000000001
 postcode: 74831
 city: Gundelsheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

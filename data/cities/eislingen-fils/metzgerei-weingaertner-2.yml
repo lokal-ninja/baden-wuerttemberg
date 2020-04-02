@@ -5,7 +5,7 @@ latitude: 48.6938322
 longitude: 9.699934
 postcode: 73054
 city: Eislingen/Fils
-street: Holzheimer Straße
+street: "Holzheimer Straße"
 housenumber: 10
 phone: "+49 7161 812391"
 opening_hours: "Mo-Fr 07:00-12:30, Mo-Tu,Th-Fr 14:30-18:00, Sa 07:00-12:00; Su,PH off"

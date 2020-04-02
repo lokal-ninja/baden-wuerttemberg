@@ -5,7 +5,7 @@ latitude: 49.4957463
 longitude: 8.493579200000001
 postcode: 68167
 city: Mannheim
-street: Ludolf-Krehl-Straße
+street: "Ludolf-Krehl-Straße"
 housenumber: 18
 phone: "+49 621 34382"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00, Su 10:00-12:00"

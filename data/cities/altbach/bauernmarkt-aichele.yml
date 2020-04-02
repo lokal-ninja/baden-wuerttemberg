@@ -5,7 +5,7 @@ latitude: 48.7232928
 longitude: 9.3798051
 postcode: 73776
 city: Altbach
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Tu 14:30-17:30; Fr 09:30-12:30,14:30-17:30"

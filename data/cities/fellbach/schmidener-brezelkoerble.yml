@@ -5,7 +5,7 @@ latitude: 48.8306112
 longitude: 9.264517300000001
 postcode: 70736
 city: Fellbach
-street: Fellbacher Straße
+street: "Fellbacher Straße"
 housenumber: 43
 phone: "+49 711512175"
 opening_hours: ""

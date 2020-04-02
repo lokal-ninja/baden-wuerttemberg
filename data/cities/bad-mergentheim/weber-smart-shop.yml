@@ -5,7 +5,7 @@ latitude: 49.4899179
 longitude: 9.7727462
 postcode: 
 city: Bad Mergentheim
-street: Hans-Heinrich-Ehrler-Platz
+street: "Hans-Heinrich-Ehrler-Platz"
 housenumber: 24
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.7889847
 longitude: 9.933240300000001
 postcode: 73540
 city: Heubach
-street: Götzenbachstraße
+street: "Götzenbachstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

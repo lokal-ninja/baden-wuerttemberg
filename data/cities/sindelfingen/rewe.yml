@@ -5,7 +5,7 @@ latitude: 48.7133777
 longitude: 9.0001488
 postcode: 71063
 city: Sindelfingen
-street: Leonberger Straße
+street: "Leonberger Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.773190500000005
 longitude: 9.1727085
 postcode: 70178
 city: Stuttgart
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

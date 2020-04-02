@@ -5,7 +5,7 @@ latitude: 49.3546033
 longitude: 8.6821044
 postcode: 69181
 city: Leimen
-street: Stralsunder Ring
+street: "Stralsunder Ring"
 housenumber: 23a
 phone: "+49 6224 766970"
 opening_hours: "Mo-Th 08:00-20:30; Fr-Sa 08:00-21:00"

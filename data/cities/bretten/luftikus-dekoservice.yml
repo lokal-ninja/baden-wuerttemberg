@@ -5,7 +5,7 @@ latitude: 49.036565800000005
 longitude: 8.709581700000001
 postcode: 75015
 city: Bretten
-street: Sporgasse
+street: "Sporgasse"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.982611500000004
 longitude: 8.803754300000001
 postcode: 78532
 city: Tuttlingen
-street: Weimarstraße
+street: "Weimarstraße"
 housenumber: 66
 phone: "+49 7461 966400"
 opening_hours: ""

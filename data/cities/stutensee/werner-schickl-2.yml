@@ -5,7 +5,7 @@ latitude: 49.1124639
 longitude: 8.4726871
 postcode: 76297
 city: Stutensee
-street: Heinrich-Hertz-Straße
+street: "Heinrich-Hertz-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

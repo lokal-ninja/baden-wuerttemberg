@@ -5,7 +5,7 @@ latitude: 48.697174600000004
 longitude: 9.6896745
 postcode: 73054
 city: Eislingen/Fils
-street: Seewiesenstraße
+street: "Seewiesenstraße"
 housenumber: 4
 phone: "+49 7161 983752"
 opening_hours: "Mo-Sa 09:00-20:00"

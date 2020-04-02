@@ -5,7 +5,7 @@ latitude: 48.414363800000004
 longitude: 8.000803000000001
 postcode: 77723
 city: Gengenbach
-street: Allmend
+street: "Allmend"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

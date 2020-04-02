@@ -5,7 +5,7 @@ latitude: 47.6745232
 longitude: 9.5820959
 postcode: 88069
 city: Tettnang
-street: Moosstraße
+street: "Moosstraße"
 housenumber: 26
 phone: "+49 7542 8242"
 opening_hours: ""

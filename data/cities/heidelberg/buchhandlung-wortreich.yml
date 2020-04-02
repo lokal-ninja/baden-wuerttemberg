@@ -5,7 +5,7 @@ latitude: 49.404349100000005
 longitude: 8.686962900000001
 postcode: 69115
 city: Heidelberg
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

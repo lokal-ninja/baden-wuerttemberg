@@ -5,7 +5,7 @@ latitude: 49.1671046
 longitude: 8.4215879
 postcode: 
 city: Dettenheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 130
 phone: ""
 opening_hours: ""

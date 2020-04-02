@@ -5,7 +5,7 @@ latitude: 49.252313400000006
 longitude: 8.496140500000001
 postcode: 68794
 city: Oberhausen-Rheinhausen
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 141
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00;Sa 08:00-12:00; Su,PH off"

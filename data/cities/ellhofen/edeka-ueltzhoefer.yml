@@ -5,7 +5,7 @@ latitude: 49.150209000000004
 longitude: 9.309464400000001
 postcode: 74248
 city: Ellhofen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

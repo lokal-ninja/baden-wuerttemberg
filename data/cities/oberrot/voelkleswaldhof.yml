@@ -5,7 +5,7 @@ latitude: 49.0073184
 longitude: 9.695581500000001
 postcode: 74420
 city: Oberrot
-street: Völkleswaldweg
+street: "Völkleswaldweg"
 housenumber: 5
 phone: "+49 7977 292"
 opening_hours: ""

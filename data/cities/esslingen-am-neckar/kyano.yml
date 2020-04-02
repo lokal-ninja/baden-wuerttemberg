@@ -5,7 +5,7 @@ latitude: 48.739224500000006
 longitude: 9.312028600000001
 postcode: 73728
 city: Esslingen am Neckar
-street: Obertorstraße
+street: "Obertorstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00, Su,PH 08:30-20:00"

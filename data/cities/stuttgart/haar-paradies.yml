@@ -5,7 +5,7 @@ latitude: 48.8138434
 longitude: 9.1157278
 postcode: 70499
 city: Stuttgart
-street: Pforzheimer Straße
+street: "Pforzheimer Straße"
 housenumber: 351
 phone: "+49 711 8893003"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00; "

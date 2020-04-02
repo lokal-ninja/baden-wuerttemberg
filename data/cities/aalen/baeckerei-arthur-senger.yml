@@ -5,7 +5,7 @@ latitude: 48.867449
 longitude: 10.105891000000002
 postcode: 73433
 city: Aalen
-street: Abtsgmünder Straße
+street: "Abtsgmünder Straße"
 housenumber: 4
 phone: "+49 7361 760234"
 opening_hours: ""

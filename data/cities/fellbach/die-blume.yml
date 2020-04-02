@@ -5,7 +5,7 @@ latitude: 48.836451800000006
 longitude: 9.274125600000001
 postcode: 70736
 city: Fellbach
-street: Neustädter Straße
+street: "Neustädter Straße"
 housenumber: 45
 phone: "+49 711 5404890"
 opening_hours: "Mo-Fr 8:30-18:00 Sa 8:30-13:00"

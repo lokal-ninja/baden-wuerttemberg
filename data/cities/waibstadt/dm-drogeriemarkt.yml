@@ -5,7 +5,7 @@ latitude: 49.301218500000004
 longitude: 8.9163681
 postcode: 74915
 city: Waibstadt
-street: Neidensteiner Straße
+street: "Neidensteiner Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

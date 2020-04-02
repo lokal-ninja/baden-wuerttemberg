@@ -5,7 +5,7 @@ latitude: 48.4969333
 longitude: 9.2127811
 postcode: 72764
 city: Reutlingen
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 19
 phone: "+49 7121 6950250"
 opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"

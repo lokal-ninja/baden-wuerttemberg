@@ -5,7 +5,7 @@ latitude: 48.7793055
 longitude: 9.3697956
 postcode: 71384
 city: Weinstadt
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 26
 phone: "+49 7151 610331"
 opening_hours: ""

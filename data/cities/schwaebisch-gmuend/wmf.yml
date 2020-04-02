@@ -5,7 +5,7 @@ latitude: 48.8005781
 longitude: 9.798093000000001
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Postgasse
+street: "Postgasse"
 housenumber: 4
 phone: "+49 7171 2367"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su, PH off"

@@ -5,7 +5,7 @@ latitude: 49.484590000000004
 longitude: 8.448369600000001
 postcode: 67061
 city: Ludwigshafen am Rhein
-street: Im Zollhof
+street: "Im Zollhof"
 housenumber: 4
 phone: "+49 621 59183410"
 opening_hours: "Mo-Sa 10:00-20:00"

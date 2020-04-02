@@ -5,7 +5,7 @@ latitude: 47.7671299
 longitude: 9.158792
 postcode: 88662
 city: Überlingen
-street: Franziskanerstraße
+street: "Franziskanerstraße"
 housenumber: 1
 phone: "+49 7551 95050"
 opening_hours: "Mo-Fr 09:00-18:30"

@@ -5,7 +5,7 @@ latitude: 48.562757700000006
 longitude: 9.626977400000001
 postcode: 73349
 city: Wiesensteig
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

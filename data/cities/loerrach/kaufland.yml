@@ -5,7 +5,7 @@ latitude: 47.626128
 longitude: 7.674119200000001
 postcode: 
 city: Lörrach
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

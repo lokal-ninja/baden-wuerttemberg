@@ -5,7 +5,7 @@ latitude: 47.5758609
 longitude: 7.7990132
 postcode: 79618
 city: Rheinfelden (Baden)
-street: Großfeldstraße
+street: "Großfeldstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.450791
 longitude: 8.4969014
 postcode: 68199
 city: Mannheim
-street: Angelstraße
+street: "Angelstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

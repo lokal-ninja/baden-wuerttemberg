@@ -5,7 +5,7 @@ latitude: 48.7246388
 longitude: 9.2048237
 postcode: 70599
 city: Stuttgart
-street: Törlesäckerstraße
+street: "Törlesäckerstraße"
 housenumber: 12
 phone: "+49 711 4579654"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.043004100000005
 longitude: 9.1429065
 postcode: 74366
 city: Kirchheim am Neckar
-street: Hohensteiner Straße
+street: "Hohensteiner Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; PH off"

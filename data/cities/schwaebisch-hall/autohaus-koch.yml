@@ -5,7 +5,7 @@ latitude: 49.1195682
 longitude: 9.734271000000001
 postcode: 74523
 city: Schwäbisch Hall
-street: Johanniterstraße
+street: "Johanniterstraße"
 housenumber: 57
 phone: ""
 opening_hours: ""

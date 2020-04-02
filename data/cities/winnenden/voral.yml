@@ -5,7 +5,7 @@ latitude: 48.875894800000005
 longitude: 9.398589900000001
 postcode: 71364
 city: Winnenden
-street: Torstraße
+street: "Torstraße"
 housenumber: 3
 phone: "+49 7195 68624"
 opening_hours: "Tu-Fr 08:30-12:30,13:30-18:00; Sa 07:30-13:00"

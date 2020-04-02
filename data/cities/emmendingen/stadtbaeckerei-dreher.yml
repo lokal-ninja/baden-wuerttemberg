@@ -5,7 +5,7 @@ latitude: 48.126893
 longitude: 7.830752400000001
 postcode: 79312
 city: Emmendingen
-street: Karl-Friedrich-Straße
+street: "Karl-Friedrich-Straße"
 housenumber: 89,90,91
 phone: "+49 7641 9335272"
 opening_hours: "Mo-Sa 07:00-20:00"

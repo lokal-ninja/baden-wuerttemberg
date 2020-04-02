@@ -5,7 +5,7 @@ latitude: 47.9332882
 longitude: 9.5388426
 postcode: 88361
 city: Altshausen
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 18
 phone: "+49 7584 1820"
 opening_hours: ""

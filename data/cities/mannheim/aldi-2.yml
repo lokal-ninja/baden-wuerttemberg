@@ -5,7 +5,7 @@ latitude: 49.474338
 longitude: 8.5355412
 postcode: 68163
 city: Mannheim
-street: Seckenheimer Landstraße
+street: "Seckenheimer Landstraße"
 housenumber: 240
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.273244600000005
 longitude: 10.0584267
 postcode: 89186
 city: Illerrieden
-street: Max-Eyth-Straße
+street: "Max-Eyth-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

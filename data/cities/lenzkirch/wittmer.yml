@@ -5,7 +5,7 @@ latitude: 47.8683494
 longitude: 8.2052492
 postcode: 79853
 city: Lenzkirch
-street: Ludwig-Kegel-Straße
+street: "Ludwig-Kegel-Straße"
 housenumber: 11
 phone: "+49 7653 961888"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.44687750000001
 longitude: 8.5035241
 postcode: 68199
 city: Mannheim
-street: Meckenheimer Straße
+street: "Meckenheimer Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

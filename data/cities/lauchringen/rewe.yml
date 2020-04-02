@@ -5,7 +5,7 @@ latitude: 47.6314155
 longitude: 8.2985405
 postcode: 79787
 city: Lauchringen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 87
 phone: "+49 7741 670644"
 opening_hours: "Mo-Sa 08:00-22:00"

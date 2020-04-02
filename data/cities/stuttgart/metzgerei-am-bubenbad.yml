@@ -5,7 +5,7 @@ latitude: 48.7734285
 longitude: 9.1952593
 postcode: 70184
 city: Stuttgart
-street: Gänsheidestraße
+street: "Gänsheidestraße"
 housenumber: 41B
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.9698854
 longitude: 9.387729100000001
 postcode: 71546
 city: Aspach
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 11
 phone: "+49 7191 23774"
 opening_hours: "Mo-Sa 08:00-20:00; Su off; PH off"

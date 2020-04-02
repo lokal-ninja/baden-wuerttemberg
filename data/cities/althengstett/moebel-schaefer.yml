@@ -5,7 +5,7 @@ latitude: 48.7227855
 longitude: 8.779878400000001
 postcode: 75382
 city: Althengstett
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 54
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 10:00-15:00"

@@ -5,7 +5,7 @@ latitude: 48.7391188
 longitude: 9.165694100000001
 postcode: 70597
 city: Stuttgart
-street: Chemnitzer Straße
+street: "Chemnitzer Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 07:45-17:30, Sa 09:00-12:00"

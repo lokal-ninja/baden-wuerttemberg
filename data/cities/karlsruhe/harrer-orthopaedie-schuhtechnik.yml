@@ -5,7 +5,7 @@ latitude: 49.006168800000005
 longitude: 8.3933803
 postcode: 76133
 city: Karlsruhe
-street: Sophienstraße
+street: "Sophienstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

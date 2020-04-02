@@ -5,7 +5,7 @@ latitude: 48.6449555
 longitude: 9.7903897
 postcode: 73329
 city: Kuchen
-street: Im Gewerbepark
+street: "Im Gewerbepark"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"

@@ -5,7 +5,7 @@ latitude: 47.6742238
 longitude: 9.4781204
 postcode: 88045
 city: Friedrichshafen
-street: Werner-Diedrich-Straße
+street: "Werner-Diedrich-Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

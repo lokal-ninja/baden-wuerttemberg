@@ -5,7 +5,7 @@ latitude: 48.7026654
 longitude: 9.654029300000001
 postcode: 73033
 city: Göppingen
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 9
 phone: "+49 7161 70179"
 opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 49.3035805
 longitude: 8.642310400000001
 postcode: 69190
 city: Walldorf
-street: Schwetzinger Straße
+street: "Schwetzinger Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo.-Fr. 10:00-13:00, 14:30-18:30, Sa. 10:00-13:00"

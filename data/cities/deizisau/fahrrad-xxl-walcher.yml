@@ -5,7 +5,7 @@ latitude: 48.71513950000001
 longitude: 9.370800200000001
 postcode: 73779
 city: Deizisau
-street: Herrenlandweg
+street: "Herrenlandweg"
 housenumber: 2
 phone: "+49 7153 83000"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su off"

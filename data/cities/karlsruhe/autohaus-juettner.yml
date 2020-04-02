@@ -5,7 +5,7 @@ latitude: 48.996223500000006
 longitude: 8.4455981
 postcode: 76227
 city: Karlsruhe
-street: Ottostraße
+street: "Ottostraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

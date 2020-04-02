@@ -5,7 +5,7 @@ latitude: 48.8912075
 longitude: 9.188488300000001
 postcode: 71638
 city: Ludwigsburg
-street: Solitudestraße
+street: "Solitudestraße"
 housenumber: 40
 phone: ""
 opening_hours: ""

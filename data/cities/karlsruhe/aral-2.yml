@@ -5,7 +5,7 @@ latitude: 49.0384042
 longitude: 8.393969400000001
 postcode: 76149
 city: Karlsruhe
-street: Linkenheimer Landstraße
+street: "Linkenheimer Landstraße"
 housenumber: 125
 phone: "+49 721 4539429"
 opening_hours: ""

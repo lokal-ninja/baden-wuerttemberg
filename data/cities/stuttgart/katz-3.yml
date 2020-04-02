@@ -5,7 +5,7 @@ latitude: 48.790935600000005
 longitude: 9.171186800000001
 postcode: 70191
 city: Stuttgart
-street: Birkenwaldstraße
+street: "Birkenwaldstraße"
 housenumber: 104
 phone: ""
 opening_hours: "Mo-Sa 06:30-18:00;Su 08:00-11:00"

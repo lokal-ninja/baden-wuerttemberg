@@ -5,7 +5,7 @@ latitude: 48.829767100000005
 longitude: 9.313425
 postcode: 71332
 city: Waiblingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

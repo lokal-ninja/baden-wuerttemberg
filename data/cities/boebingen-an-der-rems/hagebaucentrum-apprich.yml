@@ -5,7 +5,7 @@ latitude: 48.8041531
 longitude: 9.9377618
 postcode: 73560
 city: Böbingen an der Rems
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 1
 phone: "+497173926620"
 opening_hours: ""

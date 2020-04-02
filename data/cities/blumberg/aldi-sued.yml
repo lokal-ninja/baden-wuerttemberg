@@ -5,7 +5,7 @@ latitude: 47.837838000000005
 longitude: 8.541339500000001
 postcode: 78176
 city: Blumberg
-street: Leo-Wohleb-Straße
+street: "Leo-Wohleb-Straße"
 housenumber: 6a
 phone: ""
 opening_hours: ""

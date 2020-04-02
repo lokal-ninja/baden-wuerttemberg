@@ -5,7 +5,7 @@ latitude: 48.4780736
 longitude: 9.227082300000001
 postcode: 72793
 city: Pfullingen
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

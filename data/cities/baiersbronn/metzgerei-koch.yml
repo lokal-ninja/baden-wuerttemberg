@@ -5,7 +5,7 @@ latitude: 48.52537340000001
 longitude: 8.400508700000001
 postcode: 72270
 city: Baiersbronn
-street: Murgtalstraße
+street: "Murgtalstraße"
 housenumber: 160
 phone: ""
 opening_hours: "Mo-Fr 08:00-13:00,15:00-18:00; Sa 08:00-12:30"

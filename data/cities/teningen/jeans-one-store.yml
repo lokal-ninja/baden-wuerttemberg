@@ -5,7 +5,7 @@ latitude: 48.127082
 longitude: 7.809949700000001
 postcode: 79331
 city: Teningen
-street: Riegeler Straße
+street: "Riegeler Straße"
 housenumber: 1
 phone: "+49 7641 95860 82"
 opening_hours: "Mo,Di,Do,Fr 10:00-12:00,15:00-18:00; Sa 10:00-13:00"

@@ -5,7 +5,7 @@ latitude: 47.673506200000006
 longitude: 9.5274397
 postcode: 88074
 city: Meckenbeuren
-street: Käthe-Paulus-Straße
+street: "Käthe-Paulus-Straße"
 housenumber: 8
 phone: "+49 7542 912404"
 opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-16:30"

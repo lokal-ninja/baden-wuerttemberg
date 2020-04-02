@@ -5,7 +5,7 @@ latitude: 48.8745732
 longitude: 9.4004455
 postcode: 71364
 city: Winnenden
-street: Wallstraße
+street: "Wallstraße"
 housenumber: 28
 phone: "+49 7195 920305"
 opening_hours: "Mo - Fr 09:00 - 19:00; Sa 09:00 - 16:00"

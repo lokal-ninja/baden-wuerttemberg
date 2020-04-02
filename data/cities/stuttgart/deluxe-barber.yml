@@ -5,7 +5,7 @@ latitude: 48.7303768
 longitude: 9.1129789
 postcode: 70563
 city: Stuttgart
-street: Rottweiler Straße
+street: "Rottweiler Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Tu-We 09:00-18:30; Th-Fr 09:00-20:00; Sa 09:00-16:30"

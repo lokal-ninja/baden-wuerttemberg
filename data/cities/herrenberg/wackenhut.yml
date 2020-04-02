@@ -5,7 +5,7 @@ latitude: 48.577080800000005
 longitude: 8.895541900000001
 postcode: 71083
 city: Herrenberg
-street: Hertzstraße
+street: "Hertzstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 07:00-22:00; Sa 06:00-14:00"

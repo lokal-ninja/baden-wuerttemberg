@@ -5,7 +5,7 @@ latitude: 48.005898800000004
 longitude: 7.817951300000001
 postcode: 79114
 city: Freiburg im Breisgau
-street: Am Bischofskreuz
+street: "Am Bischofskreuz"
 housenumber: 2
 phone: "+49 761 82313"
 opening_hours: ""

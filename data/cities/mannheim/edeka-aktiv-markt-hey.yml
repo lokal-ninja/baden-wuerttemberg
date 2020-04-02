@@ -5,7 +5,7 @@ latitude: 49.525084400000004
 longitude: 8.499814500000001
 postcode: 68305
 city: Mannheim
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 139
 phone: "+49 621 32166910"
 opening_hours: "Mo-Sa 08:00-20:00"

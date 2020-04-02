@@ -5,7 +5,7 @@ latitude: 48.4670313
 longitude: 9.2253491
 postcode: 72793
 city: Pfullingen
-street: Lindenplatz
+street: "Lindenplatz"
 housenumber: 15/2
 phone: "+49 7121 756438"
 opening_hours: ""

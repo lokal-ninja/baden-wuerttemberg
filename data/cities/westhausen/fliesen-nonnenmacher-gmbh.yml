@@ -5,7 +5,7 @@ latitude: 48.879727
 longitude: 10.1864573
 postcode: 73463
 city: Westhausen
-street: Bohlerstraße
+street: "Bohlerstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

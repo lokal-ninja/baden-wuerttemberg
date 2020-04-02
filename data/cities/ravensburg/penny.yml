@@ -5,7 +5,7 @@ latitude: 47.780687400000005
 longitude: 9.5894805
 postcode: 88213
 city: Ravensburg
-street: Marienburger Straße
+street: "Marienburger Straße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

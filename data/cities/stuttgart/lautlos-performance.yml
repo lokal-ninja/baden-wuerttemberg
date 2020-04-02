@@ -5,7 +5,7 @@ latitude: 48.766690600000004
 longitude: 9.176376600000001
 postcode: 70180
 city: Stuttgart
-street: Falbenhennenstraße
+street: "Falbenhennenstraße"
 housenumber: 5
 phone: "+49 711 24847220"
 opening_hours: ""

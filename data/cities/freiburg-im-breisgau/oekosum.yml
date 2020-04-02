@@ -5,7 +5,7 @@ latitude: 47.994666800000005
 longitude: 7.8345384000000005
 postcode: 79106
 city: Freiburg im Breisgau
-street: Ferdinand-Weiß-Straße
+street: "Ferdinand-Weiß-Straße"
 housenumber: 
 phone: "+49 761 281898"
 opening_hours: ""

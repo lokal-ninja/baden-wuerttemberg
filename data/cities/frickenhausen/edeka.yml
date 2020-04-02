@@ -5,7 +5,7 @@ latitude: 48.5836575
 longitude: 9.366900000000001
 postcode: 72636
 city: Frickenhausen
-street: In den Gernäckern
+street: "In den Gernäckern"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

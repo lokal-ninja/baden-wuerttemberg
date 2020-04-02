@@ -5,7 +5,7 @@ latitude: 48.129423200000005
 longitude: 7.815469500000001
 postcode: 79331
 city: Teningen
-street: Emmendinger Straße
+street: "Emmendinger Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

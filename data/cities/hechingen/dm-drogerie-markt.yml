@@ -5,7 +5,7 @@ latitude: 48.360371
 longitude: 8.962241200000001
 postcode: 72379
 city: Hechingen
-street: Haigerlocher Straße
+street: "Haigerlocher Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 47.9670861
 longitude: 7.9520926
 postcode: 79199
 city: Kirchzarten
-street: Albert-Schweitzer-Straße
+street: "Albert-Schweitzer-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.46072
 longitude: 9.102195100000001
 postcode: 72810
 city: Gomaringen
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

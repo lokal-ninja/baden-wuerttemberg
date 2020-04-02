@@ -5,7 +5,7 @@ latitude: 47.756427800000004
 longitude: 8.855124100000001
 postcode: 78224
 city: Singen (Hohentwiel)
-street: Pfaffenhäule
+street: "Pfaffenhäule"
 housenumber: 4
 phone: "+49 7731 90 95 90"
 opening_hours: "Mo-Fr 08:30-18:48; Sa 08:30-16:00; PH off"

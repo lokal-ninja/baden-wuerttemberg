@@ -5,7 +5,7 @@ latitude: 48.765921600000006
 longitude: 9.820369900000001
 postcode: 73550
 city: Waldstetten
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

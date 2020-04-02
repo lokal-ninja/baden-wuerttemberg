@@ -5,7 +5,7 @@ latitude: 47.659265100000006
 longitude: 9.4964844
 postcode: 88046
 city: Friedrichshafen
-street: Ravensburger Straße
+street: "Ravensburger Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-11:00"

@@ -5,7 +5,7 @@ latitude: 48.718646400000004
 longitude: 9.3805428
 postcode: 73776
 city: Altbach
-street: Kieswiesen
+street: "Kieswiesen"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

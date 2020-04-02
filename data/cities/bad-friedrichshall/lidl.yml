@@ -5,7 +5,7 @@ latitude: 49.230975400000005
 longitude: 9.2113802
 postcode: 74177
 city: Bad Friedrichshall
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

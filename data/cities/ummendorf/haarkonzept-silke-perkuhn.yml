@@ -5,7 +5,7 @@ latitude: 48.063602800000005
 longitude: 9.829439
 postcode: 88444
 city: Ummendorf
-street: Biberacher Straße
+street: "Biberacher Straße"
 housenumber: 21
 phone: "+497351344411"
 opening_hours: ""

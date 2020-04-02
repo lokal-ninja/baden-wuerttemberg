@@ -5,7 +5,7 @@ latitude: 48.7967208
 longitude: 9.0093336
 postcode: 71229
 city: Leonberg
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 68
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"

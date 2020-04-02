@@ -5,7 +5,7 @@ latitude: 48.6864713
 longitude: 8.9924874
 postcode: 71034
 city: Böblingen
-street: Otto-Lilienthal-Straße
+street: "Otto-Lilienthal-Straße"
 housenumber: 6/1
 phone: ""
 opening_hours: ""

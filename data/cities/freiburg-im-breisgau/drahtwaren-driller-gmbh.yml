@@ -5,7 +5,7 @@ latitude: 48.03154180000001
 longitude: 7.849048700000001
 postcode: 79108
 city: Freiburg im Breisgau
-street: Robert-Bunsen-Straße
+street: "Robert-Bunsen-Straße"
 housenumber: 7d
 phone: ""
 opening_hours: ""

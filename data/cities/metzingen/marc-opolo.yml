@@ -5,7 +5,7 @@ latitude: 48.536726900000005
 longitude: 9.2816544
 postcode: 72555
 city: Metzingen
-street: Reutlinger Straße
+street: "Reutlinger Straße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00"

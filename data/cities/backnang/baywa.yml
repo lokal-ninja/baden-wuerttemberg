@@ -5,7 +5,7 @@ latitude: 48.932750600000006
 longitude: 9.4452233
 postcode: 71522
 city: Backnang
-street: Weissacher Straße
+street: "Weissacher Straße"
 housenumber: 96
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su off; PH off"

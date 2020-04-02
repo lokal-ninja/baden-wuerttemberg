@@ -5,7 +5,7 @@ latitude: 48.783315900000005
 longitude: 9.181241400000001
 postcode: 70173
 city: Stuttgart
-street: Klett-Passage
+street: "Klett-Passage"
 housenumber: 
 phone: ""
 opening_hours: ""

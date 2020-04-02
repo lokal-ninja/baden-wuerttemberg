@@ -5,7 +5,7 @@ latitude: 48.651715100000004
 longitude: 8.0165498
 postcode: 77855
 city: Achern
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

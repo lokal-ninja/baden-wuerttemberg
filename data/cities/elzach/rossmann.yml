@@ -5,7 +5,7 @@ latitude: 48.1682914
 longitude: 8.06361
 postcode: 79215
 city: Elzach
-street: Freiburger Straße
+street: "Freiburger Straße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-20:00; PH off"

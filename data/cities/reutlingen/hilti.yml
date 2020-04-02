@@ -5,7 +5,7 @@ latitude: 48.499535300000005
 longitude: 9.152238500000001
 postcode: 72770
 city: Reutlingen
-street: Carl-Zeiss-Straße
+street: "Carl-Zeiss-Straße"
 housenumber: 73
 phone: ""
 opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-14:00"

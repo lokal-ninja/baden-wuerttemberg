@@ -5,7 +5,7 @@ latitude: 49.120892500000004
 longitude: 9.191941700000001
 postcode: 74081
 city: Heilbronn
-street: Kolpingstraße
+street: "Kolpingstraße"
 housenumber: 7/2
 phone: ""
 opening_hours: ""

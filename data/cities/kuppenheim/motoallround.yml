@@ -5,7 +5,7 @@ latitude: 48.827762500000006
 longitude: 8.2831618
 postcode: 76456
 city: Kuppenheim
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 4
 phone: "+49 7225 2138"
 opening_hours: ""

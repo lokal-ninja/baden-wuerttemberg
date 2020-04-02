@@ -5,7 +5,7 @@ latitude: 47.7201863
 longitude: 9.3886602
 postcode: 88677
 city: Markdorf
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 4
 phone: "+49 7544 9872231"
 opening_hours: "Tu-Fr 10:00-17:30; Sa 9:00-13:30"

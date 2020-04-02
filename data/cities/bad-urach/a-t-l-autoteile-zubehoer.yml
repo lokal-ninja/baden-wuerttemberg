@@ -5,7 +5,7 @@ latitude: 48.492077900000005
 longitude: 9.401414
 postcode: 72574
 city: Bad Urach
-street: Weberbleiche
+street: "Weberbleiche"
 housenumber: 11
 phone: ""
 opening_hours: ""

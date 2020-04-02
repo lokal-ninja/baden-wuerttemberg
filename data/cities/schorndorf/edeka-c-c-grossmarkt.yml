@@ -5,7 +5,7 @@ latitude: 48.808068500000005
 longitude: 9.510565600000001
 postcode: 73614
 city: Schorndorf
-street: Steinbeisstraße
+street: "Steinbeisstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-16:00; Su, PH off"

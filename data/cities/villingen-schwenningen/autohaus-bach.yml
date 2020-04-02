@@ -5,7 +5,7 @@ latitude: 48.073454100000006
 longitude: 8.4634622
 postcode: 78048
 city: Villingen-Schwenningen
-street: Vorderer Eckweg
+street: "Vorderer Eckweg"
 housenumber: 44
 phone: "+49 7721 206690"
 opening_hours: ""

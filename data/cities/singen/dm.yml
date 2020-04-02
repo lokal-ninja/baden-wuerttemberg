@@ -5,7 +5,7 @@ latitude: 47.745086300000004
 longitude: 8.8506651
 postcode: 78224
 city: Singen
-street: Zolltafel
+street: "Zolltafel"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

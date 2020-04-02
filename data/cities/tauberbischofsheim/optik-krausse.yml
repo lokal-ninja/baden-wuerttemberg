@@ -5,7 +5,7 @@ latitude: 49.62147280000001
 longitude: 9.659138200000001
 postcode: 97941
 city: Tauberbischofsheim
-street: Sonnenplatz
+street: "Sonnenplatz"
 housenumber: 3
 phone: ""
 opening_hours: ""

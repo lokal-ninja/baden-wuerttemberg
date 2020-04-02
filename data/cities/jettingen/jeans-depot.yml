@@ -5,7 +5,7 @@ latitude: 48.574241900000004
 longitude: 8.765534800000001
 postcode: 71131
 city: Jettingen
-street: Heilbergstraße
+street: "Heilbergstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

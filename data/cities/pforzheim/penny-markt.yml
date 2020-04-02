@@ -5,7 +5,7 @@ latitude: 48.8629059
 longitude: 8.6955649
 postcode: 75181
 city: Pforzheim
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 111
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

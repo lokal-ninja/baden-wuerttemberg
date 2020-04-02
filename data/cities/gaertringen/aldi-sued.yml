@@ -5,7 +5,7 @@ latitude: 48.6422699
 longitude: 8.9144722
 postcode: 71116
 city: Gärtringen
-street: Max-Planck-Straße
+street: "Max-Planck-Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00"

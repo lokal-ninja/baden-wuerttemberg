@@ -5,7 +5,7 @@ latitude: 48.7187831
 longitude: 9.1139857
 postcode: 70565
 city: Stuttgart
-street: Osterbronnstraße
+street: "Osterbronnstraße"
 housenumber: 56c
 phone: ""
 opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-13:30"

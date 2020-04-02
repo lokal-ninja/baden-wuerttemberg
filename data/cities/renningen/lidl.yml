@@ -5,7 +5,7 @@ latitude: 48.77757870000001
 longitude: 8.935899500000001
 postcode: 71272
 city: Renningen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

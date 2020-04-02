@@ -5,7 +5,7 @@ latitude: 48.9557492
 longitude: 8.585235200000001
 postcode: 75196
 city: Remchingen
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su off; PH off"

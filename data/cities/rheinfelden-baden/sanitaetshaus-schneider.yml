@@ -5,7 +5,7 @@ latitude: 47.559963800000006
 longitude: 7.788287400000001
 postcode: 79618
 city: Rheinfelden (Baden)
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

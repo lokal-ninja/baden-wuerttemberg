@@ -5,7 +5,7 @@ latitude: 48.7269273
 longitude: 8.849685800000001
 postcode: 75395
 city: Ostelsheim
-street: Gechinger Straße
+street: "Gechinger Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

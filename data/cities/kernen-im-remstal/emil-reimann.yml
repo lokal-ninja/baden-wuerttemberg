@@ -5,7 +5,7 @@ latitude: 48.808375600000005
 longitude: 9.3224359
 postcode: 71394
 city: Kernen im Remstal
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-12:30; Su 08:00-17:00"

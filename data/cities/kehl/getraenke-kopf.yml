@@ -5,7 +5,7 @@ latitude: 48.498997700000004
 longitude: 7.8200408
 postcode: 77694
 city: Kehl
-street: Waseneckstraße
+street: "Waseneckstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-15:00; PH off"

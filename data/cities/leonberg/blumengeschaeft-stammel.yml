@@ -5,7 +5,7 @@ latitude: 48.8163196
 longitude: 9.0189809
 postcode: 71229
 city: Leonberg
-street: Allmandweg
+street: "Allmandweg"
 housenumber: 13
 phone: ""
 opening_hours: ""

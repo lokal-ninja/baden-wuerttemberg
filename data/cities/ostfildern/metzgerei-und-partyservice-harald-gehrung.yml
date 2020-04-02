@@ -5,7 +5,7 @@ latitude: 48.7074353
 longitude: 9.261587200000001
 postcode: 73760
 city: Ostfildern
-street: Plieninger Straße
+street: "Plieninger Straße"
 housenumber: 3
 phone: "+49 7158 947294"
 opening_hours: "Mo-Sa 07:30-12:30; Tu, Th, Fr 14:30-18:00"

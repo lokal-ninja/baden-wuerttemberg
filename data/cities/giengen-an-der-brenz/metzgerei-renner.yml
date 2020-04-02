@@ -5,7 +5,7 @@ latitude: 48.6282871
 longitude: 10.274468800000001
 postcode: 89537
 city: Giengen an der Brenz
-street: Pflugstraße
+street: "Pflugstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo,Tu,Th 07:30-12:30,14:00-18:00; We 07:30-12:30; Fr 07:30-18:00; Sa 07:00-12:00; PH off"

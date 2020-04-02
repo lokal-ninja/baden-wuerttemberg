@@ -5,7 +5,7 @@ latitude: 49.424025300000004
 longitude: 9.449021700000001
 postcode: 74706
 city: Osterburken
-street: Industriepark
+street: "Industriepark"
 housenumber: 108
 phone: ""
 opening_hours: "Mo-Fr 13:00-19:00; Sa 09:00-13:00"

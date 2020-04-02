@@ -5,7 +5,7 @@ latitude: 49.0081843
 longitude: 8.4026957
 postcode: 76133
 city: Karlsruhe
-street: Hebelstraße
+street: "Hebelstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-16:00; Su,PH off"

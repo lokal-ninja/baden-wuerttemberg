@@ -5,7 +5,7 @@ latitude: 47.73493980000001
 longitude: 8.7776841
 postcode: 78244
 city: Gottmadingen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

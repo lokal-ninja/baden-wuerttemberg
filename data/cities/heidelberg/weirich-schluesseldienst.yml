@@ -5,7 +5,7 @@ latitude: 49.4168918
 longitude: 8.6901147
 postcode: 69120
 city: Heidelberg
-street: Lutherstraße
+street: "Lutherstraße"
 housenumber: 57
 phone: ""
 opening_hours: ""

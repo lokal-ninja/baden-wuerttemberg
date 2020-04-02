@@ -5,7 +5,7 @@ latitude: 47.7910903
 longitude: 7.5931819
 postcode: 79424
 city: Auggen
-street: An der Sonnberghalle
+street: "An der Sonnberghalle"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

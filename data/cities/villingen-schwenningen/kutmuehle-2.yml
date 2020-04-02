@@ -5,7 +5,7 @@ latitude: 48.047624400000004
 longitude: 8.467483900000001
 postcode: 
 city: Villingen-Schwenningen
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

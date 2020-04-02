@@ -5,7 +5,7 @@ latitude: 48.0169201
 longitude: 9.502426700000001
 postcode: 88348
 city: Bad Saulgau
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 58
 phone: ""
 opening_hours: ""

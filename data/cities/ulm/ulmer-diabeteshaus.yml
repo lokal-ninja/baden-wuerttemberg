@@ -5,7 +5,7 @@ latitude: 48.4002739
 longitude: 9.987398500000001
 postcode: 89073
 city: Ulm
-street: Wengengasse
+street: "Wengengasse"
 housenumber: 35
 phone: "+49 731 96 53 880"
 opening_hours: "Mo-Th 12:30-17:00; We 08:30-13:00; Fr 08:30-15:00"

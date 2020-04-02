@@ -5,7 +5,7 @@ latitude: 47.8573857
 longitude: 8.8948721
 postcode: 78253
 city: Eigeltingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 49
 phone: ""
 opening_hours: ""

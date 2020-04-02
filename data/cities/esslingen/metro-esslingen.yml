@@ -5,7 +5,7 @@ latitude: 48.717384800000005
 longitude: 9.3427401
 postcode: 73730
 city: Esslingen
-street: Dornierstraße
+street: "Dornierstraße"
 housenumber: 9
 phone: "+49 711 93140"
 opening_hours: ""

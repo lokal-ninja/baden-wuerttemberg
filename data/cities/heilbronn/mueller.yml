@@ -5,7 +5,7 @@ latitude: 49.1412981
 longitude: 9.220123300000001
 postcode: 74072
 city: Heilbronn
-street: Kiliansplatz
+street: "Kiliansplatz"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; PH off"

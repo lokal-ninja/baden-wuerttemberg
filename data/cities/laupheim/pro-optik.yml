@@ -5,7 +5,7 @@ latitude: 48.2292496
 longitude: 9.884747800000001
 postcode: 88471
 city: Laupheim
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"

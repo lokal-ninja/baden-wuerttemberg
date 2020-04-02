@@ -5,7 +5,7 @@ latitude: 49.5269792
 longitude: 8.5657595
 postcode: 68519
 city: Viernheim
-street: Robert-Schuman-Straße
+street: "Robert-Schuman-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

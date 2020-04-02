@@ -5,7 +5,7 @@ latitude: 48.271463000000004
 longitude: 8.8493811
 postcode: 72336
 city: Balingen
-street: Schwanenstraße
+street: "Schwanenstraße"
 housenumber: 11
 phone: "+49 7433 9556527"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.536825900000004
 longitude: 8.0644309
 postcode: 77704
 city: Oberkirch
-street: Steinhof
+street: "Steinhof"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

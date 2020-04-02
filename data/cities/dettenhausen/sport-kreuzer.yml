@@ -5,7 +5,7 @@ latitude: 48.603840500000004
 longitude: 9.0996096
 postcode: 72135
 city: Dettenhausen
-street: Wasenstraße
+street: "Wasenstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.151577800000005
 longitude: 9.2901121
 postcode: 74189
 city: Weinsberg
-street: Haller Straße
+street: "Haller Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

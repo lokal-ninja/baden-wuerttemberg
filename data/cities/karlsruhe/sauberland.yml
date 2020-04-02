@@ -5,7 +5,7 @@ latitude: 49.005803900000004
 longitude: 8.3189483
 postcode: 76189
 city: Karlsruhe
-street: Babbergerstraße
+street: "Babbergerstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.9205066
 longitude: 8.660339800000001
 postcode: 
 city: Ispringen
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 80
 phone: ""
 opening_hours: ""

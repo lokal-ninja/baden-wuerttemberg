@@ -5,7 +5,7 @@ latitude: 49.697360700000004
 longitude: 9.697012200000001
 postcode: 97956
 city: Werbach
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

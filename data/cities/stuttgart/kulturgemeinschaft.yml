@@ -5,7 +5,7 @@ latitude: 48.7786587
 longitude: 9.175045800000001
 postcode: 70174
 city: Stuttgart
-street: Willi-Bleicher-Straße
+street: "Willi-Bleicher-Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

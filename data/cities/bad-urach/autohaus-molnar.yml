@@ -5,7 +5,7 @@ latitude: 48.494681500000006
 longitude: 9.4051626
 postcode: 72574
 city: Bad Urach
-street: Elsachstraße
+street: "Elsachstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

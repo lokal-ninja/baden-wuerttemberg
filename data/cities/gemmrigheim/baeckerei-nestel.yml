@@ -5,7 +5,7 @@ latitude: 49.0263635
 longitude: 9.1571581
 postcode: 74376
 city: Gemmrigheim
-street: Forststraße
+street: "Forststraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

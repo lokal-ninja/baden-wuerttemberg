@@ -5,7 +5,7 @@ latitude: 48.4679438
 longitude: 7.881349500000001
 postcode: 77746
 city: Schutterwald
-street: Schutterstraße
+street: "Schutterstraße"
 housenumber: 1/1
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

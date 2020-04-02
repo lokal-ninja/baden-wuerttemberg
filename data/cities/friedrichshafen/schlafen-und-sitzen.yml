@@ -5,7 +5,7 @@ latitude: 47.655613200000005
 longitude: 9.480783200000001
 postcode: 88045
 city: Friedrichshafen
-street: Allmandstraße
+street: "Allmandstraße"
 housenumber: 8
 phone: ""
 opening_hours: "09:00-18:00; Sa 09:00-14:00; Su,PH off"

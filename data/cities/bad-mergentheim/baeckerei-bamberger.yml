@@ -5,7 +5,7 @@ latitude: 49.474353400000005
 longitude: 9.8325818
 postcode: 
 city: Bad Mergentheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

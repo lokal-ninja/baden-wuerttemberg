@@ -5,7 +5,7 @@ latitude: 48.649468500000005
 longitude: 9.446584000000001
 postcode: 73230
 city: Kirchheim unter Teck
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

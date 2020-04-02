@@ -5,7 +5,7 @@ latitude: 48.889116800000004
 longitude: 9.1656344
 postcode: 71636
 city: Ludwigsburg
-street: Steinbeisstraße
+street: "Steinbeisstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

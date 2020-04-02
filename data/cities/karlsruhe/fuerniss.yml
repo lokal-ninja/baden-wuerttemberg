@@ -5,7 +5,7 @@ latitude: 49.0358821
 longitude: 8.436751600000001
 postcode: 76139
 city: Karlsruhe
-street: Schneidemühler Straße
+street: "Schneidemühler Straße"
 housenumber: 23h
 phone: ""
 opening_hours: ""

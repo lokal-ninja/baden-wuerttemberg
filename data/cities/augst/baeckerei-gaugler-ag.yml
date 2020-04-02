@@ -5,7 +5,7 @@ latitude: 47.5351713
 longitude: 7.714808700000001
 postcode: 4302
 city: Augst
-street: Hauptstrasse
+street: "Hauptstrasse"
 housenumber: 4
 phone: "+41 (0)61 811 10 08"
 opening_hours: ""

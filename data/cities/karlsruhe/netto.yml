@@ -5,7 +5,7 @@ latitude: 48.9950582
 longitude: 8.4654772
 postcode: 76227
 city: Karlsruhe
-street: Rommelstraße
+street: "Rommelstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"

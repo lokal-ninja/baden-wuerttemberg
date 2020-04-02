@@ -5,7 +5,7 @@ latitude: 48.093960900000006
 longitude: 7.95861
 postcode: 79183
 city: Waldkirch
-street: Schlettstadtallee
+street: "Schlettstadtallee"
 housenumber: 9
 phone: "+4976815570"
 opening_hours: ""

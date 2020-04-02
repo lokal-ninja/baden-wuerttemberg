@@ -5,7 +5,7 @@ latitude: 49.058957400000004
 longitude: 8.6638272
 postcode: 75053
 city: Gondelsheim
-street: Hirschgartenstraße
+street: "Hirschgartenstraße"
 housenumber: 5
 phone: "+49 7252 958177"
 opening_hours: ""

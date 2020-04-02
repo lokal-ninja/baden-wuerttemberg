@@ -5,7 +5,7 @@ latitude: 48.762058800000005
 longitude: 8.1647294
 postcode: 76547
 city: Sinzheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 72
 phone: ""
 opening_hours: ""

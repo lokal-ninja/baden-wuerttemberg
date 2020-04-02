@@ -5,7 +5,7 @@ latitude: 48.780720300000006
 longitude: 9.1780519
 postcode: 70173
 city: Stuttgart
-street: Lautenschlagerstraße
+street: "Lautenschlagerstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

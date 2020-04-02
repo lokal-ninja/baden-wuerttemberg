@@ -5,7 +5,7 @@ latitude: 48.015610300000006
 longitude: 9.5018645
 postcode: 
 city: Bad Saulgau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 87
 phone: ""
 opening_hours: ""

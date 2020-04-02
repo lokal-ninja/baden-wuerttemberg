@@ -5,7 +5,7 @@ latitude: 48.6276305
 longitude: 8.072862200000001
 postcode: 77855
 city: Achern
-street: Ratskellerstraße
+street: "Ratskellerstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Tu-We 11:00-17:00"

@@ -5,7 +5,7 @@ latitude: 49.4623945
 longitude: 8.9855563
 postcode: 69412
 city: Eberbach
-street: Obere Badstraße
+street: "Obere Badstraße"
 housenumber: 18-20
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.6289979
 longitude: 8.0704309
 postcode: 77855
 city: Achern
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 25
 phone: "+49 7841 6676230"
 opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00"

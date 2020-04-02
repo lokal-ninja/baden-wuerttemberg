@@ -5,7 +5,7 @@ latitude: 48.127464800000006
 longitude: 8.7087686
 postcode: 78665
 city: Frittlingen
-street: Weiherstraße
+street: "Weiherstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

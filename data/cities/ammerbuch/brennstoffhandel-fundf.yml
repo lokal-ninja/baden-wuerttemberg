@@ -5,7 +5,7 @@ latitude: 48.541402600000005
 longitude: 8.9203913
 postcode: 72119
 city: Ammerbuch
-street: Wintergasse
+street: "Wintergasse"
 housenumber: 37
 phone: ""
 opening_hours: ""

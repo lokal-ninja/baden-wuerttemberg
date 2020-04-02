@@ -5,7 +5,7 @@ latitude: 48.745466400000005
 longitude: 8.965616800000001
 postcode: 71106
 city: Magstadt
-street: Neue Stuttgarter Straße
+street: "Neue Stuttgarter Straße"
 housenumber: 52 / 1
 phone: "+49 7159 8048988"
 opening_hours: ""

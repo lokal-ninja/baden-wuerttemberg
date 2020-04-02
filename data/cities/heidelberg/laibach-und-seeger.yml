@@ -5,7 +5,7 @@ latitude: 49.398663600000006
 longitude: 8.6715336
 postcode: 69115
 city: Heidelberg
-street: Schwetzinger Terrasse
+street: "Schwetzinger Terrasse"
 housenumber: 3
 phone: "+49 6221 3538510"
 opening_hours: "Tu-Fr 14:00-19:00; Sa 12:00-18:00"

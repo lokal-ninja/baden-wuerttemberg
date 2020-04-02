@@ -5,7 +5,7 @@ latitude: 48.0612593
 longitude: 8.459579900000001
 postcode: 78050
 city: Villingen-Schwenningen
-street: Obere Straße
+street: "Obere Straße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-12:30 || und nach Vereinbarung"

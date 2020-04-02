@@ -5,7 +5,7 @@ latitude: 48.7998204
 longitude: 9.794710400000001
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Badmauer
+street: "Badmauer"
 housenumber: 6
 phone: "+49 176 82181845"
 opening_hours: "Nach Vereinbarung"

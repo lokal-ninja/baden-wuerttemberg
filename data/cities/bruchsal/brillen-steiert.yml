@@ -5,7 +5,7 @@ latitude: 49.1252499
 longitude: 8.5969955
 postcode: 76646
 city: Bruchsal
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-16:00"

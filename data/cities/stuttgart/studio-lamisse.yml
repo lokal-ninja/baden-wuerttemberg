@@ -5,7 +5,7 @@ latitude: 48.813847
 longitude: 9.1115749
 postcode: 70499
 city: Stuttgart
-street: Rennstraße
+street: "Rennstraße"
 housenumber: 2
 phone: "+49 711 852406"
 opening_hours: ""

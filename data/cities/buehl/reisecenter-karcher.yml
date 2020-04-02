@@ -5,7 +5,7 @@ latitude: 48.695269100000004
 longitude: 8.1366634
 postcode: 77815
 city: Bühl
-street: Schwanenstraße
+street: "Schwanenstraße"
 housenumber: 4
 phone: "+49 7223 830410"
 opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:30-13:00"

@@ -5,7 +5,7 @@ latitude: 48.555379
 longitude: 9.261642
 postcode: 72585
 city: Riederich
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 31-37
 phone: "+49 7123 3021;+49 7123 3022"
 opening_hours: "Mo-Fr 08:30-12:00, 13:30-18:30; Sa 08:30-13:00"

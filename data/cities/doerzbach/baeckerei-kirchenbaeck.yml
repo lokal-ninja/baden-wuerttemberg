@@ -5,7 +5,7 @@ latitude: 49.3835132
 longitude: 9.7077317
 postcode: 74677
 city: Dörzbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 21
 phone: "+49 7937 406"
 opening_hours: ""

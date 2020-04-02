@@ -5,7 +5,7 @@ latitude: 48.5775888
 longitude: 8.8878916
 postcode: 71083
 city: Herrenberg
-street: Heerstraße
+street: "Heerstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:00, 13:00-17:00; Sa 08:00-12:00"

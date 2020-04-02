@@ -5,7 +5,7 @@ latitude: 47.9096702
 longitude: 8.2134686
 postcode: 
 city: Titisee-Neustadt
-street: Wilhelm-Stahl-Straße
+street: "Wilhelm-Stahl-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

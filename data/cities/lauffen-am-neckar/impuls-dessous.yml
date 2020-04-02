@@ -5,7 +5,7 @@ latitude: 49.0752844
 longitude: 9.1542244
 postcode: 74348
 city: Lauffen am Neckar
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

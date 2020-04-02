@@ -5,7 +5,7 @@ latitude: 49.068741900000006
 longitude: 9.728407800000001
 postcode: 
 city: Rosengarten
-street: Unterdorfstraße
+street: "Unterdorfstraße"
 housenumber: 19
 phone: "+49 791 51336"
 opening_hours: "Th,Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:00"

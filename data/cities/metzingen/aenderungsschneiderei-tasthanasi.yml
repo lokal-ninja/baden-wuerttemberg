@@ -5,7 +5,7 @@ latitude: 48.5393489
 longitude: 9.284382500000001
 postcode: 72555
 city: Metzingen
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 3
 phone: "+49 7123 20816"
 opening_hours: ""

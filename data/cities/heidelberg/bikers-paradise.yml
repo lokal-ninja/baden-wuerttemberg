@@ -5,7 +5,7 @@ latitude: 49.4329784
 longitude: 8.682597600000001
 postcode: 69121
 city: Heidelberg
-street: Dossenheimer Landstraße
+street: "Dossenheimer Landstraße"
 housenumber: 106
 phone: ""
 opening_hours: ""

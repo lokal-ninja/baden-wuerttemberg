@@ -5,7 +5,7 @@ latitude: 48.7446514
 longitude: 9.165465300000001
 postcode: 70597
 city: Stuttgart
-street: Albstraße
+street: "Albstraße"
 housenumber: 49A
 phone: ""
 opening_hours: "Tu-Fr 14:00-19:00, Sa 13:00+"

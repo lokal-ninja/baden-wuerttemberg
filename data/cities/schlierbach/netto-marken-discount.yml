@@ -5,7 +5,7 @@ latitude: 48.677012600000005
 longitude: 9.529008000000001
 postcode: 73278
 city: Schlierbach
-street: Auchtertstraße
+street: "Auchtertstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 47.6665604
 longitude: 9.432468400000001
 postcode: 88048
 city: Friedrichshafen
-street: Schnetzenhauser Straße
+street: "Schnetzenhauser Straße"
 housenumber: 25
 phone: "+49 7541 4875005"
 opening_hours: ""

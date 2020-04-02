@@ -5,7 +5,7 @@ latitude: 48.6949472
 longitude: 8.829666900000001
 postcode: 75391
 city: Gechingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 06:30-12:30,14:30-18:00; Sa 06:45-12:30; Su 07:30-10:30"

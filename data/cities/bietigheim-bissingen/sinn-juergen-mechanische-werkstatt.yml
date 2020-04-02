@@ -5,7 +5,7 @@ latitude: 48.942083100000005
 longitude: 9.124964700000001
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

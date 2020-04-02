@@ -5,7 +5,7 @@ latitude: 49.5416542
 longitude: 8.656082900000001
 postcode: 69469
 city: Weinheim
-street: Thaddenstraße
+street: "Thaddenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

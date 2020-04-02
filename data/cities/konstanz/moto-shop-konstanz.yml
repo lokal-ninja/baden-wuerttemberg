@@ -5,7 +5,7 @@ latitude: 47.67365220000001
 longitude: 9.1807856
 postcode: 78467
 city: Konstanz
-street: Hans-Thoma-Straße
+street: "Hans-Thoma-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

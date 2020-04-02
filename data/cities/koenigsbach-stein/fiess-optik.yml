@@ -5,7 +5,7 @@ latitude: 48.964412
 longitude: 8.612203300000001
 postcode: 75203
 city: Königsbach-Stein
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 08:30-13:00,14:30-18:30; We,Sa 08:30-13:00"

@@ -5,7 +5,7 @@ latitude: 48.771047
 longitude: 9.156399200000001
 postcode: 70197
 city: Stuttgart
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 81
 phone: "+49 711 246680"
 opening_hours: "Mo-Fr 11:00-14:00,15:00-20:00; Sa 11:00-20:00"

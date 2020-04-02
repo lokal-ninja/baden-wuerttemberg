@@ -5,7 +5,7 @@ latitude: 48.2412718
 longitude: 8.555184500000001
 postcode: 78662
 city: Bösingen
-street: Grünlinger Straße
+street: "Grünlinger Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

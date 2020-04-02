@@ -5,7 +5,7 @@ latitude: 48.9040784
 longitude: 8.5763911
 postcode: 75210
 city: Keltern
-street: Winzerstraße
+street: "Winzerstraße"
 housenumber: 9
 phone: "+49 7236 981198"
 opening_hours: "We-Fr 14:00-18:00; Sa 10:00-13:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.7183488
 longitude: 8.9640083
 postcode: 71069
 city: Sindelfingen
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 26
 phone: "+49 7031 382202"
 opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00; Mo,PH off"

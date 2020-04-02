@@ -5,7 +5,7 @@ latitude: 49.361378300000005
 longitude: 8.8046507
 postcode: 69257
 city: Wiesenbach
-street: Schubertstraße
+street: "Schubertstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

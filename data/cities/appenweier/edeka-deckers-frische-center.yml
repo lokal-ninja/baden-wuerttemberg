@@ -5,7 +5,7 @@ latitude: 48.5349859
 longitude: 7.975209100000001
 postcode: 77767
 city: Appenweier
-street: Sander Straße
+street: "Sander Straße"
 housenumber: 1
 phone: "+49 7805 9169790"
 opening_hours: "Mo-Sa 08:00-20:00"

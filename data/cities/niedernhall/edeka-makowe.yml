@@ -5,7 +5,7 @@ latitude: 49.300314
 longitude: 9.6148653
 postcode: 74676
 city: Niedernhall
-street: Criesbacher Straße
+street: "Criesbacher Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

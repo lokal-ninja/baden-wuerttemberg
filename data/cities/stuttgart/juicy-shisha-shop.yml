@@ -5,7 +5,7 @@ latitude: 48.7649835
 longitude: 9.267352800000001
 postcode: 70329
 city: Stuttgart
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 639A
 phone: ""
 opening_hours: ""

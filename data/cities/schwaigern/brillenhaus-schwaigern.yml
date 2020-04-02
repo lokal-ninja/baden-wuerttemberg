@@ -5,7 +5,7 @@ latitude: 49.1406865
 longitude: 9.0562176
 postcode: 74193
 city: Schwaigern
-street: Schnellerstraße
+street: "Schnellerstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

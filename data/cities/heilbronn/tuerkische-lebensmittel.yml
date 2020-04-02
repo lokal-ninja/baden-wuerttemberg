@@ -5,7 +5,7 @@ latitude: 49.140427900000006
 longitude: 9.2133371
 postcode: 74072
 city: Heilbronn
-street: Holzstraße
+street: "Holzstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

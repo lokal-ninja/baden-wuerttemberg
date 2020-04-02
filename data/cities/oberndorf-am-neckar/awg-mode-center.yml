@@ -5,7 +5,7 @@ latitude: 48.296120900000005
 longitude: 8.552674
 postcode: 78727
 city: Oberndorf am Neckar
-street: Friedrich-List-Straße
+street: "Friedrich-List-Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.809226100000004
 longitude: 8.956402500000001
 postcode: 71277
 city: Rutesheim
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 68
 phone: ""
 opening_hours: ""

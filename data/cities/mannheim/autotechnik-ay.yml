@@ -5,7 +5,7 @@ latitude: 49.4452646
 longitude: 8.5739072
 postcode: 68229
 city: Mannheim
-street: Langlachweg
+street: "Langlachweg"
 housenumber: 3
 phone: "+49 621 475744"
 opening_hours: ""

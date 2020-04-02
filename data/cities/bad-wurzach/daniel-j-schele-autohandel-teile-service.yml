@@ -5,7 +5,7 @@ latitude: 47.9010693
 longitude: 9.895638700000001
 postcode: 88410
 city: Bad Wurzach
-street: Ziegelwiesenweg
+street: "Ziegelwiesenweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

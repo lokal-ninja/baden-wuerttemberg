@@ -5,7 +5,7 @@ latitude: 48.8080544
 longitude: 9.1925255
 postcode: 70376
 city: Stuttgart
-street: Pragstraße
+street: "Pragstraße"
 housenumber: 140
 phone: ""
 opening_hours: ""

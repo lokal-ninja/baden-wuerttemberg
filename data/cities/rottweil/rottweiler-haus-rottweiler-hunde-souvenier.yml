@@ -5,7 +5,7 @@ latitude: 48.1676888
 longitude: 8.6245156
 postcode: 78628
 city: Rottweil
-street: Oberamteigasse
+street: "Oberamteigasse"
 housenumber: 6
 phone: "+49 151 57004645"
 opening_hours: "Mo-Fr 14:00-18:00; Sa 10:00-14:00"

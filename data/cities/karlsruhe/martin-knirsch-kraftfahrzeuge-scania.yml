@@ -5,7 +5,7 @@ latitude: 49.025839700000006
 longitude: 8.4734976
 postcode: 76229
 city: Karlsruhe
-street: Ohmstraße
+street: "Ohmstraße"
 housenumber: 6
 phone: "+49 721 962160"
 opening_hours: ""

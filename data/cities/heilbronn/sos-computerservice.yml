@@ -5,7 +5,7 @@ latitude: 49.143794400000004
 longitude: 9.221619800000001
 postcode: 74072
 city: Heilbronn
-street: Sonnengasse
+street: "Sonnengasse"
 housenumber: 8
 phone: ""
 opening_hours: ""

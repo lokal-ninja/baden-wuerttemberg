@@ -5,7 +5,7 @@ latitude: 48.395630600000004
 longitude: 8.0272968
 postcode: 77723
 city: Gengenbach
-street: Brambachstraße
+street: "Brambachstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

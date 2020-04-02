@@ -5,7 +5,7 @@ latitude: 49.2950419
 longitude: 8.7000586
 postcode: 
 city: Wiesloch
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 77
 phone: ""
 opening_hours: ""

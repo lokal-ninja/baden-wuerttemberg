@@ -5,7 +5,7 @@ latitude: 48.8268088
 longitude: 9.0638497
 postcode: 71254
 city: Ditzingen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

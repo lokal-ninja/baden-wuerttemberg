@@ -5,7 +5,7 @@ latitude: 48.1678088
 longitude: 8.6263152
 postcode: 78628
 city: Rottweil
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 33
 phone: "+49 741 1752771"
 opening_hours: ""

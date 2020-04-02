@@ -5,7 +5,7 @@ latitude: 49.1366809
 longitude: 9.382421500000001
 postcode: 74182
 city: Obersulm
-street: Willsbacher Straße
+street: "Willsbacher Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

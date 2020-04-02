@@ -5,7 +5,7 @@ latitude: 49.1302211
 longitude: 9.219726000000001
 postcode: 74074
 city: Heilbronn
-street: Schmidbergstraße
+street: "Schmidbergstraße"
 housenumber: 21
 phone: "+497131252386"
 opening_hours: "Mo 07:00-13:00; Tu-Fr 07:00-13:00,14:30-18:30; Sa 07:00-13:00"

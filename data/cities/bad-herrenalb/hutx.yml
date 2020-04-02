@@ -5,7 +5,7 @@ latitude: 48.7999864
 longitude: 8.4390953
 postcode: 76332
 city: Bad Herrenalb
-street: Kurpromenade
+street: "Kurpromenade"
 housenumber: 25
 phone: "+49 7083 9332429"
 opening_hours: "Mo-Fr 09:00 - 12:00, 14:00 - 17:00"

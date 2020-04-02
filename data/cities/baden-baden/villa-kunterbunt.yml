@@ -5,7 +5,7 @@ latitude: 48.8090233
 longitude: 8.219385200000001
 postcode: 76532
 city: Baden-Baden
-street: Untere Hafnerstraße
+street: "Untere Hafnerstraße"
 housenumber: 27
 phone: ""
 opening_hours: "Tu-Fr 16:00-18:00; Sa 10:00-12:00"

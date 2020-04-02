@@ -5,7 +5,7 @@ latitude: 49.446124700000006
 longitude: 8.5791869
 postcode: 68535
 city: Edingen-Neckarhausen
-street: Platanenstraße
+street: "Platanenstraße"
 housenumber: 11
 phone: "+49 621 472050"
 opening_hours: ""

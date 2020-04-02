@@ -5,7 +5,7 @@ latitude: 48.709147200000004
 longitude: 9.0027779
 postcode: 71063
 city: Sindelfingen
-street: Ziegelstraße
+street: "Ziegelstraße"
 housenumber: 12
 phone: "+49 7031 875365"
 opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-13:30; Su,PH off"

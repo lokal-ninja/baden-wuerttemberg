@@ -5,7 +5,7 @@ latitude: 47.982349000000006
 longitude: 7.8992366
 postcode: 79117
 city: Freiburg im Breisgau
-street: Reinhold-Schneider-Straße
+street: "Reinhold-Schneider-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

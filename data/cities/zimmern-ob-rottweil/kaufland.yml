@@ -5,7 +5,7 @@ latitude: 48.1707157
 longitude: 8.5756197
 postcode: 78658
 city: Zimmern ob Rottweil
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 48.5955157
 longitude: 8.86795
 postcode: 71083
 city: Herrenberg
-street: Bronngasse
+street: "Bronngasse"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-14:00"

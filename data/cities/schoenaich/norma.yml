@@ -5,7 +5,7 @@ latitude: 48.662273600000006
 longitude: 9.058334400000001
 postcode: 71101
 city: Schönaich
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

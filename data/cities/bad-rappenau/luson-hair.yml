@@ -5,7 +5,7 @@ latitude: 49.23847850000001
 longitude: 9.102042200000001
 postcode: 74906
 city: Bad Rappenau
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4-10
 phone: "+49 7264 8901234"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-16:00"

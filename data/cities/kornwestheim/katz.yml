@@ -5,7 +5,7 @@ latitude: 48.855451900000006
 longitude: 9.1817772
 postcode: 70806
 city: Kornwestheim
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00"

@@ -5,7 +5,7 @@ latitude: 48.411565100000004
 longitude: 9.5048277
 postcode: 72525
 city: Münsingen
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4287882
 longitude: 8.684746
 postcode: 69121
 city: Heidelberg
-street: Kriegsstraße
+street: "Kriegsstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

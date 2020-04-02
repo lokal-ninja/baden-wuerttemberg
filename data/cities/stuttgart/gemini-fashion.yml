@@ -5,7 +5,7 @@ latitude: 48.7772457
 longitude: 9.168764300000001
 postcode: 70174
 city: Stuttgart
-street: Fritz-Elsas-Straße
+street: "Fritz-Elsas-Straße"
 housenumber: 50
 phone: "+49 (0) 711 293668"
 opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"

@@ -5,7 +5,7 @@ latitude: 49.4821856
 longitude: 8.5940983
 postcode: 68526
 city: Ladenburg
-street: Donaustraße
+street: "Donaustraße"
 housenumber: 9
 phone: "+49 6203 12101"
 opening_hours: ""

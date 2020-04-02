@@ -5,7 +5,7 @@ latitude: 48.5237075
 longitude: 9.031052
 postcode: 72070
 city: Tübingen
-street: Rosentalstraße
+street: "Rosentalstraße"
 housenumber: 8/1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.758940700000004
 longitude: 9.4934841
 postcode: 97877
 city: Wertheim
-street: Karl-Carstens-Straße
+street: "Karl-Carstens-Straße"
 housenumber: 4
 phone: "+49 9342 935352"
 opening_hours: "Mo-Sa 09:00-20:00"

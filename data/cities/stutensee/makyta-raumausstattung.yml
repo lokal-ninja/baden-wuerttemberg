@@ -5,7 +5,7 @@ latitude: 49.104230300000005
 longitude: 8.473434600000001
 postcode: 76297
 city: Stutensee
-street: Schubertstraße
+street: "Schubertstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

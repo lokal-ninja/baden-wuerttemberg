@@ -5,7 +5,7 @@ latitude: 49.15150250000001
 longitude: 9.131557
 postcode: 74211
 city: Leingarten
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

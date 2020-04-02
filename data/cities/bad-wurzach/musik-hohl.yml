@@ -5,7 +5,7 @@ latitude: 47.9076606
 longitude: 9.8840012
 postcode: 88410
 city: Bad Wurzach
-street: Wolfeggweg
+street: "Wolfeggweg"
 housenumber: 3
 phone: ""
 opening_hours: ""

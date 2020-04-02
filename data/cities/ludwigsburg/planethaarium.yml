@@ -5,7 +5,7 @@ latitude: 48.893264300000006
 longitude: 9.1782585
 postcode: 71636
 city: Ludwigsburg
-street: Hoferstraße
+street: "Hoferstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

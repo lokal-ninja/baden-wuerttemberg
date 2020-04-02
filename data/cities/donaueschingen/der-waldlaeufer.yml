@@ -5,7 +5,7 @@ latitude: 47.9432077
 longitude: 8.5495368
 postcode: 78166
 city: Donaueschingen
-street: Bundesstraße
+street: "Bundesstraße"
 housenumber: 10
 phone: "+497712040370"
 opening_hours: "Fr 13:00-18:00; Sa 09:00-16:00; sowie jederzeit nach telefonischer Vereinbarung"

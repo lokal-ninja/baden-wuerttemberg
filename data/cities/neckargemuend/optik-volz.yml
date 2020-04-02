@@ -5,7 +5,7 @@ latitude: 49.394706000000006
 longitude: 8.7935782
 postcode: 69151
 city: Neckargemünd
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

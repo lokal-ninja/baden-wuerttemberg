@@ -5,7 +5,7 @@ latitude: 49.138199300000004
 longitude: 9.360324700000001
 postcode: 74182
 city: Obersulm
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

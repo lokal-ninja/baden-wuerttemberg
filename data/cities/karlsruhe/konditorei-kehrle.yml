@@ -5,7 +5,7 @@ latitude: 48.9991477
 longitude: 8.4705508
 postcode: 76227
 city: Karlsruhe
-street: Pfinztalstraße
+street: "Pfinztalstraße"
 housenumber: 35-37
 phone: "+49 721 494632"
 opening_hours: "Mo-Sa 08:30-18:00;Su,PH 12:00-18:00;Jun-Aug Su,PH off"

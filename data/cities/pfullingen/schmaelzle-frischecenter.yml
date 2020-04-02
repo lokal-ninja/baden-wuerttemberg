@@ -5,7 +5,7 @@ latitude: 48.4755653
 longitude: 9.227297400000001
 postcode: 72793
 city: Pfullingen
-street: Max-Eyth-Straße
+street: "Max-Eyth-Straße"
 housenumber: 22
 phone: "+49 7121 798134"
 opening_hours: ""

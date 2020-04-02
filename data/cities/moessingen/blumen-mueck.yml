@@ -5,7 +5,7 @@ latitude: 48.4048316
 longitude: 9.0590547
 postcode: 72116
 city: Mössingen
-street: Johannes-Kepler-Straße
+street: "Johannes-Kepler-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

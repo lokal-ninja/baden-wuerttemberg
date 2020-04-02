@@ -5,7 +5,7 @@ latitude: 49.3938575
 longitude: 8.7896807
 postcode: 69151
 city: Neckargemünd
-street: Güterbahnhofstraße
+street: "Güterbahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

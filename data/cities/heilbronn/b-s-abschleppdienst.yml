@@ -5,7 +5,7 @@ latitude: 49.177888200000005
 longitude: 9.1996765
 postcode: 74078
 city: Heilbronn
-street: Buchener Straße
+street: "Buchener Straße"
 housenumber: 3
 phone: "+49 7131 18018"
 opening_hours: ""

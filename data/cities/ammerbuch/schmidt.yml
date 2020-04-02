@@ -5,7 +5,7 @@ latitude: 48.561117200000005
 longitude: 8.9096449
 postcode: 72119
 city: Ammerbuch
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00; Sa 10:00-13:00"

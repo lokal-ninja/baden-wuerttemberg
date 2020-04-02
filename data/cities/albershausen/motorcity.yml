@@ -5,7 +5,7 @@ latitude: 48.699206000000004
 longitude: 9.569821300000001
 postcode: 73095
 city: Albershausen
-street: Staufenstraße
+street: "Staufenstraße"
 housenumber: 18
 phone: "+49 7161 93 95 95"
 opening_hours: ""

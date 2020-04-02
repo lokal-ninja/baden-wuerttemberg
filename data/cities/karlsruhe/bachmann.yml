@@ -5,7 +5,7 @@ latitude: 48.996107
 longitude: 8.4620625
 postcode: 76227
 city: Karlsruhe
-street: Oberwaldstraße
+street: "Oberwaldstraße"
 housenumber: 4
 phone: "+49 72 143393"
 opening_hours: "Mo-Sa 08:30-13:00"

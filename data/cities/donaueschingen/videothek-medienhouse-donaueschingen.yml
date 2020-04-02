@@ -5,7 +5,7 @@ latitude: 47.953731000000005
 longitude: 8.4967763
 postcode: 78166
 city: Donaueschingen
-street: Lehenstraße
+street: "Lehenstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Th 11:00-20:00; Fr,Sa 11:00-21:00"

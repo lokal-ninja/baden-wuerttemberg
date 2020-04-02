@@ -5,7 +5,7 @@ latitude: 47.8564157
 longitude: 8.7905388
 postcode: 78234
 city: Engen
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.122096400000004
 longitude: 7.8509158
 postcode: 79312
 city: Emmendingen
-street: Hebelstraße
+street: "Hebelstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00;Sa 09:30-15:00;PH off"

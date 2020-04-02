@@ -5,7 +5,7 @@ latitude: 47.7665103
 longitude: 9.1587969
 postcode: 88662
 city: Überlingen
-street: Jakob-Kessenring-Straße
+street: "Jakob-Kessenring-Straße"
 housenumber: 38
 phone: "+49 7551 9456515"
 opening_hours: "Mo-Fr 09:18:30; Sa 09:00-16:00"

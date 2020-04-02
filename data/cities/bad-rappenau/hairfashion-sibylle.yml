@@ -5,7 +5,7 @@ latitude: 49.2382445
 longitude: 9.102679
 postcode: 74906
 city: Bad Rappenau
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo,Su,PH off"

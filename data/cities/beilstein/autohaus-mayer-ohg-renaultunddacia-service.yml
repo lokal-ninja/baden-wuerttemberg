@@ -5,7 +5,7 @@ latitude: 49.035229
 longitude: 9.315876300000001
 postcode: 71717
 city: Beilstein
-street: Oberstenfelder Straße
+street: "Oberstenfelder Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

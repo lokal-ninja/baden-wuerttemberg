@@ -5,7 +5,7 @@ latitude: 49.3955805
 longitude: 9.9227609
 postcode: 97996
 city: Niederstetten
-street: Hatzfeldstraße
+street: "Hatzfeldstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.1344646
 longitude: 8.911894400000001
 postcode: 75031
 city: Eppingen
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 2
 phone: "+49 7262 2075075"
 opening_hours: ""

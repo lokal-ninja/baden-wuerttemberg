@@ -5,7 +5,7 @@ latitude: 48.7262518
 longitude: 9.351797300000001
 postcode: 73730
 city: Esslingen am Neckar
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 33
 phone: "+49-711-3108810"
 opening_hours: ""

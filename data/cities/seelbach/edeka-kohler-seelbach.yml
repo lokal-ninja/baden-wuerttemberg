@@ -5,7 +5,7 @@ latitude: 48.3197011
 longitude: 7.935382000000001
 postcode: 77960
 city: Seelbach
-street: Am Bahndamm
+street: "Am Bahndamm"
 housenumber: 9
 phone: ""
 opening_hours: ""

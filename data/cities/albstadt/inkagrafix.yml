@@ -5,7 +5,7 @@ latitude: 48.211828000000004
 longitude: 9.029076100000001
 postcode: 72458
 city: Albstadt
-street: Untere Vorstadt
+street: "Untere Vorstadt"
 housenumber: 30
 phone: ""
 opening_hours: ""

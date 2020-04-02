@@ -5,7 +5,7 @@ latitude: 48.538870300000006
 longitude: 8.0749259
 postcode: 77704
 city: Oberkirch
-street: Krautschollenweg
+street: "Krautschollenweg"
 housenumber: 31
 phone: ""
 opening_hours: ""

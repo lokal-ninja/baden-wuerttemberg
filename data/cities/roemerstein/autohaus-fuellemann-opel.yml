@@ -5,7 +5,7 @@ latitude: 48.4955178
 longitude: 9.5083268
 postcode: 72587
 city: Römerstein
-street: Albstraße
+street: "Albstraße"
 housenumber: 66
 phone: "+49 7382 246"
 opening_hours: "Mo-Fr 07:00-12:00, 13:00-19:00; Sa 07:00-12:00"

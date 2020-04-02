@@ -5,7 +5,7 @@ latitude: 47.782746
 longitude: 9.6103485
 postcode: 88212
 city: Ravensburg
-street: Untere Breite Straße
+street: "Untere Breite Straße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 09:30-12:30,14:00-18:00; Sa 09:30-14:00; PH off"

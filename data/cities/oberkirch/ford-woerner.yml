@@ -5,7 +5,7 @@ latitude: 48.5415397
 longitude: 8.0702224
 postcode: 77704
 city: Oberkirch
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.599425600000004
 longitude: 7.599317200000001
 postcode: 79576
 city: Weil am Rhein
-street: Alte Straße
+street: "Alte Straße"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

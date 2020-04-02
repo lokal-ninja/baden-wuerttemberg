@@ -5,7 +5,7 @@ latitude: 49.4846348
 longitude: 8.4427436
 postcode: 67059
 city: Ludwigshafen am Rhein
-street: Rathausplatz
+street: "Rathausplatz"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 09:30-20:00; Sa 10:00-20:00"

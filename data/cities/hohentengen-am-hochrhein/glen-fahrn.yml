@@ -5,7 +5,7 @@ latitude: 47.5706191
 longitude: 8.436702200000001
 postcode: 79801
 city: Hohentengen am Hochrhein
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 40
 phone: "+49 7742 857222"
 opening_hours: "10:00-12:00,13:00-18:30; Sa 09:00-17:00; Mo,Tu,PH off"

@@ -5,7 +5,7 @@ latitude: 49.1420651
 longitude: 9.2172359
 postcode: 74072
 city: Heilbronn
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

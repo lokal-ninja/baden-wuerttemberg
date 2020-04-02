@@ -5,7 +5,7 @@ latitude: 48.887526400000006
 longitude: 9.425620700000001
 postcode: 71364
 city: Winnenden
-street: Degenhofer Straße
+street: "Degenhofer Straße"
 housenumber: 17
 phone: "+49 7195 916610"
 opening_hours: "Mo - Fr 09:00 - 18:30; Sa 09:00 - 14:00"

@@ -5,7 +5,7 @@ latitude: 48.741964200000005
 longitude: 8.2718743
 postcode: 76534
 city: Baden-Baden
-street: Beuerner Straße
+street: "Beuerner Straße"
 housenumber: 79
 phone: "+4972217694"
 opening_hours: ""

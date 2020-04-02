@@ -5,7 +5,7 @@ latitude: 49.004695100000006
 longitude: 8.504516
 postcode: 76229
 city: Karlsruhe
-street: Augustenburgstraße
+street: "Augustenburgstraße"
 housenumber: 73a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.239015900000005
 longitude: 9.107974
 postcode: 74906
 city: Bad Rappenau
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 14
 phone: "+49 7264 1699"
 opening_hours: "Mo-Tu 08:30-13:00, 14:00-18:00; Fr 08:30-13:00; Sa 08:30-12:00"

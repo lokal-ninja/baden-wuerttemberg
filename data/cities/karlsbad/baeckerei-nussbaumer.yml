@@ -5,7 +5,7 @@ latitude: 48.884185800000004
 longitude: 8.509562200000001
 postcode: 76307
 city: Karlsbad
-street: Desco-Straße
+street: "Desco-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 05:30-19:00; Sa 05:30-17:30; Su 08:00-18:00"

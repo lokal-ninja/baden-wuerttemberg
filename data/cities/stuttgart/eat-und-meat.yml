@@ -5,7 +5,7 @@ latitude: 48.7295595
 longitude: 9.1234056
 postcode: 70565
 city: Stuttgart
-street: Wörthstraße
+street: "Wörthstraße"
 housenumber: 11
 phone: "+49 711 4899627 3"
 opening_hours: "Tu-Th 09:00-18:30; Fr 08:00-18:30; Sa 07:30-13:30; Su,PH off"

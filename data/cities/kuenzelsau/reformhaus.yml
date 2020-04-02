@@ -5,7 +5,7 @@ latitude: 49.280611500000006
 longitude: 9.689906800000001
 postcode: 74653
 city: Künzelsau
-street: Farbgasse
+street: "Farbgasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

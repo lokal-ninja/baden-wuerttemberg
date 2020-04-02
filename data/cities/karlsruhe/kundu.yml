@@ -5,7 +5,7 @@ latitude: 49.009995700000005
 longitude: 8.3519939
 postcode: 76185
 city: Karlsruhe
-street: Carl-Metz-Straße
+street: "Carl-Metz-Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

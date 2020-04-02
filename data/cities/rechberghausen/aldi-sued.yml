@@ -5,7 +5,7 @@ latitude: 48.7264691
 longitude: 9.6409103
 postcode: 73098
 city: Rechberghausen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

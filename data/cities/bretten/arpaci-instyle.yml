@@ -5,7 +5,7 @@ latitude: 49.035821500000004
 longitude: 8.7073734
 postcode: 75015
 city: Bretten
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 5
 phone: "+49 7252 5611857"
 opening_hours: "Tu-Th 08:30-18:30; Fr 08:30-21:00; Sa 08:00-17:00"

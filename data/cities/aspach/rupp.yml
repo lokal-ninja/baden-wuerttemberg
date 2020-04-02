@@ -5,7 +5,7 @@ latitude: 48.966088000000006
 longitude: 9.3970556
 postcode: 
 city: Aspach
-street: Marbacher Straße
+street: "Marbacher Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:15; Sa 07:00-13:00; Su, PH off"

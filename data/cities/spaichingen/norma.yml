@@ -5,7 +5,7 @@ latitude: 48.0786266
 longitude: 8.7324795
 postcode: 78549
 city: Spaichingen
-street: Europastraße
+street: "Europastraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

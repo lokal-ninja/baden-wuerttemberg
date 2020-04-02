@@ -5,7 +5,7 @@ latitude: 48.8732288
 longitude: 9.404075200000001
 postcode: 71364
 city: Winnenden
-street: Schorndorfer Straße
+street: "Schorndorfer Straße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Fr 07:00-13:00, Tu,Th,Fr 14:00-18:00; Sa 07:00-12:30"

@@ -5,7 +5,7 @@ latitude: 48.6222446
 longitude: 9.3432981
 postcode: 72622
 city: Nürtingen
-street: Olgastraße
+street: "Olgastraße"
 housenumber: 20
 phone: "+49 7022 33597"
 opening_hours: "Mo-Sa 09:00-12:00, Mo,Tu,Th,Fr 13:30-18:00"

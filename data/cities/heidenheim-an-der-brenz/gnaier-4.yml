@@ -5,7 +5,7 @@ latitude: 48.6749689
 longitude: 10.151623200000001
 postcode: 89522
 city: Heidenheim an der Brenz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 79
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.6690741
 longitude: 9.6931246
 postcode: 73037
 city: Göppingen
-street: Schlater Straße
+street: "Schlater Straße"
 housenumber: 180
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 07:30-21:00"

@@ -5,7 +5,7 @@ latitude: 47.9950721
 longitude: 7.847155600000001
 postcode: 79098
 city: Freiburg im Breisgau
-street: Bertoldstraße
+street: "Bertoldstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-18:00"

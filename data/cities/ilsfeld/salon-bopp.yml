@@ -5,7 +5,7 @@ latitude: 49.0540983
 longitude: 9.2448153
 postcode: 74360
 city: Ilsfeld
-street: Gerbergasse
+street: "Gerbergasse"
 housenumber: 4
 phone: ""
 opening_hours: ""

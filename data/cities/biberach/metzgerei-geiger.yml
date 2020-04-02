@@ -5,7 +5,7 @@ latitude: 48.339066200000005
 longitude: 8.0267928
 postcode: 77781
 city: Biberach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

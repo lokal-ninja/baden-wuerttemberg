@@ -5,7 +5,7 @@ latitude: 48.585494100000005
 longitude: 8.6158687
 postcode: 72213
 city: Altensteig
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 49.15013870000001
 longitude: 9.217546
 postcode: 74076
 city: Heilbronn
-street: Weipertstraße
+street: "Weipertstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

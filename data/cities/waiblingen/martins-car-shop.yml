@@ -5,7 +5,7 @@ latitude: 48.858980200000005
 longitude: 9.328672000000001
 postcode: 71336
 city: Waiblingen
-street: Liststraße
+street: "Liststraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

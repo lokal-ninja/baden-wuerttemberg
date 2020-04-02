@@ -5,7 +5,7 @@ latitude: 48.8473361
 longitude: 8.5491692
 postcode: 75334
 city: Straubenhardt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 93
 phone: "+49 7082 920840"
 opening_hours: ""

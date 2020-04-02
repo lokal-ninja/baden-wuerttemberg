@@ -5,7 +5,7 @@ latitude: 47.6863558
 longitude: 9.835078600000001
 postcode: 
 city: Wangen im Allgäu
-street: Bindstraße
+street: "Bindstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

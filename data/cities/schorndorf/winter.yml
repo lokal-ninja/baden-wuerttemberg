@@ -5,7 +5,7 @@ latitude: 48.814289
 longitude: 9.530272100000001
 postcode: 73614
 city: Schorndorf
-street: Welzheimer Straße
+street: "Welzheimer Straße"
 housenumber: 26
 phone: "+49 7181 5455"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:30; Su,PH off"

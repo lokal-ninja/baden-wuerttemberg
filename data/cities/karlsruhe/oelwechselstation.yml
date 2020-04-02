@@ -5,7 +5,7 @@ latitude: 48.999633900000006
 longitude: 8.4273617
 postcode: 76137
 city: Karlsruhe
-street: Wolfartsweierer Straße
+street: "Wolfartsweierer Straße"
 housenumber: 42a
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su,PH off"

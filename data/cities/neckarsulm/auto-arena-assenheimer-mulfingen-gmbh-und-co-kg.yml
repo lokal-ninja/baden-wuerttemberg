@@ -5,7 +5,7 @@ latitude: 49.1881287
 longitude: 9.2013166
 postcode: 74172
 city: Neckarsulm
-street: Neckargartacher Straße
+street: "Neckargartacher Straße"
 housenumber: 75
 phone: "+49 7132 97580"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.7068601
 longitude: 7.9685499
 postcode: 77866
 city: Rheinau
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 52
 phone: "+49 7227 505873"
 opening_hours: "Mo-Fr 09:00-14:00"

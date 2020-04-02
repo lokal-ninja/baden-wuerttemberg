@@ -5,7 +5,7 @@ latitude: 47.7377716
 longitude: 8.967177900000001
 postcode: 78315
 city: Radolfzell am Bodensee
-street: Poststraße
+street: "Poststraße"
 housenumber: 17
 phone: "+49 7732 55485"
 opening_hours: "Tu-Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.046790800000004
 longitude: 9.326193400000001
 postcode: 88512
 city: Mengen
-street: Meßkircher Straße
+street: "Meßkircher Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

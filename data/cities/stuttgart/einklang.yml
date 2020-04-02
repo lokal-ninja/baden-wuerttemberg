@@ -5,7 +5,7 @@ latitude: 48.775690700000006
 longitude: 9.1834741
 postcode: 70182
 city: Stuttgart
-street: Charlottenstraße
+street: "Charlottenstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

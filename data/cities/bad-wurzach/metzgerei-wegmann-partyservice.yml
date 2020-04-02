@@ -5,7 +5,7 @@ latitude: 47.9081999
 longitude: 9.893923000000001
 postcode: 88410
 city: Bad Wurzach
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

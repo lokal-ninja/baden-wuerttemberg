@@ -5,7 +5,7 @@ latitude: 49.1339935
 longitude: 8.5955074
 postcode: 76646
 city: Bruchsal
-street: Kinzigstraße
+street: "Kinzigstraße"
 housenumber: 8-10
 phone: ""
 opening_hours: ""

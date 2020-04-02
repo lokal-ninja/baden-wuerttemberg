@@ -5,7 +5,7 @@ latitude: 48.9829304
 longitude: 8.390462900000001
 postcode: 76199
 city: Karlsruhe
-street: Neckarstraße
+street: "Neckarstraße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Sa 06:30-10:00"

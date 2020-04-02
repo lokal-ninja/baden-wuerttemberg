@@ -5,7 +5,7 @@ latitude: 48.0700456
 longitude: 8.4559581
 postcode: 78048
 city: Villingen-Schwenningen
-street: Konstanzer Straße
+street: "Konstanzer Straße"
 housenumber: 6
 phone: "+49 7721 2069917"
 opening_hours: ""

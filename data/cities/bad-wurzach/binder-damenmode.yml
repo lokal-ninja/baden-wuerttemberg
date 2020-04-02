@@ -5,7 +5,7 @@ latitude: 47.9080628
 longitude: 9.8947901
 postcode: 88410
 city: Bad Wurzach
-street: Breiteweg
+street: "Breiteweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

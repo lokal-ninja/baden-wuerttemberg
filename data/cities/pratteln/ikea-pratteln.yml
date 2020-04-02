@@ -5,7 +5,7 @@ latitude: 47.5283048
 longitude: 7.689413500000001
 postcode: 4133
 city: Pratteln
-street: Grüssenweg
+street: "Grüssenweg"
 housenumber: 21
 phone: "+41 848 801100"
 opening_hours: ""

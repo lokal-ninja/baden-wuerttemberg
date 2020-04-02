@@ -5,7 +5,7 @@ latitude: 48.677743
 longitude: 10.147815900000001
 postcode: 89518
 city: Heidenheim an der Brenz
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

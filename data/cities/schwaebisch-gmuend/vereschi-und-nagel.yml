@@ -5,7 +5,7 @@ latitude: 48.772592
 longitude: 9.795244700000001
 postcode: 73529
 city: Schwäbisch Gmünd
-street: Forststraße
+street: "Forststraße"
 housenumber: 39
 phone: ""
 opening_hours: ""

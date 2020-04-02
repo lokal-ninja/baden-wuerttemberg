@@ -5,7 +5,7 @@ latitude: 48.7155446
 longitude: 9.298530000000001
 postcode: 73760
 city: Ostfildern
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 51
 phone: ""
 opening_hours: ""

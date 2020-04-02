@@ -5,7 +5,7 @@ latitude: 49.38155810000001
 longitude: 9.3836133
 postcode: 74740
 city: Adelsheim
-street: Kelterstraße
+street: "Kelterstraße"
 housenumber: 10
 phone: "+49 6291 7241"
 opening_hours: ""

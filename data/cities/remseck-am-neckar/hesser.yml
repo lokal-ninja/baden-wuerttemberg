@@ -5,7 +5,7 @@ latitude: 48.890349300000004
 longitude: 9.2711051
 postcode: 71686
 city: Remseck am Neckar
-street: Neckaraue
+street: "Neckaraue"
 housenumber: 2
 phone: "+49714643532"
 opening_hours: ""

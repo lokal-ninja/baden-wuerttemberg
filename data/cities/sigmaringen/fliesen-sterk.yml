@@ -5,7 +5,7 @@ latitude: 48.081647100000005
 longitude: 9.2374066
 postcode: 72488
 city: Sigmaringen
-street: Friedrich-List-Straße
+street: "Friedrich-List-Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

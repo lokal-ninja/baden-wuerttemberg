@@ -5,7 +5,7 @@ latitude: 49.137551
 longitude: 10.070206200000001
 postcode: 74564
 city: Crailsheim
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 09:30-18:00"

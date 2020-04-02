@@ -5,7 +5,7 @@ latitude: 48.5364829
 longitude: 9.2790742
 postcode: 72555
 city: Metzingen
-street: Hugo-Boss-Platz
+street: "Hugo-Boss-Platz"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00, Sa 09:00-20:00; PH off"

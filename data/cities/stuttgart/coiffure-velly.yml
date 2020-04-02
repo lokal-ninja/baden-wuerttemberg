@@ -5,7 +5,7 @@ latitude: 48.7834671
 longitude: 9.160879600000001
 postcode: 
 city: Stuttgart
-street: Kornbergstraße
+street: "Kornbergstraße"
 housenumber: 28A
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-15:00"

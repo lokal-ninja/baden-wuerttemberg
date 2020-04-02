@@ -5,7 +5,7 @@ latitude: 48.770690200000004
 longitude: 9.8301577
 postcode: 73550
 city: Waldstetten
-street: Gottlieb-Daimler-Straße
+street: "Gottlieb-Daimler-Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:30; Sa 09:00-13:00"

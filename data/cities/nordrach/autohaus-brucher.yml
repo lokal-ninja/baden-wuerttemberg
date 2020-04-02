@@ -5,7 +5,7 @@ latitude: 48.3898409
 longitude: 8.0719527
 postcode: 77787
 city: Nordrach
-street: Gewerbegebiet
+street: "Gewerbegebiet"
 housenumber: 2
 phone: ""
 opening_hours: ""

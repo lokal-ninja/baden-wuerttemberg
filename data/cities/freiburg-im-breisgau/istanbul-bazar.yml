@@ -5,7 +5,7 @@ latitude: 48.000099000000006
 longitude: 7.835946300000001
 postcode: 79106
 city: Freiburg im Breisgau
-street: Egonstraße
+street: "Egonstraße"
 housenumber: 58
 phone: ""
 opening_hours: "Mo-Sa 08:30-20:00"

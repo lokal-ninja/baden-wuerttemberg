@@ -5,7 +5,7 @@ latitude: 49.339871800000004
 longitude: 8.7997257
 postcode: 69256
 city: Mauer
-street: Heidelberger Straße
+street: "Heidelberger Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

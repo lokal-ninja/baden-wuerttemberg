@@ -5,7 +5,7 @@ latitude: 48.982779400000005
 longitude: 9.559732200000001
 postcode: 71540
 city: Murrhardt
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 31
 phone: ""
 opening_hours: ""

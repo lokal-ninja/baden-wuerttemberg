@@ -5,7 +5,7 @@ latitude: 47.9411506
 longitude: 7.7308957000000005
 postcode: 79238
 city: Ehrenkirchen
-street: Weinbergstraße
+street: "Weinbergstraße"
 housenumber: 2
 phone: "+49 7633 3957"
 opening_hours: ""

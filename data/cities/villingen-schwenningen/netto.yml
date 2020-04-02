@@ -5,7 +5,7 @@ latitude: 48.0631014
 longitude: 8.443333500000001
 postcode: 78050
 city: Villingen-Schwenningen
-street: Kirnacher Straße
+street: "Kirnacher Straße"
 housenumber: 75
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.9829013
 longitude: 8.3753933
 postcode: 76135
 city: Karlsruhe
-street: Im Mittelfeld
+street: "Im Mittelfeld"
 housenumber: 3
 phone: "+49 721 86489524"
 opening_hours: "Mo-Fr 06:00-14:00; PH off"

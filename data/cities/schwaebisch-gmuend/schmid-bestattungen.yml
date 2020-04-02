@@ -5,7 +5,7 @@ latitude: 48.794521200000005
 longitude: 9.7982715
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Rechbergstraße
+street: "Rechbergstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

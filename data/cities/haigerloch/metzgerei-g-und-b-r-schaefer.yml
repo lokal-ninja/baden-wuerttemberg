@@ -5,7 +5,7 @@ latitude: 48.385724800000006
 longitude: 8.773197300000001
 postcode: 72401
 city: Haigerloch
-street: Unterdorf
+street: "Unterdorf"
 housenumber: 11
 phone: "+49 7474 8713"
 opening_hours: ""

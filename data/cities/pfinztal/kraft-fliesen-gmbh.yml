@@ -5,7 +5,7 @@ latitude: 48.995359300000004
 longitude: 8.5383835
 postcode: 76327
 city: Pfinztal
-street: Reetzstraße
+street: "Reetzstraße"
 housenumber: 48-50
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"

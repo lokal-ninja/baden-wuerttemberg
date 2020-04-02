@@ -5,7 +5,7 @@ latitude: 49.047552200000005
 longitude: 8.47339
 postcode: 76297
 city: Stutensee
-street: Pfinzstraße
+street: "Pfinzstraße"
 housenumber: 10
 phone: ""
 opening_hours: "24/7"

@@ -5,7 +5,7 @@ latitude: 49.0488401
 longitude: 8.4636376
 postcode: 76297
 city: Stutensee
-street: Buchenring
+street: "Buchenring"
 housenumber: 5
 phone: ""
 opening_hours: "Tu-Fr 8:30-18:00; Sa 7:30-12:30"

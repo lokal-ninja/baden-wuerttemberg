@@ -5,7 +5,7 @@ latitude: 48.853112800000005
 longitude: 9.8742347
 postcode: 73575
 city: Leinzell
-street: Staufenstraße
+street: "Staufenstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

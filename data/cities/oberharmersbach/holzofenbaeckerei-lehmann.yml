@@ -5,7 +5,7 @@ latitude: 48.379250500000005
 longitude: 8.1385009
 postcode: 77784
 city: Oberharmersbach
-street: Brugasse
+street: "Brugasse"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.462291300000004
 longitude: 7.9241773
 postcode: 77656
 city: Offenburg
-street: Wichernstraße
+street: "Wichernstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.483717000000006
 longitude: 10.055838300000001
 postcode: 89129
 city: Langenau
-street: Untere Gasse
+street: "Untere Gasse"
 housenumber: 16
 phone: ""
 opening_hours: ""

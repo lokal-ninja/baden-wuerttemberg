@@ -5,7 +5,7 @@ latitude: 49.00366390000001
 longitude: 9.104669000000001
 postcode: 74369
 city: Löchgau
-street: Erligheimer Straße
+street: "Erligheimer Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

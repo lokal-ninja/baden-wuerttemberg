@@ -5,7 +5,7 @@ latitude: 49.5338433
 longitude: 9.2062829
 postcode: 69427
 city: Mudau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16/1
 phone: ""
 opening_hours: ""

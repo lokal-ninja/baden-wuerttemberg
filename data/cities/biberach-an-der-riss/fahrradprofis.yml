@@ -5,7 +5,7 @@ latitude: 48.095397600000005
 longitude: 9.786106
 postcode: 88400
 city: Biberach an der Riß
-street: Kolpingstraße
+street: "Kolpingstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

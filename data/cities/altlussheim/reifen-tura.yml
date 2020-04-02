@@ -5,7 +5,7 @@ latitude: 49.292430100000004
 longitude: 8.5043799
 postcode: 68804
 city: Altlußheim
-street: Friedensstraße
+street: "Friedensstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

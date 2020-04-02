@@ -5,7 +5,7 @@ latitude: 48.0501215
 longitude: 8.2045698
 postcode: 78120
 city: Furtwangen im Schwarzwald
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

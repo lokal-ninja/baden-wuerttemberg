@@ -5,7 +5,7 @@ latitude: 48.9537465
 longitude: 10.1362134
 postcode: 73479
 city: Ellwangen (Jagst)
-street: Kolpingweg
+street: "Kolpingweg"
 housenumber: 3
 phone: "+49 7961 3528"
 opening_hours: ""

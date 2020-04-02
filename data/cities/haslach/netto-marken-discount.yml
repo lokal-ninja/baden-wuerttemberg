@@ -5,7 +5,7 @@ latitude: 48.2776512
 longitude: 8.0957224
 postcode: 77716
 city: Haslach
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 07:00-21:00; Su,PH off"

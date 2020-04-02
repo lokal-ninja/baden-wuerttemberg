@@ -5,7 +5,7 @@ latitude: 48.701544000000005
 longitude: 8.9467915
 postcode: 71069
 city: Sindelfingen
-street: Mühlackerstraße
+street: "Mühlackerstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

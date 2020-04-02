@@ -5,7 +5,7 @@ latitude: 47.826747000000005
 longitude: 9.651148000000001
 postcode: 
 city: Baienfurt
-street: Waldseer Straße
+street: "Waldseer Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Th 15:00-18:30, 09:30-13:00"

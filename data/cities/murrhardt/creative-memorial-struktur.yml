@@ -5,7 +5,7 @@ latitude: 48.953895100000004
 longitude: 9.6825378
 postcode: 71540
 city: Murrhardt
-street: Lettengasse
+street: "Lettengasse"
 housenumber: 15
 phone: ""
 opening_hours: ""

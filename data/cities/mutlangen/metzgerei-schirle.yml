@@ -5,7 +5,7 @@ latitude: 48.826524400000004
 longitude: 9.7967964
 postcode: 73557
 city: Mutlangen
-street: Brunnengasse
+street: "Brunnengasse"
 housenumber: 4
 phone: "+497171189920"
 opening_hours: ""

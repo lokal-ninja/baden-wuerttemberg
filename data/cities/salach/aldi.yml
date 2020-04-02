@@ -5,7 +5,7 @@ latitude: 48.684296100000005
 longitude: 9.7323967
 postcode: 73084
 city: Salach
-street: Postweg
+street: "Postweg"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

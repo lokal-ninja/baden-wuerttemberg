@@ -5,7 +5,7 @@ latitude: 49.509386600000006
 longitude: 9.3164257
 postcode: 74722
 city: Buchen (Odenwald)
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

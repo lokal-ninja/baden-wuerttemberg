@@ -5,7 +5,7 @@ latitude: 48.062532600000004
 longitude: 8.5355503
 postcode: 78054
 city: Villingen-Schwenningen
-street: Uhlandstraße
+street: "Uhlandstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Sa 09:00-14:00; PH off; Mo, Tu, Th, Fr 09:00-18:00"

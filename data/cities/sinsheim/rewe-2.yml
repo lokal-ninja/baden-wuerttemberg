@@ -5,7 +5,7 @@ latitude: 49.2516248
 longitude: 8.8714747
 postcode: 74889
 city: Sinsheim
-street: Muthstraße
+street: "Muthstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

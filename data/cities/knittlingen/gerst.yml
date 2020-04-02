@@ -5,7 +5,7 @@ latitude: 49.023585100000005
 longitude: 8.7568789
 postcode: 75438
 city: Knittlingen
-street: Untere Straße
+street: "Untere Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

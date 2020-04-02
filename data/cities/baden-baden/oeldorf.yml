@@ -5,7 +5,7 @@ latitude: 48.7437716
 longitude: 8.2589263
 postcode: 76534
 city: Baden-Baden
-street: Geroldsauer Straße
+street: "Geroldsauer Straße"
 housenumber: 4
 phone: "+49 7221 7463"
 opening_hours: "Tu-Fr 08:15-12:00,13:30-18:00; Sa 08:00-12:00"

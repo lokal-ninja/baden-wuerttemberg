@@ -5,7 +5,7 @@ latitude: 49.4896966
 longitude: 9.7693486
 postcode: 97980
 city: Bad Mergentheim
-street: Boxberger Straße
+street: "Boxberger Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 47.781935600000004
 longitude: 9.6161946
 postcode: 88212
 city: Ravensburg
-street: Herrenstraße
+street: "Herrenstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

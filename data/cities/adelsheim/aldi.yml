@@ -5,7 +5,7 @@ latitude: 49.3966482
 longitude: 9.393197
 postcode: 74740
 city: Adelsheim
-street: Untere Austraße
+street: "Untere Austraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su off"

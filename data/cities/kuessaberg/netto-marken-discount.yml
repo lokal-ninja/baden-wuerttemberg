@@ -5,7 +5,7 @@ latitude: 47.612840600000006
 longitude: 8.295890400000001
 postcode: 79790
 city: Küssaberg
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 2a
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

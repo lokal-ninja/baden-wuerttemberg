@@ -5,7 +5,7 @@ latitude: 49.143019300000006
 longitude: 9.2238565
 postcode: 74072
 city: Heilbronn
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

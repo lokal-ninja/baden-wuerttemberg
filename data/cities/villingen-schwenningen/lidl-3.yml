@@ -5,7 +5,7 @@ latitude: 48.0557105
 longitude: 8.4688967
 postcode: 78048
 city: Villingen-Schwenningen
-street: Altstadtstraße
+street: "Altstadtstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

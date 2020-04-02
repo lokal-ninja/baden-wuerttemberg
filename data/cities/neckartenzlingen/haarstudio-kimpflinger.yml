@@ -5,7 +5,7 @@ latitude: 48.5867134
 longitude: 9.256186600000001
 postcode: 72654
 city: Neckartenzlingen
-street: Erlenweg
+street: "Erlenweg"
 housenumber: 4
 phone: ""
 opening_hours: ""

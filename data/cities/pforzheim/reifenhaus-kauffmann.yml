@@ -5,7 +5,7 @@ latitude: 48.892811200000004
 longitude: 8.7086039
 postcode: 75175
 city: Pforzheim
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 28
 phone: "+49 7231 104847"
 opening_hours: "Mo-Fr 07:30-17:00"

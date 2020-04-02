@@ -5,7 +5,7 @@ latitude: 47.991319100000005
 longitude: 8.8200465
 postcode: 78532
 city: Tuttlingen
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

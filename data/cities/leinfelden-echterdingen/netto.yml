@@ -5,7 +5,7 @@ latitude: 48.6969092
 longitude: 9.168051
 postcode: 70771
 city: Leinfelden-Echterdingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

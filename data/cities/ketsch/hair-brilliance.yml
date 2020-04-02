@@ -5,7 +5,7 @@ latitude: 49.3692651
 longitude: 8.5274339
 postcode: 68775
 city: Ketsch
-street: Schwetzinger Straße
+street: "Schwetzinger Straße"
 housenumber: 38
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.631499500000004
 longitude: 8.5791576
 postcode: 79807
 city: Lottstetten
-street: Schitterlestraße
+street: "Schitterlestraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

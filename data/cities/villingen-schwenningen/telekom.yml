@@ -5,7 +5,7 @@ latitude: 48.0597732
 longitude: 8.459570600000001
 postcode: 78050
 city: Villingen-Schwenningen
-street: Rietstraße
+street: "Rietstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"

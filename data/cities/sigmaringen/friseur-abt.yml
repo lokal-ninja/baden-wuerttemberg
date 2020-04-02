@@ -5,7 +5,7 @@ latitude: 48.094047800000006
 longitude: 9.230168
 postcode: 72488
 city: Sigmaringen
-street: Bussenstraße
+street: "Bussenstraße"
 housenumber: 3
 phone: "+49 7571 61888"
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-14:00"

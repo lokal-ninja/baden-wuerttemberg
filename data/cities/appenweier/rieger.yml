@@ -5,7 +5,7 @@ latitude: 48.519353
 longitude: 8.0044505
 postcode: 77767
 city: Appenweier
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 46
 phone: "+49 7805 911301"
 opening_hours: "Mo-Fr 05:30-10:00; Sa 05:30-11:00; Su 08:00-11:00"

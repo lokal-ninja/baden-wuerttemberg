@@ -5,7 +5,7 @@ latitude: 48.0199986
 longitude: 7.8526609
 postcode: 79108
 city: Freiburg im Breisgau
-street: Karlsruher Straße
+street: "Karlsruher Straße"
 housenumber: 56a
 phone: ""
 opening_hours: ""

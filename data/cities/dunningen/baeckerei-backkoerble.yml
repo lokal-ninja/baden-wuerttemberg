@@ -5,7 +5,7 @@ latitude: 48.2430785
 longitude: 8.491443700000001
 postcode: 78655
 city: Dunningen
-street: Freudenstädter Straße
+street: "Freudenstädter Straße"
 housenumber: 76
 phone: ""
 opening_hours: ""

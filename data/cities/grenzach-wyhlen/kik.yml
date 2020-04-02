@@ -5,7 +5,7 @@ latitude: 47.5530631
 longitude: 7.657599800000001
 postcode: 79639
 city: Grenzach-Wyhlen
-street: Basler Straße
+street: "Basler Straße"
 housenumber: 27-29
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:45-18:00"

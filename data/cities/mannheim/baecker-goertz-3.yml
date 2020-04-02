@@ -5,7 +5,7 @@ latitude: 49.527113400000005
 longitude: 8.487710400000001
 postcode: 68305
 city: Mannheim
-street: Hanauer Straße
+street: "Hanauer Straße"
 housenumber: 25
 phone: "+49 621 76218250"
 opening_hours: "Mo-Fr 05:00-18:30; Sa 05:30-17:00; Su 07:30-18:00"

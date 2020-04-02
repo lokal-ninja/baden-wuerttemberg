@@ -5,7 +5,7 @@ latitude: 48.806042600000005
 longitude: 9.5247729
 postcode: 73614
 city: Schorndorf
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 25
 phone: "+49 7181 9946820"
 opening_hours: "Mo-Fr 10:30-20:00; Sa 10:00-17:00"

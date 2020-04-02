@@ -5,7 +5,7 @@ latitude: 49.4025181
 longitude: 8.6300861
 postcode: 69214
 city: Eppelheim
-street: Wasserturmstraße
+street: "Wasserturmstraße"
 housenumber: 8
 phone: "+49 6221 7257777"
 opening_hours: "Mo 14:00-18:30;Tu-Fr 9:00-12:00, 14:00-18:30"

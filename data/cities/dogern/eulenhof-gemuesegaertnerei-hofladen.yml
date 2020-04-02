@@ -5,7 +5,7 @@ latitude: 47.604205300000004
 longitude: 8.1585569
 postcode: 79804
 city: Dogern
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 2a
 phone: "+49 7751 2080018"
 opening_hours: "Fr 10:00-13:00"

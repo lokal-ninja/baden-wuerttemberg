@@ -5,7 +5,7 @@ latitude: 47.926049000000006
 longitude: 8.4893406
 postcode: 78183
 city: Hüfingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Sa 07:00-18:00; Su 07:30-18:00"

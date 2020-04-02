@@ -5,7 +5,7 @@ latitude: 48.0293283
 longitude: 9.3784457
 postcode: 
 city: Hohentengen
-street: Steige
+street: "Steige"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.203605100000004
 longitude: 9.0468694
 postcode: 72458
 city: Albstadt
-street: Sigmaringer Straße
+street: "Sigmaringer Straße"
 housenumber: 142
 phone: ""
 opening_hours: ""

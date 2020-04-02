@@ -5,7 +5,7 @@ latitude: 49.1634885
 longitude: 9.176342400000001
 postcode: 74078
 city: Heilbronn
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

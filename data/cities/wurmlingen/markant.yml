@@ -5,7 +5,7 @@ latitude: 48.0049623
 longitude: 8.7779837
 postcode: 78573
 city: Wurmlingen
-street: Obere Straße
+street: "Obere Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

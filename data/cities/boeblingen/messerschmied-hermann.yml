@@ -5,7 +5,7 @@ latitude: 48.686028400000005
 longitude: 9.010351
 postcode: 71032
 city: Böblingen
-street: Stadtgrabenstraße
+street: "Stadtgrabenstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

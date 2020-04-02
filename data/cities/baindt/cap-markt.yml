@@ -5,7 +5,7 @@ latitude: 47.8412814
 longitude: 9.6614938
 postcode: 88255
 city: Baindt
-street: Dorfplatz
+street: "Dorfplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30, Sa 08:00-13:30"

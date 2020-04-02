@@ -5,7 +5,7 @@ latitude: 49.5913017
 longitude: 8.6508451
 postcode: 
 city: Hemsbach
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 55
 phone: ""
 opening_hours: ""

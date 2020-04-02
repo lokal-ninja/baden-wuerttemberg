@@ -5,7 +5,7 @@ latitude: 48.718121700000005
 longitude: 9.5336692
 postcode: 73061
 city: Ebersbach an der Fils
-street: Leintelstraße
+street: "Leintelstraße"
 housenumber: 78
 phone: ""
 opening_hours: "Mo-Fr 07:00-12:00, 13:00-17:00; Sa 07:00-12:00"

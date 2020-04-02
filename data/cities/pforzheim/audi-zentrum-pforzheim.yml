@@ -5,7 +5,7 @@ latitude: 48.903466900000005
 longitude: 8.658154900000001
 postcode: 75179
 city: Pforzheim
-street: Schwenninger Straße
+street: "Schwenninger Straße"
 housenumber: 32
 phone: "+49 7231 38680"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.685089000000005
 longitude: 9.802727200000001
 postcode: 73072
 city: Donzdorf
-street: Poststraße
+street: "Poststraße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

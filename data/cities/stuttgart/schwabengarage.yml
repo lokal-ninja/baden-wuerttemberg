@@ -5,7 +5,7 @@ latitude: 48.726559
 longitude: 9.1175177
 postcode: 70565
 city: Stuttgart
-street: Ruppmannstraße
+street: "Ruppmannstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-13:00"

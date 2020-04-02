@@ -5,7 +5,7 @@ latitude: 48.8120454
 longitude: 9.2042187
 postcode: 70376
 city: Stuttgart
-street: Sparrhärmlingweg
+street: "Sparrhärmlingweg"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,15:00-19:00; We off; Sa 09:00-14:00"

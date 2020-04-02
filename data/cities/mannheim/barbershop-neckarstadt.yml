@@ -5,7 +5,7 @@ latitude: 49.5024297
 longitude: 8.472235300000001
 postcode: 68169
 city: Mannheim
-street: Pettenkoferstraße
+street: "Pettenkoferstraße"
 housenumber: 4
 phone: "+49621-3369984"
 opening_hours: ""

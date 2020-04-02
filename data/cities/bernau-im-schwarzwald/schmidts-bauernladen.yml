@@ -5,7 +5,7 @@ latitude: 47.810147900000004
 longitude: 8.0300066
 postcode: 79872
 city: Bernau im Schwarzwald
-street: Dorf-Hauptstraße
+street: "Dorf-Hauptstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.726044900000005
 longitude: 9.152100200000001
 postcode: 70567
 city: Stuttgart
-street: Steinbrunnenstraße
+street: "Steinbrunnenstraße"
 housenumber: 30
 phone: "+49 711 161600"
 opening_hours: "Tu-Fr 09:00-13:00,14:30-19:00;Sa 09:00-13:00;PH off"

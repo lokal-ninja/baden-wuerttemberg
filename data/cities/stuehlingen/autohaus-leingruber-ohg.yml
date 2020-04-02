@@ -5,7 +5,7 @@ latitude: 47.750991400000004
 longitude: 8.4573555
 postcode: 
 city: Stühlingen
-street: Bundesstraße
+street: "Bundesstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

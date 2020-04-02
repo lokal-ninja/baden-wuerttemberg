@@ -5,7 +5,7 @@ latitude: 48.875665500000004
 longitude: 9.390877900000001
 postcode: 71364
 city: Winnenden
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

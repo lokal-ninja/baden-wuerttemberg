@@ -5,7 +5,7 @@ latitude: 49.060676400000006
 longitude: 8.8033328
 postcode: 75038
 city: Oberderdingen
-street: Hintere Gasse
+street: "Hintere Gasse"
 housenumber: 19
 phone: ""
 opening_hours: "Th 09:00-13:00,15:00-18:00; Fr 09:00-13:00; PH off"

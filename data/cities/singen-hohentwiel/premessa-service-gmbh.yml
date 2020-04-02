@@ -5,7 +5,7 @@ latitude: 47.753589700000006
 longitude: 8.8887929
 postcode: 
 city: Singen (Hohentwiel)
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 22
 phone: "+49 7731 835-10"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.9375657
 longitude: 9.4446279
 postcode: 71522
 city: Backnang
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

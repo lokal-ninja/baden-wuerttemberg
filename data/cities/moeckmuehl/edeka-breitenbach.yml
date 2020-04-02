@@ -5,7 +5,7 @@ latitude: 49.3192907
 longitude: 9.3642836
 postcode: 74219
 city: Möckmühl
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 5
 phone: "+49 6298 95881"
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.518901
 longitude: 8.555801500000001
 postcode: 68309
 city: Mannheim
-street: Spreewaldallee
+street: "Spreewaldallee"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; PH off"

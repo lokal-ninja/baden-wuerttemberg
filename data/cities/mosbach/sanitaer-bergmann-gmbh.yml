@@ -5,7 +5,7 @@ latitude: 49.3594469
 longitude: 9.148798900000001
 postcode: 74821
 city: Mosbach
-street: Odenwaldstraße
+street: "Odenwaldstraße"
 housenumber: 29
 phone: "+49 6261 2248"
 opening_hours: "Mo-Fr 09:30-12:30,14:30-17:00; Sa 09:00-12:00"

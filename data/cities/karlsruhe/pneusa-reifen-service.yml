@@ -5,7 +5,7 @@ latitude: 48.995604300000004
 longitude: 8.4460998
 postcode: 76227
 city: Karlsruhe
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

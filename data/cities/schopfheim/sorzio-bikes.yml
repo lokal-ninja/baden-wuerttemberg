@@ -5,7 +5,7 @@ latitude: 47.648952200000004
 longitude: 7.8142095000000005
 postcode: 79650
 city: Schopfheim
-street: Friedrich-Hecker-Straße
+street: "Friedrich-Hecker-Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Th 15:00-19:00, Fr 15:00-19:00, Sa 09:30-14:00"

@@ -5,7 +5,7 @@ latitude: 48.539964000000005
 longitude: 9.289644800000001
 postcode: 72555
 city: Metzingen
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 24
 phone: "+49 7123 162597"
 opening_hours: ""

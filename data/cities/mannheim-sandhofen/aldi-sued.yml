@@ -5,7 +5,7 @@ latitude: 49.5484543
 longitude: 8.4570938
 postcode: 68307
 city: Mannheim-Sandhofen
-street: Amselstraße
+street: "Amselstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

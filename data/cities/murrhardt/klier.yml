@@ -5,7 +5,7 @@ latitude: 48.9806776
 longitude: 9.5809148
 postcode: 71540
 city: Murrhardt
-street: Fritz-Schweizer-Straße
+street: "Fritz-Schweizer-Straße"
 housenumber: 6
 phone: "+49 71929356045"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-15:00"

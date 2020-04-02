@@ -5,7 +5,7 @@ latitude: 48.821356200000004
 longitude: 10.028852500000001
 postcode: 73457
 city: Essingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 97
 phone: ""
 opening_hours: ""

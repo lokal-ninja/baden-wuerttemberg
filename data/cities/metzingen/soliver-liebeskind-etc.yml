@@ -5,7 +5,7 @@ latitude: 48.536577400000006
 longitude: 9.282838700000001
 postcode: 72555
 city: Metzingen
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

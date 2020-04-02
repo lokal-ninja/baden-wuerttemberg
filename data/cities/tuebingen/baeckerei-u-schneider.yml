@@ -5,7 +5,7 @@ latitude: 48.5040166
 longitude: 9.055022300000001
 postcode: 72072
 city: Tübingen
-street: Roßbergstraße
+street: "Roßbergstraße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Sa 06:30-14:00"

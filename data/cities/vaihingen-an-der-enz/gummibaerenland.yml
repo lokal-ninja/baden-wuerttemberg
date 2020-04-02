@@ -5,7 +5,7 @@ latitude: 48.9549764
 longitude: 8.9872221
 postcode: 71665
 city: Vaihingen an der Enz
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 11
 phone: "+49 7042 959440"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

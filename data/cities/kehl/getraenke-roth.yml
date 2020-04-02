@@ -5,7 +5,7 @@ latitude: 48.577085200000006
 longitude: 7.818118200000001
 postcode: 77694
 city: Kehl
-street: Königsberger Straße
+street: "Königsberger Straße"
 housenumber: 18
 phone: "+49 7851 9944170"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.349086
 longitude: 8.071388500000001
 postcode: 77736
 city: Zell am Harmersbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 107
 phone: ""
 opening_hours: ""

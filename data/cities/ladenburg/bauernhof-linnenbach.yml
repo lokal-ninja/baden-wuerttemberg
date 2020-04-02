@@ -5,7 +5,7 @@ latitude: 49.4574584
 longitude: 8.626436100000001
 postcode: 68526
 city: Ladenburg
-street: Neubotzheim
+street: "Neubotzheim"
 housenumber: 1
 phone: "+49 6203 14581"
 opening_hours: "Mo-Sa 09:00-18:00"

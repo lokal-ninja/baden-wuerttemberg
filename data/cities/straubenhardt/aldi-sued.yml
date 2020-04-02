@@ -5,7 +5,7 @@ latitude: 48.8462455
 longitude: 8.5235763
 postcode: 75334
 city: Straubenhardt
-street: Max-Planck-Straße
+street: "Max-Planck-Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

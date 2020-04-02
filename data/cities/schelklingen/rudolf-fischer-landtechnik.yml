@@ -5,7 +5,7 @@ latitude: 48.388390300000005
 longitude: 9.6680793
 postcode: 89601
 city: Schelklingen
-street: Beurenweg
+street: "Beurenweg"
 housenumber: 2
 phone: "+49 7384 266"
 opening_hours: ""

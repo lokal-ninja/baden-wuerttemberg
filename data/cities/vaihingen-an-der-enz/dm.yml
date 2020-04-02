@@ -5,7 +5,7 @@ latitude: 48.9267927
 longitude: 8.9665646
 postcode: 71665
 city: Vaihingen an der Enz
-street: Hertzstraße
+street: "Hertzstraße"
 housenumber: 9
 phone: "+49 7042 374665"
 opening_hours: "Mo-Sa 08:00-20:00"

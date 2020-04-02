@@ -5,7 +5,7 @@ latitude: 48.8683727
 longitude: 9.198305300000001
 postcode: 70806
 city: Kornwestheim
-street: Leibnizstraße
+street: "Leibnizstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

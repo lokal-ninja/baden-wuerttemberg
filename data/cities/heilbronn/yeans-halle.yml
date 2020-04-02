@@ -5,7 +5,7 @@ latitude: 49.1404392
 longitude: 9.216204300000001
 postcode: 74072
 city: Heilbronn
-street: Deutschhofstraße
+street: "Deutschhofstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

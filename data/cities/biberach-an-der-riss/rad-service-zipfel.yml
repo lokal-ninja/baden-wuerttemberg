@@ -5,7 +5,7 @@ latitude: 48.100512900000005
 longitude: 9.788038100000001
 postcode: 88400
 city: Biberach an der Riß
-street: Ehinger-Tor-Straße
+street: "Ehinger-Tor-Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

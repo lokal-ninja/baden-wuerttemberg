@@ -5,7 +5,7 @@ latitude: 48.8952643
 longitude: 9.171588
 postcode: 71636
 city: Ludwigsburg
-street: Wernerstraße
+street: "Wernerstraße"
 housenumber: 80
 phone: ""
 opening_hours: "Tu-Fr 05:30-12:30,14:30-18:00; Sa 05:30-12:00; Su 07:30-10:30"

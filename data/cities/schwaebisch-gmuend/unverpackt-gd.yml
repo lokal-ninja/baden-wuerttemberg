@@ -5,7 +5,7 @@ latitude: 48.80066780000001
 longitude: 9.8001684
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Kalter Markt
+street: "Kalter Markt"
 housenumber: 12
 phone: "+49 7171 8775180"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off"

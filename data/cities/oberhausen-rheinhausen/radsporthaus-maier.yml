@@ -5,7 +5,7 @@ latitude: 49.2691693
 longitude: 8.4735109
 postcode: 68794
 city: Oberhausen-Rheinhausen
-street: Weiherweg
+street: "Weiherweg"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00; Mo-Fr 15:00-18:00; Sa 09:00-12:30; Su,PH off"

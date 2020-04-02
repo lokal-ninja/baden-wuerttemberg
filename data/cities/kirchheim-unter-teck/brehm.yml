@@ -5,7 +5,7 @@ latitude: 48.6415591
 longitude: 9.4695263
 postcode: 73230
 city: Kirchheim unter Teck
-street: Sudetenstraße
+street: "Sudetenstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-14:00"

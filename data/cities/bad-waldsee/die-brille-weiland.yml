@@ -5,7 +5,7 @@ latitude: 47.9207866
 longitude: 9.7543673
 postcode: 88339
 city: Bad Waldsee
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 39
 phone: "+49 7524 915623"
 opening_hours: ""

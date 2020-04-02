@@ -5,7 +5,7 @@ latitude: 49.482496100000006
 longitude: 8.4463915
 postcode: 67069
 city: Ludwigshafen am Rhein
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 78
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.521070800000004
 longitude: 9.053846100000001
 postcode: 72070
 city: Tübingen
-street: Hirschgasse
+street: "Hirschgasse"
 housenumber: 11
 phone: ""
 opening_hours: ""

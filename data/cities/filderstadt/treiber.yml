@@ -5,7 +5,7 @@ latitude: 48.6767229
 longitude: 9.223592400000001
 postcode: 70794
 city: Filderstadt
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 60
 phone: ""
 opening_hours: ""

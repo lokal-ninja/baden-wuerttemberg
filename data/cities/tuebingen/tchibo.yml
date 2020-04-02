@@ -5,7 +5,7 @@ latitude: 48.520487700000004
 longitude: 9.056016300000001
 postcode: 72070
 city: Tübingen
-street: Holzmarkt
+street: "Holzmarkt"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-17:00"

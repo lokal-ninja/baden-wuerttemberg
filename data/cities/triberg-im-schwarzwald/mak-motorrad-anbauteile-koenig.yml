@@ -5,7 +5,7 @@ latitude: 48.131258300000006
 longitude: 8.2566831
 postcode: 78098
 city: Triberg im Schwarzwald
-street: Alte Straße
+street: "Alte Straße"
 housenumber: 5
 phone: "+49 77 22 79 49"
 opening_hours: ""

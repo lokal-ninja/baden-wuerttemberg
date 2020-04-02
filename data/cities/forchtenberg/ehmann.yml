@@ -5,7 +5,7 @@ latitude: 49.2891555
 longitude: 9.5631553
 postcode: 74670
 city: Forchtenberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 06:00-18:00; Su 06:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.7444014
 longitude: 9.2136028
 postcode: 70619
 city: Stuttgart
-street: Kirchheimer Straße
+street: "Kirchheimer Straße"
 housenumber: 67
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

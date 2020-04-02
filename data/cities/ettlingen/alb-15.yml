@@ -5,7 +5,7 @@ latitude: 48.942114800000006
 longitude: 8.4072736
 postcode: 76275
 city: Ettlingen
-street: Albstraße
+street: "Albstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.892843400000004
 longitude: 9.1879585
 postcode: 71638
 city: Ludwigsburg
-street: Alleenstraße
+street: "Alleenstraße"
 housenumber: 10/1
 phone: "+49 7141 9901078"
 opening_hours: ""

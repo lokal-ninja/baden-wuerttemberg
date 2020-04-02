@@ -5,7 +5,7 @@ latitude: 47.781530700000005
 longitude: 9.2317803
 postcode: 88662
 city: Überlingen
-street: Scheinbuch
+street: "Scheinbuch"
 housenumber: 2
 phone: "+49 7553 8052"
 opening_hours: "08:00-18:00"

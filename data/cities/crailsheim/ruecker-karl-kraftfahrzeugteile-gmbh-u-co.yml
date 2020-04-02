@@ -5,7 +5,7 @@ latitude: 49.1422229
 longitude: 10.027455100000001
 postcode: 74564
 city: Crailsheim
-street: Hofwiesenstraße
+street: "Hofwiesenstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00"

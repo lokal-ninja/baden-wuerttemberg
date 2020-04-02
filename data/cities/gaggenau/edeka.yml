@@ -5,7 +5,7 @@ latitude: 48.782200700000004
 longitude: 8.342212
 postcode: 76571
 city: Gaggenau
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

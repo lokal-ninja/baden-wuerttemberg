@@ -5,7 +5,7 @@ latitude: 47.627563800000004
 longitude: 7.6571746
 postcode: 79539
 city: Lörrach
-street: Mühlestraße
+street: "Mühlestraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00, Sa 07:30-13:00"

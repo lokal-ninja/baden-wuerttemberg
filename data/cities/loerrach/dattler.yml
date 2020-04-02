@@ -5,7 +5,7 @@ latitude: 47.6186103
 longitude: 7.667008300000001
 postcode: 
 city: Lörrach
-street: Schwarzwaldstraße
+street: "Schwarzwaldstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

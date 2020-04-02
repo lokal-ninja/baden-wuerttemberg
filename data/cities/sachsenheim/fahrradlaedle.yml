@@ -5,7 +5,7 @@ latitude: 48.9604525
 longitude: 9.0618747
 postcode: 74343
 city: Sachsenheim
-street: Sersheimer Straße
+street: "Sersheimer Straße"
 housenumber: 12
 phone: "+49 7147 274380"
 opening_hours: "Mo 9:00-12:00, 14:00-17:30; Tu 9:00-12:00, 14:00-19:00; We 9:00-12:00, 14:00-17:30; Tu 9:00-12:00, 14:00-19:00; Fr 9:00-12:00, 14:00-17:30; Sa 9:00-13:00"

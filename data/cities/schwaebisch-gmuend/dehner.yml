@@ -5,7 +5,7 @@ latitude: 48.787837100000004
 longitude: 9.744722000000001
 postcode: 73529
 city: Schwäbisch Gmünd
-street: Krähe
+street: "Krähe"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su, PH off"

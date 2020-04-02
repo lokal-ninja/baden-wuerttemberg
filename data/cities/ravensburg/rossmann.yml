@@ -5,7 +5,7 @@ latitude: 47.780586
 longitude: 9.616686300000001
 postcode: 88212
 city: Ravensburg
-street: Gänsbühl
+street: "Gänsbühl"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00; PH off"

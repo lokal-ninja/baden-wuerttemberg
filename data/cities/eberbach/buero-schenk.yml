@@ -5,7 +5,7 @@ latitude: 49.4647152
 longitude: 8.984376600000001
 postcode: 69412
 city: Eberbach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-13:00"

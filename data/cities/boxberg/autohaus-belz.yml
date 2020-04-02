@@ -5,7 +5,7 @@ latitude: 49.513173300000005
 longitude: 9.693200000000001
 postcode: 97944
 city: Boxberg
-street: Unterschüpfer Straße
+street: "Unterschüpfer Straße"
 housenumber: 99
 phone: ""
 opening_hours: ""

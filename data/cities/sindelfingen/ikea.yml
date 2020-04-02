@@ -5,7 +5,7 @@ latitude: 48.702081500000006
 longitude: 9.004846800000001
 postcode: 71063
 city: Sindelfingen
-street: Hanns-Martin-Schleyer-Straße
+street: "Hanns-Martin-Schleyer-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 10:00-21:00; PH off"

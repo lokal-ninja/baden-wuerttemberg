@@ -5,7 +5,7 @@ latitude: 48.0527789
 longitude: 8.517298700000001
 postcode: 78054
 city: Villingen-Schwenningen
-street: Rietenstraße
+street: "Rietenstraße"
 housenumber: 95
 phone: ""
 opening_hours: ""

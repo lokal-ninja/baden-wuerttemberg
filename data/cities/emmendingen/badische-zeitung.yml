@@ -5,7 +5,7 @@ latitude: 48.120277900000005
 longitude: 7.8502768000000005
 postcode: 79312
 city: Emmendingen
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Th 08:30-17:00; Fr 08:30-16:00; Sa 09:00-12:00"

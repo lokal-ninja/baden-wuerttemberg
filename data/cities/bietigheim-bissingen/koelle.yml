@@ -5,7 +5,7 @@ latitude: 48.960130500000005
 longitude: 9.128129900000001
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Fräuleinstraße
+street: "Fräuleinstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

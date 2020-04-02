@@ -5,7 +5,7 @@ latitude: 48.773416000000005
 longitude: 9.1858229
 postcode: 70182
 city: Stuttgart
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 18-20
 phone: ""
 opening_hours: "Mo-Fr 08:00-22:00; Sa 08:00-22:00; PH off"

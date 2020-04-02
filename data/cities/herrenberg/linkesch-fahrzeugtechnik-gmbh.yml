@@ -5,7 +5,7 @@ latitude: 48.589867500000004
 longitude: 8.8638101
 postcode: 71083
 city: Herrenberg
-street: Raistinger Straße
+street: "Raistinger Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

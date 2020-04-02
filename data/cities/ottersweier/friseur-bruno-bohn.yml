@@ -5,7 +5,7 @@ latitude: 48.6688235
 longitude: 8.1115717
 postcode: 77833
 city: Ottersweier
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 54
 phone: ""
 opening_hours: ""

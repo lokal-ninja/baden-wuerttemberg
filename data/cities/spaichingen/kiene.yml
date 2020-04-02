@@ -5,7 +5,7 @@ latitude: 48.0736703
 longitude: 8.7386183
 postcode: 78549
 city: Spaichingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 106
 phone: "+49 7424 905233"
 opening_hours: ""

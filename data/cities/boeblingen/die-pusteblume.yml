@@ -5,7 +5,7 @@ latitude: 48.669456000000004
 longitude: 8.9927235
 postcode: 71034
 city: Böblingen
-street: Maurener Weg
+street: "Maurener Weg"
 housenumber: 130
 phone: ""
 opening_hours: "Nov-Mar: Mo-Fr 09:00-12:30, Nov-Mar: Mo,Tu,Th,Fr 13:30-17:00; Nov-Mar: Sa 09:00-12:30"

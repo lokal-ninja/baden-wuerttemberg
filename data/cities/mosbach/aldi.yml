@@ -5,7 +5,7 @@ latitude: 49.351324700000006
 longitude: 9.140403800000001
 postcode: 74821
 city: Mosbach
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.025443200000005
 longitude: 8.529874900000001
 postcode: 78073
 city: Bad Dürrheim
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 29
 phone: "+497726298"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4270463
 longitude: 8.6484482
 postcode: 69123
 city: Heidelberg
-street: Kreuzstraße
+street: "Kreuzstraße"
 housenumber: 4
 phone: "+49 6221 831104"
 opening_hours: ""

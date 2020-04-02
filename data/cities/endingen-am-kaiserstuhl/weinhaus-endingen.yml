@@ -5,7 +5,7 @@ latitude: 48.1396011
 longitude: 7.6919572
 postcode: 79346
 city: Endingen am Kaiserstuhl
-street: Krummackerstraße
+street: "Krummackerstraße"
 housenumber: 18
 phone: "+49 7642 920986"
 opening_hours: "Fr 09:30-12:30,16:00-18:30; Sa 10:00-13:00"

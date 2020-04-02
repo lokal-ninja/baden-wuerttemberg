@@ -5,7 +5,7 @@ latitude: 48.684995
 longitude: 9.272331600000001
 postcode: 73765
 city: Neuhausen auf den Fildern
-street: Scharnhäuser Straße
+street: "Scharnhäuser Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

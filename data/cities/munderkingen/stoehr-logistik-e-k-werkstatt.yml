@@ -5,7 +5,7 @@ latitude: 48.2267347
 longitude: 9.649000200000001
 postcode: 89597
 city: Munderkingen
-street: Riedstraße
+street: "Riedstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.7243654
 longitude: 9.156086400000001
 postcode: 70567
 city: Stuttgart
-street: Plieninger Straße
+street: "Plieninger Straße"
 housenumber: 61
 phone: "+49 174 5996600"
 opening_hours: ""

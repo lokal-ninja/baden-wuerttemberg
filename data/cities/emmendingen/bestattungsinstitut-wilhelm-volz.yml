@@ -5,7 +5,7 @@ latitude: 48.1215241
 longitude: 7.852927200000001
 postcode: 79312
 city: Emmendingen
-street: Hochburger Straße
+street: "Hochburger Straße"
 housenumber: 15
 phone: "+49 7641 92200"
 opening_hours: ""

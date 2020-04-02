@@ -5,7 +5,7 @@ latitude: 47.902952000000006
 longitude: 9.892158100000001
 postcode: 88410
 city: Bad Wurzach
-street: Niedermühleweg
+street: "Niedermühleweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

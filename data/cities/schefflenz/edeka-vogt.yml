@@ -5,7 +5,7 @@ latitude: 49.406649
 longitude: 9.2773271
 postcode: 74850
 city: Schefflenz
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

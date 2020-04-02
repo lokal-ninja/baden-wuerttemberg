@@ -5,7 +5,7 @@ latitude: 48.7729914
 longitude: 9.1320326
 postcode: 70195
 city: Stuttgart
-street: Lindpaintnerstraße
+street: "Lindpaintnerstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

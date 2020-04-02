@@ -5,7 +5,7 @@ latitude: 49.321831800000005
 longitude: 8.9750241
 postcode: 74921
 city: Helmstadt-Bargen
-street: Bankstraße
+street: "Bankstraße"
 housenumber: 3
 phone: "+49 7263 4282"
 opening_hours: "Mo,Tu,Th,Fr 10:00-12:00,15:00-18:00;We 10:00-12:00;Sa 09:00-13:00;Su,PH off"

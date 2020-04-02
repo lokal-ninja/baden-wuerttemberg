@@ -5,7 +5,7 @@ latitude: 48.7298234
 longitude: 9.249517800000001
 postcode: 73760
 city: Ostfildern
-street: Kronenstraße
+street: "Kronenstraße"
 housenumber: 4
 phone: "+49 711 412787"
 opening_hours: ""

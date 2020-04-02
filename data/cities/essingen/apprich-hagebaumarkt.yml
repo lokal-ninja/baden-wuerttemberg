@@ -5,7 +5,7 @@ latitude: 48.821962600000006
 longitude: 10.027719000000001
 postcode: 73457
 city: Essingen
-street: Sauerbachstraße
+street: "Sauerbachstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

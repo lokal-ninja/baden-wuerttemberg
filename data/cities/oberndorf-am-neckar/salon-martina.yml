@@ -5,7 +5,7 @@ latitude: 48.297985600000004
 longitude: 8.561440900000001
 postcode: 78727
 city: Oberndorf am Neckar
-street: Hohenbergstraße
+street: "Hohenbergstraße"
 housenumber: 66
 phone: ""
 opening_hours: ""

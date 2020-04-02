@@ -5,7 +5,7 @@ latitude: 48.53246600000001
 longitude: 9.2890209
 postcode: 72555
 city: Metzingen
-street: Auchtertstraße
+street: "Auchtertstraße"
 housenumber: 19
 phone: ""
 opening_hours: "24/7"

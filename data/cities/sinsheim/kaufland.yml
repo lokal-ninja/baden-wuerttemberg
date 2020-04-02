@@ -5,7 +5,7 @@ latitude: 49.2496081
 longitude: 8.8660145
 postcode: 74889
 city: Sinsheim
-street: Martin-Luther-Straße
+street: "Martin-Luther-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

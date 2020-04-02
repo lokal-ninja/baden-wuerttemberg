@@ -5,7 +5,7 @@ latitude: 47.7520443
 longitude: 8.8493917
 postcode: 78224
 city: Singen
-street: Bohlinger Straße
+street: "Bohlinger Straße"
 housenumber: 25
 phone: "+49 7731 63937"
 opening_hours: ""

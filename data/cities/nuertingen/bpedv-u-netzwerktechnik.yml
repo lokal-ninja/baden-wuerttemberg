@@ -5,7 +5,7 @@ latitude: 48.6459157
 longitude: 9.3298679
 postcode: 72622
 city: Nürtingen
-street: Ohmstraße
+street: "Ohmstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

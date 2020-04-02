@@ -5,7 +5,7 @@ latitude: 49.1710344
 longitude: 9.264738900000001
 postcode: 74235
 city: Erlenbach
-street: Talstraße
+street: "Talstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

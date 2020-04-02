@@ -5,7 +5,7 @@ latitude: 48.754923100000006
 longitude: 10.325601800000001
 postcode: 73450
 city: Neresheim
-street: Heidenheimer Straße
+street: "Heidenheimer Straße"
 housenumber: 33
 phone: ""
 opening_hours: ""

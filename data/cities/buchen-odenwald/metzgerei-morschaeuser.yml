@@ -5,7 +5,7 @@ latitude: 49.5218964
 longitude: 9.3244158
 postcode: 74722
 city: Buchen (Odenwald)
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 22
 phone: "+49 6281 2354"
 opening_hours: ""

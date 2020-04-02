@@ -5,7 +5,7 @@ latitude: 48.0596517
 longitude: 8.4584518
 postcode: 78050
 city: Villingen-Schwenningen
-street: Rietstraße
+street: "Rietstraße"
 housenumber: 15
 phone: "+49 800 6655900"
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-19:00; PH off"

@@ -5,7 +5,7 @@ latitude: 47.920448900000004
 longitude: 9.7544708
 postcode: 88339
 city: Bad Waldsee
-street: Ravensburger Straße
+street: "Ravensburger Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:15; Sa 06:00-13:00"

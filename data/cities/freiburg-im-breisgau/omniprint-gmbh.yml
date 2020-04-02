@@ -5,7 +5,7 @@ latitude: 47.9968816
 longitude: 7.8437609
 postcode: 79098
 city: Freiburg im Breisgau
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 64
 phone: "+49 761 72407"
 opening_hours: "Mo-Fr 08:00-18:00"

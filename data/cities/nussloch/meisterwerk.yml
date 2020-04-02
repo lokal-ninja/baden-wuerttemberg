@@ -5,7 +5,7 @@ latitude: 49.3236342
 longitude: 8.6950961
 postcode: 69226
 city: Nußloch
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 2
 phone: "+49 6224 72334"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.7639329
 longitude: 9.816704900000001
 postcode: 73550
 city: Waldstetten
-street: Rechbachweg
+street: "Rechbachweg"
 housenumber: 19
 phone: ""
 opening_hours: ""

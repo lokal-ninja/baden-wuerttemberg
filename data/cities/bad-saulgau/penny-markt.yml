@@ -5,7 +5,7 @@ latitude: 48.0215594
 longitude: 9.495545400000001
 postcode: 88348
 city: Bad Saulgau
-street: Moosheimer Straße
+street: "Moosheimer Straße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

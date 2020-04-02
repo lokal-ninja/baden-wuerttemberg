@@ -5,7 +5,7 @@ latitude: 48.958134300000005
 longitude: 9.427228600000001
 postcode: 71522
 city: Backnang
-street: Dresdener Ring
+street: "Dresdener Ring"
 housenumber: 23
 phone: "+4915204483172"
 opening_hours: ""

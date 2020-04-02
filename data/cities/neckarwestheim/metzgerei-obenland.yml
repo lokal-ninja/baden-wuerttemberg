@@ -5,7 +5,7 @@ latitude: 49.046280700000004
 longitude: 9.1915233
 postcode: 74382
 city: Neckarwestheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 49
 phone: ""
 opening_hours: ""

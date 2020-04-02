@@ -5,7 +5,7 @@ latitude: 48.3674461
 longitude: 7.8936102
 postcode: 77948
 city: Friesenheim
-street: Allmendstraße
+street: "Allmendstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

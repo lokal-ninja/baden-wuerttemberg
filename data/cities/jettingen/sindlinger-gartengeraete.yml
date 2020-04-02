@@ -5,7 +5,7 @@ latitude: 48.5641157
 longitude: 8.7746473
 postcode: 71131
 city: Jettingen
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

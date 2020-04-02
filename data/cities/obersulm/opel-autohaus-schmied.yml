@@ -5,7 +5,7 @@ latitude: 49.1331305
 longitude: 9.359825200000001
 postcode: 74182
 city: Obersulm
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

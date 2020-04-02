@@ -5,7 +5,7 @@ latitude: 47.8677987
 longitude: 9.425372300000001
 postcode: 88271
 city: Wilhelmsdorf
-street: Saalplatz
+street: "Saalplatz"
 housenumber: 10
 phone: "+49 7503 8479914"
 opening_hours: "Mo,Tu,Th,Fr 09:00-18:30; We,Sa 09:00-13:00; PH off"

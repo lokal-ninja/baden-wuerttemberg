@@ -5,7 +5,7 @@ latitude: 49.380447200000006
 longitude: 8.5731991
 postcode: 68723
 city: Schwetzingen
-street: Kolpingstraße
+street: "Kolpingstraße"
 housenumber: 4
 phone: "+49 6202 924 663"
 opening_hours: ""

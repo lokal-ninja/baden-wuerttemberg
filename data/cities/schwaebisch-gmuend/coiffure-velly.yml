@@ -5,7 +5,7 @@ latitude: 48.78558
 longitude: 9.798614
 postcode: 73529
 city: Schwäbisch Gmünd
-street: Einhornstraße
+street: "Einhornstraße"
 housenumber: 114
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-16:00"

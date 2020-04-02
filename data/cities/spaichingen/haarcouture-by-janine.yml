@@ -5,7 +5,7 @@ latitude: 48.073177400000006
 longitude: 8.735140300000001
 postcode: 78549
 city: Spaichingen
-street: Martin-Luther-Straße
+street: "Martin-Luther-Straße"
 housenumber: 3
 phone: "+4974249809424"
 opening_hours: ""

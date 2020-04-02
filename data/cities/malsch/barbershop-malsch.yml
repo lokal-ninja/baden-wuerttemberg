@@ -5,7 +5,7 @@ latitude: 48.883150300000004
 longitude: 8.3338204
 postcode: 76316
 city: Malsch
-street: Adlerstraße
+street: "Adlerstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Su 09:00-19:00"

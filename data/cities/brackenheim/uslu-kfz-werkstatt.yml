@@ -5,7 +5,7 @@ latitude: 49.0674963
 longitude: 9.062727500000001
 postcode: 74336
 city: Brackenheim
-street: Mühlweg
+street: "Mühlweg"
 housenumber: 2a
 phone: "+49 7135 3038919"
 opening_hours: ""

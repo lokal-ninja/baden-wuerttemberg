@@ -5,7 +5,7 @@ latitude: 47.6216142
 longitude: 7.654910600000001
 postcode: 79539
 city: Lörrach
-street: Wiesentalstraße
+street: "Wiesentalstraße"
 housenumber: 74
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"

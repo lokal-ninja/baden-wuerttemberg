@@ -5,7 +5,7 @@ latitude: 48.0534831
 longitude: 8.4556011
 postcode: 78050
 city: Villingen-Schwenningen
-street: Herdstraße
+street: "Herdstraße"
 housenumber: 9
 phone: "+49 7721 2061366"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

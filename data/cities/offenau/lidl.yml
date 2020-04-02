@@ -5,7 +5,7 @@ latitude: 49.2390028
 longitude: 9.1683137
 postcode: 74254
 city: Offenau
-street: Talweg
+street: "Talweg"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

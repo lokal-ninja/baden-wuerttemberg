@@ -5,7 +5,7 @@ latitude: 48.999992400000004
 longitude: 9.1416065
 postcode: 74354
 city: Besigheim
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 8:00-12:30, 14:00-18:30; Sa 8:00-13:00"

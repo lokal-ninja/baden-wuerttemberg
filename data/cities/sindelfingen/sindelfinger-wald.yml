@@ -5,7 +5,7 @@ latitude: 48.7425561
 longitude: 9.0341923
 postcode: 71069
 city: Sindelfingen
-street: Autobahn A 8/A81
+street: "Autobahn A 8/A81"
 housenumber: 
 phone: "+49 7031 70810"
 opening_hours: "24/7"

@@ -5,7 +5,7 @@ latitude: 47.9120579
 longitude: 8.9357969
 postcode: 78253
 city: Eigeltingen
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 2
 phone: "+49 7465 587"
 opening_hours: ""

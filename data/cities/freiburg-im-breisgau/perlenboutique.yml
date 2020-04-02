@@ -5,7 +5,7 @@ latitude: 48.046826800000005
 longitude: 7.802334800000001
 postcode: 79108
 city: Freiburg im Breisgau
-street: Fuhrmannsgasse
+street: "Fuhrmannsgasse"
 housenumber: 2
 phone: ""
 opening_hours: "Tu-Fr 10:00-13:00,15:00-18:30; Sa 10:00-13:00"

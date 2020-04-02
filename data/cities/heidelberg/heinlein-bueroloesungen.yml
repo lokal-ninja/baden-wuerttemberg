@@ -5,7 +5,7 @@ latitude: 49.4074924
 longitude: 8.6467802
 postcode: 69123
 city: Heidelberg
-street: Hans-Bunte-Straße
+street: "Hans-Bunte-Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

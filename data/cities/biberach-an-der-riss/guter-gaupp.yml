@@ -5,7 +5,7 @@ latitude: 48.0904454
 longitude: 9.776903500000001
 postcode: 88400
 city: Biberach an der Riß
-street: Wolfentalstraße
+street: "Wolfentalstraße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

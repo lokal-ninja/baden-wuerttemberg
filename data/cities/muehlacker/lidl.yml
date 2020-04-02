@@ -5,7 +5,7 @@ latitude: 48.953257900000004
 longitude: 8.850282100000001
 postcode: 75417
 city: Mühlacker
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 48.84678460000001
 longitude: 8.5570951
 postcode: 75334
 city: Straubenhardt
-street: Lerchenstraße
+street: "Lerchenstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

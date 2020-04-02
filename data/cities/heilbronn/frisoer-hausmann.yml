@@ -5,7 +5,7 @@ latitude: 49.1409916
 longitude: 9.2086517
 postcode: 74072
 city: Heilbronn
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 45
 phone: ""
 opening_hours: ""

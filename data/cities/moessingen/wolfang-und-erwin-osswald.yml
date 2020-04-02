@@ -5,7 +5,7 @@ latitude: 48.394715700000006
 longitude: 9.0420236
 postcode: 72116
 city: Mössingen
-street: Barbelsenstraße
+street: "Barbelsenstraße"
 housenumber: 60
 phone: "+49 7473 8605"
 opening_hours: "Mo,We 08:00-12:30; Tu,Th,Fr 14:30-18:30; Sa 08:30-13:00"

@@ -5,7 +5,7 @@ latitude: 48.6028536
 longitude: 9.0959868
 postcode: 72135
 city: Dettenhausen
-street: Tübinger Straße
+street: "Tübinger Straße"
 housenumber: 50
 phone: "+49 7157 520406"
 opening_hours: "Mo-Sa 07:00-21:00; Su off"

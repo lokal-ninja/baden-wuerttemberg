@@ -5,7 +5,7 @@ latitude: 48.8317406
 longitude: 9.1672296
 postcode: 
 city: Stuttgart
-street: Burgunderstraße
+street: "Burgunderstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

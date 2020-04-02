@@ -5,7 +5,7 @@ latitude: 48.9238432
 longitude: 8.474833
 postcode: 76337
 city: Waldbronn
-street: Pforzheimer Straße
+street: "Pforzheimer Straße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:00-12:30"

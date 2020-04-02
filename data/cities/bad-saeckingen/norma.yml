@@ -5,7 +5,7 @@ latitude: 47.560833800000005
 longitude: 7.9601505
 postcode: 79713
 city: Bad Säckingen
-street: Im Häflä
+street: "Im Häflä"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

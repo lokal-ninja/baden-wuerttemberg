@@ -5,7 +5,7 @@ latitude: 48.4646532
 longitude: 8.418384900000001
 postcode: 72250
 city: Freudenstadt
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 46
 phone: "+498002222222"
 opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-18:00"

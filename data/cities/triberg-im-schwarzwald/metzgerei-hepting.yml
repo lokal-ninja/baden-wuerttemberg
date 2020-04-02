@@ -5,7 +5,7 @@ latitude: 48.132803700000004
 longitude: 8.2337301
 postcode: 78098
 city: Triberg im Schwarzwald
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

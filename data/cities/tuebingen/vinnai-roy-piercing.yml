@@ -5,7 +5,7 @@ latitude: 48.5223761
 longitude: 9.052195000000001
 postcode: 72070
 city: Tübingen
-street: Schmiedtorstraße
+street: "Schmiedtorstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 11:00-19:00 Sa 10:00-15:00"

@@ -5,7 +5,7 @@ latitude: 48.562567200000004
 longitude: 9.462175100000001
 postcode: 73252
 city: Lenningen
-street: Kirchheimer Straße
+street: "Kirchheimer Straße"
 housenumber: 78
 phone: ""
 opening_hours: ""

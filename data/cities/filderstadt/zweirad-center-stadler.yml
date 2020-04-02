@@ -5,7 +5,7 @@ latitude: 48.6565929
 longitude: 9.225255
 postcode: 70794
 city: Filderstadt
-street: Fabrikstraße
+street: "Fabrikstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00"

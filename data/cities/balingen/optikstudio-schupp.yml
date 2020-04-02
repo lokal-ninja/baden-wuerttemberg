@@ -5,7 +5,7 @@ latitude: 48.2745437
 longitude: 8.851531300000001
 postcode: 72336
 city: Balingen
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

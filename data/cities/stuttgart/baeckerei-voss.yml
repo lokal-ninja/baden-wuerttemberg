@@ -5,7 +5,7 @@ latitude: 48.7822832
 longitude: 9.224025600000001
 postcode: 70188
 city: Stuttgart
-street: Franz-Wachter-Straße
+street: "Franz-Wachter-Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-13:00"

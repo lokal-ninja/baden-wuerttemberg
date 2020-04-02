@@ -5,7 +5,7 @@ latitude: 48.648694500000005
 longitude: 9.369206400000001
 postcode: 72644
 city: Oberboihingen
-street: Kochstraße
+street: "Kochstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

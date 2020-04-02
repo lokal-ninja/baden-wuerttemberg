@@ -5,7 +5,7 @@ latitude: 49.377331600000005
 longitude: 8.6645506
 postcode: 69124
 city: Heidelberg
-street: Heuauer Weg
+street: "Heuauer Weg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

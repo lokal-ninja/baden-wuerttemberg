@@ -5,7 +5,7 @@ latitude: 48.7283096
 longitude: 8.094486100000001
 postcode: 77815
 city: Bühl
-street: Altgaß
+street: "Altgaß"
 housenumber: 9
 phone: "+49 7223 8088670"
 opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"

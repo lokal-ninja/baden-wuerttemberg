@@ -5,7 +5,7 @@ latitude: 48.900578800000005
 longitude: 9.4166167
 postcode: 71397
 city: Leutenbach
-street: Maybachstraße
+street: "Maybachstraße"
 housenumber: 9
 phone: "+49 7195 583540"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"

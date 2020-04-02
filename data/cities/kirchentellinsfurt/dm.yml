@@ -5,7 +5,7 @@ latitude: 48.527558500000005
 longitude: 9.1416962
 postcode: 72138
 city: Kirchentellinsfurt
-street: Wannweiler Straße
+street: "Wannweiler Straße"
 housenumber: 48
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-18:00; PH off"

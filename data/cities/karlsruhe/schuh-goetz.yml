@@ -5,7 +5,7 @@ latitude: 49.0055126
 longitude: 8.496015100000001
 postcode: 76229
 city: Karlsruhe
-street: Martin-Luther-Straße
+street: "Martin-Luther-Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

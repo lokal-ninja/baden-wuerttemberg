@@ -5,7 +5,7 @@ latitude: 48.836094800000005
 longitude: 8.839169100000001
 postcode: 71292
 city: Friolzheim
-street: Leonberger Straße
+street: "Leonberger Straße"
 housenumber: 45
 phone: "+49 7044 915293"
 opening_hours: ""

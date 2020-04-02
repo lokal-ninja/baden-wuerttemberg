@@ -5,7 +5,7 @@ latitude: 48.711728900000004
 longitude: 9.3071824
 postcode: 73760
 city: Ostfildern
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

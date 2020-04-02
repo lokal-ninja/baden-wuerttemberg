@@ -5,7 +5,7 @@ latitude: 48.399402300000006
 longitude: 10.000738400000001
 postcode: 89073
 city: Ulm
-street: Zeughausgasse
+street: "Zeughausgasse"
 housenumber: 6
 phone: "+49 731 71885453"
 opening_hours: ""

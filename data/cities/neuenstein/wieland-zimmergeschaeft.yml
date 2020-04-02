@@ -5,7 +5,7 @@ latitude: 49.204943400000005
 longitude: 9.5842889
 postcode: 74632
 city: Neuenstein
-street: Schraderstraße
+street: "Schraderstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

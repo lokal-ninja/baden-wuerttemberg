@@ -5,7 +5,7 @@ latitude: 47.637327400000004
 longitude: 7.5911292
 postcode: 79591
 city: Eimeldingen
-street: Reutackerstraße
+street: "Reutackerstraße"
 housenumber: 6
 phone: "+49 7621 64650"
 opening_hours: "Mo,Tu 08:30-12:30,14:00-19:00; Th,Fr 08:30-12:30,14:00-19:00; Sa 09:00-16:00; We,Su,PH off"

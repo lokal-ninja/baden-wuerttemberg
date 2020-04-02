@@ -5,7 +5,7 @@ latitude: 48.7170556
 longitude: 9.5369081
 postcode: 73061
 city: Ebersbach an der Fils
-street: Fabrikstraße
+street: "Fabrikstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

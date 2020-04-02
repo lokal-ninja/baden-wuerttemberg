@@ -5,7 +5,7 @@ latitude: 48.4759765
 longitude: 8.9383128
 postcode: 72108
 city: Rottenburg am Neckar
-street: Schuhstraße
+street: "Schuhstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

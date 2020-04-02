@@ -5,7 +5,7 @@ latitude: 48.93807
 longitude: 8.4088677
 postcode: 76275
 city: Ettlingen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 4c
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"

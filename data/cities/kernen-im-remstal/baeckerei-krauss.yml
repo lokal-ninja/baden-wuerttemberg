@@ -5,7 +5,7 @@ latitude: 48.805079400000004
 longitude: 9.322866000000001
 postcode: 71394
 city: Kernen im Remstal
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

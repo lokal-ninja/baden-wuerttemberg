@@ -5,7 +5,7 @@ latitude: 49.4109107
 longitude: 8.705770600000001
 postcode: 69117
 city: Heidelberg
-street: Grabengasse
+street: "Grabengasse"
 housenumber: 12
 phone: ""
 opening_hours: ""

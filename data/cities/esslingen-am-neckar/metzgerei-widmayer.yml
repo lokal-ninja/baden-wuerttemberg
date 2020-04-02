@@ -5,7 +5,7 @@ latitude: 48.751513300000006
 longitude: 9.3143966
 postcode: 73732
 city: Esslingen am Neckar
-street: Wäldenbronner Straße
+street: "Wäldenbronner Straße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 07:00-13:00"

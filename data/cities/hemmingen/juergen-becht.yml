@@ -5,7 +5,7 @@ latitude: 48.8618858
 longitude: 9.039276300000001
 postcode: 71282
 city: Hemmingen
-street: Saarstraße
+street: "Saarstraße"
 housenumber: 36
 phone: "+49 7150 81779"
 opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-16:00"

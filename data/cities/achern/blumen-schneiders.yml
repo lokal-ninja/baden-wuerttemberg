@@ -5,7 +5,7 @@ latitude: 48.631725100000004
 longitude: 8.0751021
 postcode: 77855
 city: Achern
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

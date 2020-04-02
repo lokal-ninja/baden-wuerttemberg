@@ -5,7 +5,7 @@ latitude: 48.9438271
 longitude: 9.341973600000001
 postcode: 71737
 city: Kirchberg an der Murr
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

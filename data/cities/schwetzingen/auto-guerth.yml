@@ -5,7 +5,7 @@ latitude: 49.3750663
 longitude: 8.5863716
 postcode: 68723
 city: Schwetzingen
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 24-26
 phone: ""
 opening_hours: ""

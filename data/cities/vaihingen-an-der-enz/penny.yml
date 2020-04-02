@@ -5,7 +5,7 @@ latitude: 48.9776321
 longitude: 8.9839977
 postcode: 71665
 city: Vaihingen an der Enz
-street: Pforzheimer Straße
+street: "Pforzheimer Straße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

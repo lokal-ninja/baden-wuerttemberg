@@ -5,7 +5,7 @@ latitude: 48.8023028
 longitude: 9.219048
 postcode: 70372
 city: Stuttgart
-street: Seelbergstraße
+street: "Seelbergstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00"

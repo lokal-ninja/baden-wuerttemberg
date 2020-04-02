@@ -5,7 +5,7 @@ latitude: 47.911432700000006
 longitude: 9.890336000000001
 postcode: 
 city: Bad Wurzach
-street: Oberriedstraße
+street: "Oberriedstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

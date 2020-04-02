@@ -5,7 +5,7 @@ latitude: 47.9876568
 longitude: 7.8737471
 postcode: 79117
 city: Freiburg im Breisgau
-street: Schwarzwaldstraße
+street: "Schwarzwaldstraße"
 housenumber: 80a
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:30; Sa,Su,PH 10:00-17:00"

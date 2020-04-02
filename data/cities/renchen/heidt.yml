@@ -5,7 +5,7 @@ latitude: 48.586198
 longitude: 8.0106657
 postcode: 77871
 city: Renchen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 60
 phone: ""
 opening_hours: ""

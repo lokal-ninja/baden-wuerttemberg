@@ -5,7 +5,7 @@ latitude: 49.5454188
 longitude: 8.648821700000001
 postcode: 69469
 city: Weinheim
-street: Ahornstraße
+street: "Ahornstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 09:30-13:00, Mo,Tu,Th,Fr 14:30-18:30"

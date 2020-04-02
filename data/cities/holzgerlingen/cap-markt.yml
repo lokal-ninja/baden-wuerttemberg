@@ -5,7 +5,7 @@ latitude: 48.641275
 longitude: 9.0122636
 postcode: 71088
 city: Holzgerlingen
-street: Eberhardstraße
+street: "Eberhardstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00"

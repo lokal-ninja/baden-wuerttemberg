@@ -5,7 +5,7 @@ latitude: 48.8725351
 longitude: 9.9160813
 postcode: 73579
 city: Schechingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

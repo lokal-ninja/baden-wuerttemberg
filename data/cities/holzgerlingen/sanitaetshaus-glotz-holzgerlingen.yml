@@ -5,7 +5,7 @@ latitude: 48.6396871
 longitude: 9.0119886
 postcode: 71088
 city: Holzgerlingen
-street: Böblinger Straße
+street: "Böblinger Straße"
 housenumber: 8
 phone: "+49 7031 7631523"
 opening_hours: ""

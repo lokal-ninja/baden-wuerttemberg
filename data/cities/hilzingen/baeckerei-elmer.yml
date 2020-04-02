@@ -5,7 +5,7 @@ latitude: 47.764534600000005
 longitude: 8.7799222
 postcode: 78247
 city: Hilzingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 52
 phone: "+49 7731 62192"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 07:30-10:30"

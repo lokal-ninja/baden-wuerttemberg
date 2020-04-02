@@ -5,7 +5,7 @@ latitude: 48.5157011
 longitude: 9.0650034
 postcode: 72072
 city: Tübingen
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 7
 phone: "+49 7071  6391855"
 opening_hours: "Tu-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-15:00; Mo, Su, PH off"

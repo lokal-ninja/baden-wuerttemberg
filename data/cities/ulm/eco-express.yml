@@ -5,7 +5,7 @@ latitude: 48.389822
 longitude: 9.9774481
 postcode: 89077
 city: Ulm
-street: Haßlerstraße
+street: "Haßlerstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 06:00-23:00"

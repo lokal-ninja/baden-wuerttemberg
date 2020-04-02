@@ -5,7 +5,7 @@ latitude: 48.7684901
 longitude: 8.184532800000001
 postcode: 76547
 city: Sinzheim
-street: Frohnhofweg
+street: "Frohnhofweg"
 housenumber: 8
 phone: "+49 7221 83078"
 opening_hours: "Fr 16:00-19:00; Sa 07:00-12:00"

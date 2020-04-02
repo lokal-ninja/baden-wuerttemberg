@@ -5,7 +5,7 @@ latitude: 48.929991300000005
 longitude: 8.9591916
 postcode: 71665
 city: Vaihingen an der Enz
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 46
 phone: "+49 7042 941885"
 opening_hours: ""

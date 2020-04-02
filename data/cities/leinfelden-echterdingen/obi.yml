@@ -5,7 +5,7 @@ latitude: 48.6972308
 longitude: 9.160761500000001
 postcode: 70771
 city: Leinfelden-Echterdingen
-street: Nikolaus-Otto-Straße
+street: "Nikolaus-Otto-Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 47.6502117
 longitude: 9.4810107
 postcode: 88045
 city: Friedrichshafen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH off"

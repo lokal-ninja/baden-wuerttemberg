@@ -5,7 +5,7 @@ latitude: 48.7368839
 longitude: 8.7809594
 postcode: 75382
 city: Althengstett
-street: Waldenserstraße
+street: "Waldenserstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Tu 06:30-12:30,15:00-18:00; We 06:30-12:30; Th-Fr 06:30-12:30,15:00-18:00; Sa 06:30-12:00; Su 08:00-11:00"

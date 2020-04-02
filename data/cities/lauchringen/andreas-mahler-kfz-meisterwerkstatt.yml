@@ -5,7 +5,7 @@ latitude: 47.6328539
 longitude: 8.3188104
 postcode: 79787
 city: Lauchringen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 21
 phone: "+49 7741 672493"
 opening_hours: ""

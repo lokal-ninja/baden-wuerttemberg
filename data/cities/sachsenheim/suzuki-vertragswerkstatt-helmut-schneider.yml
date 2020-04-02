@@ -5,7 +5,7 @@ latitude: 48.9570583
 longitude: 9.087453100000001
 postcode: 74343
 city: Sachsenheim
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 31
 phone: "+497147 4167"
 opening_hours: ""

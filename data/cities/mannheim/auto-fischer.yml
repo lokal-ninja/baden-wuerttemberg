@@ -5,7 +5,7 @@ latitude: 49.463239400000006
 longitude: 8.495704700000001
 postcode: 68199
 city: Mannheim
-street: Voltastraße
+street: "Voltastraße"
 housenumber: 34
 phone: ""
 opening_hours: ""

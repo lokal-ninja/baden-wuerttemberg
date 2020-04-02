@@ -5,7 +5,7 @@ latitude: 48.7715613
 longitude: 9.157951800000001
 postcode: 70176
 city: Stuttgart
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 65
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00;Sa 08:30-16:00"

@@ -5,7 +5,7 @@ latitude: 47.655588300000005
 longitude: 9.4986142
 postcode: 88046
 city: Friedrichshafen
-street: Steinbeisstraße
+street: "Steinbeisstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 09:00-12:00"

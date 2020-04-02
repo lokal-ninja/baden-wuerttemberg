@@ -5,7 +5,7 @@ latitude: 48.4179886
 longitude: 9.449310200000001
 postcode: 72525
 city: Münsingen
-street: Braike
+street: "Braike"
 housenumber: 3
 phone: "+49 7381 9386773"
 opening_hours: "24/7"

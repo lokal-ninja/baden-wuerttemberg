@@ -5,7 +5,7 @@ latitude: 48.6396062
 longitude: 8.912292800000001
 postcode: 71116
 city: Gärtringen
-street: Erich-Kiefer-Straße
+street: "Erich-Kiefer-Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-14:00"

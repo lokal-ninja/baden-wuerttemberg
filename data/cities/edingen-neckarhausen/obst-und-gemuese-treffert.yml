@@ -5,7 +5,7 @@ latitude: 49.4658279
 longitude: 8.601390700000001
 postcode: 68535
 city: Edingen-Neckarhausen
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

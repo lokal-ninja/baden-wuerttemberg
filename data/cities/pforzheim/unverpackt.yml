@@ -5,7 +5,7 @@ latitude: 48.889556500000005
 longitude: 8.6969686
 postcode: 75173
 city: Pforzheim
-street: Jörg-Ratgeb-Straße
+street: "Jörg-Ratgeb-Straße"
 housenumber: 23
 phone: "+49 7231 1675461"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 08:00-14:00; PH closed"

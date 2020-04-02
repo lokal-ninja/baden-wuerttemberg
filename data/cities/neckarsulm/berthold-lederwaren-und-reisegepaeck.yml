@@ -5,7 +5,7 @@ latitude: 49.1920902
 longitude: 9.2245942
 postcode: 74172
 city: Neckarsulm
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

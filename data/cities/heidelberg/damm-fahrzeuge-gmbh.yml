@@ -5,7 +5,7 @@ latitude: 49.426774300000005
 longitude: 8.647198900000001
 postcode: 69123
 city: Heidelberg
-street: Mannheimer Straße
+street: "Mannheimer Straße"
 housenumber: 256
 phone: "+49 6221 831708"
 opening_hours: ""

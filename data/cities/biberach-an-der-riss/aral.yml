@@ -5,7 +5,7 @@ latitude: 48.096951100000005
 longitude: 9.7917732
 postcode: 
 city: Biberach an der Riß
-street: Rollinstraße
+street: "Rollinstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

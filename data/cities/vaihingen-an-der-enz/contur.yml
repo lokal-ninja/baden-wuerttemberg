@@ -5,7 +5,7 @@ latitude: 48.9311444
 longitude: 8.957463500000001
 postcode: 71665
 city: Vaihingen an der Enz
-street: Auricher Straße
+street: "Auricher Straße"
 housenumber: 6
 phone: "+49 7042 15617"
 opening_hours: "Mo 12:00-18:00; Tu,Th 08:00-21:00; We,Fr 08:00-18:00; Sa 07:30-13:00"

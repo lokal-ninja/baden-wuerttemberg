@@ -5,7 +5,7 @@ latitude: 49.0621815
 longitude: 8.8015373
 postcode: 75038
 city: Oberderdingen
-street: Brettener Straße
+street: "Brettener Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo,We-Fr 07:30-12:30,14:30-18:00; Tu 07:30-12:30; Sa 07:00-12:30"

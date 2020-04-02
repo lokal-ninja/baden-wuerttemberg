@@ -5,7 +5,7 @@ latitude: 49.410257200000004
 longitude: 8.699758000000001
 postcode: 69117
 city: Heidelberg
-street: Märzgasse
+street: "Märzgasse"
 housenumber: 6
 phone: ""
 opening_hours: ""

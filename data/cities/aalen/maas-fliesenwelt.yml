@@ -5,7 +5,7 @@ latitude: 48.8225667
 longitude: 10.0601534
 postcode: 73431
 city: Aalen
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 90
 phone: ""
 opening_hours: ""

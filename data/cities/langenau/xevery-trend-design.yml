@@ -5,7 +5,7 @@ latitude: 48.499769
 longitude: 10.131949800000001
 postcode: 89129
 city: Langenau
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

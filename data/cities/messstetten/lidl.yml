@@ -5,7 +5,7 @@ latitude: 48.178437300000006
 longitude: 8.955996500000001
 postcode: 72469
 city: Meßstetten
-street: Im Grund
+street: "Im Grund"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

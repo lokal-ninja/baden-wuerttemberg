@@ -5,7 +5,7 @@ latitude: 49.0275456
 longitude: 9.153836100000001
 postcode: 74376
 city: Gemmrigheim
-street: Papierfabrikweg
+street: "Papierfabrikweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

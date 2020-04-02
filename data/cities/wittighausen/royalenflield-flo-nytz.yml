@@ -5,7 +5,7 @@ latitude: 49.589702100000004
 longitude: 9.8242001
 postcode: 97957
 city: Wittighausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

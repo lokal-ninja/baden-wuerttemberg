@@ -5,7 +5,7 @@ latitude: 47.654839800000005
 longitude: 9.481010900000001
 postcode: 88045
 city: Friedrichshafen
-street: Charlottenstraße
+street: "Charlottenstraße"
 housenumber: 56
 phone: "+49754124204"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30; Su,PH off"

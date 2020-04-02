@@ -5,7 +5,7 @@ latitude: 49.5489863
 longitude: 8.671946
 postcode: 69469
 city: Weinheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 90
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"

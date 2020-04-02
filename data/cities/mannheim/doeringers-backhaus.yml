@@ -5,7 +5,7 @@ latitude: 49.530616200000004
 longitude: 8.4995475
 postcode: 68305
 city: Mannheim
-street: Staudenweg
+street: "Staudenweg"
 housenumber: 5
 phone: "+49 621 7624048"
 opening_hours: ""

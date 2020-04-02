@@ -5,7 +5,7 @@ latitude: 48.1199893
 longitude: 7.7406250000000005
 postcode: 79353
 city: Bahlingen am Kaiserstuhl
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

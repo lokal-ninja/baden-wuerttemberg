@@ -5,7 +5,7 @@ latitude: 48.8582723
 longitude: 8.200494800000001
 postcode: 76437
 city: Rastatt
-street: Lyzeumstraße
+street: "Lyzeumstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-13:00"

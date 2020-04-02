@@ -5,7 +5,7 @@ latitude: 48.809804400000004
 longitude: 9.276211100000001
 postcode: 70734
 city: Fellbach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

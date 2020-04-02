@@ -5,7 +5,7 @@ latitude: 48.7360484
 longitude: 9.1666258
 postcode: 70597
 city: Stuttgart
-street: Tränkestraße
+street: "Tränkestraße"
 housenumber: 18
 phone: "+49 711 2590 0"
 opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-13:00"

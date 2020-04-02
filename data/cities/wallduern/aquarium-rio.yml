@@ -5,7 +5,7 @@ latitude: 49.58425870000001
 longitude: 9.367776600000001
 postcode: 74731
 city: Walldürn
-street: Rathausgasse
+street: "Rathausgasse"
 housenumber: 36
 phone: ""
 opening_hours: ""

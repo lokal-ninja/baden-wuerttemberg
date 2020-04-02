@@ -5,7 +5,7 @@ latitude: 47.9612089
 longitude: 8.5046122
 postcode: 78166
 city: Donaueschingen
-street: Dürrheimer Straße
+street: "Dürrheimer Straße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

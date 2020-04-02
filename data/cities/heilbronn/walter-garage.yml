@@ -5,7 +5,7 @@ latitude: 49.148693800000004
 longitude: 9.1983911
 postcode: 74080
 city: Heilbronn
-street: August-Häußer-Straße
+street: "August-Häußer-Straße"
 housenumber: 7
 phone: "+49 7131 2781622"
 opening_hours: ""

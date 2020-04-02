@@ -5,7 +5,7 @@ latitude: 48.2478673
 longitude: 8.494675500000001
 postcode: 78655
 city: Dunningen
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.799481300000004
 longitude: 9.973397100000001
 postcode: 73540
 city: Heubach
-street: Rosensteinstraße
+street: "Rosensteinstraße"
 housenumber: 76
 phone: ""
 opening_hours: ""

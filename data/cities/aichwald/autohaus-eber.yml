@@ -5,7 +5,7 @@ latitude: 48.7464007
 longitude: 9.3863018
 postcode: 73773
 city: Aichwald
-street: Himbeerweg
+street: "Himbeerweg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Th 07:00-18:30; Fr 07:00-17:30; Sa 08:30-13:00; Su, PH off"

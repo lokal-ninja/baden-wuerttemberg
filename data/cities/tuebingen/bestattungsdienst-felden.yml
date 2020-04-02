@@ -5,7 +5,7 @@ latitude: 48.511160000000004
 longitude: 9.0738283
 postcode: 72072
 city: Tübingen
-street: Aixer Straße
+street: "Aixer Straße"
 housenumber: 12
 phone: "+49 7071 856721"
 opening_hours: "Nach Vereinbarung"

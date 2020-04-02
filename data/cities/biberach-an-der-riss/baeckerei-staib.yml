@@ -5,7 +5,7 @@ latitude: 48.097151100000005
 longitude: 9.786812300000001
 postcode: 88400
 city: Biberach an der Riß
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Su 06:00-20:00"

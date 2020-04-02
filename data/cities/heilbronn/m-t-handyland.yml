@@ -5,7 +5,7 @@ latitude: 49.1438785
 longitude: 9.220933200000001
 postcode: 74072
 city: Heilbronn
-street: Sülmerstraße
+street: "Sülmerstraße"
 housenumber: 52
 phone: ""
 opening_hours: ""

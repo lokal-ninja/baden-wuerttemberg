@@ -5,7 +5,7 @@ latitude: 48.024500700000004
 longitude: 9.4972498
 postcode: 88348
 city: Bad Saulgau
-street: Martin-Staud-Straße
+street: "Martin-Staud-Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

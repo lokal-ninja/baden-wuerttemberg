@@ -5,7 +5,7 @@ latitude: 48.5193698
 longitude: 9.055460700000001
 postcode: 72070
 city: Tübingen
-street: Bursagasse
+street: "Bursagasse"
 housenumber: 2/1
 phone: "+49 177 7698589"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:00"

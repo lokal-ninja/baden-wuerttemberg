@@ -5,7 +5,7 @@ latitude: 47.782450700000005
 longitude: 9.6120895
 postcode: 88212
 city: Ravensburg
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 3
 phone: "+49 751 23373"
 opening_hours: ""

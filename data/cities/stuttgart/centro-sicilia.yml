@@ -5,7 +5,7 @@ latitude: 48.8045768
 longitude: 9.214902200000001
 postcode: 70372
 city: Stuttgart
-street: Heimsche Gasse
+street: "Heimsche Gasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

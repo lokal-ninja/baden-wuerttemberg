@@ -5,7 +5,7 @@ latitude: 49.625469
 longitude: 9.666217600000001
 postcode: 97941
 city: Tauberbischofsheim
-street: Wertheimer Straße
+street: "Wertheimer Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

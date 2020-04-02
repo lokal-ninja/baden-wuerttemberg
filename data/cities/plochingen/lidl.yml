@@ -5,7 +5,7 @@ latitude: 48.7096893
 longitude: 9.417397000000001
 postcode: 73207
 city: Plochingen
-street: Kronenstraße
+street: "Kronenstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

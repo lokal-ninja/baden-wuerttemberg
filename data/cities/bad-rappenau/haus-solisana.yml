@@ -5,7 +5,7 @@ latitude: 49.2361896
 longitude: 9.1090975
 postcode: 74906
 city: Bad Rappenau
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 16
 phone: "+49 7264 91570"
 opening_hours: ""

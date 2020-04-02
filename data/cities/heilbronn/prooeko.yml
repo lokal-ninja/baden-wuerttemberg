@@ -5,7 +5,7 @@ latitude: 49.1451532
 longitude: 9.2343814
 postcode: 74076
 city: Heilbronn
-street: Kernerstraße
+street: "Kernerstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

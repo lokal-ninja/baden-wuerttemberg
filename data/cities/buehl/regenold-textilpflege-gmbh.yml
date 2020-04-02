@@ -5,7 +5,7 @@ latitude: 48.7245624
 longitude: 8.1091654
 postcode: 77815
 city: Bühl
-street: Vimbucher Straße
+street: "Vimbucher Straße"
 housenumber: 75
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

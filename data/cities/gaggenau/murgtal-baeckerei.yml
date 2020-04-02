@@ -5,7 +5,7 @@ latitude: 48.7818071
 longitude: 8.3433458
 postcode: 76571
 city: Gaggenau
-street: Landstraße
+street: "Landstraße"
 housenumber: 41
 phone: "+49 7224 67775"
 opening_hours: "Mo-Fr 05:00-11:00; Sa 05:00-12:00"

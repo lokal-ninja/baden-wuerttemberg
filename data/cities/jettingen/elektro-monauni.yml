@@ -5,7 +5,7 @@ latitude: 48.565410400000005
 longitude: 8.7825463
 postcode: 71131
 city: Jettingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.567270300000004
 longitude: 7.818557200000001
 postcode: 77694
 city: Kehl
-street: Kanzmattstraße
+street: "Kanzmattstraße"
 housenumber: 38-40
 phone: "+49 7851 5660"
 opening_hours: "Mo-Fr 08:30-12:30, 14:00-18:00; Sa 08:30-12:30"

@@ -5,7 +5,7 @@ latitude: 48.8751699
 longitude: 9.348837000000001
 postcode: 71409
 city: Schwaikheim
-street: Ludwigsburger Straße
+street: "Ludwigsburger Straße"
 housenumber: 16
 phone: "+497195587070"
 opening_hours: ""

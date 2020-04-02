@@ -5,7 +5,7 @@ latitude: 49.514101000000004
 longitude: 8.546176800000001
 postcode: 68309
 city: Mannheim
-street: Magdeburger Straße
+street: "Magdeburger Straße"
 housenumber: 2
 phone: "+49 621 702365"
 opening_hours: ""

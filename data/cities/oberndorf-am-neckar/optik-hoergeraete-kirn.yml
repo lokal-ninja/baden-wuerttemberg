@@ -5,7 +5,7 @@ latitude: 48.291213400000004
 longitude: 8.571216100000001
 postcode: 78727
 city: Oberndorf am Neckar
-street: Kirchtorstraße
+street: "Kirchtorstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

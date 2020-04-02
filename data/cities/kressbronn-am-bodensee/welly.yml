@@ -5,7 +5,7 @@ latitude: 47.596321
 longitude: 9.5985373
 postcode: 88079
 city: Kressbronn am Bodensee
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Sa 08:00-14:00; Su off; Mo-Fr 08:00-18:00"

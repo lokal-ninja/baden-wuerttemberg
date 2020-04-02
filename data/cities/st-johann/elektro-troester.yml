@@ -5,7 +5,7 @@ latitude: 48.4533907
 longitude: 9.383709900000001
 postcode: 72813
 city: St. Johann
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 4
 phone: "+49 7122 9061"
 opening_hours: ""

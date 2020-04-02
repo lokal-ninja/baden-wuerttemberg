@@ -5,7 +5,7 @@ latitude: 47.849241600000006
 longitude: 9.7523569
 postcode: 88368
 city: Bergatreute
-street: Roßberger Straße
+street: "Roßberger Straße"
 housenumber: 24
 phone: "+49 7527 9602260"
 opening_hours: "Mo-Fr 06:30-20:00, Sa 06:30-16:00, Su 7:30-10:30"

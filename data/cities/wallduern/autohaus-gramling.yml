@@ -5,7 +5,7 @@ latitude: 49.589504000000005
 longitude: 9.379875700000001
 postcode: 74731
 city: Walldürn
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

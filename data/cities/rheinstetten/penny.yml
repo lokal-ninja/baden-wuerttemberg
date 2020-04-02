@@ -5,7 +5,7 @@ latitude: 48.9644885
 longitude: 8.2862171
 postcode: 76287
 city: Rheinstetten
-street: Jakobstraße
+street: "Jakobstraße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

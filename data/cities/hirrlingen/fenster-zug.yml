@@ -5,7 +5,7 @@ latitude: 48.414220500000006
 longitude: 8.890773000000001
 postcode: 72145
 city: Hirrlingen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 27
 phone: "+49 7478 1208"
 opening_hours: ""

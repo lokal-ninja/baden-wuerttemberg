@@ -5,7 +5,7 @@ latitude: 48.616419400000005
 longitude: 9.5345714
 postcode: 73235
 city: Weilheim an der Teck
-street: Baintstraße
+street: "Baintstraße"
 housenumber: 10
 phone: "+497023 90025-0"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.8899495
 longitude: 9.1638635
 postcode: 71636
 city: Ludwigsburg
-street: Schwieberdinger Straße
+street: "Schwieberdinger Straße"
 housenumber: 125
 phone: ""
 opening_hours: ""

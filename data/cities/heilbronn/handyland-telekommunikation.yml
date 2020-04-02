@@ -5,7 +5,7 @@ latitude: 49.118434500000006
 longitude: 9.190984700000001
 postcode: 74081
 city: Heilbronn
-street: Hofgartenstraße
+street: "Hofgartenstraße"
 housenumber: 8
 phone: "+497131582580"
 opening_hours: "Mo-Tu,Th-Fr 10:00-13:00,14:30-18:30; We 10:00-14:30; Sa 10:00-14:00"

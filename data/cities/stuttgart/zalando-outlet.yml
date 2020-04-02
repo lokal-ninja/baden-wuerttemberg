@@ -5,7 +5,7 @@ latitude: 48.774319600000005
 longitude: 9.176082300000001
 postcode: 70173
 city: Stuttgart
-street: Hirschstraße
+street: "Hirschstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

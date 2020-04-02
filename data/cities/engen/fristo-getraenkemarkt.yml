@@ -5,7 +5,7 @@ latitude: 47.8578654
 longitude: 8.7748602
 postcode: 78234
 city: Engen
-street: Am Bahndamm
+street: "Am Bahndamm"
 housenumber: 8a
 phone: ""
 opening_hours: ""

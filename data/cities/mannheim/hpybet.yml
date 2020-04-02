@@ -5,7 +5,7 @@ latitude: 49.494934900000004
 longitude: 8.4600272
 postcode: 68159
 city: Mannheim
-street: Beilstraße
+street: "Beilstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

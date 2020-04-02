@@ -5,7 +5,7 @@ latitude: 47.651406900000005
 longitude: 10.0843659
 postcode: 87480
 city: Weitnau
-street: Klausenmühle
+street: "Klausenmühle"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00; PH off"

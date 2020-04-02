@@ -5,7 +5,7 @@ latitude: 48.482911200000004
 longitude: 9.2065014
 postcode: 72762
 city: Reutlingen
-street: Heinestraße
+street: "Heinestraße"
 housenumber: 33
 phone: "+49 7121 290888"
 opening_hours: "Mo-We 15:00-19:00; Th 15:00-20:00; Fr 14:00-20:00; Sa 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 48.8004228
 longitude: 9.214098100000001
 postcode: 70372
 city: Stuttgart
-street: Mercedesstraße
+street: "Mercedesstraße"
 housenumber: 7
 phone: "+49 711 6 56 59  44"
 opening_hours: "Mo-Fr 07:00-16:30; Sa 07:00-15:00"

@@ -5,7 +5,7 @@ latitude: 49.1797678
 longitude: 8.6230539
 postcode: 76698
 city: Ubstadt-Weiher
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 85
 phone: "+49 7251 3270656"
 opening_hours: "Mo-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.448308000000004
 longitude: 8.6704415
 postcode: 69221
 city: Dossenheim
-street: Beethovenstraße
+street: "Beethovenstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

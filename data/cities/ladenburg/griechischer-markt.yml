@@ -5,7 +5,7 @@ latitude: 49.470953200000004
 longitude: 8.6103131
 postcode: 68526
 city: Ladenburg
-street: Kirchenstraße
+street: "Kirchenstraße"
 housenumber: 16
 phone: "+49 6203 3216"
 opening_hours: "Mo-Fr 8:00-13:00, 15:00-18:30; Sa 8:00-13:00"

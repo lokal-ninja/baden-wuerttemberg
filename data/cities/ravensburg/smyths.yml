@@ -5,7 +5,7 @@ latitude: 47.777377
 longitude: 9.575398100000001
 postcode: 88213
 city: Ravensburg
-street: Meersburger Straße
+street: "Meersburger Straße"
 housenumber: 156
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

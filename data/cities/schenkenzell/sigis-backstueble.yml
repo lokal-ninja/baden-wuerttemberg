@@ -5,7 +5,7 @@ latitude: 48.3117396
 longitude: 8.3732153
 postcode: 77773
 city: Schenkenzell
-street: Landstraße
+street: "Landstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

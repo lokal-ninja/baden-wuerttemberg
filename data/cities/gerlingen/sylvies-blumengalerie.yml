@@ -5,7 +5,7 @@ latitude: 48.7990713
 longitude: 9.0632608
 postcode: 70839
 city: Gerlingen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 3
 phone: "+49 7156 6118"
 opening_hours: ""

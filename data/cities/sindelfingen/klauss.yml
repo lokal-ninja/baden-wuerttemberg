@@ -5,7 +5,7 @@ latitude: 48.7207991
 longitude: 8.971163200000001
 postcode: 71069
 city: Sindelfingen
-street: Austraße
+street: "Austraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

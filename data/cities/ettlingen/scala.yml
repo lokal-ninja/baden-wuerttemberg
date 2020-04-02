@@ -5,7 +5,7 @@ latitude: 48.943144600000004
 longitude: 8.4085043
 postcode: 76275
 city: Ettlingen
-street: Pforzheimer Straße
+street: "Pforzheimer Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

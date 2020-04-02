@@ -5,7 +5,7 @@ latitude: 48.7093615
 longitude: 8.117709600000001
 postcode: 77815
 city: Bühl
-street: Liechtersmatten
+street: "Liechtersmatten"
 housenumber: 12
 phone: "+49 7223 93870"
 opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-14:00"

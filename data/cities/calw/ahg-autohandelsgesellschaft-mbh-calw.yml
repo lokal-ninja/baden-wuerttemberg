@@ -5,7 +5,7 @@ latitude: 48.7100184
 longitude: 8.759218500000001
 postcode: 75365
 city: Calw
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 101
 phone: "+49705192450"
 opening_hours: ""

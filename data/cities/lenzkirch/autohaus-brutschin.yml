@@ -5,7 +5,7 @@ latitude: 47.872728200000005
 longitude: 8.1985727
 postcode: 79853
 city: Lenzkirch
-street: Freiburger Straße
+street: "Freiburger Straße"
 housenumber: 32a
 phone: ""
 opening_hours: ""

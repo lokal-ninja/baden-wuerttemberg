@@ -5,7 +5,7 @@ latitude: 48.7891867
 longitude: 9.199288300000001
 postcode: 70190
 city: Stuttgart
-street: Hackstraße
+street: "Hackstraße"
 housenumber: 22
 phone: "+49 711 2629966"
 opening_hours: "Tu 10:00-14:00; Th 09:00-18:00; We 10:00-20:00; Fr 10:00-20:00; Sa 9:00-14:00"

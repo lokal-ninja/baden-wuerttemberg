@@ -5,7 +5,7 @@ latitude: 47.828465800000004
 longitude: 9.6526607
 postcode: 88255
 city: Baienfurt
-street: Baindter Straße
+street: "Baindter Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

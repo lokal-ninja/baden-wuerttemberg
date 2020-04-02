@@ -5,7 +5,7 @@ latitude: 49.3442063
 longitude: 8.693361900000001
 postcode: 69181
 city: Leimen
-street: Nußlocher Straße
+street: "Nußlocher Straße"
 housenumber: 63
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00; Su 10:30-12:30"

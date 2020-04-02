@@ -5,7 +5,7 @@ latitude: 49.046316600000004
 longitude: 8.4616529
 postcode: 76297
 city: Stutensee
-street: Belchenstraße
+street: "Belchenstraße"
 housenumber: 25
 phone: "+49 721 9686870"
 opening_hours: "Mo-Sa 08:00-20:00"

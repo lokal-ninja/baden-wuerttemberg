@@ -5,7 +5,7 @@ latitude: 48.9589251
 longitude: 9.013922500000001
 postcode: 74372
 city: Sersheim
-street: Talstraße
+street: "Talstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

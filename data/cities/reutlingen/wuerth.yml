@@ -5,7 +5,7 @@ latitude: 48.489633000000005
 longitude: 9.1508187
 postcode: 72770
 city: Reutlingen
-street: Ferdinand-Lassalle-Straße
+street: "Ferdinand-Lassalle-Straße"
 housenumber: 55
 phone: "+49 7121 56950"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-16:00"

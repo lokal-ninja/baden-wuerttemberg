@@ -5,7 +5,7 @@ latitude: 47.653157400000005
 longitude: 9.4868143
 postcode: 88046
 city: Friedrichshafen
-street: Hünistraße
+street: "Hünistraße"
 housenumber: 6
 phone: ""
 opening_hours: "08:00-18:00; Sa 08:00-14:00; Su,PH off"

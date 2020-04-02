@@ -5,7 +5,7 @@ latitude: 48.792176000000005
 longitude: 9.2007641
 postcode: 
 city: Stuttgart
-street: Neckarstraße
+street: "Neckarstraße"
 housenumber: 208
 phone: ""
 opening_hours: ""

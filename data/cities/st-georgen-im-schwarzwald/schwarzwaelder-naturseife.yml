@@ -5,7 +5,7 @@ latitude: 48.126828200000006
 longitude: 8.3363294
 postcode: 78112
 city: St. Georgen im Schwarzwald
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 56a
 phone: ""
 opening_hours: "Tu-Th 09:00-12:30; Tu-Fr 14:00-18:00"

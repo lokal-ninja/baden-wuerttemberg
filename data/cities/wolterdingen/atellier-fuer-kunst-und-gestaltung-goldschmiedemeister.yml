@@ -5,7 +5,7 @@ latitude: 47.9684686
 longitude: 8.4270466
 postcode: 78166
 city: Wolterdingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5
 phone: "+49 7705 977130"
 opening_hours: "nur nach telephonischer Vereinbarung"

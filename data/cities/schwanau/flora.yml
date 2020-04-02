@@ -5,7 +5,7 @@ latitude: 48.365817500000006
 longitude: 7.7862577
 postcode: 77963
 city: Schwanau
-street: Allmannsweierer Hauptstraße
+street: "Allmannsweierer Hauptstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

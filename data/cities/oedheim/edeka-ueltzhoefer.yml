@@ -5,7 +5,7 @@ latitude: 49.2388436
 longitude: 9.2495674
 postcode: 74229
 city: Oedheim
-street: Kochendorfer Straße
+street: "Kochendorfer Straße"
 housenumber: 16
 phone: "+49-7136-9610080"
 opening_hours: "Mo-Sa 08:00-21:00"

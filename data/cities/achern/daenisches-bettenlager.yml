@@ -5,7 +5,7 @@ latitude: 48.6299373
 longitude: 8.0581908
 postcode: 77855
 city: Achern
-street: Güterhallenstraße
+street: "Güterhallenstraße"
 housenumber: 15
 phone: "+49 7841 6730610"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"

@@ -5,7 +5,7 @@ latitude: 47.7269165
 longitude: 8.9349345
 postcode: 78345
 city: Moos
-street: Radolfzeller Straße
+street: "Radolfzeller Straße"
 housenumber: 1
 phone: "+49 7732 57889"
 opening_hours: "Mo-We,Sa 07:00-20:00;Th-Fr 07:00-21:00;Su 08:00-11:00"

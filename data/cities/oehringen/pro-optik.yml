@@ -5,7 +5,7 @@ latitude: 49.2013679
 longitude: 9.5013629
 postcode: 74613
 city: Öhringen
-street: Poststraße
+street: "Poststraße"
 housenumber: 37
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

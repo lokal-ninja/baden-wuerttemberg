@@ -5,7 +5,7 @@ latitude: 48.535577700000005
 longitude: 8.5687195
 postcode: 72285
 city: Pfalzgrafenweiler
-street: Porschestraße
+street: "Porschestraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

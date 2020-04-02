@@ -5,7 +5,7 @@ latitude: 48.7739282
 longitude: 9.1523424
 postcode: 70197
 city: Stuttgart
-street: Vogelsangstraße
+street: "Vogelsangstraße"
 housenumber: 57
 phone: ""
 opening_hours: ""

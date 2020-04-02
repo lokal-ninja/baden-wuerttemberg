@@ -5,7 +5,7 @@ latitude: 48.995398
 longitude: 8.454245
 postcode: 76227
 city: Karlsruhe
-street: Lissenstraße
+street: "Lissenstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00;Sa 08:00-18:00;Su,PH off"

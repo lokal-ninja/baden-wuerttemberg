@@ -5,7 +5,7 @@ latitude: 48.8040819
 longitude: 9.8004236
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Baldungstraße
+street: "Baldungstraße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

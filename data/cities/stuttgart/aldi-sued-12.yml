@@ -5,7 +5,7 @@ latitude: 48.799480800000005
 longitude: 9.230920600000001
 postcode: 70372
 city: Stuttgart
-street: Deckerstraße
+street: "Deckerstraße"
 housenumber: 75
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

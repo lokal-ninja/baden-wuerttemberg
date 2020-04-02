@@ -5,7 +5,7 @@ latitude: 48.9018798
 longitude: 8.2501709
 postcode: 76467
 city: Bietigheim
-street: Schneidergarten
+street: "Schneidergarten"
 housenumber: 2
 phone: "+49 7245 8059070"
 opening_hours: "Mo-Sa 08:00-20:00"

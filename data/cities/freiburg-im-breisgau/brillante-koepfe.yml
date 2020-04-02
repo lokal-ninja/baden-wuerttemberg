@@ -5,7 +5,7 @@ latitude: 48.046146400000005
 longitude: 7.8032409000000005
 postcode: 79108
 city: Freiburg im Breisgau
-street: Högestraße
+street: "Högestraße"
 housenumber: 7
 phone: "+49 7665 9344869"
 opening_hours: "Tu, We, Fr 09:00-18:00; Th 09:00-20:00; Sa 08:30-14:00"

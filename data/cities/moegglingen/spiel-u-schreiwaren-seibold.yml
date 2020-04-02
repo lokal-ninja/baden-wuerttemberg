@@ -5,7 +5,7 @@ latitude: 48.823812800000006
 longitude: 9.961798400000001
 postcode: 73563
 city: Mögglingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

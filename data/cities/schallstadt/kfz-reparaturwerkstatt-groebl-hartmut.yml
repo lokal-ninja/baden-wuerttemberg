@@ -5,7 +5,7 @@ latitude: 47.963080500000004
 longitude: 7.761822100000001
 postcode: 79227
 city: Schallstadt
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 28
 phone: "+49 7664 7587"
 opening_hours: ""

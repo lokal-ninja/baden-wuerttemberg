@@ -5,7 +5,7 @@ latitude: 49.0082303
 longitude: 8.3925395
 postcode: 76133
 city: Karlsruhe
-street: Amalienstraße
+street: "Amalienstraße"
 housenumber: 37
 phone: "+49 721 5978458"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; Su,PH off"

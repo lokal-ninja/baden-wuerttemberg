@@ -5,7 +5,7 @@ latitude: 49.1283235
 longitude: 8.406708100000001
 postcode: 76351
 city: Linkenheim-Hochstetten
-street: Hochstetter Straße
+street: "Hochstetter Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

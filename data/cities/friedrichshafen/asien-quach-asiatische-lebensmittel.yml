@@ -5,7 +5,7 @@ latitude: 47.655801200000006
 longitude: 9.482298700000001
 postcode: 88046
 city: Friedrichshafen
-street: Ailinger Straße
+street: "Ailinger Straße"
 housenumber: 16
 phone: ""
 opening_hours: "09:00-12:30,14:00-18:30; Sa 09:00-13:00; Su,PH off"

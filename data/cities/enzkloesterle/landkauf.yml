@@ -5,7 +5,7 @@ latitude: 48.666707800000005
 longitude: 8.4723129
 postcode: 75337
 city: Enzklösterle
-street: Friedenstraße
+street: "Friedenstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 7:30-12:30; Mo-Tu 15:00-18:00; Th-Fr 15:00-18:00; Sa 7:30-13:00"

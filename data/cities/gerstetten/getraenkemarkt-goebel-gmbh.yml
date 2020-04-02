@@ -5,7 +5,7 @@ latitude: 48.6278598
 longitude: 10.0079887
 postcode: 89547
 city: Gerstetten
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-16:00"

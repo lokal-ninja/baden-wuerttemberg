@@ -5,7 +5,7 @@ latitude: 47.983284700000006
 longitude: 8.8185407
 postcode: 78532
 city: Tuttlingen
-street: Oberamteistraße
+street: "Oberamteistraße"
 housenumber: 11
 phone: "+49 7461 2940"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.8001281
 longitude: 9.798048000000001
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 12
 phone: "+49 7171 9087242"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su, PH off"

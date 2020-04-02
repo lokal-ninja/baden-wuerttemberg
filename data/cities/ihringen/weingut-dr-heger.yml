@@ -5,7 +5,7 @@ latitude: 48.0444681
 longitude: 7.647070800000001
 postcode: 79241
 city: Ihringen
-street: Bachenstraße
+street: "Bachenstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.1344257
 longitude: 8.905524100000001
 postcode: 75031
 city: Eppingen
-street: Mühlbacher Straße
+street: "Mühlbacher Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

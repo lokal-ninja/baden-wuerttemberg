@@ -5,7 +5,7 @@ latitude: 48.78763420000001
 longitude: 10.2656661
 postcode: 73450
 city: Neresheim
-street: Mörikestraße
+street: "Mörikestraße"
 housenumber: 2
 phone: "+49 7367 921346"
 opening_hours: ""

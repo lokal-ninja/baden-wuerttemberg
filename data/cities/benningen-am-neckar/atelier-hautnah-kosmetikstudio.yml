@@ -5,7 +5,7 @@ latitude: 48.9439246
 longitude: 9.2373473
 postcode: 71726
 city: Benningen am Neckar
-street: Robert-Koch-Straße
+street: "Robert-Koch-Straße"
 housenumber: 3
 phone: "+4971448658388"
 opening_hours: "url=https://hautnahkosmetik.vpweb.de/kontakt"

@@ -5,7 +5,7 @@ latitude: 49.2926641
 longitude: 8.697282000000001
 postcode: 69168
 city: Wiesloch
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 132
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.6616562
 longitude: 8.695192500000001
 postcode: 75387
 city: Neubulach
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 2
 phone: "+49 7053 39380"
 opening_hours: "Mo-Fr 09:00-12:30; Mo, Tu, Th, Fr 15:00-18:00; Sa 09:00-12:00"

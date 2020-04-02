@@ -5,7 +5,7 @@ latitude: 47.6822286
 longitude: 9.6371714
 postcode: 88069
 city: Tettnang
-street: Siggenweiler Straße
+street: "Siggenweiler Straße"
 housenumber: 25
 phone: "+49 7542 9314000"
 opening_hours: "Mo-Fr 10:00-19:30; Sa 10:00-18:00"

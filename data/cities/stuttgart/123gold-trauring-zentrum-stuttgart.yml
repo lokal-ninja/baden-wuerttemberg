@@ -5,7 +5,7 @@ latitude: 48.7792608
 longitude: 9.1778603
 postcode: 70173
 city: Stuttgart
-street: Königsbau-Passagen
+street: "Königsbau-Passagen"
 housenumber: 26
 phone: "+49 711 72233186"
 opening_hours: "Mo-Sa 10:00-20:00"

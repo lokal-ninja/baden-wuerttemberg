@@ -5,7 +5,7 @@ latitude: 49.3936001
 longitude: 8.784643500000001
 postcode: 
 city: Neckargemünd
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 37
 phone: "+49 6223 862486"
 opening_hours: "Mo-Fr 09:00-17:00"

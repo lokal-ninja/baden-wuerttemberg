@@ -5,7 +5,7 @@ latitude: 48.813458100000005
 longitude: 9.278964700000001
 postcode: 70734
 city: Fellbach
-street: Bruckstraße
+street: "Bruckstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.2352094
 longitude: 8.7926143
 postcode: 72359
 city: Dotternhausen
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

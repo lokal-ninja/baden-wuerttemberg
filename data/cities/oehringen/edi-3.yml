@@ -5,7 +5,7 @@ latitude: 49.1985875
 longitude: 9.4759174
 postcode: 74613
 city: Öhringen
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 4
 phone: "+49 7941 9889 280"
 opening_hours: "Mo-Fr 06:00-21:00; Sa,Su,PH 07:00-21:00"

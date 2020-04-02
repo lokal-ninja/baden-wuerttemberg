@@ -5,7 +5,7 @@ latitude: 49.113098900000004
 longitude: 9.732814600000001
 postcode: 74523
 city: Schwäbisch Hall
-street: Heimbacher Gasse
+street: "Heimbacher Gasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

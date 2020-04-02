@@ -5,7 +5,7 @@ latitude: 47.670006
 longitude: 9.5879195
 postcode: 88069
 city: Tettnang
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

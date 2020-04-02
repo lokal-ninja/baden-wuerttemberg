@@ -5,7 +5,7 @@ latitude: 48.9194395
 longitude: 9.3237515
 postcode: 71563
 city: Affalterbach
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

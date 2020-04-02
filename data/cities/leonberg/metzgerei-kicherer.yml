@@ -5,7 +5,7 @@ latitude: 48.788796000000005
 longitude: 9.007403700000001
 postcode: 71229
 city: Leonberg
-street: Carl-Schmincke-Straße
+street: "Carl-Schmincke-Straße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 07:00-13:00, Th,Fr 15:00-18:00"

@@ -5,7 +5,7 @@ latitude: 47.919574600000004
 longitude: 9.756766
 postcode: 
 city: Bad Waldsee
-street: Wurzacher Straße
+street: "Wurzacher Straße"
 housenumber: 11
 phone: "+49 75 24 9 75 66 20"
 opening_hours: ""

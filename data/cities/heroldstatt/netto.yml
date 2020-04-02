@@ -5,7 +5,7 @@ latitude: 48.450085900000005
 longitude: 9.666642300000001
 postcode: 72535
 city: Heroldstatt
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

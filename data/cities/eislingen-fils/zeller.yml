@@ -5,7 +5,7 @@ latitude: 48.703294500000005
 longitude: 9.724959
 postcode: 73054
 city: Eislingen/Fils
-street: Brunnenweiler
+street: "Brunnenweiler"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Su 18:00-18:30"

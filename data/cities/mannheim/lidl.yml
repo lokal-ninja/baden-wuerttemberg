@@ -5,7 +5,7 @@ latitude: 49.5474383
 longitude: 8.4802791
 postcode: 68307
 city: Mannheim
-street: Lilienthalstraße
+street: "Lilienthalstraße"
 housenumber: 305
 phone: ""
 opening_hours: ""

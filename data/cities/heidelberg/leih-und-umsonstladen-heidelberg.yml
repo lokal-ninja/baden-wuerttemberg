@@ -5,7 +5,7 @@ latitude: 49.3791639
 longitude: 8.678940500000001
 postcode: 
 city: Heidelberg
-street: Heinrich-Fuchs-Straße
+street: "Heinrich-Fuchs-Straße"
 housenumber: 85
 phone: ""
 opening_hours: "Mo 10:00-12:00; Th,Sa 14:00-16:00; PH off"

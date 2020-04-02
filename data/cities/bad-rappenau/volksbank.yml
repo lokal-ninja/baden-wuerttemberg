@@ -5,7 +5,7 @@ latitude: 49.238719100000004
 longitude: 9.103259600000001
 postcode: 74906
 city: Bad Rappenau
-street: Kirchenstraße
+street: "Kirchenstraße"
 housenumber: 13
 phone: "+49 7261 6991722"
 opening_hours: "Mo-Sa 9:00-12:30; Mo,Tu,Th,Fr 14:00-18:00"

@@ -5,7 +5,7 @@ latitude: 49.496351000000004
 longitude: 8.5493621
 postcode: 68259
 city: Mannheim
-street: Mosbacher Straße
+street: "Mosbacher Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.701514
 longitude: 9.6533523
 postcode: 73033
 city: Göppingen
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

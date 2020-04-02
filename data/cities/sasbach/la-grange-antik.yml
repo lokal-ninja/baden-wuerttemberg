@@ -5,7 +5,7 @@ latitude: 48.6387987
 longitude: 8.0916908
 postcode: 77880
 city: Sasbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 12
 phone: "+49 711 2538370"
 opening_hours: ""

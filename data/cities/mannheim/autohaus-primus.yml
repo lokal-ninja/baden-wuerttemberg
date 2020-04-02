@@ -5,7 +5,7 @@ latitude: 49.4641369
 longitude: 8.4975822
 postcode: 68199
 city: Mannheim
-street: Wattstraße
+street: "Wattstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

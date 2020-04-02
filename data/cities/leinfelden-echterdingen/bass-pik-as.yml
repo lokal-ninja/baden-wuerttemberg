@@ -5,7 +5,7 @@ latitude: 48.6877713
 longitude: 9.164811
 postcode: 70771
 city: Leinfelden-Echterdingen
-street: Hirschstraße
+street: "Hirschstraße"
 housenumber: 14
 phone: "+49 711 790051"
 opening_hours: ""

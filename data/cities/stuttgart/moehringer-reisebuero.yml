@@ -5,7 +5,7 @@ latitude: 48.727208600000004
 longitude: 9.1479093
 postcode: 70567
 city: Stuttgart
-street: Richterstraße
+street: "Richterstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

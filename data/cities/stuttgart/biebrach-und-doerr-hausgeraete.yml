@@ -5,7 +5,7 @@ latitude: 48.770271400000006
 longitude: 9.186988000000001
 postcode: 70184
 city: Stuttgart
-street: Hohenheimer Straße
+street: "Hohenheimer Straße"
 housenumber: 45
 phone: "+49 711 4704370"
 opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-14:00; PH off"

@@ -5,7 +5,7 @@ latitude: 49.3227617
 longitude: 9.3601536
 postcode: 74219
 city: Möckmühl
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

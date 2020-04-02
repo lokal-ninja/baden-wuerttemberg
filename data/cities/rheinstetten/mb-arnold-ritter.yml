@@ -5,7 +5,7 @@ latitude: 48.9623277
 longitude: 8.3045234
 postcode: 76287
 city: Rheinstetten
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

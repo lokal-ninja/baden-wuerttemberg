@@ -5,7 +5,7 @@ latitude: 48.693784300000004
 longitude: 9.3178049
 postcode: 73770
 city: Denkendorf
-street: Furtstraße
+street: "Furtstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 07:30-13:00, 15:00-18:30; Sa 07:30-13:00"

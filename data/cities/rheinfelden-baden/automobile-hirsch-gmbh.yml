@@ -5,7 +5,7 @@ latitude: 47.5650605
 longitude: 7.794054000000001
 postcode: 79618
 city: Rheinfelden (Baden)
-street: Karl-Fürstenberg-Straße
+street: "Karl-Fürstenberg-Straße"
 housenumber: 74
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30; Sa 10:00-16:00"

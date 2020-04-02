@@ -5,7 +5,7 @@ latitude: 48.7893716
 longitude: 9.934652700000001
 postcode: 73540
 city: Heubach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

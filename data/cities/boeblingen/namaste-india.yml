@@ -5,7 +5,7 @@ latitude: 48.685868600000006
 longitude: 9.014504
 postcode: 71032
 city: Böblingen
-street: Sindelfinger Straße
+street: "Sindelfinger Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 10:00-13:30, 15:00-19:00; Sa 10:00-16:00"

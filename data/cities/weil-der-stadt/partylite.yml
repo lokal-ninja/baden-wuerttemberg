@@ -5,7 +5,7 @@ latitude: 48.7709484
 longitude: 8.859385900000001
 postcode: 71263
 city: Weil der Stadt
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

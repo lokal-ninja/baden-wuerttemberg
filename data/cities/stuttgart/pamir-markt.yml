@@ -5,7 +5,7 @@ latitude: 48.729710700000005
 longitude: 9.1104565
 postcode: 70563
 city: Stuttgart
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

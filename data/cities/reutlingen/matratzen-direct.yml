@@ -5,7 +5,7 @@ latitude: 48.497958600000004
 longitude: 9.1727337
 postcode: 72770
 city: Reutlingen
-street: Jettenburger Straße
+street: "Jettenburger Straße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"

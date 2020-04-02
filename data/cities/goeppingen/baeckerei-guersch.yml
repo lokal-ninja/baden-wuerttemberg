@@ -5,7 +5,7 @@ latitude: 48.702064
 longitude: 9.6527685
 postcode: 73033
 city: Göppingen
-street: Grabenstraße
+street: "Grabenstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-16:00"

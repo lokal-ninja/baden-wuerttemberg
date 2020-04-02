@@ -5,7 +5,7 @@ latitude: 48.699964900000005
 longitude: 10.240435600000001
 postcode: 89564
 city: Nattheim
-street: Heidenheimer Straße
+street: "Heidenheimer Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.8595351
 longitude: 8.2358068
 postcode: 76437
 city: Rastatt
-street: Rauentaler Straße
+street: "Rauentaler Straße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"

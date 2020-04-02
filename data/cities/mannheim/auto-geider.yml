@@ -5,7 +5,7 @@ latitude: 49.4897658
 longitude: 8.5456517
 postcode: 68259
 city: Mannheim
-street: Theodor-Storm-Straße
+street: "Theodor-Storm-Straße"
 housenumber: 120
 phone: "+49 621 793500"
 opening_hours: "Mo-Fr 07:30-16:30"

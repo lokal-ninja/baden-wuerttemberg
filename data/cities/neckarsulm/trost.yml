@@ -5,7 +5,7 @@ latitude: 49.1781087
 longitude: 9.225518600000001
 postcode: 74172
 city: Neckarsulm
-street: Heiner-Fleischmann-Straße
+street: "Heiner-Fleischmann-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

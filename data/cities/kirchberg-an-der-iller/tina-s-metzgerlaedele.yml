@@ -5,7 +5,7 @@ latitude: 48.133864100000004
 longitude: 10.079820900000001
 postcode: 88486
 city: Kirchberg an der Iller
-street: Untere Gasse
+street: "Untere Gasse"
 housenumber: 3
 phone: "+497354 935080"
 opening_hours: ""

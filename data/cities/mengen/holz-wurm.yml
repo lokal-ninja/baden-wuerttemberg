@@ -5,7 +5,7 @@ latitude: 48.043366600000006
 longitude: 9.3194821
 postcode: 88512
 city: Mengen
-street: Obereschweg
+street: "Obereschweg"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:30-12:00,14:00-18:00;Sa 9:00-13:00"

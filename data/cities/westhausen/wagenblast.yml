@@ -5,7 +5,7 @@ latitude: 48.8827756
 longitude: 10.178817
 postcode: 73463
 city: Westhausen
-street: Dr.-Rudolf-Schieber-Straße
+street: "Dr.-Rudolf-Schieber-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

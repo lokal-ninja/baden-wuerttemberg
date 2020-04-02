@@ -5,7 +5,7 @@ latitude: 48.511191800000006
 longitude: 8.1089082
 postcode: 77794
 city: Lautenbach
-street: Sendelbachstraße
+street: "Sendelbachstraße"
 housenumber: 12
 phone: "+49 7802 803597"
 opening_hours: ""

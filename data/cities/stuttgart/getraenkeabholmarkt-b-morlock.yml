@@ -5,7 +5,7 @@ latitude: 48.76404
 longitude: 9.172156000000001
 postcode: 70180
 city: Stuttgart
-street: Filderstraße
+street: "Filderstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

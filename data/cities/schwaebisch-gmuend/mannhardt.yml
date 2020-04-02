@@ -5,7 +5,7 @@ latitude: 48.799254600000005
 longitude: 9.7987214
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Kornhausstraße
+street: "Kornhausstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; We, Sa 10:00-14:00; Su, PH off"

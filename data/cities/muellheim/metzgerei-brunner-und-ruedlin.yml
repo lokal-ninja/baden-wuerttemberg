@@ -5,7 +5,7 @@ latitude: 47.8301504
 longitude: 7.621200300000001
 postcode: 79379
 city: Müllheim
-street: Höllbergstraße
+street: "Höllbergstraße"
 housenumber: 2
 phone: "+49 7631 2325"
 opening_hours: ""

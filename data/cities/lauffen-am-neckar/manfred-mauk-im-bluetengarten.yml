@@ -5,7 +5,7 @@ latitude: 49.0853181
 longitude: 9.1474887
 postcode: 74348
 city: Lauffen am Neckar
-street: Nordheimer Straße
+street: "Nordheimer Straße"
 housenumber: 76
 phone: "+49-7133-5276"
 opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-14:00"

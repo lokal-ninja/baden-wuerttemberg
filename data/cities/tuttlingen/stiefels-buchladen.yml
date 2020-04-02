@@ -5,7 +5,7 @@ latitude: 47.9848529
 longitude: 8.8172241
 postcode: 78532
 city: Tuttlingen
-street: Donaustraße
+street: "Donaustraße"
 housenumber: 44
 phone: "+49 7461 161441"
 opening_hours: ""

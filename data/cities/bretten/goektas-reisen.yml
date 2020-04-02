@@ -5,7 +5,7 @@ latitude: 49.0372172
 longitude: 8.705608100000001
 postcode: 75015
 city: Bretten
-street: Melanchthonstraße
+street: "Melanchthonstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:00"

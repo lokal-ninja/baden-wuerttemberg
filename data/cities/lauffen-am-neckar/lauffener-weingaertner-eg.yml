@@ -5,7 +5,7 @@ latitude: 49.076061100000004
 longitude: 9.140569600000001
 postcode: 74348
 city: Lauffen am Neckar
-street: Im Brühl
+street: "Im Brühl"
 housenumber: 48
 phone: "+49-7133-185-0"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

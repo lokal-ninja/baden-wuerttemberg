@@ -5,7 +5,7 @@ latitude: 48.619597500000005
 longitude: 8.1240904
 postcode: 77887
 city: Sasbachwalden
-street: Talstraße
+street: "Talstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-16:00"

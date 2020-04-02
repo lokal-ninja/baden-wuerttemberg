@@ -5,7 +5,7 @@ latitude: 49.1366645
 longitude: 8.9093681
 postcode: 75031
 city: Eppingen
-street: Brettener Straße
+street: "Brettener Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 9:00 - 12:30, 14:00 - 18:30, Sa 9:00 - 13:00"

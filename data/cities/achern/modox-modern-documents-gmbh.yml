@@ -5,7 +5,7 @@ latitude: 48.6560925
 longitude: 8.0276338
 postcode: 77855
 city: Achern
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

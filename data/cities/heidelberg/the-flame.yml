@@ -5,7 +5,7 @@ latitude: 49.409508300000006
 longitude: 8.702731400000001
 postcode: 69117
 city: Heidelberg
-street: Plöck
+street: "Plöck"
 housenumber: 91
 phone: ""
 opening_hours: "Mo-Fr 11:30-19:00; Sa 11:30-18:00"

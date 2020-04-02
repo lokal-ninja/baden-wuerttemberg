@@ -5,7 +5,7 @@ latitude: 48.8777047
 longitude: 9.3934976
 postcode: 71364
 city: Winnenden
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 18/1
 phone: "+49 7195 910600"
 opening_hours: "Tu-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 08:00-13:30"

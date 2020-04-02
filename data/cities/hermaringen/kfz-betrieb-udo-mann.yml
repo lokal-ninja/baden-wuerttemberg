@@ -5,7 +5,7 @@ latitude: 48.5951566
 longitude: 10.2583993
 postcode: 89568
 city: Hermaringen
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

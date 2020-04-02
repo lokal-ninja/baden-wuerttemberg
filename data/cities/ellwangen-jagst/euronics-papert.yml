@@ -5,7 +5,7 @@ latitude: 48.953859200000004
 longitude: 10.162557300000001
 postcode: 73479
 city: Ellwangen (Jagst)
-street: Dr.-Adolf-Schneider-Straße
+street: "Dr.-Adolf-Schneider-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:15,14:00-18:15; Sa 08:30-14:00"

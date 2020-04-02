@@ -5,7 +5,7 @@ latitude: 48.6935226
 longitude: 9.143536000000001
 postcode: 70771
 city: Leinfelden-Echterdingen
-street: Echterdinger Straße
+street: "Echterdinger Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:30, Sa 09:30-13:00"

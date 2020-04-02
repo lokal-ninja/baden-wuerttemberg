@@ -5,7 +5,7 @@ latitude: 49.1432829
 longitude: 9.1200384
 postcode: 74211
 city: Leingarten
-street: Kastanienstraße
+street: "Kastanienstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

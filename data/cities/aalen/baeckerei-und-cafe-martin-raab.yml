@@ -5,7 +5,7 @@ latitude: 48.8647951
 longitude: 10.1040624
 postcode: 73433
 city: Aalen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 19
 phone: "+49 7361 76353"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.6650883
 longitude: 9.3644586
 postcode: 88090
 city: Immenstaad am Bodensee
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 4
 phone: "+49 1705151316"
 opening_hours: "Mo-Th 17:00-19:00; Fr 13:00-16:00; Sa 09:00-12:00; We,Su,PH off"

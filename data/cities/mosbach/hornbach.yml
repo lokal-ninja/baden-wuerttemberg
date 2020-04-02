@@ -5,7 +5,7 @@ latitude: 49.329009600000006
 longitude: 9.1096339
 postcode: 74821
 city: Mosbach
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

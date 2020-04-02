@@ -5,7 +5,7 @@ latitude: 47.9830775
 longitude: 8.8143285
 postcode: 78532
 city: Tuttlingen
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 16
 phone: "+49 7461 8671"
 opening_hours: ""

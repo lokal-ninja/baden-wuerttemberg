@@ -5,7 +5,7 @@ latitude: 48.711747200000005
 longitude: 9.4664721
 postcode: 73262
 city: Reichenbach an der Fils
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

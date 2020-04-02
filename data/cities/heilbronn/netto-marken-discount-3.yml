@@ -5,7 +5,7 @@ latitude: 49.1179477
 longitude: 9.153899200000001
 postcode: 74081
 city: Heilbronn
-street: Theodor-Heuss-Straße
+street: "Theodor-Heuss-Straße"
 housenumber: 203
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

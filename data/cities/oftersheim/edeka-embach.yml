@@ -5,7 +5,7 @@ latitude: 49.367236600000005
 longitude: 8.576561700000001
 postcode: 68723
 city: Oftersheim
-street: Eichendorffstraße
+street: "Eichendorffstraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"

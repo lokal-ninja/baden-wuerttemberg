@@ -5,7 +5,7 @@ latitude: 48.937262100000005
 longitude: 8.3842356
 postcode: 76275
 city: Ettlingen
-street: Ferdinand-Porsche-Straße
+street: "Ferdinand-Porsche-Straße"
 housenumber: 9
 phone: "+49 7243 200000"
 opening_hours: ""

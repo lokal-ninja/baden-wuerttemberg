@@ -5,7 +5,7 @@ latitude: 48.123181
 longitude: 9.077936000000001
 postcode: 72510
 city: Stetten am kalten Markt
-street: Lagerstraße
+street: "Lagerstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

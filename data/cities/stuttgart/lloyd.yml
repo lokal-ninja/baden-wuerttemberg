@@ -5,7 +5,7 @@ latitude: 48.7767482
 longitude: 9.174508600000001
 postcode: 70173
 city: Stuttgart
-street: Calwer Straße
+street: "Calwer Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

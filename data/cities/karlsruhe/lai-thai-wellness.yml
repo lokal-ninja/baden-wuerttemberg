@@ -5,7 +5,7 @@ latitude: 48.994169500000005
 longitude: 8.397175500000001
 postcode: 76137
 city: Karlsruhe
-street: Ebertstraße
+street: "Ebertstraße"
 housenumber: 7
 phone: "+497213529493"
 opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"

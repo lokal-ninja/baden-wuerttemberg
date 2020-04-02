@@ -5,7 +5,7 @@ latitude: 47.9654703
 longitude: 7.827847
 postcode: 79249
 city: Merzhausen
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:00"

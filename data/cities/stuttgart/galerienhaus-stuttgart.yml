@@ -5,7 +5,7 @@ latitude: 48.7778512
 longitude: 9.162038200000001
 postcode: 70176
 city: Stuttgart
-street: Breitscheidstraße
+street: "Breitscheidstraße"
 housenumber: 48
 phone: "+49 711-263 463 66"
 opening_hours: "Tu-Fr 14:00-19:00; Sa 11:00-16:00"

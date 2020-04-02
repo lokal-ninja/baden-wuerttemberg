@@ -5,7 +5,7 @@ latitude: 49.287453500000005
 longitude: 9.6804395
 postcode: 74653
 city: Künzelsau
-street: Würzburger Straße
+street: "Würzburger Straße"
 housenumber: 26
 phone: "+49 7940 9273 0"
 opening_hours: "Mo-Sa 08:00-20:00"

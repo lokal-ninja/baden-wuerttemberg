@@ -5,7 +5,7 @@ latitude: 48.6850541
 longitude: 9.005384600000001
 postcode: 71034
 city: Böblingen
-street: Austraße
+street: "Austraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

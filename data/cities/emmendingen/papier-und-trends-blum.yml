@@ -5,7 +5,7 @@ latitude: 48.121144
 longitude: 7.849099300000001
 postcode: 79312
 city: Emmendingen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 2
 phone: "+49 7641 9330624"
 opening_hours: "Mo-Th 09:00-13:00,14:30-18:30;Fr 09:00-18:30;Sa 09:30-14:00;PH off"

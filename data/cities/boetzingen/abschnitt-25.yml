@@ -5,7 +5,7 @@ latitude: 48.0715653
 longitude: 7.718549500000001
 postcode: 
 city: Bötzingen
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

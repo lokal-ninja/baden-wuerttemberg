@@ -5,7 +5,7 @@ latitude: 48.7962842
 longitude: 8.107527300000001
 postcode: 
 city: Hügelsheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 58
 phone: "+49 7229 4881"
 opening_hours: ""

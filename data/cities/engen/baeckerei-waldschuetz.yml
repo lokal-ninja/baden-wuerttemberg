@@ -5,7 +5,7 @@ latitude: 47.851611000000005
 longitude: 8.7704758
 postcode: 78234
 city: Engen
-street: Klostergasse
+street: "Klostergasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

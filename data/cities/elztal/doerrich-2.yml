@@ -5,7 +5,7 @@ latitude: 49.3983791
 longitude: 9.2232036
 postcode: 74834
 city: Elztal
-street: Schefflenzer Straße
+street: "Schefflenzer Straße"
 housenumber: 20
 phone: "+49 6293 928130"
 opening_hours: ""

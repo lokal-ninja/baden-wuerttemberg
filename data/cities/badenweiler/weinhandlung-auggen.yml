@@ -5,7 +5,7 @@ latitude: 47.8015741
 longitude: 7.671728600000001
 postcode: 79410
 city: Badenweiler
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

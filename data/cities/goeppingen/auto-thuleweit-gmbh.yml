@@ -5,7 +5,7 @@ latitude: 48.708420000000004
 longitude: 9.6351112
 postcode: 73033
 city: Göppingen
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 74
 phone: "+49 7161 928080"
 opening_hours: ""

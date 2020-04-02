@@ -5,7 +5,7 @@ latitude: 47.8141978
 longitude: 9.637070000000001
 postcode: 88250
 city: Weingarten
-street: Argonnenstraße
+street: "Argonnenstraße"
 housenumber: 9/2
 phone: ""
 opening_hours: ""

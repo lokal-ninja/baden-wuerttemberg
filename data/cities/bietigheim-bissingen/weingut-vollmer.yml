@@ -5,7 +5,7 @@ latitude: 48.941389
 longitude: 9.128728
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

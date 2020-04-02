@@ -5,7 +5,7 @@ latitude: 48.617974700000005
 longitude: 9.737918
 postcode: 73326
 city: Deggingen
-street: Böhringer Straße
+street: "Böhringer Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

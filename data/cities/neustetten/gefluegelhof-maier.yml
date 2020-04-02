@@ -5,7 +5,7 @@ latitude: 48.482835200000004
 longitude: 8.8871971
 postcode: 72149
 city: Neustetten
-street: Brühlstraße
+street: "Brühlstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

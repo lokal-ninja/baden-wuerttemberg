@@ -5,7 +5,7 @@ latitude: 48.8898554
 longitude: 9.1575486
 postcode: 71636
 city: Ludwigsburg
-street: Karlsruher Allee
+street: "Karlsruher Allee"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-17:15; Sa 08:00-12:00"

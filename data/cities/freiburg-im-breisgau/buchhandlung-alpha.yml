@@ -5,7 +5,7 @@ latitude: 47.9931551
 longitude: 7.8505102
 postcode: 79098
 city: Freiburg im Breisgau
-street: Fischerau
+street: "Fischerau"
 housenumber: 32
 phone: "+49 761 32947"
 opening_hours: "Mo-Fr 10:00-18:30;Sa 10:00-15:00"

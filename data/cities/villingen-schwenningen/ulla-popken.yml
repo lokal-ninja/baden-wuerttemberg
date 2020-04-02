@@ -5,7 +5,7 @@ latitude: 48.062993500000005
 longitude: 8.5340399
 postcode: 78054
 city: Villingen-Schwenningen
-street: Kronenstraße
+street: "Kronenstraße"
 housenumber: 21
 phone: "+49 7720 22292"
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00; PH off"

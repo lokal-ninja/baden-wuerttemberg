@@ -5,7 +5,7 @@ latitude: 48.547561400000006
 longitude: 9.113946400000001
 postcode: 72074
 city: Tübingen
-street: Höhbergstraße
+street: "Höhbergstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo 09:00-12:30, 14:00-18:30; Tu,We,Fr 08:30-12:30, 14:00-18:30; Th 08:30-14:00; Sa 08:30-13:00"

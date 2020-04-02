@@ -5,7 +5,7 @@ latitude: 49.1356266
 longitude: 9.212858
 postcode: 74074
 city: Heilbronn
-street: Schoettlestraße
+street: "Schoettlestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

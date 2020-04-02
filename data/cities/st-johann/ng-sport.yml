@@ -5,7 +5,7 @@ latitude: 48.437318000000005
 longitude: 9.322901700000001
 postcode: 72813
 city: St. Johann
-street: Kohlstetter Straße
+street: "Kohlstetter Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

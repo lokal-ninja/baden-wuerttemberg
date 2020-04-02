@@ -5,7 +5,7 @@ latitude: 48.83250090000001
 longitude: 9.323624800000001
 postcode: 71334
 city: Waiblingen
-street: Beinsteiner Straße
+street: "Beinsteiner Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

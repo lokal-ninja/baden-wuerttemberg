@@ -5,7 +5,7 @@ latitude: 48.939198700000006
 longitude: 8.4114742
 postcode: 76275
 city: Ettlingen
-street: Schöllbronner Straße
+street: "Schöllbronner Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

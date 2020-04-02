@@ -5,7 +5,7 @@ latitude: 49.3367541
 longitude: 8.6611659
 postcode: 69207
 city: Sandhausen
-street: Albert-Schweitzer-Straße
+street: "Albert-Schweitzer-Straße"
 housenumber: 7
 phone: "+49 6224 2314"
 opening_hours: ""

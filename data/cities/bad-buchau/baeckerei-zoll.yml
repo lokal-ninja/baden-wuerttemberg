@@ -5,7 +5,7 @@ latitude: 48.0629787
 longitude: 9.6124094
 postcode: 
 city: Bad Buchau
-street: Schussenrieder Straße
+street: "Schussenrieder Straße"
 housenumber: 33
 phone: ""
 opening_hours: ""

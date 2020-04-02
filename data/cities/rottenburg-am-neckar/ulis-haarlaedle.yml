@@ -5,7 +5,7 @@ latitude: 48.478309200000005
 longitude: 8.9382421
 postcode: 72108
 city: Rottenburg am Neckar
-street: Eberhardstraße
+street: "Eberhardstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Tu,We,Fr 09:00-18:00; Th 09:00-20:00; Sa 08:00-13:00"

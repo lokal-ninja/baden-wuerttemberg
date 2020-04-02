@@ -5,7 +5,7 @@ latitude: 48.9549813
 longitude: 8.918504800000001
 postcode: 75428
 city: Illingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 9
 phone: "+49 7042 801080"
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 07:00-11:00"

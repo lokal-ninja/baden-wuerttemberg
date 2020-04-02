@@ -5,7 +5,7 @@ latitude: 48.3758221
 longitude: 7.8994423000000005
 postcode: 77948
 city: Friesenheim
-street: Mittlere Dorfstraße
+street: "Mittlere Dorfstraße"
 housenumber: 17
 phone: "+49 (0) 7821 / 6574"
 opening_hours: ""

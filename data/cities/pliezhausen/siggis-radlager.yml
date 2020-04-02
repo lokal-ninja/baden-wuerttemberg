@@ -5,7 +5,7 @@ latitude: 48.5576121
 longitude: 9.210984400000001
 postcode: 72124
 city: Pliezhausen
-street: Sedanstraße
+street: "Sedanstraße"
 housenumber: 33
 phone: "+49 7127 887020"
 opening_hours: ""

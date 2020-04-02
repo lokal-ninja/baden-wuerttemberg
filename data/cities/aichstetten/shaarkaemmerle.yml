@@ -5,7 +5,7 @@ latitude: 47.890857700000005
 longitude: 10.0745546
 postcode: 88317
 city: Aichstetten
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 39
 phone: ""
 opening_hours: "Tu,Th 08:00-19:00; We,Fr 08:00-18:00; Sa Nach Vereinbarung; Mo, Su, PH off"

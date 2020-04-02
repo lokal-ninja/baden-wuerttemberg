@@ -5,7 +5,7 @@ latitude: 48.9060987
 longitude: 9.1777773
 postcode: 71634
 city: Ludwigsburg
-street: Reuteallee
+street: "Reuteallee"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

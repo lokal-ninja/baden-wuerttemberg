@@ -5,7 +5,7 @@ latitude: 48.373028600000005
 longitude: 7.8829171
 postcode: 77948
 city: Friesenheim
-street: Friesenheimer Hauptstraße
+street: "Friesenheimer Hauptstraße"
 housenumber: 72
 phone: "+49 7821 3270711"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su,PH off"

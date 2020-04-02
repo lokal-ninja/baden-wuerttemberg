@@ -5,7 +5,7 @@ latitude: 49.157452600000006
 longitude: 9.223654400000001
 postcode: 74076
 city: Heilbronn
-street: Kreuzenstraße
+street: "Kreuzenstraße"
 housenumber: 80
 phone: ""
 opening_hours: ""

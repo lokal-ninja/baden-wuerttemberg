@@ -5,7 +5,7 @@ latitude: 48.2806666
 longitude: 8.215907900000001
 postcode: 77709
 city: Wolfach
-street: Obere Bahnhofstraße
+street: "Obere Bahnhofstraße"
 housenumber: 29
 phone: "+49 7834 6117"
 opening_hours: ""

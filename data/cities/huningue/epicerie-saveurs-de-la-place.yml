@@ -5,7 +5,7 @@ latitude: 47.5925092
 longitude: 7.5838909
 postcode: 68330
 city: Huningue
-street: Rue de l'Arsenal
+street: "Rue de l'Arsenal"
 housenumber: 1
 phone: "+33389882637"
 opening_hours: "08:00-20:00"

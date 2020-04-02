@@ -5,7 +5,7 @@ latitude: 48.817637000000005
 longitude: 8.8631886
 postcode: 71296
 city: Heimsheim
-street: Jakob-Hornung-Straße
+street: "Jakob-Hornung-Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

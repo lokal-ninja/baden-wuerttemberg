@@ -5,7 +5,7 @@ latitude: 48.4673333
 longitude: 9.9444978
 postcode: 89160
 city: Dornstadt
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

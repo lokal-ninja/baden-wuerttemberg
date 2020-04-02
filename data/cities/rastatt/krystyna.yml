@@ -5,7 +5,7 @@ latitude: 48.856744400000004
 longitude: 8.1989769
 postcode: 76437
 city: Rastatt
-street: Augustastraße
+street: "Augustastraße"
 housenumber: 72/1
 phone: ""
 opening_hours: "Th,Fr 08:30-18:00; Sa 08:30-14:00"

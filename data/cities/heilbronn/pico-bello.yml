@@ -5,7 +5,7 @@ latitude: 49.135984
 longitude: 9.214725900000001
 postcode: 74072
 city: Heilbronn
-street: Südstraße
+street: "Südstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

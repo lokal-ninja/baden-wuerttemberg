@@ -5,7 +5,7 @@ latitude: 48.7744857
 longitude: 8.2225593
 postcode: 
 city: Baden-Baden
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 17
 phone: "+49 7221 681738"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

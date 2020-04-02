@@ -5,7 +5,7 @@ latitude: 48.6288099
 longitude: 9.0221097
 postcode: 71088
 city: Holzgerlingen
-street: Max-Eyth-Straße
+street: "Max-Eyth-Straße"
 housenumber: 5
 phone: "+49 70314920516"
 opening_hours: ""

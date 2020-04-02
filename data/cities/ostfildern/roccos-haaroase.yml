@@ -5,7 +5,7 @@ latitude: 48.7293663
 longitude: 9.253477400000001
 postcode: 73760
 city: Ostfildern
-street: Kirchheimer Straße
+street: "Kirchheimer Straße"
 housenumber: 45
 phone: "+49 711 2488936"
 opening_hours: ""

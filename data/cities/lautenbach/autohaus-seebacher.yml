@@ -5,7 +5,7 @@ latitude: 48.5235733
 longitude: 8.100251100000001
 postcode: 77794
 city: Lautenbach
-street: Vorder-Winterbach
+street: "Vorder-Winterbach"
 housenumber: 2
 phone: ""
 opening_hours: ""

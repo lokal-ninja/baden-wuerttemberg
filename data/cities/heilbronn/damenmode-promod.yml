@@ -5,7 +5,7 @@ latitude: 49.1406354
 longitude: 9.2187923
 postcode: 74072
 city: Heilbronn
-street: Fleiner Straße
+street: "Fleiner Straße"
 housenumber: 23
 phone: "+49 7131 8736565"
 opening_hours: "Mo-We 10:00-19:00; Th-Sa 10:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 47.7253782
 longitude: 9.4643361
 postcode: 88094
 city: Oberteuringen
-street: Eugen-Bolz-Straße
+street: "Eugen-Bolz-Straße"
 housenumber: 24
 phone: "+49 7546 91177"
 opening_hours: ""

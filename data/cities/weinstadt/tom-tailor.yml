@@ -5,7 +5,7 @@ latitude: 48.8137467
 longitude: 9.3824903
 postcode: 71384
 city: Weinstadt
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

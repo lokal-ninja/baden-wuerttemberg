@@ -5,7 +5,7 @@ latitude: 49.4679414
 longitude: 10.0288333
 postcode: 97993
 city: Creglingen
-street: Romgasse
+street: "Romgasse"
 housenumber: 20
 phone: ""
 opening_hours: ""

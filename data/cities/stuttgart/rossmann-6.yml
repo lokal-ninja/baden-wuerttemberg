@@ -5,7 +5,7 @@ latitude: 48.811703400000006
 longitude: 9.169190500000001
 postcode: 70469
 city: Stuttgart
-street: Tunnelstraße
+street: "Tunnelstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-20:00; Su off; PH off"

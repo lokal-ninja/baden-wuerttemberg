@@ -5,7 +5,7 @@ latitude: 48.8466302
 longitude: 8.926894500000001
 postcode: 71287
 city: Weissach
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 11
 phone: "+49 7044 31339"
 opening_hours: ""

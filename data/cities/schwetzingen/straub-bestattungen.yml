@@ -5,7 +5,7 @@ latitude: 49.386921900000004
 longitude: 8.5709242
 postcode: 68723
 city: Schwetzingen
-street: Wildemannstraße
+street: "Wildemannstraße"
 housenumber: 15
 phone: "+49 6202 12031"
 opening_hours: ""

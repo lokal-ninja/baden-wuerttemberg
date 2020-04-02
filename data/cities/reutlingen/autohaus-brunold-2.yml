@@ -5,7 +5,7 @@ latitude: 48.4981627
 longitude: 9.1543469
 postcode: 72770
 city: Reutlingen
-street: Ernst-Abbe-Straße
+street: "Ernst-Abbe-Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 07:30-19:00; Sa 09:00-16:00"

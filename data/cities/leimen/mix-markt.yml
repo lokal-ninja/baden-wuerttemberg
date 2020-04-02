@@ -5,7 +5,7 @@ latitude: 49.343624500000004
 longitude: 8.678864500000001
 postcode: 69181
 city: Leimen
-street: Ferdinand-Porsche-Straße
+street: "Ferdinand-Porsche-Straße"
 housenumber: 6-8
 phone: "+49 6224 148911"
 opening_hours: "Mo-Sa 09:00-20:00"

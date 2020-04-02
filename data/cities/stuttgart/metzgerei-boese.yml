@@ -5,7 +5,7 @@ latitude: 48.7202916
 longitude: 9.2085685
 postcode: 70599
 city: Stuttgart
-street: Welfenstraße
+street: "Welfenstraße"
 housenumber: 21
 phone: "+49 711 454803"
 opening_hours: "Mo-Fr 07:15-18:15; Sa 07:00-13:15"

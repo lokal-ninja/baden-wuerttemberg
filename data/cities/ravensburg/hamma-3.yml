@@ -5,7 +5,7 @@ latitude: 47.78176920000001
 longitude: 9.5890644
 postcode: 88213
 city: Ravensburg
-street: Mittelöschstraße
+street: "Mittelöschstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su,PH 08:00-15:00"

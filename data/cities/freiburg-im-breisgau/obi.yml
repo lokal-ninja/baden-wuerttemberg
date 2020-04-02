@@ -5,7 +5,7 @@ latitude: 48.025003000000005
 longitude: 7.846830700000001
 postcode: 79108
 city: Freiburg im Breisgau
-street: Tullastraße
+street: "Tullastraße"
 housenumber: 62
 phone: "+49 761 51530"
 opening_hours: "Mo-Sa 08:00-20:00"

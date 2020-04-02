@@ -5,7 +5,7 @@ latitude: 49.345916
 longitude: 9.4383506
 postcode: 74259
 city: Widdern
-street: Talstraße
+street: "Talstraße"
 housenumber: 33
 phone: "+49 7943 562"
 opening_hours: "Tu,Sa 09:00-12:00; We,Fr 09:00-18:00"

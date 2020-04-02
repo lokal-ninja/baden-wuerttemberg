@@ -5,7 +5,7 @@ latitude: 48.6938734
 longitude: 9.121417300000001
 postcode: 70771
 city: Leinfelden-Echterdingen
-street: Hermannstraße
+street: "Hermannstraße"
 housenumber: 1
 phone: "+49 711 7541834"
 opening_hours: "Tu-Fr 08:00-13:00,15:00-18:00; Sa 08:00-12:30"

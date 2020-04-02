@@ -5,7 +5,7 @@ latitude: 48.7871523
 longitude: 8.1937757
 postcode: 76532
 city: Baden-Baden
-street: Sinzheimer Straße
+street: "Sinzheimer Straße"
 housenumber: 2
 phone: "+49 7221 61815"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; We 09:00-13:00"

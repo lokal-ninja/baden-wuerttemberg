@@ -5,7 +5,7 @@ latitude: 48.7328909
 longitude: 9.3241616
 postcode: 73730
 city: Esslingen am Neckar
-street: Stauffenbergstraße
+street: "Stauffenbergstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 47.672373400000005
 longitude: 9.160857
 postcode: 78467
 city: Konstanz
-street: Reichenaustraße
+street: "Reichenaustraße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Fr 11:00-12:00,13:00-16:00"

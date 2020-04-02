@@ -5,7 +5,7 @@ latitude: 47.734827700000004
 longitude: 8.7750366
 postcode: 78244
 city: Gottmadingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

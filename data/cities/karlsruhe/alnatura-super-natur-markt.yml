@@ -5,7 +5,7 @@ latitude: 49.0091186
 longitude: 8.3931241
 postcode: 76133
 city: Karlsruhe
-street: Douglasstraße
+street: "Douglasstraße"
 housenumber: 28-30
 phone: ""
 opening_hours: "Mo-Sa 08:30-20:00; Su,PH off"

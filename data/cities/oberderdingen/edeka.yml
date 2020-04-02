@@ -5,7 +5,7 @@ latitude: 49.082072700000005
 longitude: 8.7774903
 postcode: 75038
 city: Oberderdingen
-street: Attenbergstraße
+street: "Attenbergstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

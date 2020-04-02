@@ -5,7 +5,7 @@ latitude: 48.0822572
 longitude: 8.4998283
 postcode: 78052
 city: Villingen-Schwenningen
-street: Neuer Markt
+street: "Neuer Markt"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00; PH off"

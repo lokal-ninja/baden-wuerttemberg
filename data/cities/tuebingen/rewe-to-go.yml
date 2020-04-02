@@ -5,7 +5,7 @@ latitude: 48.5128476
 longitude: 9.0736602
 postcode: 72072
 city: Tübingen
-street: Reutlinger Straße
+street: "Reutlinger Straße"
 housenumber: 74
 phone: ""
 opening_hours: ""

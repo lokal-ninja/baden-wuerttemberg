@@ -5,7 +5,7 @@ latitude: 48.5687415
 longitude: 7.848645800000001
 postcode: 77694
 city: Kehl
-street: Elsässer Straße
+street: "Elsässer Straße"
 housenumber: 32
 phone: ""
 opening_hours: ""

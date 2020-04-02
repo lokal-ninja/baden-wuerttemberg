@@ -5,7 +5,7 @@ latitude: 49.2294733
 longitude: 9.2169
 postcode: 74177
 city: Bad Friedrichshall
-street: Hagenbacher Straße
+street: "Hagenbacher Straße"
 housenumber: 2
 phone: "+49 6261 12285"
 opening_hours: ""

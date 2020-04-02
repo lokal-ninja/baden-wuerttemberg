@@ -5,7 +5,7 @@ latitude: 49.3526486
 longitude: 9.1455739
 postcode: 74821
 city: Mosbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 39
 phone: ""
 opening_hours: ""

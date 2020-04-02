@@ -5,7 +5,7 @@ latitude: 48.5734944
 longitude: 7.8085864
 postcode: 77694
 city: Kehl
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

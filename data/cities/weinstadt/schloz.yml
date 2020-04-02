@@ -5,7 +5,7 @@ latitude: 48.813482500000006
 longitude: 9.356692500000001
 postcode: 71384
 city: Weinstadt
-street: Mercedesstraße
+street: "Mercedesstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.519685900000006
 longitude: 9.05766
 postcode: 72070
 city: Tübingen
-street: Neckargasse
+street: "Neckargasse"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"

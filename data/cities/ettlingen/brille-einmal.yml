@@ -5,7 +5,7 @@ latitude: 48.941586900000004
 longitude: 8.4044814
 postcode: 76275
 city: Ettlingen
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

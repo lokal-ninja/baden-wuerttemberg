@@ -5,7 +5,7 @@ latitude: 48.0596108
 longitude: 8.5168639
 postcode: 78054
 city: Villingen-Schwenningen
-street: Wasenstraße
+street: "Wasenstraße"
 housenumber: 65
 phone: "+49772038977"
 opening_hours: ""

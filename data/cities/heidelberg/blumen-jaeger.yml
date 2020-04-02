@@ -5,7 +5,7 @@ latitude: 49.3781819
 longitude: 8.667667900000001
 postcode: 69124
 city: Heidelberg
-street: Schwetzinger Straße
+street: "Schwetzinger Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00"

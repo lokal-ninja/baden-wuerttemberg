@@ -5,7 +5,7 @@ latitude: 48.5198636
 longitude: 9.0565914
 postcode: 72070
 city: Tübingen
-street: Clinicumsgasse
+street: "Clinicumsgasse"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00"

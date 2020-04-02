@@ -5,7 +5,7 @@ latitude: 47.793222400000005
 longitude: 9.611746700000001
 postcode: 88212
 city: Ravensburg
-street: Bleicherstraße
+street: "Bleicherstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00"

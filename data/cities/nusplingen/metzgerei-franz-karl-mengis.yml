@@ -5,7 +5,7 @@ latitude: 48.133961500000005
 longitude: 8.8900681
 postcode: 72362
 city: Nusplingen
-street: Hohenbergstraße
+street: "Hohenbergstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

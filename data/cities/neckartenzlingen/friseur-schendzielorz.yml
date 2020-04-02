@@ -5,7 +5,7 @@ latitude: 48.590963800000004
 longitude: 9.234228400000001
 postcode: 72654
 city: Neckartenzlingen
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

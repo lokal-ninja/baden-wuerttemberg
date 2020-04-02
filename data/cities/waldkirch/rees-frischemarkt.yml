@@ -5,7 +5,7 @@ latitude: 48.085080700000006
 longitude: 7.9460813
 postcode: 79183
 city: Waldkirch
-street: Stahlhofstraße
+street: "Stahlhofstraße"
 housenumber: 3b
 phone: "+49 7681 474603"
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

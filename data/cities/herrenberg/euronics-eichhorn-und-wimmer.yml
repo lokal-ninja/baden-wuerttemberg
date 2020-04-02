@@ -5,7 +5,7 @@ latitude: 48.593022000000005
 longitude: 8.863925100000001
 postcode: 71083
 city: Herrenberg
-street: Walther-Knoll-Straße
+street: "Walther-Knoll-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

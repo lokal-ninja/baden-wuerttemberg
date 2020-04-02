@@ -5,7 +5,7 @@ latitude: 47.692334200000005
 longitude: 10.0397324
 postcode: 88316
 city: Isny im Allgäu
-street: Wassertorstraße
+street: "Wassertorstraße"
 housenumber: 4
 phone: "+49 7562 2364"
 opening_hours: ""

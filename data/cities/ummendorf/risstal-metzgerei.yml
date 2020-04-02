@@ -5,7 +5,7 @@ latitude: 48.063958400000004
 longitude: 9.8247037
 postcode: 88444
 city: Ummendorf
-street: Riedweg
+street: "Riedweg"
 housenumber: 18
 phone: "+4973 51372072"
 opening_hours: ""

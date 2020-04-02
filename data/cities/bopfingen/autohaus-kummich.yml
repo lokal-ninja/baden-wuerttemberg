@@ -5,7 +5,7 @@ latitude: 48.8554523
 longitude: 10.3609919
 postcode: 73441
 city: Bopfingen
-street: Nördlinger Straße
+street: "Nördlinger Straße"
 housenumber: 24
 phone: "+49 7362 96460"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 48.648518900000006
 longitude: 9.300371400000001
 postcode: 72649
 city: Wolfschlugen
-street: Max-Eyth-Straße
+street: "Max-Eyth-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

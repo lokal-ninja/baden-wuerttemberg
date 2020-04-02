@@ -5,7 +5,7 @@ latitude: 48.803506600000006
 longitude: 9.3889406
 postcode: 71384
 city: Weinstadt
-street: Buhlstraße
+street: "Buhlstraße"
 housenumber: 48
 phone: "+49 7151 205830"
 opening_hours: "Nach Vereinbarung"

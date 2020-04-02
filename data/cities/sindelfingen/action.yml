@@ -5,7 +5,7 @@ latitude: 48.7085621
 longitude: 9.0056104
 postcode: 71063
 city: Sindelfingen
-street: Vaihinger Straße
+street: "Vaihinger Straße"
 housenumber: 11-15
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

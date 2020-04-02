@@ -5,7 +5,7 @@ latitude: 48.7508342
 longitude: 8.8711009
 postcode: 71263
 city: Weil der Stadt
-street: Pfarrgasse
+street: "Pfarrgasse"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30"

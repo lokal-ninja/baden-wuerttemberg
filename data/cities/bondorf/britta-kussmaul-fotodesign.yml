@@ -5,7 +5,7 @@ latitude: 48.5216396
 longitude: 8.834384700000001
 postcode: 71149
 city: Bondorf
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 47
 phone: "+49 7457 935980"
 opening_hours: ""

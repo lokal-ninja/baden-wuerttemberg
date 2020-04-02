@@ -5,7 +5,7 @@ latitude: 48.6766969
 longitude: 9.2073333
 postcode: 70794
 city: Filderstadt
-street: Echterdinger Straße
+street: "Echterdinger Straße"
 housenumber: 59
 phone: "+49 711 65532722"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

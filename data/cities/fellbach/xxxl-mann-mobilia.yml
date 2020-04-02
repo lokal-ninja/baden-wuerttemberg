@@ -5,7 +5,7 @@ latitude: 48.8156696
 longitude: 9.286481
 postcode: 70734
 city: Fellbach
-street: Edisonstraße
+street: "Edisonstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

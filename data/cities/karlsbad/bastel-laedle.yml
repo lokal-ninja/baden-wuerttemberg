@@ -5,7 +5,7 @@ latitude: 48.920176000000005
 longitude: 8.5046456
 postcode: 76307
 city: Karlsbad
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 1
 phone: "+49 07202 1725"
 opening_hours: ""

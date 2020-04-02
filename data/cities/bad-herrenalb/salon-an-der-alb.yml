@@ -5,7 +5,7 @@ latitude: 48.7966326
 longitude: 8.435075000000001
 postcode: 76332
 city: Bad Herrenalb
-street: Gernsbacher Straße
+street: "Gernsbacher Straße"
 housenumber: 5
 phone: "+49 (0)7083 2172"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.158286600000004
 longitude: 8.6210201
 postcode: 78628
 city: Rottweil
-street: Brugger Straße
+street: "Brugger Straße"
 housenumber: 59-61
 phone: ""
 opening_hours: "Mo,Su off; Tu-Fr 08:00-18:00; Sa 07:30-13:00"

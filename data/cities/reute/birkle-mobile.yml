@@ -5,7 +5,7 @@ latitude: 48.0848589
 longitude: 7.8299288
 postcode: 79276
 city: Reute
-street: Emmendinger Straße
+street: "Emmendinger Straße"
 housenumber: 15
 phone: "+49 7641 957000"
 opening_hours: "Mo-Fr 09:00-12:30,14:00-17:30; Sa 09:00-13:00; Su off"

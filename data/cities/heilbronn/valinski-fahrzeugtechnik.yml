@@ -5,7 +5,7 @@ latitude: 49.147010900000005
 longitude: 9.1950926
 postcode: 74080
 city: Heilbronn
-street: Limesstraße
+street: "Limesstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

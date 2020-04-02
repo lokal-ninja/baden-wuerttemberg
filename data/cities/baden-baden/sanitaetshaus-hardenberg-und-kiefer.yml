@@ -5,7 +5,7 @@ latitude: 48.7572528
 longitude: 8.2423524
 postcode: 76530
 city: Baden-Baden
-street: Lichtentaler Straße
+street: "Lichtentaler Straße"
 housenumber: 51
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"

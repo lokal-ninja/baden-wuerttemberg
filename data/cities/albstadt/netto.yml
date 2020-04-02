@@ -5,7 +5,7 @@ latitude: 48.262206600000006
 longitude: 9.0104451
 postcode: 72461
 city: Albstadt
-street: Dorotheenstraße
+street: "Dorotheenstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

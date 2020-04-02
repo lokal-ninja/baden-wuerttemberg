@@ -5,7 +5,7 @@ latitude: 48.8773167
 longitude: 9.1734471
 postcode: 70806
 city: Kornwestheim
-street: Solitudeallee
+street: "Solitudeallee"
 housenumber: 150
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-16:00"

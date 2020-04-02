@@ -5,7 +5,7 @@ latitude: 48.6876936
 longitude: 8.9969172
 postcode: 71034
 city: Böblingen
-street: Leonardo-da-Vinci-Platz
+street: "Leonardo-da-Vinci-Platz"
 housenumber: 7
 phone: "+49 7031 2989984"
 opening_hours: "Tu-Fr 09:00 - 18:00; Sa 09:00 - 13:00"

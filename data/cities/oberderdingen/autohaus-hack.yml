@@ -5,7 +5,7 @@ latitude: 49.067604200000005
 longitude: 8.807256200000001
 postcode: 75038
 city: Oberderdingen
-street: Hagenfeldstraße
+street: "Hagenfeldstraße"
 housenumber: 3
 phone: "+49 7045 9629 0"
 opening_hours: ""

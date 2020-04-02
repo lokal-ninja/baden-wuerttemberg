@@ -5,7 +5,7 @@ latitude: 48.839937500000005
 longitude: 9.2290629
 postcode: 70378
 city: Stuttgart
-street: Aldinger Straße
+street: "Aldinger Straße"
 housenumber: 70
 phone: "+49 711 5534990"
 opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30; PH off"

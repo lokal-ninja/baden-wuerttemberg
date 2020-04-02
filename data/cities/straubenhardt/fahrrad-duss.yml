@@ -5,7 +5,7 @@ latitude: 48.841584000000005
 longitude: 8.525745
 postcode: 75334
 city: Straubenhardt
-street: Lärchenweg
+street: "Lärchenweg"
 housenumber: 17
 phone: "+49 7082 40567"
 opening_hours: ""

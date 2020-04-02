@@ -5,7 +5,7 @@ latitude: 47.9857686
 longitude: 7.8370994000000005
 postcode: 79100
 city: Freiburg im Breisgau
-street: Christoph-Mang-Straße
+street: "Christoph-Mang-Straße"
 housenumber: 8
 phone: "+49 761 400 41 40"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.628604700000004
 longitude: 8.0713264
 postcode: 77855
 city: Achern
-street: Wilhelm-Schechter-Straße
+street: "Wilhelm-Schechter-Straße"
 housenumber: 5
 phone: "+49 7841 6731233"
 opening_hours: "Tu-We, Fr 09:00-18:00; Th 09:00-19:00; Sa 08:00-14:00"

@@ -5,7 +5,7 @@ latitude: 47.98151480000001
 longitude: 8.8035799
 postcode: 78532
 city: Tuttlingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 118
 phone: "+49 7461 3302"
 opening_hours: ""

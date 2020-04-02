@@ -5,7 +5,7 @@ latitude: 48.892410100000006
 longitude: 8.5770744
 postcode: 75210
 city: Keltern
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:30"

@@ -5,7 +5,7 @@ latitude: 48.8144809
 longitude: 8.1989511
 postcode: 76532
 city: Baden-Baden
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 49
 phone: "+49 7221 50920"
 opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,14:30-18:00, We 08:30-12:30, Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.5156751
 longitude: 9.218343800000001
 postcode: 72766
 city: Reutlingen
-street: Lembergstraße
+street: "Lembergstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

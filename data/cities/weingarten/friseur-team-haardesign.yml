@@ -5,7 +5,7 @@ latitude: 47.8082864
 longitude: 9.6420472
 postcode: 88250
 city: Weingarten
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 07:00-13:00; PH off"

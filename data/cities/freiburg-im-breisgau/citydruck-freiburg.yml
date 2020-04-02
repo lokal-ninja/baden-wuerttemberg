@@ -5,7 +5,7 @@ latitude: 47.979674700000004
 longitude: 7.8291392
 postcode: 79100
 city: Freiburg im Breisgau
-street: Oltmannsstraße
+street: "Oltmannsstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

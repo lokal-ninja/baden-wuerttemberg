@@ -5,7 +5,7 @@ latitude: 48.0507186
 longitude: 7.7301975
 postcode: 79288
 city: Gottenheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

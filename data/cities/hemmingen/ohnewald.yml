@@ -5,7 +5,7 @@ latitude: 48.864193900000004
 longitude: 9.0320132
 postcode: 71282
 city: Hemmingen
-street: Blohnstraße
+street: "Blohnstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

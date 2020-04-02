@@ -5,7 +5,7 @@ latitude: 48.8228979
 longitude: 9.2180285
 postcode: 70376
 city: Stuttgart
-street: Freibergstraße
+street: "Freibergstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo,Sa 07:30-13:00; Tu-Fr 07:30-13:00,15:00-18:00"

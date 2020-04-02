@@ -5,7 +5,7 @@ latitude: 49.0206196
 longitude: 8.456014900000001
 postcode: 76139
 city: Karlsruhe
-street: Ruschgraben
+street: "Ruschgraben"
 housenumber: 90
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"

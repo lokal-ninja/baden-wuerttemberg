@@ -5,7 +5,7 @@ latitude: 48.0928587
 longitude: 7.9623474000000005
 postcode: 79183
 city: Waldkirch
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 23
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.7600239
 longitude: 9.5156595
 postcode: 97877
 city: Wertheim
-street: Brückengasse
+street: "Brückengasse"
 housenumber: 3
 phone: "+49 9342 22926"
 opening_hours: "Mo-Fr 07:30-18:00, Sa. 7:30 - 17:00, So. 13:00 - 18:00"

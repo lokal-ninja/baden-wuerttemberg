@@ -5,7 +5,7 @@ latitude: 49.0781567
 longitude: 9.065384100000001
 postcode: 74336
 city: Brackenheim
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

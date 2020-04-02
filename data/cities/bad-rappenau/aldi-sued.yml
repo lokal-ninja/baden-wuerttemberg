@@ -5,7 +5,7 @@ latitude: 49.2388266
 longitude: 9.0943839
 postcode: 74906
 city: Bad Rappenau
-street: Riemenstraße
+street: "Riemenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su off"

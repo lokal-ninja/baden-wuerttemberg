@@ -5,7 +5,7 @@ latitude: 48.62290470000001
 longitude: 8.0762465
 postcode: 77855
 city: Achern
-street: Allerheiligenstraße
+street: "Allerheiligenstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

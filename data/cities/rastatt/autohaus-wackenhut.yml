@@ -5,7 +5,7 @@ latitude: 48.8518291
 longitude: 8.209485500000001
 postcode: 76437
 city: Rastatt
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 30b
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.83052
 longitude: 8.6546575
 postcode: 75331
 city: Engelsbrand
-street: Industrieweg
+street: "Industrieweg"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

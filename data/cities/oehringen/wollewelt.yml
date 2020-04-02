@@ -5,7 +5,7 @@ latitude: 49.203758900000004
 longitude: 9.5054323
 postcode: 74613
 city: Öhringen
-street: Wollreffenweg
+street: "Wollreffenweg"
 housenumber: 1
 phone: "+49 7941 9886 707"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"

@@ -5,7 +5,7 @@ latitude: 48.9157657
 longitude: 9.370517600000001
 postcode: 71576
 city: Burgstetten
-street: Untere Hofstraße
+street: "Untere Hofstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

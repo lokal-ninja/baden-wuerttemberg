@@ -5,7 +5,7 @@ latitude: 47.809400600000004
 longitude: 7.6305521
 postcode: 79379
 city: Müllheim
-street: Moltkestraße
+street: "Moltkestraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

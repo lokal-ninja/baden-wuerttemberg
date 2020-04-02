@@ -5,7 +5,7 @@ latitude: 49.2558449
 longitude: 9.6794623
 postcode: 74653
 city: Künzelsau
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

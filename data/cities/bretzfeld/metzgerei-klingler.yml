@@ -5,7 +5,7 @@ latitude: 49.1765563
 longitude: 9.4399692
 postcode: 74626
 city: Bretzfeld
-street: Adolzfurter Straße
+street: "Adolzfurter Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 07:30-13:00; Tu-Fr 14:30-18:00; Sa 07:00-13:00"

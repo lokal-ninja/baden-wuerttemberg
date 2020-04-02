@@ -5,7 +5,7 @@ latitude: 48.5214251
 longitude: 9.0340529
 postcode: 72070
 city: Tübingen
-street: Sindelfinger Straße
+street: "Sindelfinger Straße"
 housenumber: 12
 phone: "+49 7071 42532"
 opening_hours: "Mo-Th 07:30-12:30,13:30-17:00; Fr 07:30-12:30,13:30-16:00; Sa,Su,PH off"

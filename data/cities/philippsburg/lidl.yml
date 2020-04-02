@@ -5,7 +5,7 @@ latitude: 49.240353600000006
 longitude: 8.4603918
 postcode: 76661
 city: Philippsburg
-street: Tullastraße
+street: "Tullastraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

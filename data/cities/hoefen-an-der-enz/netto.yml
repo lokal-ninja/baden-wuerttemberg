@@ -5,7 +5,7 @@ latitude: 48.800710800000004
 longitude: 8.584790400000001
 postcode: 75339
 city: Höfen an der Enz
-street: Wildbader Straße
+street: "Wildbader Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

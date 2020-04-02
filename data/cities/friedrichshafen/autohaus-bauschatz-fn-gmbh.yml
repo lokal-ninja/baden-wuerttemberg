@@ -5,7 +5,7 @@ latitude: 47.658815700000005
 longitude: 9.4723466
 postcode: 88045
 city: Friedrichshafen
-street: Leutholdstraße
+street: "Leutholdstraße"
 housenumber: 11
 phone: ""
 opening_hours: "07:00-17:30; Fr 07:00-17:00; Sa,Su,PH off"

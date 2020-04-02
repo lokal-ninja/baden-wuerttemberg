@@ -5,7 +5,7 @@ latitude: 48.4935449
 longitude: 9.7027043
 postcode: 89150
 city: Laichingen
-street: Graf-von-Zeppelin-Straße
+street: "Graf-von-Zeppelin-Straße"
 housenumber: 2/4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

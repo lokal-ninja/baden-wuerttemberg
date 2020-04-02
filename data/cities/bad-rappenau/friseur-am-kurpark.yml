@@ -5,7 +5,7 @@ latitude: 49.2392046
 longitude: 9.108340400000001
 postcode: 74906
 city: Bad Rappenau
-street: Piaweg
+street: "Piaweg"
 housenumber: 5
 phone: "+49 7264 5332"
 opening_hours: ""

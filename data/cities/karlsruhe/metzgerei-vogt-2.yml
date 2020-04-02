@@ -5,7 +5,7 @@ latitude: 48.952020100000006
 longitude: 8.5110016
 postcode: 76228
 city: Karlsruhe
-street: Neubergstraße
+street: "Neubergstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo off; Tu-Fr 8:00-13:00, 15:00-18:00; Sa 7:30-12:30; Su off"

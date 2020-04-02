@@ -5,7 +5,7 @@ latitude: 49.011344400000006
 longitude: 8.4236658
 postcode: 76131
 city: Karlsruhe
-street: Haid-und-Neu-Straße
+street: "Haid-und-Neu-Straße"
 housenumber: 2
 phone: "+49 721 697746"
 opening_hours: "Mo-Fr 06:00-18:00; Su, PH 08:00-18:00; Sa 07:00-18:00"

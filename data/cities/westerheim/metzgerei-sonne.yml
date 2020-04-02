@@ -5,7 +5,7 @@ latitude: 48.5138687
 longitude: 9.626567300000001
 postcode: 
 city: Westerheim
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

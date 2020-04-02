@@ -5,7 +5,7 @@ latitude: 48.7893685
 longitude: 9.008113100000001
 postcode: 71229
 city: Leonberg
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 07:30-19:30"

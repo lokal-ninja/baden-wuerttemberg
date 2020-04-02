@@ -5,7 +5,7 @@ latitude: 48.8046948
 longitude: 8.4447238
 postcode: 76332
 city: Bad Herrenalb
-street: Ettlinger Straße
+street: "Ettlinger Straße"
 housenumber: 36
 phone: "+49 7083 8866"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30"

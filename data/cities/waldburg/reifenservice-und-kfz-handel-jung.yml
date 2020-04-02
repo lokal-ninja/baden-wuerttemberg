@@ -5,7 +5,7 @@ latitude: 47.754156200000004
 longitude: 9.7111313
 postcode: 88289
 city: Waldburg
-street: Bodnegger Straße
+street: "Bodnegger Straße"
 housenumber: 33
 phone: "+49 7529 1242"
 opening_hours: ""

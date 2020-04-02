@@ -5,7 +5,7 @@ latitude: 48.897490600000005
 longitude: 9.1897129
 postcode: 71634
 city: Ludwigsburg
-street: Asperger Straße
+street: "Asperger Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00, Sa 09:00-17:00"

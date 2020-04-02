@@ -5,7 +5,7 @@ latitude: 48.447264700000005
 longitude: 9.059627500000001
 postcode: 72144
 city: Dußlingen
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-22:00; Su 08:00-11:00"

@@ -5,7 +5,7 @@ latitude: 47.731091400000004
 longitude: 9.7002638
 postcode: 88285
 city: Bodnegg
-street: Birkenstraße
+street: "Birkenstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 49.037433400000005
 longitude: 8.6927039
 postcode: 75015
 city: Bretten
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 52
 phone: ""
 opening_hours: ""

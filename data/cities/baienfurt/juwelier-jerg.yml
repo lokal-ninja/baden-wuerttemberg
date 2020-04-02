@@ -5,7 +5,7 @@ latitude: 47.829396800000005
 longitude: 9.650659000000001
 postcode: 88255
 city: Baienfurt
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 11
 phone: "+49 751 41944"
 opening_hours: "Mo-Fr 8:30-12:15, 14:00-18:00; Sa 8:30-12:15"

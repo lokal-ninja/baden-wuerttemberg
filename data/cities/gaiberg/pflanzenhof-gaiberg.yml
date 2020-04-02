@@ -5,7 +5,7 @@ latitude: 49.366565800000004
 longitude: 8.752037600000001
 postcode: 69251
 city: Gaiberg
-street: Pfarrgasse
+street: "Pfarrgasse"
 housenumber: 6
 phone: ""
 opening_hours: ""

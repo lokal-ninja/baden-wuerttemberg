@@ -5,7 +5,7 @@ latitude: 48.2208382
 longitude: 7.7600495
 postcode: 79336
 city: Herbolzheim
-street: Sven-Kovacs-Straße
+street: "Sven-Kovacs-Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00"

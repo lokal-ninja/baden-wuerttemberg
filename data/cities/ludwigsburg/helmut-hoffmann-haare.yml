@@ -5,7 +5,7 @@ latitude: 48.8963863
 longitude: 9.1874719
 postcode: 71634
 city: Ludwigsburg
-street: Hospitalstraße
+street: "Hospitalstraße"
 housenumber: 1
 phone: "+49 7141 920736"
 opening_hours: ""

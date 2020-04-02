@@ -5,7 +5,7 @@ latitude: 48.463684300000004
 longitude: 9.226275300000001
 postcode: 72793
 city: Pfullingen
-street: Klosterstraße
+street: "Klosterstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Tu 07:00-12:30, 14:30-18:00; We 07:00-12:30; Th-Fr 07:00-12:30, 14:30-18:00; Sa 07:00-12:00"

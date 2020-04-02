@@ -5,7 +5,7 @@ latitude: 48.8748651
 longitude: 9.3975419
 postcode: 71364
 city: Winnenden
-street: Robert-Boehringer-Straße
+street: "Robert-Boehringer-Straße"
 housenumber: 5
 phone: "+49 7195 2095046"
 opening_hours: ""

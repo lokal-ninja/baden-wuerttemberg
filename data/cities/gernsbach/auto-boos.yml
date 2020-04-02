@@ -5,7 +5,7 @@ latitude: 48.7760778
 longitude: 8.343467200000001
 postcode: 76593
 city: Gernsbach
-street: Schwarzwaldstraße
+street: "Schwarzwaldstraße"
 housenumber: 70
 phone: "+49 7224 1580"
 opening_hours: ""

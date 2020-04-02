@@ -5,7 +5,7 @@ latitude: 47.632536300000005
 longitude: 9.524918600000001
 postcode: 88097
 city: Eriskirch
-street: Friedrichshafener Straße
+street: "Friedrichshafener Straße"
 housenumber: 37
 phone: ""
 opening_hours: ""

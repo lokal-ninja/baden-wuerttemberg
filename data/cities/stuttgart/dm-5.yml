@@ -5,7 +5,7 @@ latitude: 48.771129900000005
 longitude: 9.159300700000001
 postcode: 70178
 city: Stuttgart
-street: Rotebühlstraße
+street: "Rotebühlstraße"
 housenumber: 98
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-18:00"

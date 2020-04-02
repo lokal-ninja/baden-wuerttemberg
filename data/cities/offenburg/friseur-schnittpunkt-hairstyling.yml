@@ -5,7 +5,7 @@ latitude: 48.471891600000006
 longitude: 7.952205200000001
 postcode: 77654
 city: Offenburg
-street: Turnhallestraße
+street: "Turnhallestraße"
 housenumber: 28
 phone: "+497819666674"
 opening_hours: "Mo 09:00-18:00; Tu-Th 08:30-18:00; Fr 08:30-19:00; Sa 08:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.1419178
 longitude: 10.0413925
 postcode: 74564
 city: Crailsheim
-street: Hans-Scholl-Allee
+street: "Hans-Scholl-Allee"
 housenumber: 2
 phone: ""
 opening_hours: ""

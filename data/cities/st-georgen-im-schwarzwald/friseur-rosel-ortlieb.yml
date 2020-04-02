@@ -5,7 +5,7 @@ latitude: 48.131841900000005
 longitude: 8.3747381
 postcode: 78112
 city: St. Georgen im Schwarzwald
-street: Ortsstraße
+street: "Ortsstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

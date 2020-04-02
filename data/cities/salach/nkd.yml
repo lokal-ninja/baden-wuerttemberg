@@ -5,7 +5,7 @@ latitude: 48.6901347
 longitude: 9.7397682
 postcode: 73084
 city: Salach
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"

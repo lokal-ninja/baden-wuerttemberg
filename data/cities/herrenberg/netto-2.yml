@@ -5,7 +5,7 @@ latitude: 48.611648200000005
 longitude: 8.8510191
 postcode: 71083
 city: Herrenberg
-street: Römerweg
+street: "Römerweg"
 housenumber: 57
 phone: ""
 opening_hours: ""

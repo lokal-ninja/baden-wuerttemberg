@@ -5,7 +5,7 @@ latitude: 47.631039200000004
 longitude: 8.578810200000001
 postcode: 79807
 city: Lottstetten
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 36
 phone: "+49 800 435 33 61"
 opening_hours: "Mo-Sa 08:00-21:00"

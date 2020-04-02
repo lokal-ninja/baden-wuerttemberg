@@ -5,7 +5,7 @@ latitude: 47.715584
 longitude: 9.4009339
 postcode: 88677
 city: Markdorf
-street: Planckstraße
+street: "Planckstraße"
 housenumber: 1
 phone: "+49 7544 95130"
 opening_hours: ""

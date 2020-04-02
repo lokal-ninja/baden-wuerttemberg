@@ -5,7 +5,7 @@ latitude: 49.027985400000006
 longitude: 8.4551499
 postcode: 76139
 city: Karlsruhe
-street: Waldeckstraße
+street: "Waldeckstraße"
 housenumber: 1
 phone: "+49 721 96879200"
 opening_hours: "Mo-Sa 06:00-18:00;Su,PH 08:00-18:00"

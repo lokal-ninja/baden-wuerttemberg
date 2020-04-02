@@ -5,7 +5,7 @@ latitude: 48.695810900000005
 longitude: 8.964753400000001
 postcode: 71034
 city: Böblingen
-street: Albert-Schweitzer-Straße
+street: "Albert-Schweitzer-Straße"
 housenumber: 70
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

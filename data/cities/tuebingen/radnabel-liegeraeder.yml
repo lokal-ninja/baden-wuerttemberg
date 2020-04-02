@@ -5,7 +5,7 @@ latitude: 48.5212281
 longitude: 9.0508098
 postcode: 72070
 city: Tübingen
-street: Jakobsgasse
+street: "Jakobsgasse"
 housenumber: 19
 phone: ""
 opening_hours: ""

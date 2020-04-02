@@ -5,7 +5,7 @@ latitude: 48.541127700000004
 longitude: 9.277641500000001
 postcode: 72555
 city: Metzingen
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 54
 phone: ""
 opening_hours: ""

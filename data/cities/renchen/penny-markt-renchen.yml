@@ -5,7 +5,7 @@ latitude: 48.5914572
 longitude: 8.0166845
 postcode: 77871
 city: Renchen
-street: Straßburger Straße
+street: "Straßburger Straße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

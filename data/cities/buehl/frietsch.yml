@@ -5,7 +5,7 @@ latitude: 48.7179768
 longitude: 8.0630583
 postcode: 77815
 city: Bühl
-street: Mooser Straße
+street: "Mooser Straße"
 housenumber: 32
 phone: "+49 7227 4858"
 opening_hours: ""

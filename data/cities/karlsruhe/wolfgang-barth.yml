@@ -5,7 +5,7 @@ latitude: 48.9989538
 longitude: 8.393007800000001
 postcode: 76137
 city: Karlsruhe
-street: Vorholzstraße
+street: "Vorholzstraße"
 housenumber: 19a
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:30-17:00"

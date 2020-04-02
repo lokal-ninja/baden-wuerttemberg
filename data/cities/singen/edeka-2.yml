@@ -5,7 +5,7 @@ latitude: 47.761607000000005
 longitude: 8.892668800000001
 postcode: 78224
 city: Singen
-street: Unter den Tannen
+street: "Unter den Tannen"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

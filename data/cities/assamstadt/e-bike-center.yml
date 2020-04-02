@@ -5,7 +5,7 @@ latitude: 49.4264692
 longitude: 9.7014457
 postcode: 97959
 city: Assamstadt
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

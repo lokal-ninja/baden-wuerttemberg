@@ -5,7 +5,7 @@ latitude: 48.890495900000005
 longitude: 8.6993138
 postcode: 75172
 city: Pforzheim
-street: Leopoldstraße
+street: "Leopoldstraße"
 housenumber: 13
 phone: "+49 7231 314970"
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 47.635442000000005
 longitude: 8.279652200000001
 postcode: 79761
 city: Waldshut-Tiengen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 92
 phone: "+49 7741 6939715"
 opening_hours: "Mo-Sa 10:00-19:00"

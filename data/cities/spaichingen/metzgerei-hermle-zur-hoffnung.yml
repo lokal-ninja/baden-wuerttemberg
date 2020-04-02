@@ -5,7 +5,7 @@ latitude: 48.072061500000004
 longitude: 8.735892100000001
 postcode: 78549
 city: Spaichingen
-street: Angerstraße
+street: "Angerstraße"
 housenumber: 35
 phone: "+49 7424 6220"
 opening_hours: ""

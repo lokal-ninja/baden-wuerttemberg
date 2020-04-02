@@ -5,7 +5,7 @@ latitude: 48.7801318
 longitude: 9.2519214
 postcode: 70327
 city: Stuttgart
-street: Widdersteinstraße
+street: "Widdersteinstraße"
 housenumber: 4
 phone: "+49 711 94559793"
 opening_hours: ""

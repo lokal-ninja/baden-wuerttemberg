@@ -5,7 +5,7 @@ latitude: 48.5518538
 longitude: 8.8756147
 postcode: 71126
 city: Gäufelden
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 34
 phone: "+49 7032 9132069"
 opening_hours: "Mo 07:00-12:30, 15:30-18:30; Tu 07:00-12:30; We 07:00-12:30; Th 07:00-12:30, 15:30-18:30; Fr 07:00-12:30, 15:30-18:30; Sa 07:00-12:30"

@@ -5,7 +5,7 @@ latitude: 48.681558900000006
 longitude: 9.424474100000001
 postcode: 73249
 city: Wernau (Neckar)
-street: Friedrich-List-Straße
+street: "Friedrich-List-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

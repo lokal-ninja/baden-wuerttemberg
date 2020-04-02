@@ -5,7 +5,7 @@ latitude: 48.1058499
 longitude: 9.005767
 postcode: 72477
 city: Schwenningen
-street: Talstraße
+street: "Talstraße"
 housenumber: 10
 phone: "+49 7579 9336128"
 opening_hours: "Mo-Fr 09:00-18:00"

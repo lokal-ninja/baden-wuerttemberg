@@ -5,7 +5,7 @@ latitude: 49.0308925
 longitude: 8.458416
 postcode: 76139
 city: Karlsruhe
-street: Jägerhausstraße
+street: "Jägerhausstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su 08:00-11:00"

@@ -5,7 +5,7 @@ latitude: 48.5947844
 longitude: 8.8722387
 postcode: 71083
 city: Herrenberg
-street: Hasenplatz
+street: "Hasenplatz"
 housenumber: 5
 phone: ""
 opening_hours: "We 08:30-17:30; Th 08:30-18:30; Fr 08:30-18:00"

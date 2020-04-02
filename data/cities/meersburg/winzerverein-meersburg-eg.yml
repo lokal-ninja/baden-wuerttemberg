@@ -5,7 +5,7 @@ latitude: 47.6935306
 longitude: 9.2830741
 postcode: 88709
 city: Meersburg
-street: Kronenstraße
+street: "Kronenstraße"
 housenumber: 19
 phone: "+49 7532 43160"
 opening_hours: ""

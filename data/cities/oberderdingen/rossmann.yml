@@ -5,7 +5,7 @@ latitude: 49.061132400000005
 longitude: 8.8072
 postcode: 75038
 city: Oberderdingen
-street: Sternenfelser Straße
+street: "Sternenfelser Straße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

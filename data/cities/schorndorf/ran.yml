@@ -5,7 +5,7 @@ latitude: 48.805702600000004
 longitude: 9.543760200000001
 postcode: 73614
 city: Schorndorf
-street: Gmünder Straße
+street: "Gmünder Straße"
 housenumber: 102
 phone: "+49 07181 2579711"
 opening_hours: "Mo-Su 05:00-23:00"

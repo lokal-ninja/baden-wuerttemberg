@@ -5,7 +5,7 @@ latitude: 48.470959900000004
 longitude: 8.4976643
 postcode: 72280
 city: Dornstetten
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

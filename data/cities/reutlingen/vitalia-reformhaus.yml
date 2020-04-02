@@ -5,7 +5,7 @@ latitude: 48.4844838
 longitude: 9.2039714
 postcode: 72762
 city: Reutlingen
-street: Alteburgstraße
+street: "Alteburgstraße"
 housenumber: 47
 phone: "+49 7121 923853"
 opening_hours: ""

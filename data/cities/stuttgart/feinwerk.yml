@@ -5,7 +5,7 @@ latitude: 48.7770828
 longitude: 9.159745800000001
 postcode: 70176
 city: Stuttgart
-street: Senefelderstraße
+street: "Senefelderstraße"
 housenumber: 74A
 phone: ""
 opening_hours: "Tu 09:00-13:00; We-Fr 10:00-18:00; Sa 10:00-14:00"

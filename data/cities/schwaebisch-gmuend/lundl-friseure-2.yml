@@ -5,7 +5,7 @@ latitude: 48.790019900000004
 longitude: 9.7756814
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Kolpingplatz
+street: "Kolpingplatz"
 housenumber: 7
 phone: "+49 7171 405461"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

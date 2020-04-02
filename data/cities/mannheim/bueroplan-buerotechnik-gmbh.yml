@@ -5,7 +5,7 @@ latitude: 49.444416200000006
 longitude: 8.572979400000001
 postcode: 68229
 city: Mannheim
-street: Markircher Straße
+street: "Markircher Straße"
 housenumber: 5
 phone: "+49 621 483670"
 opening_hours: "Mo-Fr 08:00-16:30"

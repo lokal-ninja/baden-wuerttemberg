@@ -5,7 +5,7 @@ latitude: 47.6805357
 longitude: 9.2025333
 postcode: 78464
 city: Konstanz
-street: Staader Straße
+street: "Staader Straße"
 housenumber: 2
 phone: "+49 7531 593719"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

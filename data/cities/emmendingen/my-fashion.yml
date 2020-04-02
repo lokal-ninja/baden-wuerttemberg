@@ -5,7 +5,7 @@ latitude: 48.120149600000005
 longitude: 7.850764300000001
 postcode: 79312
 city: Emmendingen
-street: Markgrafenstraße
+street: "Markgrafenstraße"
 housenumber: 2
 phone: "+49 7641 93 69644"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.475920300000006
 longitude: 8.9325653
 postcode: 72108
 city: Rottenburg am Neckar
-street: Königstraße
+street: "Königstraße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

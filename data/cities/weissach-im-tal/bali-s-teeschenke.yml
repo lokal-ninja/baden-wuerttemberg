@@ -5,7 +5,7 @@ latitude: 48.929954
 longitude: 9.477523000000001
 postcode: 71554
 city: Weissach im Tal
-street: Forststraße
+street: "Forststraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

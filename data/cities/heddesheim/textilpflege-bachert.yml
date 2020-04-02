@@ -5,7 +5,7 @@ latitude: 49.5058523
 longitude: 8.6031127
 postcode: 68542
 city: Heddesheim
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 1
 phone: "+49 6203 43192"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.1410125
 longitude: 9.2186742
 postcode: 74072
 city: Heilbronn
-street: Eichgasse
+street: "Eichgasse"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4269716
 longitude: 8.647231
 postcode: 69123
 city: Heidelberg
-street: Mannheimer Straße
+street: "Mannheimer Straße"
 housenumber: 258
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.365675200000005
 longitude: 8.6535069
 postcode: 72172
 city: Sulz am Neckar
-street: Holzhauser Hauptstraße
+street: "Holzhauser Hauptstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

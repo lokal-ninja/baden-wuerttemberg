@@ -5,7 +5,7 @@ latitude: 47.554978600000005
 longitude: 8.0307492
 postcode: 79730
 city: Murg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 99
 phone: ""
 opening_hours: ""

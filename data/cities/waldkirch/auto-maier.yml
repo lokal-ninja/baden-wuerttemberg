@@ -5,7 +5,7 @@ latitude: 48.0867963
 longitude: 7.9430271
 postcode: 79183
 city: Waldkirch
-street: Adolf-Ruth-Straße
+street: "Adolf-Ruth-Straße"
 housenumber: 2
 phone: "+49 7681 6818"
 opening_hours: "Mo-Fr 07:30-18:30;PH off"

@@ -5,7 +5,7 @@ latitude: 49.5033675
 longitude: 8.4711198
 postcode: 68169
 city: Mannheim
-street: Pettenkoferstraße
+street: "Pettenkoferstraße"
 housenumber: 15-17
 phone: "+49 621 33 33 33"
 opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00"

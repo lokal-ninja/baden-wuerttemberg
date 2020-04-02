@@ -5,7 +5,7 @@ latitude: 49.330600200000006
 longitude: 9.1065587
 postcode: 74821
 city: Mosbach
-street: Hohlweg
+street: "Hohlweg"
 housenumber: 18
 phone: "+49 6261 675830"
 opening_hours: "Mo-Fr 07:30-18:30; Sa 09:00-13:00"

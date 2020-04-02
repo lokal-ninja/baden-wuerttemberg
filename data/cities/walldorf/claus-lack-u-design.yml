@@ -5,7 +5,7 @@ latitude: 49.2902636
 longitude: 8.644780200000001
 postcode: 69190
 city: Walldorf
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 45
 phone: "+49 6227 61956"
 opening_hours: ""

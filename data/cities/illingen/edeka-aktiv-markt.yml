@@ -5,7 +5,7 @@ latitude: 48.956456700000004
 longitude: 8.922916500000001
 postcode: 75428
 city: Illingen
-street: Luigstraße
+street: "Luigstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

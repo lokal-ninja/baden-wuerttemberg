@@ -5,7 +5,7 @@ latitude: 47.6628887
 longitude: 9.4820708
 postcode: 88045
 city: Friedrichshafen
-street: Meistershofener Straße
+street: "Meistershofener Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-13:00"

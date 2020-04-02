@@ -5,7 +5,7 @@ latitude: 48.5965561
 longitude: 8.869619700000001
 postcode: 71083
 city: Herrenberg
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 3
 phone: ""
 opening_hours: ""

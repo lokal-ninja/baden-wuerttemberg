@@ -5,7 +5,7 @@ latitude: 48.8901776
 longitude: 9.127095500000001
 postcode: 71696
 city: Möglingen
-street: Parkweg
+street: "Parkweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

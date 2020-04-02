@@ -5,7 +5,7 @@ latitude: 48.128965300000004
 longitude: 9.7983034
 postcode: 88447
 city: Warthausen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

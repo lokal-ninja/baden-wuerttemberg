@@ -5,7 +5,7 @@ latitude: 48.2999311
 longitude: 8.2244262
 postcode: 77709
 city: Wolfach
-street: Vorstadtstraße
+street: "Vorstadtstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 07:30-12:30"

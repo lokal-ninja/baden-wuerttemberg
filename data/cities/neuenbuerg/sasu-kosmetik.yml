@@ -5,7 +5,7 @@ latitude: 48.8602184
 longitude: 8.565318300000001
 postcode: 75305
 city: Neuenbürg
-street: Ottenhäuser Straße
+street: "Ottenhäuser Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

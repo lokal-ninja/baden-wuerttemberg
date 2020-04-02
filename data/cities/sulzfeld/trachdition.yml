@@ -5,7 +5,7 @@ latitude: 49.104389700000006
 longitude: 8.8587665
 postcode: 75056
 city: Sulzfeld
-street: Mühlbacher Straße
+street: "Mühlbacher Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 10:00-12:00, 15:30-18:30; Sa 10:00-13:00"

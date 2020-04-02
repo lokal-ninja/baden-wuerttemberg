@@ -5,7 +5,7 @@ latitude: 48.617612900000005
 longitude: 9.735512
 postcode: 73326
 city: Deggingen
-street: Schlater Straße
+street: "Schlater Straße"
 housenumber: 9
 phone: "+49 7334"
 opening_hours: ""

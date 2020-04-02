@@ -5,7 +5,7 @@ latitude: 48.6375205
 longitude: 8.0544481
 postcode: 77855
 city: Achern
-street: Karl-Bold-Straße
+street: "Karl-Bold-Straße"
 housenumber: 3
 phone: "+49 7841 6049983"
 opening_hours: "Mo-Sa 06:00-18:30; Su 08:00-18:00"

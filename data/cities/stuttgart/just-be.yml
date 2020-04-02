@@ -5,7 +5,7 @@ latitude: 48.8023728
 longitude: 9.227952400000001
 postcode: 70372
 city: Stuttgart
-street: Kissinger Straße
+street: "Kissinger Straße"
 housenumber: 48a
 phone: ""
 opening_hours: "Mo,We,Fr 09:00-18:00; Th 09:00-12:00,15:00-20:00; Sa 09:00-14:00"

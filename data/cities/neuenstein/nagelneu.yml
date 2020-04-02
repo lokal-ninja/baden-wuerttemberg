@@ -5,7 +5,7 @@ latitude: 49.250663
 longitude: 9.620060800000001
 postcode: 74632
 city: Neuenstein
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

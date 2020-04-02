@@ -5,7 +5,7 @@ latitude: 49.0592702
 longitude: 9.2762356
 postcode: 74360
 city: Ilsfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

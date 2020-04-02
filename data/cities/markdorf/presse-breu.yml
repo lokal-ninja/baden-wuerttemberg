@@ -5,7 +5,7 @@ latitude: 47.717137900000004
 longitude: 9.3883825
 postcode: 88677
 city: Markdorf
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 1b
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.5324128
 longitude: 8.075953
 postcode: 77704
 city: Oberkirch
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 62
 phone: "+49 7802 705990"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"

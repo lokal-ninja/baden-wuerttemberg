@@ -5,7 +5,7 @@ latitude: 48.0851355
 longitude: 9.2120894
 postcode: 72488
 city: Sigmaringen
-street: Georg-Zimmerer-Straße
+street: "Georg-Zimmerer-Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

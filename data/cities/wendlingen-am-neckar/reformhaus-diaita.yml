@@ -5,7 +5,7 @@ latitude: 48.672203700000004
 longitude: 9.3792653
 postcode: 73240
 city: Wendlingen am Neckar
-street: Marktgasse
+street: "Marktgasse"
 housenumber: 6
 phone: ""
 opening_hours: ""

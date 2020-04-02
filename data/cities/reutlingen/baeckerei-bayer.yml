@@ -5,7 +5,7 @@ latitude: 48.5491693
 longitude: 9.207477500000001
 postcode: 72768
 city: Reutlingen
-street: Mittelstädter Straße
+street: "Mittelstädter Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

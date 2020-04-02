@@ -5,7 +5,7 @@ latitude: 48.4497836
 longitude: 9.0564648
 postcode: 72144
 city: Dußlingen
-street: Wilhelm-Herter-Straße
+street: "Wilhelm-Herter-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

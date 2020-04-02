@@ -5,7 +5,7 @@ latitude: 48.99533
 longitude: 8.449502500000001
 postcode: 76227
 city: Karlsruhe
-street: Fiduciastraße
+street: "Fiduciastraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

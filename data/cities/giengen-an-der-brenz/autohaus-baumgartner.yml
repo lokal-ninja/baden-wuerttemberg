@@ -5,7 +5,7 @@ latitude: 48.61631190000001
 longitude: 10.2524666
 postcode: 89537
 city: Giengen an der Brenz
-street: Riedstraße
+street: "Riedstraße"
 housenumber: 46
 phone: "+49 7322 919494"
 opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-13:00; PH off"

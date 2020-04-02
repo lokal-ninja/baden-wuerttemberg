@@ -5,7 +5,7 @@ latitude: 49.365282500000006
 longitude: 8.623592200000001
 postcode: 69124
 city: Heidelberg
-street: Neurott
+street: "Neurott"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00"

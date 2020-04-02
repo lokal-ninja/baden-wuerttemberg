@@ -5,7 +5,7 @@ latitude: 49.3992428
 longitude: 8.6775535
 postcode: 69115
 city: Heidelberg
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 2
 phone: "+49 6221 65 109 0"
 opening_hours: ""

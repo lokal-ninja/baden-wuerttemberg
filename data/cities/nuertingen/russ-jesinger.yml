@@ -5,7 +5,7 @@ latitude: 48.6229955
 longitude: 9.3586171
 postcode: 72622
 city: Nürtingen
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 8
 phone: "+49 7022 9222300"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.671145900000006
 longitude: 9.9891517
 postcode: 89555
 city: Steinheim am Albuch
-street: Heidenheimer Straße
+street: "Heidenheimer Straße"
 housenumber: 27
 phone: "+49 7323 6558"
 opening_hours: ""

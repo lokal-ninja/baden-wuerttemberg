@@ -5,7 +5,7 @@ latitude: 48.1029366
 longitude: 7.972402400000001
 postcode: 79183
 city: Waldkirch
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 39
 phone: ""
 opening_hours: ""

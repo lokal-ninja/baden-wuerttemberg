@@ -5,7 +5,7 @@ latitude: 48.009989600000004
 longitude: 7.846508300000001
 postcode: 79106
 city: Freiburg im Breisgau
-street: Kaiserstuhlstraße
+street: "Kaiserstuhlstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

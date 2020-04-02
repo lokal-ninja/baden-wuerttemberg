@@ -5,7 +5,7 @@ latitude: 49.0629159
 longitude: 8.798590800000001
 postcode: 75038
 city: Oberderdingen
-street: Dr.-Friedrich-Schmitt-Straße
+street: "Dr.-Friedrich-Schmitt-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,15:00-17:00; We,Sa 08:30-12:30"

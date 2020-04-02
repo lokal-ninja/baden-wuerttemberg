@@ -5,7 +5,7 @@ latitude: 48.695183
 longitude: 9.686783100000001
 postcode: 73054
 city: Eislingen/Fils
-street: Steinbeisstraße
+street: "Steinbeisstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.342792800000005
 longitude: 7.8359265
 postcode: 77933
 city: Lahr/Schwarzwald
-street: Güterhallenstraße
+street: "Güterhallenstraße"
 housenumber: 6a
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00; Su,PH off"

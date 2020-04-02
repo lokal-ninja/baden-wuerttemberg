@@ -5,7 +5,7 @@ latitude: 49.137429000000004
 longitude: 10.0714459
 postcode: 74564
 city: Crailsheim
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

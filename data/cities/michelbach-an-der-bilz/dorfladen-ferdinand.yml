@@ -5,7 +5,7 @@ latitude: 49.069175300000005
 longitude: 9.763318400000001
 postcode: 74544
 city: Michelbach an der Bilz
-street: Schenkenstraße
+street: "Schenkenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

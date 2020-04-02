@@ -5,7 +5,7 @@ latitude: 48.5836643
 longitude: 8.0129901
 postcode: 77871
 city: Renchen
-street: Weidenstraße
+street: "Weidenstraße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-16:00; PH off"

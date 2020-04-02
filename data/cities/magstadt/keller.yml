@@ -5,7 +5,7 @@ latitude: 48.7444173
 longitude: 8.9635282
 postcode: 71106
 city: Magstadt
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00; PH off"

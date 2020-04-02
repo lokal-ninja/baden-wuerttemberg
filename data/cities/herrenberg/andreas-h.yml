@@ -5,7 +5,7 @@ latitude: 48.5969783
 longitude: 8.8695527
 postcode: 71083
 city: Herrenberg
-street: Froschgasse
+street: "Froschgasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

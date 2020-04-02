@@ -5,7 +5,7 @@ latitude: 49.085651000000006
 longitude: 9.283554500000001
 postcode: 74199
 city: Untergruppenbach
-street: Im Neugreut
+street: "Im Neugreut"
 housenumber: 12
 phone: "+49 7131 974400"
 opening_hours: ""

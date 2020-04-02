@@ -5,7 +5,7 @@ latitude: 49.1333059
 longitude: 9.2194415
 postcode: 74074
 city: Heilbronn
-street: Werderstraße
+street: "Werderstraße"
 housenumber: 109
 phone: ""
 opening_hours: "Mo-Sa 07:30-22:00"

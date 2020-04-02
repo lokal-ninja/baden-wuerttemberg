@@ -5,7 +5,7 @@ latitude: 48.4104035
 longitude: 9.069859600000001
 postcode: 72116
 city: Mössingen
-street: Heerweg
+street: "Heerweg"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.805818800000004
 longitude: 8.3069086
 postcode: 76571
 city: Gaggenau
-street: Grittweg
+street: "Grittweg"
 housenumber: 12
 phone: "+49 7225 3708"
 opening_hours: "Mo-Fr 06:00-12:30,14:00-18:00; Sa 06:00-12:30; Su 08:00-11:00"

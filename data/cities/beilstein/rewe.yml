@@ -5,7 +5,7 @@ latitude: 49.0376014
 longitude: 9.3140082
 postcode: 71717
 city: Beilstein
-street: Heerweg
+street: "Heerweg"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.7726273
 longitude: 9.1748325
 postcode: 70178
 city: Stuttgart
-street: Tübinger Straße
+street: "Tübinger Straße"
 housenumber: 11
 phone: "+497117226440"
 opening_hours: "Mo-Sa 10:00-20:00"

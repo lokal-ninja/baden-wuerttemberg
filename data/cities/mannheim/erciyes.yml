@@ -5,7 +5,7 @@ latitude: 49.4970841
 longitude: 8.473325800000001
 postcode: 68169
 city: Mannheim
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

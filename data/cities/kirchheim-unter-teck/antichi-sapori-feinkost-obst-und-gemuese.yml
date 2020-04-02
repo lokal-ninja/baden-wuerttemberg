@@ -5,7 +5,7 @@ latitude: 48.646620600000006
 longitude: 9.452203800000001
 postcode: 73230
 city: Kirchheim unter Teck
-street: Metzgerstraße
+street: "Metzgerstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-14:00"

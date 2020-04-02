@@ -5,7 +5,7 @@ latitude: 48.2113997
 longitude: 8.506665100000001
 postcode: 78655
 city: Dunningen
-street: Dorfbachstraße
+street: "Dorfbachstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

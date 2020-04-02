@@ -5,7 +5,7 @@ latitude: 48.833320300000004
 longitude: 9.3178266
 postcode: 71332
 city: Waiblingen
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00; Sa 09:00-13:00"

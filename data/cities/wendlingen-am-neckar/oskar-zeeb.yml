@@ -5,7 +5,7 @@ latitude: 48.672721800000005
 longitude: 9.364047900000001
 postcode: 73240
 city: Wendlingen am Neckar
-street: Wertstraße
+street: "Wertstraße"
 housenumber: 12
 phone: "+49 7024 8689044"
 opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-22:00"

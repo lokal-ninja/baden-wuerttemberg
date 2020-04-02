@@ -5,7 +5,7 @@ latitude: 48.9020798
 longitude: 8.5741917
 postcode: 75210
 city: Keltern
-street: Adlerstraße
+street: "Adlerstraße"
 housenumber: 5
 phone: "+49 7236 8931"
 opening_hours: ""

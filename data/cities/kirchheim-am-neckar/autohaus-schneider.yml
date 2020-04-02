@@ -5,7 +5,7 @@ latitude: 49.0391242
 longitude: 9.1440137
 postcode: 74366
 city: Kirchheim am Neckar
-street: Besigheimer Straße
+street: "Besigheimer Straße"
 housenumber: 62
 phone: "+49 7143 89470"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.0233841
 longitude: 8.4647327
 postcode: 76139
 city: Karlsruhe
-street: Junkersstraße
+street: "Junkersstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 07:15-12:15, 13:00-17:00; Sa 07:15-12:00; Su,PH off"

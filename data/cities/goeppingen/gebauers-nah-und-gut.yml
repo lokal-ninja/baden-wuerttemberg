@@ -5,7 +5,7 @@ latitude: 48.704751200000004
 longitude: 9.670866
 postcode: 73033
 city: Göppingen
-street: Rembrandtstraße
+street: "Rembrandtstraße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-13:00; Su, PH off"

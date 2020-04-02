@@ -5,7 +5,7 @@ latitude: 48.6828043
 longitude: 9.7650027
 postcode: 73079
 city: Süßen
-street: Fabrikstraße
+street: "Fabrikstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

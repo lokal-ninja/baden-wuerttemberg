@@ -5,7 +5,7 @@ latitude: 49.00509
 longitude: 8.3344371
 postcode: 76189
 city: Karlsruhe
-street: Pfalzstraße
+street: "Pfalzstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 09:00-13:30; PH closed"

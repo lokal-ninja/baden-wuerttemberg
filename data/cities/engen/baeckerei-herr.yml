@@ -5,7 +5,7 @@ latitude: 47.855971100000005
 longitude: 8.7742705
 postcode: 78234
 city: Engen
-street: Breitestraße
+street: "Breitestraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

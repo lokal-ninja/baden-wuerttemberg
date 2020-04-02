@@ -5,7 +5,7 @@ latitude: 47.772728400000005
 longitude: 8.983542100000001
 postcode: 78315
 city: Radolfzell am Bodensee
-street: Badener Straße
+street: "Badener Straße"
 housenumber: 32
 phone: "+49 7732 8223155"
 opening_hours: "Mo-Sa 07:00-20:00"

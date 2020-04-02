@@ -5,7 +5,7 @@ latitude: 48.787967200000004
 longitude: 9.0123867
 postcode: 71229
 city: Leonberg
-street: Glemseckstraße
+street: "Glemseckstraße"
 housenumber: 26-28
 phone: ""
 opening_hours: ""

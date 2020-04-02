@@ -5,7 +5,7 @@ latitude: 48.679194200000005
 longitude: 9.764415300000001
 postcode: 73079
 city: Süßen
-street: Bühlstraße
+street: "Bühlstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

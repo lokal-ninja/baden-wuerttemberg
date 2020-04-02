@@ -5,7 +5,7 @@ latitude: 48.57614340000001
 longitude: 8.922550300000001
 postcode: 71083
 city: Herrenberg
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.0181738
 longitude: 8.353177
 postcode: 76185
 city: Karlsruhe
-street: Neureuter Straße
+street: "Neureuter Straße"
 housenumber: 3
 phone: "+49 721 956050"
 opening_hours: "Mo-Sa 10:00-20:00"

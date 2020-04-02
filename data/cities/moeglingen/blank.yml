@@ -5,7 +5,7 @@ latitude: 48.889030600000005
 longitude: 9.1259336
 postcode: 71696
 city: Möglingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Fr 06:30-13:00,14:30-18:00; Sa 06:30-13:00; Su 08:00-11:00"

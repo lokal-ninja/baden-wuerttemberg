@@ -5,7 +5,7 @@ latitude: 49.1498719
 longitude: 9.221335400000001
 postcode: 74076
 city: Heilbronn
-street: Paulinenstraße
+street: "Paulinenstraße"
 housenumber: 49
 phone: ""
 opening_hours: ""

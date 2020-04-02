@@ -5,7 +5,7 @@ latitude: 49.419125400000006
 longitude: 8.5300746
 postcode: 68219
 city: Mannheim
-street: Gustav-Nachtigal-Straße
+street: "Gustav-Nachtigal-Straße"
 housenumber: 62a
 phone: "+49 621 897979"
 opening_hours: ""

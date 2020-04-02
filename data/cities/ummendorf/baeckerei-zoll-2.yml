@@ -5,7 +5,7 @@ latitude: 48.069514500000004
 longitude: 9.825160700000001
 postcode: 88444
 city: Ummendorf
-street: Noherrstraße
+street: "Noherrstraße"
 housenumber: 35
 phone: "+497351349389"
 opening_hours: ""

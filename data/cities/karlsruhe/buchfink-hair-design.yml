@@ -5,7 +5,7 @@ latitude: 49.047951100000006
 longitude: 8.3934045
 postcode: 76149
 city: Karlsruhe
-street: Gildestraße
+street: "Gildestraße"
 housenumber: 4
 phone: "+49 721 706506"
 opening_hours: "Mo off; Tu-Fr 08:00-18:00; Sa 07:30-13:00; PH off"

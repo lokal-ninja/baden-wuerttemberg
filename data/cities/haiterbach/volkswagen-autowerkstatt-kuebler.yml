@@ -5,7 +5,7 @@ latitude: 48.504763200000006
 longitude: 8.6344256
 postcode: 72221
 city: Haiterbach
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 54
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.6759579
 longitude: 9.3765921
 postcode: 73240
 city: Wendlingen am Neckar
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 76
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

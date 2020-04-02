@@ -5,7 +5,7 @@ latitude: 49.0023624
 longitude: 8.3562017
 postcode: 76185
 city: Karlsruhe
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

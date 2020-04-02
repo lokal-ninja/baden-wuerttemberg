@@ -5,7 +5,7 @@ latitude: 48.790837
 longitude: 10.265176100000001
 postcode: 73450
 city: Neresheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 26
 phone: "+49 73 67 25 93"
 opening_hours: ""

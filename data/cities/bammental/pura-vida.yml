@@ -5,7 +5,7 @@ latitude: 49.351753200000005
 longitude: 8.7758348
 postcode: 69245
 city: Bammental
-street: Reilsheimer Straße
+street: "Reilsheimer Straße"
 housenumber: 11/4
 phone: ""
 opening_hours: ""

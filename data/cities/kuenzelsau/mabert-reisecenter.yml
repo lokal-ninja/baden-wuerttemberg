@@ -5,7 +5,7 @@ latitude: 49.278643
 longitude: 9.6889646
 postcode: 74653
 city: Künzelsau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 27
 phone: "+49 7940 549 100"
 opening_hours: ""

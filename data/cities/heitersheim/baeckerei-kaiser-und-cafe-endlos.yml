@@ -5,7 +5,7 @@ latitude: 47.8736618
 longitude: 7.6576934
 postcode: 79423
 city: Heitersheim
-street: Poststraße
+street: "Poststraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 06:30-22:00; Su 08:00-18:30"

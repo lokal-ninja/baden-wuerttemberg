@@ -5,7 +5,7 @@ latitude: 47.984912
 longitude: 8.818062900000001
 postcode: 78532
 city: Tuttlingen
-street: Waaghausstraße
+street: "Waaghausstraße"
 housenumber: 12
 phone: "+49 7461 78465"
 opening_hours: ""

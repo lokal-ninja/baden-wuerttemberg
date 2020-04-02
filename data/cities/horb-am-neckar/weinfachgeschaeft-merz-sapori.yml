@@ -5,7 +5,7 @@ latitude: 48.4159823
 longitude: 8.7582815
 postcode: 72160
 city: Horb am Neckar
-street: Geniestraße
+street: "Geniestraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

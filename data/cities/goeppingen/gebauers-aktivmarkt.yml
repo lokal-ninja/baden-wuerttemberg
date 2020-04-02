@@ -5,7 +5,7 @@ latitude: 48.6959644
 longitude: 9.666795500000001
 postcode: 73037
 city: Göppingen
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 13
 phone: "+49 7161 988860"
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

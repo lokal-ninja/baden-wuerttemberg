@@ -5,7 +5,7 @@ latitude: 48.806588600000005
 longitude: 9.5305584
 postcode: 73614
 city: Schorndorf
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 17
 phone: "+49 7181 254830"
 opening_hours: "Mo-Tu 9:00-20:00; Th-Fr 9:00-20:00; Sa 9:00-16:00; PH off"

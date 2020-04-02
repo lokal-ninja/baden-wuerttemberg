@@ -5,7 +5,7 @@ latitude: 48.795147400000005
 longitude: 9.9352094
 postcode: 73540
 city: Heubach
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:30"

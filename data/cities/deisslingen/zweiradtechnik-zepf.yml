@@ -5,7 +5,7 @@ latitude: 48.1127869
 longitude: 8.616379100000001
 postcode: 78652
 city: Deißlingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 93
 phone: "+49 7420 9200860"
 opening_hours: "Mo-Fr 09:00-12:15,14:00-18:00; Sa 09:00-12:00; Su off"

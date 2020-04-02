@@ -5,7 +5,7 @@ latitude: 49.076407800000005
 longitude: 9.291149200000001
 postcode: 74232
 city: Abstatt
-street: Carl-Berberich-Straße
+street: "Carl-Berberich-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-16:00"

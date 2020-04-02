@@ -5,7 +5,7 @@ latitude: 47.565226900000006
 longitude: 8.0813711
 postcode: 79725
 city: Laufenburg (Baden)
-street: Dr.-Rudolf-Eberle-Straße
+street: "Dr.-Rudolf-Eberle-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

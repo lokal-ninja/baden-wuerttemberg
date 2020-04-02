@@ -5,7 +5,7 @@ latitude: 48.7810033
 longitude: 9.179041
 postcode: 70173
 city: Stuttgart
-street: Stephanstraße
+street: "Stephanstraße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00"

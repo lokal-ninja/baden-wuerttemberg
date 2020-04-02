@@ -5,7 +5,7 @@ latitude: 49.145133300000005
 longitude: 8.6891192
 postcode: 76703
 city: Kraichtal
-street: Neuenwegstraße
+street: "Neuenwegstraße"
 housenumber: 63
 phone: ""
 opening_hours: ""

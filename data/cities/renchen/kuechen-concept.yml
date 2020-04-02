@@ -5,7 +5,7 @@ latitude: 48.5807252
 longitude: 8.0063302
 postcode: 77871
 city: Renchen
-street: Johann-Keller-Straße
+street: "Johann-Keller-Straße"
 housenumber: 9
 phone: "+49 7843 994350"
 opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00; Su 14:00-17:00"

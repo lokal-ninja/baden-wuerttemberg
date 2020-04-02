@@ -5,7 +5,7 @@ latitude: 49.0017166
 longitude: 8.526300800000001
 postcode: 76327
 city: Pfinztal
-street: Friedhofstraße
+street: "Friedhofstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

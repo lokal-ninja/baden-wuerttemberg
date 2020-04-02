@@ -5,7 +5,7 @@ latitude: 48.713867400000005
 longitude: 9.528108300000001
 postcode: 73061
 city: Ebersbach an der Fils
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 7:30-20:00; Sa 08:00-15:00"

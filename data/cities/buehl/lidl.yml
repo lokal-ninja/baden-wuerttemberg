@@ -5,7 +5,7 @@ latitude: 48.707180400000006
 longitude: 8.1290274
 postcode: 77815
 city: Bühl
-street: Fridolin-Stiegler-Straße
+street: "Fridolin-Stiegler-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

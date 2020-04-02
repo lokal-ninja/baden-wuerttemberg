@@ -5,7 +5,7 @@ latitude: 48.6686922
 longitude: 7.9468785
 postcode: 77866
 city: Rheinau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 92
 phone: "+49 7844 1211"
 opening_hours: "Mo,Tu,Th,Fr 09:00-12:00, 14:30-17:00; We,Sa 09:00-12:00"

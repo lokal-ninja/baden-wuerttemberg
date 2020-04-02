@@ -5,7 +5,7 @@ latitude: 48.6840612
 longitude: 9.271440100000001
 postcode: 73765
 city: Neuhausen auf den Fildern
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 64
 phone: "+49 7153 83670"
 opening_hours: ""

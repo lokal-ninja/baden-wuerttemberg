@@ -5,7 +5,7 @@ latitude: 48.4961117
 longitude: 9.163086700000001
 postcode: 72770
 city: Reutlingen
-street: Karl-Henschel-Straße
+street: "Karl-Henschel-Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00, 12:30-16:30"

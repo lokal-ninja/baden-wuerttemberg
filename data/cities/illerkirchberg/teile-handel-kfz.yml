@@ -5,7 +5,7 @@ latitude: 48.3367567
 longitude: 9.9946414
 postcode: 89171
 city: Illerkirchberg
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 7
 phone: "0173 - 7332044"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.6818019
 longitude: 8.1898728
 postcode: 77830
 city: Bühlertal
-street: Katzenbachstraße
+street: "Katzenbachstraße"
 housenumber: 2a
 phone: "+49 7223 72276"
 opening_hours: "Tu 08:30-12:00, 14:00-19:00; We 08:30-16:00; Th 08:30-12:00, 14:00-19:00; Fr 08:30-18:00; Sa 08:30-12:30"

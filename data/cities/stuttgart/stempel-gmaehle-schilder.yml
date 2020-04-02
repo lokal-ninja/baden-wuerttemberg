@@ -5,7 +5,7 @@ latitude: 48.7881665
 longitude: 9.194338400000001
 postcode: 70190
 city: Stuttgart
-street: Neckarstraße
+street: "Neckarstraße"
 housenumber: 140
 phone: "+49 711 166880"
 opening_hours: ""

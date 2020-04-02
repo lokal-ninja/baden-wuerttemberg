@@ -5,7 +5,7 @@ latitude: 49.378534900000005
 longitude: 8.672991900000001
 postcode: 69124
 city: Heidelberg
-street: Bürgerstraße
+street: "Bürgerstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

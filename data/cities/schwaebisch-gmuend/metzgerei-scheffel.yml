@@ -5,7 +5,7 @@ latitude: 48.77852540000001
 longitude: 9.8444037
 postcode: 73529
 city: Schwäbisch Gmünd
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 49
 phone: "+49 7171 82565"
 opening_hours: ""

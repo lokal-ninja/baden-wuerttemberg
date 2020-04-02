@@ -5,7 +5,7 @@ latitude: 48.774815800000006
 longitude: 9.1757658
 postcode: 70173
 city: Stuttgart
-street: Schmale Straße
+street: "Schmale Straße"
 housenumber: 9
 phone: "+49 711 51 87 28 88"
 opening_hours: "Mo-Fr 11:00-20:00; Sa 09:00-19:00"

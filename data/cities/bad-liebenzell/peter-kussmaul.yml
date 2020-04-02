@@ -5,7 +5,7 @@ latitude: 48.7680414
 longitude: 8.7600709
 postcode: 75378
 city: Bad Liebenzell
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 8
 phone: "+4970521286"
 opening_hours: ""

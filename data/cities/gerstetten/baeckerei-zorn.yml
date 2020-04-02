@@ -5,7 +5,7 @@ latitude: 48.605448200000005
 longitude: 10.068939
 postcode: 89547
 city: Gerstetten
-street: Molkereistraße
+street: "Molkereistraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.468999800000006
 longitude: 7.955279900000001
 postcode: 77654
 city: Offenburg
-street: Weingartenstraße
+street: "Weingartenstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

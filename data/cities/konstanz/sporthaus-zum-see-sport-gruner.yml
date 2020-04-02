@@ -5,7 +5,7 @@ latitude: 47.6579215
 longitude: 9.1763961
 postcode: 78462
 city: Konstanz
-street: Bahnhofplatz
+street: "Bahnhofplatz"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-We 10:00-19:00; Th 10:00-20:00; Fr-Sa 10:00-19:00"

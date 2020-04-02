@@ -5,7 +5,7 @@ latitude: 48.842915700000006
 longitude: 9.2307792
 postcode: 70378
 city: Stuttgart
-street: Veitstraße
+street: "Veitstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

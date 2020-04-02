@@ -5,7 +5,7 @@ latitude: 49.1372945
 longitude: 9.2170003
 postcode: 74072
 city: Heilbronn
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

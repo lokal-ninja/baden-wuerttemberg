@@ -5,7 +5,7 @@ latitude: 48.6086262
 longitude: 9.1001656
 postcode: 72135
 city: Dettenhausen
-street: Störrenstraße
+street: "Störrenstraße"
 housenumber: 38-40
 phone: "+49 7157 66629"
 opening_hours: "Tu-Fr 07:30-13:00,14:30-18:00; Sa 07:00-12:30; Mo off"

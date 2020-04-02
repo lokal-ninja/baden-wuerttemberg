@@ -5,7 +5,7 @@ latitude: 48.8930038
 longitude: 10.0026095
 postcode: 73453
 city: Abtsgmünd
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 15
 phone: "+49 7366 4749"
 opening_hours: ""

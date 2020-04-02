@@ -5,7 +5,7 @@ latitude: 48.771221100000005
 longitude: 8.1711183
 postcode: 76547
 city: Sinzheim
-street: An der Stadtbahn
+street: "An der Stadtbahn"
 housenumber: 3
 phone: "+49 7221 60045"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"

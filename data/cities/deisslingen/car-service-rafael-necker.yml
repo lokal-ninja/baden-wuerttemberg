@@ -5,7 +5,7 @@ latitude: 48.1137615
 longitude: 8.610539600000001
 postcode: 78652
 city: Deißlingen
-street: Weg am Wasser
+street: "Weg am Wasser"
 housenumber: 2/1
 phone: "+49209390516"
 opening_hours: ""

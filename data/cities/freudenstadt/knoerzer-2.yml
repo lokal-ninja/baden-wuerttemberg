@@ -5,7 +5,7 @@ latitude: 48.469796800000005
 longitude: 8.4155663
 postcode: 72250
 city: Freudenstadt
-street: Ludwig-Jahn-Straße
+street: "Ludwig-Jahn-Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

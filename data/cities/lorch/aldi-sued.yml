@@ -5,7 +5,7 @@ latitude: 48.798229000000006
 longitude: 9.6764883
 postcode: 73547
 city: Lorch
-street: Maierhofstraße
+street: "Maierhofstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su, PH off"

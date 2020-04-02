@@ -5,7 +5,7 @@ latitude: 48.874664100000004
 longitude: 9.4020034
 postcode: 71364
 city: Winnenden
-street: Schorndorfer Straße
+street: "Schorndorfer Straße"
 housenumber: 7
 phone: "+49 7195 8041"
 opening_hours: "Mo-Fr 09:00-12:20,14:00-18:00; Sa 09:00-12:30"

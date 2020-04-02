@@ -5,7 +5,7 @@ latitude: 48.4947421
 longitude: 8.0160748
 postcode: 77770
 city: Durbach
-street: Grol
+street: "Grol"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"

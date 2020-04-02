@@ -5,7 +5,7 @@ latitude: 49.0176718
 longitude: 8.3430058
 postcode: 76189
 city: Karlsruhe
-street: Nördliche Uferstraße
+street: "Nördliche Uferstraße"
 housenumber: 11
 phone: "+49 721 559000"
 opening_hours: ""

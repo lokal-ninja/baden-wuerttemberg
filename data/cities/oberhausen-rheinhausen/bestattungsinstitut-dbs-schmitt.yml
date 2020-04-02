@@ -5,7 +5,7 @@ latitude: 49.2599256
 longitude: 8.4825623
 postcode: 68794
 city: Oberhausen-Rheinhausen
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

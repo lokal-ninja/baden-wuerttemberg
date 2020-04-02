@@ -5,7 +5,7 @@ latitude: 48.7856103
 longitude: 9.1811065
 postcode: 70173
 city: Stuttgart
-street: Am Hauptbahnhof
+street: "Am Hauptbahnhof"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00"

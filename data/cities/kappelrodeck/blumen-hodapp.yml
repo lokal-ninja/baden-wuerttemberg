@@ -5,7 +5,7 @@ latitude: 48.5899895
 longitude: 8.1196304
 postcode: 77876
 city: Kappelrodeck
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 117
 phone: "+497842451"
 opening_hours: "Mo-Tu 08:00-12:30 14:00-18:30; Wd 08:00-13:00; Th-Fr 08:00-12:30 14:00-18:30; Sa 08:00-13:00; PH off; "

@@ -5,7 +5,7 @@ latitude: 48.820339800000006
 longitude: 9.795747500000001
 postcode: 73557
 city: Mutlangen
-street: Beethovenstraße
+street: "Beethovenstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

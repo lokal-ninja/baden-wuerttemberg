@@ -5,7 +5,7 @@ latitude: 48.945452700000004
 longitude: 9.2429583
 postcode: 71726
 city: Benningen am Neckar
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 7
 phone: "+49 7144 5011957"
 opening_hours: "Mo-Sa 10:00-19:00; Su off"

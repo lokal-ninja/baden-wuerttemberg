@@ -5,7 +5,7 @@ latitude: 47.731226400000004
 longitude: 8.8470201
 postcode: 78239
 city: Rielasingen-Worblingen
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 4
 phone: "+49 7731 9263520"
 opening_hours: "Mo-Sa 08:00-21:00"

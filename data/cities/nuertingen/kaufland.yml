@@ -5,7 +5,7 @@ latitude: 48.6277586
 longitude: 9.340874600000001
 postcode: 72622
 city: Nürtingen
-street: Europastraße
+street: "Europastraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

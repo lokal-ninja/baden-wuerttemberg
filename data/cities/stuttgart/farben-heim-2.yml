@@ -5,7 +5,7 @@ latitude: 48.768032500000004
 longitude: 9.175603500000001
 postcode: 70180
 city: Stuttgart
-street: Heusteigstraße
+street: "Heusteigstraße"
 housenumber: 67
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:30,13:30-18:00; Sa 08:30-12:30"

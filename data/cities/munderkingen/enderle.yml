@@ -5,7 +5,7 @@ latitude: 48.2454271
 longitude: 9.6320379
 postcode: 
 city: Munderkingen
-street: Christian-Necker-Straße
+street: "Christian-Necker-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

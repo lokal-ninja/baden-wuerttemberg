@@ -5,7 +5,7 @@ latitude: 47.790297200000005
 longitude: 9.620630400000001
 postcode: 88212
 city: Ravensburg
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 77
 phone: ""
 opening_hours: ""

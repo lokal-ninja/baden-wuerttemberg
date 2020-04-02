@@ -5,7 +5,7 @@ latitude: 47.6664735
 longitude: 9.1729324
 postcode: 78462
 city: Konstanz
-street: Schottenstraße
+street: "Schottenstraße"
 housenumber: 73
 phone: ""
 opening_hours: "Tu,We,Fr 13:30-18:30, Th 13:30-18:00, Sa 10:00-15:00"

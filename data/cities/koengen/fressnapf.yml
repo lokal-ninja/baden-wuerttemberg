@@ -5,7 +5,7 @@ latitude: 48.673742700000005
 longitude: 9.3622472
 postcode: 73257
 city: Köngen
-street: Imanuel-Maier-Straße
+street: "Imanuel-Maier-Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

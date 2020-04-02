@@ -5,7 +5,7 @@ latitude: 48.8424926
 longitude: 9.3602664
 postcode: 71404
 city: Korb
-street: Seestraße
+street: "Seestraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

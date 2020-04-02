@@ -5,7 +5,7 @@ latitude: 48.690535000000004
 longitude: 10.164181300000001
 postcode: 89520
 city: Heidenheim
-street: Nördlinger Straße
+street: "Nördlinger Straße"
 housenumber: 71
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:30;Sa 10:00-16:00"

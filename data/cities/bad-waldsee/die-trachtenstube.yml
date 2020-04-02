@@ -5,7 +5,7 @@ latitude: 47.919502900000005
 longitude: 9.756005100000001
 postcode: 88339
 city: Bad Waldsee
-street: Wurzacher Straße
+street: "Wurzacher Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

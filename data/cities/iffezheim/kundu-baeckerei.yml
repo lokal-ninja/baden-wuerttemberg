@@ -5,7 +5,7 @@ latitude: 48.819686600000004
 longitude: 8.1514665
 postcode: 76473
 city: Iffezheim
-street: Gebrüder-Grimm-Straße
+street: "Gebrüder-Grimm-Straße"
 housenumber: 2
 phone: "+49 7229 1846796"
 opening_hours: "Mo-Sa 07:00-20:00; Su 07:00-11:00"

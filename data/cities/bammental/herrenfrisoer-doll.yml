@@ -5,7 +5,7 @@ latitude: 49.3582995
 longitude: 8.7818324
 postcode: 69245
 city: Bammental
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: "+49 6223 47774"
 opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00"

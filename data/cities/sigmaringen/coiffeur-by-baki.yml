@@ -5,7 +5,7 @@ latitude: 48.0874297
 longitude: 9.214463100000001
 postcode: 72488
 city: Sigmaringen
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

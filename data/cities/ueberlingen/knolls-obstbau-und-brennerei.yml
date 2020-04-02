@@ -5,7 +5,7 @@ latitude: 47.8021751
 longitude: 9.228798300000001
 postcode: 88662
 city: Überlingen
-street: Bamberger Straße
+street: "Bamberger Straße"
 housenumber: 8
 phone: "+49 7553 7211"
 opening_hours: "08:00-18:00"

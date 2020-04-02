@@ -5,7 +5,7 @@ latitude: 48.770034800000005
 longitude: 9.2619745
 postcode: 70329
 city: Stuttgart
-street: Augsburger Straße
+street: "Augsburger Straße"
 housenumber: 560
 phone: "+49 711 3807159"
 opening_hours: ""

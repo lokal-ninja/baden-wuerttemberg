@@ -5,7 +5,7 @@ latitude: 48.805579200000004
 longitude: 9.4780874
 postcode: 73650
 city: Winterbach
-street: Ritterstraße
+street: "Ritterstraße"
 housenumber: 5
 phone: "+49 7181 9802800"
 opening_hours: "Mo-Fr 8:00-20:00; Sa 8:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.875756100000004
 longitude: 9.3989952
 postcode: 71364
 city: Winnenden
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 5
 phone: "+49 7195 9083094"
 opening_hours: ""

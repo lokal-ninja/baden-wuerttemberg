@@ -5,7 +5,7 @@ latitude: 48.718496
 longitude: 9.1276326
 postcode: 70565
 city: Stuttgart
-street: Handwerkstraße
+street: "Handwerkstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Fr 11:30-17:00"

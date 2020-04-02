@@ -5,7 +5,7 @@ latitude: 49.4904804
 longitude: 9.7733462
 postcode: 97980
 city: Bad Mergentheim
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00"

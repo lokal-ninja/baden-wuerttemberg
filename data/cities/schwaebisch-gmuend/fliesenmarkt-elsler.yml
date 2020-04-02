@@ -5,7 +5,7 @@ latitude: 48.800580700000005
 longitude: 9.8198577
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Benzholzstraße
+street: "Benzholzstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

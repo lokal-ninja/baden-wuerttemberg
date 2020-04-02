@@ -5,7 +5,7 @@ latitude: 49.139201400000005
 longitude: 8.5854491
 postcode: 76646
 city: Bruchsal
-street: Zeiloch
+street: "Zeiloch"
 housenumber: 20
 phone: ""
 opening_hours: ""

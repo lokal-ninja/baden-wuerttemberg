@@ -5,7 +5,7 @@ latitude: 48.853346800000004
 longitude: 9.0941691
 postcode: 70825
 city: Korntal-Münchingen
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 54
 phone: "+49 7150 95660"
 opening_hours: "Tu-Fr 07:00-18:30; Sa 06:30-12:30; Mo off Ruhetag; PH off"

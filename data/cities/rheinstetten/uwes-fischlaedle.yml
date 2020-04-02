@@ -5,7 +5,7 @@ latitude: 48.959063900000004
 longitude: 8.2916447
 postcode: 76287
 city: Rheinstetten
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Th-Fr 08:30-18:00; Sa 09:00-12:00"

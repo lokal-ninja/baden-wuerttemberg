@@ -5,7 +5,7 @@ latitude: 47.6337083
 longitude: 7.594072000000001
 postcode: 79591
 city: Eimeldingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-19:00; PH off"

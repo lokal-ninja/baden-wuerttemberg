@@ -5,7 +5,7 @@ latitude: 48.771503
 longitude: 8.225107900000001
 postcode: 
 city: Baden-Baden
-street: Jagdhausstraße
+street: "Jagdhausstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

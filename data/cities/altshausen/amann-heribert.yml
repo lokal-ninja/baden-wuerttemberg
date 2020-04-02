@@ -5,7 +5,7 @@ latitude: 47.934340000000006
 longitude: 9.53412
 postcode: 88361
 city: Altshausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

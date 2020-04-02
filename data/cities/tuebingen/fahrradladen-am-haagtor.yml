@@ -5,7 +5,7 @@ latitude: 48.5204375
 longitude: 9.049960800000001
 postcode: 72070
 city: Tübingen
-street: Haaggasse
+street: "Haaggasse"
 housenumber: 43
 phone: "+49 7071 23244"
 opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-13:30; Su,PH off"

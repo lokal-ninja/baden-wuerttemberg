@@ -5,7 +5,7 @@ latitude: 49.005809500000005
 longitude: 8.3943154
 postcode: 76133
 city: Karlsruhe
-street: Kriegsstraße
+street: "Kriegsstraße"
 housenumber: 140
 phone: ""
 opening_hours: "Mo,We,Th 08:30-13:00, 13:30-17:00; Tu 08:30-12:30, 13:30-17:00; Fr 08:30-13:00"

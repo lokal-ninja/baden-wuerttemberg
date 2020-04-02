@@ -5,7 +5,7 @@ latitude: 48.947501800000005
 longitude: 8.3821654
 postcode: 76275
 city: Ettlingen
-street: Hertzstraße
+street: "Hertzstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

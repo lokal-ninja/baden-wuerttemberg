@@ -5,7 +5,7 @@ latitude: 49.142955900000004
 longitude: 9.226805800000001
 postcode: 74072
 city: Heilbronn
-street: Gymnasiumstraße
+street: "Gymnasiumstraße"
 housenumber: 72
 phone: ""
 opening_hours: ""

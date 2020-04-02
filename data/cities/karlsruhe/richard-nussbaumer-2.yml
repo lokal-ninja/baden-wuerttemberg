@@ -5,7 +5,7 @@ latitude: 49.0142535
 longitude: 8.441283700000001
 postcode: 76131
 city: Karlsruhe
-street: Forststraße
+street: "Forststraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su,PH 08:00-11:00; easter off; easter -2 days off; easter +49 days off"

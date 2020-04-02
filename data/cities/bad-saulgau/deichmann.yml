@@ -5,7 +5,7 @@ latitude: 48.021483700000005
 longitude: 9.4946769
 postcode: 88348
 city: Bad Saulgau
-street: Friedrich-List-Straße
+street: "Friedrich-List-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.406594500000004
 longitude: 8.6602017
 postcode: 69115
 city: Heidelberg
-street: Eppelheimer Straße
+street: "Eppelheimer Straße"
 housenumber: 36
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.608078400000004
 longitude: 9.7447669
 postcode: 97947
 city: Grünsfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: "+49 9346 264"
 opening_hours: ""

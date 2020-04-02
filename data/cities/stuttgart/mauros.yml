@@ -5,7 +5,7 @@ latitude: 48.7752564
 longitude: 9.146820100000001
 postcode: 70193
 city: Stuttgart
-street: Forststraße
+street: "Forststraße"
 housenumber: 193
 phone: ""
 opening_hours: "Tu-We 10:00-19:00; Th 10:00-20:00; Fr 10:00-19:00; Sa 09:00-14:00"

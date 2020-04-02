@@ -5,7 +5,7 @@ latitude: 48.119295900000004
 longitude: 7.8489985
 postcode: 79312
 city: Emmendingen
-street: Freiburger Straße
+street: "Freiburger Straße"
 housenumber: 4-8
 phone: ""
 opening_hours: "Mo-Fr 06:00-19:00, Sa,Su 07:00-18:00"

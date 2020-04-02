@@ -5,7 +5,7 @@ latitude: 48.7234354
 longitude: 8.0012656
 postcode: 77839
 city: Lichtenau
-street: Sommerfeldstraße
+street: "Sommerfeldstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Th 08:00-12:00, 15:00-19:00; Fr 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.5318678
 longitude: 9.0788597
 postcode: 72074
 city: Tübingen
-street: Pfrondorfer Straße
+street: "Pfrondorfer Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:00; Su 08:00-11:00"

@@ -5,7 +5,7 @@ latitude: 47.7220469
 longitude: 8.7528664
 postcode: 78244
 city: Gottmadingen
-street: Otto-Dix-Straße
+street: "Otto-Dix-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

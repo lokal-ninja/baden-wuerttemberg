@@ -5,7 +5,7 @@ latitude: 49.1298873
 longitude: 9.2141642
 postcode: 74074
 city: Heilbronn
-street: Sontheimer Straße
+street: "Sontheimer Straße"
 housenumber: 50
 phone: ""
 opening_hours: ""

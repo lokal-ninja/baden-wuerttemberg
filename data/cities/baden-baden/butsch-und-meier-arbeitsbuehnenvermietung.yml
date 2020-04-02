@@ -5,7 +5,7 @@ latitude: 48.7292762
 longitude: 8.143071500000001
 postcode: 76534
 city: Baden-Baden
-street: Dr.-Rudolf-Eberle-Straße
+street: "Dr.-Rudolf-Eberle-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.8410353
 longitude: 9.256763000000001
 postcode: 70736
 city: Fellbach
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

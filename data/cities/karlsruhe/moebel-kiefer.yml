@@ -5,7 +5,7 @@ latitude: 49.0309456
 longitude: 8.3400652
 postcode: 76187
 city: Karlsruhe
-street: Saarlandstraße
+street: "Saarlandstraße"
 housenumber: 75
 phone: ""
 opening_hours: ""

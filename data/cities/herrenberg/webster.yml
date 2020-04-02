@@ -5,7 +5,7 @@ latitude: 48.595952700000005
 longitude: 8.870093800000001
 postcode: 71083
 city: Herrenberg
-street: Tübinger Straße
+street: "Tübinger Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

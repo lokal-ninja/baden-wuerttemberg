@@ -5,7 +5,7 @@ latitude: 48.8026424
 longitude: 9.800018000000001
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Honiggasse
+street: "Honiggasse"
 housenumber: 32
 phone: ""
 opening_hours: ""

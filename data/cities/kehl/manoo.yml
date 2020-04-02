@@ -5,7 +5,7 @@ latitude: 48.574246900000006
 longitude: 7.8124595
 postcode: 77694
 city: Kehl
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

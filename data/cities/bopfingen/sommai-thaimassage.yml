@@ -5,7 +5,7 @@ latitude: 48.8255214
 longitude: 10.3678364
 postcode: 73441
 city: Bopfingen
-street: Friedhofstraße
+street: "Friedhofstraße"
 housenumber: 11
 phone: "+49 7362 920221"
 opening_hours: "Mo-Fr dawn-dusk; Sa,Su,PH off"

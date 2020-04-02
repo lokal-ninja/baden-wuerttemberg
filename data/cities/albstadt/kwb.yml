@@ -5,7 +5,7 @@ latitude: 48.2064241
 longitude: 9.0305069
 postcode: 72458
 city: Albstadt
-street: Johannesstraße
+street: "Johannesstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

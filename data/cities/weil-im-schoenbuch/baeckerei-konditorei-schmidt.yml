@@ -5,7 +5,7 @@ latitude: 48.6220705
 longitude: 9.0533354
 postcode: 71093
 city: Weil im Schönbuch
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 107
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-12:30"

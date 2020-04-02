@@ -5,7 +5,7 @@ latitude: 47.965412300000004
 longitude: 7.8295715
 postcode: 79249
 city: Merzhausen
-street: Hexentalstraße
+street: "Hexentalstraße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00; Su,PH off"

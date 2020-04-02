@@ -5,7 +5,7 @@ latitude: 48.7069795
 longitude: 9.6526279
 postcode: 73033
 city: Göppingen
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

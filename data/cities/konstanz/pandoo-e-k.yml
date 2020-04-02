@@ -5,7 +5,7 @@ latitude: 47.659086
 longitude: 9.166384200000001
 postcode: 78462
 city: Konstanz
-street: Blarerstraße
+street: "Blarerstraße"
 housenumber: 56
 phone: "+49 7531 6919011"
 opening_hours: ""

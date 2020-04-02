@@ -5,7 +5,7 @@ latitude: 47.6980817
 longitude: 9.563495900000001
 postcode: 88074
 city: Meckenbeuren
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.029023
 longitude: 9.153525100000001
 postcode: 74376
 city: Gemmrigheim
-street: Wasenstraße
+street: "Wasenstraße"
 housenumber: 5
 phone: "+49 7143 609821"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.7151841
 longitude: 9.3938853
 postcode: 73779
 city: Deizisau
-street: Plochinger Straße
+street: "Plochinger Straße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"

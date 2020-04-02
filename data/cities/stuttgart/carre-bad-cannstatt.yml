@@ -5,7 +5,7 @@ latitude: 48.802398700000005
 longitude: 9.222202900000001
 postcode: 70372
 city: Stuttgart
-street: Wildunger Straße
+street: "Wildunger Straße"
 housenumber: 2-4
 phone: ""
 opening_hours: ""

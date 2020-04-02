@@ -5,7 +5,7 @@ latitude: 47.629982500000004
 longitude: 8.317707200000001
 postcode: 79787
 city: Lauchringen
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 16
 phone: "+49 7741 62028"
 opening_hours: ""

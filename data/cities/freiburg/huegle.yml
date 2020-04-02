@@ -5,7 +5,7 @@ latitude: 47.999017300000006
 longitude: 7.8384226
 postcode: 79106
 city: Freiburg
-street: Guntramstraße
+street: "Guntramstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:30; Sa 07:00-13:00"

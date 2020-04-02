@@ -5,7 +5,7 @@ latitude: 47.683882700000005
 longitude: 9.8271035
 postcode: 
 city: Wangen im Allgäu
-street: Lindauer Straße
+street: "Lindauer Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

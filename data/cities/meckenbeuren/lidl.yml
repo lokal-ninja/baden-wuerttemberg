@@ -5,7 +5,7 @@ latitude: 47.7011188
 longitude: 9.5578395
 postcode: 88074
 city: Meckenbeuren
-street: Oskar-von-Miller-Platz
+street: "Oskar-von-Miller-Platz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

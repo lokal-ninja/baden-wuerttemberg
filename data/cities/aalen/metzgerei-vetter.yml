@@ -5,7 +5,7 @@ latitude: 48.865551100000005
 longitude: 10.108889000000001
 postcode: 73433
 city: Aalen
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 92
 phone: "+49 7361 71587"
 opening_hours: ""

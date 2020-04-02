@@ -5,7 +5,7 @@ latitude: 49.1006155
 longitude: 8.476475800000001
 postcode: 76297
 city: Stutensee
-street: Buchenfeldstraße
+street: "Buchenfeldstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo, Tu 13:30-18:00; We, Fr 09:00-18:00"

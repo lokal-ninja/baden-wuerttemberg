@@ -5,7 +5,7 @@ latitude: 48.62351880000001
 longitude: 8.0495874
 postcode: 77855
 city: Achern
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

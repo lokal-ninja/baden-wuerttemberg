@@ -5,7 +5,7 @@ latitude: 47.7703247
 longitude: 9.165277300000001
 postcode: 88662
 city: Überlingen
-street: Hochbildstraße
+street: "Hochbildstraße"
 housenumber: 1
 phone: "+49 7551 9471940"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

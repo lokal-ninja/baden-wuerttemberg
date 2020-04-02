@@ -5,7 +5,7 @@ latitude: 47.7624767
 longitude: 8.7998227
 postcode: 78247
 city: Hilzingen
-street: Weidgang
+street: "Weidgang"
 housenumber: 3
 phone: "+49 7731 955620"
 opening_hours: "Mo 13:30-18:00; Tu-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00; Su,PH off"

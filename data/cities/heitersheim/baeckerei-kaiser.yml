@@ -5,7 +5,7 @@ latitude: 47.872611000000006
 longitude: 7.664159000000001
 postcode: 79423
 city: Heitersheim
-street: Johanniterstraße
+street: "Johanniterstraße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 06:15-13:30"

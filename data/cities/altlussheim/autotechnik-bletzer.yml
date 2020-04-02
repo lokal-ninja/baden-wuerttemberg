@@ -5,7 +5,7 @@ latitude: 49.293293500000004
 longitude: 8.509355900000001
 postcode: 68804
 city: Altlußheim
-street: Gersdorfer Straße
+street: "Gersdorfer Straße"
 housenumber: 13-15
 phone: "+49-176-23333345"
 opening_hours: ""

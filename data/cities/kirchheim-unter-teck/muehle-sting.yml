@@ -5,7 +5,7 @@ latitude: 48.639531000000005
 longitude: 9.4897608
 postcode: 73230
 city: Kirchheim unter Teck
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo,Sa 08:30-12:30; Tu-Fr 08:30-12:30,14:00-18:00"

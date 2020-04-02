@@ -5,7 +5,7 @@ latitude: 48.402455200000006
 longitude: 9.786473200000001
 postcode: 89143
 city: Blaubeuren
-street: Zementwerkstraße
+street: "Zementwerkstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

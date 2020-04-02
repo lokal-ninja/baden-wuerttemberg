@@ -5,7 +5,7 @@ latitude: 49.011429400000004
 longitude: 8.4261703
 postcode: 76131
 city: Karlsruhe
-street: Rintheimer Straße
+street: "Rintheimer Straße"
 housenumber: 19
 phone: "+49 162 5843434"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

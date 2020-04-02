@@ -5,7 +5,7 @@ latitude: 48.9558386
 longitude: 9.242964200000001
 postcode: 71711
 city: Murr
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

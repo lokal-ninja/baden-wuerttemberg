@@ -5,7 +5,7 @@ latitude: 48.7530774
 longitude: 8.549507400000001
 postcode: 75323
 city: Bad Wildbad
-street: König-Karl-Straße
+street: "König-Karl-Straße"
 housenumber: 71
 phone: "+49 7081 921020"
 opening_hours: ""

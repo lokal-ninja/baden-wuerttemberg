@@ -5,7 +5,7 @@ latitude: 48.406109
 longitude: 9.056075700000001
 postcode: 72116
 city: Mössingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.394336200000005
 longitude: 8.7992217
 postcode: 69151
 city: Neckargemünd
-street: Neckarstraße
+street: "Neckarstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

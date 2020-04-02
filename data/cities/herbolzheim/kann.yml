@@ -5,7 +5,7 @@ latitude: 48.221520500000004
 longitude: 7.7546493000000005
 postcode: 79336
 city: Herbolzheim
-street: Breisgauallee
+street: "Breisgauallee"
 housenumber: 26
 phone: ""
 opening_hours: ""

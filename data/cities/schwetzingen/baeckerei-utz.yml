@@ -5,7 +5,7 @@ latitude: 49.3870371
 longitude: 8.572278500000001
 postcode: 
 city: Schwetzingen
-street: Mannheimer Straße
+street: "Mannheimer Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

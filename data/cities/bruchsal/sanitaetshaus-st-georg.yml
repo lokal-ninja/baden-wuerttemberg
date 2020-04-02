@@ -5,7 +5,7 @@ latitude: 49.1399332
 longitude: 8.559413900000001
 postcode: 76646
 city: Bruchsal
-street: Molzaustraße
+street: "Molzaustraße"
 housenumber: 5
 phone: "+49 7251 618990"
 opening_hours: "Mo-Fr 08:00-18:00"

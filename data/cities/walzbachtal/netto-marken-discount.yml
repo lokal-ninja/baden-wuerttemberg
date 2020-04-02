@@ -5,7 +5,7 @@ latitude: 49.027274500000004
 longitude: 8.5799575
 postcode: 75045
 city: Walzbachtal
-street: Jöhlinger Straße
+street: "Jöhlinger Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

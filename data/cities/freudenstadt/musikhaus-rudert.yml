@@ -5,7 +5,7 @@ latitude: 48.460230800000005
 longitude: 8.411789200000001
 postcode: 72250
 city: Freudenstadt
-street: Alfredstraße
+street: "Alfredstraße"
 housenumber: 2
 phone: "+49 7441 88790"
 opening_hours: "Mo-Fr 09:30-13:00,14:00-18:00; Sa 09:30-13:30"

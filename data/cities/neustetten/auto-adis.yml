@@ -5,7 +5,7 @@ latitude: 48.480630600000005
 longitude: 8.8886328
 postcode: 72149
 city: Neustetten
-street: Hohenstauferstraße
+street: "Hohenstauferstraße"
 housenumber: 19
 phone: "+49 7472 22914"
 opening_hours: ""

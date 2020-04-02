@@ -5,7 +5,7 @@ latitude: 48.676199800000006
 longitude: 9.367082400000001
 postcode: 73257
 city: Köngen
-street: Wertstraße
+street: "Wertstraße"
 housenumber: 1
 phone: "+49 (0) 7024-807-350"
 opening_hours: ""

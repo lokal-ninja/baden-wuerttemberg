@@ -5,7 +5,7 @@ latitude: 48.8779672
 longitude: 8.965152900000001
 postcode: 71735
 city: Eberdingen
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 45
 phone: "+49 7042 77233"
 opening_hours: ""

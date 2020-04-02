@@ -5,7 +5,7 @@ latitude: 48.7912509
 longitude: 9.007224
 postcode: 71229
 city: Leonberg
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

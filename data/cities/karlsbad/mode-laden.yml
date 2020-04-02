@@ -5,7 +5,7 @@ latitude: 48.917315900000006
 longitude: 8.505366200000001
 postcode: 76307
 city: Karlsbad
-street: Weinbrennerstraße
+street: "Weinbrennerstraße"
 housenumber: 3
 phone: "+49 7202 8795"
 opening_hours: ""

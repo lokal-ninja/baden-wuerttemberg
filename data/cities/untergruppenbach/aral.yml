@@ -5,7 +5,7 @@ latitude: 49.0863115
 longitude: 9.2749933
 postcode: 74199
 city: Untergruppenbach
-street: Entenstraße
+street: "Entenstraße"
 housenumber: 18/1
 phone: ""
 opening_hours: "24/7"

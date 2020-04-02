@@ -5,7 +5,7 @@ latitude: 48.505520100000005
 longitude: 9.051256500000001
 postcode: 72072
 city: Tübingen
-street: Heinlenstraße
+street: "Heinlenstraße"
 housenumber: 2
 phone: "+49 7071 3677667"
 opening_hours: "Tu-Fr 10:00-13:00, 15:00-19:00; Sa 10:00-13:30"

@@ -5,7 +5,7 @@ latitude: 48.318355100000005
 longitude: 9.0578567
 postcode: 72393
 city: Burladingen
-street: Bundesstraße
+street: "Bundesstraße"
 housenumber: 68
 phone: ""
 opening_hours: ""

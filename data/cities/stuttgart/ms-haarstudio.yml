@@ -5,7 +5,7 @@ latitude: 48.834375
 longitude: 9.197227
 postcode: 70437
 city: Stuttgart
-street: Fleiner Straße
+street: "Fleiner Straße"
 housenumber: 78
 phone: "+49(0)711847771"
 opening_hours: "Mo off; Tu-Fr 08:30-18:00; Sa 08:00-13:00"

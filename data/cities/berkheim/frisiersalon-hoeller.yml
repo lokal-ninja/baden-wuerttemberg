@@ -5,7 +5,7 @@ latitude: 48.0650064
 longitude: 10.0743784
 postcode: 
 city: Berkheim
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

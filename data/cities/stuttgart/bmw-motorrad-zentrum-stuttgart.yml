@@ -5,7 +5,7 @@ latitude: 48.731753600000005
 longitude: 9.0885551
 postcode: 70569
 city: Stuttgart
-street: Pascalstraße
+street: "Pascalstraße"
 housenumber: 1
 phone: "+49 711 1318-5599"
 opening_hours: "Summer: Mo-Fr 07:30-18:30; Sa 09:00-13:00 // Winter: Mo-Fr 09:00-17:00; Sa 09:00-13:00"

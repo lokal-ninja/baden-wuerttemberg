@@ -5,7 +5,7 @@ latitude: 49.4697078
 longitude: 8.5580303
 postcode: 68239
 city: Mannheim
-street: Seckenheimer Hauptstraße
+street: "Seckenheimer Hauptstraße"
 housenumber: 177
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

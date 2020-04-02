@@ -5,7 +5,7 @@ latitude: 48.294925000000006
 longitude: 8.4927886
 postcode: 78737
 city: Fluorn-Winzeln
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 3
 phone: "+49 7402 69281"
 opening_hours: ""

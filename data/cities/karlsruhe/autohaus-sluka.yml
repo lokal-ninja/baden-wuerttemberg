@@ -5,7 +5,7 @@ latitude: 49.0249231
 longitude: 8.3561081
 postcode: 76185
 city: Karlsruhe
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

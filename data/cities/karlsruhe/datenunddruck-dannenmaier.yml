@@ -5,7 +5,7 @@ latitude: 49.005341200000004
 longitude: 8.4323371
 postcode: 76131
 city: Karlsruhe
-street: Alter Schlachthof
+street: "Alter Schlachthof"
 housenumber: 53
 phone: ""
 opening_hours: ""

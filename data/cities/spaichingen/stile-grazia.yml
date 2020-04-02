@@ -5,7 +5,7 @@ latitude: 48.074922300000004
 longitude: 8.736686
 postcode: 78549
 city: Spaichingen
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 21
 phone: "+49 7424 2957"
 opening_hours: ""

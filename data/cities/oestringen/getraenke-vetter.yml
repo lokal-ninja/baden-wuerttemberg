@@ -5,7 +5,7 @@ latitude: 49.176646000000005
 longitude: 8.7960793
 postcode: 76684
 city: Östringen
-street: Hermannstraße
+street: "Hermannstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

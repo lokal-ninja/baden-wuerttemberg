@@ -5,7 +5,7 @@ latitude: 49.0668299
 longitude: 8.997965
 postcode: 74363
 city: Güglingen
-street: Maulbronner Straße
+street: "Maulbronner Straße"
 housenumber: 6
 phone: "+49 7135 12511"
 opening_hours: ""

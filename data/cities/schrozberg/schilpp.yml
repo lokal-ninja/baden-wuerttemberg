@@ -5,7 +5,7 @@ latitude: 49.3451521
 longitude: 9.9798474
 postcode: 74575
 city: Schrozberg
-street: Oberstettener Straße
+street: "Oberstettener Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo,Sa 07:00-13:00; Tu-Fr 07:00-18:00"

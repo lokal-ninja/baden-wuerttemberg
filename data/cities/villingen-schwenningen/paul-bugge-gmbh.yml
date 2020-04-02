@@ -5,7 +5,7 @@ latitude: 48.065395300000006
 longitude: 8.5634203
 postcode: 78056
 city: Villingen-Schwenningen
-street: Spittelbronner Weg
+street: "Spittelbronner Weg"
 housenumber: 46
 phone: "+49 7720 954840"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-13:00; PH off"

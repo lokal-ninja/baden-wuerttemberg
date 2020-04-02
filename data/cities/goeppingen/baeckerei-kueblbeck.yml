@@ -5,7 +5,7 @@ latitude: 48.686840100000005
 longitude: 9.6863132
 postcode: 73037
 city: Göppingen
-street: Göppinger Straße
+street: "Göppinger Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

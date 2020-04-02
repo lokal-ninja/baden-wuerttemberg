@@ -5,7 +5,7 @@ latitude: 47.679506700000005
 longitude: 9.4791063
 postcode: 88048
 city: Friedrichshafen
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"

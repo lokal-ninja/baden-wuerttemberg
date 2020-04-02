@@ -5,7 +5,7 @@ latitude: 48.626014100000006
 longitude: 9.337763
 postcode: 72622
 city: Nürtingen
-street: Brunnsteige
+street: "Brunnsteige"
 housenumber: 11-13
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-13:00"

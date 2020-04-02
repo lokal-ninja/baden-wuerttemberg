@@ -5,7 +5,7 @@ latitude: 47.984205800000005
 longitude: 8.819812500000001
 postcode: 78532
 city: Tuttlingen
-street: Honbergstraße
+street: "Honbergstraße"
 housenumber: 15
 phone: "+49 7461 79055"
 opening_hours: ""

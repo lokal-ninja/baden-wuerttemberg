@@ -5,7 +5,7 @@ latitude: 49.0066083
 longitude: 8.4308929
 postcode: 76131
 city: Karlsruhe
-street: Tullastraße
+street: "Tullastraße"
 housenumber: 88
 phone: ""
 opening_hours: "Mo-Fr 13:00-18:00;Sa 10:00-14:00"

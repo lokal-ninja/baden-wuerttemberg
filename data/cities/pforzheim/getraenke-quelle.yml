@@ -5,7 +5,7 @@ latitude: 48.8962541
 longitude: 8.697358900000001
 postcode: 75177
 city: Pforzheim
-street: Salierstraße
+street: "Salierstraße"
 housenumber: 59
 phone: "+49 7231 106386"
 opening_hours: ""

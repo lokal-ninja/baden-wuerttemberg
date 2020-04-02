@@ -5,7 +5,7 @@ latitude: 48.586021
 longitude: 9.184140000000001
 postcode: 72141
 city: Walddorfhäslach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

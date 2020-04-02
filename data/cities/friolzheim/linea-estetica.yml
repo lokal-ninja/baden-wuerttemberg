@@ -5,7 +5,7 @@ latitude: 48.8359067
 longitude: 8.833103900000001
 postcode: 71292
 city: Friolzheim
-street: Pforzheimer Straße
+street: "Pforzheimer Straße"
 housenumber: 14
 phone: "+49 7044 907256"
 opening_hours: ""

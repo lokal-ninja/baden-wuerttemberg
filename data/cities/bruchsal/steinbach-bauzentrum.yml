@@ -5,7 +5,7 @@ latitude: 49.1384887
 longitude: 8.5680531
 postcode: 76646
 city: Bruchsal
-street: Im Wendelrot
+street: "Im Wendelrot"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"

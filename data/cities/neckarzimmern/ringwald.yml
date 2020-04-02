@@ -5,7 +5,7 @@ latitude: 49.318546000000005
 longitude: 9.1287196
 postcode: 74865
 city: Neckarzimmern
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 61
 phone: "+49 6261 2803"
 opening_hours: ""

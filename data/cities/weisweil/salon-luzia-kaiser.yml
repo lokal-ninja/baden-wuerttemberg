@@ -5,7 +5,7 @@ latitude: 48.1980474
 longitude: 7.674756400000001
 postcode: 79367
 city: Weisweil
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

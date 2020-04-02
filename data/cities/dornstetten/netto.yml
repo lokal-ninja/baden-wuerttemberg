@@ -5,7 +5,7 @@ latitude: 48.489071
 longitude: 8.506768300000001
 postcode: 72280
 city: Dornstetten
-street: Silberwaldstraße
+street: "Silberwaldstraße"
 housenumber: 91
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

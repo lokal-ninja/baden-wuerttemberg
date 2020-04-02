@@ -5,7 +5,7 @@ latitude: 47.624036000000004
 longitude: 8.324432100000001
 postcode: 79787
 city: Lauchringen
-street: Eberwiesenstraße
+street: "Eberwiesenstraße"
 housenumber: 2
 phone: "+49 7741 4672"
 opening_hours: "Mo-Fr.7:00-19:00,Sa.7:00-16:00"

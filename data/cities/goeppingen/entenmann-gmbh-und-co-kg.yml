@@ -5,7 +5,7 @@ latitude: 48.6978133
 longitude: 9.661466
 postcode: 73037
 city: Göppingen
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 103
 phone: "+49 7161 6292 0"
 opening_hours: "Mo-Fr 07:00-18:30; Sa 09:00-18:30"

@@ -5,7 +5,7 @@ latitude: 48.1185333
 longitude: 7.848010500000001
 postcode: 79312
 city: Emmendingen
-street: Karl-Bautz-Straße
+street: "Karl-Bautz-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

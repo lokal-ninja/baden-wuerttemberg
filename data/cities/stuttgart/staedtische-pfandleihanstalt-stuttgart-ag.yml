@@ -5,7 +5,7 @@ latitude: 48.7718216
 longitude: 9.176978100000001
 postcode: 70178
 city: Stuttgart
-street: Gerberstraße
+street: "Gerberstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30;13:30-17:00"

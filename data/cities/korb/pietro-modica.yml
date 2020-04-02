@@ -5,7 +5,7 @@ latitude: 48.841153500000004
 longitude: 9.360264500000001
 postcode: 71404
 city: Korb
-street: Waiblinger Straße
+street: "Waiblinger Straße"
 housenumber: 29
 phone: ""
 opening_hours: ""

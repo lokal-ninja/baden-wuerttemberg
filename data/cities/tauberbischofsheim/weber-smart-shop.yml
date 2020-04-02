@@ -5,7 +5,7 @@ latitude: 49.6230546
 longitude: 9.664911700000001
 postcode: 97941
 city: Tauberbischofsheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

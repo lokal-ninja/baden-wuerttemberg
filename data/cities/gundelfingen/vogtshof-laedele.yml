@@ -5,7 +5,7 @@ latitude: 48.031684000000006
 longitude: 7.896932400000001
 postcode: 79194
 city: Gundelfingen
-street: Talstraße
+street: "Talstraße"
 housenumber: 135
 phone: "+49 761 5034955"
 opening_hours: "Th 16:00-19:00;Fr 12:00-20:00"

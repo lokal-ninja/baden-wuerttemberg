@@ -5,7 +5,7 @@ latitude: 49.487373600000005
 longitude: 8.52771
 postcode: 68259
 city: Mannheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 100
 phone: "+49 621 73619764"
 opening_hours: "Mo-Fr 09:00-12:00,15:00-18:00; We,Sa 15:00-18:00"

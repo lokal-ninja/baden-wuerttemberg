@@ -5,7 +5,7 @@ latitude: 48.627725600000005
 longitude: 7.897112900000001
 postcode: 77866
 city: Rheinau
-street: Tullastraße
+street: "Tullastraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

@@ -5,7 +5,7 @@ latitude: 48.1224423
 longitude: 9.074133400000001
 postcode: 72510
 city: Stetten am kalten Markt
-street: Friedenstraße
+street: "Friedenstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

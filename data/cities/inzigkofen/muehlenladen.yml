@@ -5,7 +5,7 @@ latitude: 48.078649600000006
 longitude: 9.1400991
 postcode: 
 city: Inzigkofen
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

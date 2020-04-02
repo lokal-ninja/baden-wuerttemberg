@@ -5,7 +5,7 @@ latitude: 48.662000400000004
 longitude: 8.691198700000001
 postcode: 75387
 city: Neubulach
-street: Julius-Heuß-Straße
+street: "Julius-Heuß-Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

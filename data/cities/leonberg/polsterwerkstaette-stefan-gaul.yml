@@ -5,7 +5,7 @@ latitude: 48.794892700000005
 longitude: 9.007880700000001
 postcode: 71229
 city: Leonberg
-street: Brennerstraße
+street: "Brennerstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

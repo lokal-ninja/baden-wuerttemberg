@@ -5,7 +5,7 @@ latitude: 48.330826
 longitude: 9.9082706
 postcode: 89155
 city: Erbach
-street: Benzstraße
+street: "Benzstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:00,13:00-17:30"

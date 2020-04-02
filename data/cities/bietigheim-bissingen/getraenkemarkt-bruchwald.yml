@@ -5,7 +5,7 @@ latitude: 48.941920200000006
 longitude: 9.116921000000001
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Marbacher Weg
+street: "Marbacher Weg"
 housenumber: 36
 phone: ""
 opening_hours: ""

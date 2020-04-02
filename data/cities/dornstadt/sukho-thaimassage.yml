@@ -5,7 +5,7 @@ latitude: 48.465608700000004
 longitude: 9.9419103
 postcode: 89160
 city: Dornstadt
-street: Kreuzstraße
+street: "Kreuzstraße"
 housenumber: 3
 phone: "+49 7348 9492880"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su,PH off"

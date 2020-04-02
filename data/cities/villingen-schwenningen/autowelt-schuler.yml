@@ -5,7 +5,7 @@ latitude: 48.085085600000006
 longitude: 8.4494018
 postcode: 78052
 city: Villingen-Schwenningen
-street: Max-Planck-Straße
+street: "Max-Planck-Straße"
 housenumber: 34
 phone: ""
 opening_hours: ""

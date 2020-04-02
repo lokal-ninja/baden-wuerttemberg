@@ -5,7 +5,7 @@ latitude: 48.896328000000004
 longitude: 9.190803800000001
 postcode: 71638
 city: Ludwigsburg
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-16:00"

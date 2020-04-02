@@ -5,7 +5,7 @@ latitude: 48.939722700000004
 longitude: 8.4091052
 postcode: 76275
 city: Ettlingen
-street: Leopoldstraße
+street: "Leopoldstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.436860200000005
 longitude: 9.1433994
 postcode: 72770
 city: Reutlingen
-street: Bierwiesenstraße
+street: "Bierwiesenstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

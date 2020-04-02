@@ -5,7 +5,7 @@ latitude: 48.1112045
 longitude: 7.8665415
 postcode: 79312
 city: Emmendingen
-street: Carl-Helbing-Straße
+street: "Carl-Helbing-Straße"
 housenumber: 7
 phone: "+49 7641 9542561"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

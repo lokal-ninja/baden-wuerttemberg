@@ -5,7 +5,7 @@ latitude: 49.4084409
 longitude: 8.689351700000001
 postcode: 
 city: Heidelberg
-street: Bergheimer Straße
+street: "Bergheimer Straße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:30"

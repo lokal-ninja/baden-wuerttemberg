@@ -5,7 +5,7 @@ latitude: 49.380275700000006
 longitude: 8.584920200000001
 postcode: 68723
 city: Schwetzingen
-street: Scheffelstraße
+street: "Scheffelstraße"
 housenumber: 67
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

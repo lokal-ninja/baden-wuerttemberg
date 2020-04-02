@@ -5,7 +5,7 @@ latitude: 49.341114000000005
 longitude: 8.6688788
 postcode: 69181
 city: Leimen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 57
 phone: "+49 6224 146623"
 opening_hours: "Mo-Fr 05:00-13:00; Sa 06:00-13:00; Su,PH 07:30-12:00"

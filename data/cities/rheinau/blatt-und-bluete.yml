@@ -5,7 +5,7 @@ latitude: 48.623161700000004
 longitude: 7.895923300000001
 postcode: 77866
 city: Rheinau
-street: Holzhauser Straße
+street: "Holzhauser Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

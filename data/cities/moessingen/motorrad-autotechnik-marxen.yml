@@ -5,7 +5,7 @@ latitude: 48.4068684
 longitude: 9.0521249
 postcode: 72116
 city: Mössingen
-street: Richard-Burkhardt-Straße
+street: "Richard-Burkhardt-Straße"
 housenumber: 3
 phone: "+49 7473 951266"
 opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-13:00; Su,PH off"

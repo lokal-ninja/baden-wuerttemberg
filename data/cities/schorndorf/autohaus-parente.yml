@@ -5,7 +5,7 @@ latitude: 48.8114702
 longitude: 9.516933400000001
 postcode: 73614
 city: Schorndorf
-street: Grafenbergweg
+street: "Grafenbergweg"
 housenumber: 6
 phone: ""
 opening_hours: ""

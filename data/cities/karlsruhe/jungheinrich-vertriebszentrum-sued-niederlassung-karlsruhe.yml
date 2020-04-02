@@ -5,7 +5,7 @@ latitude: 49.033247700000004
 longitude: 8.4747264
 postcode: 76229
 city: Karlsruhe
-street: Greschbachstraße
+street: "Greschbachstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

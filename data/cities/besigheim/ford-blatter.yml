@@ -5,7 +5,7 @@ latitude: 49.0029405
 longitude: 9.1430063
 postcode: 74354
 city: Besigheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 83
 phone: ""
 opening_hours: ""

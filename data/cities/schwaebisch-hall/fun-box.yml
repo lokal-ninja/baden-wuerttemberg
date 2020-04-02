@@ -5,7 +5,7 @@ latitude: 49.1036385
 longitude: 9.709954600000001
 postcode: 74523
 city: Schwäbisch Hall
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

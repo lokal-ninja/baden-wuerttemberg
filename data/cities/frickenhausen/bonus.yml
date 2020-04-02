@@ -5,7 +5,7 @@ latitude: 48.5927202
 longitude: 9.360989700000001
 postcode: 72636
 city: Frickenhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"

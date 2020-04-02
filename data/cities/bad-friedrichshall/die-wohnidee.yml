@@ -5,7 +5,7 @@ latitude: 49.2288775
 longitude: 9.2145689
 postcode: 74177
 city: Bad Friedrichshall
-street: Friedrichshaller Straße
+street: "Friedrichshaller Straße"
 housenumber: 14
 phone: "+49 7136 7491"
 opening_hours: ""

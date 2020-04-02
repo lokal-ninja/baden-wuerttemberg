@@ -5,7 +5,7 @@ latitude: 48.388164700000004
 longitude: 9.2969136
 postcode: 72829
 city: Engstingen
-street: Schwefelstraße
+street: "Schwefelstraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00, Mo-Tu,Th-Fr 14:00-18:00, Sa-Su,PH off"

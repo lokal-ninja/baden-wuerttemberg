@@ -5,7 +5,7 @@ latitude: 49.0882615
 longitude: 9.271310600000001
 postcode: 74199
 city: Untergruppenbach
-street: Lerchenweg
+street: "Lerchenweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su off"

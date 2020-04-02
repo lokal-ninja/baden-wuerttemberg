@@ -5,7 +5,7 @@ latitude: 48.7921793
 longitude: 9.202283300000001
 postcode: 70190
 city: Stuttgart
-street: Stöckachstraße
+street: "Stöckachstraße"
 housenumber: 53
 phone: ""
 opening_hours: ""

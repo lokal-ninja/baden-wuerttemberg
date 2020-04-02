@@ -5,7 +5,7 @@ latitude: 47.627138800000004
 longitude: 8.316487
 postcode: 79787
 city: Lauchringen
-street: Klettgaustraße
+street: "Klettgaustraße"
 housenumber: 33
 phone: "+49 7741 5225"
 opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00-14:00"

@@ -5,7 +5,7 @@ latitude: 48.3394264
 longitude: 7.8722072
 postcode: 77933
 city: Lahr/Schwarzwald
-street: Schloßplatz
+street: "Schloßplatz"
 housenumber: 18
 phone: "+49 7821 922890"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su,PH off"

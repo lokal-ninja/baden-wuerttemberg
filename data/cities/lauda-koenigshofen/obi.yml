@@ -5,7 +5,7 @@ latitude: 49.540572000000004
 longitude: 9.7373747
 postcode: 97922
 city: Lauda-Königshofen
-street: Deubacher Straße
+street: "Deubacher Straße"
 housenumber: 8
 phone: "+49934360040"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

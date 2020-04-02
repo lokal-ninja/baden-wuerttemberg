@@ -5,7 +5,7 @@ latitude: 48.7914339
 longitude: 8.7761999
 postcode: 75242
 city: Neuhausen
-street: Im Falter
+street: "Im Falter"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00; Mo,Th,Fr 15:00-18:00; Sa 09:00-13:00"

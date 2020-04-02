@@ -5,7 +5,7 @@ latitude: 48.876484000000005
 longitude: 9.403481000000001
 postcode: 71364
 city: Winnenden
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 25
 phone: "+49 7195 60972"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.9786312
 longitude: 7.898870400000001
 postcode: 79117
 city: Freiburg im Breisgau
-street: Schlesierstraße
+street: "Schlesierstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:30-13:00, Tu-Fr 15:00-18:30; Fr 09:00-17:10"

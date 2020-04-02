@@ -5,7 +5,7 @@ latitude: 49.2828924
 longitude: 9.1612094
 postcode: 74831
 city: Gundelsheim
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

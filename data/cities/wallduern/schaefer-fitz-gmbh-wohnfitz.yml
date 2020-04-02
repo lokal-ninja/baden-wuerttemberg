@@ -5,7 +5,7 @@ latitude: 49.5782358
 longitude: 9.3724608
 postcode: 74731
 city: Walldürn
-street: Robert-Koch-Straße
+street: "Robert-Koch-Straße"
 housenumber: 1
 phone: "+49 6282 92620"
 opening_hours: ""

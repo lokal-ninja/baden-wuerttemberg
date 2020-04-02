@@ -5,7 +5,7 @@ latitude: 49.2629206
 longitude: 8.6325926
 postcode: 
 city: St. Leon-Rot
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 66
 phone: "+49 6227 59497"
 opening_hours: ""

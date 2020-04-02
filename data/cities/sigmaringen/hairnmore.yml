@@ -5,7 +5,7 @@ latitude: 48.0855753
 longitude: 9.2158469
 postcode: 72488
 city: Sigmaringen
-street: Antonstraße
+street: "Antonstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.5443888
 longitude: 8.478604500000001
 postcode: 68307
 city: Mannheim
-street: Memeler Straße
+street: "Memeler Straße"
 housenumber: 17
 phone: "+49 621 46082195"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su,PH 08:00-11:00"

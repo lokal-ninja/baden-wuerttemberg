@@ -5,7 +5,7 @@ latitude: 49.001739400000005
 longitude: 8.413269600000001
 postcode: 76137
 city: Karlsruhe
-street: Morgenstraße
+street: "Morgenstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00;Sa 08:00-16:00, Su 12:00-16:00"

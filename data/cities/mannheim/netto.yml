@@ -5,7 +5,7 @@ latitude: 49.5071887
 longitude: 8.493906200000001
 postcode: 68167
 city: Mannheim
-street: Ulmenweg
+street: "Ulmenweg"
 housenumber: 80
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

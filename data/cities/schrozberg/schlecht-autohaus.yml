@@ -5,7 +5,7 @@ latitude: 49.3459329
 longitude: 9.9824298
 postcode: 74575
 city: Schrozberg
-street: Rothenburger Weg
+street: "Rothenburger Weg"
 housenumber: 3
 phone: ""
 opening_hours: ""

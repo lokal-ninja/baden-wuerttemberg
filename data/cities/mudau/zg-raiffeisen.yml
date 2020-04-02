@@ -5,7 +5,7 @@ latitude: 49.5304726
 longitude: 9.199496
 postcode: 69427
 city: Mudau
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

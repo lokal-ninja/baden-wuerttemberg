@@ -5,7 +5,7 @@ latitude: 48.752769900000004
 longitude: 9.4826753
 postcode: 73669
 city: Lichtenwald
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 8/1
 phone: ""
 opening_hours: ""

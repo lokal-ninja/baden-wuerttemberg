@@ -5,7 +5,7 @@ latitude: 49.4728367
 longitude: 8.602068300000001
 postcode: 68526
 city: Ladenburg
-street: Am Bahnhof
+street: "Am Bahnhof"
 housenumber: 4
 phone: ""
 opening_hours: ""

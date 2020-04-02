@@ -5,7 +5,7 @@ latitude: 48.4892405
 longitude: 9.226105800000001
 postcode: 72764
 city: Reutlingen
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 113
 phone: ""
 opening_hours: ""

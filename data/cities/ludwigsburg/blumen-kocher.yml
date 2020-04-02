@@ -5,7 +5,7 @@ latitude: 48.899526400000006
 longitude: 9.205694900000001
 postcode: 71640
 city: Ludwigsburg
-street: Harteneckstraße
+street: "Harteneckstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

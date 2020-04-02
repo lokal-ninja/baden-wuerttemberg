@@ -5,7 +5,7 @@ latitude: 48.890651600000005
 longitude: 9.4208938
 postcode: 71364
 city: Winnenden
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 2
 phone: "+49 7195 91610"
 opening_hours: ""

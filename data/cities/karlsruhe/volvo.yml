@@ -5,7 +5,7 @@ latitude: 49.0334419
 longitude: 8.3576491
 postcode: 76187
 city: Karlsruhe
-street: Eugen-Geiger-Straße
+street: "Eugen-Geiger-Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

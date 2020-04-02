@@ -5,7 +5,7 @@ latitude: 48.239800200000005
 longitude: 8.4974839
 postcode: 78655
 city: Dunningen
-street: Kräftenweg
+street: "Kräftenweg"
 housenumber: 4
 phone: "+49 7402 91 09 434"
 opening_hours: "Mo-Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.1473102
 longitude: 9.221428300000001
 postcode: 74076
 city: Heilbronn
-street: Dammstraße
+street: "Dammstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

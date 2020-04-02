@@ -5,7 +5,7 @@ latitude: 47.973754500000005
 longitude: 7.8281745
 postcode: 79100
 city: Freiburg im Breisgau
-street: Merzhauser Straße
+street: "Merzhauser Straße"
 housenumber: 172
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 48.901102900000005
 longitude: 10.132363
 postcode: 73492
 city: Rainau
-street: Aalener Straße
+street: "Aalener Straße"
 housenumber: 55
 phone: ""
 opening_hours: ""

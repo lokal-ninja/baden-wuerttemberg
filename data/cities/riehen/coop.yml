@@ -5,7 +5,7 @@ latitude: 47.5849461
 longitude: 7.650758400000001
 postcode: 4125
 city: Riehen
-street: Schmiedgasse
+street: "Schmiedgasse"
 housenumber: 7/9
 phone: ""
 opening_hours: ""

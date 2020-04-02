@@ -5,7 +5,7 @@ latitude: 48.0539999
 longitude: 7.782116200000001
 postcode: 79232
 city: March
-street: Herrenstraße
+street: "Herrenstraße"
 housenumber: 27
 phone: ""
 opening_hours: "Mo-Sa 07:00-12:00, Mo-Fr 15:00-18:00"

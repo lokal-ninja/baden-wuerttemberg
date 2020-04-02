@@ -5,7 +5,7 @@ latitude: 48.689600500000005
 longitude: 9.008979
 postcode: 71032
 city: Böblingen
-street: Mühlbachstraße
+street: "Mühlbachstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

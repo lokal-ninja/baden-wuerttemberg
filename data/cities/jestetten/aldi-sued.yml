@@ -5,7 +5,7 @@ latitude: 47.6541883
 longitude: 8.5749157
 postcode: 79798
 city: Jestetten
-street: Schaffhauser Straße
+street: "Schaffhauser Straße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

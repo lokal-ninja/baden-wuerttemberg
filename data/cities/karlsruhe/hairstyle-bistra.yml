@@ -5,7 +5,7 @@ latitude: 49.00303
 longitude: 8.383054600000001
 postcode: 76135
 city: Karlsruhe
-street: Lorenzstraße
+street: "Lorenzstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

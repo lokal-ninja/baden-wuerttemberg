@@ -5,7 +5,7 @@ latitude: 48.672585700000006
 longitude: 9.3862485
 postcode: 73240
 city: Wendlingen am Neckar
-street: Kirchheimer Straße
+street: "Kirchheimer Straße"
 housenumber: 34
 phone: "+49 7024 502755"
 opening_hours: ""

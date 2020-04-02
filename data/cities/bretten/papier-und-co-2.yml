@@ -5,7 +5,7 @@ latitude: 49.0300147
 longitude: 8.717090500000001
 postcode: 75015
 city: Bretten
-street: Max-Planck-Straße
+street: "Max-Planck-Straße"
 housenumber: 18
 phone: "+49 7252 975353"
 opening_hours: "Mo-Fr 06:45-18:00"

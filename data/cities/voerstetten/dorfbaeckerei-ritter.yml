@@ -5,7 +5,7 @@ latitude: 48.068956400000005
 longitude: 7.844766000000001
 postcode: 79279
 city: Vörstetten
-street: Langacker
+street: "Langacker"
 housenumber: 2
 phone: "+49 7666 - 94 631 30"
 opening_hours: "Mo-Sa 06:30-18:00; Su 08:00-18:00; PH 14:00-18:00"

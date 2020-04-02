@@ -5,7 +5,7 @@ latitude: 48.6978529
 longitude: 9.682821800000001
 postcode: 73054
 city: Eislingen/Fils
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 228
 phone: "+49 7161 980850"
 opening_hours: ""

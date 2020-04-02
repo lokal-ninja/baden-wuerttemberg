@@ -5,7 +5,7 @@ latitude: 48.4918957
 longitude: 9.2105557
 postcode: 72764
 city: Reutlingen
-street: Katharinenstraße
+street: "Katharinenstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:30, Sa 09:00-14:00; Su off; PH off"

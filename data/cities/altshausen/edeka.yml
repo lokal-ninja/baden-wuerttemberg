@@ -5,7 +5,7 @@ latitude: 47.9255414
 longitude: 9.537827400000001
 postcode: 
 city: Altshausen
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

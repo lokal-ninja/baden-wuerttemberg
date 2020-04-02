@@ -5,7 +5,7 @@ latitude: 48.496603500000006
 longitude: 7.947482300000001
 postcode: 77652
 city: Offenburg
-street: Okenstraße
+street: "Okenstraße"
 housenumber: 340
 phone: ""
 opening_hours: ""

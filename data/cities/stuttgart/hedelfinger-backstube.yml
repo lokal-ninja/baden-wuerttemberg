@@ -5,7 +5,7 @@ latitude: 48.7578198
 longitude: 9.2529456
 postcode: 70329
 city: Stuttgart
-street: Rohrackerstraße
+street: "Rohrackerstraße"
 housenumber: 22
 phone: "+49 711 91253585"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00"

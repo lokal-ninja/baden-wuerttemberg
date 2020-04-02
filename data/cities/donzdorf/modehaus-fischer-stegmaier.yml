@@ -5,7 +5,7 @@ latitude: 48.686461900000005
 longitude: 9.8103028
 postcode: 73072
 city: Donzdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 54
 phone: ""
 opening_hours: ""

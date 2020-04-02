@@ -5,7 +5,7 @@ latitude: 49.1428415
 longitude: 9.2199693
 postcode: 74072
 city: Heilbronn
-street: Lohtorstraße
+street: "Lohtorstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 10:00-18:30"

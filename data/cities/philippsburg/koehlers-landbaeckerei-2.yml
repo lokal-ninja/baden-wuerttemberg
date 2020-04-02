@@ -5,7 +5,7 @@ latitude: 49.2376207
 longitude: 8.452756500000001
 postcode: 76661
 city: Philippsburg
-street: Weiße-Tor-Straße
+street: "Weiße-Tor-Straße"
 housenumber: 9
 phone: "+497256944450"
 opening_hours: ""

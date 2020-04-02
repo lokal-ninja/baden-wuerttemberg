@@ -5,7 +5,7 @@ latitude: 48.5175922
 longitude: 9.0603391
 postcode: 72072
 city: Tübingen
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-14:00"

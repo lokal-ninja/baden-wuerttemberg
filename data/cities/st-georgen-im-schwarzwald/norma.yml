@@ -5,7 +5,7 @@ latitude: 48.128311100000005
 longitude: 8.3385315
 postcode: 
 city: St. Georgen im Schwarzwald
-street: Talstraße
+street: "Talstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.393352300000004
 longitude: 8.799203200000001
 postcode: 69151
 city: Neckargemünd
-street: Spitalgasse
+street: "Spitalgasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

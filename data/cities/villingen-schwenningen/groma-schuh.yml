@@ -5,7 +5,7 @@ latitude: 48.091768300000005
 longitude: 8.5040964
 postcode: 78052
 city: Villingen-Schwenningen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

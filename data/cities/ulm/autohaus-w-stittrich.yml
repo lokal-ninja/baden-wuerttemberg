@@ -5,7 +5,7 @@ latitude: 48.35394590000001
 longitude: 9.9205418
 postcode: 89079
 city: Ulm
-street: Taubriedstraße
+street: "Taubriedstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

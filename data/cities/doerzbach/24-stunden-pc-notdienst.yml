@@ -5,7 +5,7 @@ latitude: 49.381306900000006
 longitude: 9.7118135
 postcode: 74677
 city: Dörzbach
-street: Hohebacher Straße
+street: "Hohebacher Straße"
 housenumber: 24
 phone: "+49 7937 803758"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.8688998
 longitude: 8.192342100000001
 postcode: 
 city: Rastatt
-street: Buchenstraße
+street: "Buchenstraße"
 housenumber: 18/1
 phone: "+49 7222 9686740"
 opening_hours: "Mo-Sa 08:00-21:00"

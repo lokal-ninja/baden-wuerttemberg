@@ -5,7 +5,7 @@ latitude: 48.7994488
 longitude: 9.003789300000001
 postcode: 71229
 city: Leonberg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 78
 phone: ""
 opening_hours: "Mo-Fr 4:45-20:45; Sa 06:30-18:30; Su, Ph 08:00-16:00"

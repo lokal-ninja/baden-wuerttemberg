@@ -5,7 +5,7 @@ latitude: 49.0840412
 longitude: 9.063017700000001
 postcode: 74336
 city: Brackenheim
-street: Hipfpfad
+street: "Hipfpfad"
 housenumber: 7
 phone: "+49 7135 2794"
 opening_hours: ""

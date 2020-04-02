@@ -5,7 +5,7 @@ latitude: 49.3427519
 longitude: 9.5251423
 postcode: 74214
 city: Schöntal
-street: Max-Eyth-Straße
+street: "Max-Eyth-Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 07:45-12:00,13:00-18:00; Sa 08:00-12:00"

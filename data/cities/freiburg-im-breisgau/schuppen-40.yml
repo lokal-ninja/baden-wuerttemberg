@@ -5,7 +5,7 @@ latitude: 47.982539
 longitude: 7.802546
 postcode: 79111
 city: Freiburg im Breisgau
-street: Basler Landstraße
+street: "Basler Landstraße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo,We,Fr 13:30-18:00; Sa 10:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.5383135
 longitude: 8.649026600000001
 postcode: 
 city: Weinheim
-street: Waidallee
+street: "Waidallee"
 housenumber: 43
 phone: ""
 opening_hours: ""

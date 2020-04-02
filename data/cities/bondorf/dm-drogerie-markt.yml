@@ -5,7 +5,7 @@ latitude: 48.5227705
 longitude: 8.839593500000001
 postcode: 71149
 city: Bondorf
-street: Hailfinger Straße
+street: "Hailfinger Straße"
 housenumber: 17/1
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.18582
 longitude: 9.830001300000001
 postcode: 88433
 city: Schemmerhofen
-street: Adolf-Kolping-Straße
+street: "Adolf-Kolping-Straße"
 housenumber: 37
 phone: "+49 7356 938790"
 opening_hours: ""

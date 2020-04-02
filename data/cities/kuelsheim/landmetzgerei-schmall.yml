@@ -5,7 +5,7 @@ latitude: 49.6793696
 longitude: 9.5726443
 postcode: 97900
 city: Külsheim
-street: Ritter-Arnold-Straße
+street: "Ritter-Arnold-Straße"
 housenumber: 28
 phone: ""
 opening_hours: "Tu-Th 07:00-13:00, Fr 07:00-18:00, Sa 07:00-13:00"

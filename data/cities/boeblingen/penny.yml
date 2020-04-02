@@ -5,7 +5,7 @@ latitude: 48.6828194
 longitude: 9.0029871
 postcode: 71034
 city: Böblingen
-street: Königsberger Straße
+street: "Königsberger Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 07:30-22:00; Sa 07:30-22:00; PH off"

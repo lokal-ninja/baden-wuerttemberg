@@ -5,7 +5,7 @@ latitude: 48.6354495
 longitude: 8.060671300000001
 postcode: 77855
 city: Achern
-street: Neulandstraße
+street: "Neulandstraße"
 housenumber: 3
 phone: "+49 7841 674989-0"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

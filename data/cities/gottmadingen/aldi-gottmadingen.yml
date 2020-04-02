@@ -5,7 +5,7 @@ latitude: 47.735855900000004
 longitude: 8.7870291
 postcode: 78244
 city: Gottmadingen
-street: Kornblumenweg
+street: "Kornblumenweg"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

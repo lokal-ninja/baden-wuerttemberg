@@ -5,7 +5,7 @@ latitude: 48.7527029
 longitude: 8.5491325
 postcode: 75323
 city: Bad Wildbad
-street: Charlottenstraße
+street: "Charlottenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

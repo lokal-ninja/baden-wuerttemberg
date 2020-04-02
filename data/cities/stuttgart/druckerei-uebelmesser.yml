@@ -5,7 +5,7 @@ latitude: 48.8225904
 longitude: 9.210933
 postcode: 
 city: Stuttgart
-street: Freibergstraße
+street: "Freibergstraße"
 housenumber: 90
 phone: ""
 opening_hours: ""

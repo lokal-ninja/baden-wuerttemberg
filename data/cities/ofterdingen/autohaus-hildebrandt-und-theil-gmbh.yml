@@ -5,7 +5,7 @@ latitude: 48.4163152
 longitude: 9.039304600000001
 postcode: 72131
 city: Ofterdingen
-street: Krummenstraße
+street: "Krummenstraße"
 housenumber: 7
 phone: "+49 7473 21212"
 opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00"

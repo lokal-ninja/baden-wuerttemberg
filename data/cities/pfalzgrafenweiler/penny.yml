@@ -5,7 +5,7 @@ latitude: 48.537351900000004
 longitude: 8.571755300000001
 postcode: 72285
 city: Pfalzgrafenweiler
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

@@ -5,7 +5,7 @@ latitude: 48.4125236
 longitude: 10.0018781
 postcode: 89075
 city: Ulm
-street: Heidenheimer Straße
+street: "Heidenheimer Straße"
 housenumber: 151
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 6:00-12:30"

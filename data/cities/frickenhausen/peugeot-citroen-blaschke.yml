@@ -5,7 +5,7 @@ latitude: 48.597149800000004
 longitude: 9.359404600000001
 postcode: 72636
 city: Frickenhausen
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

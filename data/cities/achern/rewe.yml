@@ -5,7 +5,7 @@ latitude: 48.6298935
 longitude: 8.067663000000001
 postcode: 77855
 city: Achern
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 12-14
 phone: "+49 7841 6812916"
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 48.070468600000005
 longitude: 9.9517745
 postcode: 
 city: Ochsenhausen
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 47
 phone: ""
 opening_hours: ""

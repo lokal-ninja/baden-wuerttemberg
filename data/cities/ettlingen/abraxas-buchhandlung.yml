@@ -5,7 +5,7 @@ latitude: 48.942132300000004
 longitude: 8.408350800000001
 postcode: 76275
 city: Ettlingen
-street: Kronenstraße
+street: "Kronenstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

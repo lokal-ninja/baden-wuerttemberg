@@ -5,7 +5,7 @@ latitude: 48.781488700000004
 longitude: 9.1807753
 postcode: 70173
 city: Stuttgart
-street: Königstraße
+street: "Königstraße"
 housenumber: 10A
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

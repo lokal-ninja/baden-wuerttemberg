@@ -5,7 +5,7 @@ latitude: 48.7396119
 longitude: 9.1069954
 postcode: 70563
 city: Stuttgart
-street: Robert-Leicht-Straße
+street: "Robert-Leicht-Straße"
 housenumber: 99
 phone: ""
 opening_hours: "Mo-Th 08:00-12:00,13:30-18:00;Fr 08:00-12:00,13:30-17:00"

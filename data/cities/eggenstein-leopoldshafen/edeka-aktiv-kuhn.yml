@@ -5,7 +5,7 @@ latitude: 49.094142000000005
 longitude: 8.4074664
 postcode: 76344
 city: Eggenstein-Leopoldshafen
-street: Brüsseler Ring
+street: "Brüsseler Ring"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

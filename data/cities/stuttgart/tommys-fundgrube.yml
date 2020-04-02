@@ -5,7 +5,7 @@ latitude: 48.7936063
 longitude: 9.1816046
 postcode: 70191
 city: Stuttgart
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 101
 phone: "+49 711 2572333"
 opening_hours: ""

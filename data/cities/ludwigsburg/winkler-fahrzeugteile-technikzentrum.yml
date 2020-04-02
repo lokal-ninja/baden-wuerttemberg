@@ -5,7 +5,7 @@ latitude: 48.92018160000001
 longitude: 9.1467109
 postcode: 71634
 city: Ludwigsburg
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 8
 phone: "+49 7141 2326100"
 opening_hours: "Mo-Fr 07:00-17:00; Sa 07:30-12:00"

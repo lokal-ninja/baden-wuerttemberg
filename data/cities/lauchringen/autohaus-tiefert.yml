@@ -5,7 +5,7 @@ latitude: 47.630561900000004
 longitude: 8.3064895
 postcode: 79787
 city: Lauchringen
-street: Bundesstraße
+street: "Bundesstraße"
 housenumber: 51
 phone: "+49 7741 9202 0"
 opening_hours: ""

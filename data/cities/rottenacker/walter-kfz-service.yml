@@ -5,7 +5,7 @@ latitude: 48.232731300000005
 longitude: 9.705266700000001
 postcode: 
 city: Rottenacker
-street: Riedstraße
+street: "Riedstraße"
 housenumber: 11
 phone: "+49 7393 917489"
 opening_hours: ""

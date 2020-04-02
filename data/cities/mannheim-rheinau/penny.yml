@@ -5,7 +5,7 @@ latitude: 49.4370107
 longitude: 8.525708400000001
 postcode: 68219
 city: Mannheim-Rheinau
-street: Durlacher Straße
+street: "Durlacher Straße"
 housenumber: 18-20
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:30"

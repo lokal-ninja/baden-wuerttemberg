@@ -5,7 +5,7 @@ latitude: 49.249707900000004
 longitude: 9.1270182
 postcode: 74906
 city: Bad Rappenau
-street: Cottbuser Straße
+street: "Cottbuser Straße"
 housenumber: 4
 phone: "+49 7264 5646"
 opening_hours: ""

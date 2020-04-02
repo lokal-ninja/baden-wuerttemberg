@@ -5,7 +5,7 @@ latitude: 49.561696100000006
 longitude: 8.479398
 postcode: 68307
 city: Mannheim
-street: Ascherslebener Weg
+street: "Ascherslebener Weg"
 housenumber: 2
 phone: ""
 opening_hours: ""

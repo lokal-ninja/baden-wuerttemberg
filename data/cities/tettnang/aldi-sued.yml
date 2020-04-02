@@ -5,7 +5,7 @@ latitude: 47.6606855
 longitude: 9.592973800000001
 postcode: 88069
 city: Tettnang
-street: Schäferhofstraße
+street: "Schäferhofstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

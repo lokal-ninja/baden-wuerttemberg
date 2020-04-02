@@ -5,7 +5,7 @@ latitude: 48.7742742
 longitude: 9.175192500000001
 postcode: 70173
 city: Stuttgart
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

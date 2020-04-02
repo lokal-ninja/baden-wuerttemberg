@@ -5,7 +5,7 @@ latitude: 48.476705300000006
 longitude: 7.9328158
 postcode: 77652
 city: Offenburg
-street: Kinzigstraße
+street: "Kinzigstraße"
 housenumber: 10a
 phone: ""
 opening_hours: ""

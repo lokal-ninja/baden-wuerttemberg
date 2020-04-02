@@ -5,7 +5,7 @@ latitude: 48.875044200000005
 longitude: 9.3513175
 postcode: 71409
 city: Schwaikheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 16
 phone: "+49 7195 53003"
 opening_hours: ""

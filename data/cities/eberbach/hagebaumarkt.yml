@@ -5,7 +5,7 @@ latitude: 49.472907000000006
 longitude: 8.986997
 postcode: 69412
 city: Eberbach
-street: Neuer Weg-Nord
+street: "Neuer Weg-Nord"
 housenumber: 47
 phone: "+49 6271 92600"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"

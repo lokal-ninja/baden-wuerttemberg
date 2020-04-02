@@ -5,7 +5,7 @@ latitude: 48.786454000000006
 longitude: 9.3629113
 postcode: 71384
 city: Weinstadt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 91
 phone: "+49 7151 981 2784"
 opening_hours: "We, Th 15:00-18:00; Fr 10:00-13:00, 15:00-18:00; Sa 10:00-16:00; Su, Mo, Tu, PH off"

@@ -5,7 +5,7 @@ latitude: 48.7671353
 longitude: 8.170202900000001
 postcode: 76547
 city: Sinzheim
-street: Landstraße
+street: "Landstraße"
 housenumber: 75
 phone: ""
 opening_hours: ""

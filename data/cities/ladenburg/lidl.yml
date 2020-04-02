@@ -5,7 +5,7 @@ latitude: 49.479848100000005
 longitude: 8.602607800000001
 postcode: 
 city: Ladenburg
-street: Wallstadter Straße
+street: "Wallstadter Straße"
 housenumber: 61
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.5180615
 longitude: 9.0584199
 postcode: 72072
 city: Tübingen
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 3
 phone: "+49 7071 3111"
 opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-20:00; Su 07:00-19:00"

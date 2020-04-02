@@ -5,7 +5,7 @@ latitude: 48.773121
 longitude: 8.5815708
 postcode: 75323
 city: Bad Wildbad
-street: Häberlenstraße
+street: "Häberlenstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

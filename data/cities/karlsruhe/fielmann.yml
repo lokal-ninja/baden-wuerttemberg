@@ -5,7 +5,7 @@ latitude: 49.009567600000004
 longitude: 8.4007625
 postcode: 76133
 city: Karlsruhe
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 163
 phone: ""
 opening_hours: "Mo-Fr 09:30-20:00, Sa 09:30-19:00"

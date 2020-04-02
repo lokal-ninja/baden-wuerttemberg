@@ -5,7 +5,7 @@ latitude: 48.9029183
 longitude: 8.5749948
 postcode: 75210
 city: Keltern
-street: Durlacher Straße
+street: "Durlacher Straße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-12:30"

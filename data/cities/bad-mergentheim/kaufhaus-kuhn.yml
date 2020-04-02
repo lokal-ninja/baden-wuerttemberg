@@ -5,7 +5,7 @@ latitude: 49.490749300000004
 longitude: 9.7737271
 postcode: 97980
 city: Bad Mergentheim
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 2-4
 phone: ""
 opening_hours: ""

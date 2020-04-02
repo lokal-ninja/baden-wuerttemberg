@@ -5,7 +5,7 @@ latitude: 48.6208213
 longitude: 10.0219217
 postcode: 89547
 city: Gerstetten
-street: Böhmenstraße
+street: "Böhmenstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

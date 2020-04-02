@@ -5,7 +5,7 @@ latitude: 49.252882
 longitude: 8.502057200000001
 postcode: 68794
 city: Oberhausen-Rheinhausen
-street: Hoeber-und-Mandelbaum-Straße
+street: "Hoeber-und-Mandelbaum-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "by appointment"

@@ -5,7 +5,7 @@ latitude: 49.1374998
 longitude: 8.5934583
 postcode: 76646
 city: Bruchsal
-street: Murgstraße
+street: "Murgstraße"
 housenumber: 5
 phone: "+49 7251 91780"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"

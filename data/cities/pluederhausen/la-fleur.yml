@@ -5,7 +5,7 @@ latitude: 48.793768500000006
 longitude: 9.603971600000001
 postcode: 73655
 city: Plüderhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.287218100000004
 longitude: 8.819738300000001
 postcode: 72351
 city: Geislingen
-street: Brühlstraße
+street: "Brühlstraße"
 housenumber: 66
 phone: ""
 opening_hours: ""

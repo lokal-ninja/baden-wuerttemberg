@@ -5,7 +5,7 @@ latitude: 47.6225375
 longitude: 8.213983800000001
 postcode: 79761
 city: Waldshut-Tiengen
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

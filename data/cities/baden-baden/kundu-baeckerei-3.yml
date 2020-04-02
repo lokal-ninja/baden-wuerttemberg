@@ -5,7 +5,7 @@ latitude: 48.7318389
 longitude: 8.1676939
 postcode: 76534
 city: Baden-Baden
-street: Mührichstraße
+street: "Mührichstraße"
 housenumber: 12
 phone: "+49 7223 2816108"
 opening_hours: "Mo-Fr 06:30-20:00; Sa 06:30-18:00; Su 06:30-11:00"

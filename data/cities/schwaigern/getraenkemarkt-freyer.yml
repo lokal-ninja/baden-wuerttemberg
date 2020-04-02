@@ -5,7 +5,7 @@ latitude: 49.145317000000006
 longitude: 9.055725500000001
 postcode: 74193
 city: Schwaigern
-street: Weststraße
+street: "Weststraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

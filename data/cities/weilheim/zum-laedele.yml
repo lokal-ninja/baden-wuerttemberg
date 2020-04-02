@@ -5,7 +5,7 @@ latitude: 47.6591728
 longitude: 8.2419961
 postcode: 79809
 city: Weilheim
-street: Dietlinger Straße
+street: "Dietlinger Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 8:00-12:00; Mo,Fr 15:30-18:00; Sa 7:00-12:00"

@@ -5,7 +5,7 @@ latitude: 47.8761163
 longitude: 9.6347155
 postcode: 88284
 city: Wolpertswende
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

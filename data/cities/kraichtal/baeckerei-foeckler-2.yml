@@ -5,7 +5,7 @@ latitude: 49.1418065
 longitude: 8.6660342
 postcode: 76703
 city: Kraichtal
-street: Heidelsheimer Straße
+street: "Heidelsheimer Straße"
 housenumber: 7
 phone: "+49 7251 3662400"
 opening_hours: "Mo-Sa 06:00-11:00"

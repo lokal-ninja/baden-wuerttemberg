@@ -5,7 +5,7 @@ latitude: 47.823162
 longitude: 10.0161993
 postcode: 88299
 city: Leutkirch im Allgäu
-street: Wangener Straße
+street: "Wangener Straße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.697540000000004
 longitude: 9.319525200000001
 postcode: 73770
 city: Denkendorf
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

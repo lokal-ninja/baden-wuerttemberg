@@ -5,7 +5,7 @@ latitude: 49.3282802
 longitude: 8.5406198
 postcode: 68766
 city: Hockenheim
-street: Gleisstraße
+street: "Gleisstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

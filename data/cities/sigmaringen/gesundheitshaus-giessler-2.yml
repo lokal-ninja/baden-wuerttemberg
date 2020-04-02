@@ -5,7 +5,7 @@ latitude: 48.0861516
 longitude: 9.218422400000001
 postcode: 72488
 city: Sigmaringen
-street: Leopoldplatz
+street: "Leopoldplatz"
 housenumber: 2
 phone: ""
 opening_hours: ""

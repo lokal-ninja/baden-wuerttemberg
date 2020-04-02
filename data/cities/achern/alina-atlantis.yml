@@ -5,7 +5,7 @@ latitude: 48.629500500000006
 longitude: 8.0705063
 postcode: 77855
 city: Achern
-street: Adlerplatz
+street: "Adlerplatz"
 housenumber: 5
 phone: "+49 179 3815552"
 opening_hours: ""

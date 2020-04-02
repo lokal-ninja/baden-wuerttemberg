@@ -5,7 +5,7 @@ latitude: 49.510792300000006
 longitude: 8.703941200000001
 postcode: 69469
 city: Weinheim
-street: Odenwaldstraße
+street: "Odenwaldstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

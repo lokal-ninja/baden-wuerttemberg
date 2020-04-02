@@ -5,7 +5,7 @@ latitude: 48.7818035
 longitude: 9.159388
 postcode: 70176
 city: Stuttgart
-street: Traubenstraße
+street: "Traubenstraße"
 housenumber: 48
 phone: "+49 711 292212"
 opening_hours: ""

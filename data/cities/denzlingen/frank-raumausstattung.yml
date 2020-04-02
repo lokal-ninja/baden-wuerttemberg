@@ -5,7 +5,7 @@ latitude: 48.075296400000006
 longitude: 7.881119300000001
 postcode: 79211
 city: Denzlingen
-street: Gottlieb-Daimler-Straße
+street: "Gottlieb-Daimler-Straße"
 housenumber: 13
 phone: "+49 7666 5265"
 opening_hours: "Fr 14:00-18:00, Sa 09:00-13:00"

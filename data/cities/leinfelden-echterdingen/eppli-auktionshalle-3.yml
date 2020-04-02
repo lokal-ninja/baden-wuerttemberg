@@ -5,7 +5,7 @@ latitude: 48.696158800000006
 longitude: 9.1694543
 postcode: 70771
 city: Leinfelden-Echterdingen
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-We 10:00-18:30; Th-Fr 10:00-19:00; Sa 09:00-17:00"

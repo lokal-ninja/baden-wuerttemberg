@@ -5,7 +5,7 @@ latitude: 48.6878224
 longitude: 8.1151436
 postcode: 77815
 city: Bühl
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 12a
 phone: "+49 7223 9157000"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 48.6636697
 longitude: 9.054885500000001
 postcode: 71101
 city: Schönaich
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

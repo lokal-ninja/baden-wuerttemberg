@@ -5,7 +5,7 @@ latitude: 48.061813300000004
 longitude: 8.535784300000001
 postcode: 78054
 city: Villingen-Schwenningen
-street: Jakob-Kienzle-Straße
+street: "Jakob-Kienzle-Straße"
 housenumber: 11
 phone: "+49 7720 21213"
 opening_hours: "Mo,Tu,Th,Fr 15:00-18:00; We,Sa 09:30-12:30"

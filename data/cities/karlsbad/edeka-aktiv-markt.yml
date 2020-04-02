@@ -5,7 +5,7 @@ latitude: 48.881553100000005
 longitude: 8.510373300000001
 postcode: 76307
 city: Karlsbad
-street: Im Stöckmädle
+street: "Im Stöckmädle"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

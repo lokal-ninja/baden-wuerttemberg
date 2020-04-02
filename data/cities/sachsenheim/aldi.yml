@@ -5,7 +5,7 @@ latitude: 48.974061600000006
 longitude: 9.0705661
 postcode: 74343
 city: Sachsenheim
-street: Zwischen den Wegen
+street: "Zwischen den Wegen"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su off"

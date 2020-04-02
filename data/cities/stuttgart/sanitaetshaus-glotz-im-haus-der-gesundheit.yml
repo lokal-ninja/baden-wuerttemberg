@@ -5,7 +5,7 @@ latitude: 48.810273900000006
 longitude: 9.1639575
 postcode: 70469
 city: Stuttgart
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 33
 phone: "+49 711 2482056"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.687405500000004
 longitude: 9.833432400000001
 postcode: 88239
 city: Wangen im Allgäu
-street: Herrenstraße
+street: "Herrenstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

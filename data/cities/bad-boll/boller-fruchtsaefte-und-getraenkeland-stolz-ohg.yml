@@ -5,7 +5,7 @@ latitude: 48.644275400000005
 longitude: 9.6129604
 postcode: 73087
 city: Bad Boll
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

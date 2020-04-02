@@ -5,7 +5,7 @@ latitude: 48.797841500000004
 longitude: 9.6603121
 postcode: 73547
 city: Lorch
-street: Teckstraße
+street: "Teckstraße"
 housenumber: 86
 phone: ""
 opening_hours: "Mo-We 13:00-19:00; Th-Fr 10:00-19:00; Sa 07:00-12:00 || nach Vereinbarung"

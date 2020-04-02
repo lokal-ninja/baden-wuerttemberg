@@ -5,7 +5,7 @@ latitude: 48.824826
 longitude: 8.1333071
 postcode: 76473
 city: Iffezheim
-street: Spitzenweg
+street: "Spitzenweg"
 housenumber: 1
 phone: "+49 7229 2198"
 opening_hours: ""

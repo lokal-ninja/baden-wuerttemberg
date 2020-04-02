@@ -5,7 +5,7 @@ latitude: 47.557920800000005
 longitude: 7.6361936
 postcode: 4127
 city: Birsfelden
-street: Hafenstrasse
+street: "Hafenstrasse"
 housenumber: 120
 phone: ""
 opening_hours: ""

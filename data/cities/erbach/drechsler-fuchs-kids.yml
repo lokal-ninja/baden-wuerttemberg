@@ -5,7 +5,7 @@ latitude: 48.325399600000004
 longitude: 9.893007200000001
 postcode: 89155
 city: Erbach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: "+49 7305 1781995"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"

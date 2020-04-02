@@ -5,7 +5,7 @@ latitude: 47.5526799
 longitude: 7.935507500000001
 postcode: 79713
 city: Bad Säckingen
-street: Basler Straße
+street: "Basler Straße"
 housenumber: 65
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.1253564
 longitude: 8.5953849
 postcode: 76646
 city: Bruchsal
-street: Hoheneggerstraße
+street: "Hoheneggerstraße"
 housenumber: 16
 phone: "+49 7251 3043073"
 opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"

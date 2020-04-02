@@ -5,7 +5,7 @@ latitude: 48.784013800000004
 longitude: 9.190755600000001
 postcode: 70190
 city: Stuttgart
-street: Urbanstraße
+street: "Urbanstraße"
 housenumber: 88
 phone: "+49 711 2626859"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.581458500000004
 longitude: 9.3680953
 postcode: 74731
 city: Walldürn
-street: Adolf-Kolping-Straße
+street: "Adolf-Kolping-Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

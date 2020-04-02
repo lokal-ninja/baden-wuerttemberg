@@ -5,7 +5,7 @@ latitude: 48.0955297
 longitude: 7.958211500000001
 postcode: 79183
 city: Waldkirch
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

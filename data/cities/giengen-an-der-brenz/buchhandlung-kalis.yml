@@ -5,7 +5,7 @@ latitude: 48.620590400000005
 longitude: 10.245492500000001
 postcode: 89537
 city: Giengen an der Brenz
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 25
 phone: "+49 7322 5440"
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"

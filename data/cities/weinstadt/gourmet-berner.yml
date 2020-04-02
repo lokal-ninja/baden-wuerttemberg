@@ -5,7 +5,7 @@ latitude: 48.817178500000004
 longitude: 9.3831592
 postcode: 71384
 city: Weinstadt
-street: Bruckwiesenstraße
+street: "Bruckwiesenstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

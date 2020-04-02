@@ -5,7 +5,7 @@ latitude: 49.145528500000005
 longitude: 9.2198524
 postcode: 74072
 city: Heilbronn
-street: Turmstraße
+street: "Turmstraße"
 housenumber: 20
 phone: "+49 7131 68191"
 opening_hours: ""

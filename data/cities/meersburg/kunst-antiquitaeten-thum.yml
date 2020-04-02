@@ -5,7 +5,7 @@ latitude: 47.693343500000005
 longitude: 9.2696454
 postcode: 88709
 city: Meersburg
-street: Unterstadtstraße
+street: "Unterstadtstraße"
 housenumber: 4
 phone: "+49 7532 6533"
 opening_hours: ""

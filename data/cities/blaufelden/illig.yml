@@ -5,7 +5,7 @@ latitude: 49.2980285
 longitude: 9.971350600000001
 postcode: 74572
 city: Blaufelden
-street: Goetheweg
+street: "Goetheweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

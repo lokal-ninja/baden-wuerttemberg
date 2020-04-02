@@ -5,7 +5,7 @@ latitude: 49.042843700000006
 longitude: 9.0908987
 postcode: 74357
 city: Bönnigheim
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 36
 phone: "+49 7143 3959950"
 opening_hours: ""

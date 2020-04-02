@@ -5,7 +5,7 @@ latitude: 49.200973000000005
 longitude: 9.501695400000001
 postcode: 74613
 city: Öhringen
-street: Kirchgasse
+street: "Kirchgasse"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00, Sa 09:00-13:00"

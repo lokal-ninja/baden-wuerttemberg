@@ -5,7 +5,7 @@ latitude: 49.156413300000004
 longitude: 8.5705919
 postcode: 76694
 city: Forst
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00; Su,PH off"

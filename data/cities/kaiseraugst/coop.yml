@@ -5,7 +5,7 @@ latitude: 47.537641300000004
 longitude: 7.732237100000001
 postcode: 4303
 city: Kaiseraugst
-street: Junkholzweg
+street: "Junkholzweg"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-18:00"

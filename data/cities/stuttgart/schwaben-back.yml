@@ -5,7 +5,7 @@ latitude: 48.792352300000005
 longitude: 9.2010875
 postcode: 
 city: Stuttgart
-street: Neckarstraße
+street: "Neckarstraße"
 housenumber: 212
 phone: "+49 711 23074079"
 opening_hours: ""

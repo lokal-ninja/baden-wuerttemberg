@@ -5,7 +5,7 @@ latitude: 48.8843638
 longitude: 8.155125
 postcode: 76437
 city: Rastatt
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 10
 phone: "+49 7222 26205"
 opening_hours: ""

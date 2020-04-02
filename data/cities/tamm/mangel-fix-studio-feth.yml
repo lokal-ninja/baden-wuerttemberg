@@ -5,7 +5,7 @@ latitude: 48.922474900000005
 longitude: 9.122066400000001
 postcode: 71732
 city: Tamm
-street: Bissinger Straße
+street: "Bissinger Straße"
 housenumber: 13/1
 phone: "+49 7141 697888"
 opening_hours: "Mo-Tu 09:00-18:00, We 09:00-12:30, Th-Fr 09:00-18:00, Sa 09:00-12:30"

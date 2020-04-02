@@ -5,7 +5,7 @@ latitude: 49.0211028
 longitude: 8.4623024
 postcode: 76139
 city: Karlsruhe
-street: Printzstraße
+street: "Printzstraße"
 housenumber: 2a
 phone: ""
 opening_hours: "Mo-Th 06:30-18:00; Fr 06:30-16:00; Sa,Su,PH off"

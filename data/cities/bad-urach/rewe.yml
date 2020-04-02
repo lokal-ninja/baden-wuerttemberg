@@ -5,7 +5,7 @@ latitude: 48.490312800000005
 longitude: 9.3994429
 postcode: 72574
 city: Bad Urach
-street: Seilerweg
+street: "Seilerweg"
 housenumber: 2-4
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.863583600000005
 longitude: 9.252023300000001
 postcode: 71686
 city: Remseck am Neckar
-street: Schloßhof
+street: "Schloßhof"
 housenumber: 9
 phone: "+49 7146 97521"
 opening_hours: ""

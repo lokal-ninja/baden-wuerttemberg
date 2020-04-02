@@ -5,7 +5,7 @@ latitude: 48.463959700000004
 longitude: 9.098148400000001
 postcode: 72810
 city: Gomaringen
-street: Hermann-Hesse-Straße
+street: "Hermann-Hesse-Straße"
 housenumber: 26
 phone: "+49 7072 899018"
 opening_hours: ""

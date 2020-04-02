@@ -5,7 +5,7 @@ latitude: 47.8066534
 longitude: 9.6409453
 postcode: 88250
 city: Weingarten
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

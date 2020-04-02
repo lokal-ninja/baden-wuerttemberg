@@ -5,7 +5,7 @@ latitude: 48.8320707
 longitude: 9.1745693
 postcode: 70435
 city: Stuttgart
-street: Ludwigsburger Straße
+street: "Ludwigsburger Straße"
 housenumber: 127-129
 phone: ""
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00; PH off"

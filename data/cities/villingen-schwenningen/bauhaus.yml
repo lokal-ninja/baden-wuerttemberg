@@ -5,7 +5,7 @@ latitude: 48.0707122
 longitude: 8.447747300000001
 postcode: 78048
 city: Villingen-Schwenningen
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 19
 phone: "+49 7721 9825 0"
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

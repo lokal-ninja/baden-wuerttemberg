@@ -5,7 +5,7 @@ latitude: 48.135197000000005
 longitude: 7.8035024
 postcode: 79331
 city: Teningen
-street: Elzstraße
+street: "Elzstraße"
 housenumber: 6
 phone: "+49 7641 956679"
 opening_hours: ""

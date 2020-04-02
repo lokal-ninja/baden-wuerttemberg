@@ -5,7 +5,7 @@ latitude: 47.958677800000004
 longitude: 7.7129661
 postcode: 79227
 city: Schallstadt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 32
 phone: "+49 7664 3736"
 opening_hours: ""

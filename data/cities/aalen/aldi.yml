@@ -5,7 +5,7 @@ latitude: 48.8405666
 longitude: 10.093858800000001
 postcode: 73430
 city: Aalen
-street: Weidenfelder Straße
+street: "Weidenfelder Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

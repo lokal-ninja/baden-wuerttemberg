@@ -5,7 +5,7 @@ latitude: 49.171615300000006
 longitude: 8.617005
 postcode: 76698
 city: Ubstadt-Weiher
-street: Ubstadter Straße
+street: "Ubstadter Straße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

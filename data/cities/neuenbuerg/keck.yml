@@ -5,7 +5,7 @@ latitude: 48.8477867
 longitude: 8.588671600000001
 postcode: 75305
 city: Neuenbürg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.675515700000005
 longitude: 9.1799294
 postcode: 78467
 city: Konstanz
-street: Wollmatinger Straße
+street: "Wollmatinger Straße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 06:45-12:30"

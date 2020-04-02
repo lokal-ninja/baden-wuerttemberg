@@ -5,7 +5,7 @@ latitude: 48.567795600000004
 longitude: 9.3064242
 postcode: 72661
 city: Grafenberg
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.846309100000006
 longitude: 8.588424700000001
 postcode: 75305
 city: Neuenbürg
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

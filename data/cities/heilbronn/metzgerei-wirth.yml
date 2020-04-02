@@ -5,7 +5,7 @@ latitude: 49.1928927
 longitude: 9.145106
 postcode: 74078
 city: Heilbronn
-street: Unterlandstraße
+street: "Unterlandstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.999964500000004
 longitude: 9.7705514
 postcode: 74405
 city: Gaildorf
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

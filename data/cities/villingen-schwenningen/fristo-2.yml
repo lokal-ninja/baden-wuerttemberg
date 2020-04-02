@@ -5,7 +5,7 @@ latitude: 48.063096300000005
 longitude: 8.5150936
 postcode: 78054
 city: Villingen-Schwenningen
-street: Villinger Straße
+street: "Villinger Straße"
 housenumber: 142
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"

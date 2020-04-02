@@ -5,7 +5,7 @@ latitude: 48.334586800000004
 longitude: 8.0313277
 postcode: 77781
 city: Biberach (Baden)
-street: Ahfeldstraße
+street: "Ahfeldstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

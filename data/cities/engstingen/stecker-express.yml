@@ -5,7 +5,7 @@ latitude: 48.402082400000005
 longitude: 9.3303265
 postcode: 72829
 city: Engstingen
-street: Sandweg
+street: "Sandweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00, PH off"

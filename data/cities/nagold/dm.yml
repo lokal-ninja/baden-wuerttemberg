@@ -5,7 +5,7 @@ latitude: 48.5434891
 longitude: 8.728346400000001
 postcode: 72202
 city: Nagold
-street: Haiterbacher Straße
+street: "Haiterbacher Straße"
 housenumber: 72
 phone: "+4974526809490"
 opening_hours: "Mo-Sa 08:00-20:00"

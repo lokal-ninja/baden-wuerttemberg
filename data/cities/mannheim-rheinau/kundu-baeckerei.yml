@@ -5,7 +5,7 @@ latitude: 49.437172700000005
 longitude: 8.5246955
 postcode: 68219
 city: Mannheim-Rheinau
-street: Relaisstraße
+street: "Relaisstraße"
 housenumber: 21-27
 phone: "+49 621 40070270"
 opening_hours: "Mo-Sa 07:00-22:00"

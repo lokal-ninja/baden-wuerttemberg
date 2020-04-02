@@ -5,7 +5,7 @@ latitude: 47.696026100000005
 longitude: 9.0655661
 postcode: 78479
 city: Reichenau
-street: Pirminstraße
+street: "Pirminstraße"
 housenumber: 144a
 phone: "+49 7534 334"
 opening_hours: "Mo, We, Sa 6:30-12:30; Tu, Th, Fr 6:30-12:30, 15:00-18:00"

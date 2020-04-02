@@ -5,7 +5,7 @@ latitude: 48.461868900000006
 longitude: 9.151569100000001
 postcode: 72770
 city: Reutlingen
-street: Alteburger Hof
+street: "Alteburger Hof"
 housenumber: 
 phone: "+49 7121 22140"
 opening_hours: "17:00-18:30"

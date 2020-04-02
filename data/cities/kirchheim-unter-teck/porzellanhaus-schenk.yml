@@ -5,7 +5,7 @@ latitude: 48.64821370000001
 longitude: 9.4530165
 postcode: 73230
 city: Kirchheim unter Teck
-street: Max-Eyth-Straße
+street: "Max-Eyth-Straße"
 housenumber: 50
 phone: ""
 opening_hours: ""

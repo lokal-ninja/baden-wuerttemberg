@@ -5,7 +5,7 @@ latitude: 48.61084
 longitude: 9.736728300000001
 postcode: 73326
 city: Deggingen
-street: Reichenbachstraße
+street: "Reichenbachstraße"
 housenumber: 94
 phone: ""
 opening_hours: "Tu-Su 08:00-13:00,14:00-19:00"

@@ -5,7 +5,7 @@ latitude: 49.351711
 longitude: 9.1442642
 postcode: 74821
 city: Mosbach
-street: Gartenweg
+street: "Gartenweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

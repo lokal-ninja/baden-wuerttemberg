@@ -5,7 +5,7 @@ latitude: 48.521367600000005
 longitude: 9.0817343
 postcode: 72072
 city: Tübingen
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 134
 phone: "+49 7071 550201"
 opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:30; Sa 10:00-14:00, Su, PH off"

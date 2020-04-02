@@ -5,7 +5,7 @@ latitude: 47.992836800000006
 longitude: 7.842902400000001
 postcode: 79098
 city: Freiburg im Breisgau
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00"

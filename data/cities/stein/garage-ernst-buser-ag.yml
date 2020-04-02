@@ -5,7 +5,7 @@ latitude: 47.5426042
 longitude: 7.948594300000001
 postcode: 4332
 city: Stein
-street: Zürcherstrasse
+street: "Zürcherstrasse"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.556786800000005
 longitude: 7.784701200000001
 postcode: 79618
 city: Rheinfelden (Baden)
-street: Bahnhofsplatz
+street: "Bahnhofsplatz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:30-13:00,14:00-18:30; Sa 08:30-12:30"

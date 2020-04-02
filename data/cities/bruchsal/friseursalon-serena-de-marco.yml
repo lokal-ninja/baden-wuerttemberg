@@ -5,7 +5,7 @@ latitude: 49.125469
 longitude: 8.5951898
 postcode: 76646
 city: Bruchsal
-street: Wörthstraße
+street: "Wörthstraße"
 housenumber: 2
 phone: "+49 7251 5050777"
 opening_hours: ""

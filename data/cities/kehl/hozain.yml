@@ -5,7 +5,7 @@ latitude: 48.5619152
 longitude: 7.820657700000001
 postcode: 77694
 city: Kehl
-street: Albert-Schweitzer-Straße
+street: "Albert-Schweitzer-Straße"
 housenumber: 2A
 phone: ""
 opening_hours: ""

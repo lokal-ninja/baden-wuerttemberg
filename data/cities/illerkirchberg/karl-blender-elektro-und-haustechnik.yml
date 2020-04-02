@@ -5,7 +5,7 @@ latitude: 48.3207682
 longitude: 10.016343800000001
 postcode: 89171
 city: Illerkirchberg
-street: St.-Ida-Straße
+street: "St.-Ida-Straße"
 housenumber: 8
 phone: "0 73 46 / 85 85"
 opening_hours: ""

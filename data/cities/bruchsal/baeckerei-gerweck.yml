@@ -5,7 +5,7 @@ latitude: 49.1239919
 longitude: 8.596611300000001
 postcode: 76646
 city: Bruchsal
-street: John-Bopp-Straße
+street: "John-Bopp-Straße"
 housenumber: 10
 phone: "+49 7251 7240850"
 opening_hours: ""

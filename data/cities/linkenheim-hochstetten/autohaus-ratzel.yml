@@ -5,7 +5,7 @@ latitude: 49.1323111
 longitude: 8.428907200000001
 postcode: 76351
 city: Linkenheim-Hochstetten
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

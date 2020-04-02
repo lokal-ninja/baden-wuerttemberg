@@ -5,7 +5,7 @@ latitude: 48.2523453
 longitude: 9.018528400000001
 postcode: 72461
 city: Albstadt
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.7764472
 longitude: 9.181902500000001
 postcode: 70173
 city: Stuttgart
-street: Charlottenplatz
+street: "Charlottenplatz"
 housenumber: 17
 phone: ""
 opening_hours: ""

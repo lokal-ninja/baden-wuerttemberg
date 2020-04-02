@@ -5,7 +5,7 @@ latitude: 48.7756629
 longitude: 9.180879000000001
 postcode: 70173
 city: Stuttgart
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.320373100000005
 longitude: 8.8146242
 postcode: 74909
 city: Meckesheim
-street: Zuzenhäuser Straße
+street: "Zuzenhäuser Straße"
 housenumber: 1
 phone: "+49 6226 92050"
 opening_hours: "Mo-Tu 07:30-18:00; Fr 07:30-17:00; Sa 09:00-12:00; Su off"

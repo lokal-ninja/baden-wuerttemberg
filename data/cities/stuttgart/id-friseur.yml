@@ -5,7 +5,7 @@ latitude: 48.762128700000005
 longitude: 9.1719864
 postcode: 70180
 city: Stuttgart
-street: Tulpenstraße
+street: "Tulpenstraße"
 housenumber: 49
 phone: ""
 opening_hours: ""

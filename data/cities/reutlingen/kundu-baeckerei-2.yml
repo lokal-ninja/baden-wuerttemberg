@@ -5,7 +5,7 @@ latitude: 48.4995911
 longitude: 9.178376
 postcode: 72770
 city: Reutlingen
-street: Steinachstraße
+street: "Steinachstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-12:30; Su 08:00-11:00"

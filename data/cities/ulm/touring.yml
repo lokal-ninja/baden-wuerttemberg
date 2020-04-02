@@ -5,7 +5,7 @@ latitude: 48.4257253
 longitude: 10.008339300000001
 postcode: 89075
 city: Ulm
-street: Eberhard-Finckh-Straße
+street: "Eberhard-Finckh-Straße"
 housenumber: 36
 phone: "+49 731 3786510"
 opening_hours: "Mo-Sa 09:30-18:00; Su 16:00-18:00"

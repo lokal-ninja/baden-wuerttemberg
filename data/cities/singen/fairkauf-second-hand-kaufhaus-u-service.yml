@@ -5,7 +5,7 @@ latitude: 47.755107100000004
 longitude: 8.8596155
 postcode: 78224
 city: Singen
-street: Im Haselbusch
+street: "Im Haselbusch"
 housenumber: 16
 phone: "+49 7731 79669916"
 opening_hours: "Mo-Fr 09:30-18:00, Sa 10:15-15:00"

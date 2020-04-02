@@ -5,7 +5,7 @@ latitude: 48.0643035
 longitude: 9.609697800000001
 postcode: 
 city: Bad Buchau
-street: Judengasse
+street: "Judengasse"
 housenumber: 6
 phone: "+49 7582 8900"
 opening_hours: ""

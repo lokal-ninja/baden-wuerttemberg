@@ -5,7 +5,7 @@ latitude: 48.674269900000006
 longitude: 9.1672171
 postcode: 70771
 city: Leinfelden-Echterdingen
-street: Stettener Hauptstraße
+street: "Stettener Hauptstraße"
 housenumber: 20/1
 phone: "+49 711 7931730"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.8204421
 longitude: 9.221929300000001
 postcode: 70376
 city: Stuttgart
-street: Elbestraße
+street: "Elbestraße"
 housenumber: 11
 phone: ""
 opening_hours: "Tu 08:00-12:00; We,Fr 08:00-12:00,14:15-18:00; Th 14:15-18:00"

@@ -5,7 +5,7 @@ latitude: 49.1311059
 longitude: 8.408977400000001
 postcode: 76351
 city: Linkenheim-Hochstetten
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

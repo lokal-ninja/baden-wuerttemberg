@@ -5,7 +5,7 @@ latitude: 48.9358858
 longitude: 9.1925138
 postcode: 71691
 city: Freiberg am Neckar
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 20
 phone: "+49 7141 865544"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-18:00; PH off"

@@ -5,7 +5,7 @@ latitude: 47.672980800000005
 longitude: 9.1832455
 postcode: 78464
 city: Konstanz
-street: Zähringerplatz
+street: "Zähringerplatz"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

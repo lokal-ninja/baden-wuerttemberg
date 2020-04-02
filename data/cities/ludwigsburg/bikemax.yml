@@ -5,7 +5,7 @@ latitude: 48.920269700000006
 longitude: 9.1484597
 postcode: 71634
 city: Ludwigsburg
-street: Porschestraße
+street: "Porschestraße"
 housenumber: 8
 phone: "+49 7141 9474810"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

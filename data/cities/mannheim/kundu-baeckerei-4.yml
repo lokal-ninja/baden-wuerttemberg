@@ -5,7 +5,7 @@ latitude: 49.4866911
 longitude: 8.4782472
 postcode: 68165
 city: Mannheim
-street: Lameystraße
+street: "Lameystraße"
 housenumber: 14
 phone: "+49 621 413192"
 opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-13:00; Su 08:00-11:00"

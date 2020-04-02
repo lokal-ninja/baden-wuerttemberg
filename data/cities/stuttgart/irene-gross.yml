@@ -5,7 +5,7 @@ latitude: 48.8131174
 longitude: 9.1132402
 postcode: 70499
 city: Stuttgart
-street: Köstlinstraße
+street: "Köstlinstraße"
 housenumber: 8
 phone: "+49 711 699 449 92"
 opening_hours: "Tu-Th 09:00-18:30; Fr 09:00-20:00; Sa 09:00-14:00"

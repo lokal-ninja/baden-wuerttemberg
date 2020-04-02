@@ -5,7 +5,7 @@ latitude: 48.8073719
 longitude: 9.473004000000001
 postcode: 73650
 city: Winterbach
-street: Fabrikstraße
+street: "Fabrikstraße"
 housenumber: 22
 phone: "+49 7181 967010"
 opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-13:00"

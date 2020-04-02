@@ -5,7 +5,7 @@ latitude: 48.530018500000004
 longitude: 9.063698200000001
 postcode: 72074
 city: Tübingen
-street: Nauklerstraße
+street: "Nauklerstraße"
 housenumber: 55
 phone: "+49 7071 5044"
 opening_hours: ""

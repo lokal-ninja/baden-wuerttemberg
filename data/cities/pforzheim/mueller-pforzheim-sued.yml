@@ -5,7 +5,7 @@ latitude: 48.889097400000004
 longitude: 8.6977861
 postcode: 
 city: Pforzheim
-street: Dillsteiner Straße
+street: "Dillsteiner Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

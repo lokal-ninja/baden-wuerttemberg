@@ -5,7 +5,7 @@ latitude: 48.6964776
 longitude: 9.684693600000001
 postcode: 73054
 city: Eislingen/Fils
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 12
 phone: "+49 7161 9874431"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"

@@ -5,7 +5,7 @@ latitude: 47.9750202
 longitude: 8.6029022
 postcode: 78073
 city: Bad Dürrheim
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

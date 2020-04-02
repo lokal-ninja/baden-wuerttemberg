@@ -5,7 +5,7 @@ latitude: 49.2239956
 longitude: 9.2160648
 postcode: 74177
 city: Bad Friedrichshall
-street: Wächterstraße
+street: "Wächterstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

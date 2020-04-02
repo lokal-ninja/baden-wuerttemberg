@@ -5,7 +5,7 @@ latitude: 49.1498427
 longitude: 9.198938100000001
 postcode: 74080
 city: Heilbronn
-street: Albert-Schäffler-Straße
+street: "Albert-Schäffler-Straße"
 housenumber: 8
 phone: "+49 7131 44088"
 opening_hours: ""

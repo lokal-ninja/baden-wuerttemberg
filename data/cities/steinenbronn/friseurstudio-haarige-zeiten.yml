@@ -5,7 +5,7 @@ latitude: 48.661883800000005
 longitude: 9.1198221
 postcode: 71144
 city: Steinenbronn
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 22
 phone: "+497157526694"
 opening_hours: ""

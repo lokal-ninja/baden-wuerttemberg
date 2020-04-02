@@ -5,7 +5,7 @@ latitude: 48.774291100000006
 longitude: 8.579716300000001
 postcode: 75323
 city: Bad Wildbad
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00"

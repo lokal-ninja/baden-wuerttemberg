@@ -5,7 +5,7 @@ latitude: 48.9561555
 longitude: 9.1319003
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Wobachstraße
+street: "Wobachstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

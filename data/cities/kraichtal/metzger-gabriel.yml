@@ -5,7 +5,7 @@ latitude: 49.124566200000004
 longitude: 8.7141683
 postcode: 76703
 city: Kraichtal
-street: Unterdorfstraße
+street: "Unterdorfstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

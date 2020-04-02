@@ -5,7 +5,7 @@ latitude: 48.8774917
 longitude: 10.052074000000001
 postcode: 73434
 city: Aalen
-street: Wasseralfinger Straße
+street: "Wasseralfinger Straße"
 housenumber: 76
 phone: ""
 opening_hours: ""

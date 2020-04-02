@@ -5,7 +5,7 @@ latitude: 49.400001800000005
 longitude: 8.6275601
 postcode: 69214
 city: Eppelheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 123
 phone: ""
 opening_hours: ""

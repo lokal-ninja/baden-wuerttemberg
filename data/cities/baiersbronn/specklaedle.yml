@@ -5,7 +5,7 @@ latitude: 48.506807900000005
 longitude: 8.3703926
 postcode: 72270
 city: Baiersbronn
-street: Forbachstraße
+street: "Forbachstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.777236200000004
 longitude: 9.6188617
 postcode: 88212
 city: Ravensburg
-street: Wangener Straße
+street: "Wangener Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

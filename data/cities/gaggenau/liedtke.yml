@@ -5,7 +5,7 @@ latitude: 48.818612900000005
 longitude: 8.3073646
 postcode: 76571
 city: Gaggenau
-street: Eichelbergstraße
+street: "Eichelbergstraße"
 housenumber: 35
 phone: "+49 7225 1595"
 opening_hours: ""

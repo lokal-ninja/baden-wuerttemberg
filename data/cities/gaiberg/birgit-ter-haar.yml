@@ -5,7 +5,7 @@ latitude: 49.3729164
 longitude: 8.7479306
 postcode: 69251
 city: Gaiberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 136/1
 phone: ""
 opening_hours: ""

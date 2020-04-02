@@ -5,7 +5,7 @@ latitude: 49.5249638
 longitude: 9.678609600000001
 postcode: 97944
 city: Boxberg
-street: Sonnenhalde
+street: "Sonnenhalde"
 housenumber: 26
 phone: ""
 opening_hours: ""

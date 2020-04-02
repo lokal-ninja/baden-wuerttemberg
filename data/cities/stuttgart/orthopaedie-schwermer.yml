@@ -5,7 +5,7 @@ latitude: 48.814009500000004
 longitude: 9.1124218
 postcode: 70499
 city: Stuttgart
-street: Löwen-Markt
+street: "Löwen-Markt"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 14:30-18:00; Sa 09:00-12:00"

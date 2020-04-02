@@ -5,7 +5,7 @@ latitude: 49.478391900000005
 longitude: 8.598496500000001
 postcode: 68526
 city: Ladenburg
-street: Boveristraße
+street: "Boveristraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 08:00-13:00, 15:00-18:30; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.817150600000005
 longitude: 9.1704188
 postcode: 70469
 city: Stuttgart
-street: Mauserstraße
+street: "Mauserstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

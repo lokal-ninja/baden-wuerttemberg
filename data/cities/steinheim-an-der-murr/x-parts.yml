@@ -5,7 +5,7 @@ latitude: 48.9640311
 longitude: 9.2689956
 postcode: 71711
 city: Steinheim an der Murr
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00"

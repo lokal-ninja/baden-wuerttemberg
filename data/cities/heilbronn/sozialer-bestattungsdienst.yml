@@ -5,7 +5,7 @@ latitude: 49.146165
 longitude: 9.227122600000001
 postcode: 74072
 city: Heilbronn
-street: Weinsberger Straße
+street: "Weinsberger Straße"
 housenumber: 47
 phone: ""
 opening_hours: ""

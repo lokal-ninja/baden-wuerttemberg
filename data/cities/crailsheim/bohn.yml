@@ -5,7 +5,7 @@ latitude: 49.142377
 longitude: 10.0302623
 postcode: 74564
 city: Crailsheim
-street: Haller Straße
+street: "Haller Straße"
 housenumber: 192-194
 phone: "+49 (0) 79 51 - 395-0"
 opening_hours: "Mo-Sa 09:00-19:00"

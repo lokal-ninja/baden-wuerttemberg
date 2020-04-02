@@ -5,7 +5,7 @@ latitude: 48.6391526
 longitude: 9.1692078
 postcode: 70794
 city: Filderstadt
-street: Reichenbachstraße
+street: "Reichenbachstraße"
 housenumber: 8
 phone: "+49 7157 88240"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:30"

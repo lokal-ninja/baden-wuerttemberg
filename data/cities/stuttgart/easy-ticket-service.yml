@@ -5,7 +5,7 @@ latitude: 48.7816978
 longitude: 9.2288897
 postcode: 70188
 city: Stuttgart
-street: Neckarwiesenstraße
+street: "Neckarwiesenstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

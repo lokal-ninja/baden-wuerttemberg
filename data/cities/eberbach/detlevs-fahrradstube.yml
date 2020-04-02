@@ -5,7 +5,7 @@ latitude: 49.4620535
 longitude: 8.9847091
 postcode: 69412
 city: Eberbach
-street: Kellereistraße
+street: "Kellereistraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

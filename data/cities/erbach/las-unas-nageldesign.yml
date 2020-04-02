@@ -5,7 +5,7 @@ latitude: 48.302639000000006
 longitude: 9.9020934
 postcode: 89155
 city: Erbach
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 14
 phone: "+49 174 975 6190"
 opening_hours: ""

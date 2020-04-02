@@ -5,7 +5,7 @@ latitude: 49.066827100000005
 longitude: 9.214954500000001
 postcode: 74360
 city: Ilsfeld
-street: Sturmfederstraße
+street: "Sturmfederstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

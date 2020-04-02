@@ -5,7 +5,7 @@ latitude: 48.894029
 longitude: 9.1849161
 postcode: 71638
 city: Ludwigsburg
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Tu-Fr 09:00-19:00, Sa 08:00-15:00"

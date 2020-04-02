@@ -5,7 +5,7 @@ latitude: 49.1265063
 longitude: 8.572897900000001
 postcode: 76646
 city: Bruchsal
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 18
 phone: "+49 7251 303940"
 opening_hours: ""

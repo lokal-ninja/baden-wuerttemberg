@@ -5,7 +5,7 @@ latitude: 49.3360544
 longitude: 8.6711047
 postcode: 69181
 city: Leimen
-street: Philipp-Stumpf-Straße
+street: "Philipp-Stumpf-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.757564300000006
 longitude: 9.7138331
 postcode: 88289
 city: Waldburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 31
 phone: "+49 7529 1296"
 opening_hours: ""

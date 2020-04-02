@@ -5,7 +5,7 @@ latitude: 49.071581300000005
 longitude: 9.136557700000001
 postcode: 74348
 city: Lauffen am Neckar
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 135
 phone: "+49-7133-9887-0"
 opening_hours: ""

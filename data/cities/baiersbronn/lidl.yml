@@ -5,7 +5,7 @@ latitude: 48.512141500000006
 longitude: 8.3761893
 postcode: 72270
 city: Baiersbronn
-street: Saarstraße
+street: "Saarstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

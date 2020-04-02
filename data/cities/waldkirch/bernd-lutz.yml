@@ -5,7 +5,7 @@ latitude: 48.092501000000006
 longitude: 7.963463900000001
 postcode: 79183
 city: Waldkirch
-street: Kandelstraße
+street: "Kandelstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

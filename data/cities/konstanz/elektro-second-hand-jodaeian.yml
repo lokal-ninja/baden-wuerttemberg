@@ -5,7 +5,7 @@ latitude: 47.6713535
 longitude: 9.175575400000001
 postcode: 78467
 city: Konstanz
-street: Markgrafenstraße
+street: "Markgrafenstraße"
 housenumber: 17
 phone: "+49 7531 456063"
 opening_hours: "Mo-Fr 09:00-12:00,14:00-17:30;Sa 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.8711214
 longitude: 9.351990200000001
 postcode: 71409
 city: Schwaikheim
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

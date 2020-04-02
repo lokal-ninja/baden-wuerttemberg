@@ -5,7 +5,7 @@ latitude: 49.4123365
 longitude: 8.7098679
 postcode: 69117
 city: Heidelberg
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 2
 phone: "+49 6221 166677"
 opening_hours: ""

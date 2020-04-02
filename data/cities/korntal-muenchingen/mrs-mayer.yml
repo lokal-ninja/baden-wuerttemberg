@@ -5,7 +5,7 @@ latitude: 48.8539371
 longitude: 9.107449500000001
 postcode: 70825
 city: Korntal-Münchingen
-street: Kornwestheimer Straße
+street: "Kornwestheimer Straße"
 housenumber: 39/1
 phone: "+49 7150 919400"
 opening_hours: "Tu,We 09:00-18:00; Th 09:00-19:00; Fr 09:00-18:00; Sa 09:00-14:00; Su,Mo off"

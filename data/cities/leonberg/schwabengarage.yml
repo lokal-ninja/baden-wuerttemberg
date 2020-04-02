@@ -5,7 +5,7 @@ latitude: 48.7849093
 longitude: 9.0166012
 postcode: 71229
 city: Leonberg
-street: Breitwiesenstraße
+street: "Breitwiesenstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

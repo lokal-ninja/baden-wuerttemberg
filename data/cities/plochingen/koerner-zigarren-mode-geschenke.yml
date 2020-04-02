@@ -5,7 +5,7 @@ latitude: 48.712638600000005
 longitude: 9.414124600000001
 postcode: 73207
 city: Plochingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

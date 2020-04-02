@@ -5,7 +5,7 @@ latitude: 49.229094100000005
 longitude: 9.1560213
 postcode: 74206
 city: Bad Wimpfen
-street: Rappenauer Straße
+street: "Rappenauer Straße"
 housenumber: 19
 phone: "+49 7063 934358"
 opening_hours: "Mo-Fr 08:00-20:00;Sa 07:30-20:00;Su,PH off"

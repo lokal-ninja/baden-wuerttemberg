@@ -5,7 +5,7 @@ latitude: 48.8170875
 longitude: 10.127867700000001
 postcode: 73432
 city: Aalen
-street: Zehntscheuergasse
+street: "Zehntscheuergasse"
 housenumber: 10
 phone: "+49 7361 32806"
 opening_hours: ""

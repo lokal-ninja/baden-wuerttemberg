@@ -5,7 +5,7 @@ latitude: 47.877547500000006
 longitude: 9.7047056
 postcode: 88339
 city: Bad Waldsee
-street: Egelseestraße
+street: "Egelseestraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00"

@@ -5,7 +5,7 @@ latitude: 48.283515200000004
 longitude: 9.7286499
 postcode: 89584
 city: Ehingen (Donau)
-street: Gymnasiumstraße
+street: "Gymnasiumstraße"
 housenumber: 14
 phone: "+49 73914661"
 opening_hours: "We-Sa 11:00 - 17:00"

@@ -5,7 +5,7 @@ latitude: 48.908300000000004
 longitude: 8.5626646
 postcode: 75210
 city: Keltern
-street: Liebigstraße
+street: "Liebigstraße"
 housenumber: 2
 phone: "+49 7236 93 60 0"
 opening_hours: ""

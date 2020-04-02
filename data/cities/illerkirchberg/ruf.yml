@@ -5,7 +5,7 @@ latitude: 48.3332192
 longitude: 9.9999588
 postcode: 89171
 city: Illerkirchberg
-street: Mussinger Straße
+street: "Mussinger Straße"
 housenumber: 14
 phone: "07346 8310"
 opening_hours: ""

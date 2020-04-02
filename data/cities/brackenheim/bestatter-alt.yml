@@ -5,7 +5,7 @@ latitude: 49.0808831
 longitude: 9.0626788
 postcode: 74336
 city: Brackenheim
-street: Pfaustraße
+street: "Pfaustraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

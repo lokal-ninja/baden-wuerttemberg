@@ -5,7 +5,7 @@ latitude: 48.890805500000006
 longitude: 8.7060381
 postcode: 75175
 city: Pforzheim
-street: Gymnasiumstraße
+street: "Gymnasiumstraße"
 housenumber: 35
 phone: "+49 7231 316066"
 opening_hours: ""

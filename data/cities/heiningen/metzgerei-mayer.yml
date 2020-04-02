@@ -5,7 +5,7 @@ latitude: 48.662636400000004
 longitude: 9.649509400000001
 postcode: 73092
 city: Heiningen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 22
 phone: "+49-7161-44746"
 opening_hours: ""

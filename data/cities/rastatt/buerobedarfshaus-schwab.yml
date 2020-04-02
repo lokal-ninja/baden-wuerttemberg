@@ -5,7 +5,7 @@ latitude: 48.868498100000004
 longitude: 8.1898652
 postcode: 76437
 city: Rastatt
-street: Dr.-Schleyer-Straße
+street: "Dr.-Schleyer-Straße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"

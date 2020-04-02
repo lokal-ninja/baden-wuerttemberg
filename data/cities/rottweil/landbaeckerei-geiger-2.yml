@@ -5,7 +5,7 @@ latitude: 48.1610243
 longitude: 8.639762300000001
 postcode: 78628
 city: Rottweil
-street: Königstraße
+street: "Königstraße"
 housenumber: 67
 phone: ""
 opening_hours: ""

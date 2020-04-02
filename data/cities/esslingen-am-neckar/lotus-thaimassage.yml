@@ -5,7 +5,7 @@ latitude: 48.7352202
 longitude: 9.3006492
 postcode: 73734
 city: Esslingen am Neckar
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 10
 phone: "+49 711 57744144"
 opening_hours: "Mo-Sa 10:00-19:00; Su off"

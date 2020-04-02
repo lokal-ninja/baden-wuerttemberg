@@ -5,7 +5,7 @@ latitude: 49.50082200000001
 longitude: 8.4697657
 postcode: 68169
 city: Mannheim
-street: Alphornstraße
+street: "Alphornstraße"
 housenumber: 47
 phone: "+49 621 319 76 029"
 opening_hours: ""

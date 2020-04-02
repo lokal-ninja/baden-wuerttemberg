@@ -5,7 +5,7 @@ latitude: 48.0670949
 longitude: 9.261618200000001
 postcode: 72517
 city: Sigmaringendorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

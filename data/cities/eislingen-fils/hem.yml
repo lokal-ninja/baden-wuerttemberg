@@ -5,7 +5,7 @@ latitude: 48.6872898
 longitude: 9.7240993
 postcode: 73054
 city: Eislingen/Fils
-street: Am Eichenbach
+street: "Am Eichenbach"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Su 06:00-22:00"

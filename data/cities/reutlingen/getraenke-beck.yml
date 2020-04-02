@@ -5,7 +5,7 @@ latitude: 48.515663100000005
 longitude: 9.2009317
 postcode: 72760
 city: Reutlingen
-street: Rommelsbacher Straße
+street: "Rommelsbacher Straße"
 housenumber: 185
 phone: "+49 7121 3456500"
 opening_hours: "Mo-Fr 08:30-19:00; Oct-Mar Sa 08:30-14:00; Apr-Sep Sa 08:30-16:00; PH,Su off || Heiligabend und Silvester abweichend"

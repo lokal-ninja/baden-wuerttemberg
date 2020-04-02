@@ -5,7 +5,7 @@ latitude: 47.9514177
 longitude: 8.496644100000001
 postcode: 78166
 city: Donaueschingen
-street: Max-Egon-Straße
+street: "Max-Egon-Straße"
 housenumber: 14
 phone: ""
 opening_hours: "We-Fr 10:00-13:30,14:00-18:30, Sa 09:30-13:00"

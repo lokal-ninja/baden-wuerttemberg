@@ -5,7 +5,7 @@ latitude: 48.96194920000001
 longitude: 9.130535100000001
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Talstraße
+street: "Talstraße"
 housenumber: 17
 phone: "+49 7142 / 7748947"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

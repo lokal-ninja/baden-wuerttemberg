@@ -5,7 +5,7 @@ latitude: 48.718530300000005
 longitude: 9.610687500000001
 postcode: 73117
 city: Wangen
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 7:00-21:00"

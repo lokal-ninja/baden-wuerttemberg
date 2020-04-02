@@ -5,7 +5,7 @@ latitude: 49.134307
 longitude: 9.2185538
 postcode: 74074
 city: Heilbronn
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 40
 phone: "+49 713184258"
 opening_hours: "Mo-We 07:00-13:30; Th 07:00-13:00, 14:30-18:00; Fr 07:00-18:00; Sa 07:00-12:30; PH closed"

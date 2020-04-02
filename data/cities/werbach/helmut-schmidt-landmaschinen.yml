@@ -5,7 +5,7 @@ latitude: 49.6976723
 longitude: 9.6971477
 postcode: 97956
 city: Werbach
-street: Andreas-Kneucker-Straße
+street: "Andreas-Kneucker-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.349831800000004
 longitude: 8.768373500000001
 postcode: 69245
 city: Bammental
-street: Langheckenstraße
+street: "Langheckenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

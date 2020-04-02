@@ -5,7 +5,7 @@ latitude: 48.8062413
 longitude: 9.5273517
 postcode: 73614
 city: Schorndorf
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 26
 phone: "+49 7181 9922234"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 49.3829055
 longitude: 8.8015536
 postcode: 69151
 city: Neckargemünd
-street: Dreikreuzweg
+street: "Dreikreuzweg"
 housenumber: 100
 phone: ""
 opening_hours: ""

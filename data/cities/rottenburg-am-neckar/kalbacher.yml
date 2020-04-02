@@ -5,7 +5,7 @@ latitude: 48.5053478
 longitude: 8.774958400000001
 postcode: 72108
 city: Rottenburg am Neckar
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 46
 phone: "+49 7457 731181"
 opening_hours: "Mo-Fr 06:45-12:30; Fr 15:00-18:00; Sa 06:00-12:30"

@@ -5,7 +5,7 @@ latitude: 48.716807100000004
 longitude: 8.1201223
 postcode: 77815
 city: Bühl
-street: Werkstraße
+street: "Werkstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

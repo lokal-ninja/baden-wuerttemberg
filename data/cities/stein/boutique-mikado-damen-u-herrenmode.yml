@@ -5,7 +5,7 @@ latitude: 47.5485259
 longitude: 7.9540543
 postcode: 4332
 city: Stein
-street: Schaffhauserstrasse
+street: "Schaffhauserstrasse"
 housenumber: 57
 phone: ""
 opening_hours: ""

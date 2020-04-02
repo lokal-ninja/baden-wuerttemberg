@@ -5,7 +5,7 @@ latitude: 48.9006544
 longitude: 9.092874700000001
 postcode: 71706
 city: Markgröningen
-street: Im Sträßle
+street: "Im Sträßle"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

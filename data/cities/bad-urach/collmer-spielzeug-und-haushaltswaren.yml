@@ -5,7 +5,7 @@ latitude: 48.4931101
 longitude: 9.3988245
 postcode: 72574
 city: Bad Urach
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 2
 phone: "+49 7125 8551"
 opening_hours: ""

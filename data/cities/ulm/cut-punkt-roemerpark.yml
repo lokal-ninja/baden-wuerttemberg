@@ -5,7 +5,7 @@ latitude: 48.3860855
 longitude: 9.965562700000001
 postcode: 89077
 city: Ulm
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 120/1
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00, Sa 08:00-13:00"

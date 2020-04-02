@@ -5,7 +5,7 @@ latitude: 48.0600381
 longitude: 9.4397047
 postcode: 88518
 city: Herbertingen
-street: Marbacher Straße
+street: "Marbacher Straße"
 housenumber: 1
 phone: "+49 7586 9183550"
 opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-11:00"

@@ -5,7 +5,7 @@ latitude: 47.6853636
 longitude: 7.522596300000001
 postcode: 
 city: Efringen-Kirchen
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.7115938
 longitude: 7.9657859
 postcode: 77866
 city: Rheinau
-street: Fischerstraße
+street: "Fischerstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00; Sa 07:00-12:00"

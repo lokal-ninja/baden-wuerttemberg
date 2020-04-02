@@ -5,7 +5,7 @@ latitude: 49.4968731
 longitude: 8.502560200000001
 postcode: 68167
 city: Mannheim
-street: Christian-Friedrich-Schwan-Straße
+street: "Christian-Friedrich-Schwan-Straße"
 housenumber: 14
 phone: "+49 621 33800 31"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"

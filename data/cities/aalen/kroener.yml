@@ -5,7 +5,7 @@ latitude: 48.799342800000005
 longitude: 10.185409700000001
 postcode: 73432
 city: Aalen
-street: Ebnater Hauptstraße
+street: "Ebnater Hauptstraße"
 housenumber: 20
 phone: "+49 7367 2496"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.7242009
 longitude: 9.375165200000001
 postcode: 73776
 city: Altbach
-street: Esslinger Straße
+street: "Esslinger Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

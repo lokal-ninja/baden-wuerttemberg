@@ -5,7 +5,7 @@ latitude: 48.508011100000004
 longitude: 9.0724824
 postcode: 72072
 city: Tübingen
-street: Sudetenstraße
+street: "Sudetenstraße"
 housenumber: 39
 phone: "+49 7071 369029"
 opening_hours: "Termine nach Vereinbarung"

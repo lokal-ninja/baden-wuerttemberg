@@ -5,7 +5,7 @@ latitude: 49.324916200000004
 longitude: 8.9699645
 postcode: 74921
 city: Helmstadt-Bargen
-street: Friedhofweg
+street: "Friedhofweg"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00;Su,PH off"

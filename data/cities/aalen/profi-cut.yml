@@ -5,7 +5,7 @@ latitude: 48.799857
 longitude: 10.183139200000001
 postcode: 73432
 city: Aalen
-street: Bürgerstraße
+street: "Bürgerstraße"
 housenumber: 2
 phone: "+4973675173"
 opening_hours: ""

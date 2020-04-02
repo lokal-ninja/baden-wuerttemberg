@@ -5,7 +5,7 @@ latitude: 48.394806
 longitude: 9.9583058
 postcode: 89077
 city: Ulm
-street: Söflinger Straße
+street: "Söflinger Straße"
 housenumber: 250
 phone: ""
 opening_hours: ""

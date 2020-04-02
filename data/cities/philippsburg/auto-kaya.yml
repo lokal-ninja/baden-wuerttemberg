@@ -5,7 +5,7 @@ latitude: 49.2318245
 longitude: 8.4636546
 postcode: 76661
 city: Philippsburg
-street: Dammstraße
+street: "Dammstraße"
 housenumber: 8-10
 phone: ""
 opening_hours: ""

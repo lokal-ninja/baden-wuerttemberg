@@ -5,7 +5,7 @@ latitude: 48.591380300000004
 longitude: 10.1239754
 postcode: 89547
 city: Gerstetten
-street: Heerstraße
+street: "Heerstraße"
 housenumber: 14
 phone: "+49 7324 96450"
 opening_hours: ""

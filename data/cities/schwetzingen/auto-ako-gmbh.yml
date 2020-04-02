@@ -5,7 +5,7 @@ latitude: 49.3787905
 longitude: 8.584865500000001
 postcode: 68723
 city: Schwetzingen
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 2
 phone: "+49 (0)6202 9261155"
 opening_hours: "Mo-Fr 8:00-17:30; Sa 9:30-14:00"

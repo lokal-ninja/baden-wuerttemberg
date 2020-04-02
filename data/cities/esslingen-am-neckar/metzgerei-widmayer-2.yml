@@ -5,7 +5,7 @@ latitude: 48.7324302
 longitude: 9.331419700000001
 postcode: 73730
 city: Esslingen am Neckar
-street: Kreuzstraße
+street: "Kreuzstraße"
 housenumber: 52
 phone: ""
 opening_hours: ""

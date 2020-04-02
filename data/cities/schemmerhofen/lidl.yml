@@ -5,7 +5,7 @@ latitude: 48.166499400000006
 longitude: 9.7882333
 postcode: 88433
 city: Schemmerhofen
-street: Alte Biberacher Straße
+street: "Alte Biberacher Straße"
 housenumber: 53
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

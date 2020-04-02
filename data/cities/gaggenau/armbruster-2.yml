@@ -5,7 +5,7 @@ latitude: 48.802974400000004
 longitude: 8.319720700000001
 postcode: 76571
 city: Gaggenau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 08:00-18:00"

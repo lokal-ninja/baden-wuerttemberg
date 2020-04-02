@@ -5,7 +5,7 @@ latitude: 48.822445900000005
 longitude: 9.2854749
 postcode: 70736
 city: Fellbach
-street: Ohmstraße
+street: "Ohmstraße"
 housenumber: 25
 phone: "+49 711 54041707"
 opening_hours: ""

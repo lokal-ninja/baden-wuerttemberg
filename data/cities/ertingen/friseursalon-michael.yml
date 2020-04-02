@@ -5,7 +5,7 @@ latitude: 48.098757000000006
 longitude: 9.4631174
 postcode: 88521
 city: Ertingen
-street: Michel-Buck-Straße
+street: "Michel-Buck-Straße"
 housenumber: 11
 phone: "+49 7371 6507"
 opening_hours: ""

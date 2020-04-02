@@ -5,7 +5,7 @@ latitude: 48.6980294
 longitude: 9.7066789
 postcode: 73054
 city: Eislingen/Fils
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 38
 phone: "+49 7161 2509660"
 opening_hours: "Mo-Su,Ph 08:30-18:00"

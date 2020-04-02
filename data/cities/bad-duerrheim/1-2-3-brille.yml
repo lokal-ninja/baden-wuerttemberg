@@ -5,7 +5,7 @@ latitude: 48.0303021
 longitude: 8.5252291
 postcode: 78073
 city: Bad Dürrheim
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.686471000000004
 longitude: 9.016855600000001
 postcode: 71032
 city: Böblingen
-street: Lauchstraße
+street: "Lauchstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

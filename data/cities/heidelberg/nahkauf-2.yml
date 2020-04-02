@@ -5,7 +5,7 @@ latitude: 49.3641182
 longitude: 8.704631800000001
 postcode: 69126
 city: Heidelberg
-street: Forum
+street: "Forum"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

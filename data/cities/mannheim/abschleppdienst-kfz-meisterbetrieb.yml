@@ -5,7 +5,7 @@ latitude: 49.45199950000001
 longitude: 8.5615345
 postcode: 
 city: Mannheim
-street: Elsa-Brändström-Straße
+street: "Elsa-Brändström-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

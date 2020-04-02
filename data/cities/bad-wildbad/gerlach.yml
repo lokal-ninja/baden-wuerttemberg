@@ -5,7 +5,7 @@ latitude: 48.751443900000005
 longitude: 8.5498195
 postcode: 75323
 city: Bad Wildbad
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

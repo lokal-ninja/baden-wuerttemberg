@@ -5,7 +5,7 @@ latitude: 49.157300600000006
 longitude: 8.5703951
 postcode: 76694
 city: Forst
-street: Heinrich-Hertz-Straße
+street: "Heinrich-Hertz-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

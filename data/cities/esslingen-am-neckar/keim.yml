@@ -5,7 +5,7 @@ latitude: 48.740397300000005
 longitude: 9.300546200000001
 postcode: 73728
 city: Esslingen am Neckar
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

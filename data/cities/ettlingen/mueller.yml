@@ -5,7 +5,7 @@ latitude: 48.941821700000006
 longitude: 8.4064817
 postcode: 76275
 city: Ettlingen
-street: Neuer Markt
+street: "Neuer Markt"
 housenumber: 4
 phone: "+49 7243 947390"
 opening_hours: ""

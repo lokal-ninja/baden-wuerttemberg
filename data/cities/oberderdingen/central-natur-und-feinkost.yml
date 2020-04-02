@@ -5,7 +5,7 @@ latitude: 49.0630784
 longitude: 8.801188900000001
 postcode: 75038
 city: Oberderdingen
-street: Flehinger Straße
+street: "Flehinger Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,15:00-18:00; We,Sa 08:30-12:30"

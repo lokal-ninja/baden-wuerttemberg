@@ -5,7 +5,7 @@ latitude: 48.9624601
 longitude: 9.8467193
 postcode: 74429
 city: Sulzbach-Laufen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 52
 phone: ""
 opening_hours: ""

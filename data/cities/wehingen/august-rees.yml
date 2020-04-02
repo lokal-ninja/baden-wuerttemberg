@@ -5,7 +5,7 @@ latitude: 48.147215700000004
 longitude: 8.7931547
 postcode: 78564
 city: Wehingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 10
 phone: "+49 7426-1262"
 opening_hours: ""

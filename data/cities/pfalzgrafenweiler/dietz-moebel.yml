@@ -5,7 +5,7 @@ latitude: 48.530305500000004
 longitude: 8.572532
 postcode: 72285
 city: Pfalzgrafenweiler
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 2
 phone: "+49 (7445) 8500-0"
 opening_hours: ""

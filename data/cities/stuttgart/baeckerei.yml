@@ -5,7 +5,7 @@ latitude: 48.795945200000006
 longitude: 9.1897318
 postcode: 70191
 city: Stuttgart
-street: Nordbahnhofstraße
+street: "Nordbahnhofstraße"
 housenumber: 61
 phone: ""
 opening_hours: "Mo-Fr 06:30-20:00; Sa 06:30-18:00; Su 08:30-11:00"

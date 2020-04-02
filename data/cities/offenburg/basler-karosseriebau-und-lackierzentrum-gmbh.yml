@@ -5,7 +5,7 @@ latitude: 48.4825237
 longitude: 7.9425194
 postcode: 77652
 city: Offenburg
-street: Helmholtzstraße
+street: "Helmholtzstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.633523000000004
 longitude: 9.2334638
 postcode: 72631
 city: Aichtal
-street: Riedstraße
+street: "Riedstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"

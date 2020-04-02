@@ -5,7 +5,7 @@ latitude: 48.6729445
 longitude: 9.513485900000001
 postcode: 73278
 city: Schlierbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Fr 16:00-20:00; Sa 09:00-17:00"

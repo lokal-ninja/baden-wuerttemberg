@@ -5,7 +5,7 @@ latitude: 48.228289100000005
 longitude: 9.8851721
 postcode: 
 city: Laupheim
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

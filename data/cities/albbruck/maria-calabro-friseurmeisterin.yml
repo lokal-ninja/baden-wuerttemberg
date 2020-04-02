@@ -5,7 +5,7 @@ latitude: 47.5890086
 longitude: 8.1255226
 postcode: 79774
 city: Albbruck
-street: Alte Landstraße
+street: "Alte Landstraße"
 housenumber: 69
 phone: ""
 opening_hours: "Tu-Fr 08:30-12:30, Tu,We,Fr 14:00-18:00; Th 14:00-19:00; Sa 08:00-13:00"

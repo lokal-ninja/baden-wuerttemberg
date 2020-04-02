@@ -5,7 +5,7 @@ latitude: 47.5975046
 longitude: 9.595885800000001
 postcode: 88079
 city: Kressbronn am Bodensee
-street: Argenstraße
+street: "Argenstraße"
 housenumber: 6-8
 phone: "+49 07543 55 52"
 opening_hours: "Mar Su[-1]-Oct Su[-1] -1 day: 07:00-20:00; Oct Su[-1]-Mar Su[-1] -1 day: 07:00-19:00; Su,PH off"

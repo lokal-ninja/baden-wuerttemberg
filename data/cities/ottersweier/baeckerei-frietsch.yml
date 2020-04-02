@@ -5,7 +5,7 @@ latitude: 48.6870999
 longitude: 8.056192000000001
 postcode: 77833
 city: Ottersweier
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

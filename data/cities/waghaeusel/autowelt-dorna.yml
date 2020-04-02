@@ -5,7 +5,7 @@ latitude: 49.2441089
 longitude: 8.502009900000001
 postcode: 68753
 city: Waghäusel
-street: Heinrich-Hertz-Straße
+street: "Heinrich-Hertz-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

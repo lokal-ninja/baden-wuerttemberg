@@ -5,7 +5,7 @@ latitude: 49.450304700000004
 longitude: 8.605784400000001
 postcode: 68535
 city: Edingen-Neckarhausen
-street: Mannheimer Straße
+street: "Mannheimer Straße"
 housenumber: 51
 phone: "+49 6203 525541"
 opening_hours: "Mo-Fr 09:00-12:00, 13:30-17:00; Sa 09:00-12:00"

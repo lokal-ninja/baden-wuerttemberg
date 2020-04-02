@@ -5,7 +5,7 @@ latitude: 49.1830354
 longitude: 9.1114344
 postcode: 74078
 city: Heilbronn
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 30-32
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.986282200000005
 longitude: 8.542887700000001
 postcode: 76327
 city: Pfinztal
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 71
 phone: "+49 7240 - 1045"
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30, closed on Wednesday afternoon; Sa 09:00-13:00; PH off"

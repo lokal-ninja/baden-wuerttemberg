@@ -5,7 +5,7 @@ latitude: 48.899157
 longitude: 9.190349000000001
 postcode: 71634
 city: Ludwigsburg
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

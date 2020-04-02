@@ -5,7 +5,7 @@ latitude: 48.730153800000004
 longitude: 9.252905400000001
 postcode: 73760
 city: Ostfildern
-street: Hedelfinger Straße
+street: "Hedelfinger Straße"
 housenumber: 16
 phone: "+49 711 442075"
 opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-13:00"

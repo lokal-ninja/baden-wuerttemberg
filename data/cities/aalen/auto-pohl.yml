@@ -5,7 +5,7 @@ latitude: 48.8305492
 longitude: 10.0840823
 postcode: 73431
 city: Aalen
-street: Obere Bahnstraße
+street: "Obere Bahnstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.408493400000005
 longitude: 8.5418645
 postcode: 68782
 city: Brühl
-street: Albert-Bassermann-Straße
+street: "Albert-Bassermann-Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.6406659
 longitude: 8.0803248
 postcode: 79733
 city: Görwihl
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 34
 phone: ""
 opening_hours: ""

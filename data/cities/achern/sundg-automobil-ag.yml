@@ -5,7 +5,7 @@ latitude: 48.636174700000005
 longitude: 8.065814300000001
 postcode: 77855
 city: Achern
-street: Schleif
+street: "Schleif"
 housenumber: 3
 phone: "+49 7841 2010"
 opening_hours: ""

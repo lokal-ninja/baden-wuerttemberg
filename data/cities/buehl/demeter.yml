@@ -5,7 +5,7 @@ latitude: 48.732922900000005
 longitude: 8.1298634
 postcode: 77815
 city: Bühl
-street: Ottenhofener Straße
+street: "Ottenhofener Straße"
 housenumber: 27
 phone: ""
 opening_hours: ""

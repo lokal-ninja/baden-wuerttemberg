@@ -5,7 +5,7 @@ latitude: 47.9877188
 longitude: 7.799416900000001
 postcode: 79111
 city: Freiburg im Breisgau
-street: St. Georgener Straße
+street: "St. Georgener Straße"
 housenumber: 4
 phone: "+49 761 47815-0"
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-15:30"

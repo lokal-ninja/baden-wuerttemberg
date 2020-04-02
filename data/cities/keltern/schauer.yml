@@ -5,7 +5,7 @@ latitude: 48.901522
 longitude: 8.5798278
 postcode: 75210
 city: Keltern
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 3
 phone: "+49 7236 75 69"
 opening_hours: ""

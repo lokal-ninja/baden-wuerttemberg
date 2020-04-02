@@ -5,7 +5,7 @@ latitude: 48.602791800000006
 longitude: 9.7304116
 postcode: 73326
 city: Deggingen
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 37
 phone: "+49-7334-5077"
 opening_hours: ""

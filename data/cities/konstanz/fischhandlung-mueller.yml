@@ -5,7 +5,7 @@ latitude: 47.739769900000006
 longitude: 9.1501879
 postcode: 78465
 city: Konstanz
-street: Vordere Weidstaud
+street: "Vordere Weidstaud"
 housenumber: 14
 phone: ""
 opening_hours: "Mi-Fr 08:30-12:30,15:00-18:00;Sa 08:00-13:00"

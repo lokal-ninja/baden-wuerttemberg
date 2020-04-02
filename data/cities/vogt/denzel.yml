@@ -5,7 +5,7 @@ latitude: 47.774936200000006
 longitude: 9.764630400000001
 postcode: 88267
 city: Vogt
-street: Ravensburger Straße
+street: "Ravensburger Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

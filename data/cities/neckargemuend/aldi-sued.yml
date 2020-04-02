@@ -5,7 +5,7 @@ latitude: 49.397111300000006
 longitude: 8.8019431
 postcode: 69151
 city: Neckargemünd
-street: Neckarsteinacher Straße
+street: "Neckarsteinacher Straße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

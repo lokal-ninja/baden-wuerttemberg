@@ -5,7 +5,7 @@ latitude: 48.5973739
 longitude: 8.1134266
 postcode: 77876
 city: Kappelrodeck
-street: Binzigstraße
+street: "Binzigstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

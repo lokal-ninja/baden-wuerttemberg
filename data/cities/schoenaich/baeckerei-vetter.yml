@@ -5,7 +5,7 @@ latitude: 48.6609404
 longitude: 9.057818300000001
 postcode: 71101
 city: Schönaich
-street: Böblinger Straße
+street: "Böblinger Straße"
 housenumber: 53
 phone: ""
 opening_hours: ""

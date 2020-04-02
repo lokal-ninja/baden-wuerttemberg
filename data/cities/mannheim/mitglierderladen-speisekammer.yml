@@ -5,7 +5,7 @@ latitude: 49.4956819
 longitude: 8.482733300000001
 postcode: 68167
 city: Mannheim
-street: Cannabichstraße
+street: "Cannabichstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo,Th 17:00-19:00; Fr 10:00-13:00"

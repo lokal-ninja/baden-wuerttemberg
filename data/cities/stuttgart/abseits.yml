@@ -5,7 +5,7 @@ latitude: 48.778811000000005
 longitude: 9.1771159
 postcode: 70173
 city: Stuttgart
-street: Kleiner Schlossplatz
+street: "Kleiner Schlossplatz"
 housenumber: 13/15
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00"

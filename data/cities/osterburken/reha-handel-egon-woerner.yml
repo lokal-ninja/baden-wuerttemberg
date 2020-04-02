@@ -5,7 +5,7 @@ latitude: 49.427545800000004
 longitude: 9.399986400000001
 postcode: 74706
 city: Osterburken
-street: Osterburkener Straße
+street: "Osterburkener Straße"
 housenumber: 24
 phone: "+49 6291 1500"
 opening_hours: ""

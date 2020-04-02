@@ -5,7 +5,7 @@ latitude: 49.444141900000005
 longitude: 8.5095469
 postcode: 68199
 city: Mannheim
-street: Mundenheimer Straße
+street: "Mundenheimer Straße"
 housenumber: 43
 phone: "+49 621 84482-0"
 opening_hours: "Mo-Th 07:45-12:15,12:45-16:15; Fr 07:45-12:15,12:45-15:45"

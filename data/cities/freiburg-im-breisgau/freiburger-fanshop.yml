@@ -5,7 +5,7 @@ latitude: 47.9935416
 longitude: 7.853687900000001
 postcode: 79098
 city: Freiburg im Breisgau
-street: Oberlinden
+street: "Oberlinden"
 housenumber: 8
 phone: ""
 opening_hours: "Mo 15:00-18:00; Tu-Fr 11:30-18:00; Sa 11:30-16:00; PH off"

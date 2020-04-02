@@ -5,7 +5,7 @@ latitude: 48.5605423
 longitude: 7.976375300000001
 postcode: 77767
 city: Appenweier
-street: Straßburger Straße
+street: "Straßburger Straße"
 housenumber: 81
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

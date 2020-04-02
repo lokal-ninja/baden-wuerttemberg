@@ -5,7 +5,7 @@ latitude: 48.769693100000005
 longitude: 9.503491200000001
 postcode: 73614
 city: Schorndorf
-street: Baierecker Straße
+street: "Baierecker Straße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Fr 07:30-13:00,15:30-18:30; Sa 07:30-13:00"

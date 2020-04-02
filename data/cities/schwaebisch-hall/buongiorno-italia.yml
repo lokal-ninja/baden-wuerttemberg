@@ -5,7 +5,7 @@ latitude: 49.1122304
 longitude: 9.734937200000001
 postcode: 74523
 city: Schwäbisch Hall
-street: Schwatzbühlgasse
+street: "Schwatzbühlgasse"
 housenumber: 18
 phone: ""
 opening_hours: ""

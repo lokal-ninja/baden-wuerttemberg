@@ -5,7 +5,7 @@ latitude: 48.857519700000005
 longitude: 8.231938000000001
 postcode: 76437
 city: Rastatt
-street: Zollersbühnstraße
+street: "Zollersbühnstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

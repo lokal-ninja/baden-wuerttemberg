@@ -5,7 +5,7 @@ latitude: 49.0334105
 longitude: 8.7323403
 postcode: 75015
 city: Bretten
-street: Hetzenbaumhöfe
+street: "Hetzenbaumhöfe"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

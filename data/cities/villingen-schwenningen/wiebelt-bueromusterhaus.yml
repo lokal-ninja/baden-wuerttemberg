@@ -5,7 +5,7 @@ latitude: 48.0690517
 longitude: 8.4564762
 postcode: 78048
 city: Villingen-Schwenningen
-street: Karlsruher Straße
+street: "Karlsruher Straße"
 housenumber: 
 phone: "+49 151 12242375"
 opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:00"

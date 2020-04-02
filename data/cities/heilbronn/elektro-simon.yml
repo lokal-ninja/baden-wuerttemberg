@@ -5,7 +5,7 @@ latitude: 49.1337355
 longitude: 9.191623700000001
 postcode: 74080
 city: Heilbronn
-street: Klingenberger Straße
+street: "Klingenberger Straße"
 housenumber: 71
 phone: "+49 7131 31026"
 opening_hours: "Mo-Fr 08:00-12:00,14:00-17:00"

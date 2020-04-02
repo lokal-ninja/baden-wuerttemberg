@@ -5,7 +5,7 @@ latitude: 47.774066600000005
 longitude: 9.7715064
 postcode: 88267
 city: Vogt
-street: Am Langacker
+street: "Am Langacker"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00; PH off"

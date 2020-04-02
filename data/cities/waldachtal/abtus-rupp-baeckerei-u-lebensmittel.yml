@@ -5,7 +5,7 @@ latitude: 48.4899319
 longitude: 8.5639965
 postcode: 72178
 city: Waldachtal
-street: Forchenwaldstraße
+street: "Forchenwaldstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 06:30-12:00,14:30-18:00; Sa 06:30-12:00"

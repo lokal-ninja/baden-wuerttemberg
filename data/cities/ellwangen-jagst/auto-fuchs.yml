@@ -5,7 +5,7 @@ latitude: 48.954390800000006
 longitude: 10.1746639
 postcode: 73479
 city: Ellwangen (Jagst)
-street: Ludwig-Lutz-Straße
+street: "Ludwig-Lutz-Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

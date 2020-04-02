@@ -5,7 +5,7 @@ latitude: 48.3964104
 longitude: 8.971565100000001
 postcode: 72411
 city: Bodelshausen
-street: Rottenburger Straße
+street: "Rottenburger Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00"

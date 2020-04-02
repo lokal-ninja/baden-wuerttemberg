@@ -5,7 +5,7 @@ latitude: 48.8752329
 longitude: 9.399667200000001
 postcode: 71364
 city: Winnenden
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 7
 phone: "+49 7195 179070"
 opening_hours: ""

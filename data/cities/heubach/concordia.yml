@@ -5,7 +5,7 @@ latitude: 48.7910697
 longitude: 9.933894200000001
 postcode: 73540
 city: Heubach
-street: Adlerstraße
+street: "Adlerstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

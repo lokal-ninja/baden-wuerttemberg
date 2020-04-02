@@ -5,7 +5,7 @@ latitude: 48.0755576
 longitude: 8.6356072
 postcode: 78647
 city: Trossingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

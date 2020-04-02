@@ -5,7 +5,7 @@ latitude: 48.7858303
 longitude: 9.0188707
 postcode: 71229
 city: Leonberg
-street: Görlitzer Straße
+street: "Görlitzer Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

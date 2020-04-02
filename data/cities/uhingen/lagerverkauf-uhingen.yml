@@ -5,7 +5,7 @@ latitude: 48.7093196
 longitude: 9.5771111
 postcode: 73066
 city: Uhingen
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 74
 phone: "+49-171-7770841"
 opening_hours: "Th-Fr 09:00-19:00; Sa 09:00-16:00; PH off"

@@ -5,7 +5,7 @@ latitude: 48.6477219
 longitude: 9.572628400000001
 postcode: 73119
 city: Zell unter Aichelberg
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 14:00-18:00; We off; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.1367613
 longitude: 9.2079401
 postcode: 74072
 city: Heilbronn
-street: Olgastraße
+street: "Olgastraße"
 housenumber: 57
 phone: ""
 opening_hours: ""

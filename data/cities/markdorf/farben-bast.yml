@@ -5,7 +5,7 @@ latitude: 47.7188777
 longitude: 9.389158100000001
 postcode: 88677
 city: Markdorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

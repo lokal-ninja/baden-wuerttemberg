@@ -5,7 +5,7 @@ latitude: 48.8129475
 longitude: 9.2295429
 postcode: 70374
 city: Stuttgart
-street: Schmidener Straße
+street: "Schmidener Straße"
 housenumber: 123
 phone: ""
 opening_hours: ""

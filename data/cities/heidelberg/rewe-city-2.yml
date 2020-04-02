@@ -5,7 +5,7 @@ latitude: 49.414137700000005
 longitude: 8.685653
 postcode: 69120
 city: Heidelberg
-street: Ladenburger Straße
+street: "Ladenburger Straße"
 housenumber: 68
 phone: ""
 opening_hours: ""

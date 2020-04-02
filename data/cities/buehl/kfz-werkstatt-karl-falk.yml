@@ -5,7 +5,7 @@ latitude: 48.7056668
 longitude: 8.1265724
 postcode: 77815
 city: Bühl
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 16
 phone: "+49 7223 27912"
 opening_hours: "Mo-Sa 09:00-19:00"

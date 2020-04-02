@@ -5,7 +5,7 @@ latitude: 48.476055200000005
 longitude: 7.9403503
 postcode: 77652
 city: Offenburg
-street: Freiburger Straße
+street: "Freiburger Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

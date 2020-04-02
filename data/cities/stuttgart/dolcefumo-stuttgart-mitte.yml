@@ -5,7 +5,7 @@ latitude: 48.7732103
 longitude: 9.1729704
 postcode: 
 city: Stuttgart
-street: Marienstraße
+street: "Marienstraße"
 housenumber: 16
 phone: "+49 711 50653458"
 opening_hours: "Mo-Sa 10:00-20:00"

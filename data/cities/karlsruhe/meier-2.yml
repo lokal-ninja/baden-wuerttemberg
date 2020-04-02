@@ -5,7 +5,7 @@ latitude: 49.0077027
 longitude: 8.3816703
 postcode: 76135
 city: Karlsruhe
-street: Sophienstraße
+street: "Sophienstraße"
 housenumber: 99
 phone: "+49 721 91170015"
 opening_hours: "Mo-Fr 06:00-18:00;Sa 06:00-12:30; PH closed"

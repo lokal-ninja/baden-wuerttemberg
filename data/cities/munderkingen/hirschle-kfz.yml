@@ -5,7 +5,7 @@ latitude: 48.2450671
 longitude: 9.6355859
 postcode: 89597
 city: Munderkingen
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 2
 phone: "+49 7393 953737"
 opening_hours: "Mo-Fr 08:00-12:15,13:15-18:00; Sa 09:00-12:30; Su,PH off"

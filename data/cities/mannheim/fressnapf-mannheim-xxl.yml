@@ -5,7 +5,7 @@ latitude: 49.4477587
 longitude: 8.502464400000001
 postcode: 68199
 city: Mannheim
-street: Casterfeldstraße
+street: "Casterfeldstraße"
 housenumber: 60
 phone: "+49 621 8762643"
 opening_hours: "Mo-Sa 09:00-20:00"

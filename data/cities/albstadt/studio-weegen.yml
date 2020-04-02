@@ -5,7 +5,7 @@ latitude: 48.2554299
 longitude: 9.0135506
 postcode: 72461
 city: Albstadt
-street: Adlerstraße
+street: "Adlerstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

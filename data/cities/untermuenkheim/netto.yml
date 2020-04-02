@@ -5,7 +5,7 @@ latitude: 49.1547904
 longitude: 9.7318134
 postcode: 74547
 city: Untermünkheim
-street: Hohenloher Straße
+street: "Hohenloher Straße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

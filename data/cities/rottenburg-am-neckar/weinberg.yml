@@ -5,7 +5,7 @@ latitude: 48.5267331
 longitude: 8.9292155
 postcode: 72108
 city: Rottenburg am Neckar
-street: Pfaffenbergstraße
+street: "Pfaffenbergstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 06:45-12:30, 14:00-18:00; Sa 06:45-12:00; Su 08:00-11:00"

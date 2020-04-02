@@ -5,7 +5,7 @@ latitude: 48.9639801
 longitude: 8.299848500000001
 postcode: 76287
 city: Rheinstetten
-street: Rappenwörthstraße
+street: "Rappenwörthstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

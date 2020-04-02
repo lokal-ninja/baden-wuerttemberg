@@ -5,7 +5,7 @@ latitude: 49.1224416
 longitude: 9.1956634
 postcode: 
 city: Heilbronn
-street: Spitzwegstraße
+street: "Spitzwegstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

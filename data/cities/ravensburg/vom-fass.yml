@@ -5,7 +5,7 @@ latitude: 47.78222
 longitude: 9.6110916
 postcode: 88212
 city: Ravensburg
-street: Adlerstraße
+street: "Adlerstraße"
 housenumber: 22
 phone: "+49 751 23262"
 opening_hours: "Mo-Fr 9:30-18:00; Sa 9:30-16:00"

@@ -5,7 +5,7 @@ latitude: 48.7392674
 longitude: 9.164688
 postcode: 70597
 city: Stuttgart
-street: Sigmaringer Straße
+street: "Sigmaringer Straße"
 housenumber: 256
 phone: ""
 opening_hours: "Mo-Th 08:00-12:30; Fr 08:00-12:30,13:30-17:00; Mo-Th 13:30-18:00"

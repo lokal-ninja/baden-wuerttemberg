@@ -5,7 +5,7 @@ latitude: 47.642009300000005
 longitude: 7.7410285000000005
 postcode: 79585
 city: Steinen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: "+491716535876"
 opening_hours: ""

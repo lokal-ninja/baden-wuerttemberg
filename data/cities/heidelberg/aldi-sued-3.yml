@@ -5,7 +5,7 @@ latitude: 49.378676500000005
 longitude: 8.6638731
 postcode: 69124
 city: Heidelberg
-street: Pleikartsförster Straße
+street: "Pleikartsförster Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

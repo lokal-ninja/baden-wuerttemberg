@@ -5,7 +5,7 @@ latitude: 48.4659715
 longitude: 7.8830659
 postcode: 77746
 city: Schutterwald
-street: Burdastraße
+street: "Burdastraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:00,13:00-18:00, Sa 09:00-13:00"

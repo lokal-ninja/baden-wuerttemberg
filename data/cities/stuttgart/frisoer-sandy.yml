@@ -5,7 +5,7 @@ latitude: 48.701236200000004
 longitude: 9.2151523
 postcode: 70599
 city: Stuttgart
-street: Goezstraße
+street: "Goezstraße"
 housenumber: 3
 phone: "+4971183885696"
 opening_hours: "Tu,Th,Fr 09:00-18:00; We 09:00-14:00; Sa 08:00-13:00"

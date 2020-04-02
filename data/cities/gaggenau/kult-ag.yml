@@ -5,7 +5,7 @@ latitude: 48.81822450000001
 longitude: 8.358361200000001
 postcode: 76571
 city: Gaggenau
-street: Mönchkopfstraße
+street: "Mönchkopfstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00"

@@ -5,7 +5,7 @@ latitude: 48.7331121
 longitude: 9.3151905
 postcode: 73728
 city: Esslingen am Neckar
-street: Dammstraße
+street: "Dammstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"

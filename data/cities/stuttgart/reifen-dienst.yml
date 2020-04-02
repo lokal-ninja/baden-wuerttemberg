@@ -5,7 +5,7 @@ latitude: 48.835732400000005
 longitude: 9.1736763
 postcode: 70435
 city: Stuttgart
-street: Zabergäustraße
+street: "Zabergäustraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

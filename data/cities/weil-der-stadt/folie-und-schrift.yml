@@ -5,7 +5,7 @@ latitude: 48.7722813
 longitude: 8.8550953
 postcode: 71263
 city: Weil der Stadt
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 10
 phone: "+49 7033 34298"
 opening_hours: "Mo-Fr 16:00-19:00; We off"

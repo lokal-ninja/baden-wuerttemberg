@@ -5,7 +5,7 @@ latitude: 48.124832500000004
 longitude: 8.3323558
 postcode: 78112
 city: St. Georgen im Schwarzwald
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

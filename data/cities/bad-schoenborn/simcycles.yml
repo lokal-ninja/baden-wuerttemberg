@@ -5,7 +5,7 @@ latitude: 49.202656000000005
 longitude: 8.638577600000001
 postcode: 76669
 city: Bad Schönborn
-street: Kinzigring
+street: "Kinzigring"
 housenumber: 2
 phone: ""
 opening_hours: ""

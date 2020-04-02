@@ -5,7 +5,7 @@ latitude: 49.1250179
 longitude: 8.597794
 postcode: 76646
 city: Bruchsal
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 57
 phone: "+49 7251 7248568"
 opening_hours: ""

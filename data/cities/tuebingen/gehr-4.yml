@@ -5,7 +5,7 @@ latitude: 48.5032366
 longitude: 9.053260700000001
 postcode: 72072
 city: Tübingen
-street: Raichbergstraße
+street: "Raichbergstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Fr 06:15-18:30; Sa 06:15-14:00; Su 08:00-11:00"

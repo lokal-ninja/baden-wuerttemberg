@@ -5,7 +5,7 @@ latitude: 48.940631100000004
 longitude: 8.4075646
 postcode: 76275
 city: Ettlingen
-street: Johannesgasse
+street: "Johannesgasse"
 housenumber: 1
 phone: ""
 opening_hours: ""

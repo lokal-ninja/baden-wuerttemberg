@@ -5,7 +5,7 @@ latitude: 48.7892741
 longitude: 9.202700700000001
 postcode: 70190
 city: Stuttgart
-street: Hackstraße
+street: "Hackstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.8381732
 longitude: 8.251792700000001
 postcode: 76456
 city: Kuppenheim
-street: Lochackerstraße
+street: "Lochackerstraße"
 housenumber: 1-3
 phone: "+49 7222 94610"
 opening_hours: "Mo-Fr 8:00-12:00,13:00-17:00; Sa 9:00-12:00"

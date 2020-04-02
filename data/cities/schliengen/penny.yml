@@ -5,7 +5,7 @@ latitude: 47.763890100000005
 longitude: 7.577554900000001
 postcode: 79418
 city: Schliengen
-street: Gutedelstraße
+street: "Gutedelstraße"
 housenumber: 34
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 07:00-21:00"

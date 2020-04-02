@@ -5,7 +5,7 @@ latitude: 49.608686500000005
 longitude: 9.472541000000001
 postcode: 74736
 city: Hardheim
-street: Wertheimer Straße
+street: "Wertheimer Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

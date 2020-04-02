@@ -5,7 +5,7 @@ latitude: 48.828016000000005
 longitude: 8.2657816
 postcode: 76456
 city: Kuppenheim
-street: Im Siegen
+street: "Im Siegen"
 housenumber: 1
 phone: "+49 800 4353361"
 opening_hours: "Mo-Sa 07:00-21:00"

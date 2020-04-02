@@ -5,7 +5,7 @@ latitude: 48.8866662
 longitude: 9.1281192
 postcode: 71696
 city: Möglingen
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 17
 phone: "+49 7141 484265"
 opening_hours: "Tu-Fr 08:00-12:00; Tu-Fr 13:30-18:30; Sa 08:00-13:00"

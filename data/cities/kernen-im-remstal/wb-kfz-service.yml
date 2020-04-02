@@ -5,7 +5,7 @@ latitude: 48.7930724
 longitude: 9.3496799
 postcode: 71394
 city: Kernen im Remstal
-street: Albert-Moser-Straße
+street: "Albert-Moser-Straße"
 housenumber: 87
 phone: "+49 7151 604 560"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.399405200000004
 longitude: 8.633041200000001
 postcode: 69214
 city: Eppelheim
-street: Blumenstraße
+street: "Blumenstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

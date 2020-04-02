@@ -5,7 +5,7 @@ latitude: 48.78430710000001
 longitude: 9.0054902
 postcode: 71229
 city: Leonberg
-street: Bruckenbachstraße
+street: "Bruckenbachstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.829726900000004
 longitude: 8.551138700000001
 postcode: 78176
 city: Blumberg
-street: Vogelherd
+street: "Vogelherd"
 housenumber: 2
 phone: ""
 opening_hours: ""

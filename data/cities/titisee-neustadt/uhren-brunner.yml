@@ -5,7 +5,7 @@ latitude: 47.9006861
 longitude: 8.1523062
 postcode: 79822
 city: Titisee-Neustadt
-street: Seestraße
+street: "Seestraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Su 09:30-18:30"

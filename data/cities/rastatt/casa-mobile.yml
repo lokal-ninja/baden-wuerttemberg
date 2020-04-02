@@ -5,7 +5,7 @@ latitude: 48.859388200000005
 longitude: 8.2301161
 postcode: 76437
 city: Rastatt
-street: Berliner Ring
+street: "Berliner Ring"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"

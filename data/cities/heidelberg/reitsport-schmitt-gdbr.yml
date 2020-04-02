@@ -5,7 +5,7 @@ latitude: 49.375360300000004
 longitude: 8.6656987
 postcode: 69124
 city: Heidelberg
-street: Oberdorfstraße
+street: "Oberdorfstraße"
 housenumber: 51
 phone: ""
 opening_hours: ""

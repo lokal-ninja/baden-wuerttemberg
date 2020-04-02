@@ -5,7 +5,7 @@ latitude: 48.339572600000004
 longitude: 7.842631600000001
 postcode: 77933
 city: Lahr/Schwarzwald
-street: Freiburger Straße
+street: "Freiburger Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

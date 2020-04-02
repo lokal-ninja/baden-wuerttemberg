@@ -5,7 +5,7 @@ latitude: 48.5659021
 longitude: 9.4597519
 postcode: 73252
 city: Lenningen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

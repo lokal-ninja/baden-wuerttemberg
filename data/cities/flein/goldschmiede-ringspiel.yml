@@ -5,7 +5,7 @@ latitude: 49.1012682
 longitude: 9.214675900000001
 postcode: 74223
 city: Flein
-street: Erlachstraße
+street: "Erlachstraße"
 housenumber: 9
 phone: "+49 7131 2046757"
 opening_hours: ""

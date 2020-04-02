@@ -5,7 +5,7 @@ latitude: 48.85897730000001
 longitude: 9.7948429
 postcode: 73568
 city: Durlangen
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 19
 phone: "+49 7176 90 54 27"
 opening_hours: ""

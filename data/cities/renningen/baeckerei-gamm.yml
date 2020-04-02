@@ -5,7 +5,7 @@ latitude: 48.771292100000004
 longitude: 8.906269100000001
 postcode: 71272
 city: Renningen
-street: Haldenstraße
+street: "Haldenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-13:00; Su 08:00-11:00"

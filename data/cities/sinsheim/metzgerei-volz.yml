@@ -5,7 +5,7 @@ latitude: 49.210103000000004
 longitude: 8.875910300000001
 postcode: 74889
 city: Sinsheim
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

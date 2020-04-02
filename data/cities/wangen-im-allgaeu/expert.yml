@@ -5,7 +5,7 @@ latitude: 47.685295800000006
 longitude: 9.8314386
 postcode: 88239
 city: Wangen im Allgäu
-street: Lindauer Straße
+street: "Lindauer Straße"
 housenumber: 9
 phone: "+49 7522 974570"
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00; Su, PH off"

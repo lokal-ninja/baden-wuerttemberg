@@ -5,7 +5,7 @@ latitude: 49.3404244
 longitude: 9.0257214
 postcode: 74847
 city: Obrigheim
-street: Ortsstraße
+street: "Ortsstraße"
 housenumber: 64
 phone: "+49 6262 3737"
 opening_hours: ""

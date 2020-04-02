@@ -5,7 +5,7 @@ latitude: 48.2121086
 longitude: 8.230574500000001
 postcode: 
 city: Hornberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 93
 phone: "+49 7833 965458"
 opening_hours: ""

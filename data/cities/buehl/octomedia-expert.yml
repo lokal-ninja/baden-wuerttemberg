@@ -5,7 +5,7 @@ latitude: 48.698450900000005
 longitude: 8.1315796
 postcode: 77815
 city: Bühl
-street: Güterstraße
+street: "Güterstraße"
 housenumber: 8
 phone: "+49 7223 287900"
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00"

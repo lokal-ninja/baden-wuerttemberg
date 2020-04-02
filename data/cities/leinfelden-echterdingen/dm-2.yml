@@ -5,7 +5,7 @@ latitude: 48.7014955
 longitude: 9.1439883
 postcode: 70771
 city: Leinfelden-Echterdingen
-street: Maybachstraße
+street: "Maybachstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

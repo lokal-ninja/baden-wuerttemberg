@@ -5,7 +5,7 @@ latitude: 48.9214792
 longitude: 9.123274
 postcode: 71732
 city: Tamm
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 107
 phone: "+49 7141 602970"
 opening_hours: "Tu-We 09:00-18:30, Th 10:30-20:00, Fr 09:00-19:00, Sa 08:00-14:00"

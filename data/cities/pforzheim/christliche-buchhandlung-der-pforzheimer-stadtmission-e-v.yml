@@ -5,7 +5,7 @@ latitude: 48.8912101
 longitude: 8.697886800000001
 postcode: 75172
 city: Pforzheim
-street: Baumstraße
+street: "Baumstraße"
 housenumber: 6-8
 phone: "+49 7231 354234"
 opening_hours: ""

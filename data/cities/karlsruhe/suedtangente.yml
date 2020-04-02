@@ -5,7 +5,7 @@ latitude: 48.9857474
 longitude: 8.4480315
 postcode: 76227
 city: Karlsruhe
-street: Erlachseeweg
+street: "Erlachseeweg"
 housenumber: 10
 phone: ""
 opening_hours: "24/7"

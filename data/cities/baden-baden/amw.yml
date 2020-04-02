@@ -5,7 +5,7 @@ latitude: 48.792454400000004
 longitude: 8.1951138
 postcode: 76532
 city: Baden-Baden
-street: Kuppenheimer Straße
+street: "Kuppenheimer Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

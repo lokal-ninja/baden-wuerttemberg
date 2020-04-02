@@ -5,7 +5,7 @@ latitude: 48.0620215
 longitude: 8.5296178
 postcode: 78054
 city: Villingen-Schwenningen
-street: Holzstraße
+street: "Holzstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00; PH off"

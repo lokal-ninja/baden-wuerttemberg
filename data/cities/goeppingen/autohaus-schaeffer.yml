@@ -5,7 +5,7 @@ latitude: 48.6968125
 longitude: 9.683521800000001
 postcode: 73037
 city: Göppingen
-street: Esslinger Straße
+street: "Esslinger Straße"
 housenumber: 13
 phone: "+49 7161 97650"
 opening_hours: ""

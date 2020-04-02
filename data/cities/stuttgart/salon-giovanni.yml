@@ -5,7 +5,7 @@ latitude: 48.832570100000005
 longitude: 9.1762067
 postcode: 70435
 city: Stuttgart
-street: Marbacher Straße
+street: "Marbacher Straße"
 housenumber: 31
 phone: ""
 opening_hours: ""

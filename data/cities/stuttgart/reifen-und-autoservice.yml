@@ -5,7 +5,7 @@ latitude: 48.7779022
 longitude: 9.1245492
 postcode: 70195
 city: Stuttgart
-street: Nöllenstraße
+street: "Nöllenstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

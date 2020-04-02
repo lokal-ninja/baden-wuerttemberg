@@ -5,7 +5,7 @@ latitude: 48.846232300000004
 longitude: 9.452458100000001
 postcode: 73663
 city: Berglen
-street: Erlenstraße
+street: "Erlenstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.7981263
 longitude: 8.199269000000001
 postcode: 76532
 city: Baden-Baden
-street: Wilhelm-Drapp-Straße
+street: "Wilhelm-Drapp-Straße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

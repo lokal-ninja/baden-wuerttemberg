@@ -5,7 +5,7 @@ latitude: 49.3801901
 longitude: 8.6781368
 postcode: 69126
 city: Heidelberg
-street: Heinrich-Fuchs-Straße
+street: "Heinrich-Fuchs-Straße"
 housenumber: 96
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 48.2865522
 longitude: 9.725468600000001
 postcode: 89584
 city: Ehingen (Donau)
-street: Adolffstraße
+street: "Adolffstraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

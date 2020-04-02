@@ -5,7 +5,7 @@ latitude: 49.245299100000004
 longitude: 8.881738700000001
 postcode: 74889
 city: Sinsheim
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

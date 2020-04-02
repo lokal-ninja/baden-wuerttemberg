@@ -5,7 +5,7 @@ latitude: 49.1864987
 longitude: 9.234208500000001
 postcode: 74172
 city: Neckarsulm
-street: Binswanger Straße
+street: "Binswanger Straße"
 housenumber: 83
 phone: ""
 opening_hours: ""

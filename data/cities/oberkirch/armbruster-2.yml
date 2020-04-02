@@ -5,7 +5,7 @@ latitude: 48.531434600000004
 longitude: 8.0608737
 postcode: 77704
 city: Oberkirch
-street: Korberger Matt
+street: "Korberger Matt"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-18:00"

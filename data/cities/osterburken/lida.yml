@@ -5,7 +5,7 @@ latitude: 49.4285142
 longitude: 9.425329300000001
 postcode: 74706
 city: Osterburken
-street: Römerstraße
+street: "Römerstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

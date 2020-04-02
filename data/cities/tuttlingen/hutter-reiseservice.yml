@@ -5,7 +5,7 @@ latitude: 47.979926500000005
 longitude: 8.8190255
 postcode: 78532
 city: Tuttlingen
-street: Stockacher Straße
+street: "Stockacher Straße"
 housenumber: 24
 phone: "+49 7461 71653"
 opening_hours: ""

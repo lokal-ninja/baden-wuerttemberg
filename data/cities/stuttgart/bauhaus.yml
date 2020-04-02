@@ -5,7 +5,7 @@ latitude: 48.7240789
 longitude: 9.124905400000001
 postcode: 70565
 city: Stuttgart
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 57
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"

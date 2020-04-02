@@ -5,7 +5,7 @@ latitude: 49.219118900000005
 longitude: 8.6562593
 postcode: 76669
 city: Bad Schönborn
-street: Leopoldstraße
+street: "Leopoldstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

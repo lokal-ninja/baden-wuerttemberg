@@ -5,7 +5,7 @@ latitude: 48.414400400000005
 longitude: 9.921072500000001
 postcode: 89134
 city: Blaustein
-street: Hummelstraße
+street: "Hummelstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off"

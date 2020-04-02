@@ -5,7 +5,7 @@ latitude: 48.401003200000005
 longitude: 8.007864
 postcode: 77723
 city: Gengenbach
-street: Berghauptener Straße
+street: "Berghauptener Straße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

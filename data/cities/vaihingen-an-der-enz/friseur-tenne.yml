@@ -5,7 +5,7 @@ latitude: 48.9167125
 longitude: 8.981933600000001
 postcode: 71665
 city: Vaihingen an der Enz
-street: Karl-Blessing-Straße
+street: "Karl-Blessing-Straße"
 housenumber: 2
 phone: "+49 7042 95 08 96"
 opening_hours: ""

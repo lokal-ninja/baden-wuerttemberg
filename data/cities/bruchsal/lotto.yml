@@ -5,7 +5,7 @@ latitude: 49.077031700000006
 longitude: 8.5852255
 postcode: 76646
 city: Bruchsal
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

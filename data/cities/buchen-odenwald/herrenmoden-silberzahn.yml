@@ -5,7 +5,7 @@ latitude: 49.5235787
 longitude: 9.324011
 postcode: 74722
 city: Buchen (Odenwald)
-street: Hochstadtstraße
+street: "Hochstadtstraße"
 housenumber: 57
 phone: "+49 6281 4390"
 opening_hours: ""

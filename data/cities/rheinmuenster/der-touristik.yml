@@ -5,7 +5,7 @@ latitude: 48.778042400000004
 longitude: 8.087934800000001
 postcode: 77836
 city: Rheinmünster
-street: Halifax Avenue B
+street: "Halifax Avenue B"
 housenumber: 420
 phone: "+49 7229 661280"
 opening_hours: ""

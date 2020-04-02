@@ -5,7 +5,7 @@ latitude: 47.7616549
 longitude: 8.838907800000001
 postcode: 78224
 city: Singen (Hohentwiel)
-street: August-Ruf-Straße
+street: "August-Ruf-Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"

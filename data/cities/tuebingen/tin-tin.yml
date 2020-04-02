@@ -5,7 +5,7 @@ latitude: 48.5211222
 longitude: 9.052652
 postcode: 72070
 city: Tübingen
-street: Kornhausstraße
+street: "Kornhausstraße"
 housenumber: 20
 phone: "+49 7071 9809199"
 opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00, Su,PH off"

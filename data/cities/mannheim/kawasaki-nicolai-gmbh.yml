@@ -5,7 +5,7 @@ latitude: 49.496766400000006
 longitude: 8.4995802
 postcode: 68167
 city: Mannheim
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 23-25
 phone: ""
 opening_hours: ""

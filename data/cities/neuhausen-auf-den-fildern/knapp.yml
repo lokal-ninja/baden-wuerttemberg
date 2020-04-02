@@ -5,7 +5,7 @@ latitude: 48.6814984
 longitude: 9.278485100000001
 postcode: 73765
 city: Neuhausen auf den Fildern
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo 07:30-13:00; Tu-Fr 07:30-18:00; Sa 07:00-12:00"

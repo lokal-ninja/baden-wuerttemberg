@@ -5,7 +5,7 @@ latitude: 49.152960400000005
 longitude: 9.219509500000001
 postcode: 74076
 city: Heilbronn
-street: Salzstraße
+street: "Salzstraße"
 housenumber: 30
 phone: "+49 7131 2797383"
 opening_hours: "Mo-We 09:00-14:00; Th,Fr 09:00-18:15"

@@ -5,7 +5,7 @@ latitude: 49.0007913
 longitude: 8.391172300000001
 postcode: 76137
 city: Karlsruhe
-street: Klauprechtstraße
+street: "Klauprechtstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

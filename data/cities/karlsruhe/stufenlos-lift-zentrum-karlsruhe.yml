@@ -5,7 +5,7 @@ latitude: 49.036869200000005
 longitude: 8.393902
 postcode: 76149
 city: Karlsruhe
-street: Lorbeerweg
+street: "Lorbeerweg"
 housenumber: 20
 phone: ""
 opening_hours: ""

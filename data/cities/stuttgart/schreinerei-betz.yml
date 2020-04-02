@@ -5,7 +5,7 @@ latitude: 48.7252863
 longitude: 9.143414100000001
 postcode: 70567
 city: Stuttgart
-street: Vikarweg
+street: "Vikarweg"
 housenumber: 6
 phone: ""
 opening_hours: ""

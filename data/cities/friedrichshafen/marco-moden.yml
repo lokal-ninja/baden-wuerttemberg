@@ -5,7 +5,7 @@ latitude: 47.6506423
 longitude: 9.4816397
 postcode: 88045
 city: Friedrichshafen
-street: Goldschmiedstraße
+street: "Goldschmiedstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su,PH off"

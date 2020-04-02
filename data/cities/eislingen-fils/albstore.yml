@@ -5,7 +5,7 @@ latitude: 48.694773000000005
 longitude: 9.692561900000001
 postcode: 73054
 city: Eislingen/Fils
-street: Kornbergstraße
+street: "Kornbergstraße"
 housenumber: 6
 phone: "+49 7161 87845"
 opening_hours: "on appointment"

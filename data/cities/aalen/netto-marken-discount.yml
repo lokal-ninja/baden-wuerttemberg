@@ -5,7 +5,7 @@ latitude: 48.8687284
 longitude: 10.108002
 postcode: 73433
 city: Aalen
-street: Ellwanger Straße
+street: "Ellwanger Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

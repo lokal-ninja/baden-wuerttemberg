@@ -5,7 +5,7 @@ latitude: 47.6041095
 longitude: 7.6539992
 postcode: 79540
 city: Lörrach
-street: Weiler Straße
+street: "Weiler Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

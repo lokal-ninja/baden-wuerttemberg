@@ -5,7 +5,7 @@ latitude: 48.7516304
 longitude: 8.8116351
 postcode: 75397
 city: Simmozheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

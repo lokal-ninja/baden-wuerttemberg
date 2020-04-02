@@ -5,7 +5,7 @@ latitude: 49.151873300000005
 longitude: 9.2118103
 postcode: 74076
 city: Heilbronn
-street: Gottlieb-Daimler-Straße
+street: "Gottlieb-Daimler-Straße"
 housenumber: 9
 phone: "+49 7131 6440 872"
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.7927855
 longitude: 9.935575700000001
 postcode: 73540
 city: Heubach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: "+49 7173 6751"
 opening_hours: ""

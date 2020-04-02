@@ -5,7 +5,7 @@ latitude: 49.497520400000006
 longitude: 8.471311700000001
 postcode: 68169
 city: Mannheim
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 11
 phone: "+49 621 333886"
 opening_hours: "Tu-Su 11:00-18:00"

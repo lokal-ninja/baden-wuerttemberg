@@ -5,7 +5,7 @@ latitude: 48.341632000000004
 longitude: 7.872599600000001
 postcode: 77933
 city: Lahr/Schwarzwald
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 4
 phone: "+49 7821 9925025"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.319786900000004
 longitude: 8.5529285
 postcode: 68766
 city: Hockenheim
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

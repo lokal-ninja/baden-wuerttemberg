@@ -5,7 +5,7 @@ latitude: 48.675119900000006
 longitude: 7.926342200000001
 postcode: 77866
 city: Rheinau
-street: Am Glockenloch
+street: "Am Glockenloch"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

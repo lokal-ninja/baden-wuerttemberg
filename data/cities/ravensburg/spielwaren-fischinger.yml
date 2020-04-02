@@ -5,7 +5,7 @@ latitude: 47.782560000000004
 longitude: 9.6142149
 postcode: 88212
 city: Ravensburg
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 12
 phone: "+497512896"
 opening_hours: "Mo-We,Fr 9:00-18:00; Th 9:00-18:30; Sa 9:00-16:00"

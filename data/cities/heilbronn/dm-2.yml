@@ -5,7 +5,7 @@ latitude: 49.12533680000001
 longitude: 9.2022017
 postcode: 74081
 city: Heilbronn
-street: Kreuzäckerstraße
+street: "Kreuzäckerstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

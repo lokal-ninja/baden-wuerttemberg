@@ -5,7 +5,7 @@ latitude: 48.800466
 longitude: 9.4787133
 postcode: 73650
 city: Winterbach
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

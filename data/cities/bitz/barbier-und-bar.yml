@@ -5,7 +5,7 @@ latitude: 48.243509100000004
 longitude: 9.090897100000001
 postcode: 72475
 city: Bitz
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 10
 phone: "+49 7431 9353985"
 opening_hours: "nach Absprache"

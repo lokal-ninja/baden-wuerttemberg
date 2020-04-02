@@ -5,7 +5,7 @@ latitude: 47.952668900000006
 longitude: 9.6364823
 postcode: 88326
 city: Aulendorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 63
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"

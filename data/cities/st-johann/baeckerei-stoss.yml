@@ -5,7 +5,7 @@ latitude: 48.456529700000004
 longitude: 9.3906106
 postcode: 72813
 city: St. Johann
-street: Uracher Straße
+street: "Uracher Straße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00;Sa 06:00-13:00"

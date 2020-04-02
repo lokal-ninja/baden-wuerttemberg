@@ -5,7 +5,7 @@ latitude: 48.517928500000004
 longitude: 9.060434800000001
 postcode: 72072
 city: Tübingen
-street: Wöhrdstraße
+street: "Wöhrdstraße"
 housenumber: 11
 phone: "+49 7071 31737"
 opening_hours: "Mo-Fr 07:00-19:00"

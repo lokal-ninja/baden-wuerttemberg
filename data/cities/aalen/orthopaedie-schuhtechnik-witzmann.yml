@@ -5,7 +5,7 @@ latitude: 48.8359219
 longitude: 10.094597100000001
 postcode: 73430
 city: Aalen
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 27
 phone: "+49 7361 61910"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.865076
 longitude: 9.0326947
 postcode: 71282
 city: Hemmingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.997854000000004
 longitude: 7.8355845
 postcode: 79115
 city: Freiburg im Breisgau
-street: Eschholzstraße
+street: "Eschholzstraße"
 housenumber: 64
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:30; Sa 10:00-18:00"

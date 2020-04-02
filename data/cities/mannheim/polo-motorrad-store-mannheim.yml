@@ -5,7 +5,7 @@ latitude: 49.4477698
 longitude: 8.5066665
 postcode: 68199
 city: Mannheim
-street: Innstraße
+street: "Innstraße"
 housenumber: 18-20
 phone: "+49 621 151550"
 opening_hours: "Mo-Sa 09:00-20:00"

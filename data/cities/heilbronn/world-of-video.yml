@@ -5,7 +5,7 @@ latitude: 49.146137100000004
 longitude: 9.185124
 postcode: 74080
 city: Heilbronn
-street: Heidelberger Straße
+street: "Heidelberger Straße"
 housenumber: 90b
 phone: "+49 7131 41091"
 opening_hours: ""

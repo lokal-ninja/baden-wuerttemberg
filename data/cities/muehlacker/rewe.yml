@@ -5,7 +5,7 @@ latitude: 48.95141640000001
 longitude: 8.841105800000001
 postcode: 75417
 city: Mühlacker
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 71
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

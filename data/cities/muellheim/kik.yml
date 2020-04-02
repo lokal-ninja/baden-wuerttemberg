@@ -5,7 +5,7 @@ latitude: 47.8088914
 longitude: 7.621593700000001
 postcode: 79379
 city: Müllheim
-street: Werderstraße
+street: "Werderstraße"
 housenumber: 6-10
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

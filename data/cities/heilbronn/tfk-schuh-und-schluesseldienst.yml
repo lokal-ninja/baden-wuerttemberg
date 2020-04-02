@@ -5,7 +5,7 @@ latitude: 49.1412063
 longitude: 9.194676900000001
 postcode: 74080
 city: Heilbronn
-street: Großgartacher Straße
+street: "Großgartacher Straße"
 housenumber: 40
 phone: "+49 7131 8737887"
 opening_hours: ""

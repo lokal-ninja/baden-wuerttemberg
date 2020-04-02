@@ -5,7 +5,7 @@ latitude: 48.050357000000005
 longitude: 7.728943500000001
 postcode: 79288
 city: Gottenheim
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

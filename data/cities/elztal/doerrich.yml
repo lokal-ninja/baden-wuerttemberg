@@ -5,7 +5,7 @@ latitude: 49.4255391
 longitude: 9.2322883
 postcode: 74834
 city: Elztal
-street: Georgstraße
+street: "Georgstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

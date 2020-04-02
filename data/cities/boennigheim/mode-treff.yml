@@ -5,7 +5,7 @@ latitude: 49.0416036
 longitude: 9.0942147
 postcode: 74357
 city: Bönnigheim
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 11:30-14:00,18:00-24:00; Sa 17:00-24:00; Su 11:30-14:00,17:00-24:00; Tu off"

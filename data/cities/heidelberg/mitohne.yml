@@ -5,7 +5,7 @@ latitude: 49.4030077
 longitude: 8.665433100000001
 postcode: 69115
 city: Heidelberg
-street: Da-Vinci-Straße
+street: "Da-Vinci-Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Tu-Fr 09:30-12:30, 15:00-19:00; Sa 09:30-14:30; Su off; PH off"

@@ -5,7 +5,7 @@ latitude: 48.596622700000005
 longitude: 9.7217394
 postcode: 73326
 city: Deggingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: "+49 7334 959890"
 opening_hours: ""

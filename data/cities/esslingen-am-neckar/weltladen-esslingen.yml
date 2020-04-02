@@ -5,7 +5,7 @@ latitude: 48.7402467
 longitude: 9.309691800000001
 postcode: 73728
 city: Esslingen am Neckar
-street: Küferstraße
+street: "Küferstraße"
 housenumber: 12
 phone: "+49 711 3510088"
 opening_hours: ""

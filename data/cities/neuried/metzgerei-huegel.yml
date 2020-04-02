@@ -5,7 +5,7 @@ latitude: 48.4497231
 longitude: 7.8158041
 postcode: 77743
 city: Neuried
-street: Dundenheimer Straße
+street: "Dundenheimer Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 08:00-12:30; Tu-Fr 08:00-12:30,15:00-18:00"

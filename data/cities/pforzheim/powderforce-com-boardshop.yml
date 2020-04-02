@@ -5,7 +5,7 @@ latitude: 48.893022
 longitude: 8.6926086
 postcode: 75172
 city: Pforzheim
-street: Grünstraße
+street: "Grünstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 13:00-18:00; Sa 11:00-15:00"

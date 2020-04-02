@@ -5,7 +5,7 @@ latitude: 49.397676000000004
 longitude: 8.647996500000001
 postcode: 69123
 city: Heidelberg
-street: Im Buschgewann
+street: "Im Buschgewann"
 housenumber: 26
 phone: ""
 opening_hours: ""

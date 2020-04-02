@@ -5,7 +5,7 @@ latitude: 48.0693166
 longitude: 7.7990443
 postcode: 79232
 city: March
-street: Benzhauser Straße
+street: "Benzhauser Straße"
 housenumber: 7
 phone: "+4976659478490"
 opening_hours: ""

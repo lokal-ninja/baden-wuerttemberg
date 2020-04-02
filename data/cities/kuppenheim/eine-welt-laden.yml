@@ -5,7 +5,7 @@ latitude: 48.827755800000006
 longitude: 8.2536483
 postcode: 76456
 city: Kuppenheim
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

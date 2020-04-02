@@ -5,7 +5,7 @@ latitude: 49.1447695
 longitude: 9.1206948
 postcode: 74211
 city: Leingarten
-street: Brühlstraße
+street: "Brühlstraße"
 housenumber: 8
 phone: "+49 7131 2771010"
 opening_hours: ""

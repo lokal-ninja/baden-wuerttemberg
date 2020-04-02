@@ -5,7 +5,7 @@ latitude: 48.773132600000004
 longitude: 9.186628200000001
 postcode: 70182
 city: Stuttgart
-street: Alexanderstraße
+street: "Alexanderstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

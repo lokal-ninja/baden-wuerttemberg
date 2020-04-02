@@ -5,7 +5,7 @@ latitude: 49.0464624
 longitude: 8.731130400000001
 postcode: 75015
 city: Bretten
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 20
 phone: "+49 7252 561569"
 opening_hours: ""

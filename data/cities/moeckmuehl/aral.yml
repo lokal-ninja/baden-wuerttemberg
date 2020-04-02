@@ -5,7 +5,7 @@ latitude: 49.322045100000004
 longitude: 9.363936200000001
 postcode: 74219
 city: Möckmühl
-street: Züttlinger Straße
+street: "Züttlinger Straße"
 housenumber: 5/1
 phone: ""
 opening_hours: "Mo-Sa 04:00-22:00; Su 06:00-22:00"

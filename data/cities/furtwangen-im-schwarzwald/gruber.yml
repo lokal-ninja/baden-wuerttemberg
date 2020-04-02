@@ -5,7 +5,7 @@ latitude: 48.050752800000005
 longitude: 8.2077715
 postcode: 78120
 city: Furtwangen im Schwarzwald
-street: Gerwigstraße
+street: "Gerwigstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

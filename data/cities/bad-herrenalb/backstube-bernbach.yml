@@ -5,7 +5,7 @@ latitude: 48.823515400000005
 longitude: 8.416214100000001
 postcode: 76332
 city: Bad Herrenalb
-street: Althofstraße
+street: "Althofstraße"
 housenumber: 22
 phone: "+49 7083 9203211"
 opening_hours: "Mo-Sa 06:30 - 17:30; So 08:00 - 16:00"

@@ -5,7 +5,7 @@ latitude: 48.997239400000005
 longitude: 8.454080900000001
 postcode: 76227
 city: Karlsruhe
-street: Killisfeldstraße
+street: "Killisfeldstraße"
 housenumber: 40b
 phone: ""
 opening_hours: ""

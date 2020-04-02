@@ -5,7 +5,7 @@ latitude: 49.0301826
 longitude: 8.375231900000001
 postcode: 76187
 city: Karlsruhe
-street: Josef-Schofer-Straße
+street: "Josef-Schofer-Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 08:00-22:00; Sa 07:00-22:00; Su,PH off"

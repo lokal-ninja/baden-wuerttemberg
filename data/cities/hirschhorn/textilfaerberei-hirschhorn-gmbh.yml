@@ -5,7 +5,7 @@ latitude: 49.449401200000004
 longitude: 8.8951299
 postcode: 69434
 city: Hirschhorn
-street: Hainbrunner Straße
+street: "Hainbrunner Straße"
 housenumber: 12
 phone: "+49 6272 18982941"
 opening_hours: ""

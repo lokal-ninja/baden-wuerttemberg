@@ -5,7 +5,7 @@ latitude: 48.470094
 longitude: 7.9457477
 postcode: 77652
 city: Offenburg
-street: Lindenplatz
+street: "Lindenplatz"
 housenumber: 3
 phone: "+49 781 9150"
 opening_hours: "Mo-We 09:30-19:00; Th,Fr 09:30-20:00; Sa 09:00-19:00"

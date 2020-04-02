@@ -5,7 +5,7 @@ latitude: 49.3375524
 longitude: 8.800644700000001
 postcode: 69256
 city: Mauer
-street: Kirchenstraße
+street: "Kirchenstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

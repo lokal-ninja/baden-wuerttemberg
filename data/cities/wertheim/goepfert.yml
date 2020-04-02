@@ -5,7 +5,7 @@ latitude: 49.760142900000005
 longitude: 9.5176882
 postcode: 97877
 city: Wertheim
-street: Eichelgasse
+street: "Eichelgasse"
 housenumber: 17
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.7678455
 longitude: 9.248703500000001
 postcode: 70327
 city: Stuttgart
-street: Hedelfinger Straße
+street: "Hedelfinger Straße"
 housenumber: 55
 phone: "+49 711 22012734"
 opening_hours: "Mo-Sa 09:30-19:00; PH off"

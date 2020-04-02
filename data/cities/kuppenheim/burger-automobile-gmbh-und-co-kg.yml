@@ -5,7 +5,7 @@ latitude: 48.827306400000005
 longitude: 8.2591917
 postcode: 76456
 city: Kuppenheim
-street: Murgtalstraße
+street: "Murgtalstraße"
 housenumber: 28
 phone: "+49 7222 94640"
 opening_hours: ""

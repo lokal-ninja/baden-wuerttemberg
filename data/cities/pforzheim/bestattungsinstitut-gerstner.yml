@@ -5,7 +5,7 @@ latitude: 48.8981901
 longitude: 8.6941906
 postcode: 75177
 city: Pforzheim
-street: Hohenzollernstraße
+street: "Hohenzollernstraße"
 housenumber: 119
 phone: ""
 opening_hours: ""

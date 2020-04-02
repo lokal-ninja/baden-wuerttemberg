@@ -5,7 +5,7 @@ latitude: 49.5098975
 longitude: 8.539414
 postcode: 68309
 city: Mannheim
-street: Freiberger Ring
+street: "Freiberger Ring"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"

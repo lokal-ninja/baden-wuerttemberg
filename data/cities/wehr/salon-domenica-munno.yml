@@ -5,7 +5,7 @@ latitude: 47.635017000000005
 longitude: 7.902748000000001
 postcode: 79664
 city: Wehr
-street: Zelgstraße
+street: "Zelgstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

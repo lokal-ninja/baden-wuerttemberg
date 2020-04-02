@@ -5,7 +5,7 @@ latitude: 48.4901264
 longitude: 9.212842100000001
 postcode: 72764
 city: Reutlingen
-street: Kanzleistraße
+street: "Kanzleistraße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:15; Sa 06:45-13:00; Su off"

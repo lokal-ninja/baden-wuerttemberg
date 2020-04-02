@@ -5,7 +5,7 @@ latitude: 49.180436
 longitude: 8.6229979
 postcode: 76698
 city: Ubstadt-Weiher
-street: Hirschstraße
+street: "Hirschstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-We 08:30-12:30, 14:30-19:30; Fr 08:30-12:30, 14:30-18:00"

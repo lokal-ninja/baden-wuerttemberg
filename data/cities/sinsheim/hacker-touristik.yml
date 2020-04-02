@@ -5,7 +5,7 @@ latitude: 49.2360333
 longitude: 8.908079800000001
 postcode: 74889
 city: Sinsheim
-street: Ansbachstraße
+street: "Ansbachstraße"
 housenumber: 33
 phone: "+49 7261 63979"
 opening_hours: "Mo-Fr 09:00-17:00"

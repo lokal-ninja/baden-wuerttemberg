@@ -5,7 +5,7 @@ latitude: 48.8105102
 longitude: 9.3878695
 postcode: 71384
 city: Weinstadt
-street: Cannonstraße
+street: "Cannonstraße"
 housenumber: 2B
 phone: ""
 opening_hours: "Mo-Tu 09:00-18:00; Fr 09:00-19:00; Sa 10:00-14:00; Su, PH off"

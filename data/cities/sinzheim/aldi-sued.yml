@@ -5,7 +5,7 @@ latitude: 48.7732053
 longitude: 8.1728926
 postcode: 76547
 city: Sinzheim
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.999509700000004
 longitude: 8.4638109
 postcode: 76227
 city: Karlsruhe
-street: Ernst-Friedrich-Straße
+street: "Ernst-Friedrich-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.121042700000004
 longitude: 9.7371352
 postcode: 74523
 city: Schwäbisch Hall
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

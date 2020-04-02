@@ -5,7 +5,7 @@ latitude: 48.4930305
 longitude: 9.3999676
 postcode: 72574
 city: Bad Urach
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; PH off"

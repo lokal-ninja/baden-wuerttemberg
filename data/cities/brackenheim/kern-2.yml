@@ -5,7 +5,7 @@ latitude: 49.078766200000004
 longitude: 9.064703
 postcode: 74336
 city: Brackenheim
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:00; Su, PH 07:00-11:00"

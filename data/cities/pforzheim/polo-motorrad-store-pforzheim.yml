@@ -5,7 +5,7 @@ latitude: 48.8993003
 longitude: 8.6722965
 postcode: 75179
 city: Pforzheim
-street: Wilferdinger Straße
+street: "Wilferdinger Straße"
 housenumber: 70
 phone: "+49 7231 414830"
 opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"

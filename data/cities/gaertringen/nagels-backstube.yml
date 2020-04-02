@@ -5,7 +5,7 @@ latitude: 48.6419319
 longitude: 8.899806100000001
 postcode: 71116
 city: Gärtringen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

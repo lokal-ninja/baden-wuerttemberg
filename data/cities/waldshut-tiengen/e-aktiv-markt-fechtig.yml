@@ -5,7 +5,7 @@ latitude: 47.623375
 longitude: 8.2098539
 postcode: 79761
 city: Waldshut-Tiengen
-street: Am Viehmarktplatz
+street: "Am Viehmarktplatz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00"

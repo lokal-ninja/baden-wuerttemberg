@@ -5,7 +5,7 @@ latitude: 48.558067400000006
 longitude: 9.3434808
 postcode: 72664
 city: Kohlberg
-street: Hardtstraße
+street: "Hardtstraße"
 housenumber: 11
 phone: "+49 7025 1360488"
 opening_hours: "Tu 08:00-12:00,13:30-18:00; We 08:00-12:00,15:00-19:30; Th,Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00"

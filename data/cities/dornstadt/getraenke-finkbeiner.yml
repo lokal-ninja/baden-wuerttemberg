@@ -5,7 +5,7 @@ latitude: 48.4606433
 longitude: 9.950540700000001
 postcode: 89160
 city: Dornstadt
-street: Lerchenbergstraße
+street: "Lerchenbergstraße"
 housenumber: 27
 phone: "+497348966086"
 opening_hours: ""

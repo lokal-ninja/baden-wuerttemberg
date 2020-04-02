@@ -5,7 +5,7 @@ latitude: 48.746373600000005
 longitude: 9.2328604
 postcode: 70619
 city: Stuttgart
-street: Bildäckerstraße
+street: "Bildäckerstraße"
 housenumber: 3
 phone: "+49 711 4411017"
 opening_hours: ""

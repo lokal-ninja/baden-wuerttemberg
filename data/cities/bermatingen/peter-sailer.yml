@@ -5,7 +5,7 @@ latitude: 47.7256833
 longitude: 9.3236361
 postcode: 88697
 city: Bermatingen
-street: Mühlbachstraße
+street: "Mühlbachstraße"
 housenumber: 8
 phone: "+49 7544 71967"
 opening_hours: ""

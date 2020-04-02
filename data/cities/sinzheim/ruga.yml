@@ -5,7 +5,7 @@ latitude: 48.7697264
 longitude: 8.169565
 postcode: 
 city: Sinzheim
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

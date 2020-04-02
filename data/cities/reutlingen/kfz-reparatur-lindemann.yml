@@ -5,7 +5,7 @@ latitude: 48.5271551
 longitude: 9.2055103
 postcode: 72768
 city: Reutlingen
-street: Bayernstraße
+street: "Bayernstraße"
 housenumber: 6
 phone: "+49 7121 9307430"
 opening_hours: ""

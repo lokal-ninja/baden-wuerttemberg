@@ -5,7 +5,7 @@ latitude: 49.0090389
 longitude: 8.395719900000001
 postcode: 76133
 city: Karlsruhe
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 31
 phone: "+49 721 181118"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00"

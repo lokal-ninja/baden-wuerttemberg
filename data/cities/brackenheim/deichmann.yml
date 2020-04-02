@@ -5,7 +5,7 @@ latitude: 49.074748400000004
 longitude: 9.063034100000001
 postcode: 74336
 city: Brackenheim
-street: Hermann-Bauer-Straße
+street: "Hermann-Bauer-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; PH closed"

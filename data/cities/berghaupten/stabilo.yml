@@ -5,7 +5,7 @@ latitude: 48.4050996
 longitude: 8.000284800000001
 postcode: 77791
 city: Berghaupten
-street: Obere Gewerbestraße
+street: "Obere Gewerbestraße"
 housenumber: 6
 phone: "+4978039214629"
 opening_hours: ""

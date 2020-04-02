@@ -5,7 +5,7 @@ latitude: 48.6934607
 longitude: 8.139295200000001
 postcode: 77815
 city: Bühl
-street: Schlossstraße
+street: "Schlossstraße"
 housenumber: 24
 phone: "+49 7223 23648"
 opening_hours: ""

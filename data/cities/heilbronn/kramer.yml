@@ -5,7 +5,7 @@ latitude: 49.1423045
 longitude: 9.222133300000001
 postcode: 74072
 city: Heilbronn
-street: Allee
+street: "Allee"
 housenumber: 23
 phone: "+49 7131 68211"
 opening_hours: ""

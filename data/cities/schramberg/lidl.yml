@@ -5,7 +5,7 @@ latitude: 48.232792800000006
 longitude: 8.3804338
 postcode: 78713
 city: Schramberg
-street: Schiltachstraße
+street: "Schiltachstraße"
 housenumber: 60
 phone: ""
 opening_hours: ""

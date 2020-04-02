@@ -5,7 +5,7 @@ latitude: 49.1259096
 longitude: 8.5949752
 postcode: 76646
 city: Bruchsal
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 4 a
 phone: "+49 7251 303703"
 opening_hours: ""

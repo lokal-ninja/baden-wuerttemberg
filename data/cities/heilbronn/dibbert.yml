@@ -5,7 +5,7 @@ latitude: 49.1338445
 longitude: 9.2265157
 postcode: 74074
 city: Heilbronn
-street: Gabelsbergerstraße
+street: "Gabelsbergerstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

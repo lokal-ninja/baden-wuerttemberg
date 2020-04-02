@@ -5,7 +5,7 @@ latitude: 48.7136324
 longitude: 9.412778000000001
 postcode: 
 city: Plochingen
-street: Hermannstraße
+street: "Hermannstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

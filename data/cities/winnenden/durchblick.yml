@@ -5,7 +5,7 @@ latitude: 48.876673200000006
 longitude: 9.3996428
 postcode: 71364
 city: Winnenden
-street: Mühltorstraße
+street: "Mühltorstraße"
 housenumber: 9/1
 phone: "+49 7195 9067442"
 opening_hours: "Tu-Fr 09:30-18:30; Sa 09:00-13:00"

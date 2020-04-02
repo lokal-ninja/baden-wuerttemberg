@@ -5,7 +5,7 @@ latitude: 49.136742000000005
 longitude: 9.2294432
 postcode: 74072
 city: Heilbronn
-street: Oststraße
+street: "Oststraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

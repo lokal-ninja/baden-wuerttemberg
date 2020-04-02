@@ -5,7 +5,7 @@ latitude: 49.4062872
 longitude: 8.6715288
 postcode: 69115
 city: Heidelberg
-street: Alte Eppelheimer Straße
+street: "Alte Eppelheimer Straße"
 housenumber: 86
 phone: "+49 6221.20219"
 opening_hours: ""

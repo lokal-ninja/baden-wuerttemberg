@@ -5,7 +5,7 @@ latitude: 48.955441300000004
 longitude: 9.1468489
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Kirchheimer Straße
+street: "Kirchheimer Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 09:30-19:30"

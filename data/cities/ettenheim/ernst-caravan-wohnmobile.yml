@@ -5,7 +5,7 @@ latitude: 48.274484400000006
 longitude: 7.780010300000001
 postcode: 77955
 city: Ettenheim
-street: Rudolf-Hell-Straße
+street: "Rudolf-Hell-Straße"
 housenumber: 32-44
 phone: "+49 7425 4610"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

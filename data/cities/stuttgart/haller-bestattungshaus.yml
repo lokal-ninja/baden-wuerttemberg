@@ -5,7 +5,7 @@ latitude: 48.8051455
 longitude: 9.226968000000001
 postcode: 70372
 city: Stuttgart
-street: Taubenheimstraße
+street: "Taubenheimstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

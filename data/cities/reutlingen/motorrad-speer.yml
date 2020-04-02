@@ -5,7 +5,7 @@ latitude: 48.5025902
 longitude: 9.169146300000001
 postcode: 72770
 city: Reutlingen
-street: Wannweiler Straße
+street: "Wannweiler Straße"
 housenumber: 65
 phone: ""
 opening_hours: "Mar-Oct 08:00-12:30,13:30-18:00; Nov-Feb 09:00-12:30,13:30-17:00; Sa 09:00-13:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 48.9921085
 longitude: 8.4603725
 postcode: 76227
 city: Karlsruhe
-street: Westmarkstraße
+street: "Westmarkstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:30;Sa 05:30-13:30"

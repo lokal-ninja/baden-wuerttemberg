@@ -5,7 +5,7 @@ latitude: 47.9821116
 longitude: 7.716855400000001
 postcode: 79112
 city: Freiburg im Breisgau
-street: Freiburger Landstraße
+street: "Freiburger Landstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:00"

@@ -5,7 +5,7 @@ latitude: 48.244667400000004
 longitude: 8.2131221
 postcode: 77793
 city: Gutach (Schwarzwaldbahn)
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

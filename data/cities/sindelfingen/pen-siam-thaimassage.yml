@@ -5,7 +5,7 @@ latitude: 48.710275700000004
 longitude: 9.020588
 postcode: 71065
 city: Sindelfingen
-street: Wengertstraße
+street: "Wengertstraße"
 housenumber: 11
 phone: "+49 7031 7891897"
 opening_hours: "Mo-Fr 10:00-19:00; Sa,Su,PH off"

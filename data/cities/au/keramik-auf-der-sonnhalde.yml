@@ -5,7 +5,7 @@ latitude: 47.9523865
 longitude: 7.818947700000001
 postcode: 79280
 city: Au
-street: Oberer Heimbachweg
+street: "Oberer Heimbachweg"
 housenumber: 18
 phone: "+49 176 20309001"
 opening_hours: ""

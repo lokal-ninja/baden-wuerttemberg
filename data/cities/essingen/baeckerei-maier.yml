@@ -5,7 +5,7 @@ latitude: 48.7825435
 longitude: 9.977796300000001
 postcode: 73457
 city: Essingen
-street: Bäckergasse
+street: "Bäckergasse"
 housenumber: 17
 phone: ""
 opening_hours: ""

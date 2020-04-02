@@ -5,7 +5,7 @@ latitude: 48.888026100000005
 longitude: 8.6967877
 postcode: 75173
 city: Pforzheim
-street: Dillsteiner Straße
+street: "Dillsteiner Straße"
 housenumber: 15
 phone: "+49 7231 23685"
 opening_hours: "Mo-Fr 09:30-13:00,14:30-18:30; We 09:30-13:00; Sa 09:30-14:00"

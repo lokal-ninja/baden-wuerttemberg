@@ -5,7 +5,7 @@ latitude: 48.0547052
 longitude: 7.7841297
 postcode: 79232
 city: March
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 59
 phone: ""
 opening_hours: "Tu-Fr 08:00-13:00,15:00-18:00; Sa 07:30-12:30; Mo off"

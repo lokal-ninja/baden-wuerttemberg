@@ -5,7 +5,7 @@ latitude: 48.809051100000005
 longitude: 8.8608017
 postcode: 71296
 city: Heimsheim
-street: Mönsheimer Straße
+street: "Mönsheimer Straße"
 housenumber: 61
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

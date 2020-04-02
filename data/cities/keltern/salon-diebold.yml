@@ -5,7 +5,7 @@ latitude: 48.897305700000004
 longitude: 8.577592000000001
 postcode: 75210
 city: Keltern
-street: Dreisamstraße
+street: "Dreisamstraße"
 housenumber: 3
 phone: "+49 7236 2032"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.479578000000004
 longitude: 7.926311900000001
 postcode: 77656
 city: Offenburg
-street: Im Drachenacker
+street: "Im Drachenacker"
 housenumber: 1
 phone: "+49 781 50700"
 opening_hours: ""

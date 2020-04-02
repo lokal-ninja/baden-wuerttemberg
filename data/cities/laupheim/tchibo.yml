@@ -5,7 +5,7 @@ latitude: 48.229553200000005
 longitude: 9.8829515
 postcode: 88471
 city: Laupheim
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"

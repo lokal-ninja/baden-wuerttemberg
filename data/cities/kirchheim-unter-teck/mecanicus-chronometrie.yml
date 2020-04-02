@@ -5,7 +5,7 @@ latitude: 48.647558100000005
 longitude: 9.4523084
 postcode: 73230
 city: Kirchheim unter Teck
-street: Wellingstraße
+street: "Wellingstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

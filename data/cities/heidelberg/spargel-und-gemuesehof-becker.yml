@@ -5,7 +5,7 @@ latitude: 49.376253000000005
 longitude: 8.6170054
 postcode: 69124
 city: Heidelberg
-street: Kurpfalzhof
+street: "Kurpfalzhof"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 08:00-16:00"

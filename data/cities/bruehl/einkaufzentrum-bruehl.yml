@@ -5,7 +5,7 @@ latitude: 49.4104577
 longitude: 8.5395795
 postcode: 68782
 city: Brühl
-street: Mannheimer Landstraße
+street: "Mannheimer Landstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

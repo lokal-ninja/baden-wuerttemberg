@@ -5,7 +5,7 @@ latitude: 48.7168007
 longitude: 9.229372900000001
 postcode: 73760
 city: Ostfildern
-street: Hohenheimer Straße
+street: "Hohenheimer Straße"
 housenumber: 6
 phone: "+49 711 457442"
 opening_hours: ""

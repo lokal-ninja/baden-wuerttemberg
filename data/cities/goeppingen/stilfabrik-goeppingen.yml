@@ -5,7 +5,7 @@ latitude: 48.7090638
 longitude: 9.641738
 postcode: 73033
 city: Göppingen
-street: Eugenstraße
+street: "Eugenstraße"
 housenumber: 24
 phone: "+49-7161-3071798"
 opening_hours: ""

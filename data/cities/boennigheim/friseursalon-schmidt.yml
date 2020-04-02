@@ -5,7 +5,7 @@ latitude: 49.041350400000006
 longitude: 9.0933597
 postcode: 74357
 city: Bönnigheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 48
 phone: ""
 opening_hours: ""

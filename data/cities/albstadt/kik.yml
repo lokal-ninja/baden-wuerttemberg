@@ -5,7 +5,7 @@ latitude: 48.210719100000006
 longitude: 9.018534800000001
 postcode: 72458
 city: Albstadt
-street: Theodor-Groz-Straße
+street: "Theodor-Groz-Straße"
 housenumber: 76/1
 phone: ""
 opening_hours: ""

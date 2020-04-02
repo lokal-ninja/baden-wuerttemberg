@@ -5,7 +5,7 @@ latitude: 47.652188300000006
 longitude: 9.482538400000001
 postcode: 88045
 city: Friedrichshafen
-street: Romanshorner Platz
+street: "Romanshorner Platz"
 housenumber: 2
 phone: ""
 opening_hours: "8:00-21:00; Su,PH off"

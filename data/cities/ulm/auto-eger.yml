@@ -5,7 +5,7 @@ latitude: 48.4019424
 longitude: 9.9478854
 postcode: 89081
 city: Ulm
-street: Herrlinger Straße
+street: "Herrlinger Straße"
 housenumber: 90
 phone: "+49 731 381014"
 opening_hours: "mo-fr 8:00-11:45, 13:00-18:00"

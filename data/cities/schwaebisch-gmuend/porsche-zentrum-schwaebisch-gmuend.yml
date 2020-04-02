@@ -5,7 +5,7 @@ latitude: 48.791304800000006
 longitude: 9.772420700000001
 postcode: 73529
 city: Schwäbisch Gmünd
-street: Ferdinand-Porsche-Weg
+street: "Ferdinand-Porsche-Weg"
 housenumber: 1
 phone: "+49 7171 77991911"
 opening_hours: ""

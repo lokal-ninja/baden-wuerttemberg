@@ -5,7 +5,7 @@ latitude: 48.9597671
 longitude: 9.1270562
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Schieringerstraße
+street: "Schieringerstraße"
 housenumber: 8
 phone: "+49 7142 773545"
 opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-14:00"

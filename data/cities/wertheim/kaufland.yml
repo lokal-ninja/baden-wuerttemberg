@@ -5,7 +5,7 @@ latitude: 49.7667544
 longitude: 9.508949300000001
 postcode: 97877
 city: Wertheim
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

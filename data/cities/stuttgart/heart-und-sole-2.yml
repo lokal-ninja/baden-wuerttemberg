@@ -5,7 +5,7 @@ latitude: 48.7494032
 longitude: 9.170346400000001
 postcode: 70597
 city: Stuttgart
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

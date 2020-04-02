@@ -5,7 +5,7 @@ latitude: 48.901464000000004
 longitude: 8.2062664
 postcode: 76479
 city: Steinmauern
-street: Eichfeldstraße
+street: "Eichfeldstraße"
 housenumber: 12
 phone: "+49 7222 23622"
 opening_hours: ""

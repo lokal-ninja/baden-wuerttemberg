@@ -5,7 +5,7 @@ latitude: 49.279668900000004
 longitude: 8.7831141
 postcode: 69234
 city: Dielheim
-street: Ortsstraße
+street: "Ortsstraße"
 housenumber: 69
 phone: ""
 opening_hours: "Mo-Sa 09:00-12:00, Mo-Fr 15:00-18:00"

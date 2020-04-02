@@ -5,7 +5,7 @@ latitude: 49.1457934
 longitude: 9.0585974
 postcode: 74193
 city: Schwaigern
-street: Mörikestraße
+street: "Mörikestraße"
 housenumber: 24
 phone: "+49 7138 4013600"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.560438100000006
 longitude: 9.205280700000001
 postcode: 72124
 city: Pliezhausen
-street: Bachenbergstraße
+street: "Bachenbergstraße"
 housenumber: 45
 phone: "+49 72127 70645"
 opening_hours: ""

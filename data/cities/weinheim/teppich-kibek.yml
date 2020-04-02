@@ -5,7 +5,7 @@ latitude: 49.5491795
 longitude: 8.6363836
 postcode: 69469
 city: Weinheim
-street: Bruchsaler Straße
+street: "Bruchsaler Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

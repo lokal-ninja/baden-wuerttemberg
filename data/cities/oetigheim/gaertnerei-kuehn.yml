@@ -5,7 +5,7 @@ latitude: 48.8942519
 longitude: 8.236889600000001
 postcode: 76470
 city: Ötigheim
-street: Morgenstraße
+street: "Morgenstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

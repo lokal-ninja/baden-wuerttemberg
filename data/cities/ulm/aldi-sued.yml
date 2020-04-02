@@ -5,7 +5,7 @@ latitude: 48.351050900000004
 longitude: 9.9794739
 postcode: 89079
 city: Ulm
-street: Wiblinger Ring
+street: "Wiblinger Ring"
 housenumber: 100
 phone: "+49 1803 / 252722"
 opening_hours: "Mo-Sa 08:00-20:00"

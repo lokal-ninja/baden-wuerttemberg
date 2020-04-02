@@ -5,7 +5,7 @@ latitude: 49.2075292
 longitude: 9.5714714
 postcode: 74632
 city: Neuenstein
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

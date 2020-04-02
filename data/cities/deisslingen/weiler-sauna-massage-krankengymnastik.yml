@@ -5,7 +5,7 @@ latitude: 48.1065266
 longitude: 8.6004869
 postcode: 78652
 city: Deißlingen
-street: Schwarzwaldstraße
+street: "Schwarzwaldstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

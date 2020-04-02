@@ -5,7 +5,7 @@ latitude: 48.9472226
 longitude: 9.096725000000001
 postcode: 74321
 city: Bietigheim-Bissingen
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:15; Sa 06:30-12:30; Su 07:30-10:30"

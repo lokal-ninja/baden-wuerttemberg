@@ -5,7 +5,7 @@ latitude: 48.8632745
 longitude: 9.039140900000001
 postcode: 71282
 city: Hemmingen
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo 8:00-18:00, Tu,Fr 8:00-17:00, We,Th 8:00-14:00; PH off"

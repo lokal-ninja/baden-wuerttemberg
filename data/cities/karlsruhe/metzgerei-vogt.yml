@@ -5,7 +5,7 @@ latitude: 48.9850805
 longitude: 8.393832900000001
 postcode: 76199
 city: Karlsruhe
-street: Enzstraße
+street: "Enzstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 08:00-13:00; Mo-Tu 15:00-18:00; Th-Fr 15:00-18:00; Sa 07:30-12:30"

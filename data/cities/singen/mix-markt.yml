@@ -5,7 +5,7 @@ latitude: 47.743054400000005
 longitude: 8.8504834
 postcode: 78224
 city: Singen
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 6
 phone: "+49 7731 8279819"
 opening_hours: "Mo-Sa 09:00-20:00"

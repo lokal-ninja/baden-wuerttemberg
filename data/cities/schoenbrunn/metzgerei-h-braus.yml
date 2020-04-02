@@ -5,7 +5,7 @@ latitude: 49.4114706
 longitude: 8.9255454
 postcode: 69436
 city: Schönbrunn
-street: Steinbruchstraße
+street: "Steinbruchstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

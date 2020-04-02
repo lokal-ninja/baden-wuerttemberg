@@ -5,7 +5,7 @@ latitude: 49.139698700000004
 longitude: 8.564585600000001
 postcode: 76646
 city: Bruchsal
-street: Am Mantel
+street: "Am Mantel"
 housenumber: 4a
 phone: ""
 opening_hours: ""

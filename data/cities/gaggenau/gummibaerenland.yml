@@ -5,7 +5,7 @@ latitude: 48.8047398
 longitude: 8.319446300000001
 postcode: 76571
 city: Gaggenau
-street: Bahnhofspassage
+street: "Bahnhofspassage"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; We,Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 47.669775
 longitude: 9.182011300000001
 postcode: 78467
 city: Konstanz
-street: Theodor-Heuss-Straße
+street: "Theodor-Heuss-Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-We, Fr 08:30-18:00; Th 08:30-20:00; Sa 08:30-13:30"

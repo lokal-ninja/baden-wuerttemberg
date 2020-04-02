@@ -5,7 +5,7 @@ latitude: 48.627394800000005
 longitude: 9.3345792
 postcode: 72622
 city: Nürtingen
-street: Mönchstraße
+street: "Mönchstraße"
 housenumber: 47
 phone: ""
 opening_hours: ""

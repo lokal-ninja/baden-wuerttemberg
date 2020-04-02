@@ -5,7 +5,7 @@ latitude: 48.9903484
 longitude: 9.361700200000001
 postcode: 
 city: Aspach
-street: Kirchberger Straße
+street: "Kirchberger Straße"
 housenumber: 3
 phone: "+497148922232"
 opening_hours: ""

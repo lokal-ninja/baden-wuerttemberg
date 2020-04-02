@@ -5,7 +5,7 @@ latitude: 48.9895573
 longitude: 8.372077800000001
 postcode: 76135
 city: Karlsruhe
-street: Windeckstraße
+street: "Windeckstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

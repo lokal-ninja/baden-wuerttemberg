@@ -5,7 +5,7 @@ latitude: 48.7084576
 longitude: 9.464483300000001
 postcode: 73262
 city: Reichenbach an der Fils
-street: Olgastraße
+street: "Olgastraße"
 housenumber: 18
 phone: "+49(0)7153/5 56 44"
 opening_hours: ""

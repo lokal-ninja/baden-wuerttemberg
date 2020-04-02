@@ -5,7 +5,7 @@ latitude: 48.665004200000006
 longitude: 9.0566891
 postcode: 71101
 city: Schönaich
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 22
 phone: "+49 7031 7568020"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.1453095
 longitude: 9.182247100000001
 postcode: 74080
 city: Heilbronn
-street: Bruchsaler Straße
+street: "Bruchsaler Straße"
 housenumber: 2
 phone: "+49 7131 3904702"
 opening_hours: ""

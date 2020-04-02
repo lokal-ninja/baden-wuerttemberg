@@ -5,7 +5,7 @@ latitude: 48.7039112
 longitude: 8.7617169
 postcode: 
 city: Calw
-street: Leibnizstraße
+street: "Leibnizstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 49.077736300000005
 longitude: 9.1060838
 postcode: 74336
 city: Brackenheim
-street: Turmstraße
+street: "Turmstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

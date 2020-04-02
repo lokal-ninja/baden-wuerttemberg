@@ -5,7 +5,7 @@ latitude: 48.572929900000005
 longitude: 9.2654226
 postcode: 72658
 city: Bempflingen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

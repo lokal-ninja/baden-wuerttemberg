@@ -5,7 +5,7 @@ latitude: 48.41039120000001
 longitude: 9.5068889
 postcode: 72525
 city: Münsingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 104
 phone: ""
 opening_hours: ""

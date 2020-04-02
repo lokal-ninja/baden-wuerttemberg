@@ -5,7 +5,7 @@ latitude: 48.527837600000005
 longitude: 7.850601900000001
 postcode: 77731
 city: Willstätt
-street: Schutterstraße
+street: "Schutterstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

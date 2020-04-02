@@ -5,7 +5,7 @@ latitude: 48.3944635
 longitude: 9.960149600000001
 postcode: 89077
 city: Ulm
-street: Söflinger Straße
+street: "Söflinger Straße"
 housenumber: 223
 phone: "+49 731 3752233"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 49.1445724
 longitude: 8.669205700000001
 postcode: 76703
 city: Kraichtal
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

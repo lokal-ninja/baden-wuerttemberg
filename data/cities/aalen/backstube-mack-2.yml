@@ -5,7 +5,7 @@ latitude: 48.823895300000004
 longitude: 10.2025669
 postcode: 73432
 city: Aalen
-street: Deutschordenstraße
+street: "Deutschordenstraße"
 housenumber: 22
 phone: "+49 7367 5425"
 opening_hours: ""

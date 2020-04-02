@@ -5,7 +5,7 @@ latitude: 48.798271
 longitude: 9.784979400000001
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Lorcher Straße
+street: "Lorcher Straße"
 housenumber: 45
 phone: "+497171928778"
 opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-12:00"

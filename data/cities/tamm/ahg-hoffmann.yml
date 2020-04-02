@@ -5,7 +5,7 @@ latitude: 48.924665700000006
 longitude: 9.151470900000001
 postcode: 71732
 city: Tamm
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.935307800000004
 longitude: 9.0643619
 postcode: 71706
 city: Markgröningen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 15
 phone: ""
 opening_hours: "Tu-Th 07:00-13:00; Fr 07:00-18:00; Sa 07:00-12:00"

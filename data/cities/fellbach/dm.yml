@@ -5,7 +5,7 @@ latitude: 48.813782100000005
 longitude: 9.2712575
 postcode: 70736
 city: Fellbach
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 26
 phone: "+49 711 3003409"
 opening_hours: "Mo-Sa 08:00-20:00"

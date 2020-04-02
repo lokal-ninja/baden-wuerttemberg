@@ -5,7 +5,7 @@ latitude: 48.889679400000006
 longitude: 8.668791500000001
 postcode: 
 city: Pforzheim
-street: Westliche Karl-Friedrich-Straße
+street: "Westliche Karl-Friedrich-Straße"
 housenumber: 372
 phone: "+49 7231 467480"
 opening_hours: ""

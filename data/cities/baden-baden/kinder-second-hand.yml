@@ -5,7 +5,7 @@ latitude: 48.743787000000005
 longitude: 8.2595176
 postcode: 76534
 city: Baden-Baden
-street: Seelachstraße
+street: "Seelachstraße"
 housenumber: 2
 phone: "+49 163 2012602"
 opening_hours: "Mo 09:00-12:00,14:30-16:30; Tu-Fr 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 49.3882423
 longitude: 9.0059468
 postcode: 74867
 city: Neunkirchen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23a
 phone: ""
 opening_hours: ""

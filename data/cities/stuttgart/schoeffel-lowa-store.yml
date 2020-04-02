@@ -5,7 +5,7 @@ latitude: 48.7757926
 longitude: 9.1753613
 postcode: 70173
 city: Stuttgart
-street: Gymnasiumstraße
+street: "Gymnasiumstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00; PH off"

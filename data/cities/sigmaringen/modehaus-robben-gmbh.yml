@@ -5,7 +5,7 @@ latitude: 48.086321600000005
 longitude: 9.215967800000001
 postcode: 72488
 city: Sigmaringen
-street: Schwabstraße
+street: "Schwabstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

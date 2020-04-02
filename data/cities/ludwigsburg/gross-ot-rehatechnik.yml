@@ -5,7 +5,7 @@ latitude: 48.9037577
 longitude: 9.166789900000001
 postcode: 71634
 city: Ludwigsburg
-street: Teinacher Straße
+street: "Teinacher Straße"
 housenumber: 56
 phone: "+49 7141 232110"
 opening_hours: ""

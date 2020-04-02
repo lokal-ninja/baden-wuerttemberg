@@ -5,7 +5,7 @@ latitude: 48.498019600000006
 longitude: 7.921817300000001
 postcode: 77656
 city: Offenburg
-street: Hubertusstraße
+street: "Hubertusstraße"
 housenumber: 13
 phone: "+49 781 56840"
 opening_hours: "Tu,Fr 08:00-18:00; Sa 08:00-13:00"

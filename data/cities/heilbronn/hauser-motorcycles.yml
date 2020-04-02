@@ -5,7 +5,7 @@ latitude: 49.1475285
 longitude: 9.194739400000001
 postcode: 74080
 city: Heilbronn
-street: Landturmstraße
+street: "Landturmstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

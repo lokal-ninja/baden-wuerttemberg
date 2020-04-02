@@ -5,7 +5,7 @@ latitude: 49.0089223
 longitude: 8.373800600000001
 postcode: 76185
 city: Karlsruhe
-street: Yorckstraße
+street: "Yorckstraße"
 housenumber: 63
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.3032874
 longitude: 8.5053585
 postcode: 68804
 city: Altlußheim
-street: Anne-Frank-Straße
+street: "Anne-Frank-Straße"
 housenumber: 21
 phone: "+49 6205 38462"
 opening_hours: ""

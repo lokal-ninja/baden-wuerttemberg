@@ -5,7 +5,7 @@ latitude: 49.220040600000004
 longitude: 9.2155842
 postcode: 74177
 city: Bad Friedrichshall
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 23/1
 phone: ""
 opening_hours: ""

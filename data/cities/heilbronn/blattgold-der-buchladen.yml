@@ -5,7 +5,7 @@ latitude: 49.1327621
 longitude: 9.1920331
 postcode: 74080
 city: Heilbronn
-street: Stedinger Straße
+street: "Stedinger Straße"
 housenumber: 57
 phone: "+49 7131 1422 101"
 opening_hours: ""

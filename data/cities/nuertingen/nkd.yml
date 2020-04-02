@@ -5,7 +5,7 @@ latitude: 48.626334500000006
 longitude: 9.3415692
 postcode: 72622
 city: Nürtingen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 61
 phone: ""
 opening_hours: ""

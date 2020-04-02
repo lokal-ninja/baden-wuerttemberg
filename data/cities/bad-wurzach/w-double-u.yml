@@ -5,7 +5,7 @@ latitude: 47.9084111
 longitude: 9.896959800000001
 postcode: 88410
 city: Bad Wurzach
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

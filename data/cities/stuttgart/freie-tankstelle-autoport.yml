@@ -5,7 +5,7 @@ latitude: 48.761284
 longitude: 9.2669682
 postcode: 70329
 city: Stuttgart
-street: Hafenbahnstraße
+street: "Hafenbahnstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa-Su 09:00-14:00"

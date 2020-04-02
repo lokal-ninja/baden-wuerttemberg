@@ -5,7 +5,7 @@ latitude: 48.7310657
 longitude: 9.1089436
 postcode: 70563
 city: Stuttgart
-street: Schwabenplatz
+street: "Schwabenplatz"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

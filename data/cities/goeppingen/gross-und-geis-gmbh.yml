@@ -5,7 +5,7 @@ latitude: 48.701978700000005
 longitude: 9.672412000000001
 postcode: 73033
 city: Göppingen
-street: Großeislinger Straße
+street: "Großeislinger Straße"
 housenumber: 56
 phone: "+49 7161 965996-0"
 opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-13:00"

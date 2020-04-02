@@ -5,7 +5,7 @@ latitude: 48.507666300000004
 longitude: 9.203592
 postcode: 72760
 city: Reutlingen
-street: Gustav-Groß-Straße
+street: "Gustav-Groß-Straße"
 housenumber: 4
 phone: "+49 7121371544"
 opening_hours: ""

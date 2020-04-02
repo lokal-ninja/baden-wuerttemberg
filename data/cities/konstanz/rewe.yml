@@ -5,7 +5,7 @@ latitude: 47.672935700000004
 longitude: 9.1690321
 postcode: 78467
 city: Konstanz
-street: Schneckenburgstraße
+street: "Schneckenburgstraße"
 housenumber: 3
 phone: "+49 7531 997564"
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 48.5464634
 longitude: 9.0570331
 postcode: 72076
 city: Tübingen
-street: Vogelbeerweg
+street: "Vogelbeerweg"
 housenumber: 4
 phone: "+49 7071 565550"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00, Su,PH off"

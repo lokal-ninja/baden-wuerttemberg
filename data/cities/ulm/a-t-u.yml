@@ -5,7 +5,7 @@ latitude: 48.4002063
 longitude: 9.9563424
 postcode: 89081
 city: Ulm
-street: Jägerstraße
+street: "Jägerstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-16:00"

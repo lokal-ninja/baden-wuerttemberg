@@ -5,7 +5,7 @@ latitude: 48.6117293
 longitude: 9.349652800000001
 postcode: 72622
 city: Nürtingen
-street: Roßbergstraße
+street: "Roßbergstraße"
 housenumber: 108
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-12:30"

@@ -5,7 +5,7 @@ latitude: 49.087470100000004
 longitude: 9.0770035
 postcode: 74336
 city: Brackenheim
-street: Weststraße
+street: "Weststraße"
 housenumber: 10
 phone: "+49 7135 9602-07"
 opening_hours: ""

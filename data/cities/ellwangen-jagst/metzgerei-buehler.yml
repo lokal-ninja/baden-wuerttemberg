@@ -5,7 +5,7 @@ latitude: 48.9417259
 longitude: 10.2147935
 postcode: 73479
 city: Ellwangen (Jagst)
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: ""
 opening_hours: "We-Tu 07:30-18:00, Th-Fr 07:30-18:00, Sa 07:00-12:00"

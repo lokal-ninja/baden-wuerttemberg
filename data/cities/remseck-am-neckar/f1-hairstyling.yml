@@ -5,7 +5,7 @@ latitude: 48.864762500000005
 longitude: 9.251596000000001
 postcode: 71686
 city: Remseck am Neckar
-street: Kaltenthalstraße
+street: "Kaltenthalstraße"
 housenumber: 1
 phone: "+49 7146 91278"
 opening_hours: ""

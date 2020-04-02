@@ -5,7 +5,7 @@ latitude: 49.312182400000005
 longitude: 10.0927257
 postcode: 74572
 city: Blaufelden
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

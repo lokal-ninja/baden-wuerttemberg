@@ -5,7 +5,7 @@ latitude: 48.888210900000004
 longitude: 10.0991987
 postcode: 73460
 city: Hüttlingen
-street: Kocherstraße
+street: "Kocherstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

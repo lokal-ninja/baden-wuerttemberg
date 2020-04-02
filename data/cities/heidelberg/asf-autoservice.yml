@@ -5,7 +5,7 @@ latitude: 49.366985
 longitude: 8.679928700000001
 postcode: 
 city: Heidelberg
-street: Englerstraße
+street: "Englerstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

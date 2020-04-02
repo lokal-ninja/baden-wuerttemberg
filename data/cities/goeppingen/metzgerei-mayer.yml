@@ -5,7 +5,7 @@ latitude: 48.686547600000004
 longitude: 9.688825300000001
 postcode: 73037
 city: Göppingen
-street: Eislinger Straße
+street: "Eislinger Straße"
 housenumber: 15/1
 phone: "+49 7161 811606"
 opening_hours: "Mo 07:30-13:00; Tu-Fr 07:30-13:00,14:30-18:00; Sa 07:00-12:30"

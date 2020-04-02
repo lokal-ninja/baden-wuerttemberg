@@ -5,7 +5,7 @@ latitude: 48.153886500000006
 longitude: 9.4761062
 postcode: 88499
 city: Riedlingen
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"

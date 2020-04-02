@@ -5,7 +5,7 @@ latitude: 49.4861359
 longitude: 8.532166700000001
 postcode: 68259
 city: Mannheim
-street: Neckarstraße
+street: "Neckarstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Th-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-13:00"

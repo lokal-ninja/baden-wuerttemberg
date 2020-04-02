@@ -5,7 +5,7 @@ latitude: 49.542090900000005
 longitude: 8.449168400000001
 postcode: 68307
 city: Mannheim
-street: Sandhofer Straße
+street: "Sandhofer Straße"
 housenumber: 262
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

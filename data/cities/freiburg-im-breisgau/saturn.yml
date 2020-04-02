@@ -5,7 +5,7 @@ latitude: 47.9972882
 longitude: 7.8509947
 postcode: 79098
 city: Freiburg im Breisgau
-street: Schiffstraße
+street: "Schiffstraße"
 housenumber: 5-9
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00"

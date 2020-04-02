@@ -5,7 +5,7 @@ latitude: 48.145487
 longitude: 8.624225000000001
 postcode: 78628
 city: Rottweil
-street: Wacholderstraße
+street: "Wacholderstraße"
 housenumber: 9
 phone: "+49 741 21988"
 opening_hours: ""

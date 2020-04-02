@@ -5,7 +5,7 @@ latitude: 49.582931800000004
 longitude: 9.3678875
 postcode: 74731
 city: Walldürn
-street: Obere Vorstadtstraße
+street: "Obere Vorstadtstraße"
 housenumber: 10
 phone: "+49 6282 928467"
 opening_hours: ""

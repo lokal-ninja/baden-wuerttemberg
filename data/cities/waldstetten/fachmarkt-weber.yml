@@ -5,7 +5,7 @@ latitude: 48.727476700000004
 longitude: 9.809121900000001
 postcode: 73550
 city: Waldstetten
-street: Uhlandstraße
+street: "Uhlandstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

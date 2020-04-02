@@ -5,7 +5,7 @@ latitude: 49.1220943
 longitude: 8.724014200000001
 postcode: 
 city: Kraichtal
-street: Eppinger Straße
+street: "Eppinger Straße"
 housenumber: 49
 phone: ""
 opening_hours: ""

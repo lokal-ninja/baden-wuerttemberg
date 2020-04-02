@@ -5,7 +5,7 @@ latitude: 48.7131764
 longitude: 8.7404223
 postcode: 75365
 city: Calw
-street: Badstraße
+street: "Badstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

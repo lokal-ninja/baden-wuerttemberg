@@ -5,7 +5,7 @@ latitude: 48.3705785
 longitude: 9.730895100000001
 postcode: 89601
 city: Schelklingen
-street: Ehinger Straße
+street: "Ehinger Straße"
 housenumber: 18/5
 phone: "+49 7394 916641"
 opening_hours: "Mo-Sa 07:00-22:00"

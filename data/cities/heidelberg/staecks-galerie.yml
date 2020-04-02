@@ -5,7 +5,7 @@ latitude: 49.4112662
 longitude: 8.7089961
 postcode: 69117
 city: Heidelberg
-street: Ingrimstraße
+street: "Ingrimstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

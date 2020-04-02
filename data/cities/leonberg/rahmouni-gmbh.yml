@@ -5,7 +5,7 @@ latitude: 48.793643100000004
 longitude: 9.0052892
 postcode: 71229
 city: Leonberg
-street: Poststraße
+street: "Poststraße"
 housenumber: 36
 phone: "+49 7152 3312160"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.334541200000004
 longitude: 8.0290506
 postcode: 77781
 city: Biberach (Baden)
-street: Kinzigstraße
+street: "Kinzigstraße"
 housenumber: 2
 phone: "+49 7835 6308-0"
 opening_hours: ""

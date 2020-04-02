@@ -5,7 +5,7 @@ latitude: 47.669521100000004
 longitude: 9.515298900000001
 postcode: 88046
 city: Friedrichshafen
-street: Flughafen
+street: "Flughafen"
 housenumber: 29
 phone: "+49 7541 284 270"
 opening_hours: "Mo-Fr 12:00-18:00; Sa 10:00-14:00; Su,PH off"

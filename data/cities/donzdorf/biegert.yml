@@ -5,7 +5,7 @@ latitude: 48.6853208
 longitude: 9.8115787
 postcode: 73072
 city: Donzdorf
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 10
 phone: "+49 7162 9 48 36 95"
 opening_hours: ""

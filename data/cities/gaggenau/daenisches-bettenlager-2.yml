@@ -5,7 +5,7 @@ latitude: 48.822268300000005
 longitude: 8.296279100000001
 postcode: 
 city: Gaggenau
-street: Murgtalstraße
+street: "Murgtalstraße"
 housenumber: 2a
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"

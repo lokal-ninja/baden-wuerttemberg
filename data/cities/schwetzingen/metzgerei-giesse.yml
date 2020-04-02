@@ -5,7 +5,7 @@ latitude: 49.385083
 longitude: 8.579473400000001
 postcode: 
 city: Schwetzingen
-street: Kurfürstenstraße
+street: "Kurfürstenstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

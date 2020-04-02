@@ -5,7 +5,7 @@ latitude: 49.428215900000005
 longitude: 9.4226916
 postcode: 74706
 city: Osterburken
-street: Professor-Schumacher-Straße
+street: "Professor-Schumacher-Straße"
 housenumber: 2/4
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 48.8823146
 longitude: 8.240324300000001
 postcode: 76470
 city: Ötigheim
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 2
 phone: "+49 7222 23218"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 8:00-12:00"

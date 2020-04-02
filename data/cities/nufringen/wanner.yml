@@ -5,7 +5,7 @@ latitude: 48.622960500000005
 longitude: 8.8918397
 postcode: 71154
 city: Nufringen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 08:00-11:00"

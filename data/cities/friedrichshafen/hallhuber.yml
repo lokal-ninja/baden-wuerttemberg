@@ -5,7 +5,7 @@ latitude: 47.6518755
 longitude: 9.4788388
 postcode: 88045
 city: Friedrichshafen
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 81
 phone: "+49 7541 3748875"
 opening_hours: "09:30-18:30; Sa 09:30-17:00; Su,PH off"

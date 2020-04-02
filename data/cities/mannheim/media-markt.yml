@@ -5,7 +5,7 @@ latitude: 49.5585023
 longitude: 8.443799400000001
 postcode: 68307
 city: Mannheim
-street: Frankenthaler Straße
+street: "Frankenthaler Straße"
 housenumber: 129
 phone: ""
 opening_hours: ""

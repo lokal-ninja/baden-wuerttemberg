@@ -5,7 +5,7 @@ latitude: 49.0413403
 longitude: 8.691525200000001
 postcode: 75015
 city: Bretten
-street: Diedelsheimer Höhe
+street: "Diedelsheimer Höhe"
 housenumber: 10
 phone: "+49 7252 53 64 41"
 opening_hours: "Mo-Th 07:00-20:00; Fr 07:00-22:00; Sa 07:00-20:00"

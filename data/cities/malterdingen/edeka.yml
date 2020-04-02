@@ -5,7 +5,7 @@ latitude: 48.158802200000004
 longitude: 7.781970500000001
 postcode: 79364
 city: Malterdingen
-street: Hecklinger Straße
+street: "Hecklinger Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

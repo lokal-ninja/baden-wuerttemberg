@@ -5,7 +5,7 @@ latitude: 48.876256700000006
 longitude: 8.540984700000001
 postcode: 75334
 city: Straubenhardt
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 72
 phone: "+49 7082 3500"
 opening_hours: ""

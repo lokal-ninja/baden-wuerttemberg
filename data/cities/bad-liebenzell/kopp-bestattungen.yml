@@ -5,7 +5,7 @@ latitude: 48.7737526
 longitude: 8.7265342
 postcode: 75378
 city: Bad Liebenzell
-street: Finkenbergweg
+street: "Finkenbergweg"
 housenumber: 15
 phone: "+49 7052 2238"
 opening_hours: "24/7"

@@ -5,7 +5,7 @@ latitude: 48.876732200000006
 longitude: 9.3975753
 postcode: 71364
 city: Winnenden
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 27
 phone: "+49 7195 174001"
 opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00; Sa 08:30-13:00"

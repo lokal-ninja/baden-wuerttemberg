@@ -5,7 +5,7 @@ latitude: 48.2715149
 longitude: 8.848893700000001
 postcode: 72336
 city: Balingen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.768708200000006
 longitude: 9.1442954
 postcode: 70197
 city: Stuttgart
-street: Am Stellwerk
+street: "Am Stellwerk"
 housenumber: 5
 phone: "+49 711 26345970"
 opening_hours: "Mo-Fr 07:00-17:00; Sa,Su,PH off"

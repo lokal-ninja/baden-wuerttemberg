@@ -5,7 +5,7 @@ latitude: 48.124770100000006
 longitude: 7.833377700000001
 postcode: 79312
 city: Emmendingen
-street: Am Elzdamm
+street: "Am Elzdamm"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"

@@ -5,7 +5,7 @@ latitude: 48.7742706
 longitude: 8.7292935
 postcode: 75378
 city: Bad Liebenzell
-street: Baumstraße
+street: "Baumstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

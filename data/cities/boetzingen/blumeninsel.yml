@@ -5,7 +5,7 @@ latitude: 48.0723611
 longitude: 7.7203552
 postcode: 
 city: Bötzingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

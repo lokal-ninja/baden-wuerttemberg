@@ -5,7 +5,7 @@ latitude: 48.781423600000004
 longitude: 8.7317956
 postcode: 75378
 city: Bad Liebenzell
-street: Pforzheimer Straße
+street: "Pforzheimer Straße"
 housenumber: 50
 phone: "+49 7052 932976"
 opening_hours: "Mo-Fr 06:00-20:00, Sa 06:30-20:00"

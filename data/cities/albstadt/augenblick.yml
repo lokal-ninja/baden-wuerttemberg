@@ -5,7 +5,7 @@ latitude: 48.213916600000005
 longitude: 9.0291908
 postcode: 72458
 city: Albstadt
-street: Schmiechastraße
+street: "Schmiechastraße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:30-12:30"

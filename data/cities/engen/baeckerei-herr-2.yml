@@ -5,7 +5,7 @@ latitude: 47.861671
 longitude: 8.776778
 postcode: 78234
 city: Engen
-street: Richard-Stocker-Straße
+street: "Richard-Stocker-Straße"
 housenumber: 14a
 phone: ""
 opening_hours: ""

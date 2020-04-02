@@ -5,7 +5,7 @@ latitude: 48.520034900000006
 longitude: 9.0533553
 postcode: 72070
 city: Tübingen
-street: Wienergäßle
+street: "Wienergäßle"
 housenumber: 2
 phone: "+49 (0) 7071-24063"
 opening_hours: ""

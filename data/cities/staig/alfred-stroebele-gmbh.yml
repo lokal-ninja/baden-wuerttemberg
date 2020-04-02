@@ -5,7 +5,7 @@ latitude: 48.297099100000004
 longitude: 9.992616
 postcode: 89195
 city: Staig
-street: Moosweg
+street: "Moosweg"
 housenumber: 25
 phone: ""
 opening_hours: ""

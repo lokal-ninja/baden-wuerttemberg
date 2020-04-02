@@ -5,7 +5,7 @@ latitude: 49.0665041
 longitude: 9.223877100000001
 postcode: 74360
 city: Ilsfeld
-street: Thomas-Mann-Straße
+street: "Thomas-Mann-Straße"
 housenumber: 31
 phone: ""
 opening_hours: ""

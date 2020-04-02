@@ -5,7 +5,7 @@ latitude: 49.6987182
 longitude: 9.7063231
 postcode: 97956
 city: Werbach
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 24
 phone: "+49 9349 910020"
 opening_hours: ""

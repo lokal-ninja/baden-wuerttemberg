@@ -5,7 +5,7 @@ latitude: 49.1438701
 longitude: 9.2179135
 postcode: 74072
 city: Heilbronn
-street: Gerberstraße
+street: "Gerberstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

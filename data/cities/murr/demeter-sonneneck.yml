@@ -5,7 +5,7 @@ latitude: 48.9586787
 longitude: 9.240630900000001
 postcode: 71711
 city: Murr
-street: Burgweg
+street: "Burgweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

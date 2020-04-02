@@ -5,7 +5,7 @@ latitude: 49.445877100000004
 longitude: 8.5819352
 postcode: 68535
 city: Edingen-Neckarhausen
-street: Neckarhauser Straße
+street: "Neckarhauser Straße"
 housenumber: 42
 phone: "+49 621 474356"
 opening_hours: ""

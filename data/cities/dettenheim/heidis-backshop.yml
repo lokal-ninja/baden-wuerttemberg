@@ -5,7 +5,7 @@ latitude: 49.164252600000005
 longitude: 8.420705700000001
 postcode: 76706
 city: Dettenheim
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 18 A
 phone: ""
 opening_hours: ""

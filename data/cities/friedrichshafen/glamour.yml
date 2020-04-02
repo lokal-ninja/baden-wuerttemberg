@@ -5,7 +5,7 @@ latitude: 47.657456100000005
 longitude: 9.4817423
 postcode: 88045
 city: Friedrichshafen
-street: Scheffelstraße
+street: "Scheffelstraße"
 housenumber: 39
 phone: ""
 opening_hours: "10:00-14:30,17:00-19:00; Sa 11:00-19:00; Su,PH off"

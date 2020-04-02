@@ -5,7 +5,7 @@ latitude: 48.540257600000004
 longitude: 9.286808800000001
 postcode: 72555
 city: Metzingen
-street: Schönbeinstraße
+street: "Schönbeinstraße"
 housenumber: 1
 phone: "+49 7123 165546"
 opening_hours: ""

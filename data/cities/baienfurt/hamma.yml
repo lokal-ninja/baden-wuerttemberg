@@ -5,7 +5,7 @@ latitude: 47.826281200000004
 longitude: 9.651042700000001
 postcode: 88255
 city: Baienfurt
-street: Waldseer Straße
+street: "Waldseer Straße"
 housenumber: 5
 phone: "+49 751 5578707"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su,PH 7:30-17:00"

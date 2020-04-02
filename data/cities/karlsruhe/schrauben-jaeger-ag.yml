@@ -5,7 +5,7 @@ latitude: 49.0078023
 longitude: 8.3208324
 postcode: 76189
 city: Karlsruhe
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

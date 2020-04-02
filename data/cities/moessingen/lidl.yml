@@ -5,7 +5,7 @@ latitude: 48.4067937
 longitude: 9.044317600000001
 postcode: 72116
 city: Mössingen
-street: Ofterdinger Straße
+street: "Ofterdinger Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; PH off"

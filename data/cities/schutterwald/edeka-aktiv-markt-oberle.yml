@@ -5,7 +5,7 @@ latitude: 48.4551754
 longitude: 7.8950129
 postcode: 77746
 city: Schutterwald
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 3
 phone: "+49 781 9903210"
 opening_hours: "Mo-Sa 08:00-21:00"

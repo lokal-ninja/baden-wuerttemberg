@@ -5,7 +5,7 @@ latitude: 47.652857000000004
 longitude: 9.4810672
 postcode: 88046
 city: Friedrichshafen
-street: Eckenerstraße
+street: "Eckenerstraße"
 housenumber: 4
 phone: ""
 opening_hours: "nur nach Vereinbarung"

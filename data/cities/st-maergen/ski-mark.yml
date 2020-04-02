@@ -5,7 +5,7 @@ latitude: 48.0087095
 longitude: 8.0958997
 postcode: 79274
 city: St. Märgen
-street: Feldbergstraße
+street: "Feldbergstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Su 09:00-17:00"

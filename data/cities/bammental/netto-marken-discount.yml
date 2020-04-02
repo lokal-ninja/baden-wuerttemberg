@@ -5,7 +5,7 @@ latitude: 49.359016600000004
 longitude: 8.7839518
 postcode: 69245
 city: Bammental
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.132272900000004
 longitude: 10.0619358
 postcode: 74564
 city: Crailsheim
-street: Gaildorfer Straße
+street: "Gaildorfer Straße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,13:00-17:30"

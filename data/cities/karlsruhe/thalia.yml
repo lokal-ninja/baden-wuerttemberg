@@ -5,7 +5,7 @@ latitude: 49.006908700000004
 longitude: 8.402356000000001
 postcode: 76133
 city: Karlsruhe
-street: Ettlinger-Tor-Platz
+street: "Ettlinger-Tor-Platz"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-We,Fr 10:00-20:00; Th 10:00-22:00; Sa 09:00-20:00"

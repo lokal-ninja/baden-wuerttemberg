@@ -5,7 +5,7 @@ latitude: 47.684580800000006
 longitude: 9.152207500000001
 postcode: 78467
 city: Konstanz
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00,Sa 08:00-16:00"

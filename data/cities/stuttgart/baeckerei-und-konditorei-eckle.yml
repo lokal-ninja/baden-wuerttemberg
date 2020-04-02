@@ -5,7 +5,7 @@ latitude: 48.775177500000005
 longitude: 9.145493400000001
 postcode: 70193
 city: Stuttgart
-street: Herderstraße
+street: "Herderstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

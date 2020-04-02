@@ -5,7 +5,7 @@ latitude: 48.408354200000005
 longitude: 8.0094385
 postcode: 77723
 city: Gengenbach
-street: Leutkirchstraße
+street: "Leutkirchstraße"
 housenumber: 44
 phone: "+49 7803 9263550"
 opening_hours: ""

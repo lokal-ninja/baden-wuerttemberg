@@ -5,7 +5,7 @@ latitude: 48.6958946
 longitude: 8.1515495
 postcode: 77815
 city: Bühl
-street: Bühlertalstraße
+street: "Bühlertalstraße"
 housenumber: 102
 phone: ""
 opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.5210816
 longitude: 9.0440024
 postcode: 72070
 city: Tübingen
-street: Schleifmühleweg
+street: "Schleifmühleweg"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

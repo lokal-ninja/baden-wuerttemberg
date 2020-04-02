@@ -5,7 +5,7 @@ latitude: 48.3829847
 longitude: 8.7719854
 postcode: 72401
 city: Haigerloch
-street: Birkenwaldstraße
+street: "Birkenwaldstraße"
 housenumber: 6
 phone: "+49 7474 7275"
 opening_hours: "Mo,We,Fr 09:00-18:30"

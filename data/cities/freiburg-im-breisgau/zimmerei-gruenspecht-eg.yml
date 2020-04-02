@@ -5,7 +5,7 @@ latitude: 48.0399898
 longitude: 7.8171594
 postcode: 79108
 city: Freiburg im Breisgau
-street: Hanferstraße
+street: "Hanferstraße"
 housenumber: 11
 phone: "+49 761 155051-0"
 opening_hours: ""

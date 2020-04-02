@@ -5,7 +5,7 @@ latitude: 48.7138427
 longitude: 8.7399666
 postcode: 75365
 city: Calw
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-13:00"

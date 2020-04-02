@@ -5,7 +5,7 @@ latitude: 48.6926403
 longitude: 9.1457078
 postcode: 70771
 city: Leinfelden-Echterdingen
-street: Markomannenstraße
+street: "Markomannenstraße"
 housenumber: 11
 phone: "+49 711 99752786"
 opening_hours: "Mo-Su 10:00-21:00"

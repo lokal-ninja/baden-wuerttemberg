@@ -5,7 +5,7 @@ latitude: 48.870103300000004
 longitude: 8.669784100000001
 postcode: 75180
 city: Pforzheim
-street: Carl-Schurz-Straße
+street: "Carl-Schurz-Straße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

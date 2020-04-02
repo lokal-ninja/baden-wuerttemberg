@@ -5,7 +5,7 @@ latitude: 48.6156237
 longitude: 10.227435700000001
 postcode: 
 city: Giengen an der Brenz
-street: Esslinger Straße
+street: "Esslinger Straße"
 housenumber: 47
 phone: ""
 opening_hours: "Mo-Sa 06:30-22:00"

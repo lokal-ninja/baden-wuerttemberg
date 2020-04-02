@@ -5,7 +5,7 @@ latitude: 48.409452900000005
 longitude: 8.885759700000001
 postcode: 72145
 city: Hirrlingen
-street: Hechinger Straße
+street: "Hechinger Straße"
 housenumber: 5
 phone: "+49 170 2123671"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.0865816
 longitude: 8.5501702
 postcode: 76646
 city: Bruchsal
-street: Büchenauer Straße
+street: "Büchenauer Straße"
 housenumber: 30
 phone: "+497257903610"
 opening_hours: ""

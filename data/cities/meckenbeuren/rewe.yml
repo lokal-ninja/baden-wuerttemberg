@@ -5,7 +5,7 @@ latitude: 47.6964941
 longitude: 9.5615436
 postcode: 88074
 city: Meckenbeuren
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 48
 phone: "+49 7542 9796091"
 opening_hours: "Mo-Sa 06:30-22:00"

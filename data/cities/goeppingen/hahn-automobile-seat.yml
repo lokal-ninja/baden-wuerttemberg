@@ -5,7 +5,7 @@ latitude: 48.6947667
 longitude: 9.6786522
 postcode: 73037
 city: Göppingen
-street: Heilbronner Straße
+street: "Heilbronner Straße"
 housenumber: 2
 phone: "+49 7161 6526-10"
 opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-13:00"

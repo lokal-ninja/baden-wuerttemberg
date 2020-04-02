@@ -5,7 +5,7 @@ latitude: 48.773783200000004
 longitude: 8.3440587
 postcode: 76593
 city: Gernsbach
-street: Hillaustraße
+street: "Hillaustraße"
 housenumber: 4
 phone: "+49 800 4353361"
 opening_hours: "Mo-Sa 07:00-21:00"

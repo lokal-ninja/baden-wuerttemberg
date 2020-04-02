@@ -5,7 +5,7 @@ latitude: 48.8055924
 longitude: 9.386358300000001
 postcode: 71384
 city: Weinstadt
-street: Bundschuhweg
+street: "Bundschuhweg"
 housenumber: 3
 phone: "+49 7151 64040"
 opening_hours: "Nach Vereinbarung"

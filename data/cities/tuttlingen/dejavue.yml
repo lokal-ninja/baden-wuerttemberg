@@ -5,7 +5,7 @@ latitude: 47.9827883
 longitude: 8.8156601
 postcode: 78532
 city: Tuttlingen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

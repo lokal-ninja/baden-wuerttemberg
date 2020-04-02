@@ -5,7 +5,7 @@ latitude: 49.4490423
 longitude: 8.488634000000001
 postcode: 68199
 city: Mannheim
-street: Wilhelm-Wundt-Straße
+street: "Wilhelm-Wundt-Straße"
 housenumber: 61
 phone: "+49 621 853426"
 opening_hours: ""

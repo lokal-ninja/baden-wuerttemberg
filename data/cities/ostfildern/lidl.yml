@@ -5,7 +5,7 @@ latitude: 48.7204543
 longitude: 9.2711795
 postcode: 73760
 city: Ostfildern
-street: Edith-Stein-Straße
+street: "Edith-Stein-Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; PH off"

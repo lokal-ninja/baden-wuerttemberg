@@ -5,7 +5,7 @@ latitude: 48.585616800000004
 longitude: 9.227187500000001
 postcode: 72654
 city: Neckartenzlingen
-street: Ulrich-Gminder-Straße
+street: "Ulrich-Gminder-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.847039900000006
 longitude: 8.5871749
 postcode: 75305
 city: Neuenbürg
-street: Alte Pforzheimer Straße
+street: "Alte Pforzheimer Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

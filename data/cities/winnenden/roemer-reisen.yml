@@ -5,7 +5,7 @@ latitude: 48.8761675
 longitude: 9.398082
 postcode: 71364
 city: Winnenden
-street: Wagnerstraße
+street: "Wagnerstraße"
 housenumber: 4
 phone: "+49 71 95 940137"
 opening_hours: ""

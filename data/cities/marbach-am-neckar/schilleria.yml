@@ -5,7 +5,7 @@ latitude: 48.940181300000006
 longitude: 9.2575468
 postcode: 71672
 city: Marbach am Neckar
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

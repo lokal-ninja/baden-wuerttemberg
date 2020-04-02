@@ -5,7 +5,7 @@ latitude: 48.6271202
 longitude: 8.0738111
 postcode: 77855
 city: Achern
-street: Martinstraße
+street: "Martinstraße"
 housenumber: 7
 phone: "+49 7841 21200"
 opening_hours: ""

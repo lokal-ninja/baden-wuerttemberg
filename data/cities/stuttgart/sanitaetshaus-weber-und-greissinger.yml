@@ -5,7 +5,7 @@ latitude: 48.7774002
 longitude: 9.1650586
 postcode: 70176
 city: Stuttgart
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 68
 phone: "+49 7 11/61 70 36"
 opening_hours: "Mo-Fr 08:30-18:00; Th 08:30-19:00; Sa 10:00-13:00; PH off"

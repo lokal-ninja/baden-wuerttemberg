@@ -5,7 +5,7 @@ latitude: 48.652449700000005
 longitude: 9.2867548
 postcode: 72649
 city: Wolfschlugen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su 08:30-17:00"

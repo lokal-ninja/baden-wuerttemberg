@@ -5,7 +5,7 @@ latitude: 48.3432174
 longitude: 7.850423
 postcode: 77933
 city: Lahr/Schwarzwald
-street: Weinbergstraße
+street: "Weinbergstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 17:00-19:00; Sa 10:00-14:00; Su,PH off"

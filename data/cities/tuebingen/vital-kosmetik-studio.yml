@@ -5,7 +5,7 @@ latitude: 48.510421900000004
 longitude: 9.061332100000001
 postcode: 72072
 city: Tübingen
-street: Gölzstraße
+street: "Gölzstraße"
 housenumber: 16
 phone: "+49 7071 688429"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.0053228
 longitude: 8.8596134
 postcode: 78532
 city: Tuttlingen
-street: Mühlheimer Straße
+street: "Mühlheimer Straße"
 housenumber: 38
 phone: "+49 7461 72508"
 opening_hours: ""

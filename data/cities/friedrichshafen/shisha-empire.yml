@@ -5,7 +5,7 @@ latitude: 47.651164400000006
 longitude: 9.4824023
 postcode: 88045
 city: Friedrichshafen
-street: Buchhornplatz
+street: "Buchhornplatz"
 housenumber: 6-8
 phone: "+49 7541 9556058"
 opening_hours: "13:00-19:00; Mo,Su,PH off"

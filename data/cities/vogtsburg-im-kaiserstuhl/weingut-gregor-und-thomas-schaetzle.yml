@@ -5,7 +5,7 @@ latitude: 48.100047800000006
 longitude: 7.6719552
 postcode: 79235
 city: Vogtsburg im Kaiserstuhl
-street: Heinrich-Kling-Straße
+street: "Heinrich-Kling-Straße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-16:00"

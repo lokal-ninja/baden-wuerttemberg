@@ -5,7 +5,7 @@ latitude: 49.341588900000005
 longitude: 9.1046239
 postcode: 74821
 city: Mosbach
-street: Martin-Luther-Straße
+street: "Martin-Luther-Straße"
 housenumber: 4
 phone: "+49 6261 7240"
 opening_hours: ""

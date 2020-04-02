@@ -5,7 +5,7 @@ latitude: 48.5946081
 longitude: 8.8702752
 postcode: 71083
 city: Herrenberg
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30, Sa 08:30-13:00"

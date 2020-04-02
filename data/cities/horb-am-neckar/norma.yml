@@ -5,7 +5,7 @@ latitude: 48.458647400000004
 longitude: 8.6989111
 postcode: 72160
 city: Horb am Neckar
-street: Rauher Grund
+street: "Rauher Grund"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

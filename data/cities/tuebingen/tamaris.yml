@@ -5,7 +5,7 @@ latitude: 48.520178200000004
 longitude: 9.0548015
 postcode: 72070
 city: Tübingen
-street: Kirchgasse
+street: "Kirchgasse"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

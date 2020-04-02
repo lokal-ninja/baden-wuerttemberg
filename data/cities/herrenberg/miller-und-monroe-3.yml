@@ -5,7 +5,7 @@ latitude: 48.595147700000005
 longitude: 8.870920100000001
 postcode: 71083
 city: Herrenberg
-street: Spitalgasse
+street: "Spitalgasse"
 housenumber: 32
 phone: ""
 opening_hours: ""

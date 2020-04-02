@@ -5,7 +5,7 @@ latitude: 48.833634
 longitude: 9.1817886
 postcode: 70437
 city: Stuttgart
-street: Rotweg
+street: "Rotweg"
 housenumber: 26
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.400415
 longitude: 9.9908348
 postcode: 89073
 city: Ulm
-street: Platzgasse
+street: "Platzgasse"
 housenumber: 19
 phone: "+49 731 63533"
 opening_hours: ""

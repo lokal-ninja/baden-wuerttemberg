@@ -5,7 +5,7 @@ latitude: 48.757758
 longitude: 8.551281300000001
 postcode: 75323
 city: Bad Wildbad
-street: Kurt-Gscheidle-Straße
+street: "Kurt-Gscheidle-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00;Su,PH off"

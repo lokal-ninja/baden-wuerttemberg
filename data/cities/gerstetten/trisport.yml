@@ -5,7 +5,7 @@ latitude: 48.5918178
 longitude: 10.1042167
 postcode: 89547
 city: Gerstetten
-street: Obere Dorfstraße
+street: "Obere Dorfstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

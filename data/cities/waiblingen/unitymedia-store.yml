@@ -5,7 +5,7 @@ latitude: 48.8314761
 longitude: 9.316128
 postcode: 71332
 city: Waiblingen
-street: Kurze Straße
+street: "Kurze Straße"
 housenumber: 34
 phone: ""
 opening_hours: "Mo 09:00-13:30,14:15-18:00; Tu-Fr 09:00-13:30,14:15-18:00; Sa 09:00-14:00; Su off"

@@ -5,7 +5,7 @@ latitude: 49.755343700000005
 longitude: 9.3236484
 postcode: 97896
 city: Freudenberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 300
 phone: "+49 9375 929020"
 opening_hours: ""

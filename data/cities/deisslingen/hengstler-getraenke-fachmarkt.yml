@@ -5,7 +5,7 @@ latitude: 48.1103729
 longitude: 8.601806
 postcode: 78652
 city: Deißlingen
-street: Kurze Straße
+street: "Kurze Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

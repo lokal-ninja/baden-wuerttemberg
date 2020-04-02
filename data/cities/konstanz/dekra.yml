@@ -5,7 +5,7 @@ latitude: 47.6765835
 longitude: 9.144645500000001
 postcode: 78467
 city: Konstanz
-street: Fritz-Arnold-Straße
+street: "Fritz-Arnold-Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

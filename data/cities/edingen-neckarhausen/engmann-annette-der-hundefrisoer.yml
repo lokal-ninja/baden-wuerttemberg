@@ -5,7 +5,7 @@ latitude: 49.4723976
 longitude: 8.5885309
 postcode: 68535
 city: Edingen-Neckarhausen
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

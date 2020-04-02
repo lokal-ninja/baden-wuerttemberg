@@ -5,7 +5,7 @@ latitude: 48.9214843
 longitude: 9.151687500000001
 postcode: 71634
 city: Ludwigsburg
-street: Heinkelstraße
+street: "Heinkelstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.772131900000005
 longitude: 8.5830993
 postcode: 75323
 city: Bad Wildbad
-street: Kleinenztalstraße
+street: "Kleinenztalstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

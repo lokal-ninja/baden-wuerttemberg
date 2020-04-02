@@ -5,7 +5,7 @@ latitude: 48.862210600000004
 longitude: 9.321168
 postcode: 71336
 city: Waiblingen
-street: Veilchenweg
+street: "Veilchenweg"
 housenumber: 8
 phone: ""
 opening_hours: "Tu-Fr 08:00-12:00,13:00-18:00, Sa 07:00-12:00"

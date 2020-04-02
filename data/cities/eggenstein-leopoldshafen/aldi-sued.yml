@@ -5,7 +5,7 @@ latitude: 49.067537400000006
 longitude: 8.3994931
 postcode: 76344
 city: Eggenstein-Leopoldshafen
-street: Hagsfelder Weg
+street: "Hagsfelder Weg"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"

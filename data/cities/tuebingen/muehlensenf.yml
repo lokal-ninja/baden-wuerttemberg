@@ -5,7 +5,7 @@ latitude: 48.519974700000006
 longitude: 9.0474937
 postcode: 72070
 city: Tübingen
-street: Schwärzlocher Straße
+street: "Schwärzlocher Straße"
 housenumber: 6
 phone: "+49 7071 6390901"
 opening_hours: "Th 12:00-19:00"

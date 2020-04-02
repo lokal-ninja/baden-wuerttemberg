@@ -5,7 +5,7 @@ latitude: 48.7269171
 longitude: 9.119920200000001
 postcode: 70565
 city: Stuttgart
-street: Kupferstraße
+street: "Kupferstraße"
 housenumber: 22
 phone: "+49 711 7803041 42"
 opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-19:00"

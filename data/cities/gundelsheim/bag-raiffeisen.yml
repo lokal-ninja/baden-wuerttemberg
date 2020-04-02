@@ -5,7 +5,7 @@ latitude: 49.279483600000006
 longitude: 9.160239
 postcode: 74831
 city: Gundelsheim
-street: Deutschmeisterstraße
+street: "Deutschmeisterstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

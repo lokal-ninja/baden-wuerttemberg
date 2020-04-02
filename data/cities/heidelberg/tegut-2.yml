@@ -5,7 +5,7 @@ latitude: 49.3899034
 longitude: 8.6865884
 postcode: 
 city: Heidelberg
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

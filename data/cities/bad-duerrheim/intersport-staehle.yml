@@ -5,7 +5,7 @@ latitude: 48.0348721
 longitude: 8.5309842
 postcode: 78073
 city: Bad Dürrheim
-street: Schwenninger Straße
+street: "Schwenninger Straße"
 housenumber: 40
 phone: "+49 7726 929 510"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00; PH off"

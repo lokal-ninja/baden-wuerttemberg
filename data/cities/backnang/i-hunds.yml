@@ -5,7 +5,7 @@ latitude: 48.9641485
 longitude: 9.4239466
 postcode: 71522
 city: Backnang
-street: Hans-Bredow-Straße
+street: "Hans-Bredow-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

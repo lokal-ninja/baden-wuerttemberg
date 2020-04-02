@@ -5,7 +5,7 @@ latitude: 47.6777518
 longitude: 9.586314
 postcode: 88069
 city: Tettnang
-street: Ravensburger Straße
+street: "Ravensburger Straße"
 housenumber: 41/1
 phone: "+49 7542 509951"
 opening_hours: "Mo-Th 09:00-12:00,13:00-17:00; Fr 09:00-12:00,13:00-15:00; Sa,Su,PH off"

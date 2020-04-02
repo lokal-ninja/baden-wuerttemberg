@@ -5,7 +5,7 @@ latitude: 48.6501438
 longitude: 9.450467100000001
 postcode: 73230
 city: Kirchheim unter Teck
-street: Plochinger Straße
+street: "Plochinger Straße"
 housenumber: 3
 phone: "+49 7021 8073797"
 opening_hours: "Mo-Fr 10:00-18:00; Sa,Su,PH off || Oder nach Vereinbarung"

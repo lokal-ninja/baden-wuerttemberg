@@ -5,7 +5,7 @@ latitude: 48.261564500000006
 longitude: 7.804324500000001
 postcode: 77955
 city: Ettenheim
-street: Tullastraße
+street: "Tullastraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

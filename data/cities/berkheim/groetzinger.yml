@@ -5,7 +5,7 @@ latitude: 48.038350900000005
 longitude: 10.0849312
 postcode: 88450
 city: Berkheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 1
 phone: ""
 opening_hours: "We-Su 14:00-18:00; Sa 08:00-13:00; Su-Tu, PH off"

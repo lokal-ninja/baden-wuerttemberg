@@ -5,7 +5,7 @@ latitude: 49.274621100000005
 longitude: 8.4735226
 postcode: 68794
 city: Oberhausen-Rheinhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 115
 phone: ""
 opening_hours: ""

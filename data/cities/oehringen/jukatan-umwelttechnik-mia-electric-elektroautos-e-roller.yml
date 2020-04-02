@@ -5,7 +5,7 @@ latitude: 49.1935877
 longitude: 9.4890793
 postcode: 74613
 city: Öhringen
-street: Dresdner Straße
+street: "Dresdner Straße"
 housenumber: 2
 phone: "+49 7941 959166"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 48.874917800000006
 longitude: 9.388462200000001
 postcode: 71364
 city: Winnenden
-street: Max-Eyth-Straße
+street: "Max-Eyth-Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

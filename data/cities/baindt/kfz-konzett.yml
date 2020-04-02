@@ -5,7 +5,7 @@ latitude: 47.844080500000004
 longitude: 9.640606
 postcode: 88255
 city: Baindt
-street: Wickenhauser Straße
+street: "Wickenhauser Straße"
 housenumber: 92/1
 phone: "+49 7502 1649"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.730862200000004
 longitude: 9.348337200000001
 postcode: 88697
 city: Bermatingen
-street: Salemer Straße
+street: "Salemer Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

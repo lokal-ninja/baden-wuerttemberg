@@ -5,7 +5,7 @@ latitude: 48.964908900000005
 longitude: 8.611423400000001
 postcode: 
 city: Königsbach-Stein
-street: Baumstraße
+street: "Baumstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:00-13:00,15:00-18:30; We 08:00-13:00"

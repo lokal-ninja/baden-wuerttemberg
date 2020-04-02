@@ -5,7 +5,7 @@ latitude: 48.9221961
 longitude: 8.5036336
 postcode: 76307
 city: Karlsbad
-street: Hertzstraße
+street: "Hertzstraße"
 housenumber: 7
 phone: "+49 7202 93100"
 opening_hours: ""

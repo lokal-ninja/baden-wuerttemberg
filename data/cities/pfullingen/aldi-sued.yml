@@ -5,7 +5,7 @@ latitude: 48.471740600000004
 longitude: 9.2210214
 postcode: 72793
 city: Pfullingen
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

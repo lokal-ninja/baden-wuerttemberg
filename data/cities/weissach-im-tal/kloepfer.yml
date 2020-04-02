@@ -5,7 +5,7 @@ latitude: 48.931095600000006
 longitude: 9.4763889
 postcode: 71554
 city: Weissach im Tal
-street: Backnanger Straße
+street: "Backnanger Straße"
 housenumber: 4
 phone: "+49 7191 902220"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.2473053
 longitude: 9.921099100000001
 postcode: 74582
 city: Gerabronn
-street: Haller Straße
+street: "Haller Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:30-20:00"

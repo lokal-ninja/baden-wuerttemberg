@@ -5,7 +5,7 @@ latitude: 48.708905800000004
 longitude: 9.4618471
 postcode: 73262
 city: Reichenbach an der Fils
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

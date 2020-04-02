@@ -5,7 +5,7 @@ latitude: 49.415585300000004
 longitude: 9.2815464
 postcode: 74850
 city: Schefflenz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 74
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.6823707
 longitude: 9.202898300000001
 postcode: 78464
 city: Konstanz
-street: Mainaustraße
+street: "Mainaustraße"
 housenumber: 156
 phone: "+49731 922 5890"
 opening_hours: "Tu-Th 10:00-18:00; Fr 10:00-20:00; Sa 10:00-15:00; Mo,Su,PH off"

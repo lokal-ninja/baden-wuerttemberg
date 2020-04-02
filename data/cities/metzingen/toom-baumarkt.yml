@@ -5,7 +5,7 @@ latitude: 48.544326100000006
 longitude: 9.274794100000001
 postcode: 72555
 city: Metzingen
-street: Senefelderstraße
+street: "Senefelderstraße"
 housenumber: 1-3
 phone: ""
 opening_hours: ""

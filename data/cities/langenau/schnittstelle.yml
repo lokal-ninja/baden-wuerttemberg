@@ -5,7 +5,7 @@ latitude: 48.482426700000005
 longitude: 10.0597194
 postcode: 
 city: Langenau
-street: Werdenbergstraße
+street: "Werdenbergstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4546391
 longitude: 8.599039900000001
 postcode: 68535
 city: Edingen-Neckarhausen
-street: Gerberstraße
+street: "Gerberstraße"
 housenumber: 18
 phone: "+49 6203 8981-0"
 opening_hours: ""

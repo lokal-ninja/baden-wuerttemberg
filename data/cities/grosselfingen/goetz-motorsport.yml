@@ -5,7 +5,7 @@ latitude: 48.327342
 longitude: 8.8938852
 postcode: 72415
 city: Grosselfingen
-street: Neue Gewerbestraße
+street: "Neue Gewerbestraße"
 housenumber: 3
 phone: "+49 7476 933150"
 opening_hours: "Mo-Fr 09:00-18:30; Apr-Sep Sa 09:00-16:00; Oct-Mar 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 48.8375119
 longitude: 9.1578187
 postcode: 70435
 city: Stuttgart
-street: Porschestraße
+street: "Porschestraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

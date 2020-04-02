@@ -5,7 +5,7 @@ latitude: 49.131089100000004
 longitude: 9.1875937
 postcode: 74080
 city: Heilbronn
-street: Glockenstraße
+street: "Glockenstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

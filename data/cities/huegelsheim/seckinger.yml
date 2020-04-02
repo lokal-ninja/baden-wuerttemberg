@@ -5,7 +5,7 @@ latitude: 48.797167400000006
 longitude: 8.1106291
 postcode: 76549
 city: Hügelsheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 08:30-14:00"

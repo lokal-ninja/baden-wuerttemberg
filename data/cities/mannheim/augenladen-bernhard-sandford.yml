@@ -5,7 +5,7 @@ latitude: 49.4803584
 longitude: 8.4744439
 postcode: 68165
 city: Mannheim
-street: Heinrich-Lanz-Straße
+street: "Heinrich-Lanz-Straße"
 housenumber: 29
 phone: ""
 opening_hours: ""

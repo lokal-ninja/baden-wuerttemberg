@@ -5,7 +5,7 @@ latitude: 48.8400454
 longitude: 8.222631100000001
 postcode: 76437
 city: Rastatt
-street: Weiherstraße
+street: "Weiherstraße"
 housenumber: 1a
 phone: "+49 7222 985955"
 opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; We 09:00-12:30; Sa 09:00-13:00"

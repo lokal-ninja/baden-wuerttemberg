@@ -5,7 +5,7 @@ latitude: 48.8311331
 longitude: 9.186727000000001
 postcode: 70437
 city: Stuttgart
-street: Haldenrainstraße
+street: "Haldenrainstraße"
 housenumber: 77
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:30"

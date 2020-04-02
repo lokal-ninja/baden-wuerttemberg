@@ -5,7 +5,7 @@ latitude: 48.1009934
 longitude: 9.464532700000001
 postcode: 88521
 city: Ertingen
-street: Krähbrunnenstraße
+street: "Krähbrunnenstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 48.272207800000004
 longitude: 9.8279571
 postcode: 89584
 city: Rißtissen
-street: Rißstraße
+street: "Rißstraße"
 housenumber: 72
 phone: "+49739218688"
 opening_hours: "Mo-Fr 08:00-12-30, 15:00-18:00; Sa 8:00-12:00"

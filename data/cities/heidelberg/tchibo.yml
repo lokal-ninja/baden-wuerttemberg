@@ -5,7 +5,7 @@ latitude: 49.366639600000006
 longitude: 8.686060900000001
 postcode: 69126
 city: Heidelberg
-street: Hertzstraße
+street: "Hertzstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

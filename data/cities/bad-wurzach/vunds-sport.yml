@@ -5,7 +5,7 @@ latitude: 47.9095158
 longitude: 9.8933417
 postcode: 88410
 city: Bad Wurzach
-street: Biberacher Straße
+street: "Biberacher Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

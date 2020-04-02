@@ -5,7 +5,7 @@ latitude: 49.132237100000005
 longitude: 9.325668
 postcode: 74251
 city: Lehrensteinsfeld
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 2
 phone: "+49 (0) 7134 13 825 0"
 opening_hours: ""

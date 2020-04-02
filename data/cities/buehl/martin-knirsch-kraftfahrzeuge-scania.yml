@@ -5,7 +5,7 @@ latitude: 48.6843116
 longitude: 8.1167189
 postcode: 
 city: Bühl
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 19
 phone: "+49722393700"
 opening_hours: ""

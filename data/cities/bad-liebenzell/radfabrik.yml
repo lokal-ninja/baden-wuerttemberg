@@ -5,7 +5,7 @@ latitude: 48.772829200000004
 longitude: 8.7343265
 postcode: 75378
 city: Bad Liebenzell
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

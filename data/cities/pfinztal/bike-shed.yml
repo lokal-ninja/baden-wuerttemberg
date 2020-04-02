@@ -5,7 +5,7 @@ latitude: 49.0041881
 longitude: 8.522728200000001
 postcode: 76327
 city: Pfinztal
-street: Karlsruher Straße
+street: "Karlsruher Straße"
 housenumber: 50
 phone: "+49 721 47034015"
 opening_hours: "Tu,Th,Fr 09:00-12:00,14:00-18:00; We 09:00-12:00; Sa 09:00-13:00; Mo,Su,PH off"

@@ -5,7 +5,7 @@ latitude: 49.018022800000004
 longitude: 8.476660200000001
 postcode: 76227
 city: Karlsruhe
-street: Auf der Breit
+street: "Auf der Breit"
 housenumber: 21
 phone: ""
 opening_hours: ""

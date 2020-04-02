@@ -5,7 +5,7 @@ latitude: 48.1408496
 longitude: 7.705106600000001
 postcode: 79346
 city: Endingen am Kaiserstuhl
-street: Dielenmarktstraße
+street: "Dielenmarktstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Tu 14:00-18:30; We-Fr 10:00-12:00,14:00-18:30; Sa 10:00-14:00"

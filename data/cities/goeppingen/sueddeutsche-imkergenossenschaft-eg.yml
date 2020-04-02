@@ -5,7 +5,7 @@ latitude: 48.6657638
 longitude: 9.678542400000001
 postcode: 73037
 city: Göppingen
-street: Zillenhardtstraße
+street: "Zillenhardtstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

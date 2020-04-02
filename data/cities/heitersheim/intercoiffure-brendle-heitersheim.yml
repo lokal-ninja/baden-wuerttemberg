@@ -5,7 +5,7 @@ latitude: 47.869459400000004
 longitude: 7.6697847
 postcode: 79423
 city: Heitersheim
-street: Badhausstraße
+street: "Badhausstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.4387357
 longitude: 8.5240383
 postcode: 68219
 city: Mannheim-Rheinau
-street: Rheinauer Ring
+street: "Rheinauer Ring"
 housenumber: 1
 phone: "+49 621 80619561"
 opening_hours: "Mo-Sa 08:00-21:00"

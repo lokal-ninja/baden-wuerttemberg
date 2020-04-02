@@ -5,7 +5,7 @@ latitude: 48.828641000000005
 longitude: 10.108883800000001
 postcode: 73431
 city: Aalen
-street: Kochertalstraße
+street: "Kochertalstraße"
 housenumber: 70
 phone: ""
 opening_hours: ""

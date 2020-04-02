@@ -5,7 +5,7 @@ latitude: 48.775539200000004
 longitude: 9.1811687
 postcode: 70173
 city: Stuttgart
-street: Else-Josenhans-Straße
+street: "Else-Josenhans-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 48.891764200000004
 longitude: 9.142104400000001
 postcode: 71696
 city: Möglingen
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

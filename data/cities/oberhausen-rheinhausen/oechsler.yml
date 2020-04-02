@@ -5,7 +5,7 @@ latitude: 49.260778200000004
 longitude: 8.4806436
 postcode: 68794
 city: Oberhausen-Rheinhausen
-street: Gartenweg
+street: "Gartenweg"
 housenumber: 8
 phone: ""
 opening_hours: ""

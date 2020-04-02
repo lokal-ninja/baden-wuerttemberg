@@ -5,7 +5,7 @@ latitude: 49.4286259
 longitude: 9.419788500000001
 postcode: 74706
 city: Osterburken
-street: Adelsheimer Straße
+street: "Adelsheimer Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

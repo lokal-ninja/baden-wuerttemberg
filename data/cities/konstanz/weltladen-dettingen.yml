@@ -5,7 +5,7 @@ latitude: 47.734078000000004
 longitude: 9.117938800000001
 postcode: 78465
 city: Konstanz
-street: Dingelsdorfer Straße
+street: "Dingelsdorfer Straße"
 housenumber: 2
 phone: "+49 7533 949755"
 opening_hours: ""

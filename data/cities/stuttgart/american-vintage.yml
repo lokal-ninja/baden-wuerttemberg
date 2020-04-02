@@ -5,7 +5,7 @@ latitude: 48.7757816
 longitude: 9.1806018
 postcode: 70173
 city: Stuttgart
-street: Eduard-Breuninger-Straße
+street: "Eduard-Breuninger-Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

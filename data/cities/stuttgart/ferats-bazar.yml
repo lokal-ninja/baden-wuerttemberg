@@ -5,7 +5,7 @@ latitude: 48.732537
 longitude: 9.104924200000001
 postcode: 70563
 city: Stuttgart
-street: Katzenbachstraße
+street: "Katzenbachstraße"
 housenumber: 65
 phone: "+49 711 7352989"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-14:00"

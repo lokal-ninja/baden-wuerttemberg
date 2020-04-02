@@ -5,7 +5,7 @@ latitude: 49.253706300000005
 longitude: 8.5430597
 postcode: 68753
 city: Waghäusel
-street: Boschstraße
+street: "Boschstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 16:00-18:30; Tu off; Th off; Sa 09:00-13:00"

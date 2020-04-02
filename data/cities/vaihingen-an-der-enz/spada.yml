@@ -5,7 +5,7 @@ latitude: 48.9546888
 longitude: 8.984300900000001
 postcode: 71665
 city: Vaihingen an der Enz
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 134
 phone: "+49 7042 978168"
 opening_hours: ""

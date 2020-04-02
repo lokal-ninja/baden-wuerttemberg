@@ -5,7 +5,7 @@ latitude: 49.3038553
 longitude: 8.6459541
 postcode: 69190
 city: Walldorf
-street: Nußlocher Straße
+street: "Nußlocher Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

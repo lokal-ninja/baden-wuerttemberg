@@ -5,7 +5,7 @@ latitude: 49.06454
 longitude: 9.038555500000001
 postcode: 74389
 city: Cleebronn
-street: Daimlerstraße
+street: "Daimlerstraße"
 housenumber: 8
 phone: "+49 7135/936175"
 opening_hours: ""

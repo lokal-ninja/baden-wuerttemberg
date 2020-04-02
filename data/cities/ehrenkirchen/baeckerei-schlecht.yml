@@ -5,7 +5,7 @@ latitude: 47.923377
 longitude: 7.7412384
 postcode: 79238
 city: Ehrenkirchen
-street: Herrenstraße
+street: "Herrenstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

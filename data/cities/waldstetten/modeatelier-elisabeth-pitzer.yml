@@ -5,7 +5,7 @@ latitude: 48.763486
 longitude: 9.808548400000001
 postcode: 73550
 city: Waldstetten
-street: Franz-Liszt-Weg
+street: "Franz-Liszt-Weg"
 housenumber: 4
 phone: ""
 opening_hours: ""

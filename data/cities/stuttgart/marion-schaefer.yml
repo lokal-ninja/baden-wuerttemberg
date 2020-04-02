@@ -5,7 +5,7 @@ latitude: 48.7747958
 longitude: 9.1859157
 postcode: 70182
 city: Stuttgart
-street: Olgastraße
+street: "Olgastraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

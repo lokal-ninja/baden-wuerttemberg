@@ -5,7 +5,7 @@ latitude: 49.009151
 longitude: 8.4084949
 postcode: 76133
 city: Karlsruhe
-street: Kronenstraße
+street: "Kronenstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-16:00; Su,PH off"

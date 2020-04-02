@@ -5,7 +5,7 @@ latitude: 49.2932428
 longitude: 8.9697539
 postcode: 74924
 city: Neckarbischofsheim
-street: Schwimmbadweg
+street: "Schwimmbadweg"
 housenumber: 2
 phone: "+49 7263 9186492"
 opening_hours: ""

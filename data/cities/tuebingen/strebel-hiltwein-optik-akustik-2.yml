@@ -5,7 +5,7 @@ latitude: 48.5168638
 longitude: 9.0583801
 postcode: 72072
 city: Tübingen
-street: Europaplatz
+street: "Europaplatz"
 housenumber: 2/1
 phone: "+49 7071 367076"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su, PH off"

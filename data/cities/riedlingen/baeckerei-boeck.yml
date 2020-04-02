@@ -5,7 +5,7 @@ latitude: 48.1578834
 longitude: 9.469257200000001
 postcode: 
 city: Riedlingen
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

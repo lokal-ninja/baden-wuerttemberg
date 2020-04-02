@@ -5,7 +5,7 @@ latitude: 49.0244705
 longitude: 8.3529482
 postcode: 76185
 city: Karlsruhe
-street: Gablonzer Straße
+street: "Gablonzer Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

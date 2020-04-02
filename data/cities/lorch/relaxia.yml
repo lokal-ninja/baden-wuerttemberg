@@ -5,7 +5,7 @@ latitude: 48.7862674
 longitude: 9.637689
 postcode: 73547
 city: Lorch
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 20/1
 phone: "+49 7172 189933"
 opening_hours: "nach Vereinbarung"

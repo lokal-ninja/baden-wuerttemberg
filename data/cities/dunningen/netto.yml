@@ -5,7 +5,7 @@ latitude: 48.251193900000004
 longitude: 8.490517
 postcode: 78655
 city: Dunningen
-street: Waldmössinger Straße
+street: "Waldmössinger Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

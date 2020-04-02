@@ -5,7 +5,7 @@ latitude: 48.622097800000006
 longitude: 8.835724500000001
 postcode: 71083
 city: Herrenberg
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 1
 phone: "+49 7032 9139839"
 opening_hours: ""

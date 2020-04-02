@@ -5,7 +5,7 @@ latitude: 48.7267688
 longitude: 9.6084824
 postcode: 73117
 city: Wangen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

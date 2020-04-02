@@ -5,7 +5,7 @@ latitude: 49.4999466
 longitude: 8.4711052
 postcode: 68169
 city: Mannheim
-street: Waldhofstraße
+street: "Waldhofstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

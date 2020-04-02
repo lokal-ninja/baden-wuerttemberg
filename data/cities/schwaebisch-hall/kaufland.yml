@@ -5,7 +5,7 @@ latitude: 49.1048838
 longitude: 9.7014615
 postcode: 74523
 city: Schwäbisch Hall
-street: Steinbeisweg
+street: "Steinbeisweg"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

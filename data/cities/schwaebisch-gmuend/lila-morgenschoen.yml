@@ -5,7 +5,7 @@ latitude: 48.793627900000004
 longitude: 9.7857423
 postcode: 73525
 city: Schwäbisch Gmünd
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 51
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 47.828536500000006
 longitude: 7.9427088
 postcode: 79674
 city: Todtnau
-street: Am Busbahnhof
+street: "Am Busbahnhof"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.123847600000005
 longitude: 9.2202262
 postcode: 74074
 city: Heilbronn
-street: Lise-Meitner-Straße
+street: "Lise-Meitner-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

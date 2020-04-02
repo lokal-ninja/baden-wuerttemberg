@@ -5,7 +5,7 @@ latitude: 47.717184200000005
 longitude: 9.375227200000001
 postcode: 88677
 city: Markdorf
-street: Obere Gallusstraße
+street: "Obere Gallusstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

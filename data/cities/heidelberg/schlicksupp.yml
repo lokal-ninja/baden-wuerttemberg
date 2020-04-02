@@ -5,7 +5,7 @@ latitude: 49.433047200000004
 longitude: 8.6782518
 postcode: 69121
 city: Heidelberg
-street: Wiesenweg
+street: "Wiesenweg"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00"

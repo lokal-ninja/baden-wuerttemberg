@@ -5,7 +5,7 @@ latitude: 48.657291900000004
 longitude: 9.062109600000001
 postcode: 71101
 city: Schönaich
-street: Jägerstraße
+street: "Jägerstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

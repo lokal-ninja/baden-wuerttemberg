@@ -5,7 +5,7 @@ latitude: 48.531377600000006
 longitude: 9.3312454
 postcode: 72581
 city: Dettingen an der Erms
-street: Im Schwöllbogen
+street: "Im Schwöllbogen"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"

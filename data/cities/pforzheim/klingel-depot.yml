@@ -5,7 +5,7 @@ latitude: 48.901239700000005
 longitude: 8.6689266
 postcode: 75179
 city: Pforzheim
-street: Wilhelm-Becker-Straße
+street: "Wilhelm-Becker-Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

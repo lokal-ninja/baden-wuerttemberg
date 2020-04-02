@@ -5,7 +5,7 @@ latitude: 49.4253105
 longitude: 8.642006700000001
 postcode: 69123
 city: Heidelberg
-street: Grenzhöfer Weg
+street: "Grenzhöfer Weg"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

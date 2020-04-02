@@ -5,7 +5,7 @@ latitude: 48.478736700000006
 longitude: 7.9416374
 postcode: 77652
 city: Offenburg
-street: Straßburger Straße
+street: "Straßburger Straße"
 housenumber: 27a
 phone: ""
 opening_hours: "Mo-Sa 07:00-12:15; Mo-Tu 14:30-18:00; Th-Fr 14:30-18:00"
