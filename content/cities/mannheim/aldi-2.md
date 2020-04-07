@@ -1,4 +1,4 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /mannheim/aldi-2/
 ---

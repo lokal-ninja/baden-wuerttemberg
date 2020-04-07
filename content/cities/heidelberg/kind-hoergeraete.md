@@ -1,4 +1,4 @@
 ---
-title: "KIND Hörgeräte"
+title: "Kind Hörgeräte"
 url: /heidelberg/kind-hoergeraete/
 ---

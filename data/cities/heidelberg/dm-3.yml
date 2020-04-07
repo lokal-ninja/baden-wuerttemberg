@@ -1,12 +1,12 @@
-id: 27930481
-type: way
+id: 7222577342
+type: node
 shop: Drogerie
-latitude: 49.438009400000006
-longitude: 8.6793186
-postcode: 69121
+latitude: 49.4044059
+longitude: 8.6673492
+postcode: 69115
 city: Heidelberg
-street: "Fritz-Frey-Straße"
-housenumber: 14
+street: "Da-Vinci-Straße"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.dm.de/"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

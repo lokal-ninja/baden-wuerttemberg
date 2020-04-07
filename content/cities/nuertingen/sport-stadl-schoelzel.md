@@ -1,4 +1,4 @@
 ---
-title: "Sport-Stadl Schölzel"
+title: "Sport Stadl Schölzel"
 url: /nuertingen/sport-stadl-schoelzel/
 ---

@@ -1,4 +1,4 @@
 ---
-title: "L'TUR"
+title: "ltur"
 url: /heidelberg/ltur/
 ---
