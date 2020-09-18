@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0368658
 longitude: 8.707901300000001
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Marktplatz"
 housenumber: 10

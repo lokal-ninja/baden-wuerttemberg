@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.626962000000006
 longitude: 8.0730736
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Ratskellerstraße"
 housenumber: 17

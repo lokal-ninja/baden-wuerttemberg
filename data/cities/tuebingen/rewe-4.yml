@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.529158900000006
 longitude: 9.0613465
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Mohlstraße"
 housenumber: 26

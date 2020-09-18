@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.4145449
 longitude: 9.9207333
-postcode: 89134
+postcode: "89134"
 city: Blaustein
 street: "Hummelstraße"
 housenumber: 9

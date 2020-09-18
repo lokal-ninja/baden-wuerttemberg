@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.825283000000006
 longitude: 9.0677
-postcode: 71254
+postcode: "71254"
 city: Ditzingen
 street: "Gerlinger Straße"
 housenumber: 12

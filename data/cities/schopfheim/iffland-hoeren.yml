@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.649515900000004
 longitude: 7.821009500000001
-postcode: 79650
+postcode: "79650"
 city: Schopfheim
 street: "Hauptstraße"
 housenumber: 38

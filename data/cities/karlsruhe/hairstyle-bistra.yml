@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.00303
 longitude: 8.383054600000001
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Lorenzstraße"
 housenumber: 12

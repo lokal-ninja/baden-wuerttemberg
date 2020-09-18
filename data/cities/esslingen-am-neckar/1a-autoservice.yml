@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7439935
 longitude: 9.3291844
-postcode: 73732
+postcode: "73732"
 city: Esslingen am Neckar
 street: "Esslinger Straße"
 housenumber: 88

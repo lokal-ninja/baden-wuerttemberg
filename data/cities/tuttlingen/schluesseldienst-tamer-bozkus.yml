@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 47.9833847
 longitude: 8.813749300000001
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Bahnhofstraße"
 housenumber: 43

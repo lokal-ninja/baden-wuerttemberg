@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.4916204
 longitude: 9.2098106
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Katharinenstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9248799
 longitude: 9.2498029
-postcode: 88630
+postcode: "88630"
 city: Pfullendorf
 street: "Sankt Katharinenstraße"
 housenumber: 1/1

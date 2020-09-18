@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.5201799
 longitude: 9.147249
-postcode: 72827
+postcode: "72827"
 city: Wannweil
 street: "Kirchentellinsfurter Straße"
 housenumber: 64

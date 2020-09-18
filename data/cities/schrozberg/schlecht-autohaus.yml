@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3459329
 longitude: 9.9824298
-postcode: 74575
+postcode: "74575"
 city: Schrozberg
 street: "Rothenburger Weg"
 housenumber: 3

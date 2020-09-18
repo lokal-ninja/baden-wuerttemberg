@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.70124980000001
 longitude: 10.040085300000001
-postcode: 88316
+postcode: "88316"
 city: Isny im Allgäu
 street: "Am-Angele-Hof"
 housenumber: 2

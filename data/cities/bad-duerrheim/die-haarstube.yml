@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.0225865
 longitude: 8.5353514
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Konrad-Heby-Weg"
 housenumber: 11

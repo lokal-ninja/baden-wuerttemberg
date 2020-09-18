@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0335179
 longitude: 8.718594000000001
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "In der Linde"
 housenumber: 2

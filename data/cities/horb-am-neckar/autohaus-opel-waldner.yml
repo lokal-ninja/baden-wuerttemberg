@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.4573243
 longitude: 8.700379700000001
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Hahnerstraße"
 housenumber: 12

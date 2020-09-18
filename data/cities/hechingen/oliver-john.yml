@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3509563
 longitude: 8.9622661
-postcode: 72379
+postcode: "72379"
 city: Hechingen
 street: "Frauengartenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 49.7725566
 longitude: 9.5796781
-postcode: 97877
+postcode: "97877"
 city: Wertheim
 street: "Almosenberg"
 housenumber: 15

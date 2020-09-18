@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.0669903
 longitude: 9.0839368
-postcode: 74336
+postcode: "74336"
 city: Brackenheim
 street: "Wilhelm-Schmid-Straße"
 housenumber: 26

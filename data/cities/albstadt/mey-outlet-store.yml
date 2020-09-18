@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.2146033
 longitude: 8.948333400000001
-postcode: 72459
+postcode: "72459"
 city: Albstadt
 street: "Auf Steingen"
 housenumber: 12

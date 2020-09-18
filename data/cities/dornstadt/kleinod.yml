@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.4822779
 longitude: 9.9106764
-postcode: 89160
+postcode: "89160"
 city: Dornstadt
 street: "Graf-Albrecht-Straße"
 housenumber: 20

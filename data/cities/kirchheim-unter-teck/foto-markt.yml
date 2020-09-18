@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.6480035
 longitude: 9.4534787
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Turmstraße"
 housenumber: 2

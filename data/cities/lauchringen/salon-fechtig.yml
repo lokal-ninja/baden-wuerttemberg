@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.6246804
 longitude: 8.325040900000001
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Untermarkstraße"
 housenumber: 1

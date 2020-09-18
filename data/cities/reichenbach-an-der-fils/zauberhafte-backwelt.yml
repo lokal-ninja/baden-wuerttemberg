@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.709982000000004
 longitude: 9.4536257
-postcode: 73262
+postcode: "73262"
 city: Reichenbach an der Fils
 street: "Zeppelinstraße"
 housenumber: 14

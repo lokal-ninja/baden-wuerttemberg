@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.9996215
 longitude: 9.1413893
-postcode: 74354
+postcode: "74354"
 city: Besigheim
 street: "Marktplatz"
 housenumber: 4

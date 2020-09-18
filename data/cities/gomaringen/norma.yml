@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 48.46072
 longitude: 9.102195100000001
-postcode: 72810
+postcode: "72810"
 city: Gomaringen
 street: "Raiffeisenstraße"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-21:00"
 website: ""

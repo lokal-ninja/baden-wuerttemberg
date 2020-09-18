@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.707668500000004
 longitude: 9.306020700000001
-postcode: 73770
+postcode: "73770"
 city: Denkendorf
 street: "Marie-Curie-Straße"
 housenumber: 1

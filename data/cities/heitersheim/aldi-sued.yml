@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8777223
 longitude: 7.646255000000001
-postcode: 79423
+postcode: "79423"
 city: Heitersheim
 street: "Uhlandstraße"
 housenumber: 10

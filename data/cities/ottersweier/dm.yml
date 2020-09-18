@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.6739669
 longitude: 8.115589100000001
-postcode: 77833
+postcode: "77833"
 city: Ottersweier
 street: "Hägenichstraße"
 housenumber: 7

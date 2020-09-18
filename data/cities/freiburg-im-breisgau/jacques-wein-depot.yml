@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 47.9891488
 longitude: 7.8394792
-postcode: 79100
+postcode: "79100"
 city: Freiburg im Breisgau
 street: "Kronenmattenstraße"
 housenumber: 6

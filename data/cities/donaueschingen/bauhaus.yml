@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.9368689
 longitude: 8.4995533
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Bregstraße"
 housenumber: 28

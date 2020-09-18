@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.4917096
 longitude: 9.3998045
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Lange Straße"
 housenumber: 29

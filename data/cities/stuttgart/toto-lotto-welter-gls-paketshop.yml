@@ -3,7 +3,7 @@ type: node
 shop: Lotterie
 latitude: 48.781235300000006
 longitude: 9.250451700000001
-postcode: 70327
+postcode: "70327"
 city: Stuttgart
 street: "Augsburger Straße"
 housenumber: 342

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.754139200000004
 longitude: 8.8608814
-postcode: 78224
+postcode: "78224"
 city: Singen
 street: "Im Haselbusch"
 housenumber: 19

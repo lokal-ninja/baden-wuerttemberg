@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.8072875
 longitude: 9.544562
-postcode: 88213
+postcode: "88213"
 city: Ravensburg
 street: "Schloßhalde"
 housenumber: 31

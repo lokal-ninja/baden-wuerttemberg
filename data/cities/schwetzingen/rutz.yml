@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.379504100000005
 longitude: 8.5785962
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Südtangente"
 housenumber: 1

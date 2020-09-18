@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1409967
 longitude: 7.7055240000000005
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "Dielenmarktstraße"
 housenumber: 5

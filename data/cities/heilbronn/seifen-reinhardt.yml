@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.139568700000005
 longitude: 9.2351109
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Bismarckstraße"
 housenumber: 72/2

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.688166200000005
 longitude: 8.135467700000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Konrad-Adenauer-Straße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.6872726
 longitude: 9.425470500000001
-postcode: 73249
+postcode: "73249"
 city: Wernau (Neckar)
 street: "Hauptstraße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 48.126226
 longitude: 7.7385913
-postcode: 79353
+postcode: "79353"
 city: Bahlingen am Kaiserstuhl
 street: "Riegeler Straße"
 housenumber: 2

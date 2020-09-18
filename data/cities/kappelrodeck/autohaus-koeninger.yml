@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.595504500000004
 longitude: 8.1134803
-postcode: 77876
+postcode: "77876"
 city: Kappelrodeck
 street: "Bronnmattstraße"
 housenumber: 7

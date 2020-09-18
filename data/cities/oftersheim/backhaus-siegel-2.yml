@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3724861
 longitude: 8.5804095
-postcode: 
+postcode: ""
 city: Oftersheim
 street: "Mannheimer Straße"
 housenumber: 88

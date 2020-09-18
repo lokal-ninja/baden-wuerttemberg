@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.716260000000005
 longitude: 8.9103504
-postcode: 71120
+postcode: "71120"
 city: Grafenau
 street: "Heckenweg"
 housenumber: 25

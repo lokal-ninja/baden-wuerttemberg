@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.139048300000006
 longitude: 8.764703500000001
-postcode: 78559
+postcode: "78559"
 city: Gosheim
 street: "Wehinger Straße"
 housenumber: 28

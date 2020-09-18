@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.6223704
 longitude: 10.0281056
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Haldenstraße"
 housenumber: 19

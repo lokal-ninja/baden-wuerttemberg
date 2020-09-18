@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.9833538
 longitude: 8.8154073
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Wilhelmstraße"
 housenumber: 16

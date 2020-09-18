@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.821083
 longitude: 9.295253
-postcode: 71332
+postcode: "71332"
 city: Waiblingen
 street: "Stuttgarter Straße"
 housenumber: 145

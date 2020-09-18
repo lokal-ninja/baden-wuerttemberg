@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3479048
 longitude: 8.9837105
-postcode: 74858
+postcode: "74858"
 city: Aglasterhausen
 street: "Im Oberen Tal"
 housenumber: 18

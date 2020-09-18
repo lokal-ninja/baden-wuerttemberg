@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.2803126
 longitude: 8.0821842
-postcode: 77716
+postcode: "77716"
 city: Haslach im Kinzigtal
 street: "Schwarzwaldstraße"
 housenumber: 1

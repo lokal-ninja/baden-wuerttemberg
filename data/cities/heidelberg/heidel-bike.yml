@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4059876
 longitude: 8.692931
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Rohrbacher Straße"
 housenumber: 13-15

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.939103300000006
 longitude: 8.943855000000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Seemühle"
 housenumber: 17

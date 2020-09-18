@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.495074800000005
 longitude: 8.454971500000001
-postcode: 68159
+postcode: "68159"
 city: Mannheim
 street: "Verbindungskanal, linkes Ufer"
 housenumber: 20-22

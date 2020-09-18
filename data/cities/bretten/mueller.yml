@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.0322814
 longitude: 8.7040836
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Pforzheimer Straße"
 housenumber: 46

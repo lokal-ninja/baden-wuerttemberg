@@ -1,12 +1,12 @@
-id: 96306677
-type: way
+id: 7378952032
+type: node
 shop: Supermarkt
-latitude: 49.067537400000006
-longitude: 8.3994931
-postcode: 76344
+latitude: 49.067793
+longitude: 8.3991973
+postcode: "76344"
 city: Eggenstein-Leopoldshafen
 street: "Hagsfelder Weg"
 housenumber: 23
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=%20Hagsfelder%20Weg%2023%2076344%20Eggenstein-Leopoldshafen&Mode=None"

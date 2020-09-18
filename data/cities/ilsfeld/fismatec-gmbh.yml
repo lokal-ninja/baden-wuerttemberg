@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.055916200000006
 longitude: 9.256533300000001
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
 street: "Talstraße"
 housenumber: 11

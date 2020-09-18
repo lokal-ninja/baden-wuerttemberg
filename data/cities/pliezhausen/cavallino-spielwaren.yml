@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.5582234
 longitude: 9.2048064
-postcode: 72124
+postcode: "72124"
 city: Pliezhausen
 street: "Wilhelmstraße"
 housenumber: 11

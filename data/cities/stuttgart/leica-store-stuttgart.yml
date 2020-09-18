@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.775067
 longitude: 9.1730037
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Calwer Straße"
 housenumber: 41

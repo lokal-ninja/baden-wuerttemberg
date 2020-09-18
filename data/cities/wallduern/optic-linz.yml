@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.582754900000005
 longitude: 9.368254700000001
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: "Obere Vorstadtstraße"
 housenumber: 4

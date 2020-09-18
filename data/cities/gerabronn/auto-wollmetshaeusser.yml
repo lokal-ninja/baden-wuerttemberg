@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.2117908
 longitude: 9.8898311
-postcode: 74582
+postcode: "74582"
 city: Gerabronn
 street: "Kirchberger Straße"
 housenumber: 32

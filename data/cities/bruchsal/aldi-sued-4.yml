@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.120355700000005
 longitude: 8.5747272
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Karl-Benz-Weg"
 housenumber: 3

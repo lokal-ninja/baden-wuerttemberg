@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.8133259
 longitude: 9.522557
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Erlenwiesen"
 housenumber: 3

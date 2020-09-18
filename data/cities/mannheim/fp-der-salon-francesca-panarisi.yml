@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.458752700000005
 longitude: 8.484285100000001
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Rottfeldstraße"
 housenumber: 41A

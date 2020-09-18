@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.005714600000005
 longitude: 8.3836862
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Kriegsstraße"
 housenumber: 214

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.4138882
 longitude: 9.9217578
-postcode: 89134
+postcode: "89134"
 city: Blaustein
 street: "Hummelstraße"
 housenumber: 11

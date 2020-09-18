@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.578168600000005
 longitude: 8.010556600000001
-postcode: 77871
+postcode: "77871"
 city: Renchen
 street: "Carl-Benz-Straße"
 housenumber: 17

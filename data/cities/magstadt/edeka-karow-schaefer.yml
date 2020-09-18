@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.739637800000004
 longitude: 8.9631909
-postcode: 71106
+postcode: "71106"
 city: Magstadt
 street: "Maichinger Straße"
 housenumber: 33

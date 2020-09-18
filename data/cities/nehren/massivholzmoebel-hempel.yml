@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.436680200000005
 longitude: 9.070319900000001
-postcode: 72147
+postcode: "72147"
 city: Nehren
 street: "Talstraße"
 housenumber: 18

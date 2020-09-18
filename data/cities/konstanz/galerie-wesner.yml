@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.658019
 longitude: 9.173655100000001
-postcode: 78462
+postcode: "78462"
 city: Konstanz
 street: "Bodanstraße"
 housenumber: 15

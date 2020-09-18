@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.867767300000004
 longitude: 9.4255671
-postcode: 
+postcode: ""
 city: Wilhelmsdorf
 street: "Saalplatz"
 housenumber: 11/1

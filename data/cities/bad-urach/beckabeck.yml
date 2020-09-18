@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4990303
 longitude: 9.381589400000001
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Max-Eyth-Straße"
 housenumber: 2

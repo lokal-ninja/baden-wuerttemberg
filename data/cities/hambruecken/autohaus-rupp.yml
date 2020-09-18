@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1803401
 longitude: 8.5480239
-postcode: 76707
+postcode: "76707"
 city: Hambrücken
 street: "Hauptstraße"
 housenumber: 1a

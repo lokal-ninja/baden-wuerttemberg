@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.3996836
 longitude: 9.9698136
-postcode: 89077
+postcode: "89077"
 city: Ulm
 street: "Blaubeurer Straße"
 housenumber: 59

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.7571061
 longitude: 9.256468400000001
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Amstetter Straße"
 housenumber: 40

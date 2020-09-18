@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.303144
 longitude: 8.643413
-postcode: 69190
+postcode: "69190"
 city: Walldorf
 street: ""
 housenumber: 

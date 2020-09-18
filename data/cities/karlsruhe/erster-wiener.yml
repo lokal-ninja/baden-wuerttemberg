@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.994013700000004
 longitude: 8.4007988
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Bahnhofplatz"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.6744603
 longitude: 9.381904500000001
-postcode: 73240
+postcode: "73240"
 city: Wendlingen am Neckar
 street: "Unterboihinger Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.8489001
 longitude: 10.0959103
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Im Hasennest"
 housenumber: 8

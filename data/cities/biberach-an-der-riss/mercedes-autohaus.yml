@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0837014
 longitude: 9.802275900000001
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Leipzigstraße"
 housenumber: 51

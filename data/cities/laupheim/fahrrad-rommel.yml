@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.2295012
 longitude: 9.876847900000001
-postcode: 88471
+postcode: "88471"
 city: Laupheim
 street: "Simmisgasse"
 housenumber: 2

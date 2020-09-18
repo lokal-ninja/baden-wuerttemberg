@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.544274900000005
 longitude: 8.6370018
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Kurt-Schumacher-Straße"
 housenumber: 7

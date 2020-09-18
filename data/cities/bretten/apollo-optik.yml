@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.0372489
 longitude: 8.7054753
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Melanchthonstraße"
 housenumber: 20

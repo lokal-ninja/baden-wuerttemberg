@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.50082200000001
 longitude: 8.4697657
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Alphornstraße"
 housenumber: 47

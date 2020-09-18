@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.071305800000005
 longitude: 8.470245700000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Gernotstraße"
 housenumber: 12

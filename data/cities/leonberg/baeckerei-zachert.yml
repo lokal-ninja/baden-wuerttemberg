@@ -1,12 +1,12 @@
 id: 3803216497
 type: node
 shop: Bäckerei
-latitude: 48.790326300000004
-longitude: 9.007405
-postcode: 71229
+latitude: 48.7903828
+longitude: 9.0073272
+postcode: "71229"
 city: Leonberg
 street: "Hindenburgstraße"
 housenumber: 14
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 7152 / 904127"
+opening_hours: "Mo-Fr 06:30-13:00,14:30-18:00; Sa 6:30-12:30"
+website: "https://www.zachert-leo.de/filialen"

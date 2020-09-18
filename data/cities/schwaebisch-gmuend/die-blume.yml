@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.7999948
 longitude: 9.790844
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Am Stadtgarten"
 housenumber: 10

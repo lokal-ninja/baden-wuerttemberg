@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.9987645
 longitude: 8.4716657
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Amthausstraße"
 housenumber: 5

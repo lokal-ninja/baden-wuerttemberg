@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8087651
 longitude: 7.624332600000001
-postcode: 79379
+postcode: "79379"
 city: Müllheim
 street: "Werderstraße"
 housenumber: 26

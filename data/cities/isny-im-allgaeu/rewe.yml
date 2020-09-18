@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6964887
 longitude: 10.041712200000001
-postcode: 88316
+postcode: "88316"
 city: Isny im Allgäu
 street: "Schwanenweg"
 housenumber: 12

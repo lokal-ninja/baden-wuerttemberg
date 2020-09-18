@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.071432300000005
 longitude: 8.6866553
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Hermannsgasse"
 housenumber: 6

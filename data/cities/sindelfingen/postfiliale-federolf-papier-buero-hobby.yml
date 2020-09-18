@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.726261300000004
 longitude: 9.0066083
-postcode: 71067
+postcode: "71067"
 city: Sindelfingen
 street: "Feldbergstraße"
 housenumber: 67/1

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.763561800000005
 longitude: 9.6046276
-postcode: 88214
+postcode: "88214"
 city: Ravensburg
 street: "Kelterweg"
 housenumber: 21

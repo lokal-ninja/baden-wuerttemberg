@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.511298000000004
 longitude: 9.0746489
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Aixer Straße"
 housenumber: 9

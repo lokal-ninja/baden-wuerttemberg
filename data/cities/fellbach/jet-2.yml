@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.8146591
 longitude: 9.260303200000001
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Höhenstraße"
 housenumber: 12

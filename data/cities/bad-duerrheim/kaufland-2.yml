@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.031457
 longitude: 8.5261555
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Dieselstraße"
 housenumber: 1

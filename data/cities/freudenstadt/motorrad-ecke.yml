@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.465646400000004
 longitude: 8.4057776
-postcode: 72250
+postcode: "72250"
 city: Freudenstadt
 street: "Murgtalstraße"
 housenumber: 35

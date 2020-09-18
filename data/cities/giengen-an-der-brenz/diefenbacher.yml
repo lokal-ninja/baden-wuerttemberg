@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.620682200000005
 longitude: 10.249617200000001
-postcode: 89537
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Marktstraße"
 housenumber: 86

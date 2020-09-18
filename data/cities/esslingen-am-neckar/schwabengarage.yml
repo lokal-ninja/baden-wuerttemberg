@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.729222
 longitude: 9.3300196
-postcode: 73730
+postcode: "73730"
 city: Esslingen am Neckar
 street: "Ulmer Straße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.5623717
 longitude: 8.8484884
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Öschelbronner Straße"
 housenumber: 1

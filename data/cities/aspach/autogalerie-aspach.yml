@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9706235
 longitude: 9.3890554
-postcode: 71546
+postcode: "71546"
 city: Aspach
 street: "Siemensstraße"
 housenumber: 1

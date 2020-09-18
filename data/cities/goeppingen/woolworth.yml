@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 48.7040261
 longitude: 9.6505127
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Hauptstraße"
 housenumber: 40

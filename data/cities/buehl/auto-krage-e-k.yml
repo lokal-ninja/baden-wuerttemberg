@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7135326
 longitude: 8.122346
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Hurststraße"
 housenumber: 25

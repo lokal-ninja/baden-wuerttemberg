@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 49.081804700000006
 longitude: 8.465602800000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Am Hasenbiel"
 housenumber: 17

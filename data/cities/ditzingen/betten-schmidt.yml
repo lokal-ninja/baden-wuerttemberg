@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.8362776
 longitude: 9.0384799
-postcode: 71254
+postcode: "71254"
 city: Ditzingen
 street: "Seestraße"
 housenumber: 9

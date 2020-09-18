@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.9372738
 longitude: 8.278237
-postcode: 76448
+postcode: "76448"
 city: Durmersheim
 street: "Königsberger Straße"
 housenumber: 2a

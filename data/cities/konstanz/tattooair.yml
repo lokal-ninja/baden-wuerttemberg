@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.6780246
 longitude: 9.172955700000001
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Wollmatinger Straße"
 housenumber: 77

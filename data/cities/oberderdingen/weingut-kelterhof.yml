@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.0458001
 longitude: 8.7707993
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Freudensteiner Straße"
 housenumber: 1

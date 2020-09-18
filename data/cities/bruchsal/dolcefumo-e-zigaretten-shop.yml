@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 49.1249951
 longitude: 8.5986031
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Am Alten Schloß"
 housenumber: 5

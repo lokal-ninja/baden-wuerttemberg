@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.086413900000004
 longitude: 9.2164037
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Schwabstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8242059
 longitude: 10.024928500000001
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Obere Vorstadtstraße"
 housenumber: 4

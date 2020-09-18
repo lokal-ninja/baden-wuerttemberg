@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4889294
 longitude: 8.470821200000001
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 23

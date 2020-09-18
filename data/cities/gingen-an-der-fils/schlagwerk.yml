@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 48.6685267
 longitude: 9.7784676
-postcode: 73333
+postcode: "73333"
 city: Gingen an der Fils
 street: "Brückenstraße"
 housenumber: 10

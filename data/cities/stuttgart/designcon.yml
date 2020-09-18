@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.7710379
 longitude: 9.1707053
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Marienstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.4650126
 longitude: 8.4392645
-postcode: 72250
+postcode: "72250"
 city: Freudenstadt
 street: "Planckstraße"
 housenumber: 8

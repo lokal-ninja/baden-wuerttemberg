@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.782450700000005
 longitude: 9.6120895
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Rosenstraße"
 housenumber: 3

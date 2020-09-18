@@ -1,4 +1,4 @@
 ---
-title: "Bäckerei  Förch"
+title: "Bäckerei Förch"
 url: /roigheim/baeckerei-foerch/
 ---

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.6751829
 longitude: 9.1578674
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Reichenaustraße"
 housenumber: 208

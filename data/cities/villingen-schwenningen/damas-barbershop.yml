@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.063976100000005
 longitude: 8.546472000000001
-postcode: 78056
+postcode: "78056"
 city: Villingen-Schwenningen
 street: "Rottweiler Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.3891732
 longitude: 9.977742300000001
-postcode: 89077
+postcode: "89077"
 city: Ulm
 street: "Illerstraße"
 housenumber: 2

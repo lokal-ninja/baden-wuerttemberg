@@ -1,12 +1,12 @@
 id: 3576665893
 type: node
 shop: Metzgerei
-latitude: 49.1235926
-longitude: 8.598716900000001
-postcode: 76646
+latitude: 49.123603100000004
+longitude: 8.598703500000001
+postcode: "76646"
 city: Bruchsal
 street: "Kaiserstraße"
 housenumber: 78
 phone: "+49 7251 2527"
 opening_hours: ""
-website: ""
+website: "https://www.metzgerei.org/bruchsal/guenter-boeser-724975.html"

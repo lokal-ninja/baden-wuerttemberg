@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.061579800000004
 longitude: 8.4702459
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Hauptstraße"
 housenumber: 161

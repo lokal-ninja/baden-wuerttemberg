@@ -3,7 +3,7 @@ type: way
 shop: Catering
 latitude: 49.4491558
 longitude: 8.489340700000001
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Wilhelm-Wundt-Straße"
 housenumber: 55

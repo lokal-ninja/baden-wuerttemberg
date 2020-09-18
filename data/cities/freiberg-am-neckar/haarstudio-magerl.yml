@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.934781
 longitude: 9.1927619
-postcode: 
+postcode: ""
 city: Freiberg am Neckar
 street: "Marktplatz"
 housenumber: 8

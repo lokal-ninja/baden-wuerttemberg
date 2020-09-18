@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.84459450000001
 longitude: 9.7187236
-postcode: 73553
+postcode: "73553"
 city: Alfdorf
 street: "Am alten Rathaus"
 housenumber: 2

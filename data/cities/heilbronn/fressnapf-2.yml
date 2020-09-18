@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.125368900000005
 longitude: 9.200553900000001
-postcode: 74081
+postcode: "74081"
 city: Heilbronn
 street: "David-Friedrich-Strauß-Straße"
 housenumber: 1

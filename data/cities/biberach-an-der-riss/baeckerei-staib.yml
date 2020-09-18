@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.097151100000005
 longitude: 9.786812300000001
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Marktplatz"
 housenumber: 37

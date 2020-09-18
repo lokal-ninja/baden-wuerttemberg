@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.018762200000005
 longitude: 8.596804200000001
-postcode: 75045
+postcode: "75045"
 city: Walzbachtal
 street: "Wössinger Straße"
 housenumber: 140

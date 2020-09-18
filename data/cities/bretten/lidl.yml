@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0391969
 longitude: 8.697402400000001
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Melanchthonstraße"
 housenumber: 112/1

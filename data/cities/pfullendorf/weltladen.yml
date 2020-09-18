@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.923693300000004
 longitude: 9.254962800000001
-postcode: 88630
+postcode: "88630"
 city: Pfullendorf
 street: "Am alten Spital"
 housenumber: 10

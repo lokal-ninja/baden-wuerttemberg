@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.224269
 longitude: 8.3845355
-postcode: 78713
+postcode: "78713"
 city: Schramberg
 street: "Hauptstraße"
 housenumber: 53

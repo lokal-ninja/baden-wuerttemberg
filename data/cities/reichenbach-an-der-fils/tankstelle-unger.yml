@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.7079308
 longitude: 9.4529375
-postcode: 73262
+postcode: "73262"
 city: Reichenbach an der Fils
 street: "Stuttgarter Straße"
 housenumber: 84

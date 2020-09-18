@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8100618
 longitude: 9.277074
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: ""
 housenumber: 

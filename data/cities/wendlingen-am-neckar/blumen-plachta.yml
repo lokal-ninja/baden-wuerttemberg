@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.674356700000004
 longitude: 9.3811859
-postcode: 73240
+postcode: "73240"
 city: Wendlingen am Neckar
 street: "Unterboihinger Straße"
 housenumber: 8

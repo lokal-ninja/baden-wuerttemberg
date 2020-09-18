@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5367417
 longitude: 9.2917812
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Heerstraße"
 housenumber: 10

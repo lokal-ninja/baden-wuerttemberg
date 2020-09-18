@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 49.5135957
 longitude: 8.470221800000001
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Industriestraße"
 housenumber: 41

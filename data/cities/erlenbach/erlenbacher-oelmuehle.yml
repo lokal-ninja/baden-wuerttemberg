@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.165468700000005
 longitude: 9.258918000000001
-postcode: 74235
+postcode: "74235"
 city: Erlenbach
 street: "Hofäcker"
 housenumber: 1

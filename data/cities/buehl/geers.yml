@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.694174000000004
 longitude: 8.135375400000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Hauptstraße"
 housenumber: 24

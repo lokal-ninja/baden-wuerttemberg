@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1677571
 longitude: 8.626045600000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Hauptstraße"
 housenumber: 29

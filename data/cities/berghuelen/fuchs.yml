@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.465427700000006
 longitude: 9.7528612
-postcode: 89180
+postcode: "89180"
 city: Berghülen
 street: "Sinkenbreite"
 housenumber: 17

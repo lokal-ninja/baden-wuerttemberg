@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 47.5523578
 longitude: 7.9346455
-postcode: 79713
+postcode: "79713"
 city: Bad Säckingen
 street: "Tullastraße"
 housenumber: 14

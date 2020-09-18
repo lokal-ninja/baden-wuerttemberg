@@ -3,10 +3,10 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.266890200000006
 longitude: 8.8463206
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Widerholdstraße"
 housenumber: 20
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
 website: ""

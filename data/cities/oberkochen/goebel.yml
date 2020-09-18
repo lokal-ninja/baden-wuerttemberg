@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.786552500000006
 longitude: 10.107590100000001
-postcode: 73447
+postcode: "73447"
 city: Oberkochen
 street: "Bürgermeister-Bosch-Straße"
 housenumber: 9

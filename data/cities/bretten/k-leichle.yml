@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0406983
 longitude: 8.6740677
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Am Saalbach"
 housenumber: 1

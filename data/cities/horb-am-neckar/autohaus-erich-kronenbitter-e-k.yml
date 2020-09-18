@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.441487
 longitude: 8.6805374
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Stadionstraße"
 housenumber: 1

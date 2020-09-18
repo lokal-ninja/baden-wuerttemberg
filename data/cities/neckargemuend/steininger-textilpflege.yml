@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.3947194
 longitude: 8.797006300000001
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Hauptstraße"
 housenumber: 71

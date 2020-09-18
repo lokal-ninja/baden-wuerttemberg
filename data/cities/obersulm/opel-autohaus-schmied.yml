@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.1331305
 longitude: 9.359825200000001
-postcode: 74182
+postcode: "74182"
 city: Obersulm
 street: "Robert-Bosch-Straße"
 housenumber: 1

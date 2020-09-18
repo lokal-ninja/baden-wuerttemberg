@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9584667
 longitude: 9.2461742
-postcode: 71711
+postcode: "71711"
 city: Murr
 street: "Im Langen Feld"
 housenumber: 12

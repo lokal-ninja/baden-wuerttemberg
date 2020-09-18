@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.6887119
 longitude: 9.6304432
-postcode: 73035
+postcode: "73035"
 city: Göppingen
 street: "Herdweg"
 housenumber: 9

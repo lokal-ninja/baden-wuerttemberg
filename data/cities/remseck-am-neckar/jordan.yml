@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.864328400000005
 longitude: 9.2530417
-postcode: 71686
+postcode: "71686"
 city: Remseck am Neckar
 street: "Cannstatter Straße"
 housenumber: 1

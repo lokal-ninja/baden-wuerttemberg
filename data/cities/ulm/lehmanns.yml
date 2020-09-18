@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.399810300000006
 longitude: 9.987129600000001
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Wengengasse"
 housenumber: 27

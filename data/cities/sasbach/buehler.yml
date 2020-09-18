@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.6394128
 longitude: 8.0921508
-postcode: 77880
+postcode: "77880"
 city: Sasbach
 street: "Hauptstraße"
 housenumber: 3

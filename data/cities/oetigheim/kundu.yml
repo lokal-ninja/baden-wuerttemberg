@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.888445000000004
 longitude: 8.2415863
-postcode: 76470
+postcode: "76470"
 city: Ötigheim
 street: "Industriestraße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.8295049
 longitude: 9.3138868
-postcode: 71332
+postcode: "71332"
 city: Waiblingen
 street: "Bahnhofstraße"
 housenumber: 5

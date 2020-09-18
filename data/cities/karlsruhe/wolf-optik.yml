@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.999420400000005
 longitude: 8.468106200000001
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 82

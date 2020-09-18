@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.765553100000005
 longitude: 9.8213899
-postcode: 73550
+postcode: "73550"
 city: Waldstetten
 street: "Breitestraße"
 housenumber: 4

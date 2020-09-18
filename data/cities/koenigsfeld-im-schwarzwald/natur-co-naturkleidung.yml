@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.141268800000006
 longitude: 8.42281
-postcode: 78126
+postcode: "78126"
 city: Königsfeld im Schwarzwald
 street: "Luisenstraße"
 housenumber: 16

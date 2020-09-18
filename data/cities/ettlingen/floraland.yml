@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.9459352
 longitude: 8.3837671
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Hertzstraße"
 housenumber: 3

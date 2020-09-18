@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1887144
 longitude: 9.201307700000001
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Neckargartacher Straße"
 housenumber: 73

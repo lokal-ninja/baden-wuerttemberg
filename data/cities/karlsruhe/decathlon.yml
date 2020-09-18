@@ -3,10 +3,10 @@ type: node
 shop: Sport
 latitude: 49.009415800000006
 longitude: 8.394170500000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 217
-phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su off"
-website: "https://www.decathlon.de/"
+phone: "+49 721 91545510"
+opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
+website: "https://www.decathlon.de/store-view/filiale-karlsruhe-0070156201562"

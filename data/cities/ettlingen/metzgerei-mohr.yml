@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.9258054
 longitude: 8.3636462
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Ersigstraße"
 housenumber: 12

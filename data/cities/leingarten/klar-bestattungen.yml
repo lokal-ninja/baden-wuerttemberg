@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.143461
 longitude: 9.125006500000001
-postcode: 74211
+postcode: "74211"
 city: Leingarten
 street: "Heilbronner Straße"
 housenumber: 44

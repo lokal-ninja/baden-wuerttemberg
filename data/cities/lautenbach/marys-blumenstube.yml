@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.519818
 longitude: 8.1086706
-postcode: 77794
+postcode: "77794"
 city: Lautenbach
 street: "In den Locherlen"
 housenumber: 22

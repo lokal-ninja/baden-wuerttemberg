@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.982813400000005
 longitude: 9.4580949
-postcode: 71570
+postcode: "71570"
 city: Oppenweiler
 street: "Hauptstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 47.9188604
 longitude: 7.8549879
-postcode: 79289
+postcode: "79289"
 city: Horben
 street: "Eckhofweg"
 housenumber: 1

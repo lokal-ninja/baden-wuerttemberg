@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.6878224
 longitude: 8.1151436
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Robert-Bosch-Straße"
 housenumber: 12a

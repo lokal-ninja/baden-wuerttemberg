@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.739418500000006
 longitude: 8.9606606
-postcode: 78315
+postcode: "78315"
 city: Radolfzell am Bodensee
 street: "Friedrich-Werber-Straße"
 housenumber: 19

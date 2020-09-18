@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.826921500000005
 longitude: 9.0994845
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Motorstraße"
 housenumber: 38

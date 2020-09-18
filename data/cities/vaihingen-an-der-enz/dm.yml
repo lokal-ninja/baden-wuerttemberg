@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.9267927
 longitude: 8.9665646
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Hertzstraße"
 housenumber: 9

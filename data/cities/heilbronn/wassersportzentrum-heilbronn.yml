@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 49.142955900000004
 longitude: 9.226805800000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Gymnasiumstraße"
 housenumber: 72

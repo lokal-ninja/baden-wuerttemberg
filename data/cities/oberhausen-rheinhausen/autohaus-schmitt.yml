@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.266997200000006
 longitude: 8.474172300000001
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Weiherweg"
 housenumber: 27

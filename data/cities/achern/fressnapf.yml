@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.6300837
 longitude: 8.0587427
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Güterhallenstraße"
 housenumber: 13

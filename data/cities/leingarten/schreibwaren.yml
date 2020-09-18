@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.144766000000004
 longitude: 9.1208826
-postcode: 74211
+postcode: "74211"
 city: Leingarten
 street: "Brühlstraße"
 housenumber: 8

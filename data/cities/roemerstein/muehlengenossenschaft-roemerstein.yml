@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.4968933
 longitude: 9.5147932
-postcode: 72587
+postcode: "72587"
 city: Römerstein
 street: "Burgstraße"
 housenumber: 5

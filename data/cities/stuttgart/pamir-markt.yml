@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.729710700000005
 longitude: 9.1104565
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Hauptstraße"
 housenumber: 19

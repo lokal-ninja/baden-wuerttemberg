@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.916042700000006
 longitude: 9.3703406
-postcode: 71576
+postcode: "71576"
 city: Burgstetten
 street: "Untere Hofstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.707472800000005
 longitude: 9.7331344
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Brückenstraße"
 housenumber: 6

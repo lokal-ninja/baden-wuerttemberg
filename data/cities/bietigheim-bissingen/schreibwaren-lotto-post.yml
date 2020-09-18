@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.9469653
 longitude: 9.1459955
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Buchstraße"
 housenumber: 22

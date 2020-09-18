@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.8112208
 longitude: 9.2851865
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Thomas-Mann-Straße"
 housenumber: 42

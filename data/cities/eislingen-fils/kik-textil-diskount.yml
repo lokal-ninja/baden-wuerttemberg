@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.697971200000005
 longitude: 9.709084500000001
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Salacher Straße"
 housenumber: 22

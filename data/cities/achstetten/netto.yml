@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2576173
 longitude: 9.9017275
-postcode: 88480
+postcode: "88480"
 city: Achstetten
 street: "Paradiesstraße"
 housenumber: 31

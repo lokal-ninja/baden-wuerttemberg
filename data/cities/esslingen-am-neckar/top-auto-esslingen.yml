@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.7380343
 longitude: 9.2919271
-postcode: 73734
+postcode: "73734"
 city: Esslingen am Neckar
 street: "Boschstraße"
 housenumber: 8

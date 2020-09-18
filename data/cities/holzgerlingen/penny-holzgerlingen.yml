@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6310602
 longitude: 9.0176564
-postcode: 71088
+postcode: "71088"
 city: Holzgerlingen
 street: "Tübinger Straße"
 housenumber: 111

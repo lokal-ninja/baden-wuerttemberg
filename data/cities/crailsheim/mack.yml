@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.133120500000004
 longitude: 10.0745895
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Ellwanger Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2470907
 longitude: 8.8764529
-postcode: 74889
+postcode: "74889"
 city: Sinsheim
 street: "Steinsbergstraße"
 housenumber: 5

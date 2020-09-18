@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.246095100000005
 longitude: 8.501645100000001
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Franz-Sigel-Straße"
 housenumber: 1

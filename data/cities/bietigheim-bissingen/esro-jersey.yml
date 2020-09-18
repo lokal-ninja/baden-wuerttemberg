@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.9479254
 longitude: 9.145453100000001
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Nelkenweg"
 housenumber: 1

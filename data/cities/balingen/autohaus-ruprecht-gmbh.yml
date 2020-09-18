@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2899138
 longitude: 8.848595000000001
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Menzelstraße"
 housenumber: 2

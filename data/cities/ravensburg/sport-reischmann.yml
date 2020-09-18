@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.781439500000005
 longitude: 9.6099946
-postcode: 88214
+postcode: "88214"
 city: Ravensburg
 street: "Bachstraße"
 housenumber: 52

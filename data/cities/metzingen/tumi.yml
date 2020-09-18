@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.5365698
 longitude: 9.280159600000001
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Reutlinger Straße"
 housenumber: 46-54

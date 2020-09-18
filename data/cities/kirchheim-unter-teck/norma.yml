@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.636675700000005
 longitude: 9.466354
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Tannenbergstraße"
 housenumber: 113

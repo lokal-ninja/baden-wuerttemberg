@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.2289188
 longitude: 8.5159053
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Mannheimer Straße"
 housenumber: 71

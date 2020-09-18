@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.0969277
 longitude: 8.528208900000001
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Au in den Buchen"
 housenumber: 97

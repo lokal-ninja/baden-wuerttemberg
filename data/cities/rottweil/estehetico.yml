@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.165327600000005
 longitude: 8.6261129
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Stadtgrabenstraße"
 housenumber: 5

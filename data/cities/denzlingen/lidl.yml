@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0673505
 longitude: 7.869072600000001
-postcode: 79211
+postcode: "79211"
 city: Denzlingen
 street: "Kronenstraße"
 housenumber: 30

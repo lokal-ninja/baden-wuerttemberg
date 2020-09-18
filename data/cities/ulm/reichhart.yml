@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.398854400000005
 longitude: 9.990198000000001
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Pfauengasse"
 housenumber: 4

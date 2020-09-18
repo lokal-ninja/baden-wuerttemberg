@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9911175
 longitude: 7.7986918
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "St. Georgener Straße"
 housenumber: 1

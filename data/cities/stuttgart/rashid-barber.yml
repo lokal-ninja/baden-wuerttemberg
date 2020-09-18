@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7719698
 longitude: 9.1739073
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Sophienstraße"
 housenumber: 24A

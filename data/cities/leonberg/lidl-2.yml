@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.784948400000005
 longitude: 9.019459900000001
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Glemseckstraße"
 housenumber: 65

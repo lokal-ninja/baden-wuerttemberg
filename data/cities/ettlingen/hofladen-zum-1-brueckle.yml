@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.953468900000004
 longitude: 8.422148100000001
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Durlacher Straße"
 housenumber: 34a

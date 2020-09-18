@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.384926400000005
 longitude: 8.571830400000001
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: ""
 housenumber: 

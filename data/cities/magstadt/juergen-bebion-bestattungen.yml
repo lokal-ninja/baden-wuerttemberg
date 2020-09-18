@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.742336900000005
 longitude: 8.9649473
-postcode: 71106
+postcode: "71106"
 city: Magstadt
 street: "Alte Stuttgarter Straße"
 housenumber: 11

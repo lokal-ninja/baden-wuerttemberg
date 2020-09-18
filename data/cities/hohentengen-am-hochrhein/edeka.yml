@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.569783900000004
 longitude: 8.4339768
-postcode: 79801
+postcode: "79801"
 city: Hohentengen am Hochrhein
 street: "Hauptstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.692620100000006
 longitude: 9.2706707
-postcode: 88709
+postcode: "88709"
 city: Meersburg
 street: "Seepromenade"
 housenumber: 11

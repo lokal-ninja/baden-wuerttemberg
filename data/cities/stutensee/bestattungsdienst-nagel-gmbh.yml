@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.1121393
 longitude: 8.5103265
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Spechaastraße"
 housenumber: 22

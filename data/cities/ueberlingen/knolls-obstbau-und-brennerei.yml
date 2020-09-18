@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.8021751
 longitude: 9.228798300000001
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Bamberger Straße"
 housenumber: 8

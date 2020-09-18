@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.613195700000006
 longitude: 10.2498488
-postcode: 89537
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Giengener Weg"
 housenumber: 66

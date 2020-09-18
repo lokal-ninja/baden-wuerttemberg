@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9931375
 longitude: 9.143987300000001
-postcode: 74354
+postcode: "74354"
 city: Besigheim
 street: "Gottlob-Müller-Straße"
 housenumber: 1

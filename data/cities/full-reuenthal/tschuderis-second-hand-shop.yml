@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.6186342
 longitude: 8.2129885
-postcode: 5324
+postcode: "5324"
 city: Full-Reuenthal
 street: "Hauptstrasse"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.762750700000005
 longitude: 9.2684382
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Augsburger Straße"
 housenumber: 684

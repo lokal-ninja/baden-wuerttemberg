@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.171615300000006
 longitude: 8.617005
-postcode: 76698
+postcode: "76698"
 city: Ubstadt-Weiher
 street: "Ubstadter Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.7994727
 longitude: 9.0621276
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Hauptstraße"
 housenumber: 21

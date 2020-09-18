@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.5182878
 longitude: 8.5560983
-postcode: 68309
+postcode: "68309"
 city: Mannheim
 street: "Spreewaldallee"
 housenumber: 

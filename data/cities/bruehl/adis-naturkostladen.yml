@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4101409
 longitude: 8.533668200000001
-postcode: 68782
+postcode: "68782"
 city: Brühl
 street: "Luftschiffring"
 housenumber: 3a

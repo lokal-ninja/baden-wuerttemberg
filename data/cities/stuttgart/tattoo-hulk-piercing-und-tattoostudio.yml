@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.790907700000005
 longitude: 9.1986446
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Neckarstraße"
 housenumber: 180

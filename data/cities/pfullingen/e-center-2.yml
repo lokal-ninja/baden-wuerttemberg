@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.479947
 longitude: 9.2231185
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Römerstraße"
 housenumber: 145

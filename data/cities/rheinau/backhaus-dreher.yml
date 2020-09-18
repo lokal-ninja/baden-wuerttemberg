@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6276816
 longitude: 7.897439500000001
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Tullastraße"
 housenumber: 2

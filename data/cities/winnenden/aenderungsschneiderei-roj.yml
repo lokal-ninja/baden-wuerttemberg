@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 48.8759856
 longitude: 9.398011200000001
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Wagnerstraße"
 housenumber: 8

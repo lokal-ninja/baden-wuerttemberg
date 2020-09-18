@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0077027
 longitude: 8.3816703
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Sophienstraße"
 housenumber: 99

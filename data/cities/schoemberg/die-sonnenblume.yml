@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.787589600000004
 longitude: 8.647347100000001
-postcode: 75328
+postcode: "75328"
 city: Schömberg
 street: "Liebenzeller Straße"
 housenumber: 9

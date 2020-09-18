@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.680278200000004
 longitude: 8.3579594
-postcode: 76596
+postcode: "76596"
 city: Forbach
 street: "Hauptstraße"
 housenumber: 66

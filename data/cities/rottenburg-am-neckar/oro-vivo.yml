@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.4769401
 longitude: 8.9339697
-postcode: 72108
+postcode: "72108"
 city: Rottenburg am Neckar
 street: "Marktplatz"
 housenumber: 19

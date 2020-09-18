@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3833817
 longitude: 9.7070068
-postcode: 74677
+postcode: "74677"
 city: Dörzbach
 street: "Hauptstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.80045560000001
 longitude: 9.8312951
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Benzholzstraße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.2781436
 longitude: 8.0885414
-postcode: 77716
+postcode: "77716"
 city: Haslach im Kinzigtal
 street: "Alte Eisenbahnstraße"
 housenumber: 2

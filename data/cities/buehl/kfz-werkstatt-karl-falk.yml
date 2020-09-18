@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7056668
 longitude: 8.1265724
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Industriestraße"
 housenumber: 16

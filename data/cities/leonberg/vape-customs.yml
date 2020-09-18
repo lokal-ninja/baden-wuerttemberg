@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 48.7949775
 longitude: 9.007868700000001
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Brennerstraße"
 housenumber: 24

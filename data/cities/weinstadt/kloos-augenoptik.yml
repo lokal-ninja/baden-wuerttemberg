@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.812107600000004
 longitude: 9.3647966
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Strümpfelbacher Straße"
 housenumber: 31

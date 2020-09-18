@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.932081600000004
 longitude: 9.2421606
-postcode: 88630
+postcode: "88630"
 city: Pfullendorf
 street: "Otterswanger Straße"
 housenumber: 5/3

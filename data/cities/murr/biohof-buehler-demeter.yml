@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.967541000000004
 longitude: 9.2515646
-postcode: 71711
+postcode: "71711"
 city: Murr
 street: "Hohenhartweg"
 housenumber: 14

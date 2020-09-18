@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.9688668
 longitude: 9.2823426
-postcode: 71711
+postcode: "71711"
 city: Steinheim an der Murr
 street: "Kleinbottwarer Straße"
 housenumber: 58

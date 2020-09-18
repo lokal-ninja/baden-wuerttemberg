@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.686119500000004
 longitude: 9.017547
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Am Käppele"
 housenumber: 9

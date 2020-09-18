@@ -3,7 +3,7 @@ type: node
 shop: Wolle
 latitude: 48.722151600000004
 longitude: 9.2087492
-postcode: 70599
+postcode: "70599"
 city: Stuttgart
 street: "Birkheckenstraße"
 housenumber: 1

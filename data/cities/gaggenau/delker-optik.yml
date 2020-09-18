@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.80354680000001
 longitude: 8.3207655
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Friedrich-Ebert-Straße"
 housenumber: 9

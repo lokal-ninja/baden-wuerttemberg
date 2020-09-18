@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.939291700000005
 longitude: 8.3754604
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Siemensstraße"
 housenumber: 19

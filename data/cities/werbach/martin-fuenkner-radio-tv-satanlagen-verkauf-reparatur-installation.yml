@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.6987182
 longitude: 9.7063231
-postcode: 97956
+postcode: "97956"
 city: Werbach
 street: "Hindenburgstraße"
 housenumber: 24

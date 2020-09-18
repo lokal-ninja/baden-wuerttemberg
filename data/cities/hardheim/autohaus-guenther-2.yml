@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.605804000000006
 longitude: 9.4751054
-postcode: 74736
+postcode: "74736"
 city: Hardheim
 street: "Walldürner Straße"
 housenumber: 29

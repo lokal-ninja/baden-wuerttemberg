@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.0775391
 longitude: 9.066531600000001
-postcode: 74336
+postcode: "74336"
 city: Brackenheim
 street: "Rosengasse"
 housenumber: 10

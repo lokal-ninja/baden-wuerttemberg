@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.062197000000005
 longitude: 9.062086
-postcode: 74336
+postcode: "74336"
 city: Brackenheim
 street: "Schleifweg"
 housenumber: 32

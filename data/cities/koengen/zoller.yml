@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.685658600000004
 longitude: 9.3634052
-postcode: 73257
+postcode: "73257"
 city: Köngen
 street: "Golterstraße"
 housenumber: 

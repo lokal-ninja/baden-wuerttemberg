@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 47.9977388
 longitude: 7.8397541
-postcode: 79106
+postcode: "79106"
 city: Freiburg im Breisgau
 street: "Wentzingerstraße"
 housenumber: 36

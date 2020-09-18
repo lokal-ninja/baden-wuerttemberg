@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.9678145
 longitude: 8.4105485
-postcode: 76199
+postcode: "76199"
 city: Karlsruhe
 street: "Hegaustraße"
 housenumber: 12

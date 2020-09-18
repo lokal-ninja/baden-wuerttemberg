@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 48.657612400000005
 longitude: 9.0584852
-postcode: 71101
+postcode: "71101"
 city: Schönaich
 street: "Böblinger Straße"
 housenumber: 11

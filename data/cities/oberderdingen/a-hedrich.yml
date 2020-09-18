@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.063255000000005
 longitude: 8.801364900000001
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Flehinger Straße"
 housenumber: 14

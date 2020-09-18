@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.946119700000004
 longitude: 8.3777302
-postcode: 
+postcode: ""
 city: Ettlingen
 street: "Zeppelinstraße"
 housenumber: 9

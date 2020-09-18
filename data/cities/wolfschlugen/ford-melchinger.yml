@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.651209200000004
 longitude: 9.295927800000001
-postcode: 72649
+postcode: "72649"
 city: Wolfschlugen
 street: "Nürtinger Straße"
 housenumber: 49

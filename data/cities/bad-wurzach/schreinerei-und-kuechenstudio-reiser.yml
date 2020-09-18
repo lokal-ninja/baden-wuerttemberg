@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 47.9051483
 longitude: 9.893342200000001
-postcode: 88410
+postcode: "88410"
 city: Bad Wurzach
 street: "Alte Straße"
 housenumber: 21

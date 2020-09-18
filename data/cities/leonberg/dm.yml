@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.798232600000006
 longitude: 9.0040884
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Steinbeisstraße"
 housenumber: 1

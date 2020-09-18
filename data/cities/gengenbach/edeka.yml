@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.401003200000005
 longitude: 8.007864
-postcode: 77723
+postcode: "77723"
 city: Gengenbach
 street: "Berghauptener Straße"
 housenumber: 29

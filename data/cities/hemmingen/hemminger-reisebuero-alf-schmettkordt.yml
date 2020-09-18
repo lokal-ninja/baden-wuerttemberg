@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.865874700000006
 longitude: 9.0321633
-postcode: 71282
+postcode: "71282"
 city: Hemmingen
 street: "Eisgasse"
 housenumber: 4

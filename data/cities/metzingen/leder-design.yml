@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5393155
 longitude: 9.2827968
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Kronenstraße"
 housenumber: 3

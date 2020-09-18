@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 49.449401200000004
 longitude: 8.8951299
-postcode: 69434
+postcode: "69434"
 city: Hirschhorn
 street: "Hainbrunner Straße"
 housenumber: 12

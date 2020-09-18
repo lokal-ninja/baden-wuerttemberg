@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.7459159
 longitude: 9.6648817
-postcode: 73102
+postcode: "73102"
 city: Birenbach
 street: "Turnhallenweg"
 housenumber: 1

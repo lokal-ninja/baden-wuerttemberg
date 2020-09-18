@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.236180000000004
 longitude: 8.6357411
-postcode: 76669
+postcode: "76669"
 city: Bad Schönborn
 street: "Bruchhöfe"
 housenumber: 3

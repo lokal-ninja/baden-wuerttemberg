@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.810273900000006
 longitude: 9.1639575
-postcode: 70469
+postcode: "70469"
 city: Stuttgart
 street: "Stuttgarter Straße"
 housenumber: 33

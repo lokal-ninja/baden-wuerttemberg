@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4810376
 longitude: 8.5501977
-postcode: 68549
+postcode: "68549"
 city: Ilvesheim
 street: "Feudenheimer Straße"
 housenumber: 61

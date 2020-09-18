@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.749096200000004
 longitude: 8.0378758
-postcode: 77836
+postcode: "77836"
 city: Rheinmünster
 street: "Withig"
 housenumber: 4

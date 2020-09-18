@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.4976594
 longitude: 9.1508239
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Allmendstraße"
 housenumber: 6

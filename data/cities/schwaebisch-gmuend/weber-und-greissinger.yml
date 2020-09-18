@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.7986646
 longitude: 9.793607600000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Bocksgasse"
 housenumber: 45

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2452325
 longitude: 9.2233534
-postcode: 72501
+postcode: "72501"
 city: Gammertingen
 street: "Sigmaringer Straße"
 housenumber: 42

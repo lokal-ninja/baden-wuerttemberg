@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 49.3916605
 longitude: 8.6617958
-postcode: 69124
+postcode: "69124"
 city: Heidelberg
 street: "Oftersheimer Weg"
 housenumber: 8

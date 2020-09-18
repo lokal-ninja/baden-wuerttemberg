@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0211744
 longitude: 8.4583739
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "An der Tagweide"
 housenumber: 4

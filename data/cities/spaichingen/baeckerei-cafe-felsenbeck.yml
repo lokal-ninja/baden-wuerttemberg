@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.072634400000005
 longitude: 8.7405152
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Hauptstraße"
 housenumber: 84

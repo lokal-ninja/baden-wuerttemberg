@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 49.5282015
 longitude: 8.5719484
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Bürgermeister-Neff-Straße"
 housenumber: 5

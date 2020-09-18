@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.9064525
 longitude: 9.1353303
-postcode: 71679
+postcode: "71679"
 city: Asperg
 street: "Königstraße"
 housenumber: 23

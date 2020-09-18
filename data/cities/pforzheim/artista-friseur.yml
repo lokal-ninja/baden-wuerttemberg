@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.899331000000004
 longitude: 8.7053589
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Karolingerstraße"
 housenumber: 30

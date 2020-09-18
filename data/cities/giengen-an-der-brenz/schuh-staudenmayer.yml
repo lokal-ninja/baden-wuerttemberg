@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.6204687
 longitude: 10.2465767
-postcode: 89537
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Marktstraße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.7320797
 longitude: 9.813725900000001
-postcode: 73550
+postcode: "73550"
 city: Waldstetten
 street: "Donzdorfer Straße"
 housenumber: 16

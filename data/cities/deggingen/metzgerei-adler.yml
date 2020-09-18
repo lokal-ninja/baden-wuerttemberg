@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.5958039
 longitude: 9.7192032
-postcode: 73326
+postcode: "73326"
 city: Deggingen
 street: "Hauptstraße"
 housenumber: 38

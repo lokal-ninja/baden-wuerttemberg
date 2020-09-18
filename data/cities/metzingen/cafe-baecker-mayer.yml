@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5387117
 longitude: 9.288217600000001
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Hindenburgstraße"
 housenumber: 43 - 47

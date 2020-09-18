@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.724719900000004
 longitude: 8.1082052
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Vimbucher Straße"
 housenumber: 75

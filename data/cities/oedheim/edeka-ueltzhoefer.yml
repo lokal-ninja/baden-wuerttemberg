@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2388436
 longitude: 9.2495674
-postcode: 74229
+postcode: "74229"
 city: Oedheim
 street: "Kochendorfer Straße"
 housenumber: 16

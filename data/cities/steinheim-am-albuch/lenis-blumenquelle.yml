@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.6916025
 longitude: 10.0594637
-postcode: 89555
+postcode: "89555"
 city: Steinheim am Albuch
 street: "Hauptstraße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.14360670000001
 longitude: 9.2200442
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Gemmingergasse"
 housenumber: 1

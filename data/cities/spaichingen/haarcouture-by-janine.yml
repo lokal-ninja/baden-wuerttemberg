@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.073177400000006
 longitude: 8.735140300000001
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Martin-Luther-Straße"
 housenumber: 3

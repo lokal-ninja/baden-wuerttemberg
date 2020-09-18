@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.175709600000005
 longitude: 10.1448744
-postcode: 
+postcode: ""
 city: Satteldorf
 street: "Gersbacher Straße"
 housenumber: 3

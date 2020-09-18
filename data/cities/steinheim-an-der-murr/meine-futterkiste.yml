@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.982888200000005
 longitude: 9.250120200000001
-postcode: 71711
+postcode: "71711"
 city: Steinheim an der Murr
 street: "Obere Seewiesen"
 housenumber: 56

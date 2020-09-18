@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.9416397
 longitude: 9.2965225
-postcode: 71729
+postcode: "71729"
 city: Erdmannhausen
 street: "Kirchstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 48.453805200000005
 longitude: 9.425385700000001
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Enge"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.8003949
 longitude: 9.6936424
-postcode: 88281
+postcode: "88281"
 city: Schlier
 street: "Altdorfer Straße"
 housenumber: 25

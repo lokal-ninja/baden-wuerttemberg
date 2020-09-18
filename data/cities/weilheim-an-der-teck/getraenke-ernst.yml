@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.6158975
 longitude: 9.537983500000001
-postcode: 73235
+postcode: "73235"
 city: Weilheim an der Teck
 street: "Brunnenstraße"
 housenumber: 4

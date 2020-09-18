@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.678971700000005
 longitude: 9.3051545
-postcode: 88709
+postcode: "88709"
 city: Hagnau am Bodensee
 street: "Höhenweg"
 housenumber: 59

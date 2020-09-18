@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.825527900000004
 longitude: 10.0234798
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Evangelische Kirchgasse"
 housenumber: 4

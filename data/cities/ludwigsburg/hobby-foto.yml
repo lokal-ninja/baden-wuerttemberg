@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.894739900000005
 longitude: 9.1902874
-postcode: 71638
+postcode: "71638"
 city: Ludwigsburg
 street: "Seestraße"
 housenumber: 14

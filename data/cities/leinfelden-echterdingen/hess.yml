@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.6924149
 longitude: 9.1465371
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Echterdinger Straße"
 housenumber: 37

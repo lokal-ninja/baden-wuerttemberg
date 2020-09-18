@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.5216993
 longitude: 8.8348674
-postcode: 71149
+postcode: "71149"
 city: Bondorf
 street: "Hindenburgstraße"
 housenumber: 51

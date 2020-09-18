@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.368234900000004
 longitude: 8.5757075
-postcode: 68723
+postcode: "68723"
 city: Oftersheim
 street: "Eichendorffstraße"
 housenumber: 42

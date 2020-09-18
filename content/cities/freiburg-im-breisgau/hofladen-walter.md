@@ -1,4 +1,4 @@
 ---
-title: "Hofladen Walter"
+title: "hofladen walter"
 url: /freiburg-im-breisgau/hofladen-walter/
 ---

@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 48.5933762
 longitude: 9.2408169
-postcode: 72654
+postcode: "72654"
 city: Neckartenzlingen
 street: "Altdorfer Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 47.641079000000005
 longitude: 7.7012162
-postcode: 79541
+postcode: "79541"
 city: Lörrach
 street: "Im Entenbad"
 housenumber: 19

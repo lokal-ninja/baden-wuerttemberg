@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6865785
 longitude: 9.555419200000001
-postcode: 88074
+postcode: "88074"
 city: Meckenbeuren
 street: "Sömmeringstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.1429203
 longitude: 9.2110511
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Bahnhofstraße"
 housenumber: 12

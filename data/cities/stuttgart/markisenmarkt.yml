@@ -3,7 +3,7 @@ type: way
 shop: Jalousien
 latitude: 48.732866900000005
 longitude: 9.105465800000001
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Gartenstraße"
 housenumber: 37

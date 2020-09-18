@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.854150700000005
 longitude: 8.480138100000001
-postcode: 76359
+postcode: "76359"
 city: Marxzell
 street: "Im Gewerbegebiet"
 housenumber: 22

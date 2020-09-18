@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 48.5955157
 longitude: 8.86795
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Bronngasse"
 housenumber: 19
-phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-14:00"
-website: ""
+phone: "+49 7032 5318"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Sa[1] 09:00-16:00; PH off"
+website: "https://www.schuh-breitner.de/"

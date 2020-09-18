@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2329317
 longitude: 8.794147200000001
-postcode: 72359
+postcode: "72359"
 city: Dotternhausen
 street: "Robert-Koch-Straße"
 housenumber: 3

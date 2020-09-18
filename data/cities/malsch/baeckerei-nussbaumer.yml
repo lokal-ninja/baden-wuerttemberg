@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.883909200000005
 longitude: 8.333856500000001
-postcode: 76316
+postcode: "76316"
 city: Malsch
 street: "Neuwiesenstraße"
 housenumber: 2

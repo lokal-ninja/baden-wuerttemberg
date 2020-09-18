@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.8004699
 longitude: 7.913037500000001
-postcode: 79694
+postcode: "79694"
 city: Utzenfeld
 street: "Wiesentalstraße"
 housenumber: 2

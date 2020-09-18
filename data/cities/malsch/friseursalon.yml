@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.245266300000004
 longitude: 8.6732569
-postcode: 69254
+postcode: "69254"
 city: Malsch
 street: "Hauptstraße"
 housenumber: 11

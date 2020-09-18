@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.0667593
 longitude: 8.8036993
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Flehinger Straße"
 housenumber: 49

@@ -3,10 +3,10 @@ type: way
 shop: Möbel
 latitude: 48.628940400000005
 longitude: 8.077173
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Hauptstraße"
 housenumber: 93
 phone: "+49 7841 6730790"
 opening_hours: "Mo-Fr 09:00-12:00,14:30-18:30; Sa 09:00-13:00; Sa[1] 09:00-16:00"
-website: "https://www.pinter-moebel.com/"
+website: "https://www.pinter-moebel.de"

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 47.669710300000006
 longitude: 9.592577200000001
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Schöneckstraße"
 housenumber: 6

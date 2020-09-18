@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.81586780000001
 longitude: 9.2761486
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Eberhardstraße"
 housenumber: 45

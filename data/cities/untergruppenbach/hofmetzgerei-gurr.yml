@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.0809506
 longitude: 9.2646531
-postcode: 74199
+postcode: "74199"
 city: Untergruppenbach
 street: "Tränke"
 housenumber: 2

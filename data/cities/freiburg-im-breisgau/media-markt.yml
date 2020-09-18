@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.98559
 longitude: 7.809423600000001
-postcode: 79115
+postcode: "79115"
 city: Freiburg im Breisgau
 street: "Bettackerstraße"
 housenumber: 1-3

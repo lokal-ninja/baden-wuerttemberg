@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.6387013
 longitude: 9.6156728
-postcode: 73087
+postcode: "73087"
 city: Bad Boll
 street: "Badstraße"
 housenumber: 5

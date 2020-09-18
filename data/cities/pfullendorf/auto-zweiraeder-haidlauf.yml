@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.9107727
 longitude: 9.200582200000001
-postcode: 88630
+postcode: "88630"
 city: Pfullendorf
 street: "Bodenseestraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.5869986
 longitude: 8.4867051
-postcode: 68623
+postcode: "68623"
 city: Lampertheim
 street: "Wierdenstraße"
 housenumber: 1a

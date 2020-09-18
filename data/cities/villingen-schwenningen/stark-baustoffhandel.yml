@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.0693052
 longitude: 8.458040800000001
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Singener Straße"
 housenumber: 6

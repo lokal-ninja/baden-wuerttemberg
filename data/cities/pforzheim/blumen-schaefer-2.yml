@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.9052426
 longitude: 8.7021146
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Wolfsbergallee"
 housenumber: 23a

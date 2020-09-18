@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8692397
 longitude: 8.8536642
-postcode: 71297
+postcode: "71297"
 city: Mönsheim
 street: "Im Gödelmann"
 housenumber: 1

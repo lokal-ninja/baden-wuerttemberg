@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2564548
 longitude: 8.4911597
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Marienstraße"
 housenumber: 81

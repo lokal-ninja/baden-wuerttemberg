@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.831611
 longitude: 10.0830079
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Fackelbrückenstraße"
 housenumber: 3

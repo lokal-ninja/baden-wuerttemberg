@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.670897700000005
 longitude: 9.4925653
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Rheinstraße"
 housenumber: 3

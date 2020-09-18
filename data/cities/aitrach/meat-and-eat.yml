@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.939369400000004
 longitude: 10.0907721
-postcode: 88319
+postcode: "88319"
 city: Aitrach
 street: "Hauptstraße"
 housenumber: 51

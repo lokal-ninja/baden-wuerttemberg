@@ -1,4 +1,4 @@
 ---
-title: "Lehmann's Bauernhof"
+title: "Lehmanns Bauernhof"
 url: /lahr-schwarzwald/lehmanns-bauernhof/
 ---

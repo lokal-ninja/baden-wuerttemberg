@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0355885
 longitude: 8.7012243
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Wilhelmstraße"
 housenumber: 37

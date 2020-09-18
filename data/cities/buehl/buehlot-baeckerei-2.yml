@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6970243
 longitude: 8.1389706
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Hänferstraße"
 housenumber: 1

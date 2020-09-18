@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0488401
 longitude: 8.4636376
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Buchenring"
 housenumber: 5

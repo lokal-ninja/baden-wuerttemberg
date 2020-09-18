@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 49.1194853
 longitude: 8.5769119
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Paul-Gerhardt-Straße"
 housenumber: 6

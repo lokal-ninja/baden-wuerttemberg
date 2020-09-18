@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.6786229
 longitude: 10.146619900000001
-postcode: 89518
+postcode: "89518"
 city: Heidenheim an der Brenz
 street: "Clichystraße"
 housenumber: 43

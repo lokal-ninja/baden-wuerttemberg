@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.801256200000005
 longitude: 9.797554400000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Nikolausgasse"
 housenumber: 3

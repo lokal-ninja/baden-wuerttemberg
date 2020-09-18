@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.7890924
 longitude: 9.0494106
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Stuttgarter Straße"
 housenumber: 24

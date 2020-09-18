@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.889136
 longitude: 9.237725000000001
-postcode: 71640
+postcode: "71640"
 city: Ludwigsburg
 street: "Neckargröninger Straße"
 housenumber: 40

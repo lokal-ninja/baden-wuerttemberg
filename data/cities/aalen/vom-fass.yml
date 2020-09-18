@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.838593800000005
 longitude: 10.093184
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Mittelbachstraße"
 housenumber: 19

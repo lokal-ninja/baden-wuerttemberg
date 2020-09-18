@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.9407311
 longitude: 8.4076997
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Entengasse"
 housenumber: 4

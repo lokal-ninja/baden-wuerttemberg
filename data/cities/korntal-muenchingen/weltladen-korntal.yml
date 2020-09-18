@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.830240100000005
 longitude: 9.1217567
-postcode: 70825
+postcode: "70825"
 city: Korntal-Münchingen
 street: "Johannes-Daur-Straße"
 housenumber: 8

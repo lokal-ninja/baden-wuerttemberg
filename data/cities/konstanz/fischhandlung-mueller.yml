@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 47.739769900000006
 longitude: 9.1501879
-postcode: 78465
+postcode: "78465"
 city: Konstanz
 street: "Vordere Weidstaud"
 housenumber: 14

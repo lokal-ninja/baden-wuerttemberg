@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4932357
 longitude: 9.2098083
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Untere Gerberstraße"
 housenumber: 1

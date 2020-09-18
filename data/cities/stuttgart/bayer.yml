@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7570022
 longitude: 9.253953300000001
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Fruchtstraße"
 housenumber: 1

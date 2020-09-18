@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.5550049
 longitude: 8.9629274
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Zeppelinstraße"
 housenumber: 28

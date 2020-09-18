@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.6671264
 longitude: 9.3704523
-postcode: 88090
+postcode: "88090"
 city: Immenstaad am Bodensee
 street: "Adlerstraße"
 housenumber: 22

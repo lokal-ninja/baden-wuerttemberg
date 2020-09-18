@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.804041600000005
 longitude: 9.0513241
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Im Brückle"
 housenumber: 3

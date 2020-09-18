@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5458288
 longitude: 8.6598973
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Mierendorffstraße"
 housenumber: 5

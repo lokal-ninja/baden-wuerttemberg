@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.1491478
 longitude: 8.641971100000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Römerstraße"
 housenumber: 80

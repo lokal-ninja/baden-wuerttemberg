@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.812117400000005
 longitude: 9.6334023
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Ettishofer Straße"
 housenumber: 9

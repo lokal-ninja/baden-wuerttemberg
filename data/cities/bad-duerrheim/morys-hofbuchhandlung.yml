@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.0195367
 longitude: 8.5316043
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Friedrichstraße"
 housenumber: 1

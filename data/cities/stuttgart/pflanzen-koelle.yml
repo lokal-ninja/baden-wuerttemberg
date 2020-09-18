@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.842974100000006
 longitude: 9.13715
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Schwieberdinger Straße"
 housenumber: 238

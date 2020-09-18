@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.6866283
 longitude: 9.1666743
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Hauptstraße"
 housenumber: 42

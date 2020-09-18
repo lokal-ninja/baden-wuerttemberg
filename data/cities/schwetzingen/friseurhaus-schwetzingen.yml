@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3813624
 longitude: 8.5756349
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Bismarckstraße"
 housenumber: 2

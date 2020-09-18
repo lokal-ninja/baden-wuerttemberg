@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.4813527
 longitude: 9.2496574
-postcode: 72800
+postcode: "72800"
 city: Eningen unter Achalm
 street: "Frauenkirchstraße"
 housenumber: 4

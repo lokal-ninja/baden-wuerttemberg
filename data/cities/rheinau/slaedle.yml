@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.6397825
 longitude: 7.871367800000001
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Kirchplatz"
 housenumber: 2

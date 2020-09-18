@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7837011
 longitude: 10.1007431
-postcode: 73447
+postcode: "73447"
 city: Oberkochen
 street: "Frühlingstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.773529800000006
 longitude: 8.3864278
-postcode: 76597
+postcode: "76597"
 city: Loffenau
 street: "Schulgasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.1436487
 longitude: 9.1252653
-postcode: 74211
+postcode: "74211"
 city: Leingarten
 street: "Heilbronner Straße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9150627
 longitude: 8.4267597
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Im Stecken"
 housenumber: 2

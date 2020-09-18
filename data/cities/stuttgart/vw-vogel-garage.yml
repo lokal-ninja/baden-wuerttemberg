@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.811745800000004
 longitude: 9.1498304
-postcode: 70469
+postcode: "70469"
 city: Stuttgart
 street: "Salzburger Straße"
 housenumber: 46-56

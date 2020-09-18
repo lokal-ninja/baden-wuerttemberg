@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 47.5870886
 longitude: 8.294267900000001
-postcode: 5330
+postcode: "5330"
 city: Bad Zurzach
 street: "Schwertgasse"
 housenumber: 10

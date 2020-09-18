@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.692716000000004
 longitude: 9.5663914
-postcode: 73095
+postcode: "73095"
 city: Albershausen
 street: "Uhinger Straße"
 housenumber: 19

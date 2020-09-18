@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 48.860849300000005
 longitude: 8.215451
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: ""
 housenumber: 

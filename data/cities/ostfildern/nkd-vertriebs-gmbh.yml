@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7186521
 longitude: 9.2307466
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Heumadener Straße"
 housenumber: 12

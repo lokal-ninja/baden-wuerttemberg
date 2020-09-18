@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.247476400000004
 longitude: 9.1836099
-postcode: 72419
+postcode: "72419"
 city: Neufra
 street: "Hohenzollernstraße"
 housenumber: 19

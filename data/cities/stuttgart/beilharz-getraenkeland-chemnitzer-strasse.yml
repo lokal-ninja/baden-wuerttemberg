@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.7383746
 longitude: 9.1664054
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Chemnitzer Straße"
 housenumber: 14

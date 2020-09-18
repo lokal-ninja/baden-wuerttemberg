@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.278971000000006
 longitude: 8.8523224
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Olgastraße"
 housenumber: 8

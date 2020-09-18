@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.0841104
 longitude: 8.552084
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Weingartener Straße"
 housenumber: 27

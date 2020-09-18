@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.8208805
 longitude: 9.2740247
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Ringstraße"
 housenumber: 15

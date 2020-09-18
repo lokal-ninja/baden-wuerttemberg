@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 48.6922599
 longitude: 8.180412200000001
-postcode: 77830
+postcode: "77830"
 city: Bühlertal
 street: "Hauptstraße"
 housenumber: 56a

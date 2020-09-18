@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.3992428
 longitude: 8.6775535
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Carl-Benz-Straße"
 housenumber: 2

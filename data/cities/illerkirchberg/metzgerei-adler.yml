@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.3377944
 longitude: 9.998668400000001
-postcode: 89171
+postcode: "89171"
 city: Illerkirchberg
 street: "Hauptstraße"
 housenumber: 38

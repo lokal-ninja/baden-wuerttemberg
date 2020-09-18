@@ -3,7 +3,7 @@ type: way
 shop: Leerstehend
 latitude: 47.6203793
 longitude: 8.089488600000001
-postcode: 79733
+postcode: "79733"
 city: Görwihl
 street: "Tiefenstein"
 housenumber: 99

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.297670100000005
 longitude: 9.963650600000001
-postcode: 74572
+postcode: "74572"
 city: Blaufelden
 street: "Rudolf-Diesel-Straße"
 housenumber: 29

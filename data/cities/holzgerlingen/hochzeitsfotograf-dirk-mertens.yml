@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.6391733
 longitude: 9.0166956
-postcode: 71088
+postcode: "71088"
 city: Holzgerlingen
 street: "Hermannstraße"
 housenumber: 14

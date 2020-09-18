@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.557271300000004
 longitude: 9.431600300000001
-postcode: 73268
+postcode: "73268"
 city: Erkenbrechtsweiler
 street: "Kirchstraße"
 housenumber: 5

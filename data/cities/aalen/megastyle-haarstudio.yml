@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.837419100000005
 longitude: 10.092739100000001
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Gmünder Straße"
 housenumber: 1

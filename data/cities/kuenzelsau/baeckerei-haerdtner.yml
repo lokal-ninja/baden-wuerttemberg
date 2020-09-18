@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.2776021
 longitude: 9.688607600000001
-postcode: 74653
+postcode: "74653"
 city: Künzelsau
 street: "Hauptstraße"
 housenumber: 1

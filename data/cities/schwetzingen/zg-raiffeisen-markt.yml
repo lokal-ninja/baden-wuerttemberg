@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.3769283
 longitude: 8.5604934
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Hockenheimer Landstraße"
 housenumber: 4/1

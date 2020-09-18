@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.455295500000005
 longitude: 8.500015600000001
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Morchfeldstraße"
 housenumber: 47

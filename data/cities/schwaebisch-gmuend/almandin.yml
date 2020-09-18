@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.801700100000005
 longitude: 9.7959551
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Ledergasse"
 housenumber: 2/3

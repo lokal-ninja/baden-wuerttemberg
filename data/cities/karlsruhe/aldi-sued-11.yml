@@ -1,12 +1,12 @@
-id: 332038375
+id: 371750300
 type: way
 shop: Supermarkt
-latitude: 48.9904427
-longitude: 8.3747222
-postcode: 76135
+latitude: 48.9907879
+longitude: 8.374807200000001
+postcode: "76135"
 city: Karlsruhe
 street: "Ortenbergstraße"
 housenumber: 6
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: ""
+opening_hours: "Mo-Sa 08:00-21:00; Ph,Su off"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Ortenbergstra%C3%9Fe%206%2076135%20Karlsruhe&Mode=None"

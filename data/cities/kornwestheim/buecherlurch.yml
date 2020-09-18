@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.864524
 longitude: 9.182956
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Bahnhofstraße"
 housenumber: 22

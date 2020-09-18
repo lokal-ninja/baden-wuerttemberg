@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.4042782
 longitude: 8.6848226
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Römerstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8698178
 longitude: 8.202592300000001
-postcode: 79853
+postcode: "79853"
 city: Lenzkirch
 street: "Schulstraße"
 housenumber: 2

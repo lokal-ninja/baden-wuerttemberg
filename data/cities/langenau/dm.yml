@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.4998659
 longitude: 10.134423400000001
-postcode: 89129
+postcode: "89129"
 city: Langenau
 street: "Benzstraße"
 housenumber: 3

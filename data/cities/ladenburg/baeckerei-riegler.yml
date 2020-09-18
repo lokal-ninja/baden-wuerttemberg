@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4717836
 longitude: 8.6045557
-postcode: 68526
+postcode: "68526"
 city: Ladenburg
 street: "Bahnhofstraße"
 housenumber: 21

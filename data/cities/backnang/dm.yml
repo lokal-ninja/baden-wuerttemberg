@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.947976600000004
 longitude: 9.4297792
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Im Biegel"
 housenumber: 8-10

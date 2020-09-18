@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.658444200000005
 longitude: 9.450943800000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Zeppelinstraße"
 housenumber: 78

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.519974700000006
 longitude: 9.0474937
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Schwärzlocher Straße"
 housenumber: 6

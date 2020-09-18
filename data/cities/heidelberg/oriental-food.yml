@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4084409
 longitude: 8.689351700000001
-postcode: 
+postcode: ""
 city: Heidelberg
 street: "Bergheimer Straße"
 housenumber: 33

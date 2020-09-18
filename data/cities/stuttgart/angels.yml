@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.833733900000006
 longitude: 9.1762306
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Beilsteiner Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 48.777970800000006
 longitude: 8.0874676
-postcode: 77836
+postcode: "77836"
 city: Rheinmünster
 street: "Halifax Avenue B"
 housenumber: 420

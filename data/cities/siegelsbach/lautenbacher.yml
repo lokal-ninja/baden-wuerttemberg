@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.271226500000004
 longitude: 9.090701000000001
-postcode: 74936
+postcode: "74936"
 city: Siegelsbach
 street: "Lindengasse"
 housenumber: 11

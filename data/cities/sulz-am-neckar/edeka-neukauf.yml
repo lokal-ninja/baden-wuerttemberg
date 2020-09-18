@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3679008
 longitude: 8.639923300000001
-postcode: 72172
+postcode: "72172"
 city: Sulz am Neckar
 street: "Bahnhofstraße"
 housenumber: 60

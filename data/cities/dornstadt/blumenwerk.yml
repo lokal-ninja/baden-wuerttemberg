@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.465669000000005
 longitude: 9.9414785
-postcode: 89160
+postcode: "89160"
 city: Dornstadt
 street: "Lange Straße"
 housenumber: 47

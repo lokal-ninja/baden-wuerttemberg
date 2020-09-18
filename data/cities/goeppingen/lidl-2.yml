@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.710943
 longitude: 9.6201919
-postcode: 73035
+postcode: "73035"
 city: Göppingen
 street: "Stuttgarter Straße"
 housenumber: 130

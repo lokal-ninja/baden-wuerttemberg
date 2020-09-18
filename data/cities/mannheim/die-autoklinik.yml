@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4379368
 longitude: 8.5251385
-postcode: 68219
+postcode: "68219"
 city: Mannheim
 street: "Durlacher Straße"
 housenumber: 4a

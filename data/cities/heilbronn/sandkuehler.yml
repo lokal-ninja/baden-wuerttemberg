@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.141972700000004
 longitude: 9.220025
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Kaiserstraße"
 housenumber: 23/1

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.745524700000004
 longitude: 8.2550947
-postcode: 76534
+postcode: "76534"
 city: Baden-Baden
 street: "Hauptstraße"
 housenumber: 40

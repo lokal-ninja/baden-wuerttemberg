@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4101422
 longitude: 9.9334703
-postcode: 89134
+postcode: "89134"
 city: Blaustein
 street: "Erhard-Grözinger-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.034627
 longitude: 8.3570749
-postcode: 76187
+postcode: "76187"
 city: Karlsruhe
 street: "Im Husarenlager"
 housenumber: 15

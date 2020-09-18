@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.0974943
 longitude: 9.7956018
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Breslaustraße"
 housenumber: 15

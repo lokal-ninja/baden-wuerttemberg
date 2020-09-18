@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.238731300000005
 longitude: 8.886923000000001
-postcode: 74889
+postcode: "74889"
 city: Sinsheim
 street: "Dietmar-Hopp-Straße"
 housenumber: 1

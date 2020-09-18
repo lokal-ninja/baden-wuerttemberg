@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1970104
 longitude: 9.205150300000001
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Silcherstraße"
 housenumber: 19

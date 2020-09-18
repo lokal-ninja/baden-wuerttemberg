@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.771804700000004
 longitude: 9.157340900000001
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Schwabstraße"
 housenumber: 34b

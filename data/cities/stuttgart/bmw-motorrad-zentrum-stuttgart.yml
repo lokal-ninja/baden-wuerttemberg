@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.731753600000005
 longitude: 9.0885551
-postcode: 70569
+postcode: "70569"
 city: Stuttgart
 street: "Pascalstraße"
 housenumber: 1

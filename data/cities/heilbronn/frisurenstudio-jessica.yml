@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.169148
 longitude: 9.2013038
-postcode: 74078
+postcode: "74078"
 city: Heilbronn
 street: "Hirschstraße"
 housenumber: 3

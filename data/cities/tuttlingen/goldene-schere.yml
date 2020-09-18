@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.983743800000006
 longitude: 8.817712700000001
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Stadtkirchstraße"
 housenumber: 16

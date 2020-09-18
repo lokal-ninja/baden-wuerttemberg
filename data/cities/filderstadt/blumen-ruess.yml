@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 48.6702487
 longitude: 9.231915200000001
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Reutlinger Straße"
 housenumber: 87
 phone: "+49 7158 2450"
 opening_hours: "Mo-Fr 08:00-18:15, Sa 08:00-13:00"
-website: ""
+website: "www.blumen-ruess.de"

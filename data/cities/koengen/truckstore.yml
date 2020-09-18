@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.676199800000006
 longitude: 9.367082400000001
-postcode: 73257
+postcode: "73257"
 city: Köngen
 street: "Wertstraße"
 housenumber: 1

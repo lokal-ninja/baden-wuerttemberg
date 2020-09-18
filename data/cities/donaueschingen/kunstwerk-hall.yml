@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.9835435
 longitude: 8.5630857
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Alpenblick"
 housenumber: 4

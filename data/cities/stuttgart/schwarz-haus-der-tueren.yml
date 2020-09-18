@@ -3,7 +3,7 @@ type: node
 shop: Türen
 latitude: 48.8154691
 longitude: 9.1109656
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Glemsgaustraße"
 housenumber: 25

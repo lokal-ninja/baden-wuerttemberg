@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.8040819
 longitude: 9.8004236
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Baldungstraße"
 housenumber: 30

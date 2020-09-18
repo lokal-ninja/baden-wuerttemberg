@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.6893851
 longitude: 8.146353000000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Kappelwindeckstraße"
 housenumber: 40

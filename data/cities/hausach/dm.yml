@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.2860802
 longitude: 8.1871133
-postcode: 77756
+postcode: "77756"
 city: Hausach
 street: "In den Brachfeldern"
 housenumber: 2

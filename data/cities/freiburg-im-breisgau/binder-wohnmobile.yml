@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.993665400000005
 longitude: 7.7911026
-postcode: 
+postcode: ""
 city: Freiburg im Breisgau
 street: "Merdinger Weg"
 housenumber: 11

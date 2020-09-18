@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7223224
 longitude: 8.118548800000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Weinbrennerstraße"
 housenumber: 8

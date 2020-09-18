@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.870063200000004
 longitude: 8.6340895
-postcode: 75217
+postcode: "75217"
 city: Birkenfeld
 street: "Hauptstraße"
 housenumber: 90

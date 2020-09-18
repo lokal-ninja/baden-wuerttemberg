@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.043603100000006
 longitude: 7.8776479
-postcode: 79194
+postcode: "79194"
 city: Gundelfingen
 street: "Waldstraße"
 housenumber: 30

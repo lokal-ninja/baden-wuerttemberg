@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.490554
 longitude: 9.2144157
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Wilhelmstraße"
 housenumber: 119

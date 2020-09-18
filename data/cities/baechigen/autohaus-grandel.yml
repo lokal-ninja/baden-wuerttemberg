@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.5450594
 longitude: 10.3121305
-postcode: 89431
+postcode: "89431"
 city: Bächigen
 street: "Blumenweg"
 housenumber: 1

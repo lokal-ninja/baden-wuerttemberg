@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.707397300000004
 longitude: 8.9979069
-postcode: 71063
+postcode: "71063"
 city: Sindelfingen
 street: "Calwer Straße"
 housenumber: 4

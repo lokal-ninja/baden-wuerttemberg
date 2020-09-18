@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.876128400000006
 longitude: 9.3490639
-postcode: 71409
+postcode: "71409"
 city: Schwaikheim
 street: "Goethestraße"
 housenumber: 16

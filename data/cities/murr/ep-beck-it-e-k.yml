@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.957924500000004
 longitude: 9.2430077
-postcode: 71711
+postcode: "71711"
 city: Murr
 street: "Im Langen Feld"
 housenumber: 18

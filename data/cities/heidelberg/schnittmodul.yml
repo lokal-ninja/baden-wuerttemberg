@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4119304
 longitude: 8.6994954
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Untere Neckarstraße"
 housenumber: 40

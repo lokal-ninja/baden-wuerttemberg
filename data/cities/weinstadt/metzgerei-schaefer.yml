@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.804429500000005
 longitude: 9.3878809
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Buhlstraße"
 housenumber: 30

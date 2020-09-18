@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.767074
 longitude: 9.172435100000001
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Hauptstätter Straße"
 housenumber: 111

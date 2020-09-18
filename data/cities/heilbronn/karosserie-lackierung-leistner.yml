@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.1191049
 longitude: 9.179652500000001
-postcode: 74081
+postcode: "74081"
 city: Heilbronn
 street: "Amsterdamer Straße"
 housenumber: 45

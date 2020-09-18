@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7243654
 longitude: 9.156086400000001
-postcode: 70567
+postcode: "70567"
 city: Stuttgart
 street: "Plieninger Straße"
 housenumber: 61

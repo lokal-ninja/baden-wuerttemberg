@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.5286759
 longitude: 9.064494400000001
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Wächterstraße"
 housenumber: 33

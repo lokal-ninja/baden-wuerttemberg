@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.1289669
 longitude: 7.8257364
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Bundesstraße"
 housenumber: 8

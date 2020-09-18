@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.4998579
 longitude: 9.177393700000001
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Steinachstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.471669500000004
 longitude: 8.4535599
-postcode: 67061
+postcode: "67061"
 city: Ludwigshafen am Rhein
 street: "Rheinallee"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.476092300000005
 longitude: 8.952908
-postcode: 72108
+postcode: "72108"
 city: Rottenburg am Neckar
 street: ""
 housenumber: 

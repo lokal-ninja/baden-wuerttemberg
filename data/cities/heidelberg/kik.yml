@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4045907
 longitude: 8.6463295
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Eppelheimer Straße"
 housenumber: 78

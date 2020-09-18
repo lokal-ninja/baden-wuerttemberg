@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.951228
 longitude: 8.842412000000001
-postcode: 75417
+postcode: "75417"
 city: Mühlacker
 street: "Bahnhofstraße"
 housenumber: 82

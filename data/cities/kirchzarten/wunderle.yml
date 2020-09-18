@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.963134800000006
 longitude: 7.9502518
-postcode: 79199
+postcode: "79199"
 city: Kirchzarten
 street: "Freiburger Straße"
 housenumber: 17

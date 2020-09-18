@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6662854
 longitude: 9.6911821
-postcode: 73037
+postcode: "73037"
 city: Göppingen
 street: "Tannenstraße"
 housenumber: 4

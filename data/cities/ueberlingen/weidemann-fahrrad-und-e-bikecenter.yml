@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.777374800000004
 longitude: 9.1995786
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Rengoldshauser Straße"
 housenumber: 9

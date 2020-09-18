@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.4697078
 longitude: 8.5580303
-postcode: 68239
+postcode: "68239"
 city: Mannheim
 street: "Seckenheimer Hauptstraße"
 housenumber: 177

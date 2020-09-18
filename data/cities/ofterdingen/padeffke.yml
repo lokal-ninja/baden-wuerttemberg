@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4209934
 longitude: 9.036264300000001
-postcode: 72131
+postcode: "72131"
 city: Ofterdingen
 street: "Bachsatzstraße"
 housenumber: 17

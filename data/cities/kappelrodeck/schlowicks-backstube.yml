@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.5911922
 longitude: 8.1173213
-postcode: 77876
+postcode: "77876"
 city: Kappelrodeck
 street: "Hauptstraße"
 housenumber: 70

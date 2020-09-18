@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.143532
 longitude: 9.1256454
-postcode: 74211
+postcode: "74211"
 city: Leingarten
 street: "Heilbronner Straße"
 housenumber: 54

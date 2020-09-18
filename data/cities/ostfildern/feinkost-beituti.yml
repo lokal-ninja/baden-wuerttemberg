@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.720875400000004
 longitude: 9.2724404
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Niemöllerstraße"
 housenumber: 7/1

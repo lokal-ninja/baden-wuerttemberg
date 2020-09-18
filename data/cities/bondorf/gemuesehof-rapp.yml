@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 48.522845800000006
 longitude: 8.847136800000001
-postcode: 71149
+postcode: "71149"
 city: Bondorf
 street: "Hailfinger Weg"
 housenumber: 1

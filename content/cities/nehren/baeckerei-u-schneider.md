@@ -1,4 +1,4 @@
 ---
-title: "Bäckerei  U. Schneider"
+title: "Bäckerei U. Schneider"
 url: /nehren/baeckerei-u-schneider/
 ---

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9228559
 longitude: 9.123047
-postcode: 71732
+postcode: "71732"
 city: Tamm
 street: "Bissinger Straße"
 housenumber: 10

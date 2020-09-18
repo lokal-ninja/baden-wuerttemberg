@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.759926
 longitude: 9.757803200000001
-postcode: 88267
+postcode: "88267"
 city: Vogt
 street: ""
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.589504000000005
 longitude: 9.379875700000001
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: "Daimlerstraße"
 housenumber: 4

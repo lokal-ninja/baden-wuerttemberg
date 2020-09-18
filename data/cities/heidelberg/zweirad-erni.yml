@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.398871400000004
 longitude: 8.6442177
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Im Schaffner"
 housenumber: 38

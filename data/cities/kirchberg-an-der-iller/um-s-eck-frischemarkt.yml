@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.131866200000005
 longitude: 10.081673700000001
-postcode: 88486
+postcode: "88486"
 city: Kirchberg an der Iller
 street: "Hauptstraße"
 housenumber: 11

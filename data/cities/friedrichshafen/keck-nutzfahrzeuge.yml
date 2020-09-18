@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.6704291
 longitude: 9.4934001
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Rheinstraße"
 housenumber: 12

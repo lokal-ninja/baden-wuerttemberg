@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.8073719
 longitude: 9.473004000000001
-postcode: 73650
+postcode: "73650"
 city: Winterbach
 street: "Fabrikstraße"
 housenumber: 22

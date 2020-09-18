@@ -1,12 +1,12 @@
-id: 90739964
-type: way
+id: 4786923237
+type: node
 shop: Bäckerei
-latitude: 48.7406191
-longitude: 9.316003
-postcode: 73728
+latitude: 48.7403853
+longitude: 9.302912000000001
+postcode: "73728"
 city: Esslingen am Neckar
-street: "Urbanstraße"
-housenumber: 24
+street: "Martinstraße"
+housenumber: 12
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-12:00; Su 08:00-11:00"
-website: "https://www.stadtbaeckerei-schultheiss.de"
+opening_hours: "Mo-Fr 06:30-19:00, Sa 06:30-18:00, Su 08:00-17:00"
+website: ""

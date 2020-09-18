@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.458362
 longitude: 8.5630488
-postcode: 68239
+postcode: "68239"
 city: Mannheim
 street: "Hinter den Dorfgärten"
 housenumber: 2

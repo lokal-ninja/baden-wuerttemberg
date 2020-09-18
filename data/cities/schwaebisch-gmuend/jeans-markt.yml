@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.793196200000004
 longitude: 9.7833026
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Goethestraße"
 housenumber: 64

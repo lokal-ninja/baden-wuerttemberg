@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.912584800000005
 longitude: 8.2146782
-postcode: 79822
+postcode: "79822"
 city: Titisee-Neustadt
 street: "Scheuerlenstraße"
 housenumber: 10

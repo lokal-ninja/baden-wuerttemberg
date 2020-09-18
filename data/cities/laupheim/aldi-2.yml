@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 48.219752400000004
 longitude: 9.877353600000001
-postcode: 
+postcode: ""
 city: Laupheim
 street: "Berblingerstraße"
 housenumber: 13
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

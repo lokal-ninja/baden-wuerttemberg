@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.529588000000004
 longitude: 8.776956400000001
-postcode: 71159
+postcode: "71159"
 city: Mötzingen
 street: "Lessingstraße"
 housenumber: 14

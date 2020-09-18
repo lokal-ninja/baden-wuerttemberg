@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.757137400000005
 longitude: 9.6807058
-postcode: 73116
+postcode: "73116"
 city: Wäschenbeuren
 street: "Talstraße"
 housenumber: 2

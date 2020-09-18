@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.672808
 longitude: 9.1705891
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Gottmannplatz"
 housenumber: 2

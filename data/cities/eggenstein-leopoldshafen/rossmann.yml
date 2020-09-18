@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.094526
 longitude: 8.406076
-postcode: 76344
+postcode: "76344"
 city: Eggenstein-Leopoldshafen
 street: "Brüsseler Ring"
 housenumber: 115

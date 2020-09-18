@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.213399200000005
 longitude: 8.5232507
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Margot-Bruch-Ring"
 housenumber: 1

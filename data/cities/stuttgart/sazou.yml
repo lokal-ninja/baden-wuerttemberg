@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.7750295
 longitude: 9.1891814
-postcode: 70184
+postcode: "70184"
 city: Stuttgart
 street: "Alexanderstraße"
 housenumber: 23

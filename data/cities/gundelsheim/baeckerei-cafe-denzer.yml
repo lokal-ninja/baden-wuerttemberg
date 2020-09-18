@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.2841967
 longitude: 9.1592569
-postcode: 74831
+postcode: "74831"
 city: Gundelsheim
 street: "Schloßstraße"
 housenumber: 1

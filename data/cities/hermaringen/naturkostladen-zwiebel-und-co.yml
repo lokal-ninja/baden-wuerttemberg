@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 48.5942306
 longitude: 10.2591108
-postcode: 89568
+postcode: "89568"
 city: Hermaringen
 street: "Bahnhofstraße"
 housenumber: 1
 phone: ""
-opening_hours: "Tu,Th,Fr 16:00-19:00"
+opening_hours: "Tu,Th,Fr 16:00-19:00; ph off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.8324087
 longitude: 10.0660512
-postcode: 73434
+postcode: "73434"
 city: Aalen
 street: "Hofherrnstraße"
 housenumber: 10

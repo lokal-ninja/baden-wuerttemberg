@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.4946884
 longitude: 9.2100512
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Karlstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.040562
 longitude: 8.7053853
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Hans-Sachs-Straße"
 housenumber: 1

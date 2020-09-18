@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.352735100000004
 longitude: 9.217354400000001
-postcode: 74842
+postcode: "74842"
 city: Billigheim
 street: "Unterer Frohnengrund"
 housenumber: 4

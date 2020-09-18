@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.678398800000004
 longitude: 10.1473148
-postcode: 89518
+postcode: "89518"
 city: Heidenheim an der Brenz
 street: "Leonhardstraße"
 housenumber: 10

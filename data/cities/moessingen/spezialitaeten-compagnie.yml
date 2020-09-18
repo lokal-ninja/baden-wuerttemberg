@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 48.4076807
 longitude: 9.0556535
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Stegstraße"
 housenumber: 8

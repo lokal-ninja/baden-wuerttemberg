@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.237430700000004
 longitude: 8.4532643
-postcode: 76661
+postcode: "76661"
 city: Philippsburg
 street: "Weiße-Tor-Straße"
 housenumber: 12

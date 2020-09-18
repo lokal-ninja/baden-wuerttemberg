@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.141141600000005
 longitude: 7.705642800000001
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "Peterskirchstraße"
 housenumber: 2

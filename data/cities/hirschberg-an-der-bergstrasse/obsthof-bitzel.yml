@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.5130409
 longitude: 8.6473002
-postcode: 69493
+postcode: "69493"
 city: Hirschberg an der Bergstraße
 street: "Lobdengaustraße"
 housenumber: 22

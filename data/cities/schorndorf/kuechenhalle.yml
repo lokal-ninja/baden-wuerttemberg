@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.806057100000004
 longitude: 9.517847600000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Stuttgarter Straße"
 housenumber: 10

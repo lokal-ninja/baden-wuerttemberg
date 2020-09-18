@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.90881
 longitude: 9.891836600000001
-postcode: 73453
+postcode: "73453"
 city: Abtsgmünd
 street: "Buchbergsteige"
 housenumber: 10

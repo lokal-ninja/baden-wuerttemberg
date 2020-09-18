@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1409218
 longitude: 7.704256600000001
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "Ritterstraße"
 housenumber: 3

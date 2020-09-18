@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.771222400000006
 longitude: 9.164301400000001
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Rotebühlstraße"
 housenumber: 89/2

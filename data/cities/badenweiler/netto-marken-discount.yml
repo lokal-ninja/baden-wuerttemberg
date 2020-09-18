@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8051174
 longitude: 7.678465800000001
-postcode: 79410
+postcode: "79410"
 city: Badenweiler
 street: "Ernst-Eisenlohr-Straße"
 housenumber: 25

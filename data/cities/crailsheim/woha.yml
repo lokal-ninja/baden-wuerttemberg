@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.1391896
 longitude: 10.0694908
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Wilhelmstraße"
 housenumber: 25

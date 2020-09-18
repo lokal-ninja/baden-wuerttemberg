@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.472077500000005
 longitude: 8.4497564
-postcode: 72250
+postcode: "72250"
 city: Freudenstadt
 street: "Ortsstraße"
 housenumber: 13

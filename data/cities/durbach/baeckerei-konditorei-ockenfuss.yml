@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.5074498
 longitude: 7.9817289
-postcode: 77770
+postcode: "77770"
 city: Durbach
 street: "Windschläger Straße"
 housenumber: 1

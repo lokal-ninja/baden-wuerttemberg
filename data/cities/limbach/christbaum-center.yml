@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.4805501
 longitude: 9.213950500000001
-postcode: 74838
+postcode: "74838"
 city: Limbach
 street: "Langenelzer Straße"
 housenumber: 1

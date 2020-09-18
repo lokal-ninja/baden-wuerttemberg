@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.4099054
 longitude: 8.6998539
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Märzgasse"
 housenumber: 16

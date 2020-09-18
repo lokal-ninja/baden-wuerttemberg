@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.3003395
 longitude: 9.9751256
-postcode: 74572
+postcode: "74572"
 city: Blaufelden
 street: "Rothenburger Straße"
 housenumber: 23

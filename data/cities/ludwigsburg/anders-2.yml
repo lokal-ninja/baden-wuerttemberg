@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.892923700000004
 longitude: 9.2257119
-postcode: 71640
+postcode: "71640"
 city: Ludwigsburg
 street: "Friesenstraße"
 housenumber: 18

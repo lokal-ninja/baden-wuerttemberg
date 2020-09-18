@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.043100200000005
 longitude: 8.3071661
-postcode: 78147
+postcode: "78147"
 city: Vöhrenbach
 street: "Schützenstraße"
 housenumber: 17

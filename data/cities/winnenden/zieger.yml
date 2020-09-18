@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.8732288
 longitude: 9.404075200000001
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Schorndorfer Straße"
 housenumber: 30

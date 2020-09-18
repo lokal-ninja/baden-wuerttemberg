@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.966955000000006
 longitude: 8.954378700000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Herrenwiesen"
 housenumber: 1

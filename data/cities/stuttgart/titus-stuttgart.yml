@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.7750465
 longitude: 9.1770855
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Hirschstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.619303900000006
 longitude: 9.035288300000001
-postcode: 71093
+postcode: "71093"
 city: Weil im Schönbuch
 street: "Karl-Benz-Straße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.905210700000005
 longitude: 9.083297100000001
-postcode: 71706
+postcode: "71706"
 city: Markgröningen
 street: "Ostergasse"
 housenumber: 31

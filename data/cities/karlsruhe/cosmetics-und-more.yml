@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.9945218
 longitude: 8.3975217
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Ebertstraße"
 housenumber: 4

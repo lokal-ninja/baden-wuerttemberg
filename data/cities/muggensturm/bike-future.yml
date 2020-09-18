@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.8745077
 longitude: 8.291291300000001
-postcode: 76461
+postcode: "76461"
 city: Muggensturm
 street: "Am Federbach"
 housenumber: 10

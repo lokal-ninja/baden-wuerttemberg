@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0366112
 longitude: 8.706979
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Pforzheimer Straße"
 housenumber: 7

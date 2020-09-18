@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.49754110000001
 longitude: 9.1841224
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Steinachstraße"
 housenumber: 63

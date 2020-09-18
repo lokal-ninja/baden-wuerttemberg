@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.683353700000005
 longitude: 9.1577705
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Fürstenbergstraße"
 housenumber: 103

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.296942800000004
 longitude: 9.661034800000001
-postcode: 
+postcode: ""
 city: Ingelfingen
 street: "Künzelsauer Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.8058149
 longitude: 9.5275224
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Marktplatz"
 housenumber: 18

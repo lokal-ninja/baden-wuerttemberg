@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.9300233
 longitude: 8.267550400000001
-postcode: 76448
+postcode: "76448"
 city: Durmersheim
 street: "Hauptstraße"
 housenumber: 51

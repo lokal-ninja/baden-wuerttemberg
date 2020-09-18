@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.821322800000004
 longitude: 10.045267200000001
-postcode: 73457
+postcode: "73457"
 city: Essingen
 street: "Margarete-Steiff-Straße"
 housenumber: 20

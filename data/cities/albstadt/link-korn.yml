@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.203636
 longitude: 9.0488067
-postcode: 72458
+postcode: "72458"
 city: Albstadt
 street: "Sigmaringer Straße"
 housenumber: 185

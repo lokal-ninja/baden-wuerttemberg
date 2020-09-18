@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.001677300000004
 longitude: 8.4675682
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4645658
 longitude: 9.9466984
-postcode: 89160
+postcode: "89160"
 city: Dornstadt
 street: "Zur alten Chaussee"
 housenumber: 2

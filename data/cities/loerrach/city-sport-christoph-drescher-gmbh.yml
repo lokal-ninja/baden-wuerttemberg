@@ -3,10 +3,10 @@ type: node
 shop: Sport
 latitude: 47.6115337
 longitude: 7.6595762
-postcode: 79539
+postcode: "79539"
 city: Lörrach
 street: "Marktplatz"
 housenumber: 9
-phone: "07621 578123"
+phone: "+49 7621 578123"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
 website: "http://www.citysport-loerrach.de"

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.128809100000005
 longitude: 8.4185111
-postcode: 76351
+postcode: "76351"
 city: Linkenheim-Hochstetten
 street: "Durlacher Weg"
 housenumber: 2

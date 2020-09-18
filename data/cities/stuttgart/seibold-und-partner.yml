@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.729496600000004
 longitude: 9.116671400000001
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Möhringer Landstraße"
 housenumber: 36

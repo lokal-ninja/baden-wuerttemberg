@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.2525191
 longitude: 8.878690800000001
-postcode: 74889
+postcode: "74889"
 city: Sinsheim
 street: "Karlsplatz"
 housenumber: 1

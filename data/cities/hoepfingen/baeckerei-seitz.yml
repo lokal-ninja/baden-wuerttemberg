@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 49.6025177
 longitude: 9.4296094
-postcode: 74746
+postcode: "74746"
 city: Höpfingen
 street: "Heidelberger Straße"
 housenumber: 22
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:30-10:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3348699
 longitude: 8.030853200000001
-postcode: 77781
+postcode: "77781"
 city: Biberach (Baden)
 street: "Ahfeldstraße"
 housenumber: 1

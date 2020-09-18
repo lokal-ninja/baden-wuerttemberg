@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.1790907
 longitude: 8.6237932
-postcode: 76698
+postcode: "76698"
 city: Ubstadt-Weiher
 street: "Kirchplatz"
 housenumber: 10

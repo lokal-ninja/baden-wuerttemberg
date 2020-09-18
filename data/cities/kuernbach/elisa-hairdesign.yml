@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0778885
 longitude: 8.8457299
-postcode: 75057
+postcode: "75057"
 city: Kürnbach
 street: "Marktplatz"
 housenumber: 14

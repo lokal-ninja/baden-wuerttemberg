@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0869416
 longitude: 7.9441632
-postcode: 79183
+postcode: "79183"
 city: Waldkirch
 street: "Mauermattenstraße"
 housenumber: 7

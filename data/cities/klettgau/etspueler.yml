@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.6186657
 longitude: 8.3954349
-postcode: 79771
+postcode: "79771"
 city: Klettgau
 street: "Südstraße"
 housenumber: 13

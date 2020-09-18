@@ -3,10 +3,10 @@ type: way
 shop: Garten-Center
 latitude: 48.8369646
 longitude: 9.1748467
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Ludwigsburger Straße"
 housenumber: 211
 phone: "+49 711 875343"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
 website: "https://www.gaertnerei-staehle.de/"

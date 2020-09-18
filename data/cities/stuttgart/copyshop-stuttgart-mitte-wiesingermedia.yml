@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.781571400000004
 longitude: 9.178020400000001
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Lautenschlagerstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 48.876732200000006
 longitude: 9.3975753
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Marktstraße"
 housenumber: 27

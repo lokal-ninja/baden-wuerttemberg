@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.708286900000004
 longitude: 9.2631736
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Nellinger Straße"
 housenumber: 7

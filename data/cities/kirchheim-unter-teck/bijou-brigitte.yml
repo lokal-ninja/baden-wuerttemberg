@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.6467417
 longitude: 9.451238400000001
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Marktstraße"
 housenumber: 48

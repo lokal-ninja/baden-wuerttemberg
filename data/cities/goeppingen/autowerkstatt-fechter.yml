@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.6901269
 longitude: 9.627279900000001
-postcode: 73035
+postcode: "73035"
 city: Göppingen
 street: "Autenbachstraße"
 housenumber: 2

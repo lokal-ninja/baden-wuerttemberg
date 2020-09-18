@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.6247149
 longitude: 9.3421078
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Steinengrabenstraße"
 housenumber: 17

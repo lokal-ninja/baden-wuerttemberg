@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.1288058
 longitude: 8.5655373
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Industriestraße"
 housenumber: 13

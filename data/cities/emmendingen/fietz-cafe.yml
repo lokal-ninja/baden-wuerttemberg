@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.1130379
 longitude: 7.860723200000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Kollmarsreuter Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 47.7538599
 longitude: 8.8648094
-postcode: 78224
+postcode: "78224"
 city: Singen
 street: "Freibühlstraße"
 housenumber: 18

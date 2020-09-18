@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4104115
 longitude: 8.696948500000001
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Hauptstraße"
 housenumber: 39-43

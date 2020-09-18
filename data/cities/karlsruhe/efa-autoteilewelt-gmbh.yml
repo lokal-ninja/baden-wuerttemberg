@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.019894400000005
 longitude: 8.4677513
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Am Storrenacker"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.386387500000005
 longitude: 9.291836100000001
-postcode: 72829
+postcode: "72829"
 city: Engstingen
 street: "Zwischen den Dörfern"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.046496600000005
 longitude: 9.1911939
-postcode: 74382
+postcode: "74382"
 city: Neckarwestheim
 street: "Friedenstraße"
 housenumber: 1

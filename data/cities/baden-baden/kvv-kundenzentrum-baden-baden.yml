@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 48.758326700000005
 longitude: 8.2407691
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Augustaplatz"
 housenumber: 3

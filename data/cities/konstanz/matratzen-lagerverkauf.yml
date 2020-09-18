@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.6756997
 longitude: 9.1972094
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Sonnenbühlstraße"
 housenumber: 98

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5273454
 longitude: 9.347293
-postcode: 72581
+postcode: "72581"
 city: Dettingen an der Erms
 street: "Karlstraße"
 housenumber: 82

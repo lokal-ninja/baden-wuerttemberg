@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 48.407844000000004
 longitude: 8.882726
-postcode: 72145
+postcode: "72145"
 city: Hirrlingen
 street: "Starzelstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8059482
 longitude: 9.4391163
-postcode: 73630
+postcode: "73630"
 city: Remshalden
 street: "Alfred-Klingele-Straße"
 housenumber: 1

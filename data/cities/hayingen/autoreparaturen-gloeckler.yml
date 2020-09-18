@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.2746415
 longitude: 9.4812688
-postcode: 72534
+postcode: "72534"
 city: Hayingen
 street: "Oberwilzinger Straße"
 housenumber: 3

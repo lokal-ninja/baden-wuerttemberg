@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.8142962
 longitude: 9.3551848
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Heerbergstraße"
 housenumber: 7

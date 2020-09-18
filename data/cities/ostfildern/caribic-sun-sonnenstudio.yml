@@ -3,7 +3,7 @@ type: node
 shop: Solarium
 latitude: 48.7150298
 longitude: 9.3003818
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Esslinger Straße"
 housenumber: 31

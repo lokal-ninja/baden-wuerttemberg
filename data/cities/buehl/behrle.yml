@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.6957965
 longitude: 8.1377819
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Johannesplatz"
 housenumber: 1

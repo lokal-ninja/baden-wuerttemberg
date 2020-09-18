@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.5695792
 longitude: 8.4337956
-postcode: 79801
+postcode: "79801"
 city: Hohentengen am Hochrhein
 street: "Hauptstraße"
 housenumber: 12

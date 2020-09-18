@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.167372400000005
 longitude: 8.624066800000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Waldtorstraße"
 housenumber: 16

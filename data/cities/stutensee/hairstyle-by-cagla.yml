@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.103832800000006
 longitude: 8.4813287
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Hindenburgstraße"
 housenumber: 52

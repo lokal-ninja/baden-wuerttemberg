@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2933724
 longitude: 8.9610555
-postcode: 74924
+postcode: "74924"
 city: Neckarbischofsheim
 street: "Hauptstraße"
 housenumber: 7

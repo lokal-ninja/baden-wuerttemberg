@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 48.530355500000006
 longitude: 8.5745886
-postcode: 72285
+postcode: "72285"
 city: Pfalzgrafenweiler
 street: "Siemensstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.699762400000004
 longitude: 9.562593000000001
-postcode: 88074
+postcode: "88074"
 city: Meckenbeuren
 street: "Hauptstraße"
 housenumber: 8

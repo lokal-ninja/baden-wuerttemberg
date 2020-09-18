@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.0713239
 longitude: 8.4583777
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Vockenhauser Straße"
 housenumber: 22

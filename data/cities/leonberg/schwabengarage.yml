@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7849093
 longitude: 9.0166012
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Breitwiesenstraße"
 housenumber: 4

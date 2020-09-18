@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.1112045
 longitude: 7.8665415
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Carl-Helbing-Straße"
 housenumber: 7

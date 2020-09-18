@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 48.73415
 longitude: 9.105795500000001
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Gartenstraße"
 housenumber: 48

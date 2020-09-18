@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.5893128
 longitude: 8.8648539
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Horber Straße"
 housenumber: 61

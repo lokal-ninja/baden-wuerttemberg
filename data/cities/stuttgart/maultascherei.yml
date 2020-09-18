@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.7747456
 longitude: 9.276792200000001
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Uhlbacher Straße"
 housenumber: 208

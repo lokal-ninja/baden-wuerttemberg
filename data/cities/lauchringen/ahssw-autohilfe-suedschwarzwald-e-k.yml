@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.629213
 longitude: 8.317949200000001
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Waldstraße"
 housenumber: 1

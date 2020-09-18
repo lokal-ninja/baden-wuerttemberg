@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.479198800000006
 longitude: 8.9482224
-postcode: 72108
+postcode: "72108"
 city: Rottenburg am Neckar
 street: "Graf-Bentzel-Straße"
 housenumber: 42

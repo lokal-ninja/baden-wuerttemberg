@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.7463412
 longitude: 9.2106756
-postcode: 70619
+postcode: "70619"
 city: Stuttgart
 street: "Kirchheimer Straße"
 housenumber: 37

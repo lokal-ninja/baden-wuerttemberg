@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 48.798991300000004
 longitude: 9.798856500000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Kornhausstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.2143406
 longitude: 8.693914600000001
-postcode: 76684
+postcode: "76684"
 city: Östringen
 street: "Thomas-Howie-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.463684300000004
 longitude: 9.226275300000001
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Klosterstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.6920714
 longitude: 8.213934700000001
-postcode: 79809
+postcode: "79809"
 city: Weilheim
 street: "Fohrenbachstraße"
 housenumber: 6

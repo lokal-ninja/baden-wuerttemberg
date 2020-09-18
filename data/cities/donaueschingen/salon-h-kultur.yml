@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9455712
 longitude: 8.499640000000001
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Friedrich-Ebert-Straße"
 housenumber: 20

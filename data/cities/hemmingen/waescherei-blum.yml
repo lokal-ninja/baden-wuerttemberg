@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 48.8632745
 longitude: 9.039140900000001
-postcode: 71282
+postcode: "71282"
 city: Hemmingen
 street: "Daimlerstraße"
 housenumber: 4

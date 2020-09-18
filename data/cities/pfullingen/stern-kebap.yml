@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.467023000000005
 longitude: 9.2257461
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Lindenplatz"
 housenumber: 15

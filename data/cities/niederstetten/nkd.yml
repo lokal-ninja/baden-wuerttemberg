@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.401755800000004
 longitude: 9.919339200000001
-postcode: 97996
+postcode: "97996"
 city: Niederstetten
 street: "Hauptstraße"
 housenumber: 2

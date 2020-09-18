@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.2463247
 longitude: 8.5044047
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Mannheimer Straße"
 housenumber: 132

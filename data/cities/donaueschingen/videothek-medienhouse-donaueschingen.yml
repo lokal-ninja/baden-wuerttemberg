@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 47.953731000000005
 longitude: 8.4967763
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Lehenstraße"
 housenumber: 4

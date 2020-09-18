@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.6387024
 longitude: 9.3400874
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Weberstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5191571
 longitude: 9.3593506
-postcode: 74722
+postcode: "74722"
 city: Buchen (Odenwald)
 street: "Neue Buchener Straße"
 housenumber: 28

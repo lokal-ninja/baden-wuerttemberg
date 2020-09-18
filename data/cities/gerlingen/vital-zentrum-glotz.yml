@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.804922000000005
 longitude: 9.0734928
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Dieselstraße"
 housenumber: 19-21

@@ -3,10 +3,10 @@ type: node
 shop: Schneiderei
 latitude: 48.473712000000006
 longitude: 8.931905
-postcode: 72108
+postcode: "72108"
 city: Rottenburg am Neckar
 street: "Königstraße"
 housenumber: 78
-phone: "+49 7472 9180093"
+phone: ""
 opening_hours: "Mo-Fr 15:00-18:00, Sa 09:00-13:00"
 website: ""

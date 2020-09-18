@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.808111800000006
 longitude: 8.9449605
-postcode: 71277
+postcode: "71277"
 city: Rutesheim
 street: "Pforzheimer Straße"
 housenumber: 3

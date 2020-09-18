@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.864433500000004
 longitude: 9.383258300000001
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Theodor-Heuss-Platz"
 housenumber: 3

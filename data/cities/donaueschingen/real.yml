@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9351421
 longitude: 8.4990428
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Bregstraße"
 housenumber: 30

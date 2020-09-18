@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5119151
 longitude: 9.5617604
-postcode: 72587
+postcode: "72587"
 city: Römerstein
 street: "Eichenried"
 housenumber: 8

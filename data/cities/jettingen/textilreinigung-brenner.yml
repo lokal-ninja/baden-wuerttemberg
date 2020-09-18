@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.572898200000004
 longitude: 8.7631779
-postcode: 71131
+postcode: "71131"
 city: Jettingen
 street: "Heilbergstraße"
 housenumber: 3

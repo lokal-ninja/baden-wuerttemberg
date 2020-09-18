@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.741190100000004
 longitude: 10.1146857
-postcode: 89551
+postcode: "89551"
 city: Königsbronn
 street: "Aalener Straße"
 housenumber: 2

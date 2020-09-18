@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.0101711
 longitude: 8.3816904
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Scheffelstraße"
 housenumber: 6

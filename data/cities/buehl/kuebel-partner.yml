@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.6907603
 longitude: 8.1330585
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Hauptstraße"
 housenumber: 2

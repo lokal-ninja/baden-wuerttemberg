@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.0524044
 longitude: 8.530066900000001
-postcode: 76356
+postcode: "76356"
 city: Weingarten (Baden)
 street: "Bahnhofstraße"
 housenumber: 18

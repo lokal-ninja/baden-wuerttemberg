@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.009408500000006
 longitude: 8.4051586
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 133

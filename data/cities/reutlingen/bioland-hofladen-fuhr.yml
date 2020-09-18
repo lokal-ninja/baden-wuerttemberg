@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.5227723
 longitude: 9.1723614
-postcode: 72768
+postcode: "72768"
 city: Reutlingen
 street: "Käthe-Kollwitz-Straße"
 housenumber: 16

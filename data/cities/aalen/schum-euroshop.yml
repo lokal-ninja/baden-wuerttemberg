@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.838000900000004
 longitude: 10.094129500000001
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Reichsstädter Straße"
 housenumber: 16

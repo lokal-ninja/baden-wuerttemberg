@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.115301800000005
 longitude: 8.508294900000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Waldhornstraße"
 housenumber: 23

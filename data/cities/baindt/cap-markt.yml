@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8412814
 longitude: 9.6614938
-postcode: 88255
+postcode: "88255"
 city: Baindt
 street: "Dorfplatz"
 housenumber: 2

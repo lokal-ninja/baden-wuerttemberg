@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.6997689
 longitude: 9.1152736
-postcode: 78479
+postcode: "78479"
 city: Reichenau
 street: "Am Dachsberg"
 housenumber: 2

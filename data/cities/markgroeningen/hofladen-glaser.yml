@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.894004100000004
 longitude: 9.0790465
-postcode: 71706
+postcode: "71706"
 city: Markgröningen
 street: "Im Schafwiesen"
 housenumber: 1

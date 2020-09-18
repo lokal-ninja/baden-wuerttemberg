@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.145487
 longitude: 8.624225000000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Wacholderstraße"
 housenumber: 9

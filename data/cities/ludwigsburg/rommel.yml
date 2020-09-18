@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8952643
 longitude: 9.171588
-postcode: 71636
+postcode: "71636"
 city: Ludwigsburg
 street: "Wernerstraße"
 housenumber: 80

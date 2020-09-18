@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.6911628
 longitude: 8.932440300000001
-postcode: 71069
+postcode: "71069"
 city: Sindelfingen
 street: "Tiroler Straße"
 housenumber: 52/1

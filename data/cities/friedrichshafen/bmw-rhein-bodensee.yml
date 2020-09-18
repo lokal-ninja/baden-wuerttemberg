@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.6654762
 longitude: 9.506938
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Otto-Lilienthal-Straße"
 housenumber: 25

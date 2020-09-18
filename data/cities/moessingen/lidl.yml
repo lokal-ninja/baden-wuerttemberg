@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4067937
 longitude: 9.044317600000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Ofterdinger Straße"
 housenumber: 5

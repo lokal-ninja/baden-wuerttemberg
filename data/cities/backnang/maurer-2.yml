@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.945561500000004
 longitude: 9.426876700000001
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Gerberstraße"
 housenumber: 5

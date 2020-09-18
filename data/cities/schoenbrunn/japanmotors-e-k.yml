@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3930124
 longitude: 8.9259255
-postcode: 69436
+postcode: "69436"
 city: Schönbrunn
 street: "Heidelberger Straße"
 housenumber: 51

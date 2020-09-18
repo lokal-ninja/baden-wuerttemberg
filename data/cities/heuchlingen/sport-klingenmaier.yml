@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.8513024
 longitude: 9.937738600000001
-postcode: 73572
+postcode: "73572"
 city: Heuchlingen
 street: "Leinzeller Straße"
 housenumber: 46

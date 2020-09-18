@@ -1,12 +1,12 @@
-id: 30284464
-type: way
+id: 7802042825
+type: node
 shop: Baumarkt
-latitude: 48.616378100000006
-longitude: 10.2512556
-postcode: 89537
+latitude: 48.617137500000005
+longitude: 10.251071300000001
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Riedstraße"
-housenumber: 40
+housenumber: 40/4
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; ph off"
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
 website: "https://www.obi.de/"

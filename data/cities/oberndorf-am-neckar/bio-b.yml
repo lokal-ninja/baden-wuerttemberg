@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2979976
 longitude: 8.5613316
-postcode: 78727
+postcode: "78727"
 city: Oberndorf am Neckar
 street: "Hohenbergstraße"
 housenumber: 66

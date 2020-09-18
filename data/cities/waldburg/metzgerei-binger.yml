@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.757564300000006
 longitude: 9.7138331
-postcode: 88289
+postcode: "88289"
 city: Waldburg
 street: "Hauptstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.5111922
 longitude: 9.075504
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Aixer Straße"
 housenumber: 21

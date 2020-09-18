@@ -3,7 +3,7 @@ type: way
 shop: Wolle
 latitude: 48.773190500000005
 longitude: 9.1727085
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Marienstraße"
 housenumber: 20

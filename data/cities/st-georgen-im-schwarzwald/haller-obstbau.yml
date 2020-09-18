@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.1222568
 longitude: 8.39091
-postcode: 78112
+postcode: "78112"
 city: St. Georgen im Schwarzwald
 street: "Villinger Straße"
 housenumber: 3

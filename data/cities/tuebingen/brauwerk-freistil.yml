@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.511006900000005
 longitude: 9.076850400000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Provenceweg"
 housenumber: 2

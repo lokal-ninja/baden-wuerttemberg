@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.817569500000005
 longitude: 7.5568482
-postcode: 79395
+postcode: "79395"
 city: Neuenburg am Rhein
 street: "Colmarer Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.801660700000006
 longitude: 9.7960268
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Ledergasse"
 housenumber: 2/2

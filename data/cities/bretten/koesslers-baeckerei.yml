@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.035883600000005
 longitude: 8.7108865
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Weißhofer Straße"
 housenumber: 46

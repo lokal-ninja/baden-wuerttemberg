@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.9549765
 longitude: 8.2932117
-postcode: 76287
+postcode: "76287"
 city: Rheinstetten
 street: "An der B 36"
 housenumber: 1

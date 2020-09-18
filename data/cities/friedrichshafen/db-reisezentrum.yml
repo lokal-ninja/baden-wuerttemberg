@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 47.652958100000006
 longitude: 9.4736613
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Bahnhofplatz"
 housenumber: 1

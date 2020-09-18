@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4325915
 longitude: 8.8062559
-postcode: 72181
+postcode: "72181"
 city: Starzach
 street: "Stumpacher Weg"
 housenumber: 2

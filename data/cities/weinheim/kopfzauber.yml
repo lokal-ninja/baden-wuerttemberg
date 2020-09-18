@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.545613
 longitude: 8.649199600000001
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Birkenweg"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6138975
 longitude: 9.842524800000001
-postcode: 73312
+postcode: "73312"
 city: Geislingen an der Steige
 street: "Schubartstraße"
 housenumber: 14

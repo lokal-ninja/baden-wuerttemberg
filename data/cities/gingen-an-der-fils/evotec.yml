@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.666135000000004
 longitude: 9.778281900000001
-postcode: 73333
+postcode: "73333"
 city: Gingen an der Fils
 street: "Brunnenstraße"
 housenumber: 69

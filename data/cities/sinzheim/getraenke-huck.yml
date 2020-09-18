@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.771367500000004
 longitude: 8.168723
-postcode: 76547
+postcode: "76547"
 city: Sinzheim
 street: "Am Tiefen Weg"
 housenumber: 12

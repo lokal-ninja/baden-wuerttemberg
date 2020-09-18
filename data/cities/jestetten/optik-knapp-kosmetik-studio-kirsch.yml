@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.6511123
 longitude: 8.5705487
-postcode: 79798
+postcode: "79798"
 city: Jestetten
 street: "Hauptstraße"
 housenumber: 5

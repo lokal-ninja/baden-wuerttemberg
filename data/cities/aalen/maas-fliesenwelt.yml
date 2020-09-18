@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.8225667
 longitude: 10.0601534
-postcode: 73431
+postcode: "73431"
 city: Aalen
 street: "Robert-Bosch-Straße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.713376700000005
 longitude: 9.3969316
-postcode: 88677
+postcode: "88677"
 city: Markdorf
 street: "Rudolf-Diesel-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5419539
 longitude: 8.657723
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Mierendorffstraße"
 housenumber: 32

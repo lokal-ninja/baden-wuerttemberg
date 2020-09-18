@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.207931
 longitude: 8.5135746
-postcode: 78655
+postcode: "78655"
 city: Dunningen
 street: "Röteweg"
 housenumber: 1

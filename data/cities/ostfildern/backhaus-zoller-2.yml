@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7301094
 longitude: 9.252571300000001
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Hedelfinger Straße"
 housenumber: 11

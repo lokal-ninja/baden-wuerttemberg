@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.00990770000001
 longitude: 8.3883665
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Amalienstraße"
 housenumber: 87

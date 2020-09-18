@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.8331335
 longitude: 9.872591400000001
-postcode: 73574
+postcode: "73574"
 city: Iggingen
 street: "Brainkofer Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.6270437
 longitude: 7.6570027000000005
-postcode: 79539
+postcode: "79539"
 city: Lörrach
 street: "Mühlestraße"
 housenumber: 6

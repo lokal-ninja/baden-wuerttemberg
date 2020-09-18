@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.7693159
 longitude: 9.1587709
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Schwabstraße"
 housenumber: 25

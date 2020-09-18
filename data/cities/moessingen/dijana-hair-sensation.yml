@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.406357500000006
 longitude: 9.058799200000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Falltorstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.681532100000005
 longitude: 9.2024782
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Mainaustraße"
 housenumber: 146

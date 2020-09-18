@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.769744100000004
 longitude: 9.158501000000001
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Schwabstraße"
 housenumber: 33

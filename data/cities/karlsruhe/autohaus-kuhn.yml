@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0333288
 longitude: 8.3599908
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
 street: "Wattstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.471887900000006
 longitude: 7.943317700000001
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Hauptstraße"
 housenumber: 31

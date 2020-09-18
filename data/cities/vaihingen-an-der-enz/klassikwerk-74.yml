@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.9257142
 longitude: 8.9661167
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Am Galgenfeld"
 housenumber: 19

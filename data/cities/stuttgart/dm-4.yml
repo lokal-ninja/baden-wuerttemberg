@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.7485039
 longitude: 9.1697013
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Epplestraße"
 housenumber: 6

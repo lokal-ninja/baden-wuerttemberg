@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.811081300000005
 longitude: 8.033119600000001
-postcode: 79872
+postcode: "79872"
 city: Bernau im Schwarzwald
 street: "Rappenstockweg"
 housenumber: 1

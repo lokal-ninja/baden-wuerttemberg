@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.6277527
 longitude: 10.004373900000001
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Carl-Zeiss-Straße"
 housenumber: 7

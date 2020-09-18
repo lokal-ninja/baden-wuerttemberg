@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.293585300000004
 longitude: 8.522609000000001
-postcode: 68809
+postcode: "68809"
 city: Neulußheim
 street: "Hockenheimer Straße"
 housenumber: 2

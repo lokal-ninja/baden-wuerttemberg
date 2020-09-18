@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.4072213
 longitude: 7.998927800000001
-postcode: 77791
+postcode: "77791"
 city: Berghaupten
 street: "Im Fruchtfeld"
 housenumber: 10

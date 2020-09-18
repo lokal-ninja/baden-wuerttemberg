@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.303009100000004
 longitude: 8.6434707
-postcode: 69190
+postcode: "69190"
 city: Walldorf
 street: "Bahnhofstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6838131
 longitude: 9.5829866
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Albstraße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.007415200000004
 longitude: 8.4065084
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Markgrafenstraße"
 housenumber: 38

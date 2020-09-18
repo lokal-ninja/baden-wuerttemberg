@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.550400700000004
 longitude: 9.4739956
-postcode: 73252
+postcode: "73252"
 city: Lenningen
 street: "Heerweg"
 housenumber: 17

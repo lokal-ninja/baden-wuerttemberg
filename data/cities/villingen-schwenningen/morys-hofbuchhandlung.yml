@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.0596754
 longitude: 8.4579581
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: "Rietstraße"
 housenumber: 23

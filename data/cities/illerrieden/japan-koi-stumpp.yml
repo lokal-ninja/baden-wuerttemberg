@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.273268
 longitude: 10.049816100000001
-postcode: 89186
+postcode: "89186"
 city: Illerrieden
 street: "Welzlinweg"
 housenumber: 13

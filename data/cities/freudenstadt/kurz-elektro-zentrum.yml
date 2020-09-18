@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.463454500000005
 longitude: 8.434807600000001
-postcode: 72250
+postcode: "72250"
 city: Freudenstadt
 street: "Robert-Bosch-Straße"
 housenumber: 38-46

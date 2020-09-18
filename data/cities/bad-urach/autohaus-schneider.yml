@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.497171400000006
 longitude: 9.3846155
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Stuttgarter Straße"
 housenumber: 136

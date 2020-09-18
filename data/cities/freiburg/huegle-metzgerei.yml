@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.9980163
 longitude: 7.795376300000001
-postcode: 79111
+postcode: "79111"
 city: Freiburg
 street: "Geschwister-Scholl-Platz"
 housenumber: 1

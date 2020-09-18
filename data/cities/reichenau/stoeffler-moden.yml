@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.6964422
 longitude: 9.064152400000001
-postcode: 78479
+postcode: "78479"
 city: Reichenau
 street: "Pirminstraße"
 housenumber: 148a

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.907408200000006
 longitude: 9.8949289
-postcode: 88410
+postcode: "88410"
 city: Bad Wurzach
 street: "Gartenstraße"
 housenumber: 30

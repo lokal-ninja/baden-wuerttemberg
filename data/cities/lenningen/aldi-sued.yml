@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5666816
 longitude: 9.4556693
-postcode: 73252
+postcode: "73252"
 city: Lenningen
 street: "Im Gänsacker"
 housenumber: 12

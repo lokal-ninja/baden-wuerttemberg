@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.522474800000005
 longitude: 9.0545459
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Lange Gasse"
 housenumber: 25

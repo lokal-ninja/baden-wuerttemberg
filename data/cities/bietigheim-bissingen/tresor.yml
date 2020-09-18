@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.9598232
 longitude: 9.1268896
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Schieringerstraße"
 housenumber: 5

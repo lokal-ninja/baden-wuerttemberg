@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 49.0122602
 longitude: 8.6094982
-postcode: 75045
+postcode: "75045"
 city: Walzbachtal
 street: "Wössinger Straße"
 housenumber: 62

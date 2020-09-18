@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.766634
 longitude: 9.1589291
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Marktstraße"
 housenumber: 1

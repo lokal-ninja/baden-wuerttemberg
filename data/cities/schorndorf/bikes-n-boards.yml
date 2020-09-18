@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.805779900000005
 longitude: 9.524139100000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "An der Mauer"
 housenumber: 1

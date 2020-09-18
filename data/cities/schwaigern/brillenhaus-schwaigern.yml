@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.1406865
 longitude: 9.0562176
-postcode: 74193
+postcode: "74193"
 city: Schwaigern
 street: "Schnellerstraße"
 housenumber: 2

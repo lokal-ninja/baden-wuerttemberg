@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 49.009058700000004
 longitude: 8.3943902
-postcode: 
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 217
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
+website: "https://www.ernstings-family.de/filialen/1665/kaiserstra%C3%9Fe-217-76133-karlsruhe"

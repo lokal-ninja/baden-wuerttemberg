@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6687803
 longitude: 9.560181400000001
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Hopfenstraße"
 housenumber: 2

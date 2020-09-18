@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.583458300000004
 longitude: 9.364707300000001
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: "Obere Vorstadtstraße"
 housenumber: 50

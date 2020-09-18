@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7547921
 longitude: 9.4860763
-postcode: 73669
+postcode: "73669"
 city: Lichtenwald
 street: "Am freien Feld"
 housenumber: 2

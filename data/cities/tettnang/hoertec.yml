@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.6712277
 longitude: 9.5867564
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Montfortstraße"
 housenumber: 7

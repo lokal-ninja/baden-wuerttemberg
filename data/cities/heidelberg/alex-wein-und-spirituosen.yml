@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.409840100000004
 longitude: 8.699880700000001
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Märzgasse"
 housenumber: 16

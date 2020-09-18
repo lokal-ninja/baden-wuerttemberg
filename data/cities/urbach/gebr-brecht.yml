@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 48.809535700000005
 longitude: 9.5706416
-postcode: 73660
+postcode: "73660"
 city: Urbach
 street: "Mühlwiesen"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.13846
 longitude: 8.919825900000001
-postcode: 75031
+postcode: "75031"
 city: Eppingen
 street: "Eisenbahnstraße"
 housenumber: 14

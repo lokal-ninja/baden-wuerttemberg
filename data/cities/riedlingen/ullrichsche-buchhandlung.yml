@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.153886500000006
 longitude: 9.4761062
-postcode: 88499
+postcode: "88499"
 city: Riedlingen
 street: "Marktplatz"
 housenumber: 5

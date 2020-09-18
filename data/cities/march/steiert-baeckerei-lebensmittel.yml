@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0539999
 longitude: 7.782116200000001
-postcode: 79232
+postcode: "79232"
 city: March
 street: "Herrenstraße"
 housenumber: 27

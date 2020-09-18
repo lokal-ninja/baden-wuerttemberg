@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.651404400000004
 longitude: 9.854994600000001
-postcode: 97268
+postcode: "97268"
 city: Kirchheim
 street: "Mergentheimer Straße"
 housenumber: 29

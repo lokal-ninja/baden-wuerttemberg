@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9833476
 longitude: 8.818364800000001
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Oberamteistraße"
 housenumber: 22

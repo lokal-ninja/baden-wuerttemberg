@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.162142100000004
 longitude: 7.6985764
-postcode: 79362
+postcode: "79362"
 city: Forchheim am Kaiserstuhl
 street: "Wyhler Straße"
 housenumber: 26a

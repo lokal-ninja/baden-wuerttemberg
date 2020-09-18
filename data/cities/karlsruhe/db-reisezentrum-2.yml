@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.9938992
 longitude: 8.4003536
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Bahnhofplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.3401882
 longitude: 8.029868500000001
-postcode: 77781
+postcode: "77781"
 city: Biberach
 street: "Friedenstraße"
 housenumber: 6

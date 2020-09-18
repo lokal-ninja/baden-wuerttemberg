@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.0110508
 longitude: 8.3560295
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
 street: "Hardtstraße"
 housenumber: 9

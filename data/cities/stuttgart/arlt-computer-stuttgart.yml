@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.772061300000004
 longitude: 9.1774576
-postcode: 
+postcode: ""
 city: Stuttgart
 street: "Torstraße"
 housenumber: 15

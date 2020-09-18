@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.4898918
 longitude: 8.4694512
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 3

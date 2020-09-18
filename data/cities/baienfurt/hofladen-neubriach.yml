@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.817232600000004
 longitude: 9.6517549
-postcode: 88255
+postcode: "88255"
 city: Baienfurt
 street: "Neubriach"
 housenumber: 4

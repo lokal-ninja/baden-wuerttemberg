@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.7518492
 longitude: 8.5494409
-postcode: 75323
+postcode: "75323"
 city: Bad Wildbad
 street: "Wilhelmstraße"
 housenumber: 27

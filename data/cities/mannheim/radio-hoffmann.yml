@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 49.488999
 longitude: 8.4706618
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 12

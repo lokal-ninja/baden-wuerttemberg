@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6844674
 longitude: 9.1568354
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Fürstenbergstraße"
 housenumber: 91

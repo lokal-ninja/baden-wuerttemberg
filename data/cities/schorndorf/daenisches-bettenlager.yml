@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.8060259
 longitude: 9.5173403
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Stuttgarter Straße"
 housenumber: 8-10

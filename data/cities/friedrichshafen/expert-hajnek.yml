@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.6573198
 longitude: 9.4811923
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Scheffelstraße"
 housenumber: 35

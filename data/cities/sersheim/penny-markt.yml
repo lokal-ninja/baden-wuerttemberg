@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9584272
 longitude: 9.004631100000001
-postcode: 74372
+postcode: "74372"
 city: Sersheim
 street: "Industriestraße"
 housenumber: 1

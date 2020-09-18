@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.809712000000005
 longitude: 8.863416800000001
-postcode: 71296
+postcode: "71296"
 city: Heimsheim
 street: "Am Flachter Pfad"
 housenumber: 3

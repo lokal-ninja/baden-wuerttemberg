@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.7308527
 longitude: 9.247365400000001
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Stuttgarter Straße"
 housenumber: 42

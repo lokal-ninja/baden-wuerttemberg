@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.6264279
 longitude: 9.6703613
-postcode: 97941
+postcode: "97941"
 city: Tauberbischofsheim
 street: "Kapellenstraße"
 housenumber: 1

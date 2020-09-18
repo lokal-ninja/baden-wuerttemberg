@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6957815
 longitude: 8.1360197
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Hauptstraße"
 housenumber: 49

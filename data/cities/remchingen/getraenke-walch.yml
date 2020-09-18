@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.9432722
 longitude: 8.578697
-postcode: 75196
+postcode: "75196"
 city: Remchingen
 street: "Wilhelmstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.1400663
 longitude: 9.2189218
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Fleiner Straße"
 housenumber: 14

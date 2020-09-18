@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.936285500000004
 longitude: 9.438304
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Stuttgarter Straße"
 housenumber: 141

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.080594700000006
 longitude: 9.066773000000001
-postcode: 74336
+postcode: "74336"
 city: Brackenheim
 street: "Georg-Kohl-Straße"
 housenumber: 41

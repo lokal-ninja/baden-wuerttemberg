@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.7804498
 longitude: 9.2029627
-postcode: 70186
+postcode: "70186"
 city: Stuttgart
 street: "Wagenburgstraße"
 housenumber: 92

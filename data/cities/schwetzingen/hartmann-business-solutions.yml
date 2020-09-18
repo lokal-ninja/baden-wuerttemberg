@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.3784909
 longitude: 8.5752086
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Keplerstraße"
 housenumber: 11

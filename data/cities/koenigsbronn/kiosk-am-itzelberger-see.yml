@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.731977500000006
 longitude: 10.1311839
-postcode: 89551
+postcode: "89551"
 city: Königsbronn
 street: "Uferstraße"
 housenumber: 56

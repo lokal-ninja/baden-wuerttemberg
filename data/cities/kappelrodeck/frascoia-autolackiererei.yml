@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.596901200000005
 longitude: 8.112051600000001
-postcode: 77876
+postcode: "77876"
 city: Kappelrodeck
 street: "Binzigstraße"
 housenumber: 19

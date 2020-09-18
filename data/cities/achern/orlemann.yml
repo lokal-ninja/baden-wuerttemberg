@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6554128
 longitude: 8.0498695
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Im Hesselbach"
 housenumber: 67

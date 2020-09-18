@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.4927737
 longitude: 8.556598000000001
-postcode: 72178
+postcode: "72178"
 city: Waldachtal
 street: "Sattelackerstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0262254
 longitude: 9.1549586
-postcode: 74376
+postcode: "74376"
 city: Gemmrigheim
 street: "Hauptstraße"
 housenumber: 63

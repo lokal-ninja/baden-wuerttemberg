@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.864085700000004
 longitude: 9.2525026
-postcode: 71686
+postcode: "71686"
 city: Remseck am Neckar
 street: "Cannstatter Straße"
 housenumber: 9

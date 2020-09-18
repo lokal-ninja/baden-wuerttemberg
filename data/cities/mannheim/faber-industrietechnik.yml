@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.444141900000005
 longitude: 8.5095469
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Mundenheimer Straße"
 housenumber: 43

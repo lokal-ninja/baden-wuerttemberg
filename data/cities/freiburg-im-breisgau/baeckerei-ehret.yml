@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.979666
 longitude: 7.8071732
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Am Mettweg"
 housenumber: 41

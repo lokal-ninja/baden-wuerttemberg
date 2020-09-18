@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.849508400000005
 longitude: 9.431342800000001
-postcode: 88271
+postcode: "88271"
 city: Wilhelmsdorf
 street: "Lindenstraße"
 housenumber: 2

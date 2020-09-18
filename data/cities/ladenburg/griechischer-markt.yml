@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.470953200000004
 longitude: 8.6103131
-postcode: 68526
+postcode: "68526"
 city: Ladenburg
 street: "Kirchenstraße"
 housenumber: 16

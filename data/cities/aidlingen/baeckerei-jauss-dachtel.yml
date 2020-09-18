@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6789311
 longitude: 8.8569406
-postcode: 71134
+postcode: "71134"
 city: Aidlingen
 street: "Calwer Straße"
 housenumber: 7

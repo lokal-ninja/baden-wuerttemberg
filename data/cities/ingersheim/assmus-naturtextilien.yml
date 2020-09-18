@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.957342700000005
 longitude: 9.1750453
-postcode: 74379
+postcode: "74379"
 city: Ingersheim
 street: "Gröninger Weg"
 housenumber: 1

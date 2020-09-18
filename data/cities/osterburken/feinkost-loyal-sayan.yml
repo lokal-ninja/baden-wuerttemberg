@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.4303952
 longitude: 9.4256139
-postcode: 74706
+postcode: "74706"
 city: Osterburken
 street: "Brunnengasse"
 housenumber: 2

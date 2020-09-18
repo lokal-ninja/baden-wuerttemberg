@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.4740331
 longitude: 8.1572527
-postcode: 77728
+postcode: "77728"
 city: Oppenau
 street: "Straßburger Straße"
 housenumber: 74

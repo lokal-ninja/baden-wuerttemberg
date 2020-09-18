@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.0076814
 longitude: 8.424985900000001
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Durlacher Allee"
 housenumber: 27a

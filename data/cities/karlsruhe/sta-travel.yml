@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 49.009023400000004
 longitude: 8.414682500000001
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 19

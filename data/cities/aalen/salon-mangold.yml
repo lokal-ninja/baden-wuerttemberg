@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.832109
 longitude: 10.076851600000001
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Gartenstraße"
 housenumber: 118

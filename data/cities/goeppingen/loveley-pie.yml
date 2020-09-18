@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.702738700000005
 longitude: 9.6532573
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Lange Straße"
 housenumber: 14

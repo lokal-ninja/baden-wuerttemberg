@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.6926403
 longitude: 9.1457078
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Markomannenstraße"
 housenumber: 11

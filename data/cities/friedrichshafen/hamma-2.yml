@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.6537774
 longitude: 9.4745305
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Franziskusplatz"
 housenumber: 4

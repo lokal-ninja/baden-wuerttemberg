@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.790794700000006
 longitude: 8.6708009
-postcode: 75328
+postcode: "75328"
 city: Schömberg
 street: "Pforzheimer Straße"
 housenumber: 14-18

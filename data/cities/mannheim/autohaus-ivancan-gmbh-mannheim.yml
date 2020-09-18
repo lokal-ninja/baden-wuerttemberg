@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.452246200000005
 longitude: 8.5140432
-postcode: 68219
+postcode: "68219"
 city: Mannheim
 street: "Helmertstraße"
 housenumber: 13

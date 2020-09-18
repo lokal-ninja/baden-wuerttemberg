@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.998485300000006
 longitude: 8.4713595
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Amthausstraße"
 housenumber: 2

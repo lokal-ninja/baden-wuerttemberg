@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.34763340000001
 longitude: 8.5064971
-postcode: 68766
+postcode: "68766"
 city: Hockenheim
 street: "Seewaldsiedlung"
 housenumber: 3

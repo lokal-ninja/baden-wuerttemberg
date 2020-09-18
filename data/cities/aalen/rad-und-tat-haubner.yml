@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.832325600000004
 longitude: 10.0954143
-postcode: 73431
+postcode: "73431"
 city: Aalen
 street: "Julius-Bausch-Straße"
 housenumber: 37

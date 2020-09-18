@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.814709900000004
 longitude: 9.2341821
-postcode: 70374
+postcode: "70374"
 city: Stuttgart
 street: "Schmidener Straße"
 housenumber: 183

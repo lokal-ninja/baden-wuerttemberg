@@ -1,12 +1,12 @@
-id: 2781240548
+id: 993676006
 type: node
 shop: Bäckerei
-latitude: 49.5219509
-longitude: 8.4930648
-postcode: 68305
+latitude: 49.5328893
+longitude: 8.4817701
+postcode: "68307"
 city: Mannheim
-street: "Speckweg"
-housenumber: 91
-phone: "+49 621 71419740"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-17:00; Su 07:30-17:00"
-website: "https://www.baeckergoertz.de/"
+street: "Sonderburger Straße"
+housenumber: 10
+phone: "+49 621 4608906"
+opening_hours: "Mo-Fr 05:30-18:30; Sa 06:00-14:30; Su 07:30-12:00"
+website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"

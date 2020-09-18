@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.4160229
 longitude: 9.920911400000001
-postcode: 89134
+postcode: "89134"
 city: Blaustein
 street: "Martinstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.62059360000001
 longitude: 10.2425829
-postcode: 89537
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Launtel"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.842481400000004
 longitude: 9.3584122
-postcode: 71404
+postcode: "71404"
 city: Korb
 street: "Lindenstraße"
 housenumber: 26

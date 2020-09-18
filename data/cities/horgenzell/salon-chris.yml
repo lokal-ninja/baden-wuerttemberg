@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.808277600000004
 longitude: 9.49624
-postcode: 88263
+postcode: "88263"
 city: Horgenzell
 street: "Am Tobel"
 housenumber: 4
 phone: ""
-opening_hours: ""
-website: "https://www.salon-chris.com"
+opening_hours: "Tu,We 08:00-17:30; Th,Fr 07:30-17:30"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.3951167
 longitude: 8.535339800000001
-postcode: 68782
+postcode: "68782"
 city: Brühl
 street: "Schwetzinger Straße"
 housenumber: 13

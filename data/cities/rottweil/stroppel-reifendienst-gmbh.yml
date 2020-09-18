@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.159749100000006
 longitude: 8.6298593
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Heerstraße"
 housenumber: 83

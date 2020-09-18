@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.652066500000004
 longitude: 9.475396700000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Friedrichstraße"
 housenumber: 53

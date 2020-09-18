@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.1588882
 longitude: 9.3247137
-postcode: 74189
+postcode: "74189"
 city: Weinsberg
 street: "Wimmentaler Straße"
 housenumber: 36

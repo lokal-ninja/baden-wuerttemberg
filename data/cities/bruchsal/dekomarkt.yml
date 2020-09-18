@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 49.1373067
 longitude: 8.565576100000001
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Kammerforststraße"
 housenumber: 7

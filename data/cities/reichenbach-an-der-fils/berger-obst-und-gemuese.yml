@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.709448900000005
 longitude: 9.462347900000001
-postcode: 73262
+postcode: "73262"
 city: Reichenbach an der Fils
 street: "Hauptstraße"
 housenumber: 3

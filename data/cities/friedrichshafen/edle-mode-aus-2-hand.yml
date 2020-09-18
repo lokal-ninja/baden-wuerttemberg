@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.6548919
 longitude: 9.481266
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Charlottenstraße"
 housenumber: 58

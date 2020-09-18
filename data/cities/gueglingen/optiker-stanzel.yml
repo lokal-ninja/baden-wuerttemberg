@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.066974
 longitude: 8.9985043
-postcode: 74363
+postcode: "74363"
 city: Güglingen
 street: "Kleingartacher Straße"
 housenumber: 5

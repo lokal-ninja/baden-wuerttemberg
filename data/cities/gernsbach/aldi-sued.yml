@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7688695
 longitude: 8.339120000000001
-postcode: 76593
+postcode: "76593"
 city: Gernsbach
 street: "Schwarzwaldstraße"
 housenumber: 20

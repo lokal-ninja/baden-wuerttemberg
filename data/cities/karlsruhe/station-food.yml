@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.99422190000001
 longitude: 8.401029300000001
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Bahnhofplatz"
 housenumber: 1

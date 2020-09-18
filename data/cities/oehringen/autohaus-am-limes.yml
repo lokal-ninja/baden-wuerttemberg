@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.201872300000005
 longitude: 9.495548300000001
-postcode: 74613
+postcode: "74613"
 city: Öhringen
 street: "Heilbronner Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 48.888159300000005
 longitude: 8.695848100000001
-postcode: 75173
+postcode: "75173"
 city: Pforzheim
 street: "Jahnstraße"
 housenumber: 23

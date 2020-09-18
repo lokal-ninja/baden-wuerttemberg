@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 48.678754100000006
 longitude: 10.152320000000001
-postcode: 89518
+postcode: "89518"
 city: Heidenheim an der Brenz
 street: "Karlstraße"
 housenumber: 4

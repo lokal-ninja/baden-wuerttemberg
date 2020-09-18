@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.3950486
 longitude: 8.7963555
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Am Hanfmarkt"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.9373018
 longitude: 8.916857100000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Lugstraße"
 housenumber: 20

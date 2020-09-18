@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.8057449
 longitude: 9.8473102
-postcode: 73527
+postcode: "73527"
 city: Schwäbisch Gmünd
 street: "Im Benzfeld"
 housenumber: 40

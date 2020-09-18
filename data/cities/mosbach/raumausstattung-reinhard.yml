@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.351586000000005
 longitude: 9.1457419
-postcode: 74821
+postcode: "74821"
 city: Mosbach
 street: "Frohndbrunnengasse"
 housenumber: 1

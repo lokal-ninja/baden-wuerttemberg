@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.0670858
 longitude: 8.4695935
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Rathausstraße"
 housenumber: 6

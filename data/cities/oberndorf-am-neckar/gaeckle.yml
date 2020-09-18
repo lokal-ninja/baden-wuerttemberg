@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.3103568
 longitude: 8.5337695
-postcode: 78727
+postcode: "78727"
 city: Oberndorf am Neckar
 street: "Laibgasse"
 housenumber: 2

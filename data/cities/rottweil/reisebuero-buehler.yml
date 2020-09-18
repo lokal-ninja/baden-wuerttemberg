@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.16654440000001
 longitude: 8.627801400000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Hochbrücktorstraße"
 housenumber: 28

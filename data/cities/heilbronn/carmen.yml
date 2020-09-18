@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1283509
 longitude: 9.2062886
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Friedrich-Dürr-Straße"
 housenumber: 71

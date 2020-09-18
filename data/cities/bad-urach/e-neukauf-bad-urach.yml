@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4887279
 longitude: 9.403193100000001
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Münsinger Straße"
 housenumber: 36

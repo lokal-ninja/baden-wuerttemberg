@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 49.5749106
 longitude: 9.3684911
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: "Otto-Hahn-Straße"
 housenumber: 10a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

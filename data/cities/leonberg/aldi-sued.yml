@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7987796
 longitude: 8.9993713
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Schweizermühle"
 housenumber: 9

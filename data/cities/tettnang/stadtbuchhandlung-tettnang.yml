@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.6716968
 longitude: 9.5873813
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Montfortstraße"
 housenumber: 19

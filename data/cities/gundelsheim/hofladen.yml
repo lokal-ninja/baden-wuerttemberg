@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.2913146
 longitude: 9.15272
-postcode: 74831
+postcode: "74831"
 city: Gundelsheim
 street: "Michaelsberg"
 housenumber: 3

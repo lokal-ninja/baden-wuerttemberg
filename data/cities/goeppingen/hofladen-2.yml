@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.6918045
 longitude: 9.6365084
-postcode: 73035
+postcode: "73035"
 city: Göppingen
 street: "Waldeckhof"
 housenumber: 1

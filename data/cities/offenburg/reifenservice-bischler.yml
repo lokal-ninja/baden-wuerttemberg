@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.4398282
 longitude: 7.9478147
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Ortenaustraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.3447181
 longitude: 8.4008974
-postcode: 72275
+postcode: "72275"
 city: Alpirsbach
 street: "Hauptstraße"
 housenumber: 16

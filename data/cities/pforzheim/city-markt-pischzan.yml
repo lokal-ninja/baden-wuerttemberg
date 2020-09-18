@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.890495900000005
 longitude: 8.6993138
-postcode: 75172
+postcode: "75172"
 city: Pforzheim
 street: "Leopoldstraße"
 housenumber: 13

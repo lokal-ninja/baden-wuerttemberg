@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.8755767
 longitude: 9.402156900000001
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Gutenbergweg"
 housenumber: 3

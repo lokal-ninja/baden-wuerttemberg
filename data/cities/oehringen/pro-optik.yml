@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.2013679
 longitude: 9.5013629
-postcode: 74613
+postcode: "74613"
 city: Öhringen
 street: "Poststraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.1228093
 longitude: 7.9944696
-postcode: 79261
+postcode: "79261"
 city: Gutach - Bleibach
 street: "Bleibacher Straße"
 housenumber: 7

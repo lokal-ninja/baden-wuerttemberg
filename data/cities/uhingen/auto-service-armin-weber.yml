@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7253793
 longitude: 9.555241500000001
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Kohlwiesenstraße"
 housenumber: 2

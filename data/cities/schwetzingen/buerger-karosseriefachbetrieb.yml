@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4012953
 longitude: 8.5565946
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Duisburger Straße"
 housenumber: 11

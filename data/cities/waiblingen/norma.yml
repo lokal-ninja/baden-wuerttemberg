@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.83250090000001
 longitude: 9.323624800000001
-postcode: 71334
+postcode: "71334"
 city: Waiblingen
 street: "Beinsteiner Straße"
 housenumber: 4

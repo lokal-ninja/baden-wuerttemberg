@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8989969
 longitude: 8.715486400000001
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Blumenheckstraße"
 housenumber: 52

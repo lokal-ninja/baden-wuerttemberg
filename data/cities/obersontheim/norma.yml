@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.053729100000005
 longitude: 9.883618700000001
-postcode: 74423
+postcode: "74423"
 city: Obersontheim
 street: "Irene-Kärcher-Straße"
 housenumber: 13

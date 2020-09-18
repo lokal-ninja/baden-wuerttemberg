@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.534485000000004
 longitude: 9.181527
-postcode: 72768
+postcode: "72768"
 city: Reutlingen
 street: "Am Gassenbrunnen"
 housenumber: 9

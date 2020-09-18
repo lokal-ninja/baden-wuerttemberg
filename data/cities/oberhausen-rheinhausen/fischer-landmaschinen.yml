@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.267326100000005
 longitude: 8.4750115
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Weiherweg"
 housenumber: 25

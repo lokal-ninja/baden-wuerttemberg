@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 47.6935306
 longitude: 9.2830741
-postcode: 88709
+postcode: "88709"
 city: Meersburg
 street: "Kronenstraße"
 housenumber: 19

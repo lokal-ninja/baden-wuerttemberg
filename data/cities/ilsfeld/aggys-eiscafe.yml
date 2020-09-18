@@ -3,7 +3,7 @@ type: way
 shop: Eisprodukte
 latitude: 49.0560631
 longitude: 9.2503106
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
 street: "König-Wilhelm-Straße"
 housenumber: 1

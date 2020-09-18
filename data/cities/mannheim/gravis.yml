@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.486618400000005
 longitude: 8.4653936
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 

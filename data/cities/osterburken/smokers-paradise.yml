@@ -3,7 +3,7 @@ type: way
 shop: Tabak
 latitude: 49.430886300000004
 longitude: 9.4264746
-postcode: 74706
+postcode: "74706"
 city: Osterburken
 street: "Turmstraße"
 housenumber: 1

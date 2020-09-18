@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.426669100000005
 longitude: 8.647054
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Mannheimer Straße"
 housenumber: 275

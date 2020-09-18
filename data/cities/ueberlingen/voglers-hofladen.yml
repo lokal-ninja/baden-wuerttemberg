@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.788597200000005
 longitude: 9.1313368
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Brunnenstraße"
 housenumber: 14

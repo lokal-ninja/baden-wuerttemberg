@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.131374
 longitude: 9.328039200000001
-postcode: 74251
+postcode: "74251"
 city: Lehrensteinsfeld
 street: "Ellbachstraße"
 housenumber: 12

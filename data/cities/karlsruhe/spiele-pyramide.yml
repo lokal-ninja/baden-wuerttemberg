@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.0081737
 longitude: 8.4103983
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Fritz-Erler-Straße"
 housenumber: 9

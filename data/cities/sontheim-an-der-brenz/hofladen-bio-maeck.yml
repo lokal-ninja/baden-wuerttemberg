@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5729722
 longitude: 10.2748486
-postcode: 89567
+postcode: "89567"
 city: Sontheim an der Brenz
 street: "Weiherstraße"
 housenumber: 1

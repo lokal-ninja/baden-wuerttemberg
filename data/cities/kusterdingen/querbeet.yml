@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.4867788
 longitude: 9.106241800000001
-postcode: 72127
+postcode: "72127"
 city: Kusterdingen
 street: "Roiäckerstraße"
 housenumber: 1

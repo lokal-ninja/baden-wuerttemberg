@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.004125300000005
 longitude: 8.4190015
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Ludwig-Erhard-Allee"
 housenumber: 12

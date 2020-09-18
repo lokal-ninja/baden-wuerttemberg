@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.603482
 longitude: 8.8725713
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Maybachstraße"
 housenumber: 6

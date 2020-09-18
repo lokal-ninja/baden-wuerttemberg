@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.974618400000004
 longitude: 8.8235463
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Stockacher Straße"
 housenumber: 118

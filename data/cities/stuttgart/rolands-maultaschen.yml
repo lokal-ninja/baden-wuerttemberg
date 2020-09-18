@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.731177200000005
 longitude: 9.106860300000001
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Seerosenstraße"
 housenumber: 15

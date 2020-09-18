@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 48.036526300000006
 longitude: 7.737127900000001
-postcode: 79224
+postcode: "79224"
 city: Umkirch
 street: "Dachswanger Hof"
 housenumber: 1
 phone: "+49 7666 940161"
-opening_hours: "Fr  16:00 - 18:30, Sa 09:00 - 13:30"
+opening_hours: "Fr 16:00-18:30; Sa 09:00-13:00"
 website: "http://www.dachswangermuehle.de/"

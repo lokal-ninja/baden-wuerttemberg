@@ -1,12 +1,12 @@
 id: 4925311842
 type: node
 shop: Bäckerei
-latitude: 48.521639900000004
-longitude: 9.055254300000001
-postcode: 72070
+latitude: 48.520530400000005
+longitude: 9.0579392
+postcode: "72074"
 city: Tübingen
-street: "Lange Gasse"
-housenumber: 22
+street: "Mühlstraße"
+housenumber: 10
 phone: "+49 1514 7541516"
 opening_hours: "Mo-Sa 08:00-19:00; Su,PH off"
 website: "https://www.adabaeckerei.com/"

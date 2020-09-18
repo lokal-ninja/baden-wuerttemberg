@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1755611
 longitude: 8.0723198
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Hauptstraße"
 housenumber: 82

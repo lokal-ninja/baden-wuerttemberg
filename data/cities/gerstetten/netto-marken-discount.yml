@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.627413100000005
 longitude: 10.0092849
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Daimlerstraße"
 housenumber: 5

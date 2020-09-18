@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.344202700000004
 longitude: 8.658123400000001
-postcode: 69207
+postcode: "69207"
 city: Sandhausen
 street: "Heidelberger Straße"
 housenumber: 1

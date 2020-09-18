@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.5396336
 longitude: 8.6585792
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Bergstraße"
 housenumber: 5

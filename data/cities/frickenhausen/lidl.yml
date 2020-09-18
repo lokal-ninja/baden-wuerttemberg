@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.585115900000005
 longitude: 9.367059000000001
-postcode: 72636
+postcode: "72636"
 city: Frickenhausen
 street: "In den Gernäckern"
 housenumber: 16

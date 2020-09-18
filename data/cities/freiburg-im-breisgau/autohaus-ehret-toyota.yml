@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.024635200000006
 longitude: 7.849012500000001
-postcode: 79108
+postcode: "79108"
 city: Freiburg im Breisgau
 street: "Tullastraße"
 housenumber: 57

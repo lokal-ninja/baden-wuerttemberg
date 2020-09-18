@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 48.7501966
 longitude: 9.443346
-postcode: 73666
+postcode: "73666"
 city: Baltmannsweiler
 street: "Silcherstraße"
 housenumber: 67

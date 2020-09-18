@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.8295424
 longitude: 7.6228699
-postcode: 79379
+postcode: "79379"
 city: Müllheim
 street: "Am Schulplatz"
 housenumber: 3

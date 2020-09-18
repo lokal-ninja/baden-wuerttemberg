@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.980198300000005
 longitude: 10.3629516
-postcode: 73497
+postcode: "73497"
 city: Tannhausen
 street: "Gartenstraße"
 housenumber: 3

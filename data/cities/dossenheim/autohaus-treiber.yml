@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.444575
 longitude: 8.6765363
-postcode: 69221
+postcode: "69221"
 city: Dossenheim
 street: "Friedrichstraße"
 housenumber: 93

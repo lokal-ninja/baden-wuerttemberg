@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.143309200000004
 longitude: 9.220567
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Sülmerstraße"
 housenumber: 21

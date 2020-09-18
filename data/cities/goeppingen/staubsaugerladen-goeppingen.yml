@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.7023236
 longitude: 9.6555438
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Schützenstraße"
 housenumber: 14

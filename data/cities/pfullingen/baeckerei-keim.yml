@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4670313
 longitude: 9.2253491
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Lindenplatz"
 housenumber: 15/2

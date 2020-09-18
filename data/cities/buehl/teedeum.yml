@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 48.6953952
 longitude: 8.136129500000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Hauptstraße"
 housenumber: 44

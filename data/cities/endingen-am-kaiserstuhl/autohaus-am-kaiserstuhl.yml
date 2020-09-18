@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.1427332
 longitude: 7.710986200000001
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "Riegeler Straße"
 housenumber: 7

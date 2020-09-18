@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.6877134
 longitude: 9.0117397
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Sindelfinger Straße"
 housenumber: 28

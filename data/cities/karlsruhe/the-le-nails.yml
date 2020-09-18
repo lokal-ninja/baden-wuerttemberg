@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.9993118
 longitude: 8.4705066
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 68

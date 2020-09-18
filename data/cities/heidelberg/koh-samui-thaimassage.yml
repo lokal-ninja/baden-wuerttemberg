@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.40851910000001
 longitude: 8.6990773
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Friedrich-Ebert-Anlage"
 housenumber: 31

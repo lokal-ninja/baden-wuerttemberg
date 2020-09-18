@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.816576000000005
 longitude: 9.2377496
-postcode: 70374
+postcode: "70374"
 city: Stuttgart
 street: "Sophie-Tschorn-Straße"
 housenumber: 1

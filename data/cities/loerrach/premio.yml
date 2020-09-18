@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 47.619521500000005
 longitude: 7.655975000000001
-postcode: 79539
+postcode: "79539"
 city: Lörrach
 street: "Wölblinstraße"
 housenumber: 76

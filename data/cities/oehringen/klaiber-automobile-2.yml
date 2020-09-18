@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.1937645
 longitude: 9.495252
-postcode: 74613
+postcode: "74613"
 city: Öhringen
 street: "Schleifbachweg"
 housenumber: 63

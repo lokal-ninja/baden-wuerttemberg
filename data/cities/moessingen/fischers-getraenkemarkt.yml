@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.4085252
 longitude: 9.0659451
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Auf der Lehr"
 housenumber: 30

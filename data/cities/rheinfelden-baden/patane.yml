@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.556260400000006
 longitude: 7.784331000000001
-postcode: 79618
+postcode: "79618"
 city: Rheinfelden (Baden)
 street: "Bahnhofplatz"
 housenumber: 3

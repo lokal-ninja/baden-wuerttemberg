@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.8008796
 longitude: 9.2268313
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Karlsbader Straße"
 housenumber: 40

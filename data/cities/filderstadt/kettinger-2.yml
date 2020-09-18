@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.648557100000005
 longitude: 9.246533300000001
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Harthäuser Hauptstraße"
 housenumber: 7

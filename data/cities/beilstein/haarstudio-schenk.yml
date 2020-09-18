@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.0419812
 longitude: 9.312746500000001
-postcode: 71717
+postcode: "71717"
 city: Beilstein
 street: "Auensteiner Straße"
 housenumber: 1

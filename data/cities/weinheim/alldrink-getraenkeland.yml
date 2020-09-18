@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.546420100000006
 longitude: 8.6560058
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Cavaillonstraße"
 housenumber: 11

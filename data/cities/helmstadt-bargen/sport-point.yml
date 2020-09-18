@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.321831800000005
 longitude: 8.9750241
-postcode: 74921
+postcode: "74921"
 city: Helmstadt-Bargen
 street: "Bankstraße"
 housenumber: 3

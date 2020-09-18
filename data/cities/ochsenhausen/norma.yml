@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0764666
 longitude: 9.9488512
-postcode: 88416
+postcode: "88416"
 city: Ochsenhausen
 street: "Ulmer Straße"
 housenumber: 51

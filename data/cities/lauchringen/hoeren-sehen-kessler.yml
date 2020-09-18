@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.6289657
 longitude: 8.3028826
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Hauptstraße"
 housenumber: 41

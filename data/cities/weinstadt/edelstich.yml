@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.810872
 longitude: 9.367401000000001
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Schulstraße"
 housenumber: 21

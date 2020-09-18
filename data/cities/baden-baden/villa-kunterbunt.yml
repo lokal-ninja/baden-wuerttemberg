@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.8090233
 longitude: 8.219385200000001
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Untere Hafnerstraße"
 housenumber: 27

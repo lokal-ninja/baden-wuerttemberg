@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.9760195
 longitude: 8.313253300000001
-postcode: 76287
+postcode: "76287"
 city: Rheinstetten
 street: "Silcherweg"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.1406354
 longitude: 9.2187923
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Fleiner Straße"
 housenumber: 23

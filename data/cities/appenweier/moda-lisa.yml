@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.538676
 longitude: 7.9792459000000004
-postcode: 77767
+postcode: "77767"
 city: Appenweier
 street: "Ortenauer Straße"
 housenumber: 27a

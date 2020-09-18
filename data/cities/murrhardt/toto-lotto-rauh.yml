@@ -3,7 +3,7 @@ type: way
 shop: Zeitungen
 latitude: 48.9800374
 longitude: 9.5793382
-postcode: 71540
+postcode: "71540"
 city: Murrhardt
 street: "Hauptstraße"
 housenumber: 11

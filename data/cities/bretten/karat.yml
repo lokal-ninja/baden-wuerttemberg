@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.0366197
 longitude: 8.7075209
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Marktplatz"
 housenumber: 16

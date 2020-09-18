@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.477218300000004
 longitude: 8.6640914
-postcode: 69198
+postcode: "69198"
 city: Schriesheim
 street: "Steinachstraße"
 housenumber: 2

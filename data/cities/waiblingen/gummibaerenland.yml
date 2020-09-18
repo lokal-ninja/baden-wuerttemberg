@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.831926200000005
 longitude: 9.3156549
-postcode: 71332
+postcode: "71332"
 city: Waiblingen
 street: "Zwerchgasse"
 housenumber: 5

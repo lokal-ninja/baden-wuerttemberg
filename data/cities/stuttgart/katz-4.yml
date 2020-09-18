@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.775145800000004
 longitude: 9.1811758
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Sporerstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.035025600000004
 longitude: 8.7140641
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Weißhofer Straße"
 housenumber: 69

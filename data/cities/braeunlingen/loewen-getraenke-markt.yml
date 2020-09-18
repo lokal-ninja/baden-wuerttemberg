@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.926721300000004
 longitude: 8.4495968
-postcode: 78199
+postcode: "78199"
 city: Bräunlingen
 street: "Dögginger Straße"
 housenumber: 9

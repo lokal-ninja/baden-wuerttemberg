@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.6721723
 longitude: 9.014370000000001
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Röhrer Weg"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.928298600000005
 longitude: 8.969664400000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Einsteinstraße"
 housenumber: 20

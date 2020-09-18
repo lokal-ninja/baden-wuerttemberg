@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.6728237
 longitude: 9.1831881
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Zähringerplatz"
 housenumber: 9

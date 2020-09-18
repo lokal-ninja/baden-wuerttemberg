@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.0884585
 longitude: 7.947556700000001
-postcode: 79183
+postcode: "79183"
 city: Waldkirch
 street: "Mauermattenstraße"
 housenumber: 1

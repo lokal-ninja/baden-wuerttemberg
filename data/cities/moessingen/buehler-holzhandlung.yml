@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.4056979
 longitude: 9.0435838
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Zeppelinstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9794818
 longitude: 9.7783262
-postcode: 74405
+postcode: "74405"
 city: Gaildorf
 street: "Oskar-Bamberg-Straße"
 housenumber: 18

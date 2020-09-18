@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.739096100000005
 longitude: 9.312447200000001
-postcode: 73728
+postcode: "73728"
 city: Esslingen am Neckar
 street: "Obertorstraße"
 housenumber: 3

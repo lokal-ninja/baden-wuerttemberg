@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5358097
 longitude: 8.0632658
-postcode: 77704
+postcode: "77704"
 city: Oberkirch
 street: "Hammermatt"
 housenumber: 5

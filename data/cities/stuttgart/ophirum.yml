@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.770815000000006
 longitude: 9.1596391
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Rotebühlstraße"
 housenumber: 121

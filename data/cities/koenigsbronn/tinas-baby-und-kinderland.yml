@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 48.735706900000004
 longitude: 10.131523600000001
-postcode: 89551
+postcode: "89551"
 city: Königsbronn
 street: "Wiesenstraße"
 housenumber: 57

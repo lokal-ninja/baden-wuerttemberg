@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.893761500000004
 longitude: 9.1902487
-postcode: 71638
+postcode: "71638"
 city: Ludwigsburg
 street: "Seestraße"
 housenumber: 26

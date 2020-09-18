@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.797104600000004
 longitude: 9.798494700000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Paradiesstraße"
 housenumber: 9

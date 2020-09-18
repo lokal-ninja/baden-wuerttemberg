@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5272501
 longitude: 9.347400700000001
-postcode: 72581
+postcode: "72581"
 city: Dettingen an der Erms
 street: "Karlstraße"
 housenumber: 82

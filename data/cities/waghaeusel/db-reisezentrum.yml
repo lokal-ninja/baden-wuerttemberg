@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 49.2479151
 longitude: 8.508291
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Weinbrennerstraße"
 housenumber: 9

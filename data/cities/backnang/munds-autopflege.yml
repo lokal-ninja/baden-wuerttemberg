@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.948922700000004
 longitude: 9.439939500000001
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Gartenstraße"
 housenumber: 107

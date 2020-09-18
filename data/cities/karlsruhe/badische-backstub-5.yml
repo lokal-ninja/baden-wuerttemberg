@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0095639
 longitude: 8.4012618
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 147-159

@@ -3,10 +3,10 @@ type: node
 shop: Massage
 latitude: 49.0000196
 longitude: 8.472722300000001
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Ochsentorstraße"
 housenumber: 9
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 10:00-17:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.718496
 longitude: 9.1276326
-postcode: 70565
+postcode: "70565"
 city: Stuttgart
 street: "Handwerkstraße"
 housenumber: 19

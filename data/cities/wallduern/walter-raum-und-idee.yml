@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 49.581327200000004
 longitude: 9.3679048
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: "Adolf-Kolping-Straße"
 housenumber: 13

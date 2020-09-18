@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.4208014
 longitude: 9.9068144
-postcode: 89134
+postcode: "89134"
 city: Blaustein
 street: "Ulmer Straße"
 housenumber: 1

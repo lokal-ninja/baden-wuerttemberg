@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.838027800000006
 longitude: 9.3324815
-postcode: 71334
+postcode: "71334"
 city: Waiblingen
 street: "Salierstraße"
 housenumber: 3/1

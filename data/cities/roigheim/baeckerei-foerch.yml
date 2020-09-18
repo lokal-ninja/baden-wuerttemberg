@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.363654100000005
 longitude: 9.340250000000001
-postcode: 74255
+postcode: "74255"
 city: Roigheim
 street: "Hauptstraße"
 housenumber: 22

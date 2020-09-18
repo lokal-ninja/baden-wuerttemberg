@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.03498200000001
 longitude: 8.5316597
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Schwenninger Straße"
 housenumber: 38

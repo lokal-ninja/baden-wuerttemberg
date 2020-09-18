@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.474298600000004
 longitude: 8.7578829
-postcode: 69259
+postcode: "69259"
 city: Wilhelmsfeld
 street: "Angelhofweg"
 housenumber: 50a

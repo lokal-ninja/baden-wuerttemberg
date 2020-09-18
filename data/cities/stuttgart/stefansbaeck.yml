@@ -1,12 +1,12 @@
-id: 5057721399
-type: node
+id: 34017720
+type: way
 shop: Bäckerei
-latitude: 48.802928400000006
-longitude: 9.225101200000001
-postcode: 70372
+latitude: 48.7775869
+longitude: 9.163861
+postcode: "70176"
 city: Stuttgart
-street: "Martin-Luther-Straße"
-housenumber: 65
+street: "Breitscheidstraße"
+housenumber: 40
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-13:00"
 website: ""

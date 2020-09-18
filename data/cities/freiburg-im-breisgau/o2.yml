@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.996951
 longitude: 7.8495707
-postcode: 79098
+postcode: "79098"
 city: Freiburg im Breisgau
 street: "Merianstraße"
 housenumber: 1

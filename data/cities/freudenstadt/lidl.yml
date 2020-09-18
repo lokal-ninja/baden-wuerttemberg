@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4653557
 longitude: 8.4292818
-postcode: 72250
+postcode: "72250"
 city: Freudenstadt
 street: "Wittlensweilerstraße"
 housenumber: 6

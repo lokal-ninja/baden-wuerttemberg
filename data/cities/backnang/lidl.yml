@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9466515
 longitude: 9.4364618
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Gartenstraße"
 housenumber: 62

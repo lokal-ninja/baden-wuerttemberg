@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 47.6215855
 longitude: 8.3255107
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Alte Rathausstraße"
 housenumber: 2

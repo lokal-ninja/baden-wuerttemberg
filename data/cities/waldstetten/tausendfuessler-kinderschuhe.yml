@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.766972200000005
 longitude: 9.822193700000001
-postcode: 73550
+postcode: "73550"
 city: Waldstetten
 street: "Gmünder Straße"
 housenumber: 14

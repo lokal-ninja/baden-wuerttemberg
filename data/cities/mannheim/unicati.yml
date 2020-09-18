@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.496895800000004
 longitude: 8.4847949
-postcode: 68167
+postcode: "68167"
 city: Mannheim
 street: "Lange Rötterstraße"
 housenumber: 92

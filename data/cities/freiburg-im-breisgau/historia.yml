@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.0180957
 longitude: 7.850343700000001
-postcode: 79106
+postcode: "79106"
 city: Freiburg im Breisgau
 street: "Berta-Ottenstein-Straße"
 housenumber: 19

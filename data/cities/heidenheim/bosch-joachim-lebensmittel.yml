@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.6658325
 longitude: 10.1744935
-postcode: 89522
+postcode: "89522"
 city: Heidenheim
 street: "Giengener Straße"
 housenumber: 134

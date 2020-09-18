@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.7795229
 longitude: 9.2076346
-postcode: 70186
+postcode: "70186"
 city: Stuttgart
 street: "Gablenberger Hauptstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.861564200000004
 longitude: 8.7723884
-postcode: 78234
+postcode: "78234"
 city: Engen
 street: "Schwarzwaldstraße"
 housenumber: 32

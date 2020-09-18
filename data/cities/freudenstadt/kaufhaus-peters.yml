@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.461972100000004
 longitude: 8.413053
-postcode: 72250
+postcode: "72250"
 city: Freudenstadt
 street: "Paulinenstraße"
 housenumber: 5

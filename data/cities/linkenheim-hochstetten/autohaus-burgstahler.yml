@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.1421755
 longitude: 8.411832200000001
-postcode: 76351
+postcode: "76351"
 city: Linkenheim-Hochstetten
 street: "Gewerbering"
 housenumber: 12

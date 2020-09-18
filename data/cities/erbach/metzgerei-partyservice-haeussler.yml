@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.328309000000004
 longitude: 9.8891138
-postcode: 89155
+postcode: "89155"
 city: Erbach
 street: "Erlenbachstraße"
 housenumber: 43

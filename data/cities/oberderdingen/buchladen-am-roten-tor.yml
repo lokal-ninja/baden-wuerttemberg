@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.063785100000004
 longitude: 8.799842400000001
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Rote-Tor-Straße"
 housenumber: 8

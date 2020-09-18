@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.8169404
 longitude: 9.0553863
-postcode: 78351
+postcode: "78351"
 city: Bodman-Ludwigshafen
 street: "Radolfzeller Straße"
 housenumber: 1

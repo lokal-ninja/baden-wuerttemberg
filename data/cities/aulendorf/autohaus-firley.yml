@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.941802800000005
 longitude: 9.646074
-postcode: 88326
+postcode: "88326"
 city: Aulendorf
 street: "Alte Kiesgrube"
 housenumber: 10

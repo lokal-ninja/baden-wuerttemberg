@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.7737526
 longitude: 8.7265342
-postcode: 75378
+postcode: "75378"
 city: Bad Liebenzell
 street: "Finkenbergweg"
 housenumber: 15

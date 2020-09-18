@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.706823400000005
 longitude: 10.1640944
-postcode: 89520
+postcode: "89520"
 city: Heidenheim an der Brenz
 street: "Kapellstraße"
 housenumber: 22

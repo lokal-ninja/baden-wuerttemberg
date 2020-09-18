@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.6736519
 longitude: 9.1883473
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Allmannsdorfer Straße"
 housenumber: 46

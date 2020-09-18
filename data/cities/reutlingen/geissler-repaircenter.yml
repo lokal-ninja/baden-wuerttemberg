@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.4288565
 longitude: 9.161340000000001
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Lichtensteinstraße"
 housenumber: 75

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.697174600000004
 longitude: 9.6896745
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Seewiesenstraße"
 housenumber: 4

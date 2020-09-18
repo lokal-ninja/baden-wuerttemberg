@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.7857665
 longitude: 9.1984914
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Rotenbergstraße"
 housenumber: 2

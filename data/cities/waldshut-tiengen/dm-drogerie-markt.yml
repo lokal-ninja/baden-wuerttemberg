@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.6227431
 longitude: 8.209433
-postcode: 79761
+postcode: "79761"
 city: Waldshut-Tiengen
 street: "Kaiserstraße"
 housenumber: 91

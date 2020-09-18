@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.296067
 longitude: 8.492580100000001
-postcode: 78737
+postcode: "78737"
 city: Fluorn-Winzeln
 street: "Hafnerweg"
 housenumber: 21

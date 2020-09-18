@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.886297000000006
 longitude: 9.0018502
-postcode: 71735
+postcode: "71735"
 city: Eberdingen
 street: "Pulverdinger Straße"
 housenumber: 1

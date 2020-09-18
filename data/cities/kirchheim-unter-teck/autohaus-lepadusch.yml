@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.652607800000006
 longitude: 9.425816600000001
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Heimenwiesen"
 housenumber: 50

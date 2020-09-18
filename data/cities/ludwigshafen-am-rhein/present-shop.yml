@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.4865538
 longitude: 8.4460599
-postcode: 67061
+postcode: "67061"
 city: Ludwigshafen am Rhein
 street: "Im Zollhof"
 housenumber: 4

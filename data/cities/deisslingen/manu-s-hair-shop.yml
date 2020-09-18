@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.111070600000005
 longitude: 8.6056974
-postcode: 78652
+postcode: "78652"
 city: Deißlingen
 street: "Badstraße"
 housenumber: 12

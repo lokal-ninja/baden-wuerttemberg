@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0309017
 longitude: 8.4591075
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Schwetzinger Straße"
 housenumber: 4

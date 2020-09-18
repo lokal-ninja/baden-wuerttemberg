@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.1416886
 longitude: 8.907280700000001
-postcode: 75031
+postcode: "75031"
 city: Eppingen
 street: "Orchideenstraße"
 housenumber: 9

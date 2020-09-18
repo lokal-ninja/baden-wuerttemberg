@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.8891901
 longitude: 8.325981200000001
-postcode: 76316
+postcode: "76316"
 city: Malsch
 street: "Sézanner Straße"
 housenumber: 6a

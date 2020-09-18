@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.008017800000005
 longitude: 8.417245300000001
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Gottesauer Straße"
 housenumber: 6

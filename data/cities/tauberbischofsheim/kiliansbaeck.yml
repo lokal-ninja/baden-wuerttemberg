@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.6200686
 longitude: 9.6683879
-postcode: 97941
+postcode: "97941"
 city: Tauberbischofsheim
 street: "Mergentheimer Straße"
 housenumber: 32

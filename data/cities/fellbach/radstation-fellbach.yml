@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.81960350000001
 longitude: 9.2699058
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Eisenbahnstraße"
 housenumber: 21

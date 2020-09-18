@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 48.9996079
 longitude: 8.4677542
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 88

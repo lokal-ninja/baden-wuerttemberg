@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.7140348
 longitude: 8.7400569
-postcode: 75365
+postcode: "75365"
 city: Calw
 street: "Marktstraße"
 housenumber: 7

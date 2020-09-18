@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 48.6656065
 longitude: 7.9368365
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Rheinstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.631086100000005
 longitude: 8.3002319
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Hauptstraße"
 housenumber: 70

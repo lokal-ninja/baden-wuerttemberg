@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.0077173
 longitude: 8.092906900000001
-postcode: 79274
+postcode: "79274"
 city: St. Märgen
 street: "Feldbergstraße"
 housenumber: 1

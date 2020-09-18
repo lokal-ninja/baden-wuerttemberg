@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.513576300000004
 longitude: 9.230984000000001
-postcode: 72766
+postcode: "72766"
 city: Reutlingen
 street: "Am Heilbrunnen"
 housenumber: 145

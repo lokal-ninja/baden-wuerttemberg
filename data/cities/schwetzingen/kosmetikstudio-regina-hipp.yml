@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 49.391940000000005
 longitude: 8.5683185
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Friedrich-Ebert-Straße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.6983303
 longitude: 8.1318006
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Güterstraße"
 housenumber: 8

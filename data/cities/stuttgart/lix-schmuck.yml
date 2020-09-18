@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.771356100000006
 longitude: 9.175552
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Christophstraße"
 housenumber: 12

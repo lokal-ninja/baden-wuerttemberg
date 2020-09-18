@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.601556
 longitude: 9.4281849
-postcode: 74746
+postcode: "74746"
 city: Höpfingen
 street: "Petersgasse"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.301984000000004
 longitude: 9.618312000000001
-postcode: 74676
+postcode: "74676"
 city: Niedernhall
 street: "Salzstraße"
 housenumber: 6

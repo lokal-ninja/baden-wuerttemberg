@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.986656
 longitude: 7.8505288
-postcode: 79102
+postcode: "79102"
 city: Freiburg im Breisgau
 street: "Brombergstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 47.672737100000006
 longitude: 9.1831688
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Zähringerplatz"
 housenumber: 9

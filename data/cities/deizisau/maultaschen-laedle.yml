@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 48.7137344
 longitude: 9.3888288
-postcode: 73779
+postcode: "73779"
 city: Deizisau
 street: "Zehntstraße"
 housenumber: 25

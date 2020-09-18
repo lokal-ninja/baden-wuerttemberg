@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.389736000000006
 longitude: 9.180685500000001
-postcode: 72820
+postcode: "72820"
 city: Sonnenbühl
 street: "Schießgasse"
 housenumber: 2

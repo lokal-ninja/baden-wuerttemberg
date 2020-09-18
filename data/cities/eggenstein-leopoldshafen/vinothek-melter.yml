@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.0744145
 longitude: 8.3794313
-postcode: 76344
+postcode: "76344"
 city: Eggenstein-Leopoldshafen
 street: "Siemensstraße"
 housenumber: 4

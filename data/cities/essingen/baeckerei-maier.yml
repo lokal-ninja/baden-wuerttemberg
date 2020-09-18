@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7825435
 longitude: 9.977796300000001
-postcode: 73457
+postcode: "73457"
 city: Essingen
 street: "Bäckergasse"
 housenumber: 17

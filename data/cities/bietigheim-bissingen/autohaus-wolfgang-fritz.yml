@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 48.9504917
 longitude: 9.147106200000001
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Gustav-Rau-Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.fritz-bietigheim-bissingen.audi/de.html"

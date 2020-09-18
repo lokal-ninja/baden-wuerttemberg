@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9952995
 longitude: 7.8249576
-postcode: 79115
+postcode: "79115"
 city: Freiburg im Breisgau
 street: "Markgrafenstraße"
 housenumber: 95

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.897360400000004
 longitude: 8.6141389
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: ""
 housenumber: 1

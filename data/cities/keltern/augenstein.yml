@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9015548
 longitude: 8.577231900000001
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: "Lindenstraße"
 housenumber: 1

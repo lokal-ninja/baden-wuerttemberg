@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.7830548
 longitude: 8.1926086
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Gewerbepark Cité"
 housenumber: 7

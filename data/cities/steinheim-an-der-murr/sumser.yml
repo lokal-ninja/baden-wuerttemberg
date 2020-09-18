@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.966716100000006
 longitude: 9.276444600000001
-postcode: 71711
+postcode: "71711"
 city: Steinheim an der Murr
 street: "Ludwigsburger Straße"
 housenumber: 25

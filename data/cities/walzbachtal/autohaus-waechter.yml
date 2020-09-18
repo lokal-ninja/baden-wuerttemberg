@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.034355500000004
 longitude: 8.5727665
-postcode: 75045
+postcode: "75045"
 city: Walzbachtal
 street: "Grombacher Straße"
 housenumber: 8

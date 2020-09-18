@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.7183398
 longitude: 9.3462527
-postcode: 73730
+postcode: "73730"
 city: Esslingen
 street: "Dornierstraße"
 housenumber: 16

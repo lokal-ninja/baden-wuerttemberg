@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.0742921
 longitude: 8.7367937
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Hauptstraße"
 housenumber: 117

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7976261
 longitude: 9.689852100000001
-postcode: 73547
+postcode: "73547"
 city: Lorch
 street: "August-Wilhelm-Pfäffle-Straße"
 housenumber: 1

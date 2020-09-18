@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.649985400000006
 longitude: 7.8222776000000005
-postcode: 79650
+postcode: "79650"
 city: Schopfheim
 street: "Hauptstraße"
 housenumber: 50

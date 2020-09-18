@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.288910200000004
 longitude: 8.213586600000001
-postcode: 77709
+postcode: "77709"
 city: Wolfach
 street: "Untere Zinne"
 housenumber: 1

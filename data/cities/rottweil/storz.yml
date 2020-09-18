@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.16040640000001
 longitude: 8.6315556
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Stadionstraße"
 housenumber: 11

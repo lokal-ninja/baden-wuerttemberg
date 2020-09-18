@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.2285374
 longitude: 9.2143748
-postcode: 74177
+postcode: "74177"
 city: Bad Friedrichshall
 street: "Friedrichshaller Straße"
 housenumber: 15

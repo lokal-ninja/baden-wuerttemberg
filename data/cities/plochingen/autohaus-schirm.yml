@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.706574800000006
 longitude: 9.4229087
-postcode: 73207
+postcode: "73207"
 city: Plochingen
 street: "Ulmer Straße"
 housenumber: 12

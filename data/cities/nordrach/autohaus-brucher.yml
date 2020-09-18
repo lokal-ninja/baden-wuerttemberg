@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.3898409
 longitude: 8.0719527
-postcode: 77787
+postcode: "77787"
 city: Nordrach
 street: "Gewerbegebiet"
 housenumber: 2

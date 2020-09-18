@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4843102
 longitude: 9.6446179
-postcode: 97944
+postcode: "97944"
 city: Boxberg
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.211399300000004
 longitude: 9.1995091
-postcode: 74257
+postcode: "74257"
 city: Untereisesheim
 street: "Kirschenstraße"
 housenumber: 22

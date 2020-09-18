@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.3590655
 longitude: 8.797014500000001
-postcode: 69257
+postcode: "69257"
 city: Wiesenbach
 street: "In der Au"
 housenumber: 8

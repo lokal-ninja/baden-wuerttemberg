@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.1306175
 longitude: 8.232405
-postcode: 78098
+postcode: "78098"
 city: Triberg im Schwarzwald
 street: "Hauptstraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.8383879
 longitude: 10.0936771
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Roßstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9992954
 longitude: 8.4709708
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 62

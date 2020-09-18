@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.465437800000004
 longitude: 8.4099401
-postcode: 72250
+postcode: "72250"
 city: Freudenstadt
 street: "Hirschkopfstraße"
 housenumber: 1

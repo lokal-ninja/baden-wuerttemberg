@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.074922300000004
 longitude: 8.736686
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Marktplatz"
 housenumber: 21

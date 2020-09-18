@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.3959236
 longitude: 8.971978
-postcode: 72411
+postcode: "72411"
 city: Bodelshausen
 street: "Am Burghof"
 housenumber: 25

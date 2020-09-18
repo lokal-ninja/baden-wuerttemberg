@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.8562658
 longitude: 7.7748252
-postcode: 79244
+postcode: "79244"
 city: Münstertal
 street: "Belchenstraße"
 housenumber: 2

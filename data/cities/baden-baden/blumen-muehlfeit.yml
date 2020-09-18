@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.8080026
 longitude: 8.1953311
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Sandweierer Straße"
 housenumber: 11

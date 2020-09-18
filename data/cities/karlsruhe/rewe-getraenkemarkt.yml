@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.009681400000005
 longitude: 8.4381261
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Theodor-Rehbock-Straße"
 housenumber: 11

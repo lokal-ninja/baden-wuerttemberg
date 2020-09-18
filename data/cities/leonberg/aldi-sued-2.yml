@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.788590400000004
 longitude: 9.0292578
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Ulmer Straße"
 housenumber: 34

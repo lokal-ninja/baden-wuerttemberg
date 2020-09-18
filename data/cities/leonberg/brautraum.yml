@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.8010103
 longitude: 9.0149068
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Schlossstraße"
 housenumber: 2

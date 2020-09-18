@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9056599
 longitude: 9.0836796
-postcode: 71706
+postcode: "71706"
 city: Markgröningen
 street: "Helenenstraße"
 housenumber: 38

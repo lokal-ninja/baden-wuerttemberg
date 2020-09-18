@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.638025600000006
 longitude: 9.324907000000001
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Lindenplatz"
 housenumber: 3

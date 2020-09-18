@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.7091214
 longitude: 9.577334200000001
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Stuttgarter Straße"
 housenumber: 74

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.0372539
 longitude: 8.7049728
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Melanchthonstraße"
 housenumber: 25

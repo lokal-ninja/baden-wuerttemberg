@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.5704633
 longitude: 8.4352441
-postcode: 79801
+postcode: "79801"
 city: Hohentengen am Hochrhein
 street: "Hauptstraße"
 housenumber: 26

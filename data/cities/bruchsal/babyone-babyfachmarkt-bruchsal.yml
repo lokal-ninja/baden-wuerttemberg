@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.1265063
 longitude: 8.572897900000001
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Industriestraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.398434200000004
 longitude: 9.9958705
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Frauenstraße"
 housenumber: 11

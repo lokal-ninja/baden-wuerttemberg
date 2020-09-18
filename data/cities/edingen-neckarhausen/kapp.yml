@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4458677
 longitude: 8.603682300000001
-postcode: 68535
+postcode: "68535"
 city: Edingen-Neckarhausen
 street: ""
 housenumber: 

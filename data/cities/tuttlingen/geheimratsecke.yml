@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9873327
 longitude: 8.8203157
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Untere Vorstadt"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.855636000000004
 longitude: 9.181918900000001
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Karl-Joos-Straße"
 housenumber: 85

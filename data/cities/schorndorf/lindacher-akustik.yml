@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.805313000000005
 longitude: 9.528654900000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Johann-Philipp-Palm-Straße"
 housenumber: 13

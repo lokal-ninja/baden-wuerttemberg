@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 49.0586988
 longitude: 9.2808782
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
 street: "Beilsteiner Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.377349200000005
 longitude: 8.5593232
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Hockenheimer Landstraße"
 housenumber: 4/3

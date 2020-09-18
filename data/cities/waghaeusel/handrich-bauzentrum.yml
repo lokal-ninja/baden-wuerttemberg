@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.2397835
 longitude: 8.509298900000001
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Adlerstraße"
 housenumber: 1

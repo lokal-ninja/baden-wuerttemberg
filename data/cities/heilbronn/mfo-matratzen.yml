@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.1499004
 longitude: 9.197043200000001
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Neckargartacher Straße"
 housenumber: 110

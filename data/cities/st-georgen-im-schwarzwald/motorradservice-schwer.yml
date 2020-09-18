@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.1270382
 longitude: 8.346093900000001
-postcode: 78112
+postcode: "78112"
 city: St. Georgen im Schwarzwald
 street: "Industriestraße"
 housenumber: 17a

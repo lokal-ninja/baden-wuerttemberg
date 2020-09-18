@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7380702
 longitude: 8.779731
-postcode: 75382
+postcode: "75382"
 city: Althengstett
 street: "Ottenbronner Straße"
 housenumber: 1

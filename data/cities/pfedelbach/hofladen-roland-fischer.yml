@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.178231700000005
 longitude: 9.4686274
-postcode: 74629
+postcode: "74629"
 city: Pfedelbach
 street: ""
 housenumber: 6

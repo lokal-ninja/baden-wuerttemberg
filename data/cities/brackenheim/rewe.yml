@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.075375
 longitude: 9.0623505
-postcode: 74336
+postcode: "74336"
 city: Brackenheim
 street: "Maulbronner Straße"
 housenumber: 14

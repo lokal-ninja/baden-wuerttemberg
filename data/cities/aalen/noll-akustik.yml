@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.836920500000005
 longitude: 10.093304700000001
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Marktplatz"
 housenumber: 17

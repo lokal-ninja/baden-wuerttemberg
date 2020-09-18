@@ -1,12 +1,12 @@
 id: 5069161821
 type: node
 shop: Schuhe
-latitude: 48.5740587
-longitude: 7.809219400000001
-postcode: 77694
+latitude: 48.574056500000005
+longitude: 7.809190600000001
+postcode: "77694"
 city: Kehl
 street: "Hauptstraße"
 housenumber: 41
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 7851 889844"
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
+website: "https://hammelschuhe.de/"

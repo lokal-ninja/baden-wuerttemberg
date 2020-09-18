@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0003133
 longitude: 7.839914200000001
-postcode: 79106
+postcode: "79106"
 city: Freiburg im Breisgau
 street: "Lehener Straße"
 housenumber: 23-25

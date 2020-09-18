@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5961652
 longitude: 8.8687546
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Badgasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.696764900000005
 longitude: 9.692320500000001
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Stuttgarter Straße"
 housenumber: 134

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.667372500000006
 longitude: 9.121302100000001
-postcode: 71144
+postcode: "71144"
 city: Steinenbronn
 street: "Schönbuchweg"
 housenumber: 4

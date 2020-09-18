@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.5967366
 longitude: 9.5401699
-postcode: 88085
+postcode: "88085"
 city: Langenargen
 street: "Schulstraße"
 housenumber: 7/1

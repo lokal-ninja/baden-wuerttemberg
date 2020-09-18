@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.762104900000004
 longitude: 8.2400222
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Baldreitstraße"
 housenumber: 3

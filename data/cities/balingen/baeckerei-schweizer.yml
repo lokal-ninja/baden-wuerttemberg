@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2721436
 longitude: 8.8497602
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Obere Kirchstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.718121700000005
 longitude: 9.5336692
-postcode: 73061
+postcode: "73061"
 city: Ebersbach an der Fils
 street: "Leintelstraße"
 housenumber: 78

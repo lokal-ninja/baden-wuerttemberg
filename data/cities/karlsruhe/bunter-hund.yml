@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.9991264
 longitude: 8.472634000000001
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 15

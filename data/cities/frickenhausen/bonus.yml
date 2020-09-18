@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5927202
 longitude: 9.360989700000001
-postcode: 72636
+postcode: "72636"
 city: Frickenhausen
 street: "Hauptstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.6226283
 longitude: 8.042669100000001
-postcode: 79733
+postcode: "79733"
 city: Görwihl
 street: "Oberwihl"
 housenumber: 216

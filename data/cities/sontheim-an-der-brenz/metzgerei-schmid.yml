@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.563928700000005
 longitude: 10.2948555
-postcode: 89567
+postcode: "89567"
 city: Sontheim an der Brenz
 street: "Hermaringer Straße"
 housenumber: 19

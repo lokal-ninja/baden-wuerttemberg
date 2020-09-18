@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 47.5757442
 longitude: 8.0959041
-postcode: 79725
+postcode: "79725"
 city: Laufenburg (Baden)
 street: "Johann-Kaspar-Albrecht-Straße"
 housenumber: 16

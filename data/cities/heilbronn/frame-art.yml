@@ -3,7 +3,7 @@ type: node
 shop: Rahmen
 latitude: 49.1399842
 longitude: 9.2169138
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Fleiner Straße"
 housenumber: 15

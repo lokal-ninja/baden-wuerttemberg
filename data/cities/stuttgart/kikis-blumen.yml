@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.7859423
 longitude: 9.190504200000001
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Neckarstraße"
 housenumber: 86

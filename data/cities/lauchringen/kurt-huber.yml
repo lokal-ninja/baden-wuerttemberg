@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.627138800000004
 longitude: 8.316487
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Klettgaustraße"
 housenumber: 33

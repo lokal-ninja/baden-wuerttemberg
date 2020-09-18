@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.219858200000004
 longitude: 9.2408143
-postcode: 74177
+postcode: "74177"
 city: Bad Friedrichshall
 street: "Riedweg"
 housenumber: 14

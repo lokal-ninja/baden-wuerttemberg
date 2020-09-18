@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.4307742
 longitude: 8.666366
-postcode: 69121
+postcode: "69121"
 city: Heidelberg
 street: ""
 housenumber: 4

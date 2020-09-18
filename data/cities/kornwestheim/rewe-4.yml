@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.877679300000004
 longitude: 9.2202617
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Arkansasstraße"
 housenumber: 2

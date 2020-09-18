@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9609231
 longitude: 9.1727088
-postcode: 74379
+postcode: "74379"
 city: Ingersheim
 street: "In den Beeten"
 housenumber: 65

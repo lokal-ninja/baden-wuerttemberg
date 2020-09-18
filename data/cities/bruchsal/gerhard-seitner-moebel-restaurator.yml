@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 49.0852274
 longitude: 8.6403896
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Eberhardstraße"
 housenumber: 1

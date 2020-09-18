@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.703378400000005
 longitude: 9.0027913
-postcode: 71063
+postcode: "71063"
 city: Sindelfingen
 street: "Bahnhofstraße"
 housenumber: 43

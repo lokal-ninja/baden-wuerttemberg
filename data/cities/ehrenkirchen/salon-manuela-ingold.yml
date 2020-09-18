@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9411506
 longitude: 7.7308957000000005
-postcode: 79238
+postcode: "79238"
 city: Ehrenkirchen
 street: "Weinbergstraße"
 housenumber: 2

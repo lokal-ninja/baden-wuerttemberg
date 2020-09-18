@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.890524000000006
 longitude: 9.2047861
-postcode: 71638
+postcode: "71638"
 city: Ludwigsburg
 street: "Hindenburgstraße"
 housenumber: 60

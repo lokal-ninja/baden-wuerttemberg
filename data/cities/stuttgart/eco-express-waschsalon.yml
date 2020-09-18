@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.8036426
 longitude: 9.2200667
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Waiblinger Straße"
 housenumber: 20

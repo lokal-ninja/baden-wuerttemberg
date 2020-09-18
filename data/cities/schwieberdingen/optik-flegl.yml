@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.875919700000004
 longitude: 9.0736098
-postcode: 71701
+postcode: "71701"
 city: Schwieberdingen
 street: ""
 housenumber: 

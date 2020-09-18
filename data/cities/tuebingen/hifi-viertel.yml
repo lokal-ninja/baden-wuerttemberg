@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.5147417
 longitude: 9.0626801
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Christophstraße"
 housenumber: 23

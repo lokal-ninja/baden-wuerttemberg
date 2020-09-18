@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3964104
 longitude: 8.971565100000001
-postcode: 72411
+postcode: "72411"
 city: Bodelshausen
 street: "Rottenburger Straße"
 housenumber: 3

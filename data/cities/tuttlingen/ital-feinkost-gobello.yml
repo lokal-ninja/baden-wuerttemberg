@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.985180500000006
 longitude: 8.8181636
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Rathausstraße"
 housenumber: 5

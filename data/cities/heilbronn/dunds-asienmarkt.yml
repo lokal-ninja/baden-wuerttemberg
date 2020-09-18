@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1378616
 longitude: 9.216671100000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Bergstraße"
 housenumber: 14/1

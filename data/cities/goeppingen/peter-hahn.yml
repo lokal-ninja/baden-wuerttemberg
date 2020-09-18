@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.702855500000005
 longitude: 9.655731000000001
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Poststraße"
 housenumber: 39

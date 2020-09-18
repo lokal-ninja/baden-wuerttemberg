@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.804300100000006
 longitude: 9.2148312
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Marktstraße"
 housenumber: 30

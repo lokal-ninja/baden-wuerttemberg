@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.536329
 longitude: 8.9426418
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Banngarten"
 housenumber: 2

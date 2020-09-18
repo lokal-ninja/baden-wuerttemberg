@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.4959045
 longitude: 8.549972
-postcode: 68259
+postcode: "68259"
 city: Mannheim
 street: "Mosbacher Straße"
 housenumber: 18

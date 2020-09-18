@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 48.696273100000006
 longitude: 8.1385
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Johannesplatz"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.8642814
 longitude: 9.3832325
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Theodor-Heuss-Platz"
 housenumber: 5

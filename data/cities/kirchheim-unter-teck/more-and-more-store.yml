@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6485423
 longitude: 9.451891100000001
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Max-Eyth-Straße"
 housenumber: 31

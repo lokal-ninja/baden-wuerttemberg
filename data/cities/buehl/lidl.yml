@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.707180400000006
 longitude: 8.1290274
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Fridolin-Stiegler-Straße"
 housenumber: 13

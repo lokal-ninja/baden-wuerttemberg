@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3999535
 longitude: 9.3911791
-postcode: 72532
+postcode: "72532"
 city: Gomadingen
 street: "Hauptstraße"
 housenumber: 2

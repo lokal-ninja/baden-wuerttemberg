@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.145083500000005
 longitude: 9.1871644
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Heidelberger Straße"
 housenumber: 80

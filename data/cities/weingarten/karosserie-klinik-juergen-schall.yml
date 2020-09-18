@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 47.82077090000001
 longitude: 9.641662700000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Hahnstraße"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00"
 website: "www.karosserie-klinik.de"

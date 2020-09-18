@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.799664
 longitude: 9.5046706
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Oskar-Frech-Straße"
 housenumber: 9

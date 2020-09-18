@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.004961
 longitude: 8.4481704
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Durlacher Allee"
 housenumber: 111

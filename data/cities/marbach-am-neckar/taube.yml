@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.9399455
 longitude: 9.2588158
-postcode: 71672
+postcode: "71672"
 city: Marbach am Neckar
 street: "Marktstraße"
 housenumber: 2

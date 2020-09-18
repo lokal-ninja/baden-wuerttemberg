@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.9316149
 longitude: 9.10988
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Im Erlengrund"
 housenumber: 3

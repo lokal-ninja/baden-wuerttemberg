@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 47.9944148
 longitude: 7.849244100000001
-postcode: 79098
+postcode: "79098"
 city: Freiburg
 street: "Kaiser-Joseph-Straße"
 housenumber: 236

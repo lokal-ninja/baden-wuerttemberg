@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.3369994
 longitude: 8.6963922
-postcode: 69226
+postcode: "69226"
 city: Nußloch
 street: "Fischweiher"
 housenumber: 1

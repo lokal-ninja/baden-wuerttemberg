@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.496351000000004
 longitude: 8.5493621
-postcode: 68259
+postcode: "68259"
 city: Mannheim
 street: "Mosbacher Straße"
 housenumber: 19

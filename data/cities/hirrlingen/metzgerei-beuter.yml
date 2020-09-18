@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.4101743
 longitude: 8.8871503
-postcode: 72145
+postcode: "72145"
 city: Hirrlingen
 street: "Marktstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.6752714
 longitude: 7.926749600000001
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Am Glockenloch"
 housenumber: 3b

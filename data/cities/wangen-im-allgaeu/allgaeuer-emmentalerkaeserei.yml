@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.7476148
 longitude: 9.8249879
-postcode: 88239
+postcode: "88239"
 city: Wangen im Allgäu
 street: "Steinbergstraße"
 housenumber: 1

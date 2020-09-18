@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.637327400000004
 longitude: 7.5911292
-postcode: 79591
+postcode: "79591"
 city: Eimeldingen
 street: "Reutackerstraße"
 housenumber: 6

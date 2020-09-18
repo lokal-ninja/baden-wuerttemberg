@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.734463700000006
 longitude: 9.3437505
-postcode: 88697
+postcode: "88697"
 city: Bermatingen
 street: "Salemer Straße"
 housenumber: 42

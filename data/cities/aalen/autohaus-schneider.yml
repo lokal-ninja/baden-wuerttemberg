@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.8324262
 longitude: 10.0966462
-postcode: 73431
+postcode: "73431"
 city: Aalen
 street: "Julius-Bausch-Straße"
 housenumber: 43

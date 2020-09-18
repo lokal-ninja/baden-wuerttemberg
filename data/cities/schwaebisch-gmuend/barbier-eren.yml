@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.799668000000004
 longitude: 9.794533600000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Badmauer"
 housenumber: 10

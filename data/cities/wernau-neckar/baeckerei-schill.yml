@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.68445740000001
 longitude: 9.4250623
-postcode: 73249
+postcode: "73249"
 city: Wernau (Neckar)
 street: "Kirchheimer Straße"
 housenumber: 186/1

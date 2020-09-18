@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.5095261
 longitude: 9.3129022
-postcode: 74722
+postcode: "74722"
 city: Buchen (Odenwald)
 street: "Carl-Benz-Straße"
 housenumber: 4

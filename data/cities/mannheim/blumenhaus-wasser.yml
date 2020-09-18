@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.515902700000005
 longitude: 8.521672500000001
-postcode: 68309
+postcode: "68309"
 city: Mannheim
 street: "Alter Postweg"
 housenumber: 2

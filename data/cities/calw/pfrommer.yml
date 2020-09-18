@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7138427
 longitude: 8.7399666
-postcode: 75365
+postcode: "75365"
 city: Calw
 street: "Marktstraße"
 housenumber: 6

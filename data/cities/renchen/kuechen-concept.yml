@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 48.5807252
 longitude: 8.0063302
-postcode: 77871
+postcode: "77871"
 city: Renchen
 street: "Johann-Keller-Straße"
 housenumber: 9

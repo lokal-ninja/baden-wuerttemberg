@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.811885000000004
 longitude: 9.368677400000001
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Theodor-Heuss-Straße"
 housenumber: 11

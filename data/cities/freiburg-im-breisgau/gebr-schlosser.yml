@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.0076101
 longitude: 7.814842700000001
-postcode: 79114
+postcode: "79114"
 city: Freiburg im Breisgau
 street: "Kußmaulstraße"
 housenumber: 1

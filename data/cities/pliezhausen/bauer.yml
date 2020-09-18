@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.5586203
 longitude: 9.2057724
-postcode: 72124
+postcode: "72124"
 city: Pliezhausen
 street: "Marktplatz"
 housenumber: 9

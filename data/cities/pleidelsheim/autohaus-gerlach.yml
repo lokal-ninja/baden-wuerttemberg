@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9534643
 longitude: 9.1969621
-postcode: 74385
+postcode: "74385"
 city: Pleidelsheim
 street: "Gottlob-Gußmann-Straße"
 housenumber: 2

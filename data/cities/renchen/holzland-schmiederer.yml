@@ -3,7 +3,7 @@ type: way
 shop: Holz
 latitude: 48.5925254
 longitude: 8.009268500000001
-postcode: 77871
+postcode: "77871"
 city: Renchen
 street: "Eisenbahnstraße"
 housenumber: 56

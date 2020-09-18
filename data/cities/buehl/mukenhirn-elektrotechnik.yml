@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.6602904
 longitude: 8.1660954
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Schwarzwaldstraße"
 housenumber: 117b

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.4054373
 longitude: 9.056531000000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Bahnhofstraße"
 housenumber: 5

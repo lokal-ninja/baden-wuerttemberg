@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7967579
 longitude: 9.9334325
-postcode: 73540
+postcode: "73540"
 city: Heubach
 street: "Beiswanger Straße"
 housenumber: 4

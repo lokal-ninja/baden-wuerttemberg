@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.54776570000001
 longitude: 8.6636424
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Bergstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.4930363
 longitude: 9.1998557
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Tübinger Straße"
 housenumber: 67

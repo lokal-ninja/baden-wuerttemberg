@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.379977100000005
 longitude: 9.633749700000001
-postcode: 74238
+postcode: "74238"
 city: Krautheim
 street: "Jagststraße"
 housenumber: 3

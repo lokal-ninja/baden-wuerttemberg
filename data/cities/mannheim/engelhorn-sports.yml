@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.4853218
 longitude: 8.468566800000001
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 6-7

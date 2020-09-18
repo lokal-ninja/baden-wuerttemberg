@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.6287297
 longitude: 8.0732759
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Hauptstraße"
 housenumber: 51

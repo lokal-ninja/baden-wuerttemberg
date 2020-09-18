@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 48.1031898
 longitude: 8.597239
-postcode: 78652
+postcode: "78652"
 city: Deißlingen
 street: "Belchenstraße"
 housenumber: 10

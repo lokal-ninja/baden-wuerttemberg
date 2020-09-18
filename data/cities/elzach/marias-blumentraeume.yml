@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1731333
 longitude: 8.0712852
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Hauptstraße"
 housenumber: 24

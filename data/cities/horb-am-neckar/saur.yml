@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4857919
 longitude: 8.658958100000001
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Martinstraße"
 housenumber: 2

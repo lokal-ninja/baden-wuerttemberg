@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.409240700000005
 longitude: 9.0576126
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Lange Straße"
 housenumber: 55

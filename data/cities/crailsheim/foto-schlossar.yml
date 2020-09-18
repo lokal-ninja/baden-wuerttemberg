@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 49.138534400000005
 longitude: 10.069924100000001
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Wilhelmstraße"
 housenumber: 21

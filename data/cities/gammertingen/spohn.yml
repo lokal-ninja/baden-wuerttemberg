@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 48.250454500000004
 longitude: 9.2156652
-postcode: 72501
+postcode: "72501"
 city: Gammertingen
 street: "Reutlinger Straße"
 housenumber: 2

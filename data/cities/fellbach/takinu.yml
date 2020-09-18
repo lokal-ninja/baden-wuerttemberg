@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.813639800000004
 longitude: 9.2754835
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Cannstatter Straße"
 housenumber: 111

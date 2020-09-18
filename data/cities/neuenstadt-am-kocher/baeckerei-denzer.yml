@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.23710680000001
 longitude: 9.3385607
-postcode: 
+postcode: ""
 city: Neuenstadt am Kocher
 street: "Gymnasiumstraße"
 housenumber: 75

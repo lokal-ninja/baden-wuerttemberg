@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.6367071
 longitude: 9.4561709
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Lenninger Straße"
 housenumber: 15

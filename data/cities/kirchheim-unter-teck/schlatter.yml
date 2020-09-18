@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.643866
 longitude: 9.451833200000001
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Dettinger Straße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.4822063
 longitude: 9.9835733
-postcode: 89179
+postcode: "89179"
 city: Beimerstetten
 street: "Bahnhofstraße"
 housenumber: 8

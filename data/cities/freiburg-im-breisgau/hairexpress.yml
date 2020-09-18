@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0060987
 longitude: 7.8278432
-postcode: 79110
+postcode: "79110"
 city: Freiburg im Breisgau
 street: "Dunantstraße"
 housenumber: 5

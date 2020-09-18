@@ -3,7 +3,7 @@ type: way
 shop: Eisprodukte
 latitude: 49.381271000000005
 longitude: 8.575294000000001
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Bismarckplatz"
 housenumber: 

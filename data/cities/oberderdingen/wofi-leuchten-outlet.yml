@@ -3,7 +3,7 @@ type: way
 shop: Lampen
 latitude: 49.082579200000005
 longitude: 8.776871100000001
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Attenbergstraße"
 housenumber: 5

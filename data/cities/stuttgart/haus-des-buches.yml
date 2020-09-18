@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.747227800000005
 longitude: 9.1705655
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Epplestraße"
 housenumber: 19 C

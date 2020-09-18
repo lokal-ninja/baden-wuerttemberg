@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.654258000000006
 longitude: 9.4769503
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Charlottenstraße"
 housenumber: 11

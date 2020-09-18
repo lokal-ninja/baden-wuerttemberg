@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.364866400000004
 longitude: 9.0578064
-postcode: 74862
+postcode: "74862"
 city: Binau
 street: "Neckarstraße"
 housenumber: 6

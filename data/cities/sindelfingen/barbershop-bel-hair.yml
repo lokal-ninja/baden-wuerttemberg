@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.708609700000004
 longitude: 8.999406500000001
-postcode: 71063
+postcode: "71063"
 city: Sindelfingen
 street: "Grabenstraße"
 housenumber: 

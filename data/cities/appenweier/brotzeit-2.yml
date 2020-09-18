@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.561854700000005
 longitude: 7.957125800000001
-postcode: 77767
+postcode: "77767"
 city: Appenweier
 street: "An der A5"
 housenumber: 

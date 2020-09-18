@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.6412957
 longitude: 9.4574615
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Silcherstraße"
 housenumber: 36

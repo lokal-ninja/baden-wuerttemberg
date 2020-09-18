@@ -1,4 +1,4 @@
 ---
-title: "Optikstudio Lamm GmbH‎"
+title: "Optikstudio Lamm GmbH"
 url: /schorndorf/optikstudio-lamm-gmbh/
 ---

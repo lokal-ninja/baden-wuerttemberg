@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7183259
 longitude: 8.1158511
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Vimbucher Straße"
 housenumber: 23

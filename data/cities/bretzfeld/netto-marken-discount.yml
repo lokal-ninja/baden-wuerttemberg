@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.177327500000004
 longitude: 9.4341342
-postcode: 74626
+postcode: "74626"
 city: Bretzfeld
 street: "Pestalozzistraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.2844502
 longitude: 9.684871300000001
-postcode: 74653
+postcode: "74653"
 city: Künzelsau
 street: "Mergentheimer Straße"
 housenumber: 126

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.782104200000006
 longitude: 9.1793144
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Lautenschlagerstraße"
 housenumber: 17

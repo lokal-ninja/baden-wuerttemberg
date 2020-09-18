@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7307264
 longitude: 9.330798300000001
-postcode: 73730
+postcode: "73730"
 city: Esslingen am Neckar
 street: "Plochinger Straße"
 housenumber: 115

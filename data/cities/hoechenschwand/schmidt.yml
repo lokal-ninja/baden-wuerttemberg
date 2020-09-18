@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.733694500000006
 longitude: 8.1639947
-postcode: 79862
+postcode: "79862"
 city: Höchenschwand
 street: "Hauptstraße"
 housenumber: 11

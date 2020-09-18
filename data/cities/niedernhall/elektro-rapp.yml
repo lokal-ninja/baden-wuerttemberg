@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.2956578
 longitude: 9.6140992
-postcode: 74676
+postcode: "74676"
 city: Niedernhall
 street: "Criesbacher Straße"
 housenumber: 1

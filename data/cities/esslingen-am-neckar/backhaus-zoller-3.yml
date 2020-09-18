@@ -1,12 +1,12 @@
-id: 32297143
-type: way
+id: 2164244925
+type: node
 shop: Bäckerei
-latitude: 48.7355293
-longitude: 9.3207938
-postcode: 73730
+latitude: 48.728297100000006
+longitude: 9.305468000000001
+postcode: "73734"
 city: Esslingen am Neckar
-street: "Plochinger Straße"
-housenumber: 22
+street: "Zollernplatz"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 08:00-11:00"
-website: ""
+opening_hours: "Mo-Sa 06:30-19:00; Su 8:00-11:00"
+website: "https://www.backhaus-zoller.de/"

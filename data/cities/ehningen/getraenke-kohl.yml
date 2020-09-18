@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.656535000000005
 longitude: 8.9381997
-postcode: 71139
+postcode: "71139"
 city: Ehningen
 street: "Königsberger Straße"
 housenumber: 11

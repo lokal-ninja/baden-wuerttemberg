@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 48.7893716
 longitude: 9.934652700000001
-postcode: 73540
+postcode: "73540"
 city: Heubach
 street: "Hauptstraße"
 housenumber: 32

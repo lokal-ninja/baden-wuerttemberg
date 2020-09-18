@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.0056646
 longitude: 8.3824433
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Kriegsstraße"
 housenumber: 220

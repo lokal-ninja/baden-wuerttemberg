@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.523324800000005
 longitude: 8.1008481
-postcode: 77794
+postcode: "77794"
 city: Lautenbach
 street: "Hinter-Winterbach"
 housenumber: 1

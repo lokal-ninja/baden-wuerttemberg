@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.6877913
 longitude: 9.1644755
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Hirschstraße"
 housenumber: 22

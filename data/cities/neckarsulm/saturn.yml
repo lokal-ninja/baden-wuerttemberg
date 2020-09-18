@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.1734632
 longitude: 9.222513600000001
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Rötelstraße"
 housenumber: 33

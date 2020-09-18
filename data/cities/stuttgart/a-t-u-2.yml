@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.8319965
 longitude: 9.158903500000001
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Schwieberdinger Straße"
 housenumber: 64

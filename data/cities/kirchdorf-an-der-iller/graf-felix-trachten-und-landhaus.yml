@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0827268
 longitude: 10.124110700000001
-postcode: 88457
+postcode: "88457"
 city: Kirchdorf an der Iller
 street: "Gewerbestraße"
 housenumber: 16

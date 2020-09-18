@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 48.7994543
 longitude: 9.794780300000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Bocksgasse"
 housenumber: 12

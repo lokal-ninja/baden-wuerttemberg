@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.7148253
 longitude: 9.373182700000001
-postcode: 73779
+postcode: "73779"
 city: Deizisau
 street: "Sirnauer Straße"
 housenumber: 56

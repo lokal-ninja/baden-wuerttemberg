@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.6831801
 longitude: 9.002355300000001
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Calwer Straße"
 housenumber: 1

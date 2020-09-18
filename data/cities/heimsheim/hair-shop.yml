@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8070771
 longitude: 8.8628284
-postcode: 71296
+postcode: "71296"
 city: Heimsheim
 street: "Mönsheimer Straße"
 housenumber: 34

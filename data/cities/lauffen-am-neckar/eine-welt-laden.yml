@@ -1,12 +1,12 @@
-id: 101820445
-type: way
+id: 7835568784
+type: node
 shop: Lebensmittel
-latitude: 49.0754218
-longitude: 9.151524400000001
-postcode: 74348
+latitude: 49.0754668
+longitude: 9.1514314
+postcode: "74348"
 city: Lauffen am Neckar
 street: "Körnerstraße"
 housenumber: 2/1
-phone: "+49-7133-200109"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:30-13:00"
+phone: "+49 7133 200109"
+opening_hours: "Mo-Tu,Th-Fr 09:00-12:30,14:30-18:00; Sa 09:30-13:00; PH closed"
 website: "http://www.eine-welt-lauffen.de/"

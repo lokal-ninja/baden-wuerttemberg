@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.486847100000006
 longitude: 9.2209372
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Albstraße"
 housenumber: 60

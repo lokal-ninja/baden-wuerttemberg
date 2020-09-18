@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4270167
 longitude: 8.682615400000001
-postcode: 69121
+postcode: "69121"
 city: Heidelberg
 street: "Hans-Thoma-Platz"
 housenumber: 20

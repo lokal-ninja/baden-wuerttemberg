@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.3990786
 longitude: 9.992068100000001
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Münsterplatz"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.6515099
 longitude: 9.480803700000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Wilhelmstraße"
 housenumber: 31

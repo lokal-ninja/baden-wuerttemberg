@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.801973800000006
 longitude: 9.092712500000001
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Salamanderweg"
 housenumber: 1

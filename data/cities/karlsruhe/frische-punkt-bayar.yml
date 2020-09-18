@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.009355400000004
 longitude: 8.4060436
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 123

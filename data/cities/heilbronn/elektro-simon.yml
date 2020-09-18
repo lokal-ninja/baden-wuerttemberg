@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.1337355
 longitude: 9.191623700000001
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Klingenberger Straße"
 housenumber: 71

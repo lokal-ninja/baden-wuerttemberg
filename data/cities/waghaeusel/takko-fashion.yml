@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.2466659
 longitude: 8.503522
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Mannheimer Straße"
 housenumber: 136

@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 49.039818000000004
 longitude: 9.3151028
-postcode: 71717
+postcode: "71717"
 city: Beilstein
 street: "Hauptstraße"
 housenumber: 44

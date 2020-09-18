@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9997826
 longitude: 8.4652244
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 83

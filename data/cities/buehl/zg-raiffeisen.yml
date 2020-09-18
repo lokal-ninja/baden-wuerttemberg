@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.710577400000005
 longitude: 8.1298014
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Industriestraße"
 housenumber: 13

@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 48.6502452
 longitude: 9.457203
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Schlierbacher Straße"
 housenumber: 30
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Th 08:00-13:00,15:00-18:00; Fr 08:00-13:00,14:30-18:00; Sa 08:00-12:45"
 website: ""

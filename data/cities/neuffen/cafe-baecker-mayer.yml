@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5548037
 longitude: 9.3756076
-postcode: 72639
+postcode: "72639"
 city: Neuffen
 street: "Hauptstraße"
 housenumber: 17

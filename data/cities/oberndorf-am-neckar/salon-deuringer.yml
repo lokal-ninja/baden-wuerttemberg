@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2920085
 longitude: 8.574151800000001
-postcode: 78727
+postcode: "78727"
 city: Oberndorf am Neckar
 street: "Talstraße"
 housenumber: 15

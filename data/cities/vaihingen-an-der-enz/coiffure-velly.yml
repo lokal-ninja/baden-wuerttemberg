@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.930701500000005
 longitude: 8.959998
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Franckstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.940142400000006
 longitude: 9.1396896
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Gansäcker"
 housenumber: 10

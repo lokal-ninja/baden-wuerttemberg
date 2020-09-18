@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.883631300000005
 longitude: 8.3445862
-postcode: 79843
+postcode: "79843"
 city: Löffingen
 street: "Rathausplatz"
 housenumber: 9

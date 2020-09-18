@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7207244
 longitude: 9.3203435
-postcode: 73734
+postcode: "73734"
 city: Esslingen am Neckar
 street: "Brunnenstraße"
 housenumber: 35

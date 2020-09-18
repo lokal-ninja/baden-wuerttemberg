@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.499497700000006
 longitude: 8.5446641
-postcode: 68259
+postcode: "68259"
 city: Mannheim
 street: "Römerstraße"
 housenumber: 85

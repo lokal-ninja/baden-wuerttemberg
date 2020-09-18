@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5557455
 longitude: 8.724909400000001
-postcode: 72202
+postcode: "72202"
 city: Nagold
 street: "Calwer Straße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.819892700000004
 longitude: 9.223583000000001
-postcode: 70376
+postcode: "70376"
 city: Stuttgart
 street: "Jagststraße"
 housenumber: 34

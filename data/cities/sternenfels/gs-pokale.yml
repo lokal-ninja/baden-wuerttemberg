@@ -3,7 +3,7 @@ type: way
 shop: Pokal
 latitude: 49.0550044
 longitude: 8.8415469
-postcode: 75447
+postcode: "75447"
 city: Sternenfels
 street: "Ferdinand-von-Steinbeis-Ring"
 housenumber: 23

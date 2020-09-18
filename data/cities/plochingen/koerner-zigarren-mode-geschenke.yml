@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.712638600000005
 longitude: 9.414124600000001
-postcode: 73207
+postcode: "73207"
 city: Plochingen
 street: "Bahnhofstraße"
 housenumber: 3

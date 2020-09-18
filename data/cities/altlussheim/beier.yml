@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.296328700000004
 longitude: 8.5066223
-postcode: 68804
+postcode: "68804"
 city: Altlußheim
 street: "Erich-Kästner-Weg"
 housenumber: 14

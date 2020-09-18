@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.208721700000005
 longitude: 9.1975212
-postcode: 74257
+postcode: "74257"
 city: Untereisesheim
 street: "Herzog-Magnus-Straße"
 housenumber: 24

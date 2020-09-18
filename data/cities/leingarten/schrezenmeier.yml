@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.144128200000004
 longitude: 9.1195409
-postcode: 74211
+postcode: "74211"
 city: Leingarten
 street: "Eppinger Straße"
 housenumber: 9

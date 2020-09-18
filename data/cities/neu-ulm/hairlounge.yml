@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3948638
 longitude: 9.9981816
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Marienstraße"
 housenumber: 6

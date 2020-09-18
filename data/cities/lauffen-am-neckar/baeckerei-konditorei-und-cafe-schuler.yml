@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.0758735
 longitude: 9.148418900000001
-postcode: 74348
+postcode: "74348"
 city: Lauffen am Neckar
 street: "Bahnhofstraße"
 housenumber: 33

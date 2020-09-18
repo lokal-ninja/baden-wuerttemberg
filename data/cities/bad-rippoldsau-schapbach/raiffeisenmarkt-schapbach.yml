@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.378112300000005
 longitude: 8.292680500000001
-postcode: 77776
+postcode: "77776"
 city: Bad Rippoldsau-Schapbach
 street: "Dorfstraße"
 housenumber: 35

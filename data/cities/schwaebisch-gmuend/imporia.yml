@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 48.7995189
 longitude: 9.7967727
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Glockgäßle"
 housenumber: 1

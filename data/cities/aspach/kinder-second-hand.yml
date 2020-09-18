@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.9657251
 longitude: 9.401091300000001
-postcode: 71546
+postcode: "71546"
 city: Aspach
 street: "Gartenstraße"
 housenumber: 1

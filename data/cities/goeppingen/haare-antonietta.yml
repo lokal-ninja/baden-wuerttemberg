@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7022622
 longitude: 9.652782700000001
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Spitalstraße"
 housenumber: 8

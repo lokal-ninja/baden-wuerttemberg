@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3424229
 longitude: 8.660119
-postcode: 69207
+postcode: "69207"
 city: Sandhausen
 street: "Bahnhofstraße"
 housenumber: 12

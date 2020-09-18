@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.8095342
 longitude: 8.9455203
-postcode: 71277
+postcode: "71277"
 city: Rutesheim
 street: "Flachter Straße"
 housenumber: 14

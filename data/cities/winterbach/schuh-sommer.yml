@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.801355300000004
 longitude: 9.4795706
-postcode: 73650
+postcode: "73650"
 city: Winterbach
 street: "Hauptstraße"
 housenumber: 15

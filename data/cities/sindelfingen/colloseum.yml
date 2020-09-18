@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.706442700000004
 longitude: 8.9989605
-postcode: 71063
+postcode: "71063"
 city: Sindelfingen
 street: "Mercedesstraße"
 housenumber: 12

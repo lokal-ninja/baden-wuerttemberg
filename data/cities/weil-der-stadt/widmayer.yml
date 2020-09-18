@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.749855700000005
 longitude: 8.869641900000001
-postcode: 71263
+postcode: "71263"
 city: Weil der Stadt
 street: "Marktplatz"
 housenumber: 17-21

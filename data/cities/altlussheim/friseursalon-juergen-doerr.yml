@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3008863
 longitude: 8.498356600000001
-postcode: 68804
+postcode: "68804"
 city: Altlußheim
 street: "Rheinhäuser Straße"
 housenumber: 3

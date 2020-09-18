@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.120998900000004
 longitude: 8.5874427
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Prinz-Wilhelm-Straße"
 housenumber: 2-8

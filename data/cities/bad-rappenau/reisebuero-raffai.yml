@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.2394059
 longitude: 9.101665
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Kirchplatz"
 housenumber: 6/4

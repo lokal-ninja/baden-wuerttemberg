@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8603916
 longitude: 9.1784602
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Stammheimer Straße"
 housenumber: 10

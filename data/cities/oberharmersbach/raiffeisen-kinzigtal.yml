@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 48.3804226
 longitude: 8.1395801
-postcode: 77784
+postcode: "77784"
 city: Oberharmersbach
 street: "Brugasse"
 housenumber: 1

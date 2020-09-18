@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.456529700000004
 longitude: 9.3906106
-postcode: 72813
+postcode: "72813"
 city: St. Johann
 street: "Uracher Straße"
 housenumber: 32

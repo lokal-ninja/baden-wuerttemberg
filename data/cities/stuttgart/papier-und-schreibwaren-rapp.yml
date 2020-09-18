@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.734637500000005
 longitude: 9.1816098
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Hoffeldstraße"
 housenumber: 207

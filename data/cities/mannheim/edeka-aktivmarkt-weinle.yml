@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4632877
 longitude: 8.5535008
-postcode: 68239
+postcode: "68239"
 city: Mannheim
 street: "Badenweilerstraße"
 housenumber: 42

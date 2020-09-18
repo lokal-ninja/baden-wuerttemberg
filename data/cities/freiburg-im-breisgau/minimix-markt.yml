@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9980441
 longitude: 7.811835200000001
-postcode: 79114
+postcode: "79114"
 city: Freiburg im Breisgau
 street: "Gilgenmatten"
 housenumber: 2

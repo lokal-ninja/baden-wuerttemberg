@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.705456100000006
 longitude: 8.9955412
-postcode: 71063
+postcode: "71063"
 city: Sindelfingen
 street: "Hanns-Martin-Schleyer-Straße"
 housenumber: 23

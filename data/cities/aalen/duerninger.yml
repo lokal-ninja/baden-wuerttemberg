@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.837088900000005
 longitude: 10.0912881
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Friedhofstraße"
 housenumber: 1

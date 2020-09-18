@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.75126160000001
 longitude: 8.8109228
-postcode: 75397
+postcode: "75397"
 city: Simmozheim
 street: "Hauptstraße"
 housenumber: 22

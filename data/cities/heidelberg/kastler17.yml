@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.402477100000006
 longitude: 8.6651108
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Pfaffengrunder Terrasse"
 housenumber: 2

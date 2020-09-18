@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6752626
 longitude: 9.1584397
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Oberlohnstraße"
 housenumber: 7

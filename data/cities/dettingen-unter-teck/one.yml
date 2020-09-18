@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.616470500000005
 longitude: 9.451260000000001
-postcode: 73265
+postcode: "73265"
 city: Dettingen unter Teck
 street: "Schulstraße"
 housenumber: 5

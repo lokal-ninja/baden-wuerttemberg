@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.1629428
 longitude: 9.353017900000001
-postcode: 74189
+postcode: "74189"
 city: Weinsberg
 street: "Grantschener Straße"
 housenumber: 10

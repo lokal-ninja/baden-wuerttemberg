@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.494450900000004
 longitude: 9.514185600000001
-postcode: 72587
+postcode: "72587"
 city: Römerstein
 street: "Aglishardter Straße"
 housenumber: 5

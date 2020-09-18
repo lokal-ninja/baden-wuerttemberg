@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.254340400000004
 longitude: 7.822252300000001
-postcode: 77955
+postcode: "77955"
 city: Ettenheim
 street: "Otto-Stoelcker-Straße"
 housenumber: 73

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.6846704
 longitude: 9.015159200000001
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Breite Gasse"
 housenumber: 11

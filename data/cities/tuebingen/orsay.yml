@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5198636
 longitude: 9.0565914
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Clinicumsgasse"
 housenumber: 22

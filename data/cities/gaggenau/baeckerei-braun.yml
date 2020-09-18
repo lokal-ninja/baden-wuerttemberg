@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8018026
 longitude: 8.3257356
-postcode: 
+postcode: ""
 city: Gaggenau
 street: "Goethestraße"
 housenumber: 27

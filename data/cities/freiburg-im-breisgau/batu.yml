@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.996330300000004
 longitude: 7.8478386
-postcode: 79098
+postcode: "79098"
 city: Freiburg im Breisgau
 street: "Rathausgasse"
 housenumber: 23

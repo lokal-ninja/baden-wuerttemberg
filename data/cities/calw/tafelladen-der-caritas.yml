@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 48.7134725
 longitude: 8.7405167
-postcode: 75365
+postcode: "75365"
 city: Calw
 street: "Hermann-Hesse-Platz"
 housenumber: 4

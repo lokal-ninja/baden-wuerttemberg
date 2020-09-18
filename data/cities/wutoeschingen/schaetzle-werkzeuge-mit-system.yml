@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6632363
 longitude: 8.3680081
-postcode: 79793
+postcode: "79793"
 city: Wutöschingen
 street: "Degernauer Straße"
 housenumber: 20

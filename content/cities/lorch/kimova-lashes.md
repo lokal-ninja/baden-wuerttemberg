@@ -1,4 +1,4 @@
 ---
-title: "Kimova lashes"
+title: "Kimova Lashes"
 url: /lorch/kimova-lashes/
 ---

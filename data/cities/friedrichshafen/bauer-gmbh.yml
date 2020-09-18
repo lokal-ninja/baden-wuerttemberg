@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.6742238
 longitude: 9.4781204
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Werner-Diedrich-Straße"
 housenumber: 

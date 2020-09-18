@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9698854
 longitude: 9.387729100000001
-postcode: 71546
+postcode: "71546"
 city: Aspach
 street: "Siemensstraße"
 housenumber: 11

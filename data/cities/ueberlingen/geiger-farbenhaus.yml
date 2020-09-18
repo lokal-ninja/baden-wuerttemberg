@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 47.779111900000004
 longitude: 9.2006093
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Zum Degenhardt"
 housenumber: 25

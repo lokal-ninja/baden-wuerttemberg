@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.7400626
 longitude: 9.2189747
-postcode: 70619
+postcode: "70619"
 city: Stuttgart
 street: "Kirchheimer Straße"
 housenumber: 128

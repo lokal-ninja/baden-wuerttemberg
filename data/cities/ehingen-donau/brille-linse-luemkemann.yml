@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.283188700000004
 longitude: 9.726856300000001
-postcode: 89584
+postcode: "89584"
 city: Ehingen (Donau)
 street: "Holzgasse"
 housenumber: 6

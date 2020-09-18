@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0228705
 longitude: 7.861205300000001
-postcode: 79108
+postcode: "79108"
 city: Freiburg im Breisgau
 street: "Reutebachgasse"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.952697300000004
 longitude: 8.3813536
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Buchenweg"
 housenumber: 33b

@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 48.519953
 longitude: 9.0567404
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Neckargasse"
 housenumber: 7

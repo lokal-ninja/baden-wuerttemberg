@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4541521
 longitude: 8.5155312
-postcode: 68219
+postcode: "68219"
 city: Mannheim
 street: "Mallaustraße"
 housenumber: 49

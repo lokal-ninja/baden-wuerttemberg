@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.3219329
 longitude: 9.3641702
-postcode: 74219
+postcode: "74219"
 city: Möckmühl
 street: "Züttlinger Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.7795235
 longitude: 9.8543079
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Lindenhofstraße"
 housenumber: 39

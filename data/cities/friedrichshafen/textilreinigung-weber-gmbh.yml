@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.6697453
 longitude: 9.493526600000001
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Gutenbergstraße"
 housenumber: 7

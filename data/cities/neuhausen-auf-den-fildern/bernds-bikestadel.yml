@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.6809023
 longitude: 9.2793664
-postcode: 73765
+postcode: "73765"
 city: Neuhausen auf den Fildern
 street: "Kirchstraße"
 housenumber: 21

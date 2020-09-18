@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.124385100000005
 longitude: 8.7149722
-postcode: 76703
+postcode: "76703"
 city: Kraichtal
 street: "Pfarrgasse"
 housenumber: 2

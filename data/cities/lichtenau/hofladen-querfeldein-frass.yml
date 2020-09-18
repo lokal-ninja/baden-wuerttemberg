@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.732785400000004
 longitude: 8.009334
-postcode: 77839
+postcode: "77839"
 city: Lichtenau
 street: "Stollhofener Straße"
 housenumber: 32

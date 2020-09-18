@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 48.4497836
 longitude: 9.0564648
-postcode: 72144
+postcode: "72144"
 city: Dußlingen
 street: "Wilhelm-Herter-Straße"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-12:30, Mo,Tu,Th,Fr 14:30-18:30; Sa 08:30-13:00"
 website: ""

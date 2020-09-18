@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.874410600000004
 longitude: 9.391069700000001
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Waiblinger Straße"
 housenumber: 44

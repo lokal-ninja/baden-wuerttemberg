@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5868054
 longitude: 8.305010600000001
-postcode: 79790
+postcode: "79790"
 city: Küssaberg
 street: "Zurzacher Straße"
 housenumber: 8

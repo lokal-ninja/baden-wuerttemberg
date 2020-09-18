@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.0582755
 longitude: 9.2623751
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
 street: "Robert-Mayer-Straße"
 housenumber: 20

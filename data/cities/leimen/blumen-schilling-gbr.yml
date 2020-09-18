@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.3442063
 longitude: 8.693361900000001
-postcode: 69181
+postcode: "69181"
 city: Leimen
 street: "Nußlocher Straße"
 housenumber: 63

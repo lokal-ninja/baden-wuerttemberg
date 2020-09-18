@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.8177706
 longitude: 9.2514797
-postcode: 70374
+postcode: "70374"
 city: Stuttgart
 street: "Kapuzinerweg"
 housenumber: 1

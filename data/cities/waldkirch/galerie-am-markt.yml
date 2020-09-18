@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 48.093430500000004
 longitude: 7.961822700000001
-postcode: 79183
+postcode: "79183"
 city: Waldkirch
 street: "Marktplatz"
 housenumber: 22

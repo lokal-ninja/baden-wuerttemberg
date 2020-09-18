@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.5265287
 longitude: 9.0611039
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Keplerstraße"
 housenumber: 5

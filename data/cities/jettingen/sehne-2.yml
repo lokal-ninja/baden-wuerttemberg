@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5731441
 longitude: 8.7631834
-postcode: 71131
+postcode: "71131"
 city: Jettingen
 street: "Heilbergstraße"
 housenumber: 3

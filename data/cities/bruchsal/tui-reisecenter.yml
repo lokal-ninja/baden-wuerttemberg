@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.1246826
 longitude: 8.5960239
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Friedrichsplatz"
 housenumber: 2

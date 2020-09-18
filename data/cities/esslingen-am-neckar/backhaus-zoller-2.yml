@@ -1,12 +1,12 @@
-id: 32097124
-type: way
+id: 735164137
+type: node
 shop: Bäckerei
-latitude: 48.736481100000006
-longitude: 9.3160159
-postcode: 73728
+latitude: 48.751106
+longitude: 9.3137583
+postcode: "73732"
 city: Esslingen am Neckar
-street: "Neckarstraße"
-housenumber: 78
+street: "Wäldenbronner Straße"
+housenumber: 19
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-16:00; Su 08:00-17:00"
+opening_hours: "Mo-Fr 06:00-18:30;Sa 06:00-16:00;Su 07:00-18:00;PH off"
 website: ""

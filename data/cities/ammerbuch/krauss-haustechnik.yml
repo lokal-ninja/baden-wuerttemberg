@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.5422475
 longitude: 8.9207502
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Jesinger Straße"
 housenumber: 13

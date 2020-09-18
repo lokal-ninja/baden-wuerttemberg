@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.395614800000004
 longitude: 8.971240100000001
-postcode: 72411
+postcode: "72411"
 city: Bodelshausen
 street: "Am Burghof"
 housenumber: 13

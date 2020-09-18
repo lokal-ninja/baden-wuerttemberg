@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.630590000000005
 longitude: 8.3008521
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Hauptstraße"
 housenumber: 66

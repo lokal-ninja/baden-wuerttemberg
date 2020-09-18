@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.0376989
 longitude: 8.7019958
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Melanchthonstraße"
 housenumber: 57

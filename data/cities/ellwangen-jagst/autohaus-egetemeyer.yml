@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.964544700000005
 longitude: 10.128038700000001
-postcode: 73479
+postcode: "73479"
 city: Ellwangen (Jagst)
 street: "Haller Straße"
 housenumber: 4

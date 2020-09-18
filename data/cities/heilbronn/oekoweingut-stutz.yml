@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.13139
 longitude: 9.209221600000001
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Liebigstraße"
 housenumber: 49

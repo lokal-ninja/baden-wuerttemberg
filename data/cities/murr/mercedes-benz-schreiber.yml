@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.959294
 longitude: 9.2519711
-postcode: 71711
+postcode: "71711"
 city: Murr
 street: "Hindenburgstraße"
 housenumber: 114

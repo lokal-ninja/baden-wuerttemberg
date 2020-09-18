@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.044051
 longitude: 9.0373923
-postcode: 74389
+postcode: "74389"
 city: Cleebronn
 street: "Wilhelm-Fischer-Straße"
 housenumber: 2

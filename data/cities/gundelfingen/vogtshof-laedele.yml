@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.031684000000006
 longitude: 7.896932400000001
-postcode: 79194
+postcode: "79194"
 city: Gundelfingen
 street: "Talstraße"
 housenumber: 135

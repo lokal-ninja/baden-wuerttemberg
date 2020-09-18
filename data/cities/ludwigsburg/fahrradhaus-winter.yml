@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.892039000000004
 longitude: 9.2066929
-postcode: 71638
+postcode: "71638"
 city: Ludwigsburg
 street: "Oststraße"
 housenumber: 47

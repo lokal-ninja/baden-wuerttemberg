@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.010195100000004
 longitude: 8.439973700000001
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Ostring"
 housenumber: 8

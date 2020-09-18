@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.549987800000004
 longitude: 8.4521335
-postcode: 68307
+postcode: "68307"
 city: Mannheim
 street: "Viernheimer Weg"
 housenumber: 54a

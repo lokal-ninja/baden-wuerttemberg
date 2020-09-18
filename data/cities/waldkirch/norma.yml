@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0994821
 longitude: 7.970406100000001
-postcode: 79183
+postcode: "79183"
 city: Waldkirch
 street: "An den Brunnenwiesen"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.1783365
 longitude: 9.5576358
-postcode: 74613
+postcode: "74613"
 city: Öhringen
 street: "Winzerweg"
 housenumber: 10

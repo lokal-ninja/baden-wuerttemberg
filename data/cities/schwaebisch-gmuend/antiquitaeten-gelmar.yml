@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 48.7998679
 longitude: 9.799752400000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Rinderbacher Gasse"
 housenumber: 11

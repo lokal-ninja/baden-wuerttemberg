@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 48.9592625
 longitude: 9.1824949
-postcode: 74379
+postcode: "74379"
 city: Ingersheim
 street: "Bietigheimer Straße"
 housenumber: 16

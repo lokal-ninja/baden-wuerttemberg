@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 48.5128852
 longitude: 7.9449791
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Windschläger Straße"
 housenumber: 105

@@ -3,10 +3,10 @@ type: way
 shop: Warenhaus
 latitude: 48.9300378
 longitude: 8.959026600000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Stuttgarter Straße"
 housenumber: 46
 phone: "+49 7042 9301-0"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-13:30; PH off"
 website: ""

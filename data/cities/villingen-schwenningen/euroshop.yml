@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.0602766
 longitude: 8.4595196
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: "Obere Straße"
 housenumber: 11

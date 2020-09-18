@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.7029706
 longitude: 9.428857200000001
-postcode: 73207
+postcode: "73207"
 city: Plochingen
 street: "Am Filswehr"
 housenumber: 3

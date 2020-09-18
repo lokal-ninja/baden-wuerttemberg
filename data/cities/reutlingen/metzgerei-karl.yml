@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.4901264
 longitude: 9.212842100000001
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Kanzleistraße"
 housenumber: 39

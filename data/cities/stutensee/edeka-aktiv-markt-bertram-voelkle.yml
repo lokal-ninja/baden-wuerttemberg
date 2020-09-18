@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1014915
 longitude: 8.4826315
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Wallonenstraße"
 housenumber: 62

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.7044961
 longitude: 9.143833500000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Adlerstraße"
 housenumber: 3

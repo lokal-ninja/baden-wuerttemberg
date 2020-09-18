@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7744074
 longitude: 9.152501200000001
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Seyfferstraße"
 housenumber: 78

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.8657514
 longitude: 8.5052264
-postcode: 76307
+postcode: "76307"
 city: Karlsbad
 street: "Lange Straße"
 housenumber: 25

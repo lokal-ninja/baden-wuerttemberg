@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7588906
 longitude: 9.686389100000001
-postcode: 73116
+postcode: "73116"
 city: Wäschenbeuren
 street: "Seestraße"
 housenumber: 6

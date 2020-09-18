@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.811324000000006
 longitude: 9.383447700000001
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Daimlerstraße"
 housenumber: 20

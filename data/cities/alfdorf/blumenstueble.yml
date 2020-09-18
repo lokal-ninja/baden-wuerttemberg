@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.844560300000005
 longitude: 9.718572
-postcode: 73553
+postcode: "73553"
 city: Alfdorf
 street: "Am alten Rathaus"
 housenumber: 2

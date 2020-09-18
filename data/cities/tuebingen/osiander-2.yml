@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.521676400000004
 longitude: 9.056481
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Metzgergasse"
 housenumber: 25

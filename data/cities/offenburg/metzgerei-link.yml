@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.49775
 longitude: 7.946600800000001
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Okenstraße"
 housenumber: 309

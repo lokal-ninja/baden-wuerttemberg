@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.1044032
 longitude: 7.8762365
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Hauptstraße"
 housenumber: 76A

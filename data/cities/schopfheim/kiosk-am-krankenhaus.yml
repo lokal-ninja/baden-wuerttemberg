@@ -3,10 +3,10 @@ type: way
 shop: Kiosk
 latitude: 47.6470543
 longitude: 7.823388800000001
-postcode: 79650
+postcode: "79650"
 city: Schopfheim
 street: "Schwarzwaldstraße"
 housenumber: 29
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-14:00; PH closed"
 website: ""

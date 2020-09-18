@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7568987
 longitude: 9.8694024
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Ofengasse"
 housenumber: 1/1

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.658670300000004
 longitude: 8.1152928
-postcode: 77833
+postcode: "77833"
 city: Ottersweier
 street: "Haft"
 housenumber: 12

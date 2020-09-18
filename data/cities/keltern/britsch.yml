@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.896213800000005
 longitude: 8.6019682
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: "Westliche Friedrichstraße"
 housenumber: 17

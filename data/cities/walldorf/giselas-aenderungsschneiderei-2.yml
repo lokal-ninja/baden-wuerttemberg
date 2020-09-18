@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.3043289
 longitude: 8.6421759
-postcode: 69190
+postcode: "69190"
 city: Walldorf
 street: "Schwetzinger Straße"
 housenumber: 15

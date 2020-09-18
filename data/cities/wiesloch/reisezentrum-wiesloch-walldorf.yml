@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 49.2908568
 longitude: 8.664331
-postcode: 69168
+postcode: "69168"
 city: Wiesloch
 street: "Staatsbahnhofstraße"
 housenumber: 14

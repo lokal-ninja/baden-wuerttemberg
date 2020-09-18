@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.1334442
 longitude: 9.2191542
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Wilhelmstraße"
 housenumber: 35

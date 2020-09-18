@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7017837
 longitude: 9.660133100000001
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Poststraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.138199300000004
 longitude: 9.360324700000001
-postcode: 74182
+postcode: "74182"
 city: Obersulm
 street: "Brückenstraße"
 housenumber: 22

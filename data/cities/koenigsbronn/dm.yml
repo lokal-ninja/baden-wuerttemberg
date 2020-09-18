@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 48.74219110000001
 longitude: 10.1124405
-postcode: 89551
+postcode: "89551"
 city: Königsbronn
 street: "Aalener Straße"
 housenumber: 23
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 08:00-20:00; ph off"
 website: ""

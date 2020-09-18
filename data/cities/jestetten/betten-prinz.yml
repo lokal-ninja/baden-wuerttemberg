@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.6464243
 longitude: 8.5629647
-postcode: 79798
+postcode: "79798"
 city: Jestetten
 street: "Waldshuter Straße"
 housenumber: 30

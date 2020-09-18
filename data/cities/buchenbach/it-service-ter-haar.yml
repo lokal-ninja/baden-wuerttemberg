@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.9613035
 longitude: 7.9935866
-postcode: 79256
+postcode: "79256"
 city: Buchenbach
 street: "Gewerbestraße"
 housenumber: 14

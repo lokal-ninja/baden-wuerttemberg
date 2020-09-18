@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.696437800000005
 longitude: 9.6822478
-postcode: 73037
+postcode: "73037"
 city: Göppingen
 street: "Esslinger Straße"
 housenumber: 14

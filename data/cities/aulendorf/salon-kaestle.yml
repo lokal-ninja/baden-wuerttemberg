@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.953195300000004
 longitude: 9.6367536
-postcode: 88326
+postcode: "88326"
 city: Aulendorf
 street: "Hauptstraße"
 housenumber: 52

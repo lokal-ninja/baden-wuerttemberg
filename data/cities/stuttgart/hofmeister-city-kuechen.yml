@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.7734624
 longitude: 9.1691838
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Paulinenstraße"
 housenumber: 53

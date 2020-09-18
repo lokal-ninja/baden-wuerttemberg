@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4551754
 longitude: 7.8950129
-postcode: 77746
+postcode: "77746"
 city: Schutterwald
 street: "Hindenburgstraße"
 housenumber: 3

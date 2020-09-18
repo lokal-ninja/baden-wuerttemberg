@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.682042800000005
 longitude: 8.190624
-postcode: 77830
+postcode: "77830"
 city: Bühlertal
 street: "Haabergstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7264691
 longitude: 9.6409103
-postcode: 73098
+postcode: "73098"
 city: Rechberghausen
 street: "Bahnhofstraße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7516304
 longitude: 8.8116351
-postcode: 75397
+postcode: "75397"
 city: Simmozheim
 street: "Hauptstraße"
 housenumber: 9

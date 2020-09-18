@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.249707900000004
 longitude: 9.1270182
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Cottbuser Straße"
 housenumber: 4

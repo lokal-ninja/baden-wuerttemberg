@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.6938734
 longitude: 9.121417300000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Hermannstraße"
 housenumber: 1

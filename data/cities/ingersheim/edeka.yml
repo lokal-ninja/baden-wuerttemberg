@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.961353300000006
 longitude: 9.1884013
-postcode: 74379
+postcode: "74379"
 city: Ingersheim
 street: "Talstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.613828600000005
 longitude: 9.4787358
-postcode: 73230
+postcode: "73230"
 city: Nabern
 street: "Seestraße"
 housenumber: 37

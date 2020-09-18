@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.1687394
 longitude: 9.2718165
-postcode: 74235
+postcode: "74235"
 city: Erlenbach
 street: "Weißenhofstraße"
 housenumber: 37

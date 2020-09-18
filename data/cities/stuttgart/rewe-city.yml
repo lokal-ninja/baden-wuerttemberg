@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.84750510000001
 longitude: 9.1568628
-postcode: 70439
+postcode: "70439"
 city: Stuttgart
 street: "Freihofstraße"
 housenumber: 22-24

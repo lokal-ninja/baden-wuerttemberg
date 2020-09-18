@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.9104916
 longitude: 8.1654748
-postcode: 79822
+postcode: "79822"
 city: Titisee-Neustadt
 street: "Gewerbestraße"
 housenumber: 24

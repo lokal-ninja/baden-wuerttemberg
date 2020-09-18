@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9500752
 longitude: 8.3849563
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: ""
 housenumber: 

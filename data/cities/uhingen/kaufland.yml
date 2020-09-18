@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7143266
 longitude: 9.5625859
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Bleichereistraße"
 housenumber: 54

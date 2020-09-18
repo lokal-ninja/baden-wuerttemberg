@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.7269165
 longitude: 8.9349345
-postcode: 78345
+postcode: "78345"
 city: Moos
 street: "Radolfzeller Straße"
 housenumber: 1

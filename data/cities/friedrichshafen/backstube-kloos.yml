@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.6648208
 longitude: 9.4332439
-postcode: 88048
+postcode: "88048"
 city: Friedrichshafen
 street: "Stockerholzstraße"
 housenumber: 1

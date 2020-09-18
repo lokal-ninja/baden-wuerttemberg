@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1406234
 longitude: 10.0323502
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Haller Straße"
 housenumber: 195

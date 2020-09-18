@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.9214841
 longitude: 9.150664500000001
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Heinkelstraße"
 housenumber: 1

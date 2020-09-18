@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.406489
 longitude: 8.5167882
-postcode: 68782
+postcode: "68782"
 city: Brühl
 street: "Im Rheinfeld"
 housenumber: 2

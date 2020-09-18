@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.691114600000006
 longitude: 10.074451100000001
-postcode: 89555
+postcode: "89555"
 city: Steinheim am Albuch
 street: "Siemensstraße"
 housenumber: 14

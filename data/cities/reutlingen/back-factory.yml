@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.492485
 longitude: 9.211238400000001
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Wilhelmstraße"
 housenumber: 46

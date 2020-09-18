@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.6389404
 longitude: 9.6239562
-postcode: 73087
+postcode: "73087"
 city: Bad Boll
 street: "Dürnauer Straße"
 housenumber: 42

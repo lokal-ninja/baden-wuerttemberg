@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.411968900000005
 longitude: 8.7118856
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Kornmarkt"
 housenumber: 8

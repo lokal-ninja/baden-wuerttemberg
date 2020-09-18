@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.895219000000004
 longitude: 8.706917
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Christophallee"
 housenumber: 4

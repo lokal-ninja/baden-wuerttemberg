@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.9943952
 longitude: 8.5345213
-postcode: 76327
+postcode: "76327"
 city: Pfinztal
 street: "In der Salzwiese"
 housenumber: 1

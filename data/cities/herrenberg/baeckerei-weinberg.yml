@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5940233
 longitude: 8.8542162
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Berliner Straße"
 housenumber: 6

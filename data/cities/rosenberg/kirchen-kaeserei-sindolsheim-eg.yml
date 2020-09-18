@@ -3,7 +3,7 @@ type: node
 shop: Milch
 latitude: 49.4882937
 longitude: 9.458743700000001
-postcode: 74749
+postcode: "74749"
 city: Rosenberg
 street: "Vorstadt"
 housenumber: 11a

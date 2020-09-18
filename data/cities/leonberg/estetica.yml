@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7948086
 longitude: 9.0078519
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Brennerstraße"
 housenumber: 24

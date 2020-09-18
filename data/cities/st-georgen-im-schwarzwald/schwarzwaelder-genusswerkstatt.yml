@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 48.1268279
 longitude: 8.3327227
-postcode: 78112
+postcode: "78112"
 city: St. Georgen im Schwarzwald
 street: "Bärenplatz"
 housenumber: 12

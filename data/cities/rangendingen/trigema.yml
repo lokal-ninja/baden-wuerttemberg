@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3780445
 longitude: 8.9028665
-postcode: 72414
+postcode: "72414"
 city: Rangendingen
 street: "Hechinger Straße"
 housenumber: 56

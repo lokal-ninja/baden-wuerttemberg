@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 49.0042769
 longitude: 8.449192100000001
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Durlacher Allee"
 housenumber: 111

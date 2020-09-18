@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.869669300000005
 longitude: 8.278360900000001
-postcode: 76461
+postcode: "76461"
 city: Muggensturm
 street: "Karlsruher Straße"
 housenumber: 14

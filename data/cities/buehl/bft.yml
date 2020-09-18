@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.724755200000004
 longitude: 8.1114169
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Vimbucher Straße"
 housenumber: 75

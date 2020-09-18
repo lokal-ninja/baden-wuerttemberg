@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.8101034
 longitude: 9.2560205
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Stuttgarter Straße"
 housenumber: 155

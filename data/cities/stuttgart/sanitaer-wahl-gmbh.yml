@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.8004228
 longitude: 9.214098100000001
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Mercedesstraße"
 housenumber: 7

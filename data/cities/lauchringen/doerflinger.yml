@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.6224707
 longitude: 8.3259983
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Klettgaustraße"
 housenumber: 22

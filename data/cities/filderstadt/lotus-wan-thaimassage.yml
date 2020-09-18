@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.654100500000006
 longitude: 9.217872
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Rainäckerstraße"
 housenumber: 10

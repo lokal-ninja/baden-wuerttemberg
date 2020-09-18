@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.493258000000004
 longitude: 9.0607092
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Horn-Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.2617684
 longitude: 8.481981300000001
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Kolpingstraße"
 housenumber: 26

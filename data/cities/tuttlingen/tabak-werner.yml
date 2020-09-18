@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.9842768
 longitude: 8.8175031
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Bahnhofstraße"
 housenumber: 8

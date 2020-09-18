@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.3461124
 longitude: 8.518259500000001
-postcode: 72175
+postcode: "72175"
 city: Dornhan
 street: "Brachfelder Straße"
 housenumber: 1

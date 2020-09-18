@@ -3,10 +3,10 @@ type: way
 shop: Hofladen
 latitude: 48.9586787
 longitude: 9.240630900000001
-postcode: 71711
+postcode: "71711"
 city: Murr
 street: "Burgweg"
 housenumber: 5
-phone: ""
-opening_hours: ""
+phone: "+49 7144 8886808"
+opening_hours: "Tu, Fr 09:00-12:30, 14:30-18:30; We 09:00-12:30; Sa 08:00-13:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6719889
 longitude: 9.0118804
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Röhrer Weg"
 housenumber: 18

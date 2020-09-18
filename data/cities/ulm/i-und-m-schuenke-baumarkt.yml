@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.4377445
 longitude: 9.9728521
-postcode: 89081
+postcode: "89081"
 city: Ulm
 street: "Junginger Straße"
 housenumber: 19

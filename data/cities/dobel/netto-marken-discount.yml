@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8016007
 longitude: 8.4894187
-postcode: 75335
+postcode: "75335"
 city: Dobel
 street: "Dorfwiesen"
 housenumber: 3

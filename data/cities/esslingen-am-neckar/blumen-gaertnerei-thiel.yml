@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.743393600000005
 longitude: 9.340413400000001
-postcode: 73732
+postcode: "73732"
 city: Esslingen am Neckar
 street: "Esslinger Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4180136
 longitude: 8.7585438
-postcode: 69118
+postcode: "69118"
 city: Heidelberg
 street: "Kleingemünder Straße"
 housenumber: 17

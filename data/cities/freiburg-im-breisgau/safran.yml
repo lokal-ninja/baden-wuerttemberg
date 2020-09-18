@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0236577
 longitude: 7.859558300000001
-postcode: 79108
+postcode: "79108"
 city: Freiburg im Breisgau
 street: "Zähringer Straße"
 housenumber: 357

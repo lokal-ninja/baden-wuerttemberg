@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.7020684
 longitude: 9.6529247
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Grabenstraße"
 housenumber: 17

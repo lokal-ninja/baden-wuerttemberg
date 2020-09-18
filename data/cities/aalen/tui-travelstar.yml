@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.8374012
 longitude: 10.0916201
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Friedhofstraße"
 housenumber: 1

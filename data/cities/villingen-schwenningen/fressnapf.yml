@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.0698626
 longitude: 8.446908200000001
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Karlsruher Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.671994500000004
 longitude: 9.378778200000001
-postcode: 73240
+postcode: "73240"
 city: Wendlingen am Neckar
 street: "Albstraße"
 housenumber: 32

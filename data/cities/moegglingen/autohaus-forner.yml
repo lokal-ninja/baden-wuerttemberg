@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.823259400000005
 longitude: 9.9577512
-postcode: 73563
+postcode: "73563"
 city: Mögglingen
 street: "Hauptstraße"
 housenumber: 2

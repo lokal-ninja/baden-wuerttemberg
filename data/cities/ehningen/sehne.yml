@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.659650400000004
 longitude: 8.9413505
-postcode: 71139
+postcode: "71139"
 city: Ehningen
 street: "Königstraße"
 housenumber: 46

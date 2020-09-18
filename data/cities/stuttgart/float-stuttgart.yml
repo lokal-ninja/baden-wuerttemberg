@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.8006645
 longitude: 9.1727758
-postcode: 70192
+postcode: "70192"
 city: Stuttgart
 street: "Stresemannstraße"
 housenumber: 5

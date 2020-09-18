@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.888026100000005
 longitude: 8.6967877
-postcode: 75173
+postcode: "75173"
 city: Pforzheim
 street: "Dillsteiner Straße"
 housenumber: 15

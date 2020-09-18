@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 47.926817400000004
 longitude: 8.469093
-postcode: 78199
+postcode: "78199"
 city: Bräunlingen
 street: "Niederwiesen"
 housenumber: 1

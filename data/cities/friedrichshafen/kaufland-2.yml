@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6632833
 longitude: 9.434031500000001
-postcode: 88048
+postcode: "88048"
 city: Friedrichshafen
 street: "Stockerholzstraße"
 housenumber: 12

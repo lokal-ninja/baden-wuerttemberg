@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.5341858
 longitude: 9.2940673
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Ulmer Straße"
 housenumber: 119

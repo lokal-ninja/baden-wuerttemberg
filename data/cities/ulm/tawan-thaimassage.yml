@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.394331
 longitude: 9.970049000000001
-postcode: 89077
+postcode: "89077"
 city: Ulm
 street: "Wagnerstraße"
 housenumber: 106

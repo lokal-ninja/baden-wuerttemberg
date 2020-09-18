@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.778080100000004
 longitude: 8.0879709
-postcode: 77836
+postcode: "77836"
 city: Rheinmünster
 street: "Halifax Avenue B"
 housenumber: 420

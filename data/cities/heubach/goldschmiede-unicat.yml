@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.7888454
 longitude: 9.9340589
-postcode: 73540
+postcode: "73540"
 city: Heubach
 street: "Postgäßle"
 housenumber: 10

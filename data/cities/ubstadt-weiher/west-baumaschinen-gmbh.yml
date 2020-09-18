@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.1732208
 longitude: 8.616560100000001
-postcode: 76698
+postcode: "76698"
 city: Ubstadt-Weiher
 street: "Ubstadter Straße"
 housenumber: 28

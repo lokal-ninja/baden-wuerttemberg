@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.6813681
 longitude: 7.8415816000000005
-postcode: 79688
+postcode: "79688"
 city: Hausen im Wiesental
 street: "Hebelstraße"
 housenumber: 20a

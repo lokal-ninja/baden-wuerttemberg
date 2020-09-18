@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 48.4927915
 longitude: 9.399185600000001
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Marktplatz"
 housenumber: 12

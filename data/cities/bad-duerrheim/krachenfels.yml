@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.036292700000004
 longitude: 8.5325042
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Schwenninger Straße"
 housenumber: 40

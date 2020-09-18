@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.5627307
 longitude: 7.969940800000001
-postcode: 77767
+postcode: "77767"
 city: Appenweier
 street: "Hauptstraße"
 housenumber: 41

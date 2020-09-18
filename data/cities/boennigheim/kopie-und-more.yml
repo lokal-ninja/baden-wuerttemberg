@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.0385591
 longitude: 9.093500800000001
-postcode: 74357
+postcode: "74357"
 city: Bönnigheim
 street: "Freudentaler Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.823162
 longitude: 10.0161993
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Wangener Straße"
 housenumber: 49

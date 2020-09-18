@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6793671
 longitude: 9.7625884
-postcode: 73079
+postcode: "73079"
 city: Süßen
 street: "Bühlstraße"
 housenumber: 23

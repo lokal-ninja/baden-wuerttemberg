@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.063371100000005
 longitude: 8.5340217
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
 street: "Kronenstraße"
 housenumber: 21

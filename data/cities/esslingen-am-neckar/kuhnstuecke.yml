@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 48.7400742
 longitude: 9.312274500000001
-postcode: 73728
+postcode: "73728"
 city: Esslingen am Neckar
 street: "Ottilienhof"
 housenumber: 1

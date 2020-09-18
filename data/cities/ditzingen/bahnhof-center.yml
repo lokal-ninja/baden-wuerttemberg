@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.8240355
 longitude: 9.064656000000001
-postcode: 71254
+postcode: "71254"
 city: Ditzingen
 street: "Stuttgarter Straße"
 housenumber: 43

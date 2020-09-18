@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.832817500000004
 longitude: 10.1019208
-postcode: 73431
+postcode: "73431"
 city: Aalen
 street: "Ulmer Straße"
 housenumber: 80

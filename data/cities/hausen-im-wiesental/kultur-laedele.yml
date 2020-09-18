@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.6838981
 longitude: 7.8436311000000005
-postcode: 79688
+postcode: "79688"
 city: Hausen im Wiesental
 street: "Bündtenfeldstraße"
 housenumber: 11

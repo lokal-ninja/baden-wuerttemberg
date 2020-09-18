@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.8036669
 longitude: 9.3887186
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Buhlstraße"
 housenumber: 46

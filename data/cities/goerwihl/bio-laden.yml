@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.642016600000005
 longitude: 8.074672900000001
-postcode: 79733
+postcode: "79733"
 city: Görwihl
 street: "Mühleberg"
 housenumber: 13

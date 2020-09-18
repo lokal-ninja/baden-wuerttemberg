@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.4769553
 longitude: 8.6699479
-postcode: 69198
+postcode: "69198"
 city: Schriesheim
 street: "Schmale Seite"
 housenumber: 32

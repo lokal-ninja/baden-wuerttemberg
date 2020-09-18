@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.4720406
 longitude: 9.1977173
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Gaisbühl Hofgut"
 housenumber: 12

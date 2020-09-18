@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.613719700000004
 longitude: 9.736678600000001
-postcode: 73326
+postcode: "73326"
 city: Deggingen
 street: "Reichenbachstraße"
 housenumber: 47/1

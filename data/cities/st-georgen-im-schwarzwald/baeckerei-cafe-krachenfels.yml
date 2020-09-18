@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.1251948
 longitude: 8.3319414
-postcode: 78112
+postcode: "78112"
 city: St. Georgen im Schwarzwald
 street: "Gerwigstraße"
 housenumber: 42

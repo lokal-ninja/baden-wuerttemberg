@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 48.831905500000005
 longitude: 9.794484500000001
-postcode: 73557
+postcode: "73557"
 city: Mutlangen
 street: "Siemensring"
 housenumber: 15
-phone: ""
-opening_hours: ""
-website: ""
+phone: "071718762279"
+opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-12:00"
+website: "http://autozentrumfeig.de"

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.80763
 longitude: 9.642267700000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Broner Platz"
 housenumber: 1

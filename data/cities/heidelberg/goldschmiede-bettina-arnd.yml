@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.398840400000005
 longitude: 8.6444592
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Im Schaffner"
 housenumber: 36

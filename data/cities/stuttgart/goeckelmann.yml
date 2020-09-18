@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 48.805286900000006
 longitude: 9.216593900000001
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Wilhelmstraße"
 housenumber: 21

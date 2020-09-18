@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.692922
 longitude: 9.271418
-postcode: 88709
+postcode: "88709"
 city: Meersburg
 street: "Unterstadtstraße"
 housenumber: 27

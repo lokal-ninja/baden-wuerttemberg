@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4856866
 longitude: 9.2138124
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Ringelbachstraße"
 housenumber: 17

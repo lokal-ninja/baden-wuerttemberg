@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.5952405
 longitude: 8.8695502
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Spitalgasse"
 housenumber: 14

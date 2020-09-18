@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.784613900000004
 longitude: 9.450629900000001
-postcode: 97906
+postcode: "97906"
 city: Faulbach
 street: "Triebweg"
 housenumber: 6c

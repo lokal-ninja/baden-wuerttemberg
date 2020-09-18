@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9693357
 longitude: 7.9600185
-postcode: 79199
+postcode: "79199"
 city: Kirchzarten
 street: "Gerwigstraße"
 housenumber: 3

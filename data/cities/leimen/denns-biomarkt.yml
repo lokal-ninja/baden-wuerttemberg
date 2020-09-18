@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.354165300000005
 longitude: 8.6814812
-postcode: 69181
+postcode: "69181"
 city: Leimen
 street: "Stralsunder Ring"
 housenumber: 27

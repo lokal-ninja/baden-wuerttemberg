@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.764873900000005
 longitude: 9.167896800000001
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Tübinger Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.180881400000004
 longitude: 8.962911400000001
-postcode: 72469
+postcode: "72469"
 city: Meßstetten
 street: "Ebinger Straße"
 housenumber: 1

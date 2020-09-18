@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.125742800000005
 longitude: 8.596158
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Hoheneggerstraße"
 housenumber: 6

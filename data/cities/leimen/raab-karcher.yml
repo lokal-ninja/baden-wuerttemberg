@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.35823490000001
 longitude: 8.6761528
-postcode: 69181
+postcode: "69181"
 city: Leimen
 street: "Peter-Schuhmacher-Straße"
 housenumber: 1

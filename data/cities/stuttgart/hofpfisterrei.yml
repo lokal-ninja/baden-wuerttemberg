@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.775694300000005
 longitude: 9.177393200000001
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Schulstraße"
 housenumber: 4-8

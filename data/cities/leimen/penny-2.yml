@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.328086000000006
 longitude: 8.6717668
-postcode: 69181
+postcode: "69181"
 city: Leimen
 street: "In der Heidelslach"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.817316500000004
 longitude: 9.4093698
-postcode: 73630
+postcode: "73630"
 city: Remshalden
 street: "Weststraße"
 housenumber: 2

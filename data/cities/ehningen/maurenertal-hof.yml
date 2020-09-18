@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.656595900000006
 longitude: 8.9512315
-postcode: 71139
+postcode: "71139"
 city: Ehningen
 street: "Maurener Tal"
 housenumber: 1

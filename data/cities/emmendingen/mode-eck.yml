@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.121341900000004
 longitude: 7.8504687
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Kirchstraße"
 housenumber: 9

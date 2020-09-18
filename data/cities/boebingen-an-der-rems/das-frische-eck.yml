@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.822161
 longitude: 9.919181400000001
-postcode: 73560
+postcode: "73560"
 city: Böbingen an der Rems
 street: "Mögglinger Straße"
 housenumber: 1

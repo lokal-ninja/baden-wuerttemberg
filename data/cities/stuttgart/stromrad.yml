@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.7739695
 longitude: 9.185124
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Olgastraße"
 housenumber: 43

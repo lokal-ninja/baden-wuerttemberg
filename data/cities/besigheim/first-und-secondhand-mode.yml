@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.000150000000005
 longitude: 9.141208
-postcode: 74354
+postcode: "74354"
 city: Besigheim
 street: "Kirchstraße"
 housenumber: 

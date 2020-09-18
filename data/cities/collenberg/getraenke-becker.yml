@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.7722125
 longitude: 9.3282433
-postcode: 97903
+postcode: "97903"
 city: Collenberg
 street: "Bildstraße"
 housenumber: 27

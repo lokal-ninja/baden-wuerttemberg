@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5965999
 longitude: 9.308956700000001
-postcode: 72663
+postcode: "72663"
 city: Großbettlingen
 street: "Nürtinger Straße"
 housenumber: 91

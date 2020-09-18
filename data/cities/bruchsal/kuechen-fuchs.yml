@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.12059360000001
 longitude: 8.5848928
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Eisenbahnstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 49.239335000000004
 longitude: 9.101577200000001
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Kirchplatz"
 housenumber: 6/3

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.4069877
 longitude: 9.0602052
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Karrengasse"
 housenumber: 2

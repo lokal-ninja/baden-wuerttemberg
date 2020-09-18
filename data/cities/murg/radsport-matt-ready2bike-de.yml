@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.555601300000006
 longitude: 8.0114474
-postcode: 79730
+postcode: "79730"
 city: Murg
 street: "Rothenbächlestraße"
 housenumber: 3

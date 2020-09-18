@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.0073826
 longitude: 8.5257679
-postcode: 76327
+postcode: "76327"
 city: Pfinztal
 street: "Gewerbestraße"
 housenumber: 28

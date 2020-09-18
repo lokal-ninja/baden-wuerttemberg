@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.756141
 longitude: 8.1789289
-postcode: 76547
+postcode: "76547"
 city: Sinzheim
 street: "Fichtenweg"
 housenumber: 9

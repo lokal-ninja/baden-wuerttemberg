@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.8555824
 longitude: 8.774186700000001
-postcode: 78234
+postcode: "78234"
 city: Engen
 street: "Breitestraße"
 housenumber: 12a

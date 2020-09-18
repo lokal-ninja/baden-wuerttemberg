@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3789953
 longitude: 8.6697506
-postcode: 69124
+postcode: "69124"
 city: Heidelberg
 street: "Odenwaldstraße"
 housenumber: 6

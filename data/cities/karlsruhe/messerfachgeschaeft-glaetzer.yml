@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 49.0090172
 longitude: 8.413804500000001
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 31

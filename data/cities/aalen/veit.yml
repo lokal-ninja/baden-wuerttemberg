@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8705926
 longitude: 10.023617600000001
-postcode: 73434
+postcode: "73434"
 city: Aalen
 street: "Leintalstraße"
 housenumber: 21

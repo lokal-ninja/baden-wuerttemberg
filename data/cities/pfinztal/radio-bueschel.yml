@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.986282200000005
 longitude: 8.542887700000001
-postcode: 76327
+postcode: "76327"
 city: Pfinztal
 street: "Hauptstraße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.67982730000001
 longitude: 9.2181583
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Pfarrberg"
 housenumber: 1

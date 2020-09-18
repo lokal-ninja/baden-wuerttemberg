@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.5391315
 longitude: 9.284327000000001
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Hindenburgstraße"
 housenumber: 2

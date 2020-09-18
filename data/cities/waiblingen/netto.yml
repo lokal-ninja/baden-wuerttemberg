@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.888141600000004
 longitude: 9.3106094
-postcode: 71336
+postcode: "71336"
 city: Waiblingen
 street: "Bei der Kappel"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.330853000000005
 longitude: 8.449970800000001
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: ""
 housenumber: 

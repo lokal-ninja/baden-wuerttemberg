@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4077897
 longitude: 8.639972400000001
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Kurpfalzring"
 housenumber: 102

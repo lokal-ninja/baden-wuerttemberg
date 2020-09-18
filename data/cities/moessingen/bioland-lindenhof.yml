@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.3860753
 longitude: 9.0972991
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: ""
 housenumber: 1

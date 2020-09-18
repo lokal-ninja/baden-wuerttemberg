@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.702791100000006
 longitude: 9.2123012
-postcode: 70599
+postcode: "70599"
 city: Stuttgart
 street: "Goezstraße"
 housenumber: 30

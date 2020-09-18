@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.487616
 longitude: 9.2196269
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Ziegelweg"
 housenumber: 1/1

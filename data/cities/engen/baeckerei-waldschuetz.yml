@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.851611000000005
 longitude: 8.7704758
-postcode: 78234
+postcode: "78234"
 city: Engen
 street: "Klostergasse"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6916972
 longitude: 8.9504345
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Aidlinger Straße"
 housenumber: 2

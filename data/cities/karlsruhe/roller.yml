@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.0206196
 longitude: 8.456014900000001
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Ruschgraben"
 housenumber: 90

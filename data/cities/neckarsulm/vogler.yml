@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1911676
 longitude: 9.2270287
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Neutorgasse"
 housenumber: 3

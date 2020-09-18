@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.5195902
 longitude: 9.057648200000001
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Neckargasse"
 housenumber: 16

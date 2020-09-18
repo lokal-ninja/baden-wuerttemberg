@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.7126974
 longitude: 8.092563400000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Eichenwaldstraße"
 housenumber: 1

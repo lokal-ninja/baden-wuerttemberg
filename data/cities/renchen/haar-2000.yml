@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5884938
 longitude: 8.0106251
-postcode: 77871
+postcode: "77871"
 city: Renchen
 street: "Poststraße"
 housenumber: 27

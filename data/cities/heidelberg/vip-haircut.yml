@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4077433
 longitude: 8.6922093
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Rohrbacher Straße"
 housenumber: 8

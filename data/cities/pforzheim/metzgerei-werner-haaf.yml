@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.8594434
 longitude: 8.738904400000001
-postcode: 75181
+postcode: "75181"
 city: Pforzheim
 street: "Würmer Hauptstraße"
 housenumber: 19

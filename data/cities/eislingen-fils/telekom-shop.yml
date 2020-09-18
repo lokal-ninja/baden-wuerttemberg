@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.695406000000006
 longitude: 9.6878905
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Steinbeisstraße"
 housenumber: 8

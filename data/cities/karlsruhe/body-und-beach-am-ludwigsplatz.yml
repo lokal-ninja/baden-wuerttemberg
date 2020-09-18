@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.0086291
 longitude: 8.3953889
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Waldstraße"
 housenumber: 65

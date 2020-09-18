@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1736536
 longitude: 8.071579
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Hauptstraße"
 housenumber: 33

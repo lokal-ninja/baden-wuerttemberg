@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.491244
 longitude: 8.647404100000001
-postcode: 69493
+postcode: "69493"
 city: Hirschberg an der Bergstraße
 street: "In den Langen"
 housenumber: 17

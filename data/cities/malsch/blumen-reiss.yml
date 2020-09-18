@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.8793875
 longitude: 8.3363736
-postcode: 76316
+postcode: "76316"
 city: Malsch
 street: "Am Kirchplatz"
 housenumber: 2

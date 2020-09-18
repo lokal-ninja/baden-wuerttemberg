@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.575523000000004
 longitude: 8.4096306
-postcode: 79801
+postcode: "79801"
 city: Hohentengen am Hochrhein
 street: ""
 housenumber: 1

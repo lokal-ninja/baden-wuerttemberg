@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.1149518
 longitude: 8.5098388
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Friedrichstraße"
 housenumber: 12b

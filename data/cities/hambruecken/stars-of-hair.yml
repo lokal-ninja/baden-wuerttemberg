@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1825799
 longitude: 8.547334900000001
-postcode: 76707
+postcode: "76707"
 city: Hambrücken
 street: "Hauptstraße"
 housenumber: 42

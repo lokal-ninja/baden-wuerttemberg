@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.9568688
 longitude: 10.175355600000001
-postcode: 73479
+postcode: "73479"
 city: Ellwangen (Jagst)
 street: "Veit-Hirschmann-Straße"
 housenumber: 3

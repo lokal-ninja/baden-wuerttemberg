@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.514359000000006
 longitude: 9.072284400000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Reutlinger Straße"
 housenumber: 63

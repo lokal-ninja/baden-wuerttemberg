@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.0105865
 longitude: 8.3987435
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Waldstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 49.0758851
 longitude: 9.1492736
-postcode: 74348
+postcode: "74348"
 city: Lauffen am Neckar
 street: "Bahnhofstraße"
 housenumber: 21

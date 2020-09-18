@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.5916681
 longitude: 7.5840984
-postcode: 68330
+postcode: "68330"
 city: Huningue
 street: "Place Abbatucci"
 housenumber: 1

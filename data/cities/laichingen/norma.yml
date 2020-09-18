@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4935449
 longitude: 9.7027043
-postcode: 89150
+postcode: "89150"
 city: Laichingen
 street: "Graf-von-Zeppelin-Straße"
 housenumber: 2/4

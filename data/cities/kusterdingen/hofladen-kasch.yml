@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.480825800000005
 longitude: 9.116435300000001
-postcode: 72127
+postcode: "72127"
 city: Kusterdingen
 street: "Ohmenhäuser Straße"
 housenumber: 20

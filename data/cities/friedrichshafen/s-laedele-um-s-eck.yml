@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.7080515
 longitude: 9.5181103
-postcode: 88048
+postcode: "88048"
 city: Friedrichshafen
 street: "Ettenkircher Straße"
 housenumber: 31

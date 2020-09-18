@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.6583453
 longitude: 9.4403545
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Seemooser Weg"
 housenumber: 5

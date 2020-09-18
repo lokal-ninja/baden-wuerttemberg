@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.04059
 longitude: 9.1473736
-postcode: 74366
+postcode: "74366"
 city: Kirchheim am Neckar
 street: "Schillerstraße"
 housenumber: 34

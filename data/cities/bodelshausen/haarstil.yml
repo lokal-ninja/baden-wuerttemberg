@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3955988
 longitude: 8.9710658
-postcode: 72411
+postcode: "72411"
 city: Bodelshausen
 street: "Am Burghof"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.2936556
 longitude: 8.5554059
-postcode: 78727
+postcode: "78727"
 city: Oberndorf am Neckar
 street: "Lindenhofplatz"
 housenumber: 11

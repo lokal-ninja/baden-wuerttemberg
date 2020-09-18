@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.803225700000006
 longitude: 7.6267367
-postcode: 79379
+postcode: "79379"
 city: Müllheim
 street: "Hebelstraße"
 housenumber: 32

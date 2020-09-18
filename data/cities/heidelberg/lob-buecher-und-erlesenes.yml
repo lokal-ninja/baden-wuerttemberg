@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 49.4269716
 longitude: 8.647231
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Mannheimer Straße"
 housenumber: 258

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.589733700000004
 longitude: 8.118667
-postcode: 77876
+postcode: "77876"
 city: Kappelrodeck
 street: "Hauptstraße"
 housenumber: 118

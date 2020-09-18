@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 49.008788200000005
 longitude: 8.402424100000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Lammstraße"
 housenumber: 7a

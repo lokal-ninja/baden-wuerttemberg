@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.8058205
 longitude: 9.2756247
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Schmerstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.746595500000005
 longitude: 9.1021377
-postcode: 70569
+postcode: "70569"
 city: Stuttgart
 street: "Pfaffenwaldring"
 housenumber: 42

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3172031
 longitude: 8.813355900000001
-postcode: 74909
+postcode: "74909"
 city: Meckesheim
 street: "Industriestraße"
 housenumber: 1/1

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.7405361
 longitude: 9.1580662
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Korinnaweg"
 housenumber: 52

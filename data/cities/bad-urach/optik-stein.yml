@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.492721700000004
 longitude: 9.398191500000001
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Kirchstraße"
 housenumber: 9

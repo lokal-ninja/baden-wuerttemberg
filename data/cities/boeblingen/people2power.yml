@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.685014200000005
 longitude: 9.0148261
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Poststraße"
 housenumber: 56

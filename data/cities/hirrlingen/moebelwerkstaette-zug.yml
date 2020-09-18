@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.412065600000005
 longitude: 8.884705400000001
-postcode: 72145
+postcode: "72145"
 city: Hirrlingen
 street: "Bietenhauser Straße"
 housenumber: 22

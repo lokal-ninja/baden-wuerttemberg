@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.8287964
 longitude: 9.1275625
-postcode: 
+postcode: ""
 city: Korntal-Münchingen
 street: "Apfelallee"
 housenumber: 33-35

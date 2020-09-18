@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 48.7979016
 longitude: 9.7967361
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Münstergasse"
 housenumber: 8

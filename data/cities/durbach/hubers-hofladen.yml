@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.4905096
 longitude: 8.0069312
-postcode: 77770
+postcode: "77770"
 city: Durbach
 street: "Brendel"
 housenumber: 2

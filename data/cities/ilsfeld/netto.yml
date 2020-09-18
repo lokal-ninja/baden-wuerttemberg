@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0556836
 longitude: 9.2765778
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
 street: "Eisenbahnstraße"
 housenumber: 40

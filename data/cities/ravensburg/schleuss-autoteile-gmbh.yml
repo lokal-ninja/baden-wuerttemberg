@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 47.762728700000004
 longitude: 9.625378000000001
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Wangener Straße"
 housenumber: 174

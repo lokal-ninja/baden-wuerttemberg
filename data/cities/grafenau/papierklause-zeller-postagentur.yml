@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.714009600000004
 longitude: 8.906977300000001
-postcode: 71120
+postcode: "71120"
 city: Grafenau
 street: "Schafhauser Weg"
 housenumber: 1

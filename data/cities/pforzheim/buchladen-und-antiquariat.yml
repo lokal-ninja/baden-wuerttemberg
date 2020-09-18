@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.8899741
 longitude: 8.6706511
-postcode: 75172
+postcode: "75172"
 city: Pforzheim
 street: "Westliche Karl-Friedrich-Straße"
 housenumber: 269

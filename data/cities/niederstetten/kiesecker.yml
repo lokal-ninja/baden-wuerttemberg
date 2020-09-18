@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.4019403
 longitude: 9.919628900000001
-postcode: 97996
+postcode: "97996"
 city: Niederstetten
 street: "Vorbachzimmerner Straße"
 housenumber: 2

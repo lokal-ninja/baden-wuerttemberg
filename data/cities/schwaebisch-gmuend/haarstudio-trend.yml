@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.801944600000006
 longitude: 9.8000673
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Vordere Schmiedgasse"
 housenumber: 23

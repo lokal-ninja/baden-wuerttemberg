@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 48.896541000000006
 longitude: 9.193006200000001
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Eberhardstraße"
 housenumber: 6
 phone: "+49 7141 2992090"
-opening_hours: ""
-website: "https://de-de.facebook.com/DO-Asia-Laden-770307669784634/"
+opening_hours: "Mo-Fr 09:45-18:30; Sa 09:30-15:00"
+website: "https://de-de.facebook.com/pg/DO-Asia-Laden-770307669784634/about/"

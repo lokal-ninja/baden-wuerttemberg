@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9427802
 longitude: 9.264904000000001
-postcode: 71672
+postcode: "71672"
 city: Marbach am Neckar
 street: "Bahnhofstraße"
 housenumber: 4

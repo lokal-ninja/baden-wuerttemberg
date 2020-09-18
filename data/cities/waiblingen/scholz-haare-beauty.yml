@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8307963
 longitude: 9.314905000000001
-postcode: 71332
+postcode: "71332"
 city: Waiblingen
 street: "Am Stadtgraben"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.0063371
 longitude: 7.8463544
-postcode: 79106
+postcode: "79106"
 city: Freiburg im Breisgau
 street: "Tennenbacher Straße"
 housenumber: 44

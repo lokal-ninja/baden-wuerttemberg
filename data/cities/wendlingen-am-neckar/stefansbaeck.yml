@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6728705
 longitude: 9.3639633
-postcode: 73240
+postcode: "73240"
 city: Wendlingen am Neckar
 street: "Wertstraße"
 housenumber: 12

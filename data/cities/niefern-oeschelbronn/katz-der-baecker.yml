@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.91690010000001
 longitude: 8.7834707
-postcode: 75223
+postcode: "75223"
 city: Niefern-Öschelbronn
 street: "Pforzheimer Straße"
 housenumber: 1

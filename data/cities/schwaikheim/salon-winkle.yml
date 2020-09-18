@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.874517700000006
 longitude: 9.3515207
-postcode: 71409
+postcode: "71409"
 city: Schwaikheim
 street: "Bahnhofstraße"
 housenumber: 22/1

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.6847294
 longitude: 9.012930200000001
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Marktstraße"
 housenumber: 42

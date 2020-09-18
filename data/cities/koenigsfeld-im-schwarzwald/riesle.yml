@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.138780700000005
 longitude: 8.420718200000001
-postcode: 78126
+postcode: "78126"
 city: Königsfeld im Schwarzwald
 street: "Zinzendorfplatz"
 housenumber: 8

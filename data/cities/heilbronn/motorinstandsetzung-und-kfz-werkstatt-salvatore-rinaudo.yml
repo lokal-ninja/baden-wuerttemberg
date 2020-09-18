@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1451427
 longitude: 9.1957014
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Neckargartacher Straße"
 housenumber: 64

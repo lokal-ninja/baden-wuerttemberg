@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.480630600000005
 longitude: 8.8886328
-postcode: 72149
+postcode: "72149"
 city: Neustetten
 street: "Hohenstauferstraße"
 housenumber: 19

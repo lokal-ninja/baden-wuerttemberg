@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1235767
 longitude: 9.0775124
-postcode: 72510
+postcode: "72510"
 city: Stetten am kalten Markt
 street: "Lagerstraße"
 housenumber: 13

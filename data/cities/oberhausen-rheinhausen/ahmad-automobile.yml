@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.2521676
 longitude: 8.496323
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Marienstraße"
 housenumber: 141

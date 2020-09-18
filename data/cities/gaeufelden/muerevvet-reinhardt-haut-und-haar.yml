@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5623536
 longitude: 8.8478823
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Öschelbronner Straße"
 housenumber: 4

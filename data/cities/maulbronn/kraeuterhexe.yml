@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.0000268
 longitude: 8.810697000000001
-postcode: 75433
+postcode: "75433"
 city: Maulbronn
 street: "Klosterhof"
 housenumber: 2

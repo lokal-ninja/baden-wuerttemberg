@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6664204
 longitude: 8.4734383
-postcode: 75337
+postcode: "75337"
 city: Enzklösterle
 street: "Freudenstädter Straße"
 housenumber: 3

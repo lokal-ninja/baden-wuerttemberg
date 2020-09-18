@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 48.633368000000004
 longitude: 8.0657916
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Eisenbahnstraße"
 housenumber: 40

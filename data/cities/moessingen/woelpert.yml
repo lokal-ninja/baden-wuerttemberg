@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 48.406383500000004
 longitude: 9.041969700000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Maybachstraße"
 housenumber: 9

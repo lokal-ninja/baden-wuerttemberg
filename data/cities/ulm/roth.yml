@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.3993194
 longitude: 9.990926700000001
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Platzgasse"
 housenumber: 3

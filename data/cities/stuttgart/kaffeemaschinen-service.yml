@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.790143
 longitude: 9.197306000000001
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Neckarstraße"
 housenumber: 168b

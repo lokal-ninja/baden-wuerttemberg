@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.7997717
 longitude: 9.0628937
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Schulstraße"
 housenumber: 8

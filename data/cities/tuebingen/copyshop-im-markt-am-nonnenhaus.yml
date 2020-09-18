@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.522210300000005
 longitude: 9.0569331
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Nonnengasse"
 housenumber: 14

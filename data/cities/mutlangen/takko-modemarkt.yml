@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8320554
 longitude: 9.7936295
-postcode: 73557
+postcode: "73557"
 city: Mutlangen
 street: "In der Breite"
 housenumber: 13

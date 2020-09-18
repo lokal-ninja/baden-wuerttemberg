@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.043327000000005
 longitude: 7.8685378
-postcode: 79194
+postcode: "79194"
 city: Gundelfingen
 street: "Alte Bundesstraße"
 housenumber: 39

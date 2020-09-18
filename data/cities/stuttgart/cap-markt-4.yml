@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7837686
 longitude: 9.2165829
-postcode: 70188
+postcode: "70188"
 city: Stuttgart
 street: "Landhausstraße"
 housenumber: 243

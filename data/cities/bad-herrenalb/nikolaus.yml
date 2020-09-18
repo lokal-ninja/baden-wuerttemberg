@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7975761
 longitude: 8.4372147
-postcode: 76332
+postcode: "76332"
 city: Bad Herrenalb
 street: "Dobler Straße"
 housenumber: 4

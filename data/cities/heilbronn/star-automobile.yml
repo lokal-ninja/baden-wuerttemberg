@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.1390036
 longitude: 9.1922428
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Leonhardstraße"
 housenumber: 14

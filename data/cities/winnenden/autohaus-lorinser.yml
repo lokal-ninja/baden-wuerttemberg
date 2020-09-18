@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.8706643
 longitude: 9.384633800000001
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Linsenhalde"
 housenumber: 3

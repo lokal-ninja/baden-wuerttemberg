@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.539108500000005
 longitude: 9.2847886
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Friedrichstraße"
 housenumber: 6

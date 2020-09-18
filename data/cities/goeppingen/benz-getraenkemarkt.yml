@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.7021476
 longitude: 9.6635985
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Großeislinger Straße"
 housenumber: 6

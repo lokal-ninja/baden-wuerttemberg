@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.8314761
 longitude: 9.316128
-postcode: 71332
+postcode: "71332"
 city: Waiblingen
 street: "Kurze Straße"
 housenumber: 34

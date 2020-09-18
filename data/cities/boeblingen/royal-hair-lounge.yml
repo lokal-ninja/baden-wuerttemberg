@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.6849501
 longitude: 9.014095000000001
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Poststraße"
 housenumber: 51

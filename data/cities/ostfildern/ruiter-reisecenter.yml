@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.730311400000005
 longitude: 9.2527311
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Hedelfinger Straße"
 housenumber: 15

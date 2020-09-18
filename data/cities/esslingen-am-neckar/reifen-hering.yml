@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.736136800000004
 longitude: 9.318797100000001
-postcode: 73730
+postcode: "73730"
 city: Esslingen am Neckar
 street: "Plochinger Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.076228500000006
 longitude: 9.1462541
-postcode: 74348
+postcode: "74348"
 city: Lauffen am Neckar
 street: "Bahnhofstraße"
 housenumber: 54

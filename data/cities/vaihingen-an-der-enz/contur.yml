@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9311444
 longitude: 8.957463500000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Auricher Straße"
 housenumber: 6

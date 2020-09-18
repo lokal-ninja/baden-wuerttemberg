@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 49.225698
 longitude: 8.5189398
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Mannheimer Straße"
 housenumber: 32

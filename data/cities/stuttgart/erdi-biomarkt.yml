@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.788712000000004
 longitude: 9.195318400000001
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Neckarstraße"
 housenumber: 152

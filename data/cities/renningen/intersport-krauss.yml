@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7778421
 longitude: 8.9327702
-postcode: 71272
+postcode: "71272"
 city: Renningen
 street: "Benzstraße"
 housenumber: 7/1

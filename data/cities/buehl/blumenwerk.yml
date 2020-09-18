@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.6941335
 longitude: 8.140567800000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Bühlertalstraße"
 housenumber: 38a

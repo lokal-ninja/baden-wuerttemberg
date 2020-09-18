@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.8051102
 longitude: 9.540785600000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Gmünder Straße"
 housenumber: 76

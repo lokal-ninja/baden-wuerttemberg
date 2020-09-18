@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.759522800000006
 longitude: 8.2404837
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Lichtentaler Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.041273600000004
 longitude: 8.3925214
-postcode: 76149
+postcode: "76149"
 city: Karlsruhe
 street: "Am Sandfeld"
 housenumber: 25

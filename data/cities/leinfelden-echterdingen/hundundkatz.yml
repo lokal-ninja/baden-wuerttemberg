@@ -3,10 +3,10 @@ type: node
 shop: Tiere
 latitude: 48.6877939
 longitude: 9.1643864
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Hirschstraße"
 housenumber: 22
-phone: "+4971150469497"
+phone: "+49 (0)71150469497"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-16:00"
-website: "http://www.hundundkatzinle.de"
+website: "https://www.hundundkatzinle.de"

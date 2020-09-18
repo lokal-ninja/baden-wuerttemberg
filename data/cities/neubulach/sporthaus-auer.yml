@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 48.6618701
 longitude: 8.6967972
-postcode: 75387
+postcode: "75387"
 city: Neubulach
 street: "Marktstraße"
 housenumber: 5

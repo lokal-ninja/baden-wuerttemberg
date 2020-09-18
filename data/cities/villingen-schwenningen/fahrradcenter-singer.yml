@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.0628709
 longitude: 8.5110688
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
 street: "Schonacher Straße"
 housenumber: 14

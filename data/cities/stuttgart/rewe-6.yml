@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7683217
 longitude: 9.146236700000001
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Rotenwaldstraße"
 housenumber: 

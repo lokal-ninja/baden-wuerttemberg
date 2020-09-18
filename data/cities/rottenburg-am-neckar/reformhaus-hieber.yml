@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 48.475991
 longitude: 8.9326822
-postcode: 72108
+postcode: "72108"
 city: Rottenburg am Neckar
 street: "Königstraße"
 housenumber: 39

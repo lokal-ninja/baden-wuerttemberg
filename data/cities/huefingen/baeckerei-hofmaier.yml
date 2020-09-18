@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.925594000000004
 longitude: 8.4896381
-postcode: 78183
+postcode: "78183"
 city: Hüfingen
 street: "Hauptstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5964122
 longitude: 8.4196352
-postcode: 72297
+postcode: "72297"
 city: Seewald
 street: "Freudenstädter Straße"
 housenumber: 11

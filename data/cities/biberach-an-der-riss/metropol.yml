@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.098566000000005
 longitude: 9.7906242
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Bachgasse"
 housenumber: 15

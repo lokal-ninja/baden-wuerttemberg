@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.723606100000005
 longitude: 8.9857923
-postcode: 71067
+postcode: "71067"
 city: Sindelfingen
 street: ""
 housenumber: 

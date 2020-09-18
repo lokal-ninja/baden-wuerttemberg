@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.541882
 longitude: 9.0460037
-postcode: 72076
+postcode: "72076"
 city: Tübingen
 street: "Beim Herbstenhof"
 housenumber: 9

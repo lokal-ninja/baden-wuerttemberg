@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.998383000000004
 longitude: 8.472677800000001
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Rebenstraße"
 housenumber: 10

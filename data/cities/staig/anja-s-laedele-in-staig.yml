@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.299360500000006
 longitude: 9.9896695
-postcode: 89195
+postcode: "89195"
 city: Staig
 street: "Kirchstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.552846200000005
 longitude: 7.661205700000001
-postcode: 79639
+postcode: "79639"
 city: Grenzach-Wyhlen
 street: "Basler Straße"
 housenumber: 2

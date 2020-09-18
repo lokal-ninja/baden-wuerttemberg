@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.483465300000006
 longitude: 7.948050800000001
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Okenstraße"
 housenumber: 80

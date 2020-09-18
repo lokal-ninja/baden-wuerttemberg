@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8097646
 longitude: 9.6023765
-postcode: 88276
+postcode: "88276"
 city: Berg
 street: "Brunnenplatz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.038535200000005
 longitude: 8.6969642
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Melanchthonstraße"
 housenumber: 89

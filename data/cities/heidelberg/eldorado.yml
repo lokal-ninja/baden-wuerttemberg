@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.3825748
 longitude: 8.6819524
-postcode: 69126
+postcode: "69126"
 city: Heidelberg
 street: "Felix-Wankel-Straße"
 housenumber: 1

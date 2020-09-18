@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.7903152
 longitude: 9.2548245
-postcode: 70327
+postcode: "70327"
 city: Stuttgart
 street: "Bertramstraße"
 housenumber: 13

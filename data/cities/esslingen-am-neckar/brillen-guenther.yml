@@ -1,12 +1,12 @@
 id: 601788300
 type: node
 shop: Optiker
-latitude: 48.740707400000005
-longitude: 9.306255400000001
-postcode: 73728
+latitude: 48.7409558
+longitude: 9.3067924
+postcode: "73728"
 city: Esslingen am Neckar
 street: "Innere Brücke"
-housenumber: 22
+housenumber: 11
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:15-18:00; Th 14:15-19:00; Sa 09:00-14:00"
+opening_hours: "Mo-We 09:00-13:00,14:15-18:00; Th 14:15-19:00; Fr 09:00-13:00,14:15-18:00 ;Sa 09:00-14:00;PH off"
 website: ""

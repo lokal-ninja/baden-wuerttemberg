@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.781385400000005
 longitude: 9.610969
-postcode: 88214
+postcode: "88214"
 city: Ravensburg
 street: "Bachstraße"
 housenumber: 38

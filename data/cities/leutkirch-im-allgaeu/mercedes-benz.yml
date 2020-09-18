@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.835777
 longitude: 10.0152482
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Ölmühlestraße"
 housenumber: 2

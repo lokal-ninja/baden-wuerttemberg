@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2390028
 longitude: 9.1683137
-postcode: 74254
+postcode: "74254"
 city: Offenau
 street: "Talweg"
 housenumber: 25

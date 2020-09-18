@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.6316343
 longitude: 8.3037504
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Gerhart-Hauptmann-Straße"
 housenumber: 13

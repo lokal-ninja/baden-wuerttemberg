@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.9718121
 longitude: 8.4028725
-postcode: 76199
+postcode: "76199"
 city: Karlsruhe
 street: "Lange Straße"
 housenumber: 7

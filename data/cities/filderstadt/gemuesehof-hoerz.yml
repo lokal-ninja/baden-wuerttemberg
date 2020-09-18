@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.645703600000004
 longitude: 9.2287537
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Im Bühlerfeld"
 housenumber: 1

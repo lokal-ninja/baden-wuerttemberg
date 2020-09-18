@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.8014452
 longitude: 9.8266794
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Buchstraße"
 housenumber: 179

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6246901
 longitude: 10.0281588
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Karlstraße"
 housenumber: 67

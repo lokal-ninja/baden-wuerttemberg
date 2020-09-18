@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.5960394
 longitude: 8.6446088
-postcode: 69502
+postcode: "69502"
 city: Hemsbach
 street: "Berliner Straße"
 housenumber: 13

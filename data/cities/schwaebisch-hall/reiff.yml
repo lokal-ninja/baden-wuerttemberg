@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1103201
 longitude: 9.7901699
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Raiffeisenstraße"
 housenumber: 25

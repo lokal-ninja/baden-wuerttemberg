@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.563553500000005
 longitude: 9.7089044
-postcode: 97922
+postcode: "97922"
 city: Lauda-Königshofen
 street: "Josef-Schmitt-Straße"
 housenumber: 69

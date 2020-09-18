@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.8456914
 longitude: 8.593234800000001
-postcode: 75305
+postcode: "75305"
 city: Neuenbürg
 street: "Wildbader Straße"
 housenumber: 51

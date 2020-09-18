@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.4861541
 longitude: 9.1098984
-postcode: 72127
+postcode: "72127"
 city: Kusterdingen
 street: "Neckar-Alb-Straße"
 housenumber: 30

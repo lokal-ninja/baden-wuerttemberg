@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.895073800000006
 longitude: 9.613504800000001
-postcode: 88284
+postcode: "88284"
 city: Wolpertswende
 street: "Mochenwangener Straße"
 housenumber: 1

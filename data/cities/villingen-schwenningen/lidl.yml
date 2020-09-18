@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0585724
 longitude: 8.435236
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: "Beim Enggäßle"
 housenumber: 1

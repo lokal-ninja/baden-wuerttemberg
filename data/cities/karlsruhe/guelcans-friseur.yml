@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0101846
 longitude: 8.379633700000001
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Schillerstraße"
 housenumber: 6

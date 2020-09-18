@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.796173800000005
 longitude: 9.5074222
-postcode: 88263
+postcode: "88263"
 city: Horgenzell
 street: ""
 housenumber: 5

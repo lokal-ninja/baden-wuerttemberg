@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7878307
 longitude: 9.638828100000001
-postcode: 73547
+postcode: "73547"
 city: Lorch
 street: "Vorstadtstraße"
 housenumber: 34

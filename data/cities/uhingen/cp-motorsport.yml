@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7031931
 longitude: 9.573532100000001
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Albershäuser Straße"
 housenumber: 3

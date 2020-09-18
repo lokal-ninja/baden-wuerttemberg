@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.9491316
 longitude: 8.487028
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Saverner Straße"
 housenumber: 2
-phone: ""
-opening_hours: ""
+phone: "+49 176 63004726"
+opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-13:30; Su 09:00-12:00"
 website: ""

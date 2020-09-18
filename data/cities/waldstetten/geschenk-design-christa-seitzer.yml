@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 48.7639329
 longitude: 9.816704900000001
-postcode: 73550
+postcode: "73550"
 city: Waldstetten
 street: "Rechbachweg"
 housenumber: 19

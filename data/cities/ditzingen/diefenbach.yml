@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8268518
 longitude: 9.069128000000001
-postcode: 71254
+postcode: "71254"
 city: Ditzingen
 street: "Gartenstraße"
 housenumber: 17

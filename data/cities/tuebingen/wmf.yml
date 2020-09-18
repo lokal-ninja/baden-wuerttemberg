@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.520439800000005
 longitude: 9.0553614
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Kirchgasse"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.645322
 longitude: 9.5247644
-postcode: 73275
+postcode: "73275"
 city: Ohmden
 street: "Hauptstraße"
 housenumber: 3

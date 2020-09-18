@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 47.632049200000004
 longitude: 8.299996
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Bundesstraße"
 housenumber: 16

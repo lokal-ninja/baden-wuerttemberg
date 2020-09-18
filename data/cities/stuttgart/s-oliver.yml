@@ -1,12 +1,12 @@
 id: 438047041
 type: node
 shop: Kleidung
-latitude: 48.776093200000005
-longitude: 9.175774500000001
-postcode: 70173
+latitude: 48.776051700000004
+longitude: 9.1758199
+postcode: "70173"
 city: Stuttgart
 street: "Königstraße"
 housenumber: 46
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
+website: "https://stores.soliver.com/stuttgart/konigstra%C3%9Fe-46"

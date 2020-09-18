@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.7740622
 longitude: 9.1774112
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Nadlerstraße"
 housenumber: 12

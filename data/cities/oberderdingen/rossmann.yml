@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.061132400000005
 longitude: 8.8072
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Sternenfelser Straße"
 housenumber: 55

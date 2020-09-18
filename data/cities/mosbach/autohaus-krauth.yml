@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3295291
 longitude: 9.1079065
-postcode: 74821
+postcode: "74821"
 city: Mosbach
 street: "Hohlweg"
 housenumber: 22

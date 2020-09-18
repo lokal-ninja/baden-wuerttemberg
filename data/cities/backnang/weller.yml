@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.946566000000004
 longitude: 9.4294302
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Schillerstraße"
 housenumber: 19

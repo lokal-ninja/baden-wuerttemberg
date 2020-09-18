@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.537353700000004
 longitude: 9.2856065
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Schlossstraße"
 housenumber: 20-22

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.7565699
 longitude: 8.8693264
-postcode: 71263
+postcode: "71263"
 city: Weil der Stadt
 street: "Siemensstraße"
 housenumber: 

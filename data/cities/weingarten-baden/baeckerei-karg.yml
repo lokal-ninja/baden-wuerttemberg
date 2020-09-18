@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.054511000000005
 longitude: 8.524879
-postcode: 76356
+postcode: "76356"
 city: Weingarten (Baden)
 street: "Bahnhofstraße"
 housenumber: 89

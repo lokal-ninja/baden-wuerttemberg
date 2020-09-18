@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.694732800000004
 longitude: 9.6867912
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Steinbeisstraße"
 housenumber: 10

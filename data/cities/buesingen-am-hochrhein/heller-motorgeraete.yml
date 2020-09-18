@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.698375000000006
 longitude: 8.69027
-postcode: 78266
+postcode: "78266"
 city: Büsingen am Hochrhein
 street: "Rebhaldenweg"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.665650500000005
 longitude: 9.379219200000001
-postcode: 73240
+postcode: "73240"
 city: Wendlingen am Neckar
 street: "Höhenstraße"
 housenumber: 69

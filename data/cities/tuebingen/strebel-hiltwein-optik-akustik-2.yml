@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.5168638
 longitude: 9.0583801
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Europaplatz"
 housenumber: 2/1

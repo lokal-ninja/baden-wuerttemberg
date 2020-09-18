@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0599314
 longitude: 9.4399545
-postcode: 
+postcode: ""
 city: Herbertingen
 street: "Marbacher Straße"
 housenumber: 1

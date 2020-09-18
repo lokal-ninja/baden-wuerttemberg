@@ -3,7 +3,7 @@ type: way
 shop: Schlüsseldienst
 latitude: 48.888990400000004
 longitude: 9.3956044
-postcode: 71397
+postcode: "71397"
 city: Leutenbach
 street: "Lehmgrubenweg"
 housenumber: 18

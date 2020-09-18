@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.9778079
 longitude: 8.4037892
-postcode: 76199
+postcode: "76199"
 city: Karlsruhe
 street: "Rastatter Straße"
 housenumber: 

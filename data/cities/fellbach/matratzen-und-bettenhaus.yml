@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 48.806601900000004
 longitude: 9.275605500000001
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Hintere Straße"
 housenumber: 31-35

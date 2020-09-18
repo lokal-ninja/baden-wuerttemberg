@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.381779200000004
 longitude: 8.8999228
-postcode: 72414
+postcode: "72414"
 city: Rangendingen
 street: "Im Hitzenried"
 housenumber: 3

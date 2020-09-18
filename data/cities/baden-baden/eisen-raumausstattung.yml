@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.8144809
 longitude: 8.1989511
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Mühlstraße"
 housenumber: 49

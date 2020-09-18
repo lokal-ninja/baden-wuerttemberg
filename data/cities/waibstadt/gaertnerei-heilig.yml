@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.3022251
 longitude: 8.914331800000001
-postcode: 74915
+postcode: "74915"
 city: Waibstadt
 street: "Kappisweg"
 housenumber: 2

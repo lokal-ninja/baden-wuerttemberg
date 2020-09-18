@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7813001
 longitude: 8.7317525
-postcode: 75378
+postcode: "75378"
 city: Bad Liebenzell
 street: "Pforzheimer Straße"
 housenumber: 52

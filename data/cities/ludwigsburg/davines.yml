@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9005312
 longitude: 9.214475100000001
-postcode: 71640
+postcode: "71640"
 city: Ludwigsburg
 street: "Corneliusstraße"
 housenumber: 10

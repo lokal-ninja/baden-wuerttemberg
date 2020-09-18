@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.318966100000004
 longitude: 8.5511774
-postcode: 68766
+postcode: "68766"
 city: Hockenheim
 street: "Rathausstraße"
 housenumber: 7

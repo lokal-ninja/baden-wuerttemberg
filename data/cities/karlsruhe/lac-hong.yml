@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.0082923
 longitude: 8.4090495
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kronenstraße"
 housenumber: 30

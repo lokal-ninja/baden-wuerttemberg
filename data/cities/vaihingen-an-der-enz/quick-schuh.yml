@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.928851900000005
 longitude: 8.970142300000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Einsteinstraße"
 housenumber: 25

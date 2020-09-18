@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.7959541
 longitude: 9.2617141
-postcode: 88682
+postcode: "88682"
 city: Salem
 street: "Dorfbachstraße"
 housenumber: 10

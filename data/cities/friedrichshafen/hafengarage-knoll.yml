@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.6715146
 longitude: 9.490843700000001
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Donaustraße"
 housenumber: 7

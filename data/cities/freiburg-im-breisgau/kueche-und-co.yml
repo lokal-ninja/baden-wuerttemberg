@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.011157700000005
 longitude: 7.82404
-postcode: 79110
+postcode: "79110"
 city: Freiburg im Breisgau
 street: "Ensisheimer Straße"
 housenumber: 28

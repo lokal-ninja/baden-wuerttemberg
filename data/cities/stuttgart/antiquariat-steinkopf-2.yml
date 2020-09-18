@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 48.770763
 longitude: 9.1659349
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Hermannstraße"
 housenumber: 5A

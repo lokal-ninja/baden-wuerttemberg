@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6462372
 longitude: 9.7902699
-postcode: 73329
+postcode: "73329"
 city: Kuchen
 street: "Im Gewerbepark"
 housenumber: 1

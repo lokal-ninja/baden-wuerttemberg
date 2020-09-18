@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 49.2936471
 longitude: 8.6974765
-postcode: 69168
+postcode: "69168"
 city: Wiesloch
 street: "Hauptstraße"
 housenumber: 113

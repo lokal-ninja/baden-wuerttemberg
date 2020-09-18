@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.0738299
 longitude: 8.7103029
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Hügellandstraße"
 housenumber: 32

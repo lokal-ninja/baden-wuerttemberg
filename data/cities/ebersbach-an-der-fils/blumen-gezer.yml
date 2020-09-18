@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.7143832
 longitude: 9.5272071
-postcode: 73061
+postcode: "73061"
 city: Ebersbach an der Fils
 street: "Hauptstraße"
 housenumber: 25

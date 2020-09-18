@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 47.70526580000001
 longitude: 9.5614737
-postcode: 88074
+postcode: "88074"
 city: Meckenbeuren
 street: "Eckenerstraße"
 housenumber: 34

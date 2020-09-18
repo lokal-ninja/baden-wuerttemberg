@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.796259500000005
 longitude: 9.0033464
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Poststraße"
 housenumber: 65

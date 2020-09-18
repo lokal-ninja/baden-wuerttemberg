@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.5738149
 longitude: 8.7679066
-postcode: 71131
+postcode: "71131"
 city: Jettingen
 street: "Nagolder Straße"
 housenumber: 43

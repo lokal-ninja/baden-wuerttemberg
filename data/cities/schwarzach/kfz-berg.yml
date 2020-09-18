@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3667851
 longitude: 8.9810804
-postcode: 74869
+postcode: "74869"
 city: Schwarzach
 street: "Hauptstraße"
 housenumber: 72

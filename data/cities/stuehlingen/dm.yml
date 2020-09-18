@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.745517400000004
 longitude: 8.4506598
-postcode: 79780
+postcode: "79780"
 city: Stühlingen
 street: "Lindenweg"
 housenumber: 1

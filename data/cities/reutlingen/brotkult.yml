@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.490294500000005
 longitude: 9.2184025
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Burgstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.808426100000005
 longitude: 9.2774622
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Cannstatter Straße"
 housenumber: 32

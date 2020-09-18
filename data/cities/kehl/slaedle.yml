@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.6095437
 longitude: 7.9052009000000005
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Klausenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.776664000000004
 longitude: 9.1627306
-postcode: 70176
+postcode: "70176"
 city: Stuttgart
 street: "Schloßstraße"
 housenumber: 80

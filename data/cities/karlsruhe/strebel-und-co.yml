@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.0106273
 longitude: 8.4013174
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Zirkel"
 housenumber: 27

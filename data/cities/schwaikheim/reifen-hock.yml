@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.874917
 longitude: 9.345325
-postcode: 71409
+postcode: "71409"
 city: Schwaikheim
 street: "Ludwigsburger Straße"
 housenumber: 60

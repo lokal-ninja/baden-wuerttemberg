@@ -3,7 +3,7 @@ type: node
 shop: Beschriftungen
 latitude: 48.5723834
 longitude: 7.8142297
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Hauptstraße"
 housenumber: 84

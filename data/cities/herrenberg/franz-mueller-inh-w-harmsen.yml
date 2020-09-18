@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.5955839
 longitude: 8.8709322
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Tübinger Straße"
 housenumber: 15

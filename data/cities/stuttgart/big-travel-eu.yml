@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.780531100000005
 longitude: 9.2525189
-postcode: 70327
+postcode: "70327"
 city: Stuttgart
 street: "Widdersteinstraße"
 housenumber: 13

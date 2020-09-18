@@ -3,7 +3,7 @@ type: node
 shop: Fußböden
 latitude: 47.600101200000005
 longitude: 8.1548718
-postcode: 79774
+postcode: "79774"
 city: Albbruck
 street: "Dr. Rudolf-Eberle-Straße"
 housenumber: 38

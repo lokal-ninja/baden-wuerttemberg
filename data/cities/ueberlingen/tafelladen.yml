@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.770616700000005
 longitude: 9.1609269
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Friedhofstraße"
 housenumber: 28a

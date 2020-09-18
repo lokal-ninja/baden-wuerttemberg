@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.520147
 longitude: 9.052960200000001
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Haaggasse"
 housenumber: 3

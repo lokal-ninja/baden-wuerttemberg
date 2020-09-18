@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.943137400000005
 longitude: 9.268847000000001
-postcode: 71672
+postcode: "71672"
 city: Marbach am Neckar
 street: "Rielingshäuser Straße"
 housenumber: 22

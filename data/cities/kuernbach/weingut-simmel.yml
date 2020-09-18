@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.088470300000004
 longitude: 8.8273256
-postcode: 75057
+postcode: "75057"
 city: Kürnbach
 street: "Heiligenäcker"
 housenumber: 2

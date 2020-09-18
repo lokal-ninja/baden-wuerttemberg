@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.113406700000006
 longitude: 9.1329677
-postcode: 74226
+postcode: "74226"
 city: Nordheim
 street: "Landturmstraße"
 housenumber: 21

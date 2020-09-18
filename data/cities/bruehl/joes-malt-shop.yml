@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.3974473
 longitude: 8.5351756
-postcode: 68782
+postcode: "68782"
 city: Brühl
 street: "Mannheimer Straße"
 housenumber: 34

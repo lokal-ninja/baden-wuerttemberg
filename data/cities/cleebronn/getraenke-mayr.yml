@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.040969200000006
 longitude: 9.0262556
-postcode: 74389
+postcode: "74389"
 city: Cleebronn
 street: "Steuppergstraße"
 housenumber: 88/1

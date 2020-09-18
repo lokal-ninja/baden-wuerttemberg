@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.2270818
 longitude: 7.7540886
-postcode: 79336
+postcode: "79336"
 city: Herbolzheim
 street: "Breisgauallee"
 housenumber: 2

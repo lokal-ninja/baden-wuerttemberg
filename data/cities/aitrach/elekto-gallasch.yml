@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsgeräte
 latitude: 47.940761
 longitude: 10.086096600000001
-postcode: 88319
+postcode: "88319"
 city: Aitrach
 street: "Hauptstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.392952300000005
 longitude: 8.799604800000001
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Hauptstraße"
 housenumber: 21

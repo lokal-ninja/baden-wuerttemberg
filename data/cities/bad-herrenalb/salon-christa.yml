@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.815168400000005
 longitude: 8.4584974
-postcode: 76332
+postcode: "76332"
 city: Bad Herrenalb
 street: "Bergstraße"
 housenumber: 21

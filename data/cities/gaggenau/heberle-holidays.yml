@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.80426670000001
 longitude: 8.3192094
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Hauptstraße"
 housenumber: 51

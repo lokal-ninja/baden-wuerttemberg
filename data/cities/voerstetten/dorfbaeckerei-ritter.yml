@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.068956400000005
 longitude: 7.844766000000001
-postcode: 79279
+postcode: "79279"
 city: Vörstetten
 street: "Langacker"
 housenumber: 2

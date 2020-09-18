@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.140466100000005
 longitude: 9.2189286
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Fleiner Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.628166300000004
 longitude: 8.0724499
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Ratskellerstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.678604
 longitude: 10.1482367
-postcode: 89518
+postcode: "89518"
 city: Heidenheim an der Brenz
 street: "Clichystraße"
 housenumber: 21

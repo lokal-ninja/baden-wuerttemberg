@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3835154
 longitude: 9.3907586
-postcode: 74740
+postcode: "74740"
 city: Adelsheim
 street: "Hauptstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7284219
 longitude: 9.305455
-postcode: 73734
+postcode: "73734"
 city: Esslingen am Neckar
 street: "Zollernplatz"
 housenumber: 

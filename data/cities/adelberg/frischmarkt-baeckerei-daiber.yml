@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.7620488
 longitude: 9.5995544
-postcode: 73099
+postcode: "73099"
 city: Adelberg
 street: "Schorndorfer Straße"
 housenumber: 5

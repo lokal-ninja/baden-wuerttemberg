@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.7529182
 longitude: 8.550415600000001
-postcode: 75323
+postcode: "75323"
 city: Bad Wildbad
 street: "Wilhelmstraße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.037764800000005
 longitude: 7.861328800000001
-postcode: 79194
+postcode: "79194"
 city: Gundelfingen
 street: "Gewerbestraße"
 housenumber: 1

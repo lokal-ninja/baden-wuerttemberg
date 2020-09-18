@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5108705
 longitude: 9.075834500000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Aixer Straße"
 housenumber: 46

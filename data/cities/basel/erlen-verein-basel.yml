@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.5743762
 longitude: 7.6082771000000005
-postcode: 4058
+postcode: "4058"
 city: Basel
 street: "Erlenparkweg"
 housenumber: 110

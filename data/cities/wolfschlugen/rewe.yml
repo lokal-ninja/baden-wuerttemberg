@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6539068
 longitude: 9.286857000000001
-postcode: 72649
+postcode: "72649"
 city: Wolfschlugen
 street: "Esslinger Straße"
 housenumber: 11

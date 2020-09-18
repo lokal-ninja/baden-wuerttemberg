@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 49.4848956
 longitude: 8.4705809
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 2a-4

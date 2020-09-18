@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.411291500000004
 longitude: 9.057169
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Karl-Jaggy-Straße"
 housenumber: 53

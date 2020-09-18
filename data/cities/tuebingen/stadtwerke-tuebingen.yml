@@ -3,7 +3,7 @@ type: way
 shop: Energie
 latitude: 48.5109879
 longitude: 9.0712202
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Eisenhutstraße"
 housenumber: 6

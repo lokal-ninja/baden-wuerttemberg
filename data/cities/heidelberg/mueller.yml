@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.4094022
 longitude: 8.6923726
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Bergheimer Straße"
 housenumber: 4

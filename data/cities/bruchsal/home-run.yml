@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.1252008
 longitude: 8.5964933
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Friedrichstraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8023728
 longitude: 9.227952400000001
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Kissinger Straße"
 housenumber: 48a

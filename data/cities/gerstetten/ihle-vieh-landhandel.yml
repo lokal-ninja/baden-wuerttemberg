@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.6211338
 longitude: 10.0172719
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Friedrichstraße"
 housenumber: 16

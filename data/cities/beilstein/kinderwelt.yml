@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.041512000000004
 longitude: 9.312767800000001
-postcode: 71717
+postcode: "71717"
 city: Beilstein
 street: "Hauptstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.683707600000005
 longitude: 9.629339
-postcode: 73035
+postcode: "73035"
 city: Göppingen
 street: "Boller Straße"
 housenumber: 61

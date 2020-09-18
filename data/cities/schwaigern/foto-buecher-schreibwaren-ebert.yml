@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 49.142911700000006
 longitude: 9.0569503
-postcode: 74193
+postcode: "74193"
 city: Schwaigern
 street: "Silcherstraße"
 housenumber: 11

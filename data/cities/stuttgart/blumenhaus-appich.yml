@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.797133200000005
 longitude: 9.1832332
-postcode: 70191
+postcode: "70191"
 city: Stuttgart
 street: "Heilbronner Straße"
 housenumber: 120/1

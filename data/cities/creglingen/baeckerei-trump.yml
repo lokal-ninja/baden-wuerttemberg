@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.469113
 longitude: 10.030790900000001
-postcode: 97993
+postcode: "97993"
 city: Creglingen
 street: "Hauptstraße"
 housenumber: 22

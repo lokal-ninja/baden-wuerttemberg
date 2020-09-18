@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 49.009503
 longitude: 8.421084800000001
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Ludwig-Wilhelm-Straße"
 housenumber: 5

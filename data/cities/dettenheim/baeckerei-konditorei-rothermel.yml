@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.1857059
 longitude: 8.4238523
-postcode: 76706
+postcode: "76706"
 city: Dettenheim
 street: "Huttenheimer Straße"
 housenumber: 24

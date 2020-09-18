@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.6800039
 longitude: 9.2192383
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Scharnhäuser Straße"
 housenumber: 2

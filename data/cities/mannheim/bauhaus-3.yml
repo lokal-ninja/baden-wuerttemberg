@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.488323300000005
 longitude: 8.4713474
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 1-5

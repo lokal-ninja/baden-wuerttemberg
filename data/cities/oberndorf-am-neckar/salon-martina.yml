@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.297985600000004
 longitude: 8.561440900000001
-postcode: 78727
+postcode: "78727"
 city: Oberndorf am Neckar
 street: "Hohenbergstraße"
 housenumber: 66

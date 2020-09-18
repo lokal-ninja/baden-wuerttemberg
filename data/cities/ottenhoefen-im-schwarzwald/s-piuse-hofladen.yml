@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.58247840000001
 longitude: 8.1330889
-postcode: 77883
+postcode: "77883"
 city: Ottenhöfen im Schwarzwald
 street: "Weinbergweg"
 housenumber: 15

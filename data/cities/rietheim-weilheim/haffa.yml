@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.038014600000004
 longitude: 8.7845276
-postcode: 78604
+postcode: "78604"
 city: Rietheim-Weilheim
 street: "Rußberger Straße"
 housenumber: 4

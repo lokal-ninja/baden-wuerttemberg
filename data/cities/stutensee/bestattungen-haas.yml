@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.1057409
 longitude: 8.472923900000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Lessingstraße"
 housenumber: 17

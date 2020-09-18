@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 47.655613200000005
 longitude: 9.480783200000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Allmandstraße"
 housenumber: 8

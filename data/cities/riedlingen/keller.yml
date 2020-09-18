@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.1524884
 longitude: 9.474528600000001
-postcode: 88499
+postcode: "88499"
 city: Riedlingen
 street: "Donaustraße"
 housenumber: 18

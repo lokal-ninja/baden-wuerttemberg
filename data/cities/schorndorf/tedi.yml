@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.8052931
 longitude: 9.5267858
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Gottlieb-Daimler-Straße"
 housenumber: 2

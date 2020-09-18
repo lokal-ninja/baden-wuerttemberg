@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.708588000000006
 longitude: 9.6341769
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Stuttgarter Straße"
 housenumber: 78

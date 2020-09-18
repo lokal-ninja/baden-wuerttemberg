@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.9604105
 longitude: 10.132632000000001
-postcode: 73479
+postcode: "73479"
 city: Ellwangen (Jagst)
 street: "Amtsgasse"
 housenumber: 6

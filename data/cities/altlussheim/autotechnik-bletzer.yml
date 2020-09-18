@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.293293500000004
 longitude: 8.509355900000001
-postcode: 68804
+postcode: "68804"
 city: Altlußheim
 street: "Gersdorfer Straße"
 housenumber: 13-15

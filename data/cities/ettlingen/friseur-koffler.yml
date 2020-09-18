@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9493913
 longitude: 8.403080000000001
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Berliner Platz"
 housenumber: 

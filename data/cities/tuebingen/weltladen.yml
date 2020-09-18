@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.522794000000005
 longitude: 9.0546602
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Lange Gasse"
 housenumber: 64

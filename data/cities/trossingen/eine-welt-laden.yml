@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.075547300000004
 longitude: 8.6360384
-postcode: 78647
+postcode: "78647"
 city: Trossingen
 street: "Hauptstraße"
 housenumber: 23

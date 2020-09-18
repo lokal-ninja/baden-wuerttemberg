@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.252417400000006
 longitude: 8.502105700000001
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Hoeber-und-Mandelbaum-Straße"
 housenumber: 3b

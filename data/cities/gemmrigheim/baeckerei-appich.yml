@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0260418
 longitude: 9.1549438
-postcode: 74376
+postcode: "74376"
 city: Gemmrigheim
 street: "Hauptstraße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0529674
 longitude: 8.2057763
-postcode: 78120
+postcode: "78120"
 city: Furtwangen im Schwarzwald
 street: "Grieshaberstraße"
 housenumber: 8

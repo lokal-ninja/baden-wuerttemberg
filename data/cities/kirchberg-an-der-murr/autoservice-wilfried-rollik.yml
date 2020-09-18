@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.9440272
 longitude: 9.3471049
-postcode: 71737
+postcode: "71737"
 city: Kirchberg an der Murr
 street: "Burgstaller Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.043366600000006
 longitude: 9.3194821
-postcode: 88512
+postcode: "88512"
 city: Mengen
 street: "Obereschweg"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.591277600000005
 longitude: 8.1097985
-postcode: 77876
+postcode: "77876"
 city: Kappelrodeck
 street: "Bierkellerweg"
 housenumber: 1

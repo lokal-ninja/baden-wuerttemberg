@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4236091
 longitude: 8.650641
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Wundtstraße"
 housenumber: 5

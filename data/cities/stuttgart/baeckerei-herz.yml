@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7330565
 longitude: 9.111454
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Brommerstraße"
 housenumber: 2

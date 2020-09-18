@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.4927208
 longitude: 8.4664418
-postcode: 68159
+postcode: "68159"
 city: Mannheim
 street: ""
 housenumber: 24

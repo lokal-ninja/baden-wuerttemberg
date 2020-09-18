@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 49.2289298
 longitude: 9.2160115
-postcode: 74177
+postcode: "74177"
 city: Bad Friedrichshall
 street: "Friedrichsplatz"
 housenumber: 7-10

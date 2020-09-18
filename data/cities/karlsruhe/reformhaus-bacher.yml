@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.009385200000004
 longitude: 8.393258300000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Douglasstraße"
 housenumber: 24

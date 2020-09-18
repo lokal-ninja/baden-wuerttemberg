@@ -1,12 +1,12 @@
 id: 5085537022
 type: node
 shop: Tabak
-latitude: 48.575602700000005
-longitude: 7.8073686
-postcode: 77694
+latitude: 48.575620400000005
+longitude: 7.807462500000001
+postcode: "77694"
 city: Kehl
 street: "Straßburger Straße"
 housenumber: 6
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 7851 8865610"
+opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-20:00"
+website: "https://www.achimduerr.de/"

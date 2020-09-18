@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.6745078
 longitude: 9.3618731
-postcode: 73257
+postcode: "73257"
 city: Köngen
 street: "Imanuel-Maier-Straße"
 housenumber: 3

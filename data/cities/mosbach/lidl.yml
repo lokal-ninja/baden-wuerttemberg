@@ -3,9 +3,9 @@ type: way
 shop: Supermarkt
 latitude: 49.3527325
 longitude: 9.105903600000001
-postcode: 74821
+postcode: "74821"
 city: Mosbach
-street: "Herkulesstraße"
+street: "Oberer Herrenweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

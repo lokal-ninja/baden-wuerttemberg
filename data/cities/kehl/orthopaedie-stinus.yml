@@ -1,12 +1,12 @@
 id: 5069296922
 type: node
 shop: Sanitätshaus
-latitude: 48.5750029
-longitude: 7.807599300000001
-postcode: 77694
+latitude: 48.574982000000006
+longitude: 7.807657000000001
+postcode: "77694"
 city: Kehl
 street: "Hauptstraße"
 housenumber: 10
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 7851 5871"
+opening_hours: "Mo-Fr 08:30-12:30, 14:00-18:00; Sa 08:30-13:00"
+website: "https://www.stinus-orthopaedie.de/sanitaetshaus-kehl.html"

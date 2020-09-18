@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.7453737
 longitude: 9.211378700000001
-postcode: 70619
+postcode: "70619"
 city: Stuttgart
 street: ""
 housenumber: 

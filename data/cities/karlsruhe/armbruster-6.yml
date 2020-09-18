@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.030308500000004
 longitude: 8.3862354
-postcode: 76149
+postcode: "76149"
 city: Karlsruhe
 street: "New-York-Straße"
 housenumber: 1

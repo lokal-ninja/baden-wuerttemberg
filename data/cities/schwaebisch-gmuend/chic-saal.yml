@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.797608600000004
 longitude: 9.7974461
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Klösterlestraße"
 housenumber: 5

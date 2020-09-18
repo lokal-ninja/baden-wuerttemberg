@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.7028169
 longitude: 7.9752584
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Im Großfeld"
 housenumber: 2

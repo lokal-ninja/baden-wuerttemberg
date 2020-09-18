@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.005716
 longitude: 8.4030623
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Ettlinger-Tor-Platz"
 housenumber: 1

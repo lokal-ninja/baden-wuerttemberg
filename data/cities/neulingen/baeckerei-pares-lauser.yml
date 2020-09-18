@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.956074
 longitude: 8.7077729
-postcode: 75245
+postcode: "75245"
 city: Neulingen
 street: "Hauptstraße"
 housenumber: 4

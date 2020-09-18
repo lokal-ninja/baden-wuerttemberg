@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.0302346
 longitude: 7.841970900000001
-postcode: 79108
+postcode: "79108"
 city: Freiburg im Breisgau
 street: "Tullastraße"
 housenumber: 82a

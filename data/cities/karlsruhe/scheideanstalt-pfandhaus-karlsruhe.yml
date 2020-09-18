@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 49.0081974
 longitude: 8.3950998
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Karlstraße"
 housenumber: 25

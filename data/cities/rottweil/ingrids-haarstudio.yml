@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1671369
 longitude: 8.626258100000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Suppengasse"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.771761600000005
 longitude: 9.168103200000001
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Silberburgstraße"
 housenumber: 166

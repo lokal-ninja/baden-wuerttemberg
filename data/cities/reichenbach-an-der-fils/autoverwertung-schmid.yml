@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.7026416
 longitude: 9.4512833
-postcode: 73262
+postcode: "73262"
 city: Reichenbach an der Fils
 street: "Heinrich-Otto-Straße"
 housenumber: 90

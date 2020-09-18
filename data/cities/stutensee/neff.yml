@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.079982300000005
 longitude: 8.4625392
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Am Hasenbiel"
 housenumber: 2b

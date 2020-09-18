@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2410742
 longitude: 9.4031923
-postcode: 74239
+postcode: "74239"
 city: Hardthausen am Kocher
 street: "Öhringer Straße"
 housenumber: 4

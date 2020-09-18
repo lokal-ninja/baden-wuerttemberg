@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 48.7287079
 longitude: 8.354290800000001
-postcode: 76599
+postcode: "76599"
 city: Weisenbach
 street: "Hauptstraße"
 housenumber: 11

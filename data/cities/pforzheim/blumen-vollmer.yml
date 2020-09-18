@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.9020457
 longitude: 8.691255400000001
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Sommerweg"
 housenumber: 21

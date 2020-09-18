@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.083932000000004
 longitude: 9.4608629
-postcode: 71543
+postcode: "71543"
 city: Wüstenrot
 street: "Löwensteiner Straße"
 housenumber: 19

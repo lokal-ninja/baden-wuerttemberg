@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7939401
 longitude: 9.1826995
-postcode: 70191
+postcode: "70191"
 city: Stuttgart
 street: "Friedhofstraße"
 housenumber: 57

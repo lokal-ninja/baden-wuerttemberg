@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.002405100000004
 longitude: 8.3560069
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
 street: "Zeppelinstraße"
 housenumber: 15

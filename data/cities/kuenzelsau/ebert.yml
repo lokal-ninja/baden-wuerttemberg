@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.2802316
 longitude: 9.689603100000001
-postcode: 74653
+postcode: "74653"
 city: Künzelsau
 street: "Kirchgasse"
 housenumber: 3

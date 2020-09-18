@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.5594672
 longitude: 7.786898000000001
-postcode: 79618
+postcode: "79618"
 city: Rheinfelden (Baden)
 street: "Zähringerstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.933749500000005
 longitude: 8.4982796
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Bregstraße"
 housenumber: 32

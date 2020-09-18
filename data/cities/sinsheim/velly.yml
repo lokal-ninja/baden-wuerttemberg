@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2513652
 longitude: 8.8755527
-postcode: 74889
+postcode: "74889"
 city: Sinsheim
 street: "Bahnhofstraße"
 housenumber: 30

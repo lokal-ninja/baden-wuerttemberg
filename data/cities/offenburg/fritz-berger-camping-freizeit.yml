@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 48.4806028
 longitude: 7.928411100000001
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Im Drachenacker"
 housenumber: 4

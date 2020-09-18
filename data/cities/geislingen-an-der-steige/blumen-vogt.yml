@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.6259126
 longitude: 9.8441164
-postcode: 73312
+postcode: "73312"
 city: Geislingen an der Steige
 street: "Sedanstraße"
 housenumber: 47

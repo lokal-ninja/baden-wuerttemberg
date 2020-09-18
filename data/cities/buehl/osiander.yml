@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.696376300000004
 longitude: 8.136794100000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Hauptstraße"
 housenumber: 62

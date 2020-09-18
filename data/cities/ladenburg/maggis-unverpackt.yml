@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.4725071
 longitude: 8.6117635
-postcode: 68526
+postcode: "68526"
 city: Ladenburg
 street: "Hauptstraße"
 housenumber: 48

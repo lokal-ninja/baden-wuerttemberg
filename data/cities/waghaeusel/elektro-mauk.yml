@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.226837100000004
 longitude: 8.5180729
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Mannheimer Straße"
 housenumber: 36

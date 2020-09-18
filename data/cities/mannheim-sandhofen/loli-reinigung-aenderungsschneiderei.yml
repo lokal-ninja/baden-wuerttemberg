@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.5481862
 longitude: 8.455932800000001
-postcode: 68307
+postcode: "68307"
 city: Mannheim-Sandhofen
 street: "Amselstraße"
 housenumber: 10

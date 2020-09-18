@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.475916500000004
 longitude: 7.930086900000001
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Heinrich-Hertz-Straße"
 housenumber: 18a

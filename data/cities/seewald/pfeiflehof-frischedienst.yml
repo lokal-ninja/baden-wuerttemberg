@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.579517700000004
 longitude: 8.4693591
-postcode: 72297
+postcode: "72297"
 city: Seewald
 street: "Altensteiger Straße"
 housenumber: 33

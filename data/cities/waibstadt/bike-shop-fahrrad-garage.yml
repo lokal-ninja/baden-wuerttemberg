@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.2946978
 longitude: 8.917464
-postcode: 74915
+postcode: "74915"
 city: Waibstadt
 street: "Alte Sinsheimer Straße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9978034
 longitude: 7.7952586
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Geschwister-Scholl-Platz"
 housenumber: 5

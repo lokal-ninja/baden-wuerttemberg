@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.780906900000005
 longitude: 9.6150993
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Marktstraße"
 housenumber: 12

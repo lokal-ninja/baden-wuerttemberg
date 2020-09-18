@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.679506700000005
 longitude: 9.4791063
-postcode: 88048
+postcode: "88048"
 city: Friedrichshafen
 street: "Siemensstraße"
 housenumber: 3

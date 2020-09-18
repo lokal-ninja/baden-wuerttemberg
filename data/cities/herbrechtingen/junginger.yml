@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.629061300000004
 longitude: 10.1895562
-postcode: 89542
+postcode: "89542"
 city: Herbrechtingen
 street: "Carl-Benz-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8271029
 longitude: 9.650638800000001
-postcode: 88255
+postcode: "88255"
 city: Baienfurt
 street: "Marktplatz"
 housenumber: 6

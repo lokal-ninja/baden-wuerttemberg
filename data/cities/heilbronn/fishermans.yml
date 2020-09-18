@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 49.1426754
 longitude: 9.1622993
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Hahnstraße"
 housenumber: 8

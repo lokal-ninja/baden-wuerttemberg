@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.4562752
 longitude: 9.342521600000001
-postcode: 72813
+postcode: "72813"
 city: St. Johann
 street: "Untere Brühlstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.8706745
 longitude: 9.3537131
-postcode: 71409
+postcode: "71409"
 city: Schwaikheim
 street: "Fritz-Ebert-Straße"
 housenumber: 9

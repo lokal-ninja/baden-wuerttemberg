@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.480132600000005
 longitude: 7.9269144
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "In der Jeuch"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.960084
 longitude: 9.1272277
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Schieringerstraße"
 housenumber: 16

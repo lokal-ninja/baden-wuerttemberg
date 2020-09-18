@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.8147602
 longitude: 9.5768503
-postcode: 73660
+postcode: "73660"
 city: Urbach
 street: "Gartenstraße"
 housenumber: 35

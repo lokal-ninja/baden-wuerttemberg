@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.4909436
 longitude: 8.468374
-postcode: 68159
+postcode: "68159"
 city: Mannheim
 street: ""
 housenumber: 18

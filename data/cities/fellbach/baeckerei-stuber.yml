@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.812118000000005
 longitude: 9.2771457
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Mozartstraße"
 housenumber: 1

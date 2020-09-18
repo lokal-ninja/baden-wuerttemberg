@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.935248200000004
 longitude: 8.273899100000001
-postcode: 76448
+postcode: "76448"
 city: Durmersheim
 street: "Durlacher Straße"
 housenumber: 4

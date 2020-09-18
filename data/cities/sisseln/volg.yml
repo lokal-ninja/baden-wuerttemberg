@@ -1,12 +1,12 @@
 id: 2861905086
 type: node
 shop: Supermarkt
-latitude: 47.5527789
-longitude: 7.987381600000001
-postcode: 4334
+latitude: 47.552754500000006
+longitude: 7.987428500000001
+postcode: "4334"
 city: Sisseln
 street: "Hauptstrasse"
 housenumber: 17
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 06:00-12:15,13:30-19:00, Sa 07:00-13:00; PH off"
+website: "https://www.volg.ch/"

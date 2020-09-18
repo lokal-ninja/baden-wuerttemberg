@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.814127000000006
 longitude: 9.1166535
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Pforzheimer Straße"
 housenumber: 338-342

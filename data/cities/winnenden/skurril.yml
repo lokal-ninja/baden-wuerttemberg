@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 48.874717000000004
 longitude: 9.4004893
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Wallstraße"
 housenumber: 30

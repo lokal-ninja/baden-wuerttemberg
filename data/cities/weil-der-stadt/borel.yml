@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.767146200000006
 longitude: 8.8515548
-postcode: 71263
+postcode: "71263"
 city: Weil der Stadt
 street: "Katharinenstraße"
 housenumber: 24

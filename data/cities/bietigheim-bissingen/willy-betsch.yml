@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.9472481
 longitude: 9.1026301
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Bahnhofstraße"
 housenumber: 13/2

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.911632600000004
 longitude: 9.8917283
-postcode: 88410
+postcode: "88410"
 city: Bad Wurzach
 street: "Oberriedstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.2421136
 longitude: 8.5376376
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Bruchsaler Straße"
 housenumber: 18

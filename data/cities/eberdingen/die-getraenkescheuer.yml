@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.8877181
 longitude: 8.9989592
-postcode: 71735
+postcode: "71735"
 city: Eberdingen
 street: "Rieter Straße"
 housenumber: 27

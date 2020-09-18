@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8870883
 longitude: 8.352991900000001
-postcode: 79843
+postcode: "79843"
 city: Löffingen
 street: "Studerstraße"
 housenumber: 2

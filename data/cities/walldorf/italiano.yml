@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2945914
 longitude: 8.6491903
-postcode: 69190
+postcode: "69190"
 city: Walldorf
 street: "Altrottstraße"
 housenumber: 33

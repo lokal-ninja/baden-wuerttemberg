@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.12539030000001
 longitude: 9.2382893
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "In den Stahlbühlwiesen"
 housenumber: 30

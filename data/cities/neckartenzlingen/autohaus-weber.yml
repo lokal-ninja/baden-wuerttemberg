@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.5847494
 longitude: 9.228233600000001
-postcode: 72654
+postcode: "72654"
 city: Neckartenzlingen
 street: "Robert-Bosch-Straße"
 housenumber: 1

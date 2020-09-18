@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.244611600000006
 longitude: 9.0233447
-postcode: 72461
+postcode: "72461"
 city: Albstadt
 street: "Im Wiesengrund"
 housenumber: 22

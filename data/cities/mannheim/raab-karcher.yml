@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.4918345
 longitude: 8.4466891
-postcode: 68159
+postcode: "68159"
 city: Mannheim
 street: "Rheinkaistraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.859804000000004
 longitude: 8.2007293
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Kaiserstraße"
 housenumber: 50

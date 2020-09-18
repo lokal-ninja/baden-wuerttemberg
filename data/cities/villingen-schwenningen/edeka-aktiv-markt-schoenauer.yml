@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.046382900000005
 longitude: 8.4639398
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: "Niederwiesenstraße"
 housenumber: 27

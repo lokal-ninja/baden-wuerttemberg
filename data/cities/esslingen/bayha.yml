@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.722414
 longitude: 9.349718600000001
-postcode: 73730
+postcode: "73730"
 city: Esslingen
 street: "Fritz-Müller-Straße"
 housenumber: 

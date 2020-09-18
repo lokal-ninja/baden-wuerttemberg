@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.9040784
 longitude: 8.5763911
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: "Winzerstraße"
 housenumber: 9

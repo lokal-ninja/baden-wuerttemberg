@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.5566109
 longitude: 7.946510900000001
-postcode: 79713
+postcode: "79713"
 city: Bad Säckingen
 street: "Bergseestraße"
 housenumber: 17

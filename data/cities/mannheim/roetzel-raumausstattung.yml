@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.4954916
 longitude: 8.477998600000001
-postcode: 68167
+postcode: "68167"
 city: Mannheim
 street: "Käfertaler Straße"
 housenumber: 27

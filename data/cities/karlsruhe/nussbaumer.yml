@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9745171
 longitude: 8.4537346
-postcode: 76228
+postcode: "76228"
 city: Karlsruhe
 street: "Steinkreuzstraße"
 housenumber: 38

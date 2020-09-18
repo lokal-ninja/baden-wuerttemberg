@@ -1,12 +1,12 @@
-id: 668771322
+id: 321426895
 type: node
 shop: Supermarkt
-latitude: 49.0114481
-longitude: 8.359712100000001
-postcode: 76185
+latitude: 49.001395800000004
+longitude: 8.4073717
+postcode: "76137"
 city: Karlsruhe
-street: "Rheinstraße"
-housenumber: 36
-phone: "+49 721 9553382"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.nahkauf.de/maerkte/karlsruhe-muehlburg-45611547-nahkauf-thomas-auerswald-e-k-rheinstr-36"
+street: "Werderstraße"
+housenumber: 46-48
+phone: ""
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
+website: ""

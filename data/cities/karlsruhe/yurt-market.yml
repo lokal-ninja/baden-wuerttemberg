@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0013583
 longitude: 8.4058012
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Wilhelmstraße"
 housenumber: 35

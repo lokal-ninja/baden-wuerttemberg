@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5721762
 longitude: 9.678178800000001
-postcode: 73342
+postcode: "73342"
 city: Bad Ditzenbach
 street: "Drackensteiner Straße"
 housenumber: 125

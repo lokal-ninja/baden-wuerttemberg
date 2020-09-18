@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.800321700000005
 longitude: 8.3134566
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Konrad-Adenauer-Straße"
 housenumber: 38

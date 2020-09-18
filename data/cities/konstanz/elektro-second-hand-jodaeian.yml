@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.6713535
 longitude: 9.175575400000001
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Markgrafenstraße"
 housenumber: 17

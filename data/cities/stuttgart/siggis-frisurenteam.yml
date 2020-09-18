@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.809748500000005
 longitude: 9.2530318
-postcode: 70374
+postcode: "70374"
 city: Stuttgart
 street: "Beskidenstraße"
 housenumber: 3

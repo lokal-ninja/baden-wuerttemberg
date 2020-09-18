@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.0038076
 longitude: 8.495242600000001
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Neßlerstraße"
 housenumber: 25

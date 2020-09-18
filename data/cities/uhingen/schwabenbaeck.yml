@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7074143
 longitude: 9.5898324
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Ulmer Straße"
 housenumber: 39

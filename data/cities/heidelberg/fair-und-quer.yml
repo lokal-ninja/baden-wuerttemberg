@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.424932600000005
 longitude: 8.644366400000001
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Adlerstraße"
 housenumber: 1

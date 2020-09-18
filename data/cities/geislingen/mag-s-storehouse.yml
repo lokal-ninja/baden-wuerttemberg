@@ -3,10 +3,10 @@ type: way
 shop: Kleidung
 latitude: 48.287697400000006
 longitude: 8.816835900000001
-postcode: 72351
+postcode: "72351"
 city: Geislingen
 street: "Vorstadtstraße"
 housenumber: 42
 phone: "+49 7433 20870"
-opening_hours: ""
+opening_hours: "Mo 14:00-18:00; Tu-Fr 10:00-12:00,14:00-18:00; Sa 10:00-13:00"
 website: "https://www.mags-storehouse.de"

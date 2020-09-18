@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.6839554
 longitude: 9.0053531
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Herrenberger Straße"
 housenumber: 35

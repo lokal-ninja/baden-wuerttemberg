@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9602756
 longitude: 9.1301246
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Kronenbergstraße"
 housenumber: 

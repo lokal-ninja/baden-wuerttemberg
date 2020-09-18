@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0869865
 longitude: 9.215502200000001
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Fürst-Wilhelm-Straße"
 housenumber: 34

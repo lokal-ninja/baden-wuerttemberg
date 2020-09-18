@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.868102300000004
 longitude: 9.424667900000001
-postcode: 88271
+postcode: "88271"
 city: Wilhelmsdorf
 street: "Riedhauser Straße"
 housenumber: 1/1

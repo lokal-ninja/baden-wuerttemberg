@@ -1,12 +1,12 @@
 id: 6120936321
 type: node
 shop: Foto
-latitude: 49.4846348
-longitude: 8.4427436
-postcode: 67059
+latitude: 49.4837148
+longitude: 8.4477969
+postcode: "67059"
 city: Ludwigshafen am Rhein
-street: "Rathausplatz"
-housenumber: 20
+street: "Ludwigstraße"
+housenumber: 48
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 10:00-20:00"
+opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00"
 website: ""

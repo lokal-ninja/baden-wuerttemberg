@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.858210400000004
 longitude: 8.202341
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Kaiserstraße"
 housenumber: 36

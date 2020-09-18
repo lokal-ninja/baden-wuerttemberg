@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 47.9066297
 longitude: 9.8961921
-postcode: 88410
+postcode: "88410"
 city: Bad Wurzach
 street: "Mühltorstraße"
 housenumber: 18

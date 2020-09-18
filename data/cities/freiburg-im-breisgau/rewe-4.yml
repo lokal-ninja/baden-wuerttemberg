@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.023693800000004
 longitude: 7.8092448
-postcode: 79110
+postcode: "79110"
 city: Freiburg im Breisgau
 street: "Auwaldstraße"
 housenumber: 92

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.131862600000005
 longitude: 10.081567100000001
-postcode: 88486
+postcode: "88486"
 city: Kirchberg an der Iller
 street: "Hauptstraße"
 housenumber: 11

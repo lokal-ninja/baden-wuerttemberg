@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.112774
 longitude: 9.1293123
-postcode: 74226
+postcode: "74226"
 city: Nordheim
 street: "Nordstraße"
 housenumber: 18

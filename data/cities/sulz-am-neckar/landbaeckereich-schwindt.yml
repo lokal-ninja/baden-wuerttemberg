@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.365675200000005
 longitude: 8.6535069
-postcode: 72172
+postcode: "72172"
 city: Sulz am Neckar
 street: "Holzhauser Hauptstraße"
 housenumber: 33

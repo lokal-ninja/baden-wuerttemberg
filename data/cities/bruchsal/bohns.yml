@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.1252426
 longitude: 8.5955559
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Hoheneggerstraße"
 housenumber: 11

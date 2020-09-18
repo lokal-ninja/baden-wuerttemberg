@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.124832500000004
 longitude: 8.3323558
-postcode: 78112
+postcode: "78112"
 city: St. Georgen im Schwarzwald
 street: "Schulstraße"
 housenumber: 6

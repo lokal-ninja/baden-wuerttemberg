@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.759919700000005
 longitude: 8.7825403
-postcode: 78247
+postcode: "78247"
 city: Hilzingen
 street: "Brühlstraße"
 housenumber: 5

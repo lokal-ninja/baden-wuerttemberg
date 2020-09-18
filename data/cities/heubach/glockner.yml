@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.797722300000004
 longitude: 9.9211404
-postcode: 73540
+postcode: "73540"
 city: Heubach
 street: "Raiffeisenstraße"
 housenumber: 17

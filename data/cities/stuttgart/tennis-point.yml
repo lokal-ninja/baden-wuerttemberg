@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.768622300000004
 longitude: 9.1457663
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Rotenwaldstraße"
 housenumber: 132

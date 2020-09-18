@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.6242132
 longitude: 7.857297300000001
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Badener Straße"
 housenumber: 16

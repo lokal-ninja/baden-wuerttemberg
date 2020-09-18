@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7157768
 longitude: 9.431865700000001
-postcode: 
+postcode: ""
 city: Plochingen
 street: "Teckplatz"
 housenumber: 10

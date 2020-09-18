@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.484187500000004
 longitude: 8.478827200000001
-postcode: 68165
+postcode: "68165"
 city: Mannheim
 street: "Elisabethstraße"
 housenumber: 5

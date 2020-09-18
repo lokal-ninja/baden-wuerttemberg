@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.808068500000005
 longitude: 9.510565600000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Steinbeisstraße"
 housenumber: 35

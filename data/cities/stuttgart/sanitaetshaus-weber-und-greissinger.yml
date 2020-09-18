@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.7774002
 longitude: 9.1650586
-postcode: 70176
+postcode: "70176"
 city: Stuttgart
 street: "Schloßstraße"
 housenumber: 68

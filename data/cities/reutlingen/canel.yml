@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.4935406
 longitude: 9.1994485
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Lohmühlestraße"
 housenumber: 4

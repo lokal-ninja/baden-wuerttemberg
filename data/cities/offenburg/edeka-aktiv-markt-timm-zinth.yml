@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4805822
 longitude: 7.9577252000000005
-postcode: 77654
+postcode: "77654"
 city: Offenburg
 street: "Bertha-von-Suttner-Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.240610100000005
 longitude: 9.1652772
-postcode: 74254
+postcode: "74254"
 city: Offenau
 street: "Talweg"
 housenumber: 10

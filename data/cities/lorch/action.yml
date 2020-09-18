@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 48.796729500000005
 longitude: 9.7031083
-postcode: 73547
+postcode: "73547"
 city: Lorch
 street: "Hohenstaufenstraße"
 housenumber: 37

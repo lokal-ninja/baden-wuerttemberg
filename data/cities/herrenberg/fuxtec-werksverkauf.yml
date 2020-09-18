@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.576388300000005
 longitude: 8.8873706
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Kappstraße"
 housenumber: 69

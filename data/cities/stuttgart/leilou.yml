@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.7897228
 longitude: 9.169902800000001
-postcode: 70192
+postcode: "70192"
 city: Stuttgart
 street: "Parlerstraße"
 housenumber: 1

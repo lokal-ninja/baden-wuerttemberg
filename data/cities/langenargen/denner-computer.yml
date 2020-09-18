@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 47.6032828
 longitude: 9.5515276
-postcode: 88085
+postcode: "88085"
 city: Langenargen
 street: "Bildstock"
 housenumber: 30

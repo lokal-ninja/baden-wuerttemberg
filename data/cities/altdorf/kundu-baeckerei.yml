@@ -1,12 +1,12 @@
 id: 4440501091
 type: node
 shop: Bäckerei
-latitude: 48.6333597
-longitude: 8.9984406
-postcode: 71155
+latitude: 48.6333287
+longitude: 8.9983655
+postcode: "71155"
 city: Altdorf
 street: "Alemannenstraße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-21:00"
 website: ""

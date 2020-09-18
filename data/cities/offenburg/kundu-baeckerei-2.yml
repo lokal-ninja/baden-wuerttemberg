@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.466289800000006
 longitude: 7.9511029
-postcode: 77654
+postcode: "77654"
 city: Offenburg
 street: "Ortenberger Straße"
 housenumber: 26-28

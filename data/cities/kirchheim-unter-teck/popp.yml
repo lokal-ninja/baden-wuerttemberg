@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.6376823
 longitude: 9.4669536
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Gaußstraße"
 housenumber: 16

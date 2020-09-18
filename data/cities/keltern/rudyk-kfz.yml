@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.8934353
 longitude: 8.606146200000001
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: "Östliche Friedrichstraße"
 housenumber: 40-42

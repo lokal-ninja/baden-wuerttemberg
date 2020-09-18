@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7232928
 longitude: 9.3798051
-postcode: 73776
+postcode: "73776"
 city: Altbach
 street: "Bachstraße"
 housenumber: 29

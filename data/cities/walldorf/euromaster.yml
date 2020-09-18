@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.2918181
 longitude: 8.6412469
-postcode: 69190
+postcode: "69190"
 city: Walldorf
 street: "Dietmar-Hopp-Allee"
 housenumber: 28

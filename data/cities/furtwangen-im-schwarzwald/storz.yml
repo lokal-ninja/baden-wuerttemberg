@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0475568
 longitude: 8.251991700000001
-postcode: 78120
+postcode: "78120"
 city: Furtwangen im Schwarzwald
 street: "Zum Gaisberg"
 housenumber: 4

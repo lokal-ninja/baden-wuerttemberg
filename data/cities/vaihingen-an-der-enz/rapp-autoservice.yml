@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.9282717
 longitude: 8.967016300000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Hans-Krieg-Straße"
 housenumber: 43

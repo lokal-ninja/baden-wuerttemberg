@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.8594876
 longitude: 8.0369077
-postcode: 79868
+postcode: "79868"
 city: Feldberg
 street: "Dr.-Pilet-Spur"
 housenumber: 1

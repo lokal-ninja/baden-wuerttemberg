@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4741367
 longitude: 8.1579064
-postcode: 77728
+postcode: "77728"
 city: Oppenau
 street: "Straßburger Straße"
 housenumber: 72

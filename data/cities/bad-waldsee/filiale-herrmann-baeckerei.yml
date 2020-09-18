@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9252928
 longitude: 9.748870700000001
-postcode: 
+postcode: ""
 city: Bad Waldsee
 street: "Steinenberger Straße"
 housenumber: 3

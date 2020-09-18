@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.2480817
 longitude: 8.5085919
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Weinbrennerstraße"
 housenumber: 9

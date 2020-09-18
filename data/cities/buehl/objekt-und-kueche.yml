@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.6974439
 longitude: 8.136581600000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Franz-Conrad-Straße"
 housenumber: 24

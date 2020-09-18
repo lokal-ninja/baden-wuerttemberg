@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.012421700000004
 longitude: 7.845521700000001
-postcode: 79106
+postcode: "79106"
 city: Freiburg im Breisgau
 street: "Freiladestraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.874861900000006
 longitude: 9.633844900000001
-postcode: 88284
+postcode: "88284"
 city: Wolpertswende
 street: "Hauptstraße"
 housenumber: 14

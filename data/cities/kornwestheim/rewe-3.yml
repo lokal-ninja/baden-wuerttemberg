@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.8595673
 longitude: 9.177990600000001
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Salamanderplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1515992
 longitude: 9.287655
-postcode: 74189
+postcode: "74189"
 city: Weinsberg
 street: "Hauptstraße"
 housenumber: 23

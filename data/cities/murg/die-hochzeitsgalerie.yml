@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.558810400000006
 longitude: 7.9988315000000005
-postcode: 79730
+postcode: "79730"
 city: Murg
 street: "Rheinsberg"
 housenumber: 2

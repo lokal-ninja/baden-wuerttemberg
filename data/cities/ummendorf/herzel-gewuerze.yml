@@ -3,7 +3,7 @@ type: node
 shop: Gewürze
 latitude: 48.0693495
 longitude: 9.8235078
-postcode: 88444
+postcode: "88444"
 city: Ummendorf
 street: "Noherrstraße"
 housenumber: 31

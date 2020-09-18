@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.148693800000004
 longitude: 9.1983911
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "August-Häußer-Straße"
 housenumber: 7

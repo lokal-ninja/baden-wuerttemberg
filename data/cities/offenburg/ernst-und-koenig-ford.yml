@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.446267600000006
 longitude: 7.9370526
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Werner-von-Siemens-Straße"
 housenumber: 2

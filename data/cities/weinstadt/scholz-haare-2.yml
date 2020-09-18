@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.814111000000004
 longitude: 9.3531835
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Heerbergstraße"
 housenumber: 6

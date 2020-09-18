@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9194395
 longitude: 9.3237515
-postcode: 71563
+postcode: "71563"
 city: Affalterbach
 street: "Siemensstraße"
 housenumber: 2

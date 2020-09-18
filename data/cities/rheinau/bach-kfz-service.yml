@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.6476495
 longitude: 7.885100700000001
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Zainweg"
 housenumber: 4

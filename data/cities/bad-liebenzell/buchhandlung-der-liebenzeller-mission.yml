@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.772671200000005
 longitude: 8.7298199
-postcode: 75378
+postcode: "75378"
 city: Bad Liebenzell
 street: "Liobastraße"
 housenumber: 8

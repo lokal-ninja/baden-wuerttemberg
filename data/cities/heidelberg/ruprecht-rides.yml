@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4076481
 longitude: 8.6478053
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Hans-Bunte-Straße"
 housenumber: 6

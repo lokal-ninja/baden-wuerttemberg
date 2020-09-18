@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.003608400000005
 longitude: 8.8579877
-postcode: 75433
+postcode: "75433"
 city: Maulbronn
 street: "Mühlackerstraße"
 housenumber: 18

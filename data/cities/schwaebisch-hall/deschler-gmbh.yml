@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1189947
 longitude: 9.7487703
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Crailsheimer Straße"
 housenumber: 65

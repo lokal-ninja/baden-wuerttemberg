@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.4699163
 longitude: 7.9307765
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Heinrich-Hertz-Straße"
 housenumber: 5

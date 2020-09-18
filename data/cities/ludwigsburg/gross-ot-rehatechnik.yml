@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.9037577
 longitude: 9.166789900000001
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Teinacher Straße"
 housenumber: 56

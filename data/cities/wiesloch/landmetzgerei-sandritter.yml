@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.2949044
 longitude: 8.758080600000001
-postcode: 69168
+postcode: "69168"
 city: Wiesloch
 street: ""
 housenumber: 1

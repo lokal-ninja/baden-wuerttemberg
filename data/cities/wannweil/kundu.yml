@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5113245
 longitude: 9.1583922
-postcode: 72827
+postcode: "72827"
 city: Wannweil
 street: "Alte Spinnerei"
 housenumber: 2

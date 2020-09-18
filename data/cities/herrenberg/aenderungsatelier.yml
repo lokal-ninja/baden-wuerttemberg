@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5960885
 longitude: 8.8697166
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Bronngasse"
 housenumber: 4

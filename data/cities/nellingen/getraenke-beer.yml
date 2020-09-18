@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.5447183
 longitude: 9.7905268
-postcode: 89191
+postcode: "89191"
 city: Nellingen
 street: "Römerstraße"
 housenumber: 20

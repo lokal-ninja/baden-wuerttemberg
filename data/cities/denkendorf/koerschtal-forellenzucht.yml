@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 48.694400900000005
 longitude: 9.333156800000001
-postcode: 73770
+postcode: "73770"
 city: Denkendorf
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.877830200000005
 longitude: 9.705276000000001
-postcode: 88339
+postcode: "88339"
 city: Bad Waldsee
 street: "Egelseestraße"
 housenumber: 23

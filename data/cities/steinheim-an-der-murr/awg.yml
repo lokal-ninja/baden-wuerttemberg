@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.969923
 longitude: 9.2663252
-postcode: 71711
+postcode: "71711"
 city: Steinheim an der Murr
 street: "Steinbeisstraße"
 housenumber: 15

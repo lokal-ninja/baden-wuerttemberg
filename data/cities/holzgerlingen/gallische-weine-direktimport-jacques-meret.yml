@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.6390703
 longitude: 9.012244
-postcode: 71088
+postcode: "71088"
 city: Holzgerlingen
 street: "Klemmertstraße"
 housenumber: 8

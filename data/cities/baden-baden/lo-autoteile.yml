@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.812032
 longitude: 8.2127792
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Bahnhofstraße"
 housenumber: 54

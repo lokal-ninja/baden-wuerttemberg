@@ -3,7 +3,7 @@ type: node
 shop: Brautkleider
 latitude: 48.7262518
 longitude: 9.351797300000001
-postcode: 73730
+postcode: "73730"
 city: Esslingen am Neckar
 street: "Hauptstraße"
 housenumber: 33

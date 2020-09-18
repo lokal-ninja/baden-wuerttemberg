@@ -3,10 +3,10 @@ type: node
 shop: Getränke
 latitude: 48.4912099
 longitude: 9.0668305
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Hechinger Straße"
 housenumber: 256
-phone: ""
+phone: "+49 7071 7936697"
 opening_hours: ""
-website: ""
+website: "https://www.getraenketuebingen.de/"

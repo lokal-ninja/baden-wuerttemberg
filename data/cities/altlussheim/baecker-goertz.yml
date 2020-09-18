@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2915105
 longitude: 8.5283953
-postcode: 68804
+postcode: "68804"
 city: Altlußheim
 street: "Am Sägewerk"
 housenumber: 1

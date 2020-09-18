@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 49.4778001
 longitude: 8.6639434
-postcode: 69198
+postcode: "69198"
 city: Schriesheim
-street: "Leutershauser Straße"
+street: "Leutershäuser Straße"
 housenumber: 28
-phone: ""
-opening_hours: ""
+phone: "+49 6203 68574"
+opening_hours: "Mo-Tu, Th-Fr 09:00-12:00, 15:00-18:30; Sa 10:00-13:00"
 website: "https://www.cyclomanix.de/"

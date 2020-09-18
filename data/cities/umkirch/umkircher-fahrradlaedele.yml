@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.0403534
 longitude: 7.7648653
-postcode: 79224
+postcode: "79224"
 city: Umkirch
 street: "Waldmatten"
 housenumber: 1

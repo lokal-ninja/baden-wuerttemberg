@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.566575
 longitude: 9.3090306
-postcode: 72661
+postcode: "72661"
 city: Grafenberg
 street: "Nürtinger Straße"
 housenumber: 30

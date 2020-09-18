@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.493282
 longitude: 9.1991831
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Tübinger Straße"
 housenumber: 75

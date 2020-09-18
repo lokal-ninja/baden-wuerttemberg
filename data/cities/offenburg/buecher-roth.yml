@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.4710982
 longitude: 7.9430905
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Hauptstraße"
 housenumber: 45

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0612951
 longitude: 8.8074625
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Sternenfelser Straße"
 housenumber: 55

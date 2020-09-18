@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7269147
 longitude: 8.008525800000001
-postcode: 77839
+postcode: "77839"
 city: Lichtenau
 street: "Hauptstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.595615300000006
 longitude: 7.6476566
-postcode: 4125
+postcode: "4125"
 city: Riehen
 street: "Eglingerweg"
 housenumber: 1

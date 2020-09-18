@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.167192
 longitude: 8.623822
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Waldtorstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.745086300000004
 longitude: 8.8506651
-postcode: 78224
+postcode: "78224"
 city: Singen
 street: "Zolltafel"
 housenumber: 2

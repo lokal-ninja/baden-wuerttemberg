@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.0266692
 longitude: 8.8532088
-postcode: 75447
+postcode: "75447"
 city: Sternenfels
 street: "Sternenfelser Straße"
 housenumber: 14

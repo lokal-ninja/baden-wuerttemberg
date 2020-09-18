@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.687051600000004
 longitude: 9.0070279
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Wolfgang-Brumme-Allee"
 housenumber: 27

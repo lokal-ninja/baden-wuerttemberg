@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.404745600000005
 longitude: 9.040033000000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Siemensstraße"
 housenumber: 19

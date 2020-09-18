@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.500567100000005
 longitude: 8.468038
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Riedfeldstraße"
 housenumber: 38

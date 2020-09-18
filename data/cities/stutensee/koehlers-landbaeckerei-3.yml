@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1122371
 longitude: 8.510403100000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Spechaastraße"
 housenumber: 22

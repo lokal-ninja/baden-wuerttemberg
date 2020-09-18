@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0276086
 longitude: 8.3658169
-postcode: 76187
+postcode: "76187"
 city: Karlsruhe
 street: "Madenburgweg"
 housenumber: 16

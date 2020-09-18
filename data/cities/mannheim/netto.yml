@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5071887
 longitude: 8.493906200000001
-postcode: 68167
+postcode: "68167"
 city: Mannheim
 street: "Ulmenweg"
 housenumber: 80

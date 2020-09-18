@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.001739400000005
 longitude: 8.413269600000001
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Morgenstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.3677536
 longitude: 8.9844846
-postcode: 74869
+postcode: "74869"
 city: Schwarzach
 street: "Tonwerkstraße"
 housenumber: 4

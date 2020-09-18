@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.5311323
 longitude: 8.965191800000001
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Lange Gasse"
 housenumber: 53

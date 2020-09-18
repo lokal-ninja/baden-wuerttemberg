@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.961820200000005
 longitude: 8.303065100000001
-postcode: 76287
+postcode: "76287"
 city: Rheinstetten
 street: "Industriestraße"
 housenumber: 21a

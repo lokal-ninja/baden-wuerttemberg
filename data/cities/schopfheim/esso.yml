@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.648138900000006
 longitude: 7.814165000000001
-postcode: 79650
+postcode: "79650"
 city: Schopfheim
 street: "Gündenhausen"
 housenumber: 63

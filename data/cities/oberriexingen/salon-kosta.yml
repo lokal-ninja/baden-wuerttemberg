@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9270818
 longitude: 9.0291242
-postcode: 71739
+postcode: "71739"
 city: Oberriexingen
 street: "Sersheimer Straße"
 housenumber: 1

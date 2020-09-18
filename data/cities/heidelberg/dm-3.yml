@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4044059
 longitude: 8.6673492
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Da-Vinci-Straße"
 housenumber: 5

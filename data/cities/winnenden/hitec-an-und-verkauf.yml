@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.8791876
 longitude: 9.3932096
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Karl-Krämer-Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7790696
 longitude: 9.2070735
-postcode: 70186
+postcode: "70186"
 city: Stuttgart
 street: "Gablenberger Hauptstraße"
 housenumber: 32

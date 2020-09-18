@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.6369896
 longitude: 9.8000316
-postcode: 73329
+postcode: "73329"
 city: Kuchen
 street: "Bahnhofstraße"
 housenumber: 19

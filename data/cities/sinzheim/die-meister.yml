@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.762070200000004
 longitude: 8.1650037
-postcode: 76547
+postcode: "76547"
 city: Sinzheim
 street: "Erlenstraße"
 housenumber: 2

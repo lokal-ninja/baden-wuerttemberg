@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.654848900000005
 longitude: 9.790171800000001
-postcode: 88239
+postcode: "88239"
 city: Wangen im Allgäu
 street: ""
 housenumber: 2

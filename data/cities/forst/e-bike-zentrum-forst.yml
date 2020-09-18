@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.157119900000005
 longitude: 8.5767659
-postcode: 76694
+postcode: "76694"
 city: Forst
 street: "Werner-von-Siemens-Straße"
 housenumber: 22

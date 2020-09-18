@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.461899200000005
 longitude: 8.5993099
-postcode: 68535
+postcode: "68535"
 city: Edingen-Neckarhausen
 street: "Speyerer Straße"
 housenumber: 1

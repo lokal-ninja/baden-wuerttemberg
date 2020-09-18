@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.2416513
 longitude: 9.1645568
-postcode: 74254
+postcode: "74254"
 city: Offenau
 street: "Talweg"
 housenumber: 4

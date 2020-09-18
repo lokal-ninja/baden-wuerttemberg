@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.0605308
 longitude: 8.4597808
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: ""
 housenumber: 

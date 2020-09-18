@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.477451200000004
 longitude: 9.247614200000001
-postcode: 72800
+postcode: "72800"
 city: Eningen unter Achalm
 street: "Einsteinstraße"
 housenumber: 5

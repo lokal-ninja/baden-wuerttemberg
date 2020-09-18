@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.163179
 longitude: 8.568825
-postcode: 76694
+postcode: "76694"
 city: Forst
 street: "An der BAB 5"
 housenumber: 

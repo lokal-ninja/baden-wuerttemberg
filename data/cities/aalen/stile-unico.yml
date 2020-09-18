@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8341756
 longitude: 10.0743402
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Brahmsstraße"
 housenumber: 1

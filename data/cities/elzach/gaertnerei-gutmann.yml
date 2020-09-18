@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.1755562
 longitude: 8.076036700000001
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Friedhofstraße"
 housenumber: 8

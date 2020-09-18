@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.4443126
 longitude: 9.2879565
-postcode: 74743
+postcode: "74743"
 city: Seckach
 street: "Friedhofstraße"
 housenumber: 1

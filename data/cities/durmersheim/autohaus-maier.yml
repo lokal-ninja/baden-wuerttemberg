@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.9408672
 longitude: 8.2620764
-postcode: 76448
+postcode: "76448"
 city: Durmersheim
 street: "Zeppelinstraße"
 housenumber: 1

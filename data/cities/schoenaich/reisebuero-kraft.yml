@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.6582604
 longitude: 9.0644045
-postcode: 71101
+postcode: "71101"
 city: Schönaich
 street: "Große Gasse"
 housenumber: 66

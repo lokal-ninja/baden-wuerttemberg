@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.793481400000005
 longitude: 9.1840008
-postcode: 70191
+postcode: "70191"
 city: Stuttgart
 street: "Friedhofstraße"
 housenumber: 45

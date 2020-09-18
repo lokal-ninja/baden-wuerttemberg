@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.95763710000001
 longitude: 9.2465066
-postcode: 71711
+postcode: "71711"
 city: Murr
 street: "Im Langen Feld"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.797794
 longitude: 9.059911000000001
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Beim Brückentor"
 housenumber: 5

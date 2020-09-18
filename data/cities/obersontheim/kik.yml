@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.0535646
 longitude: 9.8905451
-postcode: 74423
+postcode: "74423"
 city: Obersontheim
 street: "Stockäcker"
 housenumber: 10

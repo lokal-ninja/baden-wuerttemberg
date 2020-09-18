@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 47.6822286
 longitude: 9.6371714
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Siggenweiler Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5291858
 longitude: 9.061195000000001
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Mohlstraße"
 housenumber: 26

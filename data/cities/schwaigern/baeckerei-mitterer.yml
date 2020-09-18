@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.137944600000004
 longitude: 9.064926400000001
-postcode: 74193
+postcode: "74193"
 city: Schwaigern
 street: "Heilbronner Straße"
 housenumber: 30

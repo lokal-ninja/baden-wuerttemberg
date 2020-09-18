@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8055718
 longitude: 8.2224993
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Eberbachstraße"
 housenumber: 2

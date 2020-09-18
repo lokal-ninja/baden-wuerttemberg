@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.9368847
 longitude: 8.6255282
-postcode: 75236
+postcode: "75236"
 city: Kämpfelbach
 street: "Bohninger Weg"
 housenumber: 

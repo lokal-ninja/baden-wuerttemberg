@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.1127869
 longitude: 8.616379100000001
-postcode: 78652
+postcode: "78652"
 city: Deißlingen
 street: "Bahnhofstraße"
 housenumber: 93

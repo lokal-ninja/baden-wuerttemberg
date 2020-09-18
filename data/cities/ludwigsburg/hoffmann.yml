@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.8958658
 longitude: 9.1904682
-postcode: 71638
+postcode: "71638"
 city: Ludwigsburg
 street: "Seestraße"
 housenumber: 1

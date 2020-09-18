@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3700594
 longitude: 8.586716800000001
-postcode: 68723
+postcode: "68723"
 city: Oftersheim
 street: "Heidelberger Straße"
 housenumber: 25

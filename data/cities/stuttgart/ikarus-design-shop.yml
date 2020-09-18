@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.781265600000005
 longitude: 9.1792611
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Thouretstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0094349
 longitude: 8.4280016
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Veilchenstraße"
 housenumber: 15

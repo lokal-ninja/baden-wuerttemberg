@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.6993744
 longitude: 9.6785139
-postcode: 73037
+postcode: "73037"
 city: Göppingen
 street: "Ulmer Straße"
 housenumber: 95

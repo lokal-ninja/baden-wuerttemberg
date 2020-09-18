@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.676321800000004
 longitude: 9.1557847
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Reisstraße"
 housenumber: 5

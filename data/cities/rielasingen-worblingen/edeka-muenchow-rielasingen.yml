@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.731226400000004
 longitude: 8.8470201
-postcode: 78239
+postcode: "78239"
 city: Rielasingen-Worblingen
 street: "Zeppelinstraße"
 housenumber: 4

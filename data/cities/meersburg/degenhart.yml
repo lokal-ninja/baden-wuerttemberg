@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 47.6949053
 longitude: 9.271366800000001
-postcode: 88709
+postcode: "88709"
 city: Meersburg
 street: "Winzergasse"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 48.7738638
 longitude: 9.1790926
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Eberhardstraße"
 housenumber: 31

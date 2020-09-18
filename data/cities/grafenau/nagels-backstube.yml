@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.717649900000005
 longitude: 8.885343200000001
-postcode: 71120
+postcode: "71120"
 city: Grafenau
 street: "Döffinger Straße"
 housenumber: 110

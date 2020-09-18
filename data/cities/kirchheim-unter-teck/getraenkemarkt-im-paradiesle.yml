@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.6523314
 longitude: 9.449094200000001
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Paradiesstraße"
 housenumber: 37-39

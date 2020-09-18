@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.574933300000005
 longitude: 9.2654754
-postcode: 72658
+postcode: "72658"
 city: Bempflingen
 street: "Brühlstraße"
 housenumber: 13

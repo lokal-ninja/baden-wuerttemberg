@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.121721300000004
 longitude: 8.5803246
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Schnabel-Henning-Straße"
 housenumber: 30 a

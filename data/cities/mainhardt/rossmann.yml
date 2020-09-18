@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.0761155
 longitude: 9.566209200000001
-postcode: 74535
+postcode: "74535"
 city: Mainhardt
 street: "Im Seetal"
 housenumber: 15

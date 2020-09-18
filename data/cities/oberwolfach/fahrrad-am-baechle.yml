@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.310335800000004
 longitude: 8.218905000000001
-postcode: 77709
+postcode: "77709"
 city: Oberwolfach
 street: "Allmendstraße"
 housenumber: 11

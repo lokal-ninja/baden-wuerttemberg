@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.782405000000004
 longitude: 9.179684
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Kronenstraße"
 housenumber: 4

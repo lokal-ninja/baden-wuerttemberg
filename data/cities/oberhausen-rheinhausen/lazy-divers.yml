@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 49.274621100000005
 longitude: 8.4735226
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Hauptstraße"
 housenumber: 115

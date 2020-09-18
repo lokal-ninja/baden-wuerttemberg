@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0913899
 longitude: 8.557676
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Bruchsaler Straße"
 housenumber: 99

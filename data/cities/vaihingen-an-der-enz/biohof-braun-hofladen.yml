@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 48.9162575
 longitude: 8.9352231
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Hohbergstraße"
 housenumber: 14

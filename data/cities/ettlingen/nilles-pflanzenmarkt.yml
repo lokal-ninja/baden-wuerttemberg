@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.9546963
 longitude: 8.389917500000001
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Bulacher Straße"
 housenumber: 32

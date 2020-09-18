@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.696783
 longitude: 9.6616202
-postcode: 73037
+postcode: "73037"
 city: Göppingen
 street: "Jahnstraße"
 housenumber: 106

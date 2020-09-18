@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.6774861
 longitude: 9.185259100000001
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Friedrichstraße"
 housenumber: 28

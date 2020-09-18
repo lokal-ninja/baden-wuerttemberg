@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9817948
 longitude: 8.81715
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Möhringer Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.0605965
 longitude: 8.5236552
-postcode: 76356
+postcode: "76356"
 city: Weingarten (Baden)
 street: "Neue Bahnhofstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5438537
 longitude: 8.6382542
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Kurt-Schumacher-Straße"
 housenumber: 1

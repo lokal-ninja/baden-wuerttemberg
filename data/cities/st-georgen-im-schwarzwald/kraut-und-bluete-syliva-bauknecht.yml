@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.12683010000001
 longitude: 8.332675
-postcode: 78112
+postcode: "78112"
 city: St. Georgen im Schwarzwald
 street: "Bärenplatz"
 housenumber: 13

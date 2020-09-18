@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 48.7962032
 longitude: 9.797861900000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Waldstetter Gasse"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4555759
 longitude: 9.096955900000001
-postcode: 72810
+postcode: "72810"
 city: Gomaringen
 street: "Bahnhofstraße"
 housenumber: 19

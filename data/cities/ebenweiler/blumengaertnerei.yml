@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.898039700000005
 longitude: 9.5150991
-postcode: 88370
+postcode: "88370"
 city: Ebenweiler
 street: "Kornstraße"
 housenumber: 6

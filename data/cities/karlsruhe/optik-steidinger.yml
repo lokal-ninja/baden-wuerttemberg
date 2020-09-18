@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.0351645
 longitude: 8.4444727
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Neisser Straße"
 housenumber: 12

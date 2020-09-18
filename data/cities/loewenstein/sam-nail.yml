@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.0961438
 longitude: 9.3793029
-postcode: 74245
+postcode: "74245"
 city: Löwenstein
 street: "Stutz"
 housenumber: 1

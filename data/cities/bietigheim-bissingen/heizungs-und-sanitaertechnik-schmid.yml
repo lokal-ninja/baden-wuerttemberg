@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.9395479
 longitude: 9.1247845
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Marbacher Weg"
 housenumber: 76

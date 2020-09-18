@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 48.4628643
 longitude: 7.813065300000001
-postcode: 77743
+postcode: "77743"
 city: Neuried
 street: "Kehler Straße"
 housenumber: 85

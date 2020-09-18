@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.7650395
 longitude: 9.1713296
-postcode: 70180
+postcode: "70180"
 city: Stuttgart
 street: "Heusteigstraße"
 housenumber: 106

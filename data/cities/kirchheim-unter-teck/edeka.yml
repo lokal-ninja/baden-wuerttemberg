@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.648948000000004
 longitude: 9.445391200000001
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Stuttgarter Straße"
 housenumber: 1

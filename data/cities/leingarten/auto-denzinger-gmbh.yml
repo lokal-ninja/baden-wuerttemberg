@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.1483378
 longitude: 9.1344499
-postcode: 74211
+postcode: "74211"
 city: Leingarten
 street: "Liebigstraße"
 housenumber: 34

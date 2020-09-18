@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9018287
 longitude: 9.1016641
-postcode: 71706
+postcode: "71706"
 city: Markgröningen
 street: "Raiffeisenstraße"
 housenumber: 13

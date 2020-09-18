@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.140225300000004
 longitude: 8.7709465
-postcode: 76703
+postcode: "76703"
 city: Kraichtal
 street: "Untere Schloßstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.7743601
 longitude: 9.1821423
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Esslinger Straße"
 housenumber: 20

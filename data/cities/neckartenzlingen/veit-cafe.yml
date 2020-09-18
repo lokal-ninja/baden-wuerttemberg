@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5868028
 longitude: 9.2287773
-postcode: 72654
+postcode: "72654"
 city: Neckartenzlingen
 street: "Karlstraße"
 housenumber: 14

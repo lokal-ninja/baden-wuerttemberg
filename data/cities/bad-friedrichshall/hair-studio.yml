@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2345507
 longitude: 9.1953776
-postcode: 74177
+postcode: "74177"
 city: Bad Friedrichshall
 street: "Bohnertstraße"
 housenumber: 1

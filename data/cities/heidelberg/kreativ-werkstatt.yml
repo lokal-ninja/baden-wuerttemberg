@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.4279632
 longitude: 8.6486836
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Falkengasse"
 housenumber: 19

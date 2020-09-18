@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.718646400000004
 longitude: 9.3805428
-postcode: 73776
+postcode: "73776"
 city: Altbach
 street: "Kieswiesen"
 housenumber: 16

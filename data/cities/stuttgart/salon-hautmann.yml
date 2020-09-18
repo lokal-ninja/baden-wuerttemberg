@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.782674
 longitude: 9.1780886
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Kronenstraße"
 housenumber: 19

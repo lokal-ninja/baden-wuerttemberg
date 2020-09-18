@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.529267700000005
 longitude: 9.3443204
-postcode: 72581
+postcode: "72581"
 city: Dettingen an der Erms
 street: "Metzinger Straße"
 housenumber: 21

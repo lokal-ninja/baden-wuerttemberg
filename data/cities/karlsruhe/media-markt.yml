@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.991913200000006
 longitude: 8.3729104
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Unterweingartenfeld"
 housenumber: 4

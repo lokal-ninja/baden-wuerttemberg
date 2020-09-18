@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4945597
 longitude: 9.3980417
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Gebrüder-Gross-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9368046
 longitude: 9.7421485
-postcode: 74417
+postcode: "74417"
 city: Gschwend
 street: "Hagstraße"
 housenumber: 36

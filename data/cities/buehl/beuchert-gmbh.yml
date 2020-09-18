@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 48.706744
 longitude: 8.127833800000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Industriestraße"
 housenumber: 22

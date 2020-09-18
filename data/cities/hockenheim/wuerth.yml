@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.328219100000005
 longitude: 8.5389277
-postcode: 68766
+postcode: "68766"
 city: Hockenheim
 street: "Gleisstraße"
 housenumber: 2

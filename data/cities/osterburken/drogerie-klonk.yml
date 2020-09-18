@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.4308318
 longitude: 9.4249817
-postcode: 74706
+postcode: "74706"
 city: Osterburken
 street: "Friedrichstraße"
 housenumber: 2

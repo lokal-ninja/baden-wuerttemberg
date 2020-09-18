@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.0855389
 longitude: 9.288526800000001
-postcode: 74199
+postcode: "74199"
 city: Untergruppenbach
 street: "Siegfried-Levi-Straße"
 housenumber: 10

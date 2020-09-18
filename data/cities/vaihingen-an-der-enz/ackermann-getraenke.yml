@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.940406700000004
 longitude: 8.959997000000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Aschmannstraße"
 housenumber: 20

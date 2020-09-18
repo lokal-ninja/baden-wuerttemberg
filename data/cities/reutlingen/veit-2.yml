@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4319567
 longitude: 9.1508084
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Bäckergasse"
 housenumber: 5

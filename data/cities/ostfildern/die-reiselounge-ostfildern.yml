@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.714246
 longitude: 9.3008804
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Esslinger Straße"
 housenumber: 26

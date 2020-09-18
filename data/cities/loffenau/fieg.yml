@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.7739782
 longitude: 8.386778600000001
-postcode: 76597
+postcode: "76597"
 city: Loffenau
 street: "Obere Dorfstraße"
 housenumber: 4

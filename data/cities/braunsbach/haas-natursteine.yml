@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1972651
 longitude: 9.792875800000001
-postcode: 74542
+postcode: "74542"
 city: Braunsbach
 street: "Geislinger Straße"
 housenumber: 18

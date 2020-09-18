@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.385434700000005
 longitude: 8.5775848
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Carl-Theodor-Straße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.4045276
 longitude: 9.0522536
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Breite Straße"
 housenumber: 19

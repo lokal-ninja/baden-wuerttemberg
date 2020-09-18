@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.0996746
 longitude: 9.789439900000001
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Bürgerturmstraße"
 housenumber: 17

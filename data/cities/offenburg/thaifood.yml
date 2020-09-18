@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4684371
 longitude: 7.946239
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Gerberstraße"
 housenumber: 26

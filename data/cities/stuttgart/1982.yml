@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8016002
 longitude: 9.2215287
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Kissinger Straße"
 housenumber: 21

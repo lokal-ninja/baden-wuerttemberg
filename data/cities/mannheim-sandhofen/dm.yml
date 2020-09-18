@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.5483866
 longitude: 8.4556844
-postcode: 68307
+postcode: "68307"
 city: Mannheim-Sandhofen
 street: "Amselstraße"
 housenumber: 10

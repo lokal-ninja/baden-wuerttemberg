@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.007162400000006
 longitude: 8.3927235
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Waldstraße"
 housenumber: 91

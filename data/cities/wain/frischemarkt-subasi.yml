@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1874103
 longitude: 10.0177362
-postcode: 88489
+postcode: "88489"
 city: Wain
 street: "Poststraße"
 housenumber: 17/2

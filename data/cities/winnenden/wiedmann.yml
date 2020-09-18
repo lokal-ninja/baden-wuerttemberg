@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 48.875977500000005
 longitude: 9.399288
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Marktstraße"
 housenumber: 36

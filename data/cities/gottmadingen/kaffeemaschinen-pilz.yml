@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.7353401
 longitude: 8.776691600000001
-postcode: 78244
+postcode: "78244"
 city: Gottmadingen
 street: "Bahnhofstraße"
 housenumber: 2

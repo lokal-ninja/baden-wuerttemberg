@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.0217766
 longitude: 9.4938306
-postcode: 88348
+postcode: "88348"
 city: Bad Saulgau
 street: "Friedrich-List-Straße"
 housenumber: 15

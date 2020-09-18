@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.864668
 longitude: 9.0396225
-postcode: 71282
+postcode: "71282"
 city: Hemmingen
 street: "Freiherr-von-Varnbüler-Straße"
 housenumber: 3

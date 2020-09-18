@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 49.074971000000005
 longitude: 8.390331
-postcode: 76344
+postcode: "76344"
 city: Eggenstein-Leopoldshafen
 street: "Hauptstraße"
 housenumber: 103

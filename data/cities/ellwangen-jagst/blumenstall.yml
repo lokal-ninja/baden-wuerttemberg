@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.985494200000005
 longitude: 10.122186800000001
-postcode: 73479
+postcode: "73479"
 city: Ellwangen (Jagst)
 street: "Kübelesbuck"
 housenumber: 28

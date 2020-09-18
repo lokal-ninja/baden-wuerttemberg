@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6835831
 longitude: 8.1912892
-postcode: 77830
+postcode: "77830"
 city: Bühlertal
 street: "Hauptstraße"
 housenumber: 151

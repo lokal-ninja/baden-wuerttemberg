@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.69789
 longitude: 9.6677756
-postcode: 73037
+postcode: "73037"
 city: Göppingen
 street: "Ulmer Straße"
 housenumber: 42

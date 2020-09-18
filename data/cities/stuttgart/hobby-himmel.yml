@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 48.818462100000005
 longitude: 9.1696563
-postcode: 70469
+postcode: "70469"
 city: Stuttgart
 street: "Siemensstraße"
 housenumber: 140

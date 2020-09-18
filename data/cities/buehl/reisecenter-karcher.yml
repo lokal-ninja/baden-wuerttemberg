@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.695269100000004
 longitude: 8.1366634
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Schwanenstraße"
 housenumber: 4

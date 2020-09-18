@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.4960498
 longitude: 9.2107773
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: ""
 housenumber: 

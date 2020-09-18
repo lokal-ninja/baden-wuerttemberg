@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.411186
 longitude: 8.699657
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Ziegelgasse"
 housenumber: 21

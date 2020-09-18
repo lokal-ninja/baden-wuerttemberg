@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.936135
 longitude: 9.1775081
-postcode: 71691
+postcode: "71691"
 city: Freiberg am Neckar
 street: "Ruitstraße"
 housenumber: 68

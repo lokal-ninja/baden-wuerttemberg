@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.369078800000004
 longitude: 8.5860558
-postcode: 68723
+postcode: "68723"
 city: Oftersheim
 street: "Heidelberger Straße"
 housenumber: 16

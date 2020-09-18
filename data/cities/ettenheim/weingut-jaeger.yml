@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 48.2344996
 longitude: 7.819403400000001
-postcode: 77955
+postcode: "77955"
 city: Ettenheim
 street: "Tutschfelder Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.009396200000005
 longitude: 8.391797500000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Hirschstraße"
 housenumber: 9a

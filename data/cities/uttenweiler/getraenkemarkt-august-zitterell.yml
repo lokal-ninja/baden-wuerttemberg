@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.148948000000004
 longitude: 9.611931100000001
-postcode: 
+postcode: ""
 city: Uttenweiler
 street: "Sauggarter Straße"
 housenumber: 6

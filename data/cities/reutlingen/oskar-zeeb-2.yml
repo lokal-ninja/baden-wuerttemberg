@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.508060900000004
 longitude: 9.2030081
-postcode: 72760
+postcode: "72760"
 city: Reutlingen
 street: "Gustav-Groß-Straße"
 housenumber: 10

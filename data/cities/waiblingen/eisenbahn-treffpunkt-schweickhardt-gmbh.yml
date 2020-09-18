@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.8192132
 longitude: 9.3422643
-postcode: 71334
+postcode: "71334"
 city: Waiblingen
 street: "Biegelwiesenstraße"
 housenumber: 31

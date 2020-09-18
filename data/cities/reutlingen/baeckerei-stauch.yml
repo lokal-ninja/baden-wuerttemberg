@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.5496477
 longitude: 9.2046127
-postcode: 72768
+postcode: "72768"
 city: Reutlingen
 street: "Pliezhäuser Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.6709954
 longitude: 9.1707891
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Reichenaustraße"
 housenumber: 7

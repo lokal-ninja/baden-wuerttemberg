@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.816758400000005
 longitude: 8.1455699
-postcode: 76473
+postcode: "76473"
 city: Iffezheim
 street: "Bruchweg"
 housenumber: 26

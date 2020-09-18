@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.1222119
 longitude: 8.4082519
-postcode: 76351
+postcode: "76351"
 city: Linkenheim-Hochstetten
 street: "Karlsruher Straße"
 housenumber: 26

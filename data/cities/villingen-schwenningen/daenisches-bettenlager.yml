@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.0825752
 longitude: 8.4982548
-postcode: 78052
+postcode: "78052"
 city: Villingen-Schwenningen
 street: "Neuer Markt"
 housenumber: 1

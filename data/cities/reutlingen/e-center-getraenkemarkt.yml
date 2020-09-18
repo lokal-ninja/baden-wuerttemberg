@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.5045245
 longitude: 9.219129800000001
-postcode: 72766
+postcode: "72766"
 city: Reutlingen
 street: "Birnenweg"
 housenumber: 8

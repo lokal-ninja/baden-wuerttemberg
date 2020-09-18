@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.033008
 longitude: 8.707011000000001
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Windstegweg"
 housenumber: 5

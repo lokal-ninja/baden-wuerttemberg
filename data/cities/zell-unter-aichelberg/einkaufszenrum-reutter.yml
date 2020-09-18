@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.652118
 longitude: 9.5724082
-postcode: 73119
+postcode: "73119"
 city: Zell unter Aichelberg
 street: "Göppinger Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.849055500000006
 longitude: 10.0841157
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Im Kälblesrain"
 housenumber: 2

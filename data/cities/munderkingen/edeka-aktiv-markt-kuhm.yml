@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2362127
 longitude: 9.6496516
-postcode: 89597
+postcode: "89597"
 city: Munderkingen
 street: "Rottenackerstraße"
 housenumber: 25

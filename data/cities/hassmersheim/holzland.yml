@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.2838512
 longitude: 9.1339354
-postcode: 74855
+postcode: "74855"
 city: Haßmersheim
 street: "Heinsheimer Straße"
 housenumber: 3a

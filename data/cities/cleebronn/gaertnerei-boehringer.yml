@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.0407701
 longitude: 9.0351006
-postcode: 74389
+postcode: "74389"
 city: Cleebronn
 street: "Bönnigheimer Straße"
 housenumber: 38

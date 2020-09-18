@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7182587
 longitude: 9.0913459
-postcode: 70565
+postcode: "70565"
 city: Stuttgart
 street: "Rohrer Höhe"
 housenumber: 32-34

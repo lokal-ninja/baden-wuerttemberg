@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.719717700000004
 longitude: 9.2712616
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Herzog-Carl-Straße"
 housenumber: 3

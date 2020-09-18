@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.67916
 longitude: 9.217824700000001
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Bernhäuser Hauptstraße"
 housenumber: 333

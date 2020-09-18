@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.660367300000004
 longitude: 9.645266000000001
-postcode: 73092
+postcode: "73092"
 city: Heiningen
 street: "Bezgenrieter Straße"
 housenumber: 42

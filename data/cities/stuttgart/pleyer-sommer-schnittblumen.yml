@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.8358088
 longitude: 9.1947247
-postcode: 70437
+postcode: "70437"
 city: Stuttgart
 street: "Böckinger Straße"
 housenumber: 11

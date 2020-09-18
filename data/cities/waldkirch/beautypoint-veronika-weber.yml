@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0952235
 longitude: 7.9645682
-postcode: 79183
+postcode: "79183"
 city: Waldkirch
 street: "Benzengässle"
 housenumber: 3

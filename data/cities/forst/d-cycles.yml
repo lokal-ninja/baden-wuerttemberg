@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.1532988
 longitude: 8.5764353
-postcode: 76694
+postcode: "76694"
 city: Forst
 street: "Hambrücker Straße"
 housenumber: 64

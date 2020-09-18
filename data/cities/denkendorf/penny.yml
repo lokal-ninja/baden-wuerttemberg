@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.703079900000006
 longitude: 9.3132187
-postcode: 73770
+postcode: "73770"
 city: Denkendorf
 street: "Rechbergstraße"
 housenumber: 5

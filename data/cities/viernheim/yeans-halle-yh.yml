@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.527351
 longitude: 8.566166200000001
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Robert-Schuman-Straße"
 housenumber: 1

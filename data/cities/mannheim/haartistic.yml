@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.498610400000004
 longitude: 8.472119900000001
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Waldhofstraße"
 housenumber: 18

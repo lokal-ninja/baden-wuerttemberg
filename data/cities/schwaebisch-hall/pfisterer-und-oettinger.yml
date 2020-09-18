@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.113310500000004
 longitude: 9.7363643
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Am Spitalbach"
 housenumber: 1

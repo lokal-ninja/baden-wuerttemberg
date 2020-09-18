@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2386202
 longitude: 9.249642300000001
-postcode: 74229
+postcode: "74229"
 city: Oedheim
 street: "Kochendorfer Straße"
 housenumber: 16

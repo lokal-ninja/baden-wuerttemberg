@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.489550300000005
 longitude: 9.4006041
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Seilerweg"
 housenumber: 20

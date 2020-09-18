@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4892405
 longitude: 9.226105800000001
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Bismarckstraße"
 housenumber: 113

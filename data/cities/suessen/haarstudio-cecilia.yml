@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6832981
 longitude: 9.7593634
-postcode: 73079
+postcode: "73079"
 city: Süßen
 street: "Bahnhofstraße"
 housenumber: 15

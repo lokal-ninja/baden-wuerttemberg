@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.931493
 longitude: 8.4516835
-postcode: 78199
+postcode: "78199"
 city: Bräunlingen
 street: "Hüfinger Straße"
 housenumber: 13

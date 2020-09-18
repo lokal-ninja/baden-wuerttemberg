@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0898271
 longitude: 9.7529629
-postcode: 88441
+postcode: "88441"
 city: Mittelbiberach
 street: "Galgenbergstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.8768103
 longitude: 9.3994057
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Bengelstraße"
 housenumber: 10

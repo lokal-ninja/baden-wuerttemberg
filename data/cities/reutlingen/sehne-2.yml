@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4850119
 longitude: 9.1944773
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Pestalozzistraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4451776
 longitude: 8.693301100000001
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Gutermannstraße"
 housenumber: 17

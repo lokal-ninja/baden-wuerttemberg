@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.383342400000004
 longitude: 9.707297800000001
-postcode: 74677
+postcode: "74677"
 city: Dörzbach
 street: "Hauptstraße"
 housenumber: 20

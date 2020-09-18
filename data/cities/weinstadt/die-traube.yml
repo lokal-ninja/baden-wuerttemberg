@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.786454000000006
 longitude: 9.3629113
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Hauptstraße"
 housenumber: 91

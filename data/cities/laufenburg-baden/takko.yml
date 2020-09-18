@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.5650793
 longitude: 8.0758547
-postcode: 79725
+postcode: "79725"
 city: Laufenburg (Baden)
 street: "Laufenpark"
 housenumber: 3

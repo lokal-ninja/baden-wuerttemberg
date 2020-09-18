@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.4737042
 longitude: 8.4681988
-postcode: 68163
+postcode: "68163"
 city: Mannheim
 street: "Windeckstraße"
 housenumber: 9

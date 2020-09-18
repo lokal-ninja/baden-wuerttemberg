@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.339375000000004
 longitude: 8.0274949
-postcode: 77781
+postcode: "77781"
 city: Biberach (Baden)
 street: "Mitteldorfstraße"
 housenumber: 2

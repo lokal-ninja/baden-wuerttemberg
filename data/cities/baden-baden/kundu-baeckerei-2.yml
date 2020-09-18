@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7430363
 longitude: 8.2615411
-postcode: 76534
+postcode: "76534"
 city: Baden-Baden
 street: "Beuerner Straße"
 housenumber: 12

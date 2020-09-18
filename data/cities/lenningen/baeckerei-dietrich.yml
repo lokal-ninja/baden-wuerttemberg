@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5497603
 longitude: 9.4486439
-postcode: 73252
+postcode: "73252"
 city: Lenningen
 street: "Weilerstraße"
 housenumber: 18

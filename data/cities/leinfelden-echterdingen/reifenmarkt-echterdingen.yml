@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.6936042
 longitude: 9.1649247
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Wegenerstraße"
 housenumber: 19

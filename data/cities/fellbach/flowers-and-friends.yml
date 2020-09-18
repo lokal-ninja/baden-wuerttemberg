@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.827280300000005
 longitude: 9.271409100000001
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Karolingerstraße"
 housenumber: 36

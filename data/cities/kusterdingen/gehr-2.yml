@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.499353500000005
 longitude: 9.101224700000001
-postcode: 72127
+postcode: "72127"
 city: Kusterdingen
 street: "Walbenstraße"
 housenumber: 2

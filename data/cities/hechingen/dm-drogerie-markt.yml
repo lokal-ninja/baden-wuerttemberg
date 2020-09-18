@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.360371
 longitude: 8.962241200000001
-postcode: 72379
+postcode: "72379"
 city: Hechingen
 street: "Haigerlocher Straße"
 housenumber: 24

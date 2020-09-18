@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9560119
 longitude: 8.851184400000001
-postcode: 75417
+postcode: "75417"
 city: Mühlacker
 street: "Danziger Straße"
 housenumber: 2

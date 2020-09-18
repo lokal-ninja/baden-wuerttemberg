@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.700039000000004
 longitude: 8.1321822
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Rheinstraße"
 housenumber: 48

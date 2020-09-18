@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.7622627
 longitude: 8.2418549
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Gernsbacher Straße"
 housenumber: 13

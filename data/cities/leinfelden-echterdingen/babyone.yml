@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.705226700000004
 longitude: 9.1443217
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Adlerstraße"
 housenumber: 11

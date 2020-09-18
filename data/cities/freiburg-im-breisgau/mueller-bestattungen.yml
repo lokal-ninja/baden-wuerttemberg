@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.0064458
 longitude: 7.846187100000001
-postcode: 79106
+postcode: "79106"
 city: Freiburg im Breisgau
 street: "Tennenbacher Straße"
 housenumber: 46

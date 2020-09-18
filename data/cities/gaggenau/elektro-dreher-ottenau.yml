@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.78774000000001
 longitude: 8.337626400000001
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: ""
 housenumber: 

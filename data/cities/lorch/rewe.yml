@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.798276900000005
 longitude: 9.6754045
-postcode: 73547
+postcode: "73547"
 city: Lorch
 street: "Maierhofstraße"
 housenumber: 24

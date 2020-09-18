@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.811157300000005
 longitude: 7.565880300000001
-postcode: 79395
+postcode: "79395"
 city: Neuenburg am Rhein
 street: "Max-Schweinlin-Straße"
 housenumber: 1

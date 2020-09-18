@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.54426470000001
 longitude: 8.659882000000001
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Mierendorffstraße"
 housenumber: 20

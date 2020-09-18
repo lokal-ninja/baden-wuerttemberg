@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.807998500000004
 longitude: 9.236995
-postcode: 70374
+postcode: "70374"
 city: Stuttgart
 street: "Prießnitzweg"
 housenumber: 1

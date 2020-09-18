@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4057302
 longitude: 10.0051152
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Wielandstraße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.1135152
 longitude: 9.7339193
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Am Spitalbach"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1781087
 longitude: 9.225518600000001
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Heiner-Fleischmann-Straße"
 housenumber: 5

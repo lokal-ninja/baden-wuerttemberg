@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.0164503
 longitude: 9.499563
-postcode: 88348
+postcode: "88348"
 city: Bad Saulgau
 street: "Kasernenstraße"
 housenumber: 1

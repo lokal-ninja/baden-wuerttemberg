@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.521063500000004
 longitude: 9.0535373
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Kornhausstraße"
 housenumber: 3

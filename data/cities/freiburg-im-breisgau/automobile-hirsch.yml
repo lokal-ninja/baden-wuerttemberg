@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9859294
 longitude: 7.800180200000001
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Friedrich-Neff-Straße"
 housenumber: 7

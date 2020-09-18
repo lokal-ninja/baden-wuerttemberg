@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.949335600000005
 longitude: 9.136933800000001
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Bahnhofsplatz"
 housenumber: 4

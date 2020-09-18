@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.478828
 longitude: 8.9504354
-postcode: 72108
+postcode: "72108"
 city: Rottenburg am Neckar
 street: "Maieräckerstraße"
 housenumber: 5

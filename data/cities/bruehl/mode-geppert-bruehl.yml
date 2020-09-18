@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.410186200000005
 longitude: 8.521183
-postcode: 68782
+postcode: "68782"
 city: Brühl
 street: "Rheinauer Straße"
 housenumber: 9

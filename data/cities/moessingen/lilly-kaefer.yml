@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.406557600000006
 longitude: 9.0591981
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Falltorstraße"
 housenumber: 21/1

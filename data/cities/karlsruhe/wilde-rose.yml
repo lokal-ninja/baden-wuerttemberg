@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.004509500000005
 longitude: 8.4482662
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Durlacher Allee"
 housenumber: 111

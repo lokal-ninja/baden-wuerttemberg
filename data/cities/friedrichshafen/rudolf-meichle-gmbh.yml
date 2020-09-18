@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 47.655588300000005
 longitude: 9.4986142
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Steinbeisstraße"
 housenumber: 2

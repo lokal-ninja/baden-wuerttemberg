@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5947326
 longitude: 8.8730717
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Tübinger Straße"
 housenumber: 37

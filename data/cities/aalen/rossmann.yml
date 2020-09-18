@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.865509700000004
 longitude: 10.105517500000001
-postcode: 73433
+postcode: "73433"
 city: Aalen
 street: "Karlstraße"
 housenumber: 80

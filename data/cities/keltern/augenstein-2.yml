@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.895198300000004
 longitude: 8.603786000000001
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: "Östliche Friedrichstraße"
 housenumber: 10

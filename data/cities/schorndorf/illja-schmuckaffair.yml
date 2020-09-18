@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.8050536
 longitude: 9.5281114
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Beim Brünnele"
 housenumber: 13

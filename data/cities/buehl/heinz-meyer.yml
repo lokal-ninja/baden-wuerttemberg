@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.697230700000006
 longitude: 8.1373032
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Hauptstraße"
 housenumber: 80

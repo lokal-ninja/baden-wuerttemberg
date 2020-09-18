@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.007192700000004
 longitude: 8.392308100000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Waldstraße"
 housenumber: 60

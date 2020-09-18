@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.289015400000004
 longitude: 9.5625646
-postcode: 74670
+postcode: "74670"
 city: Forchtenberg
 street: "Hauptstraße"
 housenumber: 25

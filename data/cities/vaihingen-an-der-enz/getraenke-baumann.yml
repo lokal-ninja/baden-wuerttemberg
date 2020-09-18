@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.954720800000004
 longitude: 8.978758000000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Osterwiesenweg"
 housenumber: 6

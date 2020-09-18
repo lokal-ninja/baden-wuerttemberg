@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.799685600000004
 longitude: 9.0630954
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Schulstraße"
 housenumber: 10

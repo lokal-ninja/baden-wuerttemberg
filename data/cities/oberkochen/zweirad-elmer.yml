@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.7776178
 longitude: 10.1002209
-postcode: 73447
+postcode: "73447"
 city: Oberkochen
 street: "Heidenheimer Straße"
 housenumber: 104

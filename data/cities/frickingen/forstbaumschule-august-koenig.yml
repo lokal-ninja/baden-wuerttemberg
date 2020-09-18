@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.839978200000004
 longitude: 9.268525200000001
-postcode: 88699
+postcode: "88699"
 city: Frickingen
 street: ""
 housenumber: 6

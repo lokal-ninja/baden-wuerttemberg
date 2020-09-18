@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.0033266
 longitude: 9.206491100000001
-postcode: 74395
+postcode: "74395"
 city: Mundelsheim
 street: "Trollingerstraße"
 housenumber: 12

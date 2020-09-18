@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 48.97185270000001
 longitude: 8.4670284
-postcode: 76228
+postcode: "76228"
 city: Karlsruhe
 street: "Elsa-Brändström-Straße"
 housenumber: 16
-phone: ""
-opening_hours: ""
+phone: "+49 0721 473330"
+opening_hours: "Di-Fr 9:00-13:00,14:00-18:00;Sa 9:00-13:00"
 website: ""

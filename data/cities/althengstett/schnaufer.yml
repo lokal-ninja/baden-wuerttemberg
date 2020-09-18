@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.723791500000004
 longitude: 8.7779857
-postcode: 75382
+postcode: "75382"
 city: Althengstett
 street: "Im Mönchswasen"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7779059
 longitude: 8.5783947
-postcode: 75323
+postcode: "75323"
 city: Bad Wildbad
 street: "Höfener Straße"
 housenumber: 51

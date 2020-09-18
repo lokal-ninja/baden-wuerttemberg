@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.6084334
 longitude: 9.4749531
-postcode: 74736
+postcode: "74736"
 city: Hardheim
 street: "Würzburger Straße"
 housenumber: 1

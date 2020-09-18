@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.4121043
 longitude: 8.7078963
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Dreikönigstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8076595
 longitude: 9.641271900000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Karlstraße"
 housenumber: 7

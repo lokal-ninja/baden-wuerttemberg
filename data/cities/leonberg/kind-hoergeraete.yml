@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.801099900000004
 longitude: 9.015616600000001
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Marktplatz"
 housenumber: 8

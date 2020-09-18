@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.655522600000005
 longitude: 9.470733300000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Olgastraße"
 housenumber: 57

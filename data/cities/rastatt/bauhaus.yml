@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.860641
 longitude: 8.242376
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Im Baisert"
 housenumber: 1

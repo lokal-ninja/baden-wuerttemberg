@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6937274
 longitude: 8.1359735
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Bühlertalstraße"
 housenumber: 4

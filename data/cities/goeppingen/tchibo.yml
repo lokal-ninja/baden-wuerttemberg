@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.7025353
 longitude: 9.653898400000001
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Lange Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8320566
 longitude: 9.1710201
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Unterländer Straße"
 housenumber: 43

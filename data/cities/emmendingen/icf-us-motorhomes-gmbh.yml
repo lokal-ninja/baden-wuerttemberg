@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.1298995
 longitude: 7.825157600000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Bundesstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.888267600000006
 longitude: 9.1319561
-postcode: 71696
+postcode: "71696"
 city: Möglingen
 street: "Ludwigsburger Straße"
 housenumber: 50

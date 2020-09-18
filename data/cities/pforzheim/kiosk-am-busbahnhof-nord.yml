@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.8944063
 longitude: 8.704596
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Güterstraße"
 housenumber: 7

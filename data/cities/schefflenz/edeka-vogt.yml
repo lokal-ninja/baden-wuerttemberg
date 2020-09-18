@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.406649
 longitude: 9.2773271
-postcode: 74850
+postcode: "74850"
 city: Schefflenz
 street: "Mittelstraße"
 housenumber: 2

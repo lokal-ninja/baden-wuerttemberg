@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2612086
 longitude: 9.1499398
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Gundelsheimer Straße"
 housenumber: 32

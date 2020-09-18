@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.4064879
 longitude: 8.6719982
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Emil-Maier-Straße"
 housenumber: 18

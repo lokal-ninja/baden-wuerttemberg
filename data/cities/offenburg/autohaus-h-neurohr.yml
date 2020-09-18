@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.485355600000005
 longitude: 7.958011900000001
-postcode: 77654
+postcode: "77654"
 city: Offenburg
 street: "Scheerbünd"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1192742
 longitude: 9.0781109
-postcode: 72510
+postcode: "72510"
 city: Stetten am kalten Markt
 street: "Schwenninger Straße"
 housenumber: 3

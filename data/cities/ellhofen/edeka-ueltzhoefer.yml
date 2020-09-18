@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.150209000000004
 longitude: 9.309464400000001
-postcode: 74248
+postcode: "74248"
 city: Ellhofen
 street: "Bahnhofstraße"
 housenumber: 44

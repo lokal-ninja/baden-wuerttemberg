@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.0045311
 longitude: 8.4097858
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Baumeisterstraße"
 housenumber: 23

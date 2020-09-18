@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.578013600000006
 longitude: 9.6771294
-postcode: 73342
+postcode: "73342"
 city: Bad Ditzenbach
 street: "Hofweiherstraße"
 housenumber: 9

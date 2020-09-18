@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0269501
 longitude: 7.5891039000000005
-postcode: 79206
+postcode: "79206"
 city: Breisach am Rhein
 street: "Bahnhofstraße"
 housenumber: 4

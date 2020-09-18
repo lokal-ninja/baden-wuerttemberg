@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.0862637
 longitude: 9.7963169
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Waldseer Straße"
 housenumber: 107

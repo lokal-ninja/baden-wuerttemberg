@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.032676800000004
 longitude: 8.715883
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Breitenbachweg"
 housenumber: 13

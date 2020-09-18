@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.7936471
 longitude: 9.1823157
-postcode: 70191
+postcode: "70191"
 city: Stuttgart
 street: "Heilbronner Straße"
 housenumber: 92

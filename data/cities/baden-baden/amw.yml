@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.792454400000004
 longitude: 8.1951138
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Kuppenheimer Straße"
 housenumber: 1

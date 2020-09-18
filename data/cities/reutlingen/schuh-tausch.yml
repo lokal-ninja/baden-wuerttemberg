@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.4932279
 longitude: 9.159569600000001
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Markwiesenstraße"
 housenumber: 5

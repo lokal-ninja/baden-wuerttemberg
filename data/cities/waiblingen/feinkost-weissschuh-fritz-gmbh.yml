@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.826210700000004
 longitude: 9.3133693
-postcode: 71332
+postcode: "71332"
 city: Waiblingen
 street: "Mayenner Straße"
 housenumber: 43

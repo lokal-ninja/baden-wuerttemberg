@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.119148100000004
 longitude: 7.849023300000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Freiburger Straße"
 housenumber: 4

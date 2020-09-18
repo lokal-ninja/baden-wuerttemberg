@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.901001400000006
 longitude: 9.4179449
-postcode: 71397
+postcode: "71397"
 city: Leutenbach
 street: "Maybachstraße"
 housenumber: 5

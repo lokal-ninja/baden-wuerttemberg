@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.148796700000005
 longitude: 8.639952300000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Saline"
 housenumber: 5

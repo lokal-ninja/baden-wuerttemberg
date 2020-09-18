@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.003697700000004
 longitude: 9.201091400000001
-postcode: 74395
+postcode: "74395"
 city: Mundelsheim
 street: "Wertweg"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4370107
 longitude: 8.525708400000001
-postcode: 68219
+postcode: "68219"
 city: Mannheim-Rheinau
 street: "Durlacher Straße"
 housenumber: 18-20

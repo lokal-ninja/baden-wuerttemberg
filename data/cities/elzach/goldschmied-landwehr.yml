@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.1741819
 longitude: 8.071954100000001
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Schmiedgasse"
 housenumber: 2

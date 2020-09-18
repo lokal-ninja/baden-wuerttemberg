@@ -3,7 +3,7 @@ type: way
 shop: Lampen
 latitude: 49.147055
 longitude: 8.657969900000001
-postcode: 76703
+postcode: "76703"
 city: Kraichtal
 street: "Im Eiselbrunnen"
 housenumber: 13

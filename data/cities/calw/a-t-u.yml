@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.704551
 longitude: 8.760076
-postcode: 75365
+postcode: "75365"
 city: Calw
 street: "Ferdinand-von-Steinbeis-Straße"
 housenumber: 4

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 48.8178363
 longitude: 9.5381721
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Wiesenstraße"
 housenumber: 35
 phone: "+49 7181 939230"
 opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.edeka.de/"
+website: "https://edeka.de"

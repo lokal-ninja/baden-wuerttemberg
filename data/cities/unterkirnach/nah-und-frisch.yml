@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0785995
 longitude: 8.3652627
-postcode: 
+postcode: ""
 city: Unterkirnach
 street: "Talstraße"
 housenumber: 1

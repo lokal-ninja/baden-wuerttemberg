@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3938575
 longitude: 8.7896807
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Güterbahnhofstraße"
 housenumber: 2

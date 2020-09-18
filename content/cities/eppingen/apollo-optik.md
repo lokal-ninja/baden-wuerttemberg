@@ -1,4 +1,4 @@
 ---
-title: "Apollo Optik"
+title: "Apollo-Optik"
 url: /eppingen/apollo-optik/
 ---

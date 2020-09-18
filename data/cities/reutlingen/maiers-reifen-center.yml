@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.4948843
 longitude: 9.1511715
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Markwiesenstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.721459200000005
 longitude: 8.1218549
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Am Autobahnzubringer"
 housenumber: 4

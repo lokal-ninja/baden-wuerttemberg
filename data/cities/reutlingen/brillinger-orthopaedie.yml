@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.4886259
 longitude: 9.2164455
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Obere Wässere"
 housenumber: 8

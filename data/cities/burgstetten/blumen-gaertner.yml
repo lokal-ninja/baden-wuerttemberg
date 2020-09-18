@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.9246725
 longitude: 9.387406700000001
-postcode: 71576
+postcode: "71576"
 city: Burgstetten
 street: "Nelkenweg"
 housenumber: 6

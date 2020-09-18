@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8105155
 longitude: 9.2294373
-postcode: 70374
+postcode: "70374"
 city: Stuttgart
 street: "Memmingerstraße"
 housenumber: 20

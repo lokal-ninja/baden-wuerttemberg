@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.59796720000001
 longitude: 8.871051300000001
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Stuttgarter Straße"
 housenumber: 25

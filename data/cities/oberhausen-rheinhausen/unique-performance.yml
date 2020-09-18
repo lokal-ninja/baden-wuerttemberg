@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.252247600000004
 longitude: 8.502060100000001
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Hoeber-und-Mandelbaum-Straße"
 housenumber: 3b

@@ -1,6 +1,6 @@
 ---
 title: Ötisheim
 url: /oetisheim/
-latitude: 48.960044800000006
-longitude: 8.803436300000001
+latitude: 48.9603072
+longitude: 8.8032432
 ---

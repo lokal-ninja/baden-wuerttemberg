@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.1452851
 longitude: 10.1022417
-postcode: 88486
+postcode: "88486"
 city: Kirchberg an der Iller
 street: "Im Anger"
 housenumber: 15

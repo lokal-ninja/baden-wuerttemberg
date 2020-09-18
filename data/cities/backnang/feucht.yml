@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.9376703
 longitude: 9.4274283
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Bertha-Benz-Straße"
 housenumber: 1

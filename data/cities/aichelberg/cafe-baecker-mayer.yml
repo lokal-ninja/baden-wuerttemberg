@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.6362559
 longitude: 9.5576174
-postcode: 73101
+postcode: "73101"
 city: Aichelberg
 street: "Zeller Straße"
 housenumber: 5

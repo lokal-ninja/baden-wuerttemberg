@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1199176
 longitude: 7.851305000000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Markgrafenstraße"
 housenumber: 8

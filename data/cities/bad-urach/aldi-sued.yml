@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4936273
 longitude: 9.390797000000001
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Im Unterwässer"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.2999358
 longitude: 8.8442681
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Neue Balinger Straße"
 housenumber: 16

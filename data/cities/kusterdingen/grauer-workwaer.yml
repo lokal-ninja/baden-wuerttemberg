@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.517538800000004
 longitude: 9.1242953
-postcode: 72127
+postcode: "72127"
 city: Kusterdingen
 street: "In der Braike"
 housenumber: 15

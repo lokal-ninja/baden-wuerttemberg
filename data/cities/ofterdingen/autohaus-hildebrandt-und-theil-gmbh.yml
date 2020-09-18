@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.4163152
 longitude: 9.039304600000001
-postcode: 72131
+postcode: "72131"
 city: Ofterdingen
 street: "Krummenstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.8149084
 longitude: 9.3635035
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Kalkofenstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.541243200000004
 longitude: 9.277755800000001
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Stuttgarter Straße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.1087927
 longitude: 8.7351507
-postcode: 78588
+postcode: "78588"
 city: Denkingen
 street: "Alfons-Debler-Weg"
 housenumber: 2

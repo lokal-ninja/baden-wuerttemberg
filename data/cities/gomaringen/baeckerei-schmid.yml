@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.461839600000005
 longitude: 9.1045914
-postcode: 72810
+postcode: "72810"
 city: Gomaringen
 street: "Raiffeisenstraße"
 housenumber: 1

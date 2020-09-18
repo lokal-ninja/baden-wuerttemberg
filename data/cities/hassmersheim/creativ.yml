@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.2832444
 longitude: 9.1334543
-postcode: 74855
+postcode: "74855"
 city: Haßmersheim
 street: "Heinsheimer Straße"
 housenumber: 1

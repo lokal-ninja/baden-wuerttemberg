@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3989501
 longitude: 9.993392400000001
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Münsterplatz"
 housenumber: 90

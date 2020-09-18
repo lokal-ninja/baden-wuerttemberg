@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.949178700000004
 longitude: 8.4983704
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Am Karlsgarten"
 housenumber: 1

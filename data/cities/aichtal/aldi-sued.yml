@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.633523000000004
 longitude: 9.2334638
-postcode: 72631
+postcode: "72631"
 city: Aichtal
 street: "Riedstraße"
 housenumber: 6

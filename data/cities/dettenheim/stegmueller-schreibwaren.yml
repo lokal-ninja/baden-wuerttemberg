@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.1626393
 longitude: 8.419315000000001
-postcode: 76706
+postcode: "76706"
 city: Dettenheim
 street: "Kirchfeldstraße"
 housenumber: 31

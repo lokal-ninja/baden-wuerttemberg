@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0864838
 longitude: 9.2172911
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Schwabstraße"
 housenumber: 13

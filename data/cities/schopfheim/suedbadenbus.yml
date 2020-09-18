@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.6481045
 longitude: 7.8217604000000005
-postcode: 79650
+postcode: "79650"
 city: Schopfheim
 street: "Bahnhofstraße"
 housenumber: 10a

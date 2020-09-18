@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.1718989
 longitude: 8.0708261
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Bahnhofstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.0955166
 longitude: 7.9619670000000005
-postcode: 79183
+postcode: "79183"
 city: Waldkirch
 street: "Lange Straße"
 housenumber: 66

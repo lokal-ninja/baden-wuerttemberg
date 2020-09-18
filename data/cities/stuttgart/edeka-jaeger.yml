@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6906769
 longitude: 9.1939027
-postcode: 70629
+postcode: "70629"
 city: Stuttgart
 street: "Flughafenstraße"
 housenumber: 100

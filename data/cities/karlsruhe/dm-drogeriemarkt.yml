@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.0043944
 longitude: 8.417880700000001
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Ludwig-Erhard-Allee"
 housenumber: 10

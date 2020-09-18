@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.732832
 longitude: 9.104965
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Katzenbachstraße"
 housenumber: 68

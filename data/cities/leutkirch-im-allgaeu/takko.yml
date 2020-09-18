@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.822031900000006
 longitude: 10.025754000000001
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Künkelinstraße"
 housenumber: 6

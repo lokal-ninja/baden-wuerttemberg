@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.398931000000005
 longitude: 9.992952
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Münsterplatz"
 housenumber: 90

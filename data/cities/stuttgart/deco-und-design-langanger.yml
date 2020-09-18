@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.733281700000006
 longitude: 9.108098400000001
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Robert-Leicht-Straße"
 housenumber: 31

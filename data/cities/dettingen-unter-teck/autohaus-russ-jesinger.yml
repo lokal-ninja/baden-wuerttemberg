@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.627515300000006
 longitude: 9.4541655
-postcode: 73265
+postcode: "73265"
 city: Dettingen unter Teck
 street: "Kirchheimer Straße"
 housenumber: 182

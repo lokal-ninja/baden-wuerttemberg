@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.890867400000005
 longitude: 8.7084347
-postcode: 75175
+postcode: "75175"
 city: Pforzheim
 street: "Altstädter Kirchenweg"
 housenumber: 15

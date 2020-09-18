@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.8041531
 longitude: 9.9377618
-postcode: 73560
+postcode: "73560"
 city: Böbingen an der Rems
 street: "Robert-Bosch-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.468855500000004
 longitude: 10.0304214
-postcode: 97993
+postcode: "97993"
 city: Creglingen
 street: "Hauptstraße"
 housenumber: 17

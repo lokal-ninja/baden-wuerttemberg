@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1315061
 longitude: 10.0850214
-postcode: 88486
+postcode: "88486"
 city: Kirchberg an der Iller
 street: "Altkellmünzer Weg"
 housenumber: 8

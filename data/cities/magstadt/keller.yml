@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7444173
 longitude: 8.9635282
-postcode: 71106
+postcode: "71106"
 city: Magstadt
 street: "Blumenstraße"
 housenumber: 1

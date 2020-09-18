@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.61631190000001
 longitude: 10.2524666
-postcode: 89537
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Riedstraße"
 housenumber: 46

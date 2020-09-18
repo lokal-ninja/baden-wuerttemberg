@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.0070527
 longitude: 8.4106181
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Fritz-Erler-Straße"
 housenumber: 17

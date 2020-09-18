@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.527787000000004
 longitude: 9.0889974
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Egeriaplatz"
 housenumber: 2

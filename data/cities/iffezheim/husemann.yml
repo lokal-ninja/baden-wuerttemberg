@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 48.816442200000004
 longitude: 8.1432205
-postcode: 76473
+postcode: "76473"
 city: Iffezheim
 street: "Röttgenstraße"
 housenumber: 6

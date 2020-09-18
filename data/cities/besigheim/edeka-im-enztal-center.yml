@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9964785
 longitude: 9.1403237
-postcode: 74354
+postcode: "74354"
 city: Besigheim
 street: "Riedstraße"
 housenumber: 4

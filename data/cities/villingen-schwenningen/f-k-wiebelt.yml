@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.0594911
 longitude: 8.460919800000001
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: "Bickenstraße"
 housenumber: 6

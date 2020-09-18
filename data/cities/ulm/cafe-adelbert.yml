@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3945744
 longitude: 9.9722667
-postcode: 89077
+postcode: "89077"
 city: Ulm
 street: "Gneisenaustraße"
 housenumber: 62

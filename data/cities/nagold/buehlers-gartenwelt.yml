@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.547972900000005
 longitude: 8.7157324
-postcode: 72202
+postcode: "72202"
 city: Nagold
 street: "Altensteiger Straße"
 housenumber: 14

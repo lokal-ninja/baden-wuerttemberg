@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.097999900000005
 longitude: 9.788948300000001
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Hindenburgstraße"
 housenumber: 3

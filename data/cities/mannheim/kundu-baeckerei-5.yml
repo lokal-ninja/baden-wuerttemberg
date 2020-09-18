@@ -1,12 +1,12 @@
-id: 4592185064
+id: 2189758552
 type: node
 shop: Bäckerei
-latitude: 49.4740417
-longitude: 8.536690700000001
-postcode: 68163
+latitude: 49.4866911
+longitude: 8.4782472
+postcode: "68165"
 city: Mannheim
-street: "Seckenheimer Landstraße"
-housenumber: 246
-phone: "+49 621 417672"
-opening_hours: "Mo-We 08:00-21:00; Th-Sa 08:00-22:00"
+street: "Lameystraße"
+housenumber: 14
+phone: "+49 621 413192"
+opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-13:00; Su 08:00-11:00"
 website: "http://k-und-u.com"

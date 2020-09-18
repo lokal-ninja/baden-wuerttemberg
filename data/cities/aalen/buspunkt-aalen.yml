@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 48.8405806
 longitude: 10.095319400000001
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Bahnhofstraße"
 housenumber: 22-26

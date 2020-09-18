@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.702515500000004
 longitude: 9.652916900000001
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Schulstraße"
 housenumber: 3

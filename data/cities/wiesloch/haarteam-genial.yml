@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2923599
 longitude: 8.6972751
-postcode: 69168
+postcode: "69168"
 city: Wiesloch
 street: "Hauptstraße"
 housenumber: 136

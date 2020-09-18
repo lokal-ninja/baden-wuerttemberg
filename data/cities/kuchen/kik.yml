@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6453439
 longitude: 9.79063
-postcode: 73329
+postcode: "73329"
 city: Kuchen
 street: "Im Gewerbepark"
 housenumber: 4

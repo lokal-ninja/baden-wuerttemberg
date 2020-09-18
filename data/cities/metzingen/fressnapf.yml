@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.540990900000004
 longitude: 9.2775545
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Stuttgarter Straße"
 housenumber: 54

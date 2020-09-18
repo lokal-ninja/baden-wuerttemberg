@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5225206
 longitude: 9.3366162
-postcode: 74722
+postcode: "74722"
 city: Buchen (Odenwald)
 street: "Zu Den Dilläckern"
 housenumber: 2

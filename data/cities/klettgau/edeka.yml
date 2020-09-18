@@ -1,12 +1,12 @@
 id: 1229524738
 type: node
 shop: Supermarkt
-latitude: 47.658717
-longitude: 8.4310653
-postcode: 79771
+latitude: 47.658744500000005
+longitude: 8.4310117
+postcode: "79771"
 city: Klettgau
 street: "Am Güterbahnhof"
 housenumber: 8
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00; Su,PH off"
 website: ""

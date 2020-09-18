@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.7028188
 longitude: 9.6547304
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Poststraße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.865551100000005
 longitude: 10.108889000000001
-postcode: 73433
+postcode: "73433"
 city: Aalen
 street: "Bismarckstraße"
 housenumber: 92

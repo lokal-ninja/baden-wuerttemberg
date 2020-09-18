@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.2132152
 longitude: 9.0213772
-postcode: 72458
+postcode: "72458"
 city: Albstadt
 street: "Sonnenstraße"
 housenumber: 30

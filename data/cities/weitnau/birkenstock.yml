@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.651406900000005
 longitude: 10.0843659
-postcode: 87480
+postcode: "87480"
 city: Weitnau
 street: "Klausenmühle"
 housenumber: 1

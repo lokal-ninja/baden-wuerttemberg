@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3990832
 longitude: 9.9916666
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Münsterplatz"
 housenumber: 13

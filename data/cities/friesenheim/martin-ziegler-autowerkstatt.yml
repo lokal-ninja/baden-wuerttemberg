@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.376226
 longitude: 7.8749313
-postcode: 77948
+postcode: "77948"
 city: Friesenheim
 street: "Kronenstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.4834693
 longitude: 9.2291626
-postcode: 72766
+postcode: "72766"
 city: Reutlingen
 street: "Am Südbahnhof"
 housenumber: 22

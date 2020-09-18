@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7484709
 longitude: 9.170408700000001
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Felix-Dahn-Straße"
 housenumber: 11A

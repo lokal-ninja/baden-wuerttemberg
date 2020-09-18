@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.7572539
 longitude: 9.7117904
-postcode: 88289
+postcode: "88289"
 city: Waldburg
 street: "Hauptstraße"
 housenumber: 18

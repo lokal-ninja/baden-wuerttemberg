@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.308079400000004
 longitude: 9.4676418
-postcode: 74249
+postcode: "74249"
 city: Jagsthausen
 street: "In den Steinäckern"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.5497792
 longitude: 8.7419653
-postcode: 72202
+postcode: "72202"
 city: Nagold
 street: "Herrenberger Straße"
 housenumber: 72

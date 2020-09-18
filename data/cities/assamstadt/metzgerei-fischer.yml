@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.426250800000005
 longitude: 9.6866296
-postcode: 97959
+postcode: "97959"
 city: Assamstadt
 street: "Krautheimer Straße"
 housenumber: 17

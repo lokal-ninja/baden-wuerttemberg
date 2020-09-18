@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.4929751
 longitude: 9.1597389
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Markwiesenstraße"
 housenumber: 3

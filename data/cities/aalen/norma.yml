@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.847974900000004
 longitude: 10.0944626
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Eduard-Pfeiffer-Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.5544687
 longitude: 10.288531200000001
-postcode: 89567
+postcode: "89567"
 city: Sontheim an der Brenz
 street: "Hauptstraße"
 housenumber: 29

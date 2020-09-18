@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.713838900000006
 longitude: 9.2979341
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Hindenburgstraße"
 housenumber: 15

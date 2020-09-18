@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.6626701
 longitude: 9.5710029
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Klausenburger Straße"
 housenumber: 11

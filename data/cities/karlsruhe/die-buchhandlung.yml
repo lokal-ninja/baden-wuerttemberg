@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 48.972529200000004
 longitude: 8.4088094
-postcode: 76199
+postcode: "76199"
 city: Karlsruhe
 street: "Diakonissenstraße"
 housenumber: 29a

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.0417329
 longitude: 9.0941427
-postcode: 74357
+postcode: "74357"
 city: Bönnigheim
 street: "Kirchstraße"
 housenumber: 9

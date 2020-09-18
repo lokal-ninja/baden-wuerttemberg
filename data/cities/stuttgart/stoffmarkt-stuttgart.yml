@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.7722727
 longitude: 9.1685102
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Augustenstraße"
 housenumber: 14

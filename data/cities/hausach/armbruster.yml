@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.285118000000004
 longitude: 8.1814219
-postcode: 
+postcode: ""
 city: Hausach
 street: "Eisenbahnstraße"
 housenumber: 7

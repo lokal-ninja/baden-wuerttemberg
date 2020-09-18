@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.771129900000005
 longitude: 9.159300700000001
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Rotebühlstraße"
 housenumber: 98

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.119295900000004
 longitude: 7.8489985
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Freiburger Straße"
 housenumber: 4-8

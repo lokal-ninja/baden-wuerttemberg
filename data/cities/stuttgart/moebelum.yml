@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.7803288
 longitude: 9.2280324
-postcode: 70188
+postcode: "70188"
 city: Stuttgart
 street: "Ulmer Straße"
 housenumber: 174

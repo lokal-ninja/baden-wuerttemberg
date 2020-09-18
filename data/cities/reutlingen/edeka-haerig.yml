@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.499587500000004
 longitude: 9.1866258
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Dieselstraße"
 housenumber: 5

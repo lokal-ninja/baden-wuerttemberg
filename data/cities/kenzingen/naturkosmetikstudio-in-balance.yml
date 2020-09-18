@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.178803800000004
 longitude: 7.8130521
-postcode: 79341
+postcode: "79341"
 city: Kenzingen
 street: "Brunnenstraße"
 housenumber: 17

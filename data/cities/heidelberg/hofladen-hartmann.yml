@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.3758087
 longitude: 8.6156133
-postcode: 69124
+postcode: "69124"
 city: Heidelberg
 street: "Kurpfalzhof"
 housenumber: 4

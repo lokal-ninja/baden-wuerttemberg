@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.826281200000004
 longitude: 9.651042700000001
-postcode: 88255
+postcode: "88255"
 city: Baienfurt
 street: "Waldseer Straße"
 housenumber: 5

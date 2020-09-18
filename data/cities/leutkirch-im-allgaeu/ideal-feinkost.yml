@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 47.8276721
 longitude: 10.023887400000001
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Marktstraße"
 housenumber: 38

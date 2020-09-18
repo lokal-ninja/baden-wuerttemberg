@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0445536
 longitude: 8.7196885
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Eppinger Straße"
 housenumber: 8/1

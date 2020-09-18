@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0650064
 longitude: 10.0743784
-postcode: 
+postcode: ""
 city: Berkheim
 street: "Burgstraße"
 housenumber: 33

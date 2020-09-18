@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.2141232
 longitude: 8.9696403
-postcode: 72459
+postcode: "72459"
 city: Albstadt
 street: "Ebingertalstraße"
 housenumber: 58

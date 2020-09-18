@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.075531600000005
 longitude: 8.7362701
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Marktplatz"
 housenumber: 6

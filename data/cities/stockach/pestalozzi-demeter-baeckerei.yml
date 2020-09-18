@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8178277
 longitude: 8.9699717
-postcode: 78333
+postcode: "78333"
 city: Stockach
 street: "Pestalozzistraße"
 housenumber: 16

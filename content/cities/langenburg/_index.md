@@ -1,6 +1,6 @@
 ---
 title: Langenburg
 url: /langenburg/
-latitude: 49.2530554
-longitude: 9.848087300000001
+latitude: 49.2531928
+longitude: 9.8477788
 ---

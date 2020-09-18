@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.6663957
 longitude: 7.9416294
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Hauptstraße"
 housenumber: 35a

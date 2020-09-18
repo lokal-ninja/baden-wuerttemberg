@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.870060800000005
 longitude: 8.8160823
-postcode: 75449
+postcode: "75449"
 city: Wurmberg
 street: "Klosterwaldstraße"
 housenumber: 17

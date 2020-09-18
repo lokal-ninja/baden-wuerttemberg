@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.4956819
 longitude: 8.482733300000001
-postcode: 68167
+postcode: "68167"
 city: Mannheim
 street: "Cannabichstraße"
 housenumber: 12

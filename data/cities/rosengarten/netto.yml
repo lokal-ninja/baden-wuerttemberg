@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0735669
 longitude: 9.726201600000001
-postcode: 74538
+postcode: "74538"
 city: Rosengarten
 street: "Karl-Kurz-Straße"
 housenumber: 1

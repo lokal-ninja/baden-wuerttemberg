@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7913201
 longitude: 8.6391877
-postcode: 75328
+postcode: "75328"
 city: Schömberg
 street: "Rosenstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.514488300000004
 longitude: 9.0663198
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Reutlinger Straße"
 housenumber: 44

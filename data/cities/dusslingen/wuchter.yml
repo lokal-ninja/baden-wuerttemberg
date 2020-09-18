@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.4561633
 longitude: 9.0609445
-postcode: 72144
+postcode: "72144"
 city: Dußlingen
 street: ""
 housenumber: 

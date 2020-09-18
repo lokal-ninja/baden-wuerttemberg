@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.118726800000005
 longitude: 8.784814
-postcode: 76703
+postcode: "76703"
 city: Kraichtal
 street: "Lange Straße"
 housenumber: 27

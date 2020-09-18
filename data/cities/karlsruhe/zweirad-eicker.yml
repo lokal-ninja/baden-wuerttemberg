@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.990832000000005
 longitude: 8.3706469
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Pulverhausstraße"
 housenumber: 36

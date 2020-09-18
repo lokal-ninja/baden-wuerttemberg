@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.833976500000006
 longitude: 8.255674
-postcode: 76456
+postcode: "76456"
 city: Kuppenheim
 street: "Bahnhofstraße"
 housenumber: 4

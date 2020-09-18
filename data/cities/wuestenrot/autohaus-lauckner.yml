@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.085312200000004
 longitude: 9.461555
-postcode: 71543
+postcode: "71543"
 city: Wüstenrot
 street: "Löwensteiner Straße"
 housenumber: 29

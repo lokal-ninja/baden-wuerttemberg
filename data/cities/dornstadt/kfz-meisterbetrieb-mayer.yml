@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.4728244
 longitude: 9.9566589
-postcode: 89160
+postcode: "89160"
 city: Dornstadt
 street: "Beimerstetter Straße"
 housenumber: 20

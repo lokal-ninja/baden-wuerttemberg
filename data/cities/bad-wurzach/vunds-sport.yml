@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.9095158
 longitude: 9.8933417
-postcode: 88410
+postcode: "88410"
 city: Bad Wurzach
 street: "Biberacher Straße"
 housenumber: 3

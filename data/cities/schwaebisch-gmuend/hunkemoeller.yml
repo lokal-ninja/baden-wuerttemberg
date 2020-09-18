@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.8001281
 longitude: 9.798048000000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Marktplatz"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.704434400000004
 longitude: 9.1442323
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Hohenheimer Straße"
 housenumber: 7

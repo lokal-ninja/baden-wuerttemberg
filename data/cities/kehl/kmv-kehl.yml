@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.59032130000001
 longitude: 7.8687852000000005
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Hinterfeldstraße"
 housenumber: 18

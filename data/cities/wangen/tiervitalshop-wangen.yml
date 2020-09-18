@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.7264776
 longitude: 9.6081695
-postcode: 73117
+postcode: "73117"
 city: Wangen
 street: "Hauptstraße"
 housenumber: 34

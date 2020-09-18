@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 48.316315200000005
 longitude: 8.2168741
-postcode: 77709
+postcode: "77709"
 city: Oberwolfach
 street: "Wolftalstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.176222100000004
 longitude: 8.4262259
-postcode: 76706
+postcode: "76706"
 city: Dettenheim
 street: "Liedolsheimer Straße"
 housenumber: 25b

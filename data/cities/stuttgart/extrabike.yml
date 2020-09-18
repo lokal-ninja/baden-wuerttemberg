@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.8163933
 longitude: 9.1105363
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Glemsgaustraße"
 housenumber: 40

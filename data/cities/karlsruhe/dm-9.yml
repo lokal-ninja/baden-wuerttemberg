@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 49.0101838
 longitude: 8.3940672
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 152-154
-phone: ""
+phone: "+49 7219 203028"
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: ""
+website: "https://www.dm.de/store/de-292/karlsruhe/kaiserstrasse-152-154"

@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 47.699537600000006
 longitude: 9.5585464
-postcode: 88074
+postcode: "88074"
 city: Meckenbeuren
 street: "Bahnhofplatz"
 housenumber: 

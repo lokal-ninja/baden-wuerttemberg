@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4131018
 longitude: 8.0060828
-postcode: 77723
+postcode: "77723"
 city: Gengenbach
 street: "Breslauer Straße"
 housenumber: 2

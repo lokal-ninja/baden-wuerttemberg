@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.1437583
 longitude: 10.032175800000001
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Hofwiesenstraße"
 housenumber: 39/1

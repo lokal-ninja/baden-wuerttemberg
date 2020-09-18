@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.941106700000006
 longitude: 9.262187500000001
-postcode: 71672
+postcode: "71672"
 city: Marbach am Neckar
 street: "Ziegelstraße"
 housenumber: 5

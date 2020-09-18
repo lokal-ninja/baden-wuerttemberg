@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.029023
 longitude: 9.153525100000001
-postcode: 74376
+postcode: "74376"
 city: Gemmrigheim
 street: "Wasenstraße"
 housenumber: 5

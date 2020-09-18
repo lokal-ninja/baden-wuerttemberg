@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.151873300000005
 longitude: 9.2118103
-postcode: 74076
+postcode: "74076"
 city: Heilbronn
 street: "Gottlieb-Daimler-Straße"
 housenumber: 9

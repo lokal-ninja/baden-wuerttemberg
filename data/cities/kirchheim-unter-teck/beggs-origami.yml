@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.6477105
 longitude: 9.4525954
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Schuhstraße"
 housenumber: 5

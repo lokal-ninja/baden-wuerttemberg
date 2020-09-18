@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.939112200000004
 longitude: 9.1419727
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Gansäcker"
 housenumber: 20

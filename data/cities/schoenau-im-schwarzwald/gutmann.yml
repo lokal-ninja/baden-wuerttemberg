@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.787534300000004
 longitude: 7.894495000000001
-postcode: 79677
+postcode: "79677"
 city: Schönau im Schwarzwald
 street: "Hintere Hofmatt"
 housenumber: 3

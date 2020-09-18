@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.9593703
 longitude: 9.1264582
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Hauptstraße"
 housenumber: 55

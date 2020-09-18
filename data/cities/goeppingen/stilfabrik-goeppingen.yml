@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.7090638
 longitude: 9.641738
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Eugenstraße"
 housenumber: 24

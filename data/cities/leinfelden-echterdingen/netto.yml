@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6969092
 longitude: 9.168051
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Hauptstraße"
 housenumber: 

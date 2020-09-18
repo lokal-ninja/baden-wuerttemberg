@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.4930874
 longitude: 8.000537900000001
-postcode: 77770
+postcode: "77770"
 city: Durbach
 street: "Bühlmatte"
 housenumber: 6

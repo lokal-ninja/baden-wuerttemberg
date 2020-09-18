@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 48.1350935
 longitude: 7.812223800000001
-postcode: 79331
+postcode: "79331"
 city: Teningen
 street: "Blochmattenstraße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0142535
 longitude: 8.441283700000001
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Forststraße"
 housenumber: 21

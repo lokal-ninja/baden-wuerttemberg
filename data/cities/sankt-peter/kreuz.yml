@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.015084300000005
 longitude: 8.029347900000001
-postcode: 79271
+postcode: "79271"
 city: Sankt Peter
 street: "Bürgerschaft"
 housenumber: 19

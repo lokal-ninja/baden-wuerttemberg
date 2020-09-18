@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.5848724
 longitude: 9.5595093
-postcode: 73272
+postcode: "73272"
 city: Neidlingen
 street: "Vogtäcker"
 housenumber: 3

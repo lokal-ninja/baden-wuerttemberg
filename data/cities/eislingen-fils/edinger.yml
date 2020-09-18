@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.698202900000005
 longitude: 9.7047804
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Hindenburgstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0786266
 longitude: 8.7324795
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Europastraße"
 housenumber: 12

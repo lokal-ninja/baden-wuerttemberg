@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.405607100000005
 longitude: 9.0585056
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Grabenstraße"
 housenumber: 7

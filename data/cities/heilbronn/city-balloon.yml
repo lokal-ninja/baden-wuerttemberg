@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.141183500000004
 longitude: 9.2169177
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Deutschhofstraße"
 housenumber: 37

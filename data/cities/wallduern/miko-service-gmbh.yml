@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5825873
 longitude: 9.3768358
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: "Würzburger Straße"
 housenumber: 26

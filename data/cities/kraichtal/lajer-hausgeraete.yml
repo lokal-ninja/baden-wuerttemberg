@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.1446977
 longitude: 8.6694429
-postcode: 76703
+postcode: "76703"
 city: Kraichtal
 street: "Leopoldstraße"
 housenumber: 1

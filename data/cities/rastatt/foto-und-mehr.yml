@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.858295700000006
 longitude: 8.2085457
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Bahnhofstraße"
 housenumber: 16

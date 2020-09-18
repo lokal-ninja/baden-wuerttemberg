@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.8514587
 longitude: 8.770290600000001
-postcode: 78234
+postcode: "78234"
 city: Engen
 street: "Hauptstraße"
 housenumber: 16

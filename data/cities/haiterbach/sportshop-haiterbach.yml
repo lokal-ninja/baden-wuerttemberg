@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.524838100000004
 longitude: 8.650701
-postcode: 72221
+postcode: "72221"
 city: Haiterbach
 street: "Nagolder Straße"
 housenumber: 7

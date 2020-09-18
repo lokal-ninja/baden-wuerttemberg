@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.6754581
 longitude: 9.441902800000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Untere Mühlbachstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.806572800000005
 longitude: 9.277564
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Vordere Straße"
 housenumber: 4

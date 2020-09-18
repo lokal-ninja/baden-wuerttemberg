@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.7712103
 longitude: 9.1745585
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Sophienstraße"
 housenumber: 17

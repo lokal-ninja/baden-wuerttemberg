@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.8917471
 longitude: 9.3101265
-postcode: 88630
+postcode: "88630"
 city: Pfullendorf
 street: "Mühlgarten"
 housenumber: 2

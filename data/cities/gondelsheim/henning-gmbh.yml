@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0505573
 longitude: 8.6640637
-postcode: 75053
+postcode: "75053"
 city: Gondelsheim
 street: "Industriestraße"
 housenumber: 9

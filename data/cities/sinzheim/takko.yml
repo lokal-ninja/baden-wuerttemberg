@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.775554500000005
 longitude: 8.176471600000001
-postcode: 76547
+postcode: "76547"
 city: Sinzheim
 street: "Industriestraße"
 housenumber: 22

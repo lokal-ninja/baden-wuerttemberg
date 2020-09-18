@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2495598
 longitude: 9.218443800000001
-postcode: 72501
+postcode: "72501"
 city: Gammertingen
 street: "Sigmaringer Straße"
 housenumber: 35

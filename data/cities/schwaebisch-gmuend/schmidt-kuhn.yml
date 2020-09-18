@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7887464
 longitude: 9.837789200000001
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "In der Vorstadt"
 housenumber: 105

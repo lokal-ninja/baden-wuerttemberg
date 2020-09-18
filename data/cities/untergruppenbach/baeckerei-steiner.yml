@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.0850534
 longitude: 9.320859200000001
-postcode: 74199
+postcode: "74199"
 city: Untergruppenbach
 street: "Abstatter Straße"
 housenumber: 28

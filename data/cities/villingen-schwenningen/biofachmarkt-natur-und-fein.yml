@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0534831
 longitude: 8.4556011
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: "Herdstraße"
 housenumber: 9

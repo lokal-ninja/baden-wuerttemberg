@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.6806368
 longitude: 9.202329500000001
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Staader Straße"
 housenumber: 2

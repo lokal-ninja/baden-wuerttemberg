@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.00509
 longitude: 8.3344371
-postcode: 76189
+postcode: "76189"
 city: Karlsruhe
 street: "Pfalzstraße"
 housenumber: 17

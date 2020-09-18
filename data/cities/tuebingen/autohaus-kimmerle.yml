@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.516879900000006
 longitude: 9.0755142
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Schaffhausenstraße"
 housenumber: 93

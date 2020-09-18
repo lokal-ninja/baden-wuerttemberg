@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.3697401
 longitude: 8.583525700000001
-postcode: 68723
+postcode: "68723"
 city: Oftersheim
 street: "Mannheimer Straße"
 housenumber: 42

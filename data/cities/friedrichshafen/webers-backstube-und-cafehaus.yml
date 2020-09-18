@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.6653226
 longitude: 9.5062221
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Otto-Lilienthal-Straße"
 housenumber: 23

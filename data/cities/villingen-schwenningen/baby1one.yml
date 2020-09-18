@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.0682101
 longitude: 8.4514584
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Am Krebsgraben"
 housenumber: 

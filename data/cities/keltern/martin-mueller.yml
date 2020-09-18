@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.9018278
 longitude: 8.573478600000001
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: "Ettlinger Straße"
 housenumber: 30

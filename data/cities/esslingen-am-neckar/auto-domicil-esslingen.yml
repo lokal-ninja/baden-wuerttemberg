@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.73055
 longitude: 9.329763900000001
-postcode: 73730
+postcode: "73730"
 city: Esslingen am Neckar
 street: "Plochinger Straße"
 housenumber: 114

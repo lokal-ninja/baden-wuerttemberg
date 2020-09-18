@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.086762900000004
 longitude: 8.552033
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Raiffeisenstraße"
 housenumber: 2

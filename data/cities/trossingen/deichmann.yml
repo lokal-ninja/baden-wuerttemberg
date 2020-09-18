@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.071156900000005
 longitude: 8.6274013
-postcode: 78647
+postcode: "78647"
 city: Trossingen
 street: "In Grubäcker"
 housenumber: 9

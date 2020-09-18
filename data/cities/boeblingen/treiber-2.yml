@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6832586
 longitude: 9.030324400000001
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Herdweg"
 housenumber: 106

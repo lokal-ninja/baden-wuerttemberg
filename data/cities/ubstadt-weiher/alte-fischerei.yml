@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 49.176713400000004
 longitude: 8.6936658
-postcode: 76698
+postcode: "76698"
 city: Ubstadt-Weiher
 street: "Industriestraße"
 housenumber: 70

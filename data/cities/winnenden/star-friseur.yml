@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.8775295
 longitude: 9.394256200000001
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Bahnhofstraße"
 housenumber: 26

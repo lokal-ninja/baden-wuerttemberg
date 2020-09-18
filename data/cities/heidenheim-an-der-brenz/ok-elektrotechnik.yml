@@ -3,10 +3,10 @@ type: way
 shop: Basteln
 latitude: 48.7077188
 longitude: 10.1687522
-postcode: 89520
+postcode: "89520"
 city: Heidenheim an der Brenz
 street: "Schleifestraße"
 housenumber: 15
-phone: ""
+phone: "+49 7321 965 134"
 opening_hours: ""
-website: ""
+website: "http://www.nopag.de"

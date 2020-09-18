@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.2133933
 longitude: 8.69656
-postcode: 76684
+postcode: "76684"
 city: Östringen
 street: "Thomas-Howie-Straße"
 housenumber: 2-8

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.768258100000004
 longitude: 9.1589658
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Reinsburgstraße"
 housenumber: 96

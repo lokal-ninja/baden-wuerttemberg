@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.9657454
 longitude: 8.387661900000001
-postcode: 76199
+postcode: "76199"
 city: Karlsruhe
 street: "Gewann Amtmännenwiese"
 housenumber: 3

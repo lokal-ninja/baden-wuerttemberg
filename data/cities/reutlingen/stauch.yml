@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.532977
 longitude: 9.2007911
-postcode: 72768
+postcode: "72768"
 city: Reutlingen
 street: "Kniebisstraße"
 housenumber: 19

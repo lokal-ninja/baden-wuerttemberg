@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.620448800000005
 longitude: 10.245951400000001
-postcode: 89537
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Marktstraße"
 housenumber: 42

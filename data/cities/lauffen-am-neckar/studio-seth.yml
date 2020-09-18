@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 49.076016900000006
 longitude: 9.151465
-postcode: 74348
+postcode: "74348"
 city: Lauffen am Neckar
 street: "Postplatz"
 housenumber: 1

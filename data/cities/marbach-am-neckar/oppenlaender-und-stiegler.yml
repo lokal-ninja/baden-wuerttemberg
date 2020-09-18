@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.943736900000005
 longitude: 9.2704029
-postcode: 71672
+postcode: "71672"
 city: Marbach am Neckar
 street: "Rielingshäuser Straße"
 housenumber: 34

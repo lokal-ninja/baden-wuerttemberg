@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.830825600000004
 longitude: 9.312789500000001
-postcode: 71332
+postcode: "71332"
 city: Waiblingen
 street: "Fronackerstraße"
 housenumber: 10-12

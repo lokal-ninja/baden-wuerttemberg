@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.559530900000006
 longitude: 7.970316700000001
-postcode: 77767
+postcode: "77767"
 city: Appenweier
 street: "Hohenrainweg"
 housenumber: 40

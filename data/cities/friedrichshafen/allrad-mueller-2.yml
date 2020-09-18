@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.6694824
 longitude: 9.4973316
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Allmannsweilerstraße"
 housenumber: 75

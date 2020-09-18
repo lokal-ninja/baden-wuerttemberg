@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.949105100000004
 longitude: 8.4976873
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Bahnhofstraße"
 housenumber: 14

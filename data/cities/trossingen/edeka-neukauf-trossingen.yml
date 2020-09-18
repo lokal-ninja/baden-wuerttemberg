@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.072144900000005
 longitude: 8.6279245
-postcode: 78647
+postcode: "78647"
 city: Trossingen
 street: "Christian-Messner-Straße"
 housenumber: 25

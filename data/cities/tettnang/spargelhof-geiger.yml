@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 47.6745232
 longitude: 9.5820959
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Moosstraße"
 housenumber: 26

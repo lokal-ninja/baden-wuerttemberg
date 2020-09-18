@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.694691500000005
 longitude: 9.272879600000001
-postcode: 88709
+postcode: "88709"
 city: Meersburg
 street: "Marktplatz"
 housenumber: 6

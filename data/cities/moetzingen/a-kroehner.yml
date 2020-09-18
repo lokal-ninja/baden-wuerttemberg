@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5320948
 longitude: 8.7749165
-postcode: 71159
+postcode: "71159"
 city: Mötzingen
 street: "Vollmaringer Straße"
 housenumber: 7

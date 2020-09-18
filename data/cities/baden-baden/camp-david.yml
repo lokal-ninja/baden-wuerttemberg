@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.7821925
 longitude: 8.1909487
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Gewerbepark Cité"
 housenumber: 7

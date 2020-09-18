@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.1404392
 longitude: 9.216204300000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Deutschhofstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1327161
 longitude: 8.9030505
-postcode: 75031
+postcode: "75031"
 city: Eppingen
 street: "Tullastraße"
 housenumber: 8

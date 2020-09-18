@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.361833700000005
 longitude: 8.6310664
-postcode: 72172
+postcode: "72172"
 city: Sulz am Neckar
 street: "Marktplatz"
 housenumber: 1

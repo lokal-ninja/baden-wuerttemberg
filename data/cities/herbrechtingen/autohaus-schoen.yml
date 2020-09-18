@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.6281763
 longitude: 10.1667856
-postcode: 89542
+postcode: "89542"
 city: Herbrechtingen
 street: "Grundweg"
 housenumber: 37

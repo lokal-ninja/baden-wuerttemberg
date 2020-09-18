@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 49.292430100000004
 longitude: 8.5043799
-postcode: 68804
+postcode: "68804"
 city: Altlußheim
 street: "Friedensstraße"
 housenumber: 27

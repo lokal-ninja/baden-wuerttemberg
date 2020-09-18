@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8214437
 longitude: 9.7961206
-postcode: 73557
+postcode: "73557"
 city: Mutlangen
 street: "Gmünder Straße"
 housenumber: 10

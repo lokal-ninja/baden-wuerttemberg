@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.8684771
 longitude: 8.203136500000001
-postcode: 79853
+postcode: "79853"
 city: Lenzkirch
 street: "Kirchplatz"
 housenumber: 10

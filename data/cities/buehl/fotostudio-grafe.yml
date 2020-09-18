@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.693783700000004
 longitude: 8.1348119
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Hauptstraße"
 housenumber: 13

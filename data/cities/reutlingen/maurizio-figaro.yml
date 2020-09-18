@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.484796200000005
 longitude: 9.2039536
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Alteburgstraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3427422
 longitude: 8.6695062
-postcode: 69181
+postcode: "69181"
 city: Leimen
 street: "Bahnhofstraße"
 housenumber: 63

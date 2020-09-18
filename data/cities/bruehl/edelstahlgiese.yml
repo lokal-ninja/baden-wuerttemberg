@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.38806030000001
 longitude: 8.5218533
-postcode: 68782
+postcode: "68782"
 city: Brühl
 street: "Weidweg"
 housenumber: 2/1

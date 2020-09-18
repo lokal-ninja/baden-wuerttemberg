@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.597149800000004
 longitude: 9.359404600000001
-postcode: 72636
+postcode: "72636"
 city: Frickenhausen
 street: "Siemensstraße"
 housenumber: 12

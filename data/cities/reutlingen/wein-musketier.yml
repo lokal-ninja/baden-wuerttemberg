@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.482911200000004
 longitude: 9.2065014
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Heinestraße"
 housenumber: 33

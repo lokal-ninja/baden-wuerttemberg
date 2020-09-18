@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.074966
 longitude: 8.459168700000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Lorenzstraße"
 housenumber: 3c

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.94662
 longitude: 9.1456988
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Buchstraße"
 housenumber: 30

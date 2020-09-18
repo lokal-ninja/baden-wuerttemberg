@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.7902228
 longitude: 9.1994548
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Heinrich-Baumann-Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.2621784
 longitude: 9.1493125
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Neckarstraße"
 housenumber: 27

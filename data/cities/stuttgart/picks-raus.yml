@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.81080660000001
 longitude: 9.217213300000001
-postcode: 70376
+postcode: "70376"
 city: Stuttgart
 street: "Voltastraße"
 housenumber: 2

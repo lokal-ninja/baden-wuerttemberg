@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.7135012
 longitude: 9.5658712
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Seestraße"
 housenumber: 2-4

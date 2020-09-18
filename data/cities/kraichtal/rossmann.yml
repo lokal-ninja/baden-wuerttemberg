@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.1224306
 longitude: 8.7208365
-postcode: 76703
+postcode: "76703"
 city: Kraichtal
 street: "Horst-Kochendörfer-Platz"
 housenumber: 1

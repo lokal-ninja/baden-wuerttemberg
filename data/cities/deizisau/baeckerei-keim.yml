@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7139642
 longitude: 9.3946331
-postcode: 73779
+postcode: "73779"
 city: Deizisau
 street: "Plochinger Straße"
 housenumber: 40

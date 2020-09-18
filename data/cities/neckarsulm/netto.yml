@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.194487800000005
 longitude: 9.2254696
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Seestraße"
 housenumber: 13

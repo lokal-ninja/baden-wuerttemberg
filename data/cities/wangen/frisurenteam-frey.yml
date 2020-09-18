@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.729699600000004
 longitude: 9.611398300000001
-postcode: 73117
+postcode: "73117"
 city: Wangen
 street: "Pfarrberg"
 housenumber: 5

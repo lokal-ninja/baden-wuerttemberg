@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.9596765
 longitude: 9.1287983
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Hauptstraße"
 housenumber: 19

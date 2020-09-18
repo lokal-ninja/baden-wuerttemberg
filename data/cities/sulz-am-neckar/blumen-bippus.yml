@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.363685700000005
 longitude: 8.6321344
-postcode: 72172
+postcode: "72172"
 city: Sulz am Neckar
 street: "Uferstraße"
 housenumber: 5-9

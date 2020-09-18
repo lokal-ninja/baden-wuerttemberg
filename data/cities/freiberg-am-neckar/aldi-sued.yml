@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.928435900000004
 longitude: 9.181868300000001
-postcode: 71691
+postcode: "71691"
 city: Freiberg am Neckar
 street: "Weidengasse"
 housenumber: 5

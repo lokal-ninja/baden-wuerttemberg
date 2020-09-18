@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.954938500000004
 longitude: 8.4957966
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Villinger Straße"
 housenumber: 18

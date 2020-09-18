@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.6415591
 longitude: 9.4695263
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Sudetenstraße"
 housenumber: 17

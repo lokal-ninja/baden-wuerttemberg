@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.807514000000005
 longitude: 9.642060500000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Broner Platz"
 housenumber: 15

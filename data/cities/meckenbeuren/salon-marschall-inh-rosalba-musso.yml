@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.701996400000006
 longitude: 9.5483174
-postcode: 88074
+postcode: "88074"
 city: Meckenbeuren
 street: "Kehlener Straße"
 housenumber: 6

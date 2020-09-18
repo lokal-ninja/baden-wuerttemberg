@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.993014
 longitude: 7.8326371
-postcode: 79115
+postcode: "79115"
 city: Freiburg im Breisgau
 street: "Haslacher Straße"
 housenumber: 43

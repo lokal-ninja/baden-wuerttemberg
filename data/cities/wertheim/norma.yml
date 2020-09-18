@@ -1,12 +1,12 @@
-id: 4671281983
+id: 1446087283
 type: node
 shop: Supermarkt
-latitude: 49.7651516
-longitude: 9.5434947
-postcode: 
+latitude: 49.758637400000005
+longitude: 9.5167751
+postcode: "97877"
 city: Wertheim
-street: "Würzburger Straße"
-housenumber: 69
+street: "Lindenstraße"
+housenumber: 20
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.norma-online.de"
+opening_hours: "Mo-Sa 08:00-20:00; PH,Su closed"
+website: ""

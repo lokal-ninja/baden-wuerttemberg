@@ -3,7 +3,7 @@ type: way
 shop: Hörgeräte
 latitude: 47.9089316
 longitude: 9.8977442
-postcode: 88410
+postcode: "88410"
 city: Bad Wurzach
 street: "Marktstraße"
 housenumber: 28

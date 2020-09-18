@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.2023754
 longitude: 9.5035018
-postcode: 74613
+postcode: "74613"
 city: Öhringen
 street: "Schillerstraße"
 housenumber: 52

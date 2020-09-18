@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1279486
 longitude: 9.9492753
-postcode: 
+postcode: ""
 city: Gutenzell-Hürbel
 street: ""
 housenumber: 1

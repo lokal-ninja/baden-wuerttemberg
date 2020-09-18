@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.6335951
 longitude: 9.8021931
-postcode: 73329
+postcode: "73329"
 city: Kuchen
 street: "Hauptstraße"
 housenumber: 57

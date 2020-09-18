@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.402235100000006
 longitude: 9.7898619
-postcode: 89143
+postcode: "89143"
 city: Blaubeuren
 street: "Württemberger Straße"
 housenumber: 16

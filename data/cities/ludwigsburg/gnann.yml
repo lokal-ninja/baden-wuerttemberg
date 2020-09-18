@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.886439300000006
 longitude: 9.1619347
-postcode: 71636
+postcode: "71636"
 city: Ludwigsburg
 street: "Hoffeldstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7891313
 longitude: 9.2067251
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Hackstraße"
 housenumber: 79

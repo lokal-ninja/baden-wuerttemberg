@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.738494
 longitude: 10.1229907
-postcode: 89551
+postcode: "89551"
 city: Königsbronn
 street: "Schwarzer Weg"
 housenumber: 13

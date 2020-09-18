@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.4467323
 longitude: 8.5087533
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Innstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.5958107
 longitude: 8.869355800000001
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Schulstraße"
 housenumber: 2

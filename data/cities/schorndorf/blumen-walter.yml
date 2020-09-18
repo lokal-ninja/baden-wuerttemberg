@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.8063293
 longitude: 9.526860800000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Marktplatz"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.4995764
 longitude: 8.448115900000001
-postcode: 68159
+postcode: "68159"
 city: Mannheim
 street: "Güterhallenstraße"
 housenumber: 22

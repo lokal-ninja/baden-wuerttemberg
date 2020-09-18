@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1832295
 longitude: 8.410737000000001
-postcode: 78739
+postcode: "78739"
 city: Hardt
 street: "Königsfelder Straße"
 housenumber: 8

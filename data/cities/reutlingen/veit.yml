@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.532599600000005
 longitude: 9.180893900000001
-postcode: 72768
+postcode: "72768"
 city: Reutlingen
 street: "Eichgartenstraße"
 housenumber: 1

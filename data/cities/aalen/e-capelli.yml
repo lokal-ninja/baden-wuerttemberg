@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.836223100000005
 longitude: 10.089449100000001
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Bischof-Fischer-Straße"
 housenumber: 35

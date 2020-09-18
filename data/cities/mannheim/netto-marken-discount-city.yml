@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4999466
 longitude: 8.4711052
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Waldhofstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.6847901
 longitude: 9.3625295
-postcode: 73257
+postcode: "73257"
 city: Köngen
 street: "Stöfflerplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1429666
 longitude: 9.226592700000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Karlstraße"
 housenumber: 55

@@ -1,12 +1,12 @@
-id: 140034371
-type: way
+id: 7379604759
+type: node
 shop: Drogerie
-latitude: 49.0363867
-longitude: 8.3922994
-postcode: 76149
+latitude: 49.0365364
+longitude: 8.3926946
+postcode: "76149"
 city: Karlsruhe
 street: "Lorbeerweg"
 housenumber: 3
-phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: ""
+phone: "+49 7217 5099072"
+opening_hours: "Mo-Sa 10:00-20:00; PH off"
+website: "https://www.dm.de/store/de-1963/karlsruhe/lorbeerweg-3"

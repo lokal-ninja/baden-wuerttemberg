@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.901522
 longitude: 8.5798278
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: "Bergstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 47.577018
 longitude: 8.093622100000001
-postcode: 79725
+postcode: "79725"
 city: Laufenburg (Baden)
 street: "Luise-Bauer-Straße"
 housenumber: 65

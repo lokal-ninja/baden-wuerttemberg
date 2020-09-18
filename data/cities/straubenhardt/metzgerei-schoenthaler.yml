@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.871786500000006
 longitude: 8.544009200000001
-postcode: 75334
+postcode: "75334"
 city: Straubenhardt
 street: "Arnbacher Straße"
 housenumber: 2

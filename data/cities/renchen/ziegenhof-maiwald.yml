@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.649571800000004
 longitude: 7.991792200000001
-postcode: 77855
+postcode: "77855"
 city: Renchen
 street: "Maiwald"
 housenumber: 1

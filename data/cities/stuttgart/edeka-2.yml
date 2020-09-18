@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7899304
 longitude: 9.1706403
-postcode: 70192
+postcode: "70192"
 city: Stuttgart
 street: "Helfferichstraße"
 housenumber: 5

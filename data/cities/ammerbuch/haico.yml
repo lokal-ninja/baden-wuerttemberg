@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.551309
 longitude: 8.9664704
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Tübinger Straße"
 housenumber: 34

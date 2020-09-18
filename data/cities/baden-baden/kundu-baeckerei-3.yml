@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7318389
 longitude: 8.1676939
-postcode: 76534
+postcode: "76534"
 city: Baden-Baden
 street: "Mührichstraße"
 housenumber: 12

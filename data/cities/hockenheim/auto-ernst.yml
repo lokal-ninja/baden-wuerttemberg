@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3387394
 longitude: 8.5341281
-postcode: 68766
+postcode: "68766"
 city: Hockenheim
 street: "2. Industriestraße"
 housenumber: 2

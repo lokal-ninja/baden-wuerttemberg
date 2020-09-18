@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.772035300000006
 longitude: 9.1724721
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Sophienstraße"
 housenumber: 21

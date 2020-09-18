@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.299549500000005
 longitude: 9.970588300000001
-postcode: 74572
+postcode: "74572"
 city: Blaufelden
 street: "Silcherstraße"
 housenumber: 6

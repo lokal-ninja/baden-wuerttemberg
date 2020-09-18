@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.135431600000004
 longitude: 8.5942732
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Kinzigstraße"
 housenumber: 3

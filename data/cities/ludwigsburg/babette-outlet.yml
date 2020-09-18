@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.892951700000005
 longitude: 9.224870300000001
-postcode: 71640
+postcode: "71640"
 city: Ludwigsburg
 street: "Friesenstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0370624
 longitude: 8.705706600000001
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Melanchthonstraße"
 housenumber: 15

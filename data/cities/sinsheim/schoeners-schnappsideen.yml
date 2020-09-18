@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.262842400000004
 longitude: 8.959135
-postcode: 74889
+postcode: "74889"
 city: Sinsheim
 street: "Schrennweg"
 housenumber: 2a

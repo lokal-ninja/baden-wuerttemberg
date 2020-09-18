@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.5058384
 longitude: 8.4685617
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Zeppelinstraße"
 housenumber: 39

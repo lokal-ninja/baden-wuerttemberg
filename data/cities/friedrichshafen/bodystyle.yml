@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.6586798
 longitude: 9.4816395
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Ailinger Straße"
 housenumber: 40

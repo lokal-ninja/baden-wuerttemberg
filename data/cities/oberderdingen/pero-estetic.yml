@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0586393
 longitude: 8.8025175
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Amselrain"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.6731344
 longitude: 9.2149768
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Talstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.250480100000004
 longitude: 8.863791800000001
-postcode: 74889
+postcode: "74889"
 city: Sinsheim
 street: "Carl-Benz-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4996591
 longitude: 9.1776015
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Steinachstraße"
 housenumber: 6

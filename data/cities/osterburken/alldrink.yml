@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.4326069
 longitude: 9.4275053
-postcode: 74706
+postcode: "74706"
 city: Osterburken
 street: "Kapellenstraße"
 housenumber: 12

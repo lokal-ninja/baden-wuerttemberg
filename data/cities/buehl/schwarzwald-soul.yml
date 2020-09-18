@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.695470900000004
 longitude: 8.137663700000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Schwanenstraße"
 housenumber: 12a

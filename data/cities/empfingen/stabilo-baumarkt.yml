@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.3920565
 longitude: 8.7238869
-postcode: 72186
+postcode: "72186"
 city: Empfingen
 street: "Robert-Bosch-Straße"
 housenumber: 16

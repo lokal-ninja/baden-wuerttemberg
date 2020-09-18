@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.7746031
 longitude: 9.1823624
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Esslinger Straße"
 housenumber: 26

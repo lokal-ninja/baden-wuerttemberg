@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.6898295
 longitude: 9.005600000000001
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Konrad-Zuse-Straße"
 housenumber: 2

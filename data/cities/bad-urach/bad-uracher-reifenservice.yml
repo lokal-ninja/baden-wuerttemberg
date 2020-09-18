@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.4915633
 longitude: 9.402071600000001
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Eberleplatz"
 housenumber: 7

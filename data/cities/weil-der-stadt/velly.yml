@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.749608800000004
 longitude: 8.8693741
-postcode: 71263
+postcode: "71263"
 city: Weil der Stadt
 street: "Calwer Gasse"
 housenumber: 4

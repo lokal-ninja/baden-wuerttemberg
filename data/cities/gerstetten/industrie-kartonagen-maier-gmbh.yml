@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.591380300000004
 longitude: 10.1239754
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Heerstraße"
 housenumber: 14

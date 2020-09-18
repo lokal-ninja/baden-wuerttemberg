@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5403363
 longitude: 10.2272125
-postcode: 89168
+postcode: "89168"
 city: Niederstotzingen
 street: "Place de Bages"
 housenumber: 2

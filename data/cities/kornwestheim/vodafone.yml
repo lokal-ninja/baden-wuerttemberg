@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.8647098
 longitude: 9.1810396
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Bahnhofstraße"
 housenumber: 46

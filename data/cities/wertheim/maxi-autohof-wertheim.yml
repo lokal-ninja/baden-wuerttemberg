@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.7725066
 longitude: 9.575341400000001
-postcode: 97877
+postcode: "97877"
 city: Wertheim
 street: "Blättleinsäcker"
 housenumber: 1

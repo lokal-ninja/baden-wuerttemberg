@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.996149700000004
 longitude: 7.8371626
-postcode: 79106
+postcode: "79106"
 city: Freiburg im Breisgau
 street: "Engelbergerstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.493611
 longitude: 9.215284200000001
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Kaiserpassage"
 housenumber: 13

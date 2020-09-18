@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.428215900000005
 longitude: 9.4226916
-postcode: 74706
+postcode: "74706"
 city: Osterburken
 street: "Professor-Schumacher-Straße"
 housenumber: 2/4

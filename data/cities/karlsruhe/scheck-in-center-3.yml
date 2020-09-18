@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.005297500000005
 longitude: 8.4132612
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Rüppurrer Straße"
 housenumber: 1

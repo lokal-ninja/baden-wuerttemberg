@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.698987100000004
 longitude: 8.1344756
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Rheinstraße"
 housenumber: 32

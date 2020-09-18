@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8647317
 longitude: 9.1843097
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Jakobstraße"
 housenumber: 5-7

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.7171985
 longitude: 9.2298136
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Hohenheimer Straße"
 housenumber: 5/1

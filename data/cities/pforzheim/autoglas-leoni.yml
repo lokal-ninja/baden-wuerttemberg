@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.907620900000005
 longitude: 8.7110949
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Bauschlotter Straße"
 housenumber: 29

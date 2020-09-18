@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.9292984
 longitude: 8.568759700000001
-postcode: 75196
+postcode: "75196"
 city: Remchingen
 street: "Karlsbader Straße"
 housenumber: 44-46

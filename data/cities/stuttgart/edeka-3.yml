@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.8351325
 longitude: 9.1653944
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Stammheimer Straße"
 housenumber: 

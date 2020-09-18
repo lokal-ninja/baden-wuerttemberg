@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.9158861
 longitude: 9.4269949
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Donaustraße"
 housenumber: 8

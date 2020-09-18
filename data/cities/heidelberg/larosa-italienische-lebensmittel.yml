@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.4243457
 longitude: 8.6404601
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Grenzhöfer Weg"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9796315
 longitude: 8.316153
-postcode: 76287
+postcode: "76287"
 city: Rheinstetten
 street: "Vogesenstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.520701200000005
 longitude: 8.3224956
-postcode: 72270
+postcode: "72270"
 city: Baiersbronn
 street: "Ruhesteinstraße"
 housenumber: 303

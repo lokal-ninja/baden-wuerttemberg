@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.714266200000004
 longitude: 9.3003642
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Hindenburgstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.1071851
 longitude: 8.4806738
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Wallonenstraße"
 housenumber: 3

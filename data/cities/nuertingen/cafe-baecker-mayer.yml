@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6386417
 longitude: 9.3237485
-postcode: 
+postcode: ""
 city: Nürtingen
 street: "Am Leurenberg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.6987758
 longitude: 8.132915800000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Steinstraße"
 housenumber: 2

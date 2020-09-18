@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.7921321
 longitude: 9.7814888
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Goethestraße"
 housenumber: 89

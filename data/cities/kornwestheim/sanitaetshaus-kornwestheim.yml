@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.864362400000005
 longitude: 9.181649700000001
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Güterbahnhofstraße"
 housenumber: 14

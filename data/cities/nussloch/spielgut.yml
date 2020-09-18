@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 49.3262112
 longitude: 8.684090600000001
-postcode: 69226
+postcode: "69226"
 city: Nußloch
 street: "Hermann-Löns-Straße"
 housenumber: 1

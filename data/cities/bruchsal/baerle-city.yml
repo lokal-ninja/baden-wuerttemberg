@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.1251569
 longitude: 8.5963539
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Friedrichstraße"
 housenumber: 48

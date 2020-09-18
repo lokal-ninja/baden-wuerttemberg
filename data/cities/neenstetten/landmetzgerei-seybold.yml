@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.5492082
 longitude: 10.0225282
-postcode: 89189
+postcode: "89189"
 city: Neenstetten
 street: "Sonnenhalde"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.4104784
 longitude: 9.056948100000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Karl-Jaggy-Straße"
 housenumber: 43

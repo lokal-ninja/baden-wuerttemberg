@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.5254873
 longitude: 8.483657800000001
-postcode: 68305
+postcode: "68305"
 city: Mannheim
 street: "Carl-Reuther-Straße"
 housenumber: 2

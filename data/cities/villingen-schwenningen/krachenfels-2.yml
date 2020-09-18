@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.062245100000005
 longitude: 8.532391
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
 street: "In der Muslen"
 housenumber: 59

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.6628887
 longitude: 9.4820708
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Meistershofener Straße"
 housenumber: 9

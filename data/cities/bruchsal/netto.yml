@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.090555800000004
 longitude: 8.6443513
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Mergelgrube"
 housenumber: 33a

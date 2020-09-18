@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.624501800000004
 longitude: 9.546456300000001
-postcode: 73235
+postcode: "73235"
 city: Weilheim an der Teck
 street: "Carl-Benz-Straße"
 housenumber: 9

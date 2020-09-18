@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5982884
 longitude: 8.871659300000001
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Stuttgarter Straße"
 housenumber: 30

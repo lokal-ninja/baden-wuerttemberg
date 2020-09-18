@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.697138
 longitude: 8.747028
-postcode: 78262
+postcode: "78262"
 city: Gailingen am Hochrhein
 street: "Im Rheinauer"
 housenumber: 3

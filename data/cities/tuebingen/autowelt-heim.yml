@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.4960047
 longitude: 9.0585816
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Ernst-Simon-Straße"
 housenumber: 14

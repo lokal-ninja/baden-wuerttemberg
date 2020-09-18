@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.072142500000005
 longitude: 9.8033254
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Rißegger Straße"
 housenumber: 106

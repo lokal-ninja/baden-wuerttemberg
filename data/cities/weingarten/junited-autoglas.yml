@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 47.814727500000004
 longitude: 9.6383384
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Argonnenstraße"
 housenumber: 1/2
-phone: "+49751553239"
-opening_hours: "Mo-Fr 08:00-12:00 Mo-Fr 13:00-17:00"
-website: "https://www.autoglas-sued.com/"
+phone: ""
+opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
+website: ""

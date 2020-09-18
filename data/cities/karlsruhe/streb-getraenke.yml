@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.008218400000004
 longitude: 8.4385109
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Käppelestraße"
 housenumber: 5

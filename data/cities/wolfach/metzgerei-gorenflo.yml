@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.2999311
 longitude: 8.2244262
-postcode: 77709
+postcode: "77709"
 city: Wolfach
 street: "Vorstadtstraße"
 housenumber: 7

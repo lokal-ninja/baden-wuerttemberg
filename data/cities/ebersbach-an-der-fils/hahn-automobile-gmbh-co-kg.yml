@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7170556
 longitude: 9.5369081
-postcode: 73061
+postcode: "73061"
 city: Ebersbach an der Fils
 street: "Fabrikstraße"
 housenumber: 3

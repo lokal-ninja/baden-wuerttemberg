@@ -3,7 +3,7 @@ type: way
 shop: Wohnwagen
 latitude: 47.8418311
 longitude: 8.9952395
-postcode: 78333
+postcode: "78333"
 city: Stockach
 street: "Johann-Glatt-Straße"
 housenumber: 2

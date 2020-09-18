@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.597021000000005
 longitude: 8.8701865
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Stuttgarter Straße"
 housenumber: 12

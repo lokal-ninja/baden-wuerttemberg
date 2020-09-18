@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.1409992
 longitude: 7.7029548000000005
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "Marktplatz"
 housenumber: 12

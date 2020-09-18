@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.981779
 longitude: 8.817454600000001
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Möhringer Straße"
 housenumber: 10-12

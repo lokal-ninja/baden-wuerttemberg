@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.572906
 longitude: 8.7633575
-postcode: 71131
+postcode: "71131"
 city: Jettingen
 street: "Heilbergstraße"
 housenumber: 3

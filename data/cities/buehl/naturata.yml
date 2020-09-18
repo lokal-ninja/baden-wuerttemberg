@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.6971508
 longitude: 8.136373500000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Franz-Conrad-Straße"
 housenumber: 16

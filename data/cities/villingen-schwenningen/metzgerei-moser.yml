@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.054703700000005
 longitude: 8.5791524
-postcode: 78056
+postcode: "78056"
 city: Villingen-Schwenningen
 street: "Mühlbachstraße"
 housenumber: 19

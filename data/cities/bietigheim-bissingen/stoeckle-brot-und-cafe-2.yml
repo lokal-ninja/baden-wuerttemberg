@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.9396884
 longitude: 9.1329911
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Werner-Siemens-Straße"
 housenumber: 2

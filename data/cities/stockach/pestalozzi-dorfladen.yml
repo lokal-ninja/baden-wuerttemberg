@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.818125800000004
 longitude: 8.9697203
-postcode: 78333
+postcode: "78333"
 city: Stockach
 street: "Pestalozzistraße"
 housenumber: 16

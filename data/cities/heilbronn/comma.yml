@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.1396257
 longitude: 9.2196504
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Am Wollhaus"
 housenumber: 5

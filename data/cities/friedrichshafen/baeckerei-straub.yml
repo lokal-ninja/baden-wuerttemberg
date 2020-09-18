@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.693948500000005
 longitude: 9.4884535
-postcode: 88048
+postcode: "88048"
 city: Friedrichshafen
 street: "Sambethstraße"
 housenumber: 22

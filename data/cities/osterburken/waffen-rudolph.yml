@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 49.424025300000004
 longitude: 9.449021700000001
-postcode: 74706
+postcode: "74706"
 city: Osterburken
 street: "Industriepark"
 housenumber: 108

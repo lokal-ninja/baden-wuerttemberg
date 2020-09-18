@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.4808893
 longitude: 9.231225
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Karl-von-Drais-Straße"
 housenumber: 3

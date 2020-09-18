@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 48.121267
 longitude: 7.848790500000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Lammstraße"
 housenumber: 12

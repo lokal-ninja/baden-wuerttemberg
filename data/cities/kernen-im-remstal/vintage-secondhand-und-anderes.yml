@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8077094
 longitude: 9.3184576
-postcode: 71394
+postcode: "71394"
 city: Kernen im Remstal
 street: "Waiblinger Straße"
 housenumber: 11

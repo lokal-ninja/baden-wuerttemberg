@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1466372
 longitude: 8.5884064
-postcode: 76694
+postcode: "76694"
 city: Forst
 street: "Bruchsaler Straße"
 housenumber: 67

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.94153
 longitude: 9.1273681
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Daimlerstraße"
 housenumber: 2

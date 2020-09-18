@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6869998
 longitude: 9.272121100000001
-postcode: 73765
+postcode: "73765"
 city: Neuhausen auf den Fildern
 street: "Albstraße"
 housenumber: 3

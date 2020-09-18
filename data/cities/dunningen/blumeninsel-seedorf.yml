@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.239800200000005
 longitude: 8.4974839
-postcode: 78655
+postcode: "78655"
 city: Dunningen
 street: "Kräftenweg"
 housenumber: 4

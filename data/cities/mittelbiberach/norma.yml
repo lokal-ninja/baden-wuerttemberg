@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0927292
 longitude: 9.7626177
-postcode: 88441
+postcode: "88441"
 city: Mittelbiberach
 street: "Industriestraße"
 housenumber: 21

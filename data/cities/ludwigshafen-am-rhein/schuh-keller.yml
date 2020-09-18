@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.480805700000005
 longitude: 8.4507189
-postcode: 67059
+postcode: "67059"
 city: Ludwigshafen am Rhein
 street: "Wredestraße"
 housenumber: 10

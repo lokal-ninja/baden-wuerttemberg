@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.711725400000006
 longitude: 9.3069178
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Robert-Bosch-Straße"
 housenumber: 18

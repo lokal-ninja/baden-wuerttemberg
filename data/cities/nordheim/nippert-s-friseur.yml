@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.108103
 longitude: 9.1331363
-postcode: 74226
+postcode: "74226"
 city: Nordheim
 street: "Obere Gasse"
 housenumber: 8

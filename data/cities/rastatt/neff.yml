@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8390172
 longitude: 8.200036500000001
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Donaustraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.283999200000004
 longitude: 8.1631126
-postcode: 77756
+postcode: "77756"
 city: Hausach
 street: "Hauptstraße"
 housenumber: 82

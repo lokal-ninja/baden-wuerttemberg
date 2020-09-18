@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.6724321
 longitude: 9.1728096
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Markgrafenstraße"
 housenumber: 46

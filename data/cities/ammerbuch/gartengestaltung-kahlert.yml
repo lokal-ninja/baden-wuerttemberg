@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.5579453
 longitude: 8.903193400000001
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Magnusweg"
 housenumber: 15

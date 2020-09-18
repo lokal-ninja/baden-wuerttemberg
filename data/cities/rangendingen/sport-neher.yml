@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.381258
 longitude: 8.898473300000001
-postcode: 72414
+postcode: "72414"
 city: Rangendingen
 street: "Rudolf-Diesel-Straße"
 housenumber: 6

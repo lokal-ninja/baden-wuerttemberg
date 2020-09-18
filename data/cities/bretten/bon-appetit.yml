@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.036436800000004
 longitude: 8.7087207
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Weißhofer Straße"
 housenumber: 10

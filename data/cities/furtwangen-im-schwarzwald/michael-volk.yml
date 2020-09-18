@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.074513800000005
 longitude: 8.2575889
-postcode: 78120
+postcode: "78120"
 city: Furtwangen im Schwarzwald
 street: "Brigacher Straße"
 housenumber: 2

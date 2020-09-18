@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.956505500000006
 longitude: 9.074379200000001
-postcode: 74343
+postcode: "74343"
 city: Sachsenheim
 street: "Karl-Heinz-Lüth-Straße"
 housenumber: 2

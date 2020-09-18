@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9973955
 longitude: 8.4775273
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Rittnertstraße"
 housenumber: 3

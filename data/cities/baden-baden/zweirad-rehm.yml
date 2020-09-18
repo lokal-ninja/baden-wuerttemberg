@@ -1,12 +1,12 @@
-id: 1948130725
-type: node
+id: 839670765
+type: way
 shop: Fahrrad
-latitude: 48.787847500000005
-longitude: 8.194134700000001
-postcode: 76532
+latitude: 48.79248380000001
+longitude: 8.1957257
+postcode: "76532"
 city: Baden-Baden
-street: "Ooser Hauptstraße"
+street: "Kuppenheimer Straße"
 housenumber: 3
-phone: "+49 7221 8822"
-opening_hours: "Mo-Fr 07:00-12:30,14:00-18:00; We 07:00-12:30; Sa 09:00-13:00"
+phone: ""
+opening_hours: "Tu-Fr 10:00-12:30,14:00-18:00; Sa 09:00-13:00"
 website: "http://www.zweirad-rehm.de/"

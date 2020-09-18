@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 47.6980817
 longitude: 9.563495900000001
-postcode: 88074
+postcode: "88074"
 city: Meckenbeuren
 street: "Hauptstraße"
 housenumber: 29
 phone: ""
-opening_hours: ""
+opening_hours: "Nach Vereinbarung unter 07542 20659"
 website: ""

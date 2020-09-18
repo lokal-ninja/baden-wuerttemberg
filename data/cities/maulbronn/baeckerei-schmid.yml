@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0061255
 longitude: 8.8583777
-postcode: 75433
+postcode: "75433"
 city: Maulbronn
 street: "Postplatz"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.4086143
 longitude: 8.6996217
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Friedrich-Ebert-Anlage"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7258435
 longitude: 8.008357
-postcode: 77839
+postcode: "77839"
 city: Lichtenau
 street: "Pfarrstraße"
 housenumber: 1

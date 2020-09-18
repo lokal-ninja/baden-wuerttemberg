@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.9469415
 longitude: 8.379390500000001
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Gutenbergstraße"
 housenumber: 3

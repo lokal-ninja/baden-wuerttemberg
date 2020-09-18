@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.548508600000005
 longitude: 9.892398100000001
-postcode: 89173
+postcode: "89173"
 city: Lonsee
 street: "Kirchstraße"
 housenumber: 2

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 48.442798
 longitude: 9.253852
-postcode: 72805
+postcode: "72805"
 city: Lichtenstein
 street: "Siemensstraße"
 housenumber: 5
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su off; PH off"
+opening_hours: "Mo-Sa 0/:00-21:00; Su off; PH off"
 website: ""

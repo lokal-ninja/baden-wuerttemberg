@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.075405
 longitude: 8.737862100000001
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Hauptstraße"
 housenumber: 134

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9648254
 longitude: 8.408080400000001
-postcode: 76199
+postcode: "76199"
 city: Karlsruhe
 street: "Nikolaus-Lenau-Straße"
 housenumber: 12

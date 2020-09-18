@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.120564900000005
 longitude: 7.8486884
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Lammstraße"
 housenumber: 3

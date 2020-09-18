@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5342093
 longitude: 8.7584049
-postcode: 72202
+postcode: "72202"
 city: Nagold
 street: "Robert-Koch-Straße"
 housenumber: 10

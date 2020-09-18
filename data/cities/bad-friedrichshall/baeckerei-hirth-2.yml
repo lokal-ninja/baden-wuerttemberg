@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.235987800000004
 longitude: 9.1938046
-postcode: 74177
+postcode: "74177"
 city: Bad Friedrichshall
 street: "Heuchlinger Straße"
 housenumber: 4

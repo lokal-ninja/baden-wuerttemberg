@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.6958946
 longitude: 8.1515495
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Bühlertalstraße"
 housenumber: 102

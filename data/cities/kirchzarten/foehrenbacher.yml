@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.96441
 longitude: 7.9536262
-postcode: 79199
+postcode: "79199"
 city: Kirchzarten
 street: "Hauptstraße"
 housenumber: 18

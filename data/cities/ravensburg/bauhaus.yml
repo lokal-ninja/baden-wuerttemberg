@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.793222400000005
 longitude: 9.611746700000001
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Bleicherstraße"
 housenumber: 36

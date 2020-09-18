@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.036521
 longitude: 8.5693037
-postcode: 75045
+postcode: "75045"
 city: Walzbachtal
 street: "Jöhlinger Straße"
 housenumber: 162

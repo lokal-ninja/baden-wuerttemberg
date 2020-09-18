@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.097119400000004
 longitude: 9.7863334
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Marktplatz"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.686069
 longitude: 9.013576200000001
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Sindelfinger Straße"
 housenumber: 9

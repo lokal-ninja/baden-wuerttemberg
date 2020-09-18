@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.983112000000006
 longitude: 7.8203452
-postcode: 79115
+postcode: "79115"
 city: Freiburg im Breisgau
 street: "Basler Straße"
 housenumber: 98

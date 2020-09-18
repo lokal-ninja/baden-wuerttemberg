@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.9407602
 longitude: 9.123579900000001
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Rosenstraße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4917737
 longitude: 9.2088094
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Hofstattstraße"
 housenumber: 27

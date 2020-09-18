@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6339412
 longitude: 8.999147200000001
-postcode: 71155
+postcode: "71155"
 city: Altdorf
 street: "Alemannenstraße"
 housenumber: 4

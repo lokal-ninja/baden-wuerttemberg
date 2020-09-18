@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.98415910000001
 longitude: 8.8150461
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Wilhelmstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.817183500000006
 longitude: 8.1572446
-postcode: 76473
+postcode: "76473"
 city: Iffezheim
 street: "Südring"
 housenumber: 19

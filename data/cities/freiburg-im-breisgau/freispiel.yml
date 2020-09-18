@@ -3,7 +3,7 @@ type: node
 shop: Spiele
 latitude: 47.999959000000004
 longitude: 7.8408467
-postcode: 79106
+postcode: "79106"
 city: Freiburg im Breisgau
 street: "Lehener Straße"
 housenumber: 15

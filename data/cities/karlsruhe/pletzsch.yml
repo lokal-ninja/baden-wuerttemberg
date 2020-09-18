@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.0096622
 longitude: 8.3996106
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 179

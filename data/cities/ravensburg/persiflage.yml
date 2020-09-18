@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.784298400000004
 longitude: 9.6126923
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Grüner-Turm-Straße"
 housenumber: 22

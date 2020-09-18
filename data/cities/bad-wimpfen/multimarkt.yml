@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 49.2300217
 longitude: 9.158021100000001
-postcode: 74206
+postcode: "74206"
 city: Bad Wimpfen
 street: "Rappenauer Straße"
 housenumber: 3

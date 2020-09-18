@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.901579500000004
 longitude: 8.5743241
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: "Ettlinger Straße"
 housenumber: 22

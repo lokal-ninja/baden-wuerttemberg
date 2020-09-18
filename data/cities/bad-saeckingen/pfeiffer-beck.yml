@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.560887300000005
 longitude: 7.969481300000001
-postcode: 79713
+postcode: "79713"
 city: Bad Säckingen
 street: "Schaffhauser Straße"
 housenumber: 72

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1367613
 longitude: 9.2079401
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Olgastraße"
 housenumber: 57

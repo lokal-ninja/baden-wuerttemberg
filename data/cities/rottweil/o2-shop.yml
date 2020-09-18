@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.167517700000005
 longitude: 8.625846300000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Hauptstraße"
 housenumber: 22

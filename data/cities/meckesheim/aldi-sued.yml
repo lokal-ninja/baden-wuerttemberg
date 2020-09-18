@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.32346810000001
 longitude: 8.8134624
-postcode: 74909
+postcode: "74909"
 city: Meckesheim
 street: "Brühlweg"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.6696783
 longitude: 9.5195149
-postcode: 
+postcode: ""
 city: Külsheim
 street: "Hauptstraße"
 housenumber: 32

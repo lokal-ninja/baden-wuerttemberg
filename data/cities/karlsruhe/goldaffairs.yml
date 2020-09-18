@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.0072915
 longitude: 8.4270659
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Durlacher Allee"
 housenumber: 35

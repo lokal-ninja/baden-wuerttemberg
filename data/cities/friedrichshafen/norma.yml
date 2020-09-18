@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6555059
 longitude: 9.4666607
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Hochstraße"
 housenumber: 1

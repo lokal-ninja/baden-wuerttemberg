@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.9580277
 longitude: 10.128015900000001
-postcode: 73479
+postcode: "73479"
 city: Ellwangen (Jagst)
 street: "Wolfgangstraße"
 housenumber: 15

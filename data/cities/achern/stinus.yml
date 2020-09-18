@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.6284811
 longitude: 8.0727547
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Ratskellerstraße"
 housenumber: 2a

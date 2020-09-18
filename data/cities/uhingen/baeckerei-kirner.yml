@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7094723
 longitude: 9.5887364
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Frankenstraße"
 housenumber: 1

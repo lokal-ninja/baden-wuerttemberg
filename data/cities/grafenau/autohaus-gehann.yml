@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7151183
 longitude: 8.905882
-postcode: 71120
+postcode: "71120"
 city: Grafenau
 street: "Hofstetten"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.243594200000004
 longitude: 9.0891619
-postcode: 72475
+postcode: "72475"
 city: Bitz
 street: "Marienstraße"
 housenumber: 27

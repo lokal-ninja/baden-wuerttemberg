@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.937651100000004
 longitude: 9.4381492
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Stuttgarter Straße"
 housenumber: 135

@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 48.5754268
 longitude: 7.817489200000001
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Straßburger Straße"
 housenumber: 34

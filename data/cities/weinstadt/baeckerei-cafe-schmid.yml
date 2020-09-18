@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7820486
 longitude: 9.3664191
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Hauptstraße"
 housenumber: 29

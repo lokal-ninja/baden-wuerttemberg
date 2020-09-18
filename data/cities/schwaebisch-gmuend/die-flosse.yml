@@ -3,7 +3,7 @@ type: way
 shop: Tauchen
 latitude: 48.798018400000004
 longitude: 9.799002400000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Kornhausstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.718850700000004
 longitude: 9.2308988
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Rosenstraße"
 housenumber: 1

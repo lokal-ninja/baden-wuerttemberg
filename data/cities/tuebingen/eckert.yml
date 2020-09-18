@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.5159618
 longitude: 9.0553456
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Europaplatz"
 housenumber: 17

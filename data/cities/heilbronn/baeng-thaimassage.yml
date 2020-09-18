@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.1420851
 longitude: 9.2214773
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Schulgasse"
 housenumber: 13

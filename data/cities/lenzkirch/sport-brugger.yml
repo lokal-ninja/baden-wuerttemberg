@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 47.8688864
 longitude: 8.201407600000001
-postcode: 79853
+postcode: "79853"
 city: Lenzkirch
 street: "Freiburger Straße"
 housenumber: 4

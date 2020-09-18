@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.1346112
 longitude: 8.8910684
-postcode: 72362
+postcode: "72362"
 city: Nusplingen
 street: "Kapellentorstraße"
 housenumber: 24

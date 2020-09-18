@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.814505600000004
 longitude: 9.2269438
-postcode: 70374
+postcode: "70374"
 city: Stuttgart
 street: "Hofener Straße"
 housenumber: 126

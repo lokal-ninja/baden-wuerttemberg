@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.980369200000005
 longitude: 8.8202449
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Liptinger Straße"
 housenumber: 13

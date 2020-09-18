@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7738383
 longitude: 9.14497
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Rückertstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.633159400000004
 longitude: 8.8989566
-postcode: 71154
+postcode: "71154"
 city: Nufringen
 street: "Ferdinand-Porsche-Straße"
 housenumber: 20

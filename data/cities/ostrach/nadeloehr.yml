@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.9527956
 longitude: 9.379202600000001
-postcode: 88356
+postcode: "88356"
 city: Ostrach
 street: "Pfullendorfer Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.461050300000004
 longitude: 7.817432200000001
-postcode: 77743
+postcode: "77743"
 city: Neuried
 street: "Schaflacher Weg"
 housenumber: 2

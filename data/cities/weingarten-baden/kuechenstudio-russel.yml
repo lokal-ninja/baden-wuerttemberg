@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.047518100000005
 longitude: 8.5258784
-postcode: 76356
+postcode: "76356"
 city: Weingarten (Baden)
 street: "Ringstraße"
 housenumber: 118

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.341015000000006
 longitude: 7.8716904
-postcode: 77933
+postcode: "77933"
 city: Lahr/Schwarzwald
 street: "Lammstraße"
 housenumber: 15

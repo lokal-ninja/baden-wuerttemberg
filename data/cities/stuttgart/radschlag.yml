@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.734374100000004
 longitude: 9.104238
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Schießmauerstraße"
 housenumber: 31

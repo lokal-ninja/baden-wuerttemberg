@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.474338
 longitude: 8.5355412
-postcode: 68163
+postcode: "68163"
 city: Mannheim
 street: "Seckenheimer Landstraße"
 housenumber: 240

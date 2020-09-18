@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.267512
 longitude: 8.7031382
-postcode: 69231
+postcode: "69231"
 city: Rauenberg
 street: "Wieslocher Straße"
 housenumber: 25

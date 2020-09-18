@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 48.5191038
 longitude: 9.226043200000001
-postcode: 72766
+postcode: "72766"
 city: Reutlingen
 street: "Friedhofstraße"
 housenumber: 8

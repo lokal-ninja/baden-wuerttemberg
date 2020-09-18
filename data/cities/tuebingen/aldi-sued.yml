@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5004768
 longitude: 9.05486
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Wohlboldstraße"
 housenumber: 3

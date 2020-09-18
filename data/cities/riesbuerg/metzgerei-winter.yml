@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.8283816
 longitude: 10.433660600000001
-postcode: 73469
+postcode: "73469"
 city: Riesbürg
 street: "Aalener Straße"
 housenumber: 5

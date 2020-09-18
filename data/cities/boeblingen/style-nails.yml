@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.6881494
 longitude: 9.0074184
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Wolfgang-Brumme-Allee"
 housenumber: 27

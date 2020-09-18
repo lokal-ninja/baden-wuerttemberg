@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 48.461289300000004
 longitude: 8.4119928
-postcode: 72250
+postcode: "72250"
 city: Freudenstadt
 street: "Straßburger Straße"
 housenumber: 2

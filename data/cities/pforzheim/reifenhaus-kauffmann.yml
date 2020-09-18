@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.892811200000004
 longitude: 8.7086039
-postcode: 75175
+postcode: "75175"
 city: Pforzheim
 street: "Lindenstraße"
 housenumber: 28

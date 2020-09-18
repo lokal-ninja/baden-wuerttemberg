@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.3027815
 longitude: 8.6423921
-postcode: 69190
+postcode: "69190"
 city: Walldorf
 street: "Hauptstraße"
 housenumber: 3

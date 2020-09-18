@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.573830900000004
 longitude: 9.400347100000001
-postcode: 72660
+postcode: "72660"
 city: Beuren
 street: "Bergstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.6814984
 longitude: 9.278485100000001
-postcode: 73765
+postcode: "73765"
 city: Neuhausen auf den Fildern
 street: "Kirchstraße"
 housenumber: 14

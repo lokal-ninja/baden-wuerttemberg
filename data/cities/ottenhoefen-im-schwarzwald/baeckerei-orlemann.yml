@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.567648600000005
 longitude: 8.152771900000001
-postcode: 77883
+postcode: "77883"
 city: Ottenhöfen im Schwarzwald
 street: "Ruhesteinstraße"
 housenumber: 81

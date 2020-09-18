@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.799879600000004
 longitude: 9.8218596
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Benzholzstraße"
 housenumber: 12

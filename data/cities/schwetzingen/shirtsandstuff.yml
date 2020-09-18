@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.3874318
 longitude: 8.574224300000001
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Mühlenstraße"
 housenumber: 5

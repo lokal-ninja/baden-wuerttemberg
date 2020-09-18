@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.0469341
 longitude: 7.8026891
-postcode: 79108
+postcode: "79108"
 city: Freiburg im Breisgau
 street: "Fuhrmannsgasse"
 housenumber: 4

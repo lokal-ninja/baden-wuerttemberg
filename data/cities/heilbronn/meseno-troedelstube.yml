@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 49.1270778
 longitude: 9.211549100000001
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Hugo-Rümelin-Straße"
 housenumber: 4

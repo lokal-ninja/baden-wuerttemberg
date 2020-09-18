@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6828188
 longitude: 9.735435800000001
-postcode: 73084
+postcode: "73084"
 city: Salach
 street: "Im Alber"
 housenumber: 1

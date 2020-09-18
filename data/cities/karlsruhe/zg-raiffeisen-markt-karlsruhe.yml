@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.993140600000004
 longitude: 8.4085316
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Fautenbruchstraße"
 housenumber: 35

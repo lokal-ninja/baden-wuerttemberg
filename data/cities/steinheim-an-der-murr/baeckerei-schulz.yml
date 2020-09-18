@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.981883100000005
 longitude: 9.2436357
-postcode: 71711
+postcode: "71711"
 city: Steinheim an der Murr
 street: "Hauptstraße"
 housenumber: 91

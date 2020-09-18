@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5284454
 longitude: 9.0900905
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Nürtinger Straße"
 housenumber: 83

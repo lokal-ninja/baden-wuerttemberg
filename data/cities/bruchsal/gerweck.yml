@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.121328500000004
 longitude: 8.5949167
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Durlacher Straße"
 housenumber: 60

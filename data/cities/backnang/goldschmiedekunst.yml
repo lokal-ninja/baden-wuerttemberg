@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.9466496
 longitude: 9.430076600000001
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Schillerstraße"
 housenumber: 4

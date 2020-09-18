@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.0100241
 longitude: 8.4052749
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kreuzstraße"
 housenumber: 3

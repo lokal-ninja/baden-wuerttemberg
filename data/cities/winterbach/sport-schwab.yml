@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.806308800000004
 longitude: 9.4765225
-postcode: 73650
+postcode: "73650"
 city: Winterbach
 street: "Fabrikstraße"
 housenumber: 4

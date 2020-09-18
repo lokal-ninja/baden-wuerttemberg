@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.703294500000005
 longitude: 9.724959
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Brunnenweiler"
 housenumber: 3

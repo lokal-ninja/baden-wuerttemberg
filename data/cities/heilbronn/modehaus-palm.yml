@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.139922500000004
 longitude: 9.218872000000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Fleiner Straße"
 housenumber: 6

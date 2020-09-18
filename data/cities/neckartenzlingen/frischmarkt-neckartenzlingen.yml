@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.5899743
 longitude: 9.235664100000001
-postcode: 72654
+postcode: "72654"
 city: Neckartenzlingen
 street: "Hauptstraße"
 housenumber: 19

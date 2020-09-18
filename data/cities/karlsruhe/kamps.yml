@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 49.010136300000006
 longitude: 8.395534600000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 142
-phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+phone: "+49 721 20047"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+website: "https://kamps.de/standort/kamps-baeckerei-mit-backstube-karlsruhe-kaiserstr-142-144-europaplatz"

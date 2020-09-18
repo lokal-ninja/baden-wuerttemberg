@@ -3,7 +3,7 @@ type: way
 shop: Videothek
 latitude: 48.6992113
 longitude: 8.137559900000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Geppertstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2652638
 longitude: 9.088563
-postcode: 74936
+postcode: "74936"
 city: Siegelsbach
 street: "Hauptstraße"
 housenumber: 2/1

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.6200643
 longitude: 8.1228575
-postcode: 77887
+postcode: "77887"
 city: Sasbachwalden
 street: "Guthaltweg"
 housenumber: 2

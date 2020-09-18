@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.409319200000006
 longitude: 9.959950300000001
-postcode: 89075
+postcode: "89075"
 city: Ulm
 street: "Trollingerweg"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.000207100000004
 longitude: 9.1411327
-postcode: 74354
+postcode: "74354"
 city: Besigheim
 street: "Kirchstraße"
 housenumber: 

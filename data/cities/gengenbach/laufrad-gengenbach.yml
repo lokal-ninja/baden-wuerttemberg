@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.4002526
 longitude: 8.0142235
-postcode: 77723
+postcode: "77723"
 city: Gengenbach
 street: "Berghauptener Straße"
 housenumber: 7

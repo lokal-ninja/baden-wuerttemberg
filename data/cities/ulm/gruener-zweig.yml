@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.3897765
 longitude: 9.977730600000001
-postcode: 89077
+postcode: "89077"
 city: Ulm
 street: "Haßlerstraße"
 housenumber: 17

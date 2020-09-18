@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.110581200000006
 longitude: 9.7952887
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Raiffeisenstraße"
 housenumber: 28

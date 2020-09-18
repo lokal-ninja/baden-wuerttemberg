@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.13333
 longitude: 9.2205455
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Urbanstraße"
 housenumber: 39

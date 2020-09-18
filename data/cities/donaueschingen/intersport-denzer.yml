@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.957639900000004
 longitude: 8.4894113
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Hagelrainstraße"
 housenumber: 6

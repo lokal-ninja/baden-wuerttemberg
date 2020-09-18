@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.9445775
 longitude: 9.4327561
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Obere Bahnhofstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5211471
 longitude: 9.0565517
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Neue Straße"
 housenumber: 12

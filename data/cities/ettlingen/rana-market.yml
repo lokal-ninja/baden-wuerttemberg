@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.951390800000006
 longitude: 8.3833119
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Pappelweg"
 housenumber: 68

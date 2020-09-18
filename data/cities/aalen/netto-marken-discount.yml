@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8687284
 longitude: 10.108002
-postcode: 73433
+postcode: "73433"
 city: Aalen
 street: "Ellwanger Straße"
 housenumber: 22

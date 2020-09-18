@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.755681900000006
 longitude: 7.5762169
-postcode: 79418
+postcode: "79418"
 city: Schliengen
 street: "Eisenbahnstraße"
 housenumber: 5

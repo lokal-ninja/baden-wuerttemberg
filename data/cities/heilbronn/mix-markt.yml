@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.145299
 longitude: 9.1813786
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Sinsheimer Straße"
 housenumber: 7-11

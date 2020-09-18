@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.876274800000004
 longitude: 9.398986
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Marktstraße"
 housenumber: 43

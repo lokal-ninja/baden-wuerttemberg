@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.966234400000005
 longitude: 8.403975800000001
-postcode: 76199
+postcode: "76199"
 city: Karlsruhe
 street: "Allmendstraße"
 housenumber: 37

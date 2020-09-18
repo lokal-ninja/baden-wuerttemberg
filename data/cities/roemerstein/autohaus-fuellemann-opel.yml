@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.4955178
 longitude: 9.5083268
-postcode: 72587
+postcode: "72587"
 city: Römerstein
 street: "Albstraße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.167232000000006
 longitude: 8.624699900000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Hochmaiengasse"
 housenumber: 14

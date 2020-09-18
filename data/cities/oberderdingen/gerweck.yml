@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0623529
 longitude: 8.8015749
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Brettener Straße"
 housenumber: 6

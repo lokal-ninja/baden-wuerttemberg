@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.2106313
 longitude: 8.6286471
-postcode: 76709
+postcode: "76709"
 city: Kronau
 street: "Südendstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.279483600000006
 longitude: 9.160239
-postcode: 74831
+postcode: "74831"
 city: Gundelsheim
 street: "Deutschmeisterstraße"
 housenumber: 2

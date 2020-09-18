@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.0133609
 longitude: 8.356064
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
 street: "Lerchenstraße"
 housenumber: 1

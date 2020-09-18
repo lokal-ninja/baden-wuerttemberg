@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.8945455
 longitude: 8.939656000000001
-postcode: 71735
+postcode: "71735"
 city: Eberdingen
 street: "Pappelstraße"
 housenumber: 1

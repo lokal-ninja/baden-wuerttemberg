@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.73940270000001
 longitude: 9.3133459
-postcode: 73728
+postcode: "73728"
 city: Esslingen am Neckar
 street: "Hindenburgstraße"
 housenumber: 2

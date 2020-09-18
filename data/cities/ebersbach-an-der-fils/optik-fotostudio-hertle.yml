@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.7143366
 longitude: 9.5266237
-postcode: 73061
+postcode: "73061"
 city: Ebersbach an der Fils
 street: "Hauptstraße"
 housenumber: 21

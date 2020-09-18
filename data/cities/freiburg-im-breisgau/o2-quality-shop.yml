@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.0059374
 longitude: 7.8277149
-postcode: 79110
+postcode: "79110"
 city: Freiburg im Breisgau
 street: "Dunantstraße"
 housenumber: 3

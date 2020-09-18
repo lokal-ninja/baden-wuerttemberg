@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.8274841
 longitude: 10.023697
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Marktstraße"
 housenumber: 41

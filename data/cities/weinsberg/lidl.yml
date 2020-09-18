@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1539756
 longitude: 9.2774506
-postcode: 74189
+postcode: "74189"
 city: Weinsberg
 street: "Heilbronner Straße"
 housenumber: 63

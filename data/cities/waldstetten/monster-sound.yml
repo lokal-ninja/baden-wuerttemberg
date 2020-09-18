@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.775141600000005
 longitude: 9.816872400000001
-postcode: 73550
+postcode: "73550"
 city: Waldstetten
 street: "Gmünder Straße"
 housenumber: 94

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.8652188
 longitude: 9.187357500000001
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Lange Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 47.8075306
 longitude: 9.641939200000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Wilhelmstraße"
 housenumber: 4

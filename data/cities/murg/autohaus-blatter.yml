@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.555173700000005
 longitude: 8.0142798
-postcode: 79730
+postcode: "79730"
 city: Murg
 street: "Gassenackerweg"
 housenumber: 6

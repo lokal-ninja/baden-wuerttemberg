@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.883240400000005
 longitude: 8.3433281
-postcode: 79843
+postcode: "79843"
 city: Löffingen
 street: "Demetriusstraße"
 housenumber: 18

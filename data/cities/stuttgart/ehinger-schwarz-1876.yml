@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 48.776848900000005
 longitude: 9.1746139
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Calwer Straße"
 housenumber: 26
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 11:00-18:00"
 website: ""

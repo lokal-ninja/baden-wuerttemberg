@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.092006500000004
 longitude: 8.5099972
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Weingartener Straße"
 housenumber: 27

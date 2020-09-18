@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.6944579
 longitude: 9.281266200000001
-postcode: 88709
+postcode: "88709"
 city: Meersburg
 street: "Kronenstraße"
 housenumber: 12a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.418443
 longitude: 9.0558665
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Ludwigstraße"
 housenumber: 3

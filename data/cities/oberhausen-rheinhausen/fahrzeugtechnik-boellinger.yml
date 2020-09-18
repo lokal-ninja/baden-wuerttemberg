@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.2811893
 longitude: 8.4799548
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Poststraße"
 housenumber: 48

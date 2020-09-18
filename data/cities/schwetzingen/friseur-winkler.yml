@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.393644
 longitude: 8.5665367
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Friedrich-Ebert-Straße"
 housenumber: 76

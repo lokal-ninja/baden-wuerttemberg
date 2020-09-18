@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.853115200000005
 longitude: 9.9423095
-postcode: 73572
+postcode: "73572"
 city: Heuchlingen
 street: "Hirtengasse"
 housenumber: 12

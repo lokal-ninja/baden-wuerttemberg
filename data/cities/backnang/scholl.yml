@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.953493300000005
 longitude: 9.4398471
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Potsdamer Ring"
 housenumber: 10

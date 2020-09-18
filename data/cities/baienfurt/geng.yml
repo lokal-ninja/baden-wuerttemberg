@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.8262208
 longitude: 9.6506751
-postcode: 88255
+postcode: "88255"
 city: Baienfurt
 street: "Adlergasse"
 housenumber: 1

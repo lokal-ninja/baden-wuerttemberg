@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.692337
 longitude: 9.704918300000001
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Scheerstraße"
 housenumber: 28

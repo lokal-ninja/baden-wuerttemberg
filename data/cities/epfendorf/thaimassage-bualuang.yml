@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.2475736
 longitude: 8.5943698
-postcode: 78736
+postcode: "78736"
 city: Epfendorf
 street: "Gartenstraße"
 housenumber: 16

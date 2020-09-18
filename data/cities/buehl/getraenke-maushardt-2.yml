@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.6965366
 longitude: 8.1304119
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Eisenbahnstraße"
 housenumber: 39

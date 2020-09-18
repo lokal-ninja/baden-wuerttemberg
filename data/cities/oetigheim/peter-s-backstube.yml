@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.889026
 longitude: 8.2327517
-postcode: 76470
+postcode: "76470"
 city: Ötigheim
 street: "Rastatter Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.2037156
 longitude: 9.502350700000001
-postcode: 74613
+postcode: "74613"
 city: Öhringen
 street: "Hindenburgstraße"
 housenumber: 13

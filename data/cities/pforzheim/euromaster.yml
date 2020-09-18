@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.8911492
 longitude: 8.6836395
-postcode: 75172
+postcode: "75172"
 city: Pforzheim
 street: "Habermehlstraße"
 housenumber: 44

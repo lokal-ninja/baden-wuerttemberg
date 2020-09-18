@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3126843
 longitude: 10.093943000000001
-postcode: 74572
+postcode: "74572"
 city: Blaufelden
 street: "Birkenstraße"
 housenumber: 4

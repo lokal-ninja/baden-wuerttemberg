@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.070438300000006
 longitude: 7.8923569
-postcode: 79211
+postcode: "79211"
 city: Denzlingen
 street: "Stuttgarter Straße"
 housenumber: 1

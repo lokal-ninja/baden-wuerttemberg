@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0307152
 longitude: 8.525478
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Dieselstraße"
 housenumber: 1

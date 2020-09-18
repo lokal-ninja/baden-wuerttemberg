@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.656001
 longitude: 9.0642078
-postcode: 71101
+postcode: "71101"
 city: Schönaich
 street: "Wettgasse"
 housenumber: 2

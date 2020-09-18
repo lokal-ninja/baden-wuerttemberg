@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.273244600000005
 longitude: 10.0584267
-postcode: 89186
+postcode: "89186"
 city: Illerrieden
 street: "Max-Eyth-Straße"
 housenumber: 1

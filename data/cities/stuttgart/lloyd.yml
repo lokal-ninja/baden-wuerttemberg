@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 48.7767482
 longitude: 9.174508600000001
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Calwer Straße"
 housenumber: 26
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-20:00"
 website: ""

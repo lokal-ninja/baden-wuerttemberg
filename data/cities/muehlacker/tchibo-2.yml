@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.950633
 longitude: 8.841612300000001
-postcode: 75417
+postcode: "75417"
 city: Mühlacker
 street: ""
 housenumber: 

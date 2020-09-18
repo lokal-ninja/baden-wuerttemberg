@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.2892055
 longitude: 8.67778
-postcode: 69168
+postcode: "69168"
 city: Wiesloch
 street: "Neues Sträßel"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.0843168
 longitude: 8.3991621
-postcode: 76344
+postcode: "76344"
 city: Eggenstein-Leopoldshafen
 street: "Gellertstraße"
 housenumber: 12

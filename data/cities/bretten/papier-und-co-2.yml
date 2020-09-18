@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.0300147
 longitude: 8.717090500000001
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Max-Planck-Straße"
 housenumber: 18

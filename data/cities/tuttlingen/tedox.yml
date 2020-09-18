@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.996256
 longitude: 8.826523100000001
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Ludwigstaler Straße"
 housenumber: 135

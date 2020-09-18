@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.660673100000004
 longitude: 9.6509433
-postcode: 73092
+postcode: "73092"
 city: Heiningen
 street: "Lindenstraße"
 housenumber: 2

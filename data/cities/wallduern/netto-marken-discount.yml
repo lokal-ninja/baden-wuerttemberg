@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5749604
 longitude: 9.365754
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: "Wilhelm-Röntgen-Straße"
 housenumber: 2

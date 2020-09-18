@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.0080797
 longitude: 8.397572
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Herrenstraße"
 housenumber: 33

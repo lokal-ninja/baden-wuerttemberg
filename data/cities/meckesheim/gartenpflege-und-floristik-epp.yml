@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.334251300000005
 longitude: 8.849105
-postcode: 74909
+postcode: "74909"
 city: Meckesheim
 street: "Hauptstraße"
 housenumber: 91

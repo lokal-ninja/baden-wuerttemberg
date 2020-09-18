@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 47.76812210000001
 longitude: 9.1589293
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Turmgasse"
 housenumber: 8

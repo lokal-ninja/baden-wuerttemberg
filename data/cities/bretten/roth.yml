@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.071797700000005
 longitude: 8.6825728
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Heidelsheimer Straße"
 housenumber: 15

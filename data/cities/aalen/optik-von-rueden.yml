@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.8367075
 longitude: 10.0915756
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Gmünder Straße"
 housenumber: 12

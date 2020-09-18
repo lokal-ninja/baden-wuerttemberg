@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.764932200000004
 longitude: 9.509496200000001
-postcode: 97877
+postcode: "97877"
 city: Wertheim
 street: "Bismarckstraße"
 housenumber: 20

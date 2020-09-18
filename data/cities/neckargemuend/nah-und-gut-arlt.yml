@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.386783900000005
 longitude: 8.8034073
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Wiesenbacher Straße"
 housenumber: 65-69

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.9817103
 longitude: 7.803674300000001
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Blumenstraße"
 housenumber: 36

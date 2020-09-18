@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 47.651302300000005
 longitude: 8.5701704
-postcode: 79798
+postcode: "79798"
 city: Jestetten
 street: "Hauptstraße"
 housenumber: 10

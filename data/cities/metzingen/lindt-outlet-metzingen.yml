@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 48.535615
 longitude: 9.28045
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Reutlinger Straße"
 housenumber: 63

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.24981450000001
 longitude: 8.7082619
-postcode: 69242
+postcode: "69242"
 city: Mühlhausen
 street: "In den Rotwiesen"
 housenumber: 2

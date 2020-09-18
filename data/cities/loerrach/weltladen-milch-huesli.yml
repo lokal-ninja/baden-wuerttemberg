@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.601643100000004
 longitude: 7.6644753
-postcode: 79540
+postcode: "79540"
 city: Lörrach
 street: "Rathausgasse"
 housenumber: 6

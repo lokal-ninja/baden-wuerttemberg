@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.8996362
 longitude: 9.1501064
-postcode: 71679
+postcode: "71679"
 city: Asperg
 street: "Ruhrstraße"
 housenumber: 3

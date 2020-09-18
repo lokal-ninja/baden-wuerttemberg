@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.4632565
 longitude: 8.983984900000001
-postcode: 69412
+postcode: "69412"
 city: Eberbach
 street: "Friedrichstraße"
 housenumber: 4

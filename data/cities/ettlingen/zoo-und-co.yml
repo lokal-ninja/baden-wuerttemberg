@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.9443989
 longitude: 8.408747700000001
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Karlsruher Straße"
 housenumber: 10a

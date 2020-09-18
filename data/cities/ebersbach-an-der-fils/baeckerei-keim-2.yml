@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7135685
 longitude: 9.5252244
-postcode: 73061
+postcode: "73061"
 city: Ebersbach an der Fils
 street: "Kirchheimer Straße"
 housenumber: 9

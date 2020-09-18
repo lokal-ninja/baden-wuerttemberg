@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4368604
 longitude: 8.811812900000001
-postcode: 69250
+postcode: "69250"
 city: Schönau
 street: "Greiner Straße"
 housenumber: 6

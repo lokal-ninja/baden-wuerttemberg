@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0018614
 longitude: 8.4625834
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Hauptbahnstraße"
 housenumber: 1

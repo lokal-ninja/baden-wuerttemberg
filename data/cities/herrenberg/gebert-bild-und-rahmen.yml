@@ -3,10 +3,10 @@ type: way
 shop: Kunst
 latitude: 48.5960839
 longitude: 8.869798900000001
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Bronngasse"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-14:00"
 website: "http://www.gebert-galerie.de/"

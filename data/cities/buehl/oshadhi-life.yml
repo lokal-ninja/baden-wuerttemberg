@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.695670400000004
 longitude: 8.137729400000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Schwanenstraße"
 housenumber: 15

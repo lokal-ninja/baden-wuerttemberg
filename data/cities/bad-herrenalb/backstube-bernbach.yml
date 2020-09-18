@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.823515400000005
 longitude: 8.416214100000001
-postcode: 76332
+postcode: "76332"
 city: Bad Herrenalb
 street: "Althofstraße"
 housenumber: 22

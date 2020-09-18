@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.927035700000005
 longitude: 9.245997000000001
-postcode: 88630
+postcode: "88630"
 city: Pfullendorf
 street: "Äußerer Mühlweg"
 housenumber: 12

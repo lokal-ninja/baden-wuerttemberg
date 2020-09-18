@@ -3,7 +3,7 @@ type: node
 shop: Sicherheit
 latitude: 48.6226034
 longitude: 10.018910700000001
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Böhmenstraße"
 housenumber: 10

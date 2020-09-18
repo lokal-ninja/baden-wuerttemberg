@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.291599000000005
 longitude: 8.2195759
-postcode: 77709
+postcode: "77709"
 city: Wolfach
 street: "Hausacher Straße"
 housenumber: 8

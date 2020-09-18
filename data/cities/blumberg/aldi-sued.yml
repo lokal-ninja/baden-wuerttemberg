@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.837838000000005
 longitude: 8.541339500000001
-postcode: 78176
+postcode: "78176"
 city: Blumberg
 street: "Leo-Wohleb-Straße"
 housenumber: 6a

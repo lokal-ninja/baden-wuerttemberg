@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.651542400000004
 longitude: 8.927718800000001
-postcode: 71139
+postcode: "71139"
 city: Ehningen
 street: "Im Letten"
 housenumber: 19

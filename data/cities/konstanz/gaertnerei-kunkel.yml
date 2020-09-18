@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.698073
 longitude: 9.1521243
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Alte Litzelstetter Straße"
 housenumber: 79

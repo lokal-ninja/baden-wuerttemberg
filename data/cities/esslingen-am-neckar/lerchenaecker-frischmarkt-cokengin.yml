@@ -1,12 +1,12 @@
 id: 3595996710
 type: node
 shop: Supermarkt
-latitude: 48.7346343
-longitude: 9.3381124
-postcode: 73730
+latitude: 48.7346597
+longitude: 9.3379577
+postcode: "73730"
 city: Esslingen am Neckar
 street: "Dresdener Straße"
 housenumber: 20
 phone: ""
-opening_hours: "Mo-Fr 07:00-18,Sa 07:00-13:30.Su off"
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:30; Su,PH off"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.822983
 longitude: 10.057634100000001
-postcode: 73431
+postcode: "73431"
 city: Aalen
 street: "Carl-Zeiss-Straße"
 housenumber: 96

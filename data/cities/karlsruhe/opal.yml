@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.0088586
 longitude: 8.407141000000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Zähringerstraße"
 housenumber: 78

@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 48.626202500000005
 longitude: 10.0112909
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Wallbacher Straße"
 housenumber: 6

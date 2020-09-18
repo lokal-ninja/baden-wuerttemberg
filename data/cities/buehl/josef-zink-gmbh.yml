@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 48.7238428
 longitude: 8.1114654
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Vogesenstraße"
 housenumber: 2a

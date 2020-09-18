@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.1395069
 longitude: 9.2192782
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Fleiner Straße"
 housenumber: 4

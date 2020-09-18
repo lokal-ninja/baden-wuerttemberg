@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.142002600000005
 longitude: 9.1918687
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Hans-Multscher-Straße"
 housenumber: 15

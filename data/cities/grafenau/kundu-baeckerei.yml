@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7143725
 longitude: 8.9056557
-postcode: 71120
+postcode: "71120"
 city: Grafenau
 street: "Dätzinger Straße"
 housenumber: 51

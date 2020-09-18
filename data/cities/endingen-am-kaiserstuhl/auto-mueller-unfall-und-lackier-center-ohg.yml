@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.149169300000004
 longitude: 7.6980648
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "Radackerstraße"
 housenumber: 11-13

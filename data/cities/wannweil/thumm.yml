@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5140989
 longitude: 9.1510991
-postcode: 72827
+postcode: "72827"
 city: Wannweil
 street: "Dorfstraße"
 housenumber: 29

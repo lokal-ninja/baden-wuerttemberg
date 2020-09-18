@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.237335300000005
 longitude: 9.0845088
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Riemenstraße"
 housenumber: 37

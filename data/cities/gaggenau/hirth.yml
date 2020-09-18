@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.8040162
 longitude: 8.322936200000001
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Friedrich-Ebert-Straße"
 housenumber: 15

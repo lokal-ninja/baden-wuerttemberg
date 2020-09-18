@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.1405156
 longitude: 9.2123852
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Holzstraße"
 housenumber: 12

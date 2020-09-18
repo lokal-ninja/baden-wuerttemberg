@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.208652900000004
 longitude: 9.0026352
-postcode: 74912
+postcode: "74912"
 city: Kirchardt
 street: "Gewerbestraße"
 housenumber: 13

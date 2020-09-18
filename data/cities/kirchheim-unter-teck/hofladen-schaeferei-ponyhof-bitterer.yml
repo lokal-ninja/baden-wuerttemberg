@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.6550007
 longitude: 9.468321000000001
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Zu den Schafhofäckern"
 housenumber: 200

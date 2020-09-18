@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.9481825
 longitude: 9.4306978
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Uhlandstraße"
 housenumber: 39

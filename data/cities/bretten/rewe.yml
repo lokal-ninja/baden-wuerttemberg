@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.032065100000004
 longitude: 8.7044139
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Pforzheimer Straße"
 housenumber: 46

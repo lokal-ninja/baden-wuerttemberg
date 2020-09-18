@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.1418065
 longitude: 8.6660342
-postcode: 76703
+postcode: "76703"
 city: Kraichtal
 street: "Heidelsheimer Straße"
 housenumber: 7

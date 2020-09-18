@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.9850805
 longitude: 8.393832900000001
-postcode: 76199
+postcode: "76199"
 city: Karlsruhe
 street: "Enzstraße"
 housenumber: 19

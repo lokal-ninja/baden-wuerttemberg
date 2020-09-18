@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.7077516
 longitude: 9.6498658
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Lorcher Straße"
 housenumber: 29

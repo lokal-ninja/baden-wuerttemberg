@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.927571400000005
 longitude: 9.2438376
-postcode: 88630
+postcode: "88630"
 city: Pfullendorf
 street: "Äußerer Mühlweg"
 housenumber: 14/1

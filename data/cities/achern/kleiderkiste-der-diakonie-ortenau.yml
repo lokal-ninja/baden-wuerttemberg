@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.627877000000005
 longitude: 8.0727022
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Ratskellerstraße"
 housenumber: 8

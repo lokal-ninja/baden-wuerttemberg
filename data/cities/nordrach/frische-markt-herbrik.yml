@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.3980082
 longitude: 8.0793168
-postcode: 77787
+postcode: "77787"
 city: Nordrach
 street: "Im Dorf"
 housenumber: 27

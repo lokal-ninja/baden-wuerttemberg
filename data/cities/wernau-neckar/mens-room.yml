@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.689384100000005
 longitude: 9.420542900000001
-postcode: 73249
+postcode: "73249"
 city: Wernau (Neckar)
 street: "Kirchheimer Straße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.147215700000004
 longitude: 8.7931547
-postcode: 78564
+postcode: "78564"
 city: Wehingen
 street: "Bahnhofstraße"
 housenumber: 10

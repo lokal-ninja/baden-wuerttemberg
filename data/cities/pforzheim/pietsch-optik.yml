@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.894900400000004
 longitude: 8.705032300000001
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Güterstraße"
 housenumber: 38

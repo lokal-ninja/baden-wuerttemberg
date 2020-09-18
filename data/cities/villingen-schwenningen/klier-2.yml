@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0710544
 longitude: 8.4559002
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Vockenhauser Straße"
 housenumber: 15

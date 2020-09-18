@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7710863
 longitude: 9.1559208
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Rötestraße"
 housenumber: 32

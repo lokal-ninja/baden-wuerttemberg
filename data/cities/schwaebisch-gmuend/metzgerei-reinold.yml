@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.754248800000006
 longitude: 9.781793
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Hohenstaufenstraße"
 housenumber: 91

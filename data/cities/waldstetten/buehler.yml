@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.770639300000006
 longitude: 9.8232117
-postcode: 73550
+postcode: "73550"
 city: Waldstetten
 street: "Krummhaldenweg"
 housenumber: 10

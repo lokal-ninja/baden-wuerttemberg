@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.8562153
 longitude: 7.775182000000001
-postcode: 79244
+postcode: "79244"
 city: Münstertal
 street: "Belchenstraße"
 housenumber: 4

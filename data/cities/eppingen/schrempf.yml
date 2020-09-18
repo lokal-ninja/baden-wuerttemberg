@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1784782
 longitude: 8.835243400000001
-postcode: 75031
+postcode: "75031"
 city: Eppingen
 street: "Sinsheimer Straße"
 housenumber: 52

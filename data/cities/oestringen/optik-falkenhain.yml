@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.1789439
 longitude: 8.7507296
-postcode: 76684
+postcode: "76684"
 city: Östringen
 street: "Nibelungenstraße"
 housenumber: 15

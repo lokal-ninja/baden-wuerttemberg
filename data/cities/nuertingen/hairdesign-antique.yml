@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.625765300000005
 longitude: 9.3451935
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Kirchheimer Straße"
 housenumber: 19

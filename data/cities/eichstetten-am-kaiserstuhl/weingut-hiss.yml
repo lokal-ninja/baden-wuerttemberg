@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 48.093861800000006
 longitude: 7.747380700000001
-postcode: 79356
+postcode: "79356"
 city: Eichstetten am Kaiserstuhl
 street: "Hauptstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.6261081
 longitude: 8.716358000000001
-postcode: 72218
+postcode: "72218"
 city: Wildberg
 street: "Lindenstraße"
 housenumber: 6

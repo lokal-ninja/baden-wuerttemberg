@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.5977824
 longitude: 7.599992800000001
-postcode: 79576
+postcode: "79576"
 city: Weil am Rhein
 street: "Alte Straße"
 housenumber: 34

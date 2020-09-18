@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.3570397
 longitude: 8.7779609
-postcode: 69245
+postcode: "69245"
 city: Bammental
 street: "Hauptstraße"
 housenumber: 43

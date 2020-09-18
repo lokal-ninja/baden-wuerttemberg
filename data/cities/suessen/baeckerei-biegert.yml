@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.678221900000004
 longitude: 9.7568452
-postcode: 73079
+postcode: "73079"
 city: Süßen
 street: "Johann-Georg-Fischer-Straße"
 housenumber: 3

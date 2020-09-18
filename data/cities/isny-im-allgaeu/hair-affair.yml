@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.695598600000004
 longitude: 10.041963
-postcode: 
+postcode: ""
 city: Isny im Allgäu
 street: "Bahnhofstraße"
 housenumber: 21

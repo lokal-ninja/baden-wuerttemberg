@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4386792
 longitude: 9.3395694
-postcode: 74743
+postcode: "74743"
 city: Seckach
 street: "Industriestraße"
 housenumber: 1

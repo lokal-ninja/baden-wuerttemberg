@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.1150931
 longitude: 9.7353261
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Dreimühlengasse"
 housenumber: 2

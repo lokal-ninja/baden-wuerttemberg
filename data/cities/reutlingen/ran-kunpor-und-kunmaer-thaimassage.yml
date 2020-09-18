@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.5488086
 longitude: 9.2041954
-postcode: 72768
+postcode: "72768"
 city: Reutlingen
 street: "Amundsenstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.7643002
 longitude: 9.2676839
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Augsburger Straße"
 housenumber: 652

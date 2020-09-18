@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 49.1438701
 longitude: 9.2179135
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Gerberstraße"
 housenumber: 20

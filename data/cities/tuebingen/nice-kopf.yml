@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5206114
 longitude: 9.057903600000001
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Mühlstraße"
 housenumber: 12

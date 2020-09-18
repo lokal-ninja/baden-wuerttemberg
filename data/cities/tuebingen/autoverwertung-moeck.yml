@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.513303400000005
 longitude: 9.073748100000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Reutlinger Straße"
 housenumber: 73-79

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.0861516
 longitude: 9.218422400000001
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Leopoldplatz"
 housenumber: 2

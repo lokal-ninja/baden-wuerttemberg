@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.7866872
 longitude: 9.938464100000001
-postcode: 73540
+postcode: "73540"
 city: Heubach
 street: "Fritz-Spießhofer-Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.706987600000005
 longitude: 9.5868642
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Ulmer Straße"
 housenumber: 30

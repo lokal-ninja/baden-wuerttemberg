@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.573589500000004
 longitude: 8.7666479
-postcode: 71131
+postcode: "71131"
 city: Jettingen
 street: "Lehlesstraße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3001714
 longitude: 8.0571453
-postcode: 77790
+postcode: "77790"
 city: Steinach
 street: "Hauptstraße"
 housenumber: 32

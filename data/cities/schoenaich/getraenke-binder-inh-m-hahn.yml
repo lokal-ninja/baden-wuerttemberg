@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.6568757
 longitude: 9.060064500000001
-postcode: 71101
+postcode: "71101"
 city: Schönaich
 street: "Hofstraße"
 housenumber: 4

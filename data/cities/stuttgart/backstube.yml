@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.770855000000005
 longitude: 9.1583033
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Rotebühlstraße"
 housenumber: 104

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.999633900000006
 longitude: 8.4273617
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Wolfartsweierer Straße"
 housenumber: 42a

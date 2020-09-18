@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.78204
 longitude: 9.178298400000001
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Lautenschlagerstraße"
 housenumber: 16

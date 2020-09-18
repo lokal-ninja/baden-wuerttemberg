@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.0437768
 longitude: 9.10458
-postcode: 74357
+postcode: "74357"
 city: Bönnigheim
 street: "Industriestraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.496140000000004
 longitude: 7.9321266
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Bohlsbacher Straße"
 housenumber: 2

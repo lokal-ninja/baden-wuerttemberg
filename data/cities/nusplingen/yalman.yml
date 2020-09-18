@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.133198900000004
 longitude: 8.890129100000001
-postcode: 72362
+postcode: "72362"
 city: Nusplingen
 street: "Kapellentorstraße"
 housenumber: 9

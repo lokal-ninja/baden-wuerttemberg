@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7187921
 longitude: 9.1141211
-postcode: 70565
+postcode: "70565"
 city: Stuttgart
 street: "Osterbronnstraße"
 housenumber: 56b

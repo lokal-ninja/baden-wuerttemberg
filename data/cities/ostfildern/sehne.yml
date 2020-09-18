@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7213245
 longitude: 9.2712958
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Bonhoefferstraße"
 housenumber: 1

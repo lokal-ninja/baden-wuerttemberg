@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.728555300000004
 longitude: 9.241026
-postcode: 88690
+postcode: "88690"
 city: Uhldingen-Mühlhofen
 street: "Römerstraße"
 housenumber: 2

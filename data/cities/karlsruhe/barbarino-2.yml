@@ -3,7 +3,7 @@ type: way
 shop: Tabak
 latitude: 48.993535
 longitude: 8.4007327
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Bahnhofplatz"
 housenumber: 1

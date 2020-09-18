@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.409975800000005
 longitude: 8.694273800000001
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Hauptstraße"
 housenumber: 9-11

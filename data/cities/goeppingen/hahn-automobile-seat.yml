@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.6947667
 longitude: 9.6786522
-postcode: 73037
+postcode: "73037"
 city: Göppingen
 street: "Heilbronner Straße"
 housenumber: 2

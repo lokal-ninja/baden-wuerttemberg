@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.8491542
 longitude: 8.519525400000001
-postcode: 75334
+postcode: "75334"
 city: Straubenhardt
 street: "Gässlesweg"
 housenumber: 9

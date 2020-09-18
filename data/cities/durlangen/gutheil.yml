@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.8591129
 longitude: 9.7930866
-postcode: 73568
+postcode: "73568"
 city: Durlangen
 street: "Schulstraße"
 housenumber: 9

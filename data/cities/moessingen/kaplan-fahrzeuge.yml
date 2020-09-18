@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.408507400000005
 longitude: 9.041269
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Ofterdinger Straße"
 housenumber: 28

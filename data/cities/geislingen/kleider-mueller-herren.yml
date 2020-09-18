@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.2883184
 longitude: 8.8196148
-postcode: 72351
+postcode: "72351"
 city: Geislingen
 street: "Vorstadtstraße"
 housenumber: 65

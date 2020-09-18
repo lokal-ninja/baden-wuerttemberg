@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.0636178
 longitude: 8.657557
-postcode: 75053
+postcode: "75053"
 city: Gondelsheim
 street: "Bruchsaler Straße"
 housenumber: 56

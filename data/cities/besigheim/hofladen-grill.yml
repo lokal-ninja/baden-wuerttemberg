@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.979491700000004
 longitude: 9.1643304
-postcode: 74354
+postcode: "74354"
 city: Besigheim
 street: "Husarenhof"
 housenumber: 26

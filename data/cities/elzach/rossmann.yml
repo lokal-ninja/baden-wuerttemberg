@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1682914
 longitude: 8.06361
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Freiburger Straße"
 housenumber: 23

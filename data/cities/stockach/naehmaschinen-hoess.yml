@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 47.8141678
 longitude: 8.9643754
-postcode: 78333
+postcode: "78333"
 city: Stockach
 street: "Stahringer Straße"
 housenumber: 4

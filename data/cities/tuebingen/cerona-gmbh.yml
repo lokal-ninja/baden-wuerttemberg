@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.523587000000006
 longitude: 9.0990851
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Vor dem Großholz"
 housenumber: 1

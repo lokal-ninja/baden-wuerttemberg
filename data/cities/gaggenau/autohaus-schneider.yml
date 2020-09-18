@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.781439500000005
 longitude: 8.342895
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Landstraße"
 housenumber: 6a

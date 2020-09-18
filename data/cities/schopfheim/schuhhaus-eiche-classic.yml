@@ -1,12 +1,12 @@
 id: 4332532863
 type: node
 shop: Schuhe
-latitude: 47.650562400000005
-longitude: 7.823438200000001
-postcode: 79650
+latitude: 47.6505542
+longitude: 7.8234352000000005
+postcode: "79650"
 city: Schopfheim
 street: "Hauptstraße"
 housenumber: 63
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-13:00; Mo-Fr 14:00-18:30; Sa 09:00-16:00"
 website: ""

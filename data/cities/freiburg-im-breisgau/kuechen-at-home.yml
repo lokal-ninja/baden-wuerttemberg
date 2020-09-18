@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.012638200000005
 longitude: 7.8533711
-postcode: 79108
+postcode: "79108"
 city: Freiburg im Breisgau
 street: "Karlsruher Straße"
 housenumber: 3

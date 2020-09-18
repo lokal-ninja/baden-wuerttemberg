@@ -3,10 +3,10 @@ type: node
 shop: Getränke
 latitude: 49.136105400000005
 longitude: 8.568942100000001
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Kammerforststraße"
 housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH,Su off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.628703200000004
 longitude: 10.189120500000001
-postcode: 89542
+postcode: "89542"
 city: Herbrechtingen
 street: "Zeppelinweg"
 housenumber: 3

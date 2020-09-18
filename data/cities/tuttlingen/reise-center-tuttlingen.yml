@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.9839817
 longitude: 8.817737300000001
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Helfereistraße"
 housenumber: 8

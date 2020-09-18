@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.0339163
 longitude: 8.533358400000001
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Schwenninger Straße"
 housenumber: 28

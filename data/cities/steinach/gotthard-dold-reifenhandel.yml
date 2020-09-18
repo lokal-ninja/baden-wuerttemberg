@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.2918796
 longitude: 8.0347874
-postcode: 77790
+postcode: "77790"
 city: Steinach
 street: "Untertal"
 housenumber: 18

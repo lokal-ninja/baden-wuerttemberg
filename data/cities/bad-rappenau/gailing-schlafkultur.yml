@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.237887300000004
 longitude: 9.091163
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Riemenstraße"
 housenumber: 12

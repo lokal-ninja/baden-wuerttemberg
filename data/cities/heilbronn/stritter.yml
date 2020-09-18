@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.1403443
 longitude: 9.224025600000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Gymnasiumstraße"
 housenumber: 37

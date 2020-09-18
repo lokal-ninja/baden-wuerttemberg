@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.3549522
 longitude: 8.9891153
-postcode: 74858
+postcode: "74858"
 city: Aglasterhausen
 street: "Hauptstraße"
 housenumber: 9

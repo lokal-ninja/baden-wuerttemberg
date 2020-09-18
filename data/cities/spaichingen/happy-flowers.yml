@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.0750134
 longitude: 8.735713800000001
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Marktplatz"
 housenumber: 18

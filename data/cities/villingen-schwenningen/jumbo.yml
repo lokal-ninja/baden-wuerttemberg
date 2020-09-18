@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.055216800000004
 longitude: 8.4662384
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Bahnhofstraße"
 housenumber: 9

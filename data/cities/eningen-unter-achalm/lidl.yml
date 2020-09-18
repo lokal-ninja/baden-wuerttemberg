@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4784127
 longitude: 9.241332700000001
-postcode: 72800
+postcode: "72800"
 city: Eningen unter Achalm
 street: "Reutlinger Straße"
 housenumber: 2

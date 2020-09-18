@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.933680300000006
 longitude: 8.715322500000001
-postcode: 78194
+postcode: "78194"
 city: Immendingen
 street: "Am Freizeitzentrum"
 housenumber: 7

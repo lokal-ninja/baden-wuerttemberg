@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.1046976
 longitude: 8.4845845
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Hindenburgstraße"
 housenumber: 61

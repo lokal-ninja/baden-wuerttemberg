@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.063997300000004
 longitude: 9.8291193
-postcode: 88444
+postcode: "88444"
 city: Ummendorf
 street: "Biberacher Straße"
 housenumber: 25

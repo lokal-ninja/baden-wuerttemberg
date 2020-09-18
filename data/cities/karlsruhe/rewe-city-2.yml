@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.006285600000005
 longitude: 8.4026605
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Ettlinger-Tor-Platz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.717782400000004
 longitude: 8.062949
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Mooser Straße"
 housenumber: 41

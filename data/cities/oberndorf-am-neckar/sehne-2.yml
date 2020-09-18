@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2969006
 longitude: 8.5763096
-postcode: 78727
+postcode: "78727"
 city: Oberndorf am Neckar
 street: "Neckarstraße"
 housenumber: 13

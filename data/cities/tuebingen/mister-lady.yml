@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.512441100000004
 longitude: 9.069781
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Eugenstraße"
 housenumber: 74

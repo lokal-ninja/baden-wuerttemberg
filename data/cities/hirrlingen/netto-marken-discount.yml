@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4147386
 longitude: 8.896027
-postcode: 72145
+postcode: "72145"
 city: Hirrlingen
 street: "Küferstraße"
 housenumber: 21

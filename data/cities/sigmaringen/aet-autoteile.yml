@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.081637300000004
 longitude: 9.2368956
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Friedrich-List-Straße"
 housenumber: 7

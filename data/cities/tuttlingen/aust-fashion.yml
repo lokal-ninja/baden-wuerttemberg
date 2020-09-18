@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.983375900000006
 longitude: 8.8190025
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Obere Hauptstraße"
 housenumber: 12

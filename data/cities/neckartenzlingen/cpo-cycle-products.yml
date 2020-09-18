@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.5835255
 longitude: 9.2280117
-postcode: 72654
+postcode: "72654"
 city: Neckartenzlingen
 street: "Robert-Bosch-Straße"
 housenumber: 8

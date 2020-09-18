@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.6761983
 longitude: 9.204037600000001
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Echterdinger Straße"
 housenumber: 85

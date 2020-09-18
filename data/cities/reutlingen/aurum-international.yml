@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.4948801
 longitude: 9.1953236
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Tübinger Straße"
 housenumber: 98

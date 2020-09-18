@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7682385
 longitude: 9.1487231
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Röckenwiesenstraße"
 housenumber: 28

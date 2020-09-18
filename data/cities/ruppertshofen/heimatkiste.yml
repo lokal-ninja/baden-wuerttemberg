@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.8841223
 longitude: 9.8167221
-postcode: 73577
+postcode: "73577"
 city: Ruppertshofen
 street: "Hauptstraße"
 housenumber: 5

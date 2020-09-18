@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.6588159
 longitude: 8.9367519
-postcode: 71139
+postcode: "71139"
 city: Ehningen
 street: "Königstraße"
 housenumber: 98

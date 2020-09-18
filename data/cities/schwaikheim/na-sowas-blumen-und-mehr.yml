@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.874954
 longitude: 9.351007800000001
-postcode: 71409
+postcode: "71409"
 city: Schwaikheim
 street: "Ludwigsburger Straße"
 housenumber: 2

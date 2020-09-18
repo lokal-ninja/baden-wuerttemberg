@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.077639000000005
 longitude: 8.4675162
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Am Hasenbiel"
 housenumber: 24

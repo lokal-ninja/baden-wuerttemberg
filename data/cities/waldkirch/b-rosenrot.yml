@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.0955937
 longitude: 7.962079800000001
-postcode: 79183
+postcode: "79183"
 city: Waldkirch
 street: "Lange Straße"
 housenumber: 70

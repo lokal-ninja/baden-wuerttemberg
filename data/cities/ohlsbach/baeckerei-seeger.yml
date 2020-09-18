@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.433853500000005
 longitude: 8.0006173
-postcode: 77797
+postcode: "77797"
 city: Ohlsbach
 street: "Dorfstraße"
 housenumber: 45

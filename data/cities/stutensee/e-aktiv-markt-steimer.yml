@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.046316600000004
 longitude: 8.4616529
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Belchenstraße"
 housenumber: 25

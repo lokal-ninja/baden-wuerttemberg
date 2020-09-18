@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.496788
 longitude: 8.5493922
-postcode: 68259
+postcode: "68259"
 city: Mannheim
 street: "Mosbacher Straße"
 housenumber: 21

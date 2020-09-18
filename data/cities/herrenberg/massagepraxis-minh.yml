@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.5967526
 longitude: 8.8690081
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Badgasse"
 housenumber: 18

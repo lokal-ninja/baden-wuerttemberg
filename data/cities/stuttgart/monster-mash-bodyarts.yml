@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.764242
 longitude: 9.166321700000001
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Böblinger Straße"
 housenumber: 12A

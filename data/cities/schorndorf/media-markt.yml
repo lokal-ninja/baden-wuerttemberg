@@ -3,10 +3,10 @@ type: way
 shop: Elektronik
 latitude: 48.8087991
 longitude: 9.530894400000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Heinkelstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-20:00; Su, PH off"
-website: ""
+website: "https://www.mediamarkt.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Wasserpfeife
 latitude: 47.98579
 longitude: 7.811753500000001
-postcode: 79115
+postcode: "79115"
 city: Freiburg im Breisgau
 street: "Uffhauser Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5324486
 longitude: 8.0785452
-postcode: 77704
+postcode: "77704"
 city: Oberkirch
 street: "Renchener Straße"
 housenumber: 3

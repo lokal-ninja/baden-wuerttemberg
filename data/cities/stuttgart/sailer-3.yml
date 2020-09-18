@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8202489
 longitude: 9.2221914
-postcode: 70376
+postcode: "70376"
 city: Stuttgart
 street: "Illerstraße"
 housenumber: 44

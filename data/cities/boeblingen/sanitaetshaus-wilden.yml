@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.688274
 longitude: 9.0031475
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Konrad-Zuse-Straße"
 housenumber: 14

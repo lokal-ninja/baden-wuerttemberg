@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.0011208
 longitude: 8.388495500000001
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Boeckhstraße"
 housenumber: 26

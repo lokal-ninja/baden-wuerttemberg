@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1224423
 longitude: 9.074133400000001
-postcode: 72510
+postcode: "72510"
 city: Stetten am kalten Markt
 street: "Friedenstraße"
 housenumber: 3

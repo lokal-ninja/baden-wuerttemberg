@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.454530600000005
 longitude: 8.5017177
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Friedhofstraße"
 housenumber: 4

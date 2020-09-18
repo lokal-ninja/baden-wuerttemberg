@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.842513800000006
 longitude: 9.2683818
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Albert-Eise-Weg"
 housenumber: 6

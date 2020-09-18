@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.408493400000005
 longitude: 8.5418645
-postcode: 68782
+postcode: "68782"
 city: Brühl
 street: "Albert-Bassermann-Straße"
 housenumber: 22

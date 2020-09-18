@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.823895300000004
 longitude: 10.2025669
-postcode: 73432
+postcode: "73432"
 city: Aalen
 street: "Deutschordenstraße"
 housenumber: 22

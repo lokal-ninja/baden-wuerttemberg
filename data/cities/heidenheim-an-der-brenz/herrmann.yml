@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.679391200000005
 longitude: 10.1067069
-postcode: 89518
+postcode: "89518"
 city: Heidenheim an der Brenz
 street: "Steinheimer Straße"
 housenumber: 65

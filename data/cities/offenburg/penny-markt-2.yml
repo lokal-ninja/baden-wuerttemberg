@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.464713
 longitude: 7.9280360000000005
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Burdastraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.6872898
 longitude: 9.7240993
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Am Eichenbach"
 housenumber: 2

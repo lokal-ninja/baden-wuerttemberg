@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.5324128
 longitude: 8.075953
-postcode: 77704
+postcode: "77704"
 city: Oberkirch
 street: "Hauptstraße"
 housenumber: 62

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.4930371
 longitude: 9.3991463
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Marktplatz"
 housenumber: 10

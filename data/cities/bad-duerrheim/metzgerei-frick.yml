@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.0304471
 longitude: 8.524925900000001
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Dieselstraße"
 housenumber: 1

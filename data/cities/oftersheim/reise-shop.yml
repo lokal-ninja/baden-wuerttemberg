@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.369790900000005
 longitude: 8.583419600000001
-postcode: 
+postcode: ""
 city: Oftersheim
 street: "Mannheimer Straße"
 housenumber: 42

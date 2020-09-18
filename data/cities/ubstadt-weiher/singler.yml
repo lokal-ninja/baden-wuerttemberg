@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.184223900000006
 longitude: 8.647814700000001
-postcode: 76698
+postcode: "76698"
 city: Ubstadt-Weiher
 street: "Schönigstraße"
 housenumber: 11

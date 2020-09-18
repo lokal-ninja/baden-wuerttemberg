@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.6798696
 longitude: 9.4296337
-postcode: 73249
+postcode: "73249"
 city: Wernau (Neckar)
 street: "Kranzhaldenstraße"
 housenumber: 19

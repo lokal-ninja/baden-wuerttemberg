@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.0623225
 longitude: 8.5329864
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
 street: "In der Muslen"
 housenumber: 53

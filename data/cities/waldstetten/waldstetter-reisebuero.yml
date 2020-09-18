@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.770690200000004
 longitude: 9.8301577
-postcode: 73550
+postcode: "73550"
 city: Waldstetten
 street: "Gottlieb-Daimler-Straße"
 housenumber: 15

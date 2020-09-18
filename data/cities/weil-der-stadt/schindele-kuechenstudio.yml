@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.762992100000005
 longitude: 8.8538919
-postcode: 71263
+postcode: "71263"
 city: Weil der Stadt
 street: "Hauptstraße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1011486
 longitude: 9.2139463
-postcode: 74223
+postcode: "74223"
 city: Flein
 street: "Heilbronner Straße"
 housenumber: 2

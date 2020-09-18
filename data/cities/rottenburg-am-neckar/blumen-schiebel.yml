@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.474114400000005
 longitude: 8.932486500000001
-postcode: 72108
+postcode: "72108"
 city: Rottenburg am Neckar
 street: "Kirchgasse"
 housenumber: 10

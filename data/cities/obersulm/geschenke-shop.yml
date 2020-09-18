@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.136744300000004
 longitude: 9.355909800000001
-postcode: 74182
+postcode: "74182"
 city: Obersulm
 street: "Marktplatz"
 housenumber: 1

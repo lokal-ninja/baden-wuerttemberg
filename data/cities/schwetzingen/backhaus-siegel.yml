@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3757755
 longitude: 8.5876066
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Scheffelstraße"
 housenumber: 48

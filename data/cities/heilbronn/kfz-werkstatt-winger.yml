@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1211306
 longitude: 9.1923293
-postcode: 74081
+postcode: "74081"
 city: Heilbronn
 street: "Kolpingstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.5592617
 longitude: 8.4437557
-postcode: 68307
+postcode: "68307"
 city: Mannheim
 street: "Frankenthaler Straße"
 housenumber: 131

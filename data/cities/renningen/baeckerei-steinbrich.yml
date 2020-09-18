@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7669444
 longitude: 8.9362707
-postcode: 71272
+postcode: "71272"
 city: Renningen
 street: "Unterwörthstraße"
 housenumber: 1

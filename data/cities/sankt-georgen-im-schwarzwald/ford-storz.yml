@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1298224
 longitude: 8.3545853
-postcode: 78112
+postcode: "78112"
 city: Sankt Georgen im Schwarzwald
 street: "Triberger Straße"
 housenumber: 3

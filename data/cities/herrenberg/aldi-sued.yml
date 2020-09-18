@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5943461
 longitude: 8.8603725
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Kalkofenstraße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1681503
 longitude: 9.0584456
-postcode: 74193
+postcode: "74193"
 city: Schwaigern
 street: "Massenbachhausener Straße"
 housenumber: 78

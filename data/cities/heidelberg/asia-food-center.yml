@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.4067822
 longitude: 8.6911336
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Kurfürsten-Anlage"
 housenumber: 1-3

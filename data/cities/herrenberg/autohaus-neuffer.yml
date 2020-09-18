@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.614159
 longitude: 8.8444836
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Nufringer Straße"
 housenumber: 8

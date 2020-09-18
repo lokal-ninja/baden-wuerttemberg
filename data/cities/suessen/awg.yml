@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6791415
 longitude: 9.76464
-postcode: 73079
+postcode: "73079"
 city: Süßen
 street: "Bühlstraße"
 housenumber: 25

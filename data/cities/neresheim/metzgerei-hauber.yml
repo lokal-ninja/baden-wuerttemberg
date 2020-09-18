@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.754901100000005
 longitude: 10.3239874
-postcode: 73450
+postcode: "73450"
 city: Neresheim
 street: "Heidenheimer Straße"
 housenumber: 37

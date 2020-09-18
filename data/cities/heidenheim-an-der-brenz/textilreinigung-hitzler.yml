@@ -1,12 +1,12 @@
-id: 6140576189
-type: node
+id: 514010182
+type: way
 shop: Wäscherei
-latitude: 48.7144774
-longitude: 10.161462700000001
-postcode: 89520
+latitude: 48.7144361
+longitude: 10.1613985
+postcode: "89520"
 city: Heidenheim an der Brenz
 street: "Riedstraße"
-housenumber: 7
+housenumber: 3
 phone: "+49 7321 64679"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00; ph off"
 website: "https://textilreinigung-hitzler.de/"

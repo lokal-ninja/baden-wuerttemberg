@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.124770100000006
 longitude: 7.833377700000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Am Elzdamm"
 housenumber: 36

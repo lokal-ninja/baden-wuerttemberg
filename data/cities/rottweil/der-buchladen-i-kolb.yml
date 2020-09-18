@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.1683676
 longitude: 8.6277313
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Metzgergasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.743391700000004
 longitude: 8.9732304
-postcode: 78315
+postcode: "78315"
 city: Radolfzell am Bodensee
 street: "Schützenstraße"
 housenumber: 50

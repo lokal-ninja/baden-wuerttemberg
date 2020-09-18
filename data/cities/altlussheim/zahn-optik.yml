@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.299555500000004
 longitude: 8.497240600000001
-postcode: 68804
+postcode: "68804"
 city: Altlußheim
 street: "Rheinhäuser Straße"
 housenumber: 28

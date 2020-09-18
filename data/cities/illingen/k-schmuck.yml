@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.9560613
 longitude: 8.923059
-postcode: 75428
+postcode: "75428"
 city: Illingen
 street: "Luigstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1678421
 longitude: 9.2031349
-postcode: 74078
+postcode: "74078"
 city: Heilbronn
 street: "Mühlbachstraße"
 housenumber: 1

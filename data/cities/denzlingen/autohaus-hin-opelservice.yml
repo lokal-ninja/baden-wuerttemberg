@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.066005600000004
 longitude: 7.8684215
-postcode: 79211
+postcode: "79211"
 city: Denzlingen
 street: "Kronenstraße"
 housenumber: 40

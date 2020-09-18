@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.8916863
 longitude: 8.6951403
-postcode: 75173
+postcode: "75173"
 city: Pforzheim
 street: "Goethestraße"
 housenumber: 19

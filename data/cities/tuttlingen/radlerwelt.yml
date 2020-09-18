@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.991319100000005
 longitude: 8.8200465
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Goethestraße"
 housenumber: 1

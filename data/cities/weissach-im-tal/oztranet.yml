@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.928465
 longitude: 9.4724602
-postcode: 71554
+postcode: "71554"
 city: Weissach im Tal
 street: "Hauffstraße"
 housenumber: 6

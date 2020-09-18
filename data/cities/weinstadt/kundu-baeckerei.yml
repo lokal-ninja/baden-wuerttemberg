@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.813765700000005
 longitude: 9.382823700000001
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Benzstraße"
 housenumber: 9

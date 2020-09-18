@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.148518900000006
 longitude: 9.233148700000001
-postcode: 74076
+postcode: "74076"
 city: Heilbronn
 street: "Paul-Göbel-Straße"
 housenumber: 17

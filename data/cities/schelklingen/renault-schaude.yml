@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.370061500000006
 longitude: 9.731814
-postcode: 89601
+postcode: "89601"
 city: Schelklingen
 street: "Ehinger Straße"
 housenumber: 15

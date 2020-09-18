@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.683807400000006
 longitude: 9.1650489
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Tübinger Straße"
 housenumber: 11

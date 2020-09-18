@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 48.5208359
 longitude: 9.0556211
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Lange Gasse"
 housenumber: 8
-phone: "+49 7071 51535 "
+phone: "+49 7071 51535"
 opening_hours: "Tu-Fr 09:30-18:30; Sa 10:00-15:00; Su,PH off"
 website: "https://www.optik-steidinger.de"

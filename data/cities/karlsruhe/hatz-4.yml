@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0171269
 longitude: 8.443897900000001
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Mannheimer Straße"
 housenumber: 51

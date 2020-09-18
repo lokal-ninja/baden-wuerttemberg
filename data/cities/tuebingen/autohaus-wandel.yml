@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.5214251
 longitude: 9.0340529
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Sindelfinger Straße"
 housenumber: 12

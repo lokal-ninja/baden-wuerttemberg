@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.726098300000004
 longitude: 9.1480691
-postcode: 70567
+postcode: "70567"
 city: Stuttgart
 street: "Sigmaringer Straße"
 housenumber: 24

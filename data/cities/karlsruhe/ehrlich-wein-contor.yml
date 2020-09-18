@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.0081843
 longitude: 8.4026957
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Hebelstraße"
 housenumber: 19

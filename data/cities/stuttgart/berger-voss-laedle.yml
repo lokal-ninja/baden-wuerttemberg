@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.795813700000004
 longitude: 9.2087306
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Karl-Schurz-Straße"
 housenumber: 21

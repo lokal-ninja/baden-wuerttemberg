@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.6541933
 longitude: 9.466092300000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Werastraße"
 housenumber: 29

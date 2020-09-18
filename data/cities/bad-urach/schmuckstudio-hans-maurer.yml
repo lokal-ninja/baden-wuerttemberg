@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.502103000000005
 longitude: 9.375932
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Bei den Thermen"
 housenumber: 2

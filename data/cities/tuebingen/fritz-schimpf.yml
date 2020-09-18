@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.521793
 longitude: 9.0575714
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Am Lustnauer Tor"
 housenumber: 1

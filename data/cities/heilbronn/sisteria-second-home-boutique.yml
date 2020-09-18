@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.1410235
 longitude: 9.2211905
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Klostergasse"
 housenumber: 3

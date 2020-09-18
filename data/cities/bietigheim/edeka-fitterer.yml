@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9018798
 longitude: 8.2501709
-postcode: 76467
+postcode: "76467"
 city: Bietigheim
 street: "Schneidergarten"
 housenumber: 2

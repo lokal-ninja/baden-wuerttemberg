@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.145528500000005
 longitude: 9.2198524
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Turmstraße"
 housenumber: 20

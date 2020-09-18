@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.6152813
 longitude: 9.5368461
-postcode: 73235
+postcode: "73235"
 city: Weilheim an der Teck
 street: "Lindachstraße"
 housenumber: 13

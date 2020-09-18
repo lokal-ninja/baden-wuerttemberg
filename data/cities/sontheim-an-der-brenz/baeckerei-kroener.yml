@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.5558032
 longitude: 10.287317700000001
-postcode: 89567
+postcode: "89567"
 city: Sontheim an der Brenz
 street: "Hauptstraße"
 housenumber: 13

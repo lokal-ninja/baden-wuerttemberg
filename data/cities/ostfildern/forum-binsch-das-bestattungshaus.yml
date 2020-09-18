@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.7301122
 longitude: 9.252395100000001
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Kronenstraße"
 housenumber: 37/2

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.4899933
 longitude: 9.2144948
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Lindenstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.341754200000004
 longitude: 8.667769700000001
-postcode: 69181
+postcode: "69181"
 city: Leimen
 street: "Leimbachstraße"
 housenumber: 15

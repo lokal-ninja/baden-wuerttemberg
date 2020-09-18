@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.6278598
 longitude: 10.0079887
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Daimlerstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 47.734682600000006
 longitude: 8.7775231
-postcode: 78244
+postcode: "78244"
 city: Gottmadingen
 street: "Hauptstraße"
 housenumber: 57

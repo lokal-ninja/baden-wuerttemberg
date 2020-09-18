@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.490859300000004
 longitude: 9.2122644
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Oberamteistraße"
 housenumber: 8-12

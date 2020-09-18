@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 48.836322900000006
 longitude: 8.834679300000001
-postcode: 71292
+postcode: "71292"
 city: Friolzheim
 street: "Marktplatz"
 housenumber: 3/1

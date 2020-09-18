@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.883916500000005
 longitude: 9.109406
-postcode: 
+postcode: ""
 city: Hohenfels
 street: "Hauptstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.7144422
 longitude: 9.2997907
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Hindenburgstraße"
 housenumber: 6

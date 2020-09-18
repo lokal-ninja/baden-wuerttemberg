@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.067824
 longitude: 9.262024100000001
-postcode: 72517
+postcode: "72517"
 city: Sigmaringendorf
 street: "Hauptstraße"
 housenumber: 1

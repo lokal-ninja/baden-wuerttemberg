@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9309329
 longitude: 8.9668597
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Kehlstraße"
 housenumber: 49

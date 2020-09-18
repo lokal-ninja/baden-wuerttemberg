@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.0748776
 longitude: 8.6347962
-postcode: 78647
+postcode: "78647"
 city: Trossingen
 street: "Hauptstraße"
 housenumber: 37

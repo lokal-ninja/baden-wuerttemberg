@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.937116
 longitude: 9.4441681
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Industriestraße"
 housenumber: 31

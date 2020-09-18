@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7295956
 longitude: 9.1119831
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Hauptstraße"
 housenumber: 5

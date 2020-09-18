@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.422880400000004
 longitude: 8.7525718
-postcode: 69118
+postcode: "69118"
 city: Heidelberg
 street: "Mühlweg"
 housenumber: 7

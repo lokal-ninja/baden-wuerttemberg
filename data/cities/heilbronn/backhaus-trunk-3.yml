@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1432013
 longitude: 9.2195987
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Lohtorstraße"
 housenumber: 31

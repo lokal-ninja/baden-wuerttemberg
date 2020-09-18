@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4924715
 longitude: 9.2088081
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Obere Gerberstraße"
 housenumber: 12

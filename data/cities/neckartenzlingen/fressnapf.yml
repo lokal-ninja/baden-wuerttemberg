@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.584897000000005
 longitude: 9.2286788
-postcode: 72654
+postcode: "72654"
 city: Neckartenzlingen
 street: "Robert-Bosch-Straße"
 housenumber: 3

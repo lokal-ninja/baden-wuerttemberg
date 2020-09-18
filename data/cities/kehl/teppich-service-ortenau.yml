@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.5743924
 longitude: 7.8119123
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Blumenstraße"
 housenumber: 2

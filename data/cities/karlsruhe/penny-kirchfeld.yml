@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.044806900000005
 longitude: 8.394834900000001
-postcode: 76149
+postcode: "76149"
 city: Karlsruhe
 street: "An der Vogelhardt"
 housenumber: 2

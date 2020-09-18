@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.004536900000005
 longitude: 8.4480008
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Durlacher Allee"
 housenumber: 111

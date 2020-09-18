@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.659879100000005
 longitude: 9.1193453
-postcode: 71144
+postcode: "71144"
 city: Steinenbronn
 street: "Tübinger Straße"
 housenumber: 21

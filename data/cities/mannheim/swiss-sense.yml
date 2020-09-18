@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.5181039
 longitude: 8.5562222
-postcode: 68309
+postcode: "68309"
 city: Mannheim
 street: "Spreewaldallee"
 housenumber: 44-50

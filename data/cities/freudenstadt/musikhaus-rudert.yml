@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.460230800000005
 longitude: 8.411789200000001
-postcode: 72250
+postcode: "72250"
 city: Freudenstadt
 street: "Alfredstraße"
 housenumber: 2

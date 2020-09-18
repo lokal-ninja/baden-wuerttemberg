@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3016152
 longitude: 8.4983915
-postcode: 68804
+postcode: "68804"
 city: Altlußheim
 street: "Hauptstraße"
 housenumber: 55

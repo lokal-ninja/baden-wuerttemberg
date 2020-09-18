@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.474275000000006
 longitude: 8.484208200000001
-postcode: 68165
+postcode: "68165"
 city: Mannheim
 street: "Viehhofstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.526775400000005
 longitude: 8.979097000000001
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Jesinger Hauptstraße"
 housenumber: 55

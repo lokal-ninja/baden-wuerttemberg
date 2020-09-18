@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9832393
 longitude: 8.812285300000001
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Bahnhofstraße"
 housenumber: 60

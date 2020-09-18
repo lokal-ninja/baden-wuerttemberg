@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.486624600000006
 longitude: 8.4656854
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 

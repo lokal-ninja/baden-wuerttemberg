@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.287171300000004
 longitude: 8.513072900000001
-postcode: 68809
+postcode: "68809"
 city: Neulußheim
 street: "Am Sandbuckel"
 housenumber: 1

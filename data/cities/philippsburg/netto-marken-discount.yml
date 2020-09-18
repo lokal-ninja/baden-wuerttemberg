@@ -1,12 +1,12 @@
-id: 323418651
-type: way
+id: 7452595537
+type: node
 shop: Supermarkt
-latitude: 49.2318756
-longitude: 8.4622495
-postcode: 76661
+latitude: 49.231727500000005
+longitude: 8.4625284
+postcode: "76661"
 city: Philippsburg
 street: "Dammstraße"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+website: "https://www.netto-online.de/filialfinder"

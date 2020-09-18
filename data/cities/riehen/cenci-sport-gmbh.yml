@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.584838500000004
 longitude: 7.6517489
-postcode: 4125
+postcode: "4125"
 city: Riehen
 street: "Schmiedgasse"
 housenumber: 23

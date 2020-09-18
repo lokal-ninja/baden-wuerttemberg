@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.633999200000005
 longitude: 8.059087100000001
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Severinstraße"
 housenumber: 8

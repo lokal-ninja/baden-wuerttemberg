@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.983445100000004
 longitude: 8.815570000000001
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Wilhelmstraße"
 housenumber: 13

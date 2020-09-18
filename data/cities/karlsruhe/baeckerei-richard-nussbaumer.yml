@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.002649700000006
 longitude: 8.3560953
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
 street: "Zeppelinstraße"
 housenumber: 15

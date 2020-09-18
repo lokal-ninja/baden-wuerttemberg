@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.750750100000005
 longitude: 8.5498489
-postcode: 75323
+postcode: "75323"
 city: Bad Wildbad
 street: "Wilhelmstraße"
 housenumber: 3

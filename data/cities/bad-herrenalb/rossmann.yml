@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.806599600000006
 longitude: 8.4455427
-postcode: 76332
+postcode: "76332"
 city: Bad Herrenalb
 street: "Ettlinger Straße"
 housenumber: 50

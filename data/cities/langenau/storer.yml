@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.5025856
 longitude: 10.1214414
-postcode: 89129
+postcode: "89129"
 city: Langenau
 street: "Karlstraße"
 housenumber: 28

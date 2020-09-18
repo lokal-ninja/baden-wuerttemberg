@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.4029065
 longitude: 9.391323400000001
-postcode: 74740
+postcode: "74740"
 city: Adelsheim
 street: "Marktstraße"
 housenumber: 6

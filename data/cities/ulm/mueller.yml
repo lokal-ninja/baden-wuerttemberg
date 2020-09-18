@@ -1,12 +1,12 @@
-id: 120736174
-type: way
+id: 7544457573
+type: node
 shop: Drogerie
-latitude: 48.398238600000006
-longitude: 9.988000000000001
-postcode: 89073
+latitude: 48.4324348
+longitude: 9.983713400000001
+postcode: "89081"
 city: Ulm
-street: "Hirschstraße"
+street: "Franzenhauserweg"
 housenumber: 19
-phone: "+49 731 / 96246-0"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.mueller.de/"
+phone: ""
+opening_hours: "Mo-Sa 09:00-19:00"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.3999448
 longitude: 9.998679300000001
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Radgasse"
 housenumber: 29

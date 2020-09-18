@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.869837100000005
 longitude: 8.6344407
-postcode: 75217
+postcode: "75217"
 city: Birkenfeld
 street: "Hauptstraße"
 housenumber: 91

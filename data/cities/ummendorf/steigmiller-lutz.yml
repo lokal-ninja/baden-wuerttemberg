@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.0613589
 longitude: 9.8295727
-postcode: 88444
+postcode: "88444"
 city: Ummendorf
 street: "Schweinhauser Straße"
 housenumber: 8

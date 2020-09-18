@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.134307
 longitude: 9.2185538
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Wilhelmstraße"
 housenumber: 40

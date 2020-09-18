@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.144881600000005
 longitude: 9.2196812
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Zehentgasse"
 housenumber: 25

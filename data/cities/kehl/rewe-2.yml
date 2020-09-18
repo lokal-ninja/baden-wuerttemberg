@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.576586600000006
 longitude: 7.8221118
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Königsberger Straße"
 housenumber: 1

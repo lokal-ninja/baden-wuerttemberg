@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.410313300000006
 longitude: 8.8864231
-postcode: 72145
+postcode: "72145"
 city: Hirrlingen
 street: "Marktstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.046956400000006
 longitude: 7.802551200000001
-postcode: 79108
+postcode: "79108"
 city: Freiburg im Breisgau
 street: "Fuhrmannsgasse"
 housenumber: 4

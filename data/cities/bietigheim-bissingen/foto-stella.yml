@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 48.9473962
 longitude: 9.0990295
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Kreuzstraße"
 housenumber: 8

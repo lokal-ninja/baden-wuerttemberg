@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1712958
 longitude: 9.9608367
-postcode: 74592
+postcode: "74592"
 city: Kirchberg an der Jagst
 street: "Im Seefeld"
 housenumber: 2

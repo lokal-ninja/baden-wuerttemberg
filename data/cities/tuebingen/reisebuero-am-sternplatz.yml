@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.5137227
 longitude: 9.065327100000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Ludwigstraße"
 housenumber: 18

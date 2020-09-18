@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1223806
 longitude: 8.408284400000001
-postcode: 76351
+postcode: "76351"
 city: Linkenheim-Hochstetten
 street: "Karlsruher Straße"
 housenumber: 30

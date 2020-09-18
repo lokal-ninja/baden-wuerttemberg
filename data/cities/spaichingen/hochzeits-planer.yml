@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.0757047
 longitude: 8.7360354
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Marktplatz"
 housenumber: 6

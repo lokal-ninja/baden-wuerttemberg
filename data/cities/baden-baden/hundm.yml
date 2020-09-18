@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7636983
 longitude: 8.2378278
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Lange Straße"
 housenumber: 40-42

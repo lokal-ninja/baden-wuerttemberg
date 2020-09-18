@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8181056
 longitude: 8.1779615
-postcode: 79859
+postcode: "79859"
 city: Schluchsee
 street: "Kirchplatz"
 housenumber: 2

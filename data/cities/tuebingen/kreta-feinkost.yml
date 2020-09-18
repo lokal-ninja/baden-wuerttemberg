@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.5131632
 longitude: 9.0650334
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Ebertstraße"
 housenumber: 68

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6921636
 longitude: 9.1225308
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Filderstraße"
 housenumber: 52

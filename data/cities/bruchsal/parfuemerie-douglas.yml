@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 49.1247082
 longitude: 8.597646300000001
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Kaiserstraße"
 housenumber: 54

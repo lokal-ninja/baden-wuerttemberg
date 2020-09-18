@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.263367200000005
 longitude: 8.8520471
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Wilhelm-Kraut-Straße"
 housenumber: 104

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.390326800000004
 longitude: 8.838030400000001
-postcode: 72401
+postcode: "72401"
 city: Haigerloch
 street: "Friedhofweg"
 housenumber: 23/1

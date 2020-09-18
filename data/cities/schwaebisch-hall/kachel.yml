@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 49.113580400000004
 longitude: 9.7363947
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Marktstraße"
 housenumber: 11

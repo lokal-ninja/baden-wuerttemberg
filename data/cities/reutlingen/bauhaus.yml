@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.495436000000005
 longitude: 9.156061000000001
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Justus-von-Liebig-Straße"
 housenumber: 1

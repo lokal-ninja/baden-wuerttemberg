@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8125389
 longitude: 9.3659292
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Strümpfelbacher Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.6370707
 longitude: 8.897677400000001
-postcode: 71116
+postcode: "71116"
 city: Gärtringen
 street: "Grabenstraße"
 housenumber: 62a

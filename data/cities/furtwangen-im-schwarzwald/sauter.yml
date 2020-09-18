@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.049865600000004
 longitude: 8.2063103
-postcode: 78120
+postcode: "78120"
 city: Furtwangen im Schwarzwald
 street: "Bahnhofstraße"
 housenumber: 9

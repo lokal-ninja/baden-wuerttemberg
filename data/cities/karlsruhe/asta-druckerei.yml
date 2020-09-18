@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.0111348
 longitude: 8.414113200000001
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Engesserstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.5829996
 longitude: 9.3674169
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: "Obere Vorstadtstraße"
 housenumber: 12b

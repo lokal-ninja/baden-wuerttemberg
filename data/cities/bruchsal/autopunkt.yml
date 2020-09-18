@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.1267215
 longitude: 8.5864913
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Werner-von-Siemens-Straße"
 housenumber: 23

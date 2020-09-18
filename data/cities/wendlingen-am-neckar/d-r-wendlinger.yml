@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.675165400000004
 longitude: 9.383647700000001
-postcode: 73240
+postcode: "73240"
 city: Wendlingen am Neckar
 street: "Fabrikstraße"
 housenumber: 8

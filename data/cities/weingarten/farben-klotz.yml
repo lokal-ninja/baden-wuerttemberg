@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 47.8054178
 longitude: 9.6230101
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Hähnlehofstraße"
 housenumber: 49

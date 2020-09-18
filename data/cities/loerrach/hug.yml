@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.627563800000004
 longitude: 7.6571746
-postcode: 79539
+postcode: "79539"
 city: Lörrach
 street: "Mühlestraße"
 housenumber: 16

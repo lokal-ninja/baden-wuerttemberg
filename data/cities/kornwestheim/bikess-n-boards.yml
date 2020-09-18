@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.8605584
 longitude: 9.178171200000001
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Stammheimer Straße"
 housenumber: 10

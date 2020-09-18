@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.251011600000005
 longitude: 9.9226948
-postcode: 74582
+postcode: "74582"
 city: Gerabronn
 street: "Blaufeldener Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.952601800000004
 longitude: 8.501038300000001
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Karlstraße"
 housenumber: 53-55

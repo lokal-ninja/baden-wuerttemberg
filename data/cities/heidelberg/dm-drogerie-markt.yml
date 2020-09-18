@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.3835248
 longitude: 8.6782818
-postcode: 69126
+postcode: "69126"
 city: Heidelberg
 street: "Felix-Wankel-Straße"
 housenumber: 18

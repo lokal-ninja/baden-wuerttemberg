@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 48.8575357
 longitude: 10.354067
-postcode: 73441
+postcode: "73441"
 city: Bopfingen
 street: "Hauptstraße"
 housenumber: 2

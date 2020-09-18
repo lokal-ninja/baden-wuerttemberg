@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.7919344
 longitude: 9.184782
-postcode: 70191
+postcode: "70191"
 city: Stuttgart
 street: "Wolframstraße"
 housenumber: 24

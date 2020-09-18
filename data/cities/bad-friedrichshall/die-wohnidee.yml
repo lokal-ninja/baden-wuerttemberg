@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.2288775
 longitude: 9.2145689
-postcode: 74177
+postcode: "74177"
 city: Bad Friedrichshall
 street: "Friedrichshaller Straße"
 housenumber: 14

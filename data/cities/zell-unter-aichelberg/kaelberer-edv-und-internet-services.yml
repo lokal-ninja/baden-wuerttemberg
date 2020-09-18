@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.6532744
 longitude: 9.5679966
-postcode: 73119
+postcode: "73119"
 city: Zell unter Aichelberg
 street: "Zeppelinstraße"
 housenumber: 7

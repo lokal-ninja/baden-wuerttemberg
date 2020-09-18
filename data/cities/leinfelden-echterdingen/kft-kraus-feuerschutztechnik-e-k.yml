@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.695163
 longitude: 9.160505500000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Friedrich-List-Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.4460223
 longitude: 8.6742687
-postcode: 69221
+postcode: "69221"
 city: Dossenheim
 street: "Ringstraße"
 housenumber: 1-3

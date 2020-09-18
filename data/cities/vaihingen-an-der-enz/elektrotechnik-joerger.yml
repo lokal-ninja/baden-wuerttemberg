@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.9537788
 longitude: 8.9792764
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Lenaustraße"
 housenumber: 8

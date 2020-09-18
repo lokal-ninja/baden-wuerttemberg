@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.6575761
 longitude: 8.427598600000001
-postcode: 79771
+postcode: "79771"
 city: Klettgau
 street: "Hauptstraße"
 housenumber: 60

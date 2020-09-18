@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.683369000000006
 longitude: 9.1573949
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Fürstenbergstraße"
 housenumber: 90

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.15013870000001
 longitude: 9.217546
-postcode: 74076
+postcode: "74076"
 city: Heilbronn
 street: "Weipertstraße"
 housenumber: 41

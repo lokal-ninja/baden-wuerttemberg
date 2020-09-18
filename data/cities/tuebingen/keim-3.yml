@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.542436
 longitude: 9.0606662
-postcode: 72076
+postcode: "72076"
 city: Tübingen
 street: "Berliner Ring"
 housenumber: 20

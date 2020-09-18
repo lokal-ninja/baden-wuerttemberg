@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.8247021
 longitude: 10.1208501
-postcode: 73432
+postcode: "73432"
 city: Aalen
 street: "Pfromäckerstraße"
 housenumber: 1

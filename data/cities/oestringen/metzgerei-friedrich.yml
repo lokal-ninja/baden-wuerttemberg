@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.177905
 longitude: 8.7519469
-postcode: 76684
+postcode: "76684"
 city: Östringen
 street: "Eppinger Straße"
 housenumber: 1

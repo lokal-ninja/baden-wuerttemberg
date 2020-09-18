@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.0852901
 longitude: 8.6415912
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Heidelsheimer Straße"
 housenumber: 2

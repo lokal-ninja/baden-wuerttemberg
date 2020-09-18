@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.6355039
 longitude: 9.7568604
-postcode: 88239
+postcode: "88239"
 city: Wangen im Allgäu
 street: "Bodenseestraße"
 housenumber: 52

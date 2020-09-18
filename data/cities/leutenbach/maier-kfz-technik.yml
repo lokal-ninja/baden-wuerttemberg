@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.9049178
 longitude: 9.4142142
-postcode: 71397
+postcode: "71397"
 city: Leutenbach
 street: "Robert-Bosch-Straße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.771965
 longitude: 9.1544103
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Ludwigstraße"
 housenumber: 96A

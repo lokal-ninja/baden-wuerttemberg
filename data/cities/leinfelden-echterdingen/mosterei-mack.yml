@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.703957200000005
 longitude: 9.1354494
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Schulstraße"
 housenumber: 53

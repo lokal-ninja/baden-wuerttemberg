@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3971577
 longitude: 8.8033937
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Zum Felsenberg"
 housenumber: 3

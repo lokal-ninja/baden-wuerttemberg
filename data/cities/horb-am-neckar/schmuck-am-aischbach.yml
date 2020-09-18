@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.444424600000005
 longitude: 8.6918783
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Neckarstraße"
 housenumber: 12

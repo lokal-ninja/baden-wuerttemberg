@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.094861
 longitude: 8.7133524
-postcode: 78554
+postcode: "78554"
 city: Aldingen
 street: "Bahnhofstraße"
 housenumber: 18

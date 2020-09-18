@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.070326900000005
 longitude: 9.1583283
-postcode: 74348
+postcode: "74348"
 city: Lauffen am Neckar
 street: "Stuttgarter Straße"
 housenumber: 75

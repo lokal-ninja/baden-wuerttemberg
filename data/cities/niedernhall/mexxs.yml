@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.302337900000005
 longitude: 9.6184396
-postcode: 74676
+postcode: "74676"
 city: Niedernhall
 street: "Salzstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.4910453
 longitude: 8.8425414
-postcode: 72149
+postcode: "72149"
 city: Neustetten
 street: "Rötestraße"
 housenumber: 14

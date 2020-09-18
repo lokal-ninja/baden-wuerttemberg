@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.685726100000004
 longitude: 9.0091967
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Bahnhofstraße"
 housenumber: 2

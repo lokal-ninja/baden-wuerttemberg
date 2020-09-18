@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1679855
 longitude: 8.0632745
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Freiburger Straße"
 housenumber: 23

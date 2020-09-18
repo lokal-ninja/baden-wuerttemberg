@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.864209900000006
 longitude: 10.3535824
-postcode: 73441
+postcode: "73441"
 city: Bopfingen
 street: "Jahnstraße"
 housenumber: 27

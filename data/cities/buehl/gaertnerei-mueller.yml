@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.6891636
 longitude: 8.1446611
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Kraftfeldstraße"
 housenumber: 1

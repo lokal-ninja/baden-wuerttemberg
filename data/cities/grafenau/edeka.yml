@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.714498000000006
 longitude: 8.9054722
-postcode: 71120
+postcode: "71120"
 city: Grafenau
 street: "Dätzinger Straße"
 housenumber: 

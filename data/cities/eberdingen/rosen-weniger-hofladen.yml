@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.892923
 longitude: 8.997563900000001
-postcode: 71735
+postcode: "71735"
 city: Eberdingen
 street: "Enzweihinger Straße"
 housenumber: 40

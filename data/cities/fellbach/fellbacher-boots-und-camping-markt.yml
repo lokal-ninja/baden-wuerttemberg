@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.8165266
 longitude: 9.280883900000001
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Friedrich-List-Straße"
 housenumber: 1

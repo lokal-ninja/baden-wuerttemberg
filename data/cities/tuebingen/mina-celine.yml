@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5214447
 longitude: 9.0559124
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Metzgergasse"
 housenumber: 4

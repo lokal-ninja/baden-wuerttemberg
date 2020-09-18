@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.857807
 longitude: 10.1020333
-postcode: 73433
+postcode: "73433"
 city: Aalen
 street: "Auguste-Keßler-Straße"
 housenumber: 3

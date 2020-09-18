@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.776612500000006
 longitude: 9.152800800000001
-postcode: 70193
+postcode: "70193"
 city: Stuttgart
 street: "Rosenbergstraße"
 housenumber: 109

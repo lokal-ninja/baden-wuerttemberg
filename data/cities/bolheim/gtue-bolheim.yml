@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.6322525
 longitude: 10.1555475
-postcode: 89542
+postcode: "89542"
 city: Bolheim
 street: "Zoeppritzstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9953859
 longitude: 8.388594900000001
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Ebertstraße"
 housenumber: 40

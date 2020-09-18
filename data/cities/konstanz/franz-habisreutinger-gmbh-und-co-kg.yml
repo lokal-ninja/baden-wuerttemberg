@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.6733059
 longitude: 9.1534467
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Line-Eid-Straße"
 housenumber: 9

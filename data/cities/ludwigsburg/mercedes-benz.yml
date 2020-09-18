@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.8896886
 longitude: 9.170407
-postcode: 71636
+postcode: "71636"
 city: Ludwigsburg
 street: "Schwieberdinger Straße"
 housenumber: 87

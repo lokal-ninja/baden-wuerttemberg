@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.805050300000005
 longitude: 7.6025878
-postcode: 79379
+postcode: "79379"
 city: Müllheim
 street: "Lörracher Straße"
 housenumber: 30

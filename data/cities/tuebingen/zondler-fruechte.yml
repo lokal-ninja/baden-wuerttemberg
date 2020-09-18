@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.5176974
 longitude: 9.0798413
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Schaffhausenstraße"
 housenumber: 109

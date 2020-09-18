@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.8080129
 longitude: 9.2087448
-postcode: 70376
+postcode: "70376"
 city: Stuttgart
 street: "Aachener Straße"
 housenumber: 34

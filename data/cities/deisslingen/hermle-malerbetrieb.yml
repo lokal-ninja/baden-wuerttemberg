@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 48.1043304
 longitude: 8.598768
-postcode: 78652
+postcode: "78652"
 city: Deißlingen
 street: "Baarstraße"
 housenumber: 12

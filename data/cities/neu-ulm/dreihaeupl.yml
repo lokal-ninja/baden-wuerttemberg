@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.394516
 longitude: 9.9970291
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Krankenhausstraße"
 housenumber: 1

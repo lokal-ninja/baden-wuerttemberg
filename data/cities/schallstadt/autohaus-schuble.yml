@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.9611996
 longitude: 7.7580705000000005
-postcode: 79227
+postcode: "79227"
 city: Schallstadt
 street: "Brandhof"
 housenumber: 14

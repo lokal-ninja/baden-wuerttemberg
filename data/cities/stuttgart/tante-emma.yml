@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.7419452
 longitude: 9.1750139
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Große Falterstraße"
 housenumber: 80

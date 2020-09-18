@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.9080628
 longitude: 9.8947901
-postcode: 88410
+postcode: "88410"
 city: Bad Wurzach
 street: "Breiteweg"
 housenumber: 1

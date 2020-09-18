@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.190125
 longitude: 9.4413611
-postcode: 74626
+postcode: "74626"
 city: Bretzfeld
 street: "Heilbronner Straße"
 housenumber: 20

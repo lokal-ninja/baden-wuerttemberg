@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.683647900000004
 longitude: 9.758063100000001
-postcode: 73079
+postcode: "73079"
 city: Süßen
 street: "Rechbergstraße"
 housenumber: 19

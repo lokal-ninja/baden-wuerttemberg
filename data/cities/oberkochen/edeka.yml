@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7854626
 longitude: 10.1106084
-postcode: 73447
+postcode: "73447"
 city: Oberkochen
 street: "Aalener Straße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.6590749
 longitude: 8.9408347
-postcode: 71139
+postcode: "71139"
 city: Ehningen
 street: "Marktplatz"
 housenumber: 4

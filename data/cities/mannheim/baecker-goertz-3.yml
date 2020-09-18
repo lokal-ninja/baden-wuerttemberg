@@ -1,12 +1,12 @@
-id: 3773145722
+id: 2499488252
 type: node
 shop: Bäckerei
-latitude: 49.527113400000005
-longitude: 8.487710400000001
-postcode: 68305
+latitude: 49.5437396
+longitude: 8.4475403
+postcode: "68307"
 city: Mannheim
-street: "Hanauer Straße"
-housenumber: 25
-phone: "+49 621 76218250"
-opening_hours: "Mo-Fr 05:00-18:30; Sa 05:30-17:00; Su 07:30-18:00"
-website: "https://www.baeckergoertz.de/"
+street: "Schönauer Straße"
+housenumber: 1
+phone: "+49 621 77735551"
+opening_hours: "Mo-Fr 05:30-18:00; Sa 05:00-17:00; Su 07:30-17:00"
+website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"

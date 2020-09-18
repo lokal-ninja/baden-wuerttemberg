@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.282493900000006
 longitude: 9.2597532
-postcode: 74861
+postcode: "74861"
 city: Neudenau
 street: "Neudenauer Straße"
 housenumber: 23

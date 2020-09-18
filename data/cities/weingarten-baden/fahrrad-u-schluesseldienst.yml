@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.0532735
 longitude: 8.52743
-postcode: 76356
+postcode: "76356"
 city: Weingarten (Baden)
 street: "Bahnhofstraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0043578
 longitude: 8.4487702
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Durlacher Allee"
 housenumber: 111

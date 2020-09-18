@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 47.693229
 longitude: 9.2730902
-postcode: 88709
+postcode: "88709"
 city: Meersburg
 street: "Seminarstraße"
 housenumber: 1

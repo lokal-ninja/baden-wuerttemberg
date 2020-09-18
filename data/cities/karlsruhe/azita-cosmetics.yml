@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.0109713
 longitude: 8.3990182
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Waldstraße"
 housenumber: 10

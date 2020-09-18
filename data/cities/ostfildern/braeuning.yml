@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.7308846
 longitude: 9.2533518
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Hedelfinger Straße"
 housenumber: 25

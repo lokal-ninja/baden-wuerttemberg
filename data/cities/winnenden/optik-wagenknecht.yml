@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.8756149
 longitude: 9.396205100000001
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Ringstraße"
 housenumber: 62

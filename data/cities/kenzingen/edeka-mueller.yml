@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1973737
 longitude: 7.7737623000000005
-postcode: 79341
+postcode: "79341"
 city: Kenzingen
 street: "Feuerwehrweg"
 housenumber: 2

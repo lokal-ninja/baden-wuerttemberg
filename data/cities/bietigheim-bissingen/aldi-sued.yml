@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9561555
 longitude: 9.1319003
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Wobachstraße"
 housenumber: 11

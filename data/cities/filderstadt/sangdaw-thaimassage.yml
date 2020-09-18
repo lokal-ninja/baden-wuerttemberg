@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.6805068
 longitude: 9.2078827
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Kettemerstraße"
 housenumber: 7/2

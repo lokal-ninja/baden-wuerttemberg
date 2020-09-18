@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7832826
 longitude: 9.181477300000001
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Klett-Passage"
 housenumber: 

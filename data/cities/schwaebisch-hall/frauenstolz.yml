@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.1123075
 longitude: 9.7346231
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Schulgasse"
 housenumber: 16

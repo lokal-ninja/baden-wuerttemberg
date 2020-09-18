@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.838643700000006
 longitude: 10.073674500000001
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Beethovenstraße"
 housenumber: 1

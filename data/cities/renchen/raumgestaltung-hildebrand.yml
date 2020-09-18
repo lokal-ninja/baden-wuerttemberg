@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.5857353
 longitude: 8.009269
-postcode: 77871
+postcode: "77871"
 city: Renchen
 street: "Hauptstraße"
 housenumber: 68

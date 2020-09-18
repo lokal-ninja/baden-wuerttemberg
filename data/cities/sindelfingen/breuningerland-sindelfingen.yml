@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.704257600000005
 longitude: 9.029627600000001
-postcode: 71065
+postcode: "71065"
 city: Sindelfingen
 street: "Tilsiter Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0973516
 longitude: 9.7893177
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Hindenburgstraße"
 housenumber: 15

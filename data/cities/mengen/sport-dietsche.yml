@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.0499153
 longitude: 9.3315287
-postcode: 88512
+postcode: "88512"
 city: Mengen
 street: "Reiserstraße"
 housenumber: 2

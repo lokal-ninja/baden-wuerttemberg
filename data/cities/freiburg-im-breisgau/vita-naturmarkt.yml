@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0320891
 longitude: 7.8504946
-postcode: 79108
+postcode: "79108"
 city: Freiburg im Breisgau
 street: "Robert-Bunsen-Straße"
 housenumber: 6

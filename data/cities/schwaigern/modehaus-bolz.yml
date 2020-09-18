@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.1392335
 longitude: 9.0571373
-postcode: 74193
+postcode: "74193"
 city: Schwaigern
 street: "Theodor-Heuss-Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.7989976
 longitude: 9.0595887
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Eltinger Straße"
 housenumber: 13

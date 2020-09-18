@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.3785413
 longitude: 8.6636951
-postcode: 69124
+postcode: "69124"
 city: Heidelberg
 street: "Albert-Saur-Straße"
 housenumber: 18

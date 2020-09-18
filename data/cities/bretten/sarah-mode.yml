@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.0375491
 longitude: 8.7038328
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Melanchthonstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Anhänger
 latitude: 48.711851
 longitude: 8.750653
-postcode: 75365
+postcode: "75365"
 city: Calw
 street: "Vogteistraße"
 housenumber: 8

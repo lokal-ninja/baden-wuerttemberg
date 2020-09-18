@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.488153200000006
 longitude: 7.943532800000001
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Lise-Meitner-Straße"
 housenumber: 16

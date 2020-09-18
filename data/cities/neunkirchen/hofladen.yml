@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.3883975
 longitude: 9.008017200000001
-postcode: 74867
+postcode: "74867"
 city: Neunkirchen
 street: "Hauptstraße"
 housenumber: 38

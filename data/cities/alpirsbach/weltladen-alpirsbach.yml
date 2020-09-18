@@ -3,7 +3,7 @@ type: way
 shop: Weltladen
 latitude: 48.3448408
 longitude: 8.4011055
-postcode: 72275
+postcode: "72275"
 city: Alpirsbach
 street: "Hauptstraße"
 housenumber: 14

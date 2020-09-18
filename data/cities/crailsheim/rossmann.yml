@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.137208
 longitude: 10.0735259
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Karlstraße"
 housenumber: 24-26

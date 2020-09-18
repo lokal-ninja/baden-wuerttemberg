@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.095627
 longitude: 8.6446283
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Brunnenweg"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.784961100000004
 longitude: 9.1930026
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Landhausstraße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.6583595
 longitude: 9.18647
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Finkenstraße"
 housenumber: 54-2

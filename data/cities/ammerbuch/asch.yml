@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.565054200000006
 longitude: 8.908561200000001
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Lettenstraße"
 housenumber: 1

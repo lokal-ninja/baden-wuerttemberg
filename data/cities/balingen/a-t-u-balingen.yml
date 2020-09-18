@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2588773
 longitude: 8.8546431
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Auf Bollen"
 housenumber: 17/1

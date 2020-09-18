@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.559708900000004
 longitude: 7.787789900000001
-postcode: 79618
+postcode: "79618"
 city: Rheinfelden (Baden)
 street: "Schusterstraße"
 housenumber: 1

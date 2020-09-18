@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0215594
 longitude: 9.495545400000001
-postcode: 88348
+postcode: "88348"
 city: Bad Saulgau
 street: "Moosheimer Straße"
 housenumber: 29

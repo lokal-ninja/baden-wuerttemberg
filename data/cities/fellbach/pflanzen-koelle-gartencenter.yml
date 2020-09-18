@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.811774
 longitude: 9.267703800000001
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Stuttgarter Straße"
 housenumber: 59

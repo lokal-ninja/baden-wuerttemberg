@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1789306
 longitude: 9.4382149
-postcode: 74626
+postcode: "74626"
 city: Bretzfeld
 street: "Einsteinstraße"
 housenumber: 16

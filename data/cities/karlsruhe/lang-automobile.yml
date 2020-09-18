@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0084504
 longitude: 8.442804500000001
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Weinweg"
 housenumber: 22

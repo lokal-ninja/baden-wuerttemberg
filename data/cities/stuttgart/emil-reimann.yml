@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.774303800000006
 longitude: 9.1666488
-postcode: 70176
+postcode: "70176"
 city: Stuttgart
 street: "Herzogstraße"
 housenumber: 8

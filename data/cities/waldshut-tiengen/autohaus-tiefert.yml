@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.609417
 longitude: 8.2284934
-postcode: 79761
+postcode: "79761"
 city: Waldshut-Tiengen
 street: "Döttinger Straße"
 housenumber: 15

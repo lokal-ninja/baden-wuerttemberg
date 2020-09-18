@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.478682400000004
 longitude: 8.4531869
-postcode: 67061
+postcode: "67061"
 city: Ludwigshafen am Rhein
 street: "Yorckstraße"
 housenumber: 2

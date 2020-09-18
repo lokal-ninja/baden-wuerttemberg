@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.0251716
 longitude: 8.4491148
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Karlsruher Straße"
 housenumber: 82

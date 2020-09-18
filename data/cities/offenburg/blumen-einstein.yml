@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.4698865
 longitude: 7.9672147
-postcode: 77654
+postcode: "77654"
 city: Offenburg
 street: "Weingartenstraße"
 housenumber: 76

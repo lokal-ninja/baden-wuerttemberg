@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 49.141567200000004
 longitude: 9.2182784
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Kirchbrunnenstraße"
 housenumber: 29

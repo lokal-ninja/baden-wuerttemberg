@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 49.143345200000006
 longitude: 9.2185348
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Lohtorstraße"
 housenumber: 17

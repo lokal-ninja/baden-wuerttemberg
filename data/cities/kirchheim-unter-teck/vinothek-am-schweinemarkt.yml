@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.6473603
 longitude: 9.4533255
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Turmstraße"
 housenumber: 10

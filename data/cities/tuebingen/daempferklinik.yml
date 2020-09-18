@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.506063600000004
 longitude: 9.052860200000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Heinlenstraße"
 housenumber: 16

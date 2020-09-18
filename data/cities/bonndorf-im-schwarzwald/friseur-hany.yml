@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.8200293
 longitude: 8.3436892
-postcode: 79848
+postcode: "79848"
 city: Bonndorf im Schwarzwald
 street: "Brunnenstraße"
 housenumber: 2

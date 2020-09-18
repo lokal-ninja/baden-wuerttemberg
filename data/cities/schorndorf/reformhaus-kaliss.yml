@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.805332500000006
 longitude: 9.5285302
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Johann-Philipp-Palm-Straße"
 housenumber: 11

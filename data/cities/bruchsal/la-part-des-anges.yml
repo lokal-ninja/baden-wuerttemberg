@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.0853611
 longitude: 8.5529168
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Weingartener Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.0682277
 longitude: 9.5967208
-postcode: 74535
+postcode: "74535"
 city: Mainhardt
 street: "Hofwiesenstraße"
 housenumber: 14

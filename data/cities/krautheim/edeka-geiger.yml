@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3840431
 longitude: 9.6332027
-postcode: 74238
+postcode: "74238"
 city: Krautheim
 street: "Götzstraße"
 housenumber: 34

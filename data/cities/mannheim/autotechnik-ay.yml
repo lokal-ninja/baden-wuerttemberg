@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4452646
 longitude: 8.5739072
-postcode: 68229
+postcode: "68229"
 city: Mannheim
 street: "Langlachweg"
 housenumber: 3

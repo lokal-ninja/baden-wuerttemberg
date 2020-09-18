@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.138949700000005
 longitude: 9.227198000000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Mönchseestraße"
 housenumber: 97

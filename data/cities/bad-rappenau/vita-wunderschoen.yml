@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.2426365
 longitude: 9.096644900000001
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Finkenstraße"
 housenumber: 10

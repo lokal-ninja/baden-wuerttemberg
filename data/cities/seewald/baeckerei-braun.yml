@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.5794785
 longitude: 8.4682188
-postcode: 72297
+postcode: "72297"
 city: Seewald
 street: "Altensteiger Straße"
 housenumber: 40

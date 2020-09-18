@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1816991
 longitude: 10.0699415
-postcode: 74589
+postcode: "74589"
 city: Satteldorf
 street: "Marco-Polo-Straße"
 housenumber: 1

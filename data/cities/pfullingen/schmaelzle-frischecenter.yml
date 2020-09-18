@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 48.4755653
 longitude: 9.227297400000001
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Max-Eyth-Straße"
 housenumber: 22
 phone: "+49 7121 798134"
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00; Su,PH off"
 website: "http://www.schmaelzle-fleischwaren.de"

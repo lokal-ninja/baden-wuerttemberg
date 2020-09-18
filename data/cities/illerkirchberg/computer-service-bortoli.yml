@@ -3,10 +3,10 @@ type: node
 shop: Computer
 latitude: 48.3248577
 longitude: 10.0138788
-postcode: 89171
+postcode: "89171"
 city: Illerkirchberg
 street: "Justinus-Kerner-Weg"
 housenumber: 5
-phone: "0 73 46 / 91 98 30"
+phone: "+49 7346 91 98 30"
 opening_hours: ""
 website: "www.bortoli-online.de"

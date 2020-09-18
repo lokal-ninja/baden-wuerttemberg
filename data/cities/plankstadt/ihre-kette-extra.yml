@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.3921896
 longitude: 8.5870681
-postcode: 68723
+postcode: "68723"
 city: Plankstadt
 street: "Schubertstraße"
 housenumber: 36

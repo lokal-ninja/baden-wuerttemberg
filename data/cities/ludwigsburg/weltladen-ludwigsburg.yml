@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.897655300000004
 longitude: 9.190937
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Stadtkirchenplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.821669400000005
 longitude: 8.1708713
-postcode: 79859
+postcode: "79859"
 city: Schluchsee
 street: "Im Rappennest"
 housenumber: 2

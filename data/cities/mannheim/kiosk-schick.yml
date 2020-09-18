@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.4861802
 longitude: 8.4773729
-postcode: 
+postcode: ""
 city: Mannheim
 street: "Berliner Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.854487500000005
 longitude: 9.2477666
-postcode: 71686
+postcode: "71686"
 city: Remseck am Neckar
 street: "Am Holzbach"
 housenumber: 2 + 4

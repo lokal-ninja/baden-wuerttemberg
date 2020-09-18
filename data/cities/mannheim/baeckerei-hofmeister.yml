@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.507075400000005
 longitude: 8.4934604
-postcode: 68167
+postcode: "68167"
 city: Mannheim
 street: "Ulmenweg"
 housenumber: 80

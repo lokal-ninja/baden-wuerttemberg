@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8592767
 longitude: 9.423252900000001
-postcode: 88271
+postcode: "88271"
 city: Wilhelmsdorf
 street: "Welfenstraße"
 housenumber: 6

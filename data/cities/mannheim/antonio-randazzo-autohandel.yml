@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4477617
 longitude: 8.5049813
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Casterfeldstraße"
 housenumber: 78/80

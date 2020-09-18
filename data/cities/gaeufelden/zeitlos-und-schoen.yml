@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.552477
 longitude: 8.822593000000001
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Rathausplatz"
 housenumber: 6

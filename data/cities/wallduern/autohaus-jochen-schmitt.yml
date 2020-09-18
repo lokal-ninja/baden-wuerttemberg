@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 49.5679595
 longitude: 9.3631615
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: "Buchener Straße"
 housenumber: 45
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-12:00,13:00-18:30; Sa 10:00-13:00"
 website: "https://www.autohaus-jochenschmitt.de/"

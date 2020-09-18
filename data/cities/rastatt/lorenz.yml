@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.859197900000005
 longitude: 8.2007387
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Kaiserstraße"
 housenumber: 59

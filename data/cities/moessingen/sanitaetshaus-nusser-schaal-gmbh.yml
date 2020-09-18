@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.4053034
 longitude: 9.0564888
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Bahnhofstraße"
 housenumber: 5

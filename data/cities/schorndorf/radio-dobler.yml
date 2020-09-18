@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.8050379
 longitude: 9.5264305
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Kirchplatz"
 housenumber: 1

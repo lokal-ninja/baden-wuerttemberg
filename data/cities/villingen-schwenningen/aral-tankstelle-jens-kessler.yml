@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.0582215
 longitude: 8.4438209
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: "Vöhrenbacher Straße"
 housenumber: 38

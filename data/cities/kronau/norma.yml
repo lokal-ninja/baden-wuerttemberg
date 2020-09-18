@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.221436100000005
 longitude: 8.6247101
-postcode: 76709
+postcode: "76709"
 city: Kronau
 street: "Kirrlacher Straße"
 housenumber: 60

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.7411011
 longitude: 9.1662997
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Albstraße"
 housenumber: 86

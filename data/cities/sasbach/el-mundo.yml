@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.636225800000005
 longitude: 8.0910051
-postcode: 77880
+postcode: "77880"
 city: Sasbach
 street: "Friedhofstraße"
 housenumber: 

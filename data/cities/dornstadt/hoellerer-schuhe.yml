@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4675816
 longitude: 9.943607100000001
-postcode: 89160
+postcode: "89160"
 city: Dornstadt
 street: "Jahnweg"
 housenumber: 6

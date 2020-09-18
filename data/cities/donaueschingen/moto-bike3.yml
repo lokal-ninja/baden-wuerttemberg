@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.982985400000004
 longitude: 8.557060700000001
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Graustein"
 housenumber: 10

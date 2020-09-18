@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7780685
 longitude: 9.1250458
-postcode: 70195
+postcode: "70195"
 city: Stuttgart
 street: "Alte Stuttgarter Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.868422900000006
 longitude: 8.212012900000001
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Franz-Philipp-Straße"
 housenumber: 5

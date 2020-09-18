@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.8604281
 longitude: 8.238088600000001
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Untere Wiesen"
 housenumber: 8

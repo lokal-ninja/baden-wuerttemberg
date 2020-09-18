@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.411241000000004
 longitude: 9.5048438
-postcode: 72525
+postcode: "72525"
 city: Münsingen
 street: "Gewerbestraße"
 housenumber: 18

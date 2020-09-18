@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.990015400000004
 longitude: 8.8279621
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Ludwigstaler Straße"
 housenumber: 56

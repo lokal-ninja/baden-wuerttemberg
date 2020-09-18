@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.61084
 longitude: 9.736728300000001
-postcode: 73326
+postcode: "73326"
 city: Deggingen
 street: "Reichenbachstraße"
 housenumber: 94

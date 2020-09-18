@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.408944700000006
 longitude: 9.0628624
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Auf der Lehr"
 housenumber: 1

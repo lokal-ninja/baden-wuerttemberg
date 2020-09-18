@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.5443888
 longitude: 8.478604500000001
-postcode: 68307
+postcode: "68307"
 city: Mannheim
 street: "Memeler Straße"
 housenumber: 17

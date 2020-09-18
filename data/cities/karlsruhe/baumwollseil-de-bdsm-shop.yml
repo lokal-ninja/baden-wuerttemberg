@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 49.0235399
 longitude: 8.3556016
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
 street: "Gablonzer Straße"
 housenumber: 23-25

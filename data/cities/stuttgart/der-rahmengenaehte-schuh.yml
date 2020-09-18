@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.8463512
 longitude: 9.1571526
-postcode: 70439
+postcode: "70439"
 city: Stuttgart
 street: "Freihofstraße"
 housenumber: 43

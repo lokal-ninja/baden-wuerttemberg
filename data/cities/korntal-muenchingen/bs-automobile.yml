@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.845015800000006
 longitude: 9.134086700000001
-postcode: 70825
+postcode: "70825"
 city: Korntal-Münchingen
 street: "Schwieberdinger Straße"
 housenumber: 127

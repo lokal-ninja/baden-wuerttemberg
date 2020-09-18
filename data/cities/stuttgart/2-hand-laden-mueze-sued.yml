@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 48.7632154
 longitude: 9.158538100000001
-postcode: 70199
+postcode: "70199"
 city: Stuttgart
 street: "Gebrüder-Schmid-Weg"
 housenumber: 13

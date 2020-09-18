@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8407404
 longitude: 10.0943004
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Bahnhofstraße"
 housenumber: 29

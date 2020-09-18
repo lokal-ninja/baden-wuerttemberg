@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.557304
 longitude: 9.4328161
-postcode: 73268
+postcode: "73268"
 city: Erkenbrechtsweiler
 street: "Im Höfle"
 housenumber: 1

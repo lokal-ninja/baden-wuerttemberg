@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6124255
 longitude: 8.6429586
-postcode: 69514
+postcode: "69514"
 city: Laudenbach
 street: "Dr.-Werner-Freyberg-Straße"
 housenumber: 1

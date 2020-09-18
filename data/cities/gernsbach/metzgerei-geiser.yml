@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.7633017
 longitude: 8.3374548
-postcode: 76593
+postcode: "76593"
 city: Gernsbach
 street: "Igelbachstraße"
 housenumber: 4-5

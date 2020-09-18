@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.9465209
 longitude: 9.1493283
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Banatstraße"
 housenumber: 3

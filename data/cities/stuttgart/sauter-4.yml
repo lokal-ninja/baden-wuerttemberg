@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.815474800000004
 longitude: 9.1112648
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Glemsgaustraße"
 housenumber: 20

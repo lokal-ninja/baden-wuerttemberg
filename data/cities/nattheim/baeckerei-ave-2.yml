@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.6998746
 longitude: 10.2423325
-postcode: 89564
+postcode: "89564"
 city: Nattheim
 street: "Neresheimer Straße"
 housenumber: 2/1

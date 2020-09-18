@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 48.9991253
 longitude: 8.4706211
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 35-37

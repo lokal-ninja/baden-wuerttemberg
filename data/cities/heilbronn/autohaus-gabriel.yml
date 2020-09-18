@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.123877
 longitude: 9.222681900000001
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Stuttgarter Straße"
 housenumber: 97

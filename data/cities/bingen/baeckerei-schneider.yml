@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.109909300000005
 longitude: 9.2730498
-postcode: 72511
+postcode: "72511"
 city: Bingen
 street: "Lauchertstraße"
 housenumber: 4

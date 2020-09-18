@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.7619855
 longitude: 8.892402800000001
-postcode: 78224
+postcode: "78224"
 city: Singen
 street: "Unter den Tannen"
 housenumber: 3

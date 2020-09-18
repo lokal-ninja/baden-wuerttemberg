@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.008111400000004
 longitude: 8.4092134
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kronenstraße"
 housenumber: 34

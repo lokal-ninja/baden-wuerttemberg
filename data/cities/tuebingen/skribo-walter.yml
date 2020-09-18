@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.530941600000006
 longitude: 9.0797221
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Dorfackerstraße"
 housenumber: 19

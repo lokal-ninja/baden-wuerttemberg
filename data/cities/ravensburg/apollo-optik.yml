@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.781589600000004
 longitude: 9.6106441
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Goldgasse"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.6599645
 longitude: 9.6512264
-postcode: 73092
+postcode: "73092"
 city: Heiningen
 street: "Bahnhofstraße"
 housenumber: 2-4

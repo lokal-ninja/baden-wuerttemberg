@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.651338200000005
 longitude: 9.479898500000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Schanzstraße"
 housenumber: 16

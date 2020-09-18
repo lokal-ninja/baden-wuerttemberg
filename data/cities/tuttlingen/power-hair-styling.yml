@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9831086
 longitude: 8.8123622
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Bahnhofstraße"
 housenumber: 61

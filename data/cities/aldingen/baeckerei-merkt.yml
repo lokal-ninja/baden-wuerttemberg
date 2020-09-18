@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0944031
 longitude: 8.7032416
-postcode: 78554
+postcode: "78554"
 city: Aldingen
 street: "Hauptstraße"
 housenumber: 19

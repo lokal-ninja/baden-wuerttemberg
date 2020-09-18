@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 47.6733914
 longitude: 9.1928234
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Mainaustraße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.775089200000004
 longitude: 9.161206400000001
-postcode: 70176
+postcode: "70176"
 city: Stuttgart
 street: "Senefelderstraße"
 housenumber: 56

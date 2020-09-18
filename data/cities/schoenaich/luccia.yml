@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6571189
 longitude: 9.0620399
-postcode: 71101
+postcode: "71101"
 city: Schönaich
 street: "Rosenstraße"
 housenumber: 8

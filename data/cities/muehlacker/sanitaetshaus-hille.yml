@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.9479136
 longitude: 8.840037
-postcode: 75417
+postcode: "75417"
 city: Mühlacker
 street: "Bahnhofstraße"
 housenumber: 26-28

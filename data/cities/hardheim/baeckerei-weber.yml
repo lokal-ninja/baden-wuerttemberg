@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.6100052
 longitude: 9.472583
-postcode: 74736
+postcode: "74736"
 city: Hardheim
 street: "Wertheimer Straße"
 housenumber: 38

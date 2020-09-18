@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.688243400000005
 longitude: 9.012302100000001
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Friedrich-List-Straße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.780661800000004
 longitude: 9.159508800000001
-postcode: 70176
+postcode: "70176"
 city: Stuttgart
 street: "Johannesstraße"
 housenumber: 76

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.806844700000006
 longitude: 9.529986500000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Karlstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.324916200000004
 longitude: 8.9699645
-postcode: 74921
+postcode: "74921"
 city: Helmstadt-Bargen
 street: "Friedhofweg"
 housenumber: 13

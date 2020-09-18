@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5620859
 longitude: 9.3410633
-postcode: 72664
+postcode: "72664"
 city: Kohlberg
 street: "Erscheckweg"
 housenumber: 14

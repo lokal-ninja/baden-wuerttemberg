@@ -1,12 +1,12 @@
-id: 5202724625
+id: 125816954
 type: node
 shop: Bäckerei
-latitude: 48.7500896
-longitude: 9.3120423
-postcode: 73732
+latitude: 48.752180200000005
+longitude: 9.3156113
+postcode: "73732"
 city: Esslingen am Neckar
-street: "Seracher Straße"
-housenumber: 1
+street: "Wäldenbronner Straße"
+housenumber: 49
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-13:00"
-website: ""
+opening_hours: "Mo-Fr 06:30-18:00;Sa 06:30-13:00;Su 08:00-11:00;PH off"
+website: "https://www.baeckerei-conzelmann.de/"

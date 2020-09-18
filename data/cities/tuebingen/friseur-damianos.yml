@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.520556500000005
 longitude: 9.050484200000001
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Haaggasse"
 housenumber: 34

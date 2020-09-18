@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4344016
 longitude: 10.097910500000001
-postcode: 97993
+postcode: "97993"
 city: Creglingen
 street: ""
 housenumber: 

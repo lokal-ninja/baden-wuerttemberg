@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.9467274
 longitude: 9.4285779
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Grabenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.37742900000001
 longitude: 8.6674133
-postcode: 69124
+postcode: "69124"
 city: Heidelberg
 street: "Hegenichstraße"
 housenumber: 12

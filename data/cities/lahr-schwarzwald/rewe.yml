@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3375156
 longitude: 7.868719800000001
-postcode: 77933
+postcode: "77933"
 city: Lahr/Schwarzwald
 street: "Tiergartenstraße"
 housenumber: 16

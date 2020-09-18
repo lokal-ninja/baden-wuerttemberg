@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.012345700000004
 longitude: 8.362368400000001
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
 street: "Nuitsstraße"
 housenumber: 13

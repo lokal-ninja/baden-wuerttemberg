@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8061123
 longitude: 9.5284701
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Höllgasse"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5562416
 longitude: 9.4317934
-postcode: 73268
+postcode: "73268"
 city: Erkenbrechtsweiler
 street: "Uracher Straße"
 housenumber: 14

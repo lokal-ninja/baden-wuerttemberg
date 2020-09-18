@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5219183
 longitude: 9.120774500000001
-postcode: 72127
+postcode: "72127"
 city: Kusterdingen
 street: "Kirchentellinsfurter Straße"
 housenumber: 6

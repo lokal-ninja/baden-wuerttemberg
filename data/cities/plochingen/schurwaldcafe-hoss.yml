@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7105302
 longitude: 9.416683800000001
-postcode: 
+postcode: ""
 city: Plochingen
 street: "Marktstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.066489700000005
 longitude: 9.066269100000001
-postcode: 74336
+postcode: "74336"
 city: Brackenheim
 street: "Quergasse"
 housenumber: 2

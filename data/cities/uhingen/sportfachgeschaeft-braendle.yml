@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.706957200000005
 longitude: 9.580384500000001
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Stuttgarter Straße"
 housenumber: 38

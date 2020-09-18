@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5362467
 longitude: 9.2792888
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Hugo-Boss-Platz"
 housenumber: 9

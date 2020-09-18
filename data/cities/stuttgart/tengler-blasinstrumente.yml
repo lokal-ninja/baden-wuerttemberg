@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 48.765257600000005
 longitude: 9.2704392
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Uhlbacher Straße"
 housenumber: 44

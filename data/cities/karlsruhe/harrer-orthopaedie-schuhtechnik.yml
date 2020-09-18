@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.006168800000005
 longitude: 8.3933803
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Sophienstraße"
 housenumber: 11

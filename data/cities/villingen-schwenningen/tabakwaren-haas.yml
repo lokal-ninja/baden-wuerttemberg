@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.0621038
 longitude: 8.531112100000001
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
 street: "Harzerstraße"
 housenumber: 26

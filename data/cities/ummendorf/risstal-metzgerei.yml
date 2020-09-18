@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.063958400000004
 longitude: 9.8247037
-postcode: 88444
+postcode: "88444"
 city: Ummendorf
 street: "Riedweg"
 housenumber: 18

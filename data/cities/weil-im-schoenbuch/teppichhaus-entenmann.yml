@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.6211313
 longitude: 9.048760300000001
-postcode: 71093
+postcode: "71093"
 city: Weil im Schönbuch
 street: "Schaichhofstraße"
 housenumber: 15

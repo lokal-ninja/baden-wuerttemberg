@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5474807
 longitude: 9.113281500000001
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "In der Gass"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.546622400000004
 longitude: 8.656102
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Cavaillonstraße"
 housenumber: 9

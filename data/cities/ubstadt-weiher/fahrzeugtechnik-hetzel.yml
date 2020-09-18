@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1889526
 longitude: 8.6285085
-postcode: 76698
+postcode: "76698"
 city: Ubstadt-Weiher
 street: "Großer Sand"
 housenumber: 16

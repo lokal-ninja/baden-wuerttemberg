@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5149094
 longitude: 8.380304800000001
-postcode: 72270
+postcode: "72270"
 city: Baiersbronn
 street: "Tonbachstraße"
 housenumber: 11

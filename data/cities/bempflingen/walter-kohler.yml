@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 48.5734099
 longitude: 9.265881400000001
-postcode: 72658
+postcode: "72658"
 city: Bempflingen
 street: "Rathausstraße"
 housenumber: 5

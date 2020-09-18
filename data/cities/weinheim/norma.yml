@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.548101100000004
 longitude: 8.6353869
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Freiburger Straße"
 housenumber: 31

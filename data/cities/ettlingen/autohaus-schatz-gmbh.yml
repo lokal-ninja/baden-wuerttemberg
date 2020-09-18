@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.935444700000005
 longitude: 8.376535200000001
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Nobelstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0602431
 longitude: 8.657113500000001
-postcode: 75053
+postcode: "75053"
 city: Gondelsheim
 street: "Bruchsaler Straße"
 housenumber: 21

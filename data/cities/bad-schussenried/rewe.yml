@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0100081
 longitude: 9.6546793
-postcode: 88427
+postcode: "88427"
 city: Bad Schussenried
 street: "Zeppelinstraße"
 housenumber: 1

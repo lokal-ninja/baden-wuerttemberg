@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.6271202
 longitude: 8.0738111
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Martinstraße"
 housenumber: 7

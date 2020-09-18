@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8160715
 longitude: 9.629347600000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Maybachstraße"
 housenumber: 15

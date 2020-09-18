@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9993288
 longitude: 9.7710763
-postcode: 74405
+postcode: "74405"
 city: Gaildorf
 street: "Karlstraße"
 housenumber: 19

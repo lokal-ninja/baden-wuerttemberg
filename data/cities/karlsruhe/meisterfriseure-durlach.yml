@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.999127300000005
 longitude: 8.4580132
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Schinnrainstraße"
 housenumber: 9

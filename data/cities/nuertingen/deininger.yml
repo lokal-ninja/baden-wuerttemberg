@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.6183508
 longitude: 9.3442638
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Gottlieb-Daimler-Straße"
 housenumber: 4

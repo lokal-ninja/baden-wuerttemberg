@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.6152555
 longitude: 9.5406362
-postcode: 73235
+postcode: "73235"
 city: Weilheim an der Teck
 street: "Obere Grabenstraße"
 housenumber: 18

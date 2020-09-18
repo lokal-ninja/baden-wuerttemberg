@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.061663200000005
 longitude: 10.092503200000001
-postcode: 74597
+postcode: "74597"
 city: Stimpfach
 street: "Kirchstraße"
 housenumber: 15

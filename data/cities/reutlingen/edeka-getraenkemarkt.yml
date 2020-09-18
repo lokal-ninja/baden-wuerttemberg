@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.487396600000004
 longitude: 9.1916309
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Gustav-Schwab-Straße"
 housenumber: 34

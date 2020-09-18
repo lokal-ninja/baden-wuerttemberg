@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9249979
 longitude: 8.972705600000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Planckstraße"
 housenumber: 27

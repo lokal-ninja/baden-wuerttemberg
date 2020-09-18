@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.4922175
 longitude: 9.209602
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Glaserstraße"
 housenumber: 14

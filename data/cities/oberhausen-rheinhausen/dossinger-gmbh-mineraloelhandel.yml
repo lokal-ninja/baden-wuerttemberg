@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.270670200000005
 longitude: 8.473842300000001
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Draisstraße"
 housenumber: 2

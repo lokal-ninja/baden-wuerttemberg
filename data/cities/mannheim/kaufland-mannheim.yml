@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.503236400000006
 longitude: 8.474718300000001
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Maybachstraße"
 housenumber: 28

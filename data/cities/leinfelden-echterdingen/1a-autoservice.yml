@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.6937483
 longitude: 9.165482800000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Wegenerstraße"
 housenumber: 17

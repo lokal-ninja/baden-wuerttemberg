@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.559248700000005
 longitude: 8.8462735
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Schauinsland"
 housenumber: 12

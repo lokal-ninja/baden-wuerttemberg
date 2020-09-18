@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.4098744
 longitude: 9.070757500000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Heerweg"
 housenumber: 11-13

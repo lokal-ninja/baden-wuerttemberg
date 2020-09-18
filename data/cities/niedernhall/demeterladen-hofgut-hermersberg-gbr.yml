@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.275318500000004
 longitude: 9.600533800000001
-postcode: 74676
+postcode: "74676"
 city: Niedernhall
 street: ""
 housenumber: 13

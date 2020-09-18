@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.513536
 longitude: 9.156890200000001
-postcode: 72827
+postcode: "72827"
 city: Wannweil
 street: "Katharinenstraße"
 housenumber: 10

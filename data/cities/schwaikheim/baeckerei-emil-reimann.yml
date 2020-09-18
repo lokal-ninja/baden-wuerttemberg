@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.873893100000004
 longitude: 9.3526413
-postcode: 71409
+postcode: "71409"
 city: Schwaikheim
 street: "Seitenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.670095700000005
 longitude: 9.587925700000001
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Karlstraße"
 housenumber: 11

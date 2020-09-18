@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.230645700000004
 longitude: 8.4228009
-postcode: 78713
+postcode: "78713"
 city: Schramberg
 street: "Heiligenbronner Straße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.922760000000004
 longitude: 8.9732202
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Stuttgarter Straße"
 housenumber: 139

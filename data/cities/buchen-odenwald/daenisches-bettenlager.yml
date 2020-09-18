@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.515590800000005
 longitude: 9.3235965
-postcode: 74722
+postcode: "74722"
 city: Buchen (Odenwald)
 street: "Am Hohen Markstein"
 housenumber: 2

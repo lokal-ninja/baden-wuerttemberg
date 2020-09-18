@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.3495557
 longitude: 8.9869695
-postcode: 74858
+postcode: "74858"
 city: Aglasterhausen
 street: "Im Oberen Tal"
 housenumber: 6

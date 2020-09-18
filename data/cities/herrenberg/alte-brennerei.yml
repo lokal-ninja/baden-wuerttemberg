@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.5956351
 longitude: 8.869679300000001
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Schulstraße"
 housenumber: 5

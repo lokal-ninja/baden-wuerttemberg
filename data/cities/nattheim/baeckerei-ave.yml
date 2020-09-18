@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.6998856
 longitude: 10.2492225
-postcode: 89564
+postcode: "89564"
 city: Nattheim
 street: "Lerchenstraße"
 housenumber: 11

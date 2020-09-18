@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.8232845
 longitude: 10.058619100000001
-postcode: 73431
+postcode: "73431"
 city: Aalen
 street: "Carl-Zeiss-Straße"
 housenumber: 96

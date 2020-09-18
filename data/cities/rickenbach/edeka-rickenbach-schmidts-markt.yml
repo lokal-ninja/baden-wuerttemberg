@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6203711
 longitude: 7.9805494
-postcode: 79736
+postcode: "79736"
 city: Rickenbach
 street: "Kirchstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.099844600000004
 longitude: 9.463477300000001
-postcode: 88521
+postcode: "88521"
 city: Ertingen
 street: "Riedlinger Straße"
 housenumber: 9

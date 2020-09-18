@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.0564917
 longitude: 9.898492000000001
-postcode: 74423
+postcode: "74423"
 city: Obersontheim
 street: "Schubartstraße"
 housenumber: 7/1

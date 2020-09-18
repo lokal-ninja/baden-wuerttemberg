@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.7949373
 longitude: 9.703734
-postcode: 73547
+postcode: "73547"
 city: Lorch
 street: "Ziegelwaldstraße"
 housenumber: 26

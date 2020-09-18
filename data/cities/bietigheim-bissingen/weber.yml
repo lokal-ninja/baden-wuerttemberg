@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.953313400000006
 longitude: 9.134819100000001
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Stuttgarter Straße"
 housenumber: 60

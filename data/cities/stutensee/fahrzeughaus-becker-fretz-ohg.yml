@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.109132
 longitude: 8.4833839
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Hans-Thoma-Straße"
 housenumber: 5

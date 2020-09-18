@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.2583454
 longitude: 8.866385600000001
-postcode: 74889
+postcode: "74889"
 city: Sinsheim
 street: "Werderstraße"
 housenumber: 86

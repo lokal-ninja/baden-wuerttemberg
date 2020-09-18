@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.381205800000004
 longitude: 8.8864214
-postcode: 72414
+postcode: "72414"
 city: Rangendingen
 street: "Haigerlocher Straße"
 housenumber: 14

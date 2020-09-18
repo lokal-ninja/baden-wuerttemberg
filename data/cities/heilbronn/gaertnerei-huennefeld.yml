@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.138480300000005
 longitude: 9.237292400000001
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Friedhofstraße"
 housenumber: 53

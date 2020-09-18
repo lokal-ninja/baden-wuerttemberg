@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.0919363
 longitude: 9.795661800000001
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Hans-Liebherr-Straße"
 housenumber: 5/1

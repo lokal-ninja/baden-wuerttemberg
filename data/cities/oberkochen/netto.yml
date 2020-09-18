@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7820607
 longitude: 10.106538200000001
-postcode: 73447
+postcode: "73447"
 city: Oberkochen
 street: "Am Bahnhof"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.530896500000004
 longitude: 8.9620156
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Nagolder Straße"
 housenumber: 25

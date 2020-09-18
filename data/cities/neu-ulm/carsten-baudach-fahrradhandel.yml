@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.395535200000005
 longitude: 9.999672400000001
-postcode: 89231
+postcode: "89231"
 city: Neu-Ulm
 street: "Donaustraße"
 housenumber: 5

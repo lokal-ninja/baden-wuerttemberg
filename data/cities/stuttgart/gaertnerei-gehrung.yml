@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.7439705
 longitude: 9.2354184
-postcode: 70619
+postcode: "70619"
 city: Stuttgart
 street: "Nellinger Straße"
 housenumber: 30

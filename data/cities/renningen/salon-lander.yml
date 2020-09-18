@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.766127700000006
 longitude: 8.9353038
-postcode: 71272
+postcode: "71272"
 city: Renningen
 street: "Hindenburgstraße"
 housenumber: 15

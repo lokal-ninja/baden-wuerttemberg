@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.9159281
 longitude: 8.6704407
-postcode: 75228
+postcode: "75228"
 city: Ispringen
 street: "Bahnhofstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.7433344
 longitude: 9.340263700000001
-postcode: 73732
+postcode: "73732"
 city: Esslingen am Neckar
 street: "Esslinger Straße"
 housenumber: 4

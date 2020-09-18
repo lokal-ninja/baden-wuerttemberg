@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.0653621
 longitude: 8.5366429
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
 street: "Marktstraße"
 housenumber: 18

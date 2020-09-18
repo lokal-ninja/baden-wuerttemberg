@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.6226302
 longitude: 9.0604391
-postcode: 71093
+postcode: "71093"
 city: Weil im Schönbuch
 street: "Hauptstraße"
 housenumber: 45

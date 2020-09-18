@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.130636100000004
 longitude: 8.914316300000001
-postcode: 75031
+postcode: "75031"
 city: Eppingen
 street: "Berliner Ring"
 housenumber: 13

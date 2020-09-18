@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4593987
 longitude: 8.5002967
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Floßwörthstraße"
 housenumber: 30

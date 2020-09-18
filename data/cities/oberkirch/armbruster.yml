@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.532551000000005
 longitude: 8.0783906
-postcode: 77704
+postcode: "77704"
 city: Oberkirch
 street: "Renchener Straße"
 housenumber: 3

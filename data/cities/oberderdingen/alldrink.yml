@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.067849100000004
 longitude: 8.8069979
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Hagenfeldstraße"
 housenumber: 1

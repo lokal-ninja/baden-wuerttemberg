@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.81722430000001
 longitude: 9.3881938
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Prinz-Eugen-Platz"
 housenumber: 7

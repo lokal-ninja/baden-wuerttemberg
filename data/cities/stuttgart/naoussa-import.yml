@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.7812721
 longitude: 9.252753
-postcode: 70327
+postcode: "70327"
 city: Stuttgart
 street: "Nebelhornstraße"
 housenumber: 26

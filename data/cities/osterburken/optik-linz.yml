@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.4304178
 longitude: 9.426300300000001
-postcode: 74706
+postcode: "74706"
 city: Osterburken
 street: "Brunnengasse"
 housenumber: 6

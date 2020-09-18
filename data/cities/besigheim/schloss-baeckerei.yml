@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.997574
 longitude: 9.1369462
-postcode: 74354
+postcode: "74354"
 city: Besigheim
 street: "Weinstraße"
 housenumber: 11

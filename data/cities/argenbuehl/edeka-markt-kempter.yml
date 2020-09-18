@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.6886646
 longitude: 9.9561753
-postcode: 88260
+postcode: "88260"
 city: Argenbühl
 street: "Stephanusstraße"
 housenumber: 7

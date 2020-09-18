@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.6951246
 longitude: 9.1616557
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Humboldtstraße"
 housenumber: 30

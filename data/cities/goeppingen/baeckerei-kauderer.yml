@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7078125
 longitude: 9.6530667
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Rosenstraße"
 housenumber: 19

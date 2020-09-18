@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.000241700000004
 longitude: 8.8106796
-postcode: 75433
+postcode: "75433"
 city: Maulbronn
 street: "Klosterhof"
 housenumber: 36

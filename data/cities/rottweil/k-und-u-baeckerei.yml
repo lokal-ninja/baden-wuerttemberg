@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.169059700000005
 longitude: 8.621826800000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Nägelesgrabenstraße"
 housenumber: 22

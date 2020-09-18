@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.595595700000004
 longitude: 9.717770100000001
-postcode: 73326
+postcode: "73326"
 city: Deggingen
 street: "Hauptstraße"
 housenumber: 58

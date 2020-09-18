@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.7690812
 longitude: 9.1752768
-postcode: 70180
+postcode: "70180"
 city: Stuttgart
 street: "Schlosserstraße"
 housenumber: 30

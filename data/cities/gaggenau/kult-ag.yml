@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.81822450000001
 longitude: 8.358361200000001
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Mönchkopfstraße"
 housenumber: 2

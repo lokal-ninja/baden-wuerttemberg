@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.630900700000005
 longitude: 9.6660287
-postcode: 97941
+postcode: "97941"
 city: Tauberbischofsheim
 street: "Alte Wertheimer Straße"
 housenumber: 41

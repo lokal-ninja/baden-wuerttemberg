@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.896732500000006
 longitude: 8.6008175
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: "Westliche Friedrichstraße"
 housenumber: 34

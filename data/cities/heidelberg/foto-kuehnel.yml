@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.4065358
 longitude: 8.6925735
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Rohrbacher Straße"
 housenumber: 10/3

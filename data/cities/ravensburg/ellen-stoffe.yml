@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.7825573
 longitude: 9.611268200000001
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Obere Breite Straße"
 housenumber: 9

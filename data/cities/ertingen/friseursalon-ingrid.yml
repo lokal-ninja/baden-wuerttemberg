@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.099488
 longitude: 9.4643457
-postcode: 88521
+postcode: "88521"
 city: Ertingen
 street: "Dürmentinger Straße"
 housenumber: 12

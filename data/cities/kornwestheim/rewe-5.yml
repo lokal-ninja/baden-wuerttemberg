@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.862387500000004
 longitude: 9.1849412
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Stuttgarter Straße"
 housenumber: 42

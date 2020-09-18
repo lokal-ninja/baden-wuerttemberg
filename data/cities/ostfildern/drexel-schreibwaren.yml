@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.7081419
 longitude: 9.2632287
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Nellinger Straße"
 housenumber: 5

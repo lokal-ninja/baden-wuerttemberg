@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.735742800000004
 longitude: 9.746040800000001
-postcode: 73113
+postcode: "73113"
 city: Ottenbach
 street: "Kirchbühlstraße"
 housenumber: 18

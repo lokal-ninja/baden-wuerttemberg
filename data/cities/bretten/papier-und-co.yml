@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.0364051
 longitude: 8.7088275
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Weißhofer Straße"
 housenumber: 12

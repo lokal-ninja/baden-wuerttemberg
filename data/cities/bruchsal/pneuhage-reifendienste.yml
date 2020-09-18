@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.137503
 longitude: 8.5716905
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Im Wendelrot"
 housenumber: 1

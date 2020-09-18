@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.000021700000005
 longitude: 9.2910327
-postcode: 71723
+postcode: "71723"
 city: Großbottwar
 street: "Lindenstraße"
 housenumber: 3

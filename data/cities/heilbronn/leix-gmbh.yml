@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1432981
 longitude: 9.2268772
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Gymnasiumstraße"
 housenumber: 76

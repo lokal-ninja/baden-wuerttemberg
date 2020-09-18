@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7392674
 longitude: 9.164688
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Sigmaringer Straße"
 housenumber: 256

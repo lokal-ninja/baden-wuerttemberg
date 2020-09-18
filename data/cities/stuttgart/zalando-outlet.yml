@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.774319600000005
 longitude: 9.176082300000001
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Hirschstraße"
 housenumber: 26

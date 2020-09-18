@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.8960136
 longitude: 9.190047400000001
-postcode: 71638
+postcode: "71638"
 city: Ludwigsburg
 street: "Wilhelmstraße"
 housenumber: 17

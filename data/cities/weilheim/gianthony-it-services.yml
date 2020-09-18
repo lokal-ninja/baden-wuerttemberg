@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.6612712
 longitude: 8.2419308
-postcode: 79809
+postcode: "79809"
 city: Weilheim
 street: "Dietlinger Straße"
 housenumber: 26

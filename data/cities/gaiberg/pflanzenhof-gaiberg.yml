@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.366565800000004
 longitude: 8.752037600000001
-postcode: 69251
+postcode: "69251"
 city: Gaiberg
 street: "Pfarrgasse"
 housenumber: 6

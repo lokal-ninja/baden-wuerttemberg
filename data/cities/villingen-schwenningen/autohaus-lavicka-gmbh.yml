@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0666084
 longitude: 8.5593796
-postcode: 78056
+postcode: "78056"
 city: Villingen-Schwenningen
 street: "Steinkirchring"
 housenumber: 76

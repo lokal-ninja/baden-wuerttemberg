@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.341489800000005
 longitude: 7.8694367000000005
-postcode: 77933
+postcode: "77933"
 city: Lahr/Schwarzwald
 street: "Kaiserstraße"
 housenumber: 44a

@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 48.821812200000004
 longitude: 10.0489327
-postcode: 73457
+postcode: "73457"
 city: Essingen
 street: "Margarete-Steiff-Straße"
 housenumber: 13

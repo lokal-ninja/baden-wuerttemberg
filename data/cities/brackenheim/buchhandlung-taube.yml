@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.077680900000004
 longitude: 9.0650282
-postcode: 74336
+postcode: "74336"
 city: Brackenheim
 street: "Henry-Miller-Straße"
 housenumber: 3

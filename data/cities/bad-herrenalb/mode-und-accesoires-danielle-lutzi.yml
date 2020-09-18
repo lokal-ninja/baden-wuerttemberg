@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7986912
 longitude: 8.4362615
-postcode: 76332
+postcode: "76332"
 city: Bad Herrenalb
 street: "Kurpromenade"
 housenumber: 7

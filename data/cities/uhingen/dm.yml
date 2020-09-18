@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.7085738
 longitude: 9.585288100000001
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Bahnhofstraße"
 housenumber: 15

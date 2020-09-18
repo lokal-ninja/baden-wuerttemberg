@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3677628
 longitude: 8.795751600000001
-postcode: 72401
+postcode: "72401"
 city: Haigerloch
 street: "Meinradstraße"
 housenumber: 3

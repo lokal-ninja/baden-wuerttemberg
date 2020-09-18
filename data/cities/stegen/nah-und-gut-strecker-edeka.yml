@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.981835200000006
 longitude: 7.9633301
-postcode: 79252
+postcode: "79252"
 city: Stegen
 street: "Weilerstraße"
 housenumber: 1

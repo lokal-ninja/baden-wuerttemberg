@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.712182000000006
 longitude: 9.4165297
-postcode: 
+postcode: ""
 city: Plochingen
 street: "Urbanstraße"
 housenumber: 19

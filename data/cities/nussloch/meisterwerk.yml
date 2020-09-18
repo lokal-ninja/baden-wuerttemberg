@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3236342
 longitude: 8.6950961
-postcode: 69226
+postcode: "69226"
 city: Nußloch
 street: "Kaiserstraße"
 housenumber: 2

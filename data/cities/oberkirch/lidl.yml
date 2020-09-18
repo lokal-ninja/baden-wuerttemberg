@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5364408
 longitude: 8.0626722
-postcode: 77704
+postcode: "77704"
 city: Oberkirch
 street: "Hammermatt"
 housenumber: 2

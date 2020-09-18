@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.5306562
 longitude: 8.5705872
-postcode: 72285
+postcode: "72285"
 city: Pfalzgrafenweiler
 street: "Boschstraße"
 housenumber: 5

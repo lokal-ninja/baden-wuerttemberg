@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.070514800000005
 longitude: 8.744423300000001
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Hauptstraße"
 housenumber: 40

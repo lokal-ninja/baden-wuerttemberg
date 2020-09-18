@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.9856216
 longitude: 8.5408945
-postcode: 76327
+postcode: "76327"
 city: Pfinztal
 street: "Rittnertstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.799038100000004
 longitude: 9.194116300000001
-postcode: 70191
+postcode: "70191"
 city: Stuttgart
 street: "Rosensteinstraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.1215933
 longitude: 7.8479583
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Lammstraße"
 housenumber: 29

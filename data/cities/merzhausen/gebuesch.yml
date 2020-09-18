@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.966097000000005
 longitude: 7.8273019
-postcode: 79249
+postcode: "79249"
 city: Merzhausen
 street: "Am Marktplatz"
 housenumber: 2

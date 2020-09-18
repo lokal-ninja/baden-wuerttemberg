@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.07853
 longitude: 8.391053000000001
-postcode: 76344
+postcode: "76344"
 city: Eggenstein-Leopoldshafen
 street: "Bahnhofstraße"
 housenumber: 18

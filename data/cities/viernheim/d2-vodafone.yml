@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.527235000000005
 longitude: 8.5659677
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Robert-Schuman-Straße"
 housenumber: 1

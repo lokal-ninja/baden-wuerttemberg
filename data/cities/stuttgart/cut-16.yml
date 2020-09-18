@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.833203000000005
 longitude: 9.1701207
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Kirchtalstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.4706119
 longitude: 7.932527400000001
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Heinrich-Hertz-Straße"
 housenumber: 4

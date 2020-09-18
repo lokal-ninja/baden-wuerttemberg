@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.996093200000004
 longitude: 7.8432963
-postcode: 79098
+postcode: "79098"
 city: Freiburg im Breisgau
 street: "Bertoldstraße"
 housenumber: 61

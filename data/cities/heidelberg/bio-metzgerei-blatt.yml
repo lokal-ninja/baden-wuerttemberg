@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.4142159
 longitude: 8.688148400000001
-postcode: 69120
+postcode: "69120"
 city: Heidelberg
 street: "Ladenburger Straße"
 housenumber: 41

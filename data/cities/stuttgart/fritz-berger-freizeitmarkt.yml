@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.8230833
 longitude: 9.1022119
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Holderäckerstraße"
 housenumber: 13

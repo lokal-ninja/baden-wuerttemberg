@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.7739282
 longitude: 9.1523424
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Vogelsangstraße"
 housenumber: 57

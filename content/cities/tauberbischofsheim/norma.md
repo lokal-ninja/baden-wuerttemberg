@@ -1,4 +1,4 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /tauberbischofsheim/norma/
 ---

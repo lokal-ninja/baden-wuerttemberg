@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.7715199
 longitude: 9.1728091
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Sophienstraße"
 housenumber: 21

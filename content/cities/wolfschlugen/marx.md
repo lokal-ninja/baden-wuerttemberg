@@ -1,4 +1,4 @@
 ---
-title: " MARX"
+title: "MARX"
 url: /wolfschlugen/marx/
 ---

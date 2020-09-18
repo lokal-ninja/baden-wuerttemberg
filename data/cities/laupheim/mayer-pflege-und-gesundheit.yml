@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.2289692
 longitude: 9.8850979
-postcode: 
+postcode: ""
 city: Laupheim
 street: "Marktplatz"
 housenumber: 12 + 14

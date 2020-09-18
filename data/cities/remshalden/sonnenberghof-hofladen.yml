@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.817131100000005
 longitude: 9.462346100000001
-postcode: 73630
+postcode: "73630"
 city: Remshalden
 street: "Sonnenbergstraße"
 housenumber: 58

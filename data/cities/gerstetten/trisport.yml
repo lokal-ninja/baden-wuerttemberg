@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.5918178
 longitude: 10.1042167
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Obere Dorfstraße"
 housenumber: 29

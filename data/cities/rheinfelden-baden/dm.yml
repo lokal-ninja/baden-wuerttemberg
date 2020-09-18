@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.5568716
 longitude: 7.7816811
-postcode: 79618
+postcode: "79618"
 city: Rheinfelden (Baden)
 street: "Güterstraße"
 housenumber: 1e

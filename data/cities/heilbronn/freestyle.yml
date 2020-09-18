@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.1450303
 longitude: 9.2184893
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Zehentgasse"
 housenumber: 9

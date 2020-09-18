@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.47766
 longitude: 9.243047
-postcode: 72800
+postcode: "72800"
 city: Eningen unter Achalm
 street: "Max-Planck-Straße"
 housenumber: 31

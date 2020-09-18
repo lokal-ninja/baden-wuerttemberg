@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.860784800000005
 longitude: 8.109739900000001
-postcode: 79868
+postcode: "79868"
 city: Feldberg (Schwarzwald)
 street: "Bärentaler Straße"
 housenumber: 28

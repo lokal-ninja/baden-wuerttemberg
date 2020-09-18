@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.834407600000006
 longitude: 10.0902299
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Untere Wöhrstraße"
 housenumber: 1

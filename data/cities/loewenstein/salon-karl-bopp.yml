@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.089886
 longitude: 9.401585
-postcode: 74245
+postcode: "74245"
 city: Löwenstein
 street: "Geißhölzle"
 housenumber: 62

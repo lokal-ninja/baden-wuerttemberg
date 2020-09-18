@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0686556
 longitude: 8.7494183
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Obere Wiesen"
 housenumber: 1

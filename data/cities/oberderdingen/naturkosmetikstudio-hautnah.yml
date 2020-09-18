@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.067599200000004
 longitude: 8.800170000000001
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Silcherstraße"
 housenumber: 9

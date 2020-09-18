@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.660144
 longitude: 9.172523700000001
-postcode: 78462
+postcode: "78462"
 city: Konstanz
 street: "Hussenstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.609101900000006
 longitude: 9.4762052
-postcode: 74736
+postcode: "74736"
 city: Hardheim
 street: "Würzburger Straße"
 housenumber: 23

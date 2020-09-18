@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0797181
 longitude: 10.129429100000001
-postcode: 88457
+postcode: "88457"
 city: Kirchdorf an der Iller
 street: "Griesweg"
 housenumber: 31

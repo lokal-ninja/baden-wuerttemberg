@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0074576
 longitude: 8.3956671
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Amalienstraße"
 housenumber: 9

@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 48.5251676
 longitude: 8.9806598
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Rottenburger Straße"
 housenumber: 17
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,We-Fr 10:00-12:00, Mo,We,Fr 14:00-18:00, Th 14:00-20:00; Sa 10:00-13:00"
 website: "http://www.beata-boutique.de/"

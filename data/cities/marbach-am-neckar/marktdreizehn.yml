@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.940134300000004
 longitude: 9.2577084
-postcode: 71672
+postcode: "71672"
 city: Marbach am Neckar
 street: "Marktstraße"
 housenumber: 13

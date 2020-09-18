@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.020351500000004
 longitude: 9.1009008
-postcode: 74391
+postcode: "74391"
 city: Erligheim
 street: "Rathausstraße"
 housenumber: 7

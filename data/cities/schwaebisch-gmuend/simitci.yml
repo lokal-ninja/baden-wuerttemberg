@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.8013831
 longitude: 9.7955834
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Ledergasse"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.143565800000005
 longitude: 9.125874900000001
-postcode: 74211
+postcode: "74211"
 city: Leingarten
 street: "Heilbronner Straße"
 housenumber: 54

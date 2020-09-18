@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.4940766
 longitude: 9.209974500000001
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Wilhelmstraße"
 housenumber: 5

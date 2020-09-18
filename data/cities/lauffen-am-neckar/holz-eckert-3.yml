@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.074507700000005
 longitude: 9.138116400000001
-postcode: 74348
+postcode: "74348"
 city: Lauffen am Neckar
 street: "Im Brühl"
 housenumber: 68

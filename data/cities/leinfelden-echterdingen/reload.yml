@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.693000100000006
 longitude: 9.1445518
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Silcherstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.9684686
 longitude: 8.4270466
-postcode: 78166
+postcode: "78166"
 city: Wolterdingen
 street: "Hauptstraße"
 housenumber: 5

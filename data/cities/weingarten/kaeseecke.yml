@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.8082171
 longitude: 9.641992100000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Kirchstraße"
 housenumber: 10

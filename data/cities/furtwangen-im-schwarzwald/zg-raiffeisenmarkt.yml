@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.058691100000004
 longitude: 8.202177500000001
-postcode: 78120
+postcode: "78120"
 city: Furtwangen im Schwarzwald
 street: "Luisenstraße"
 housenumber: 17

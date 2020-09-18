@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.6758405
 longitude: 10.151887100000001
-postcode: 89522
+postcode: "89522"
 city: Heidenheim an der Brenz
 street: "Pfluggasse"
 housenumber: 3

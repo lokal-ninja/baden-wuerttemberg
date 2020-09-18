@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5313219
 longitude: 8.9604187
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Nagolder Straße"
 housenumber: 35

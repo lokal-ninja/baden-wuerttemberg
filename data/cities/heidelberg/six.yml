@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.404315600000004
 longitude: 8.675973800000001
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Willy-Brandt-Platz"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7375715
 longitude: 9.2935127
-postcode: 73734
+postcode: "73734"
 city: Esslingen am Neckar
 street: "Ottostraße"
 housenumber: 5

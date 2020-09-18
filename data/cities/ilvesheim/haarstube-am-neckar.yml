@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.4741477
 longitude: 8.5611525
-postcode: 68549
+postcode: "68549"
 city: Ilvesheim
 street: "Seckenheimer Straße"
 housenumber: 40

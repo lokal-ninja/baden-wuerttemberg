@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.018670300000004
 longitude: 8.7200653
-postcode: 78606
+postcode: "78606"
 city: Seitingen-Oberflacht
 street: "Hauptstraße"
 housenumber: 4

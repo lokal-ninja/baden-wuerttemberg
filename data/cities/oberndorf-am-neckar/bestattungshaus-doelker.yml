@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 48.286505700000006
 longitude: 8.5783342
-postcode: 78727
+postcode: "78727"
 city: Oberndorf am Neckar
 street: "Werkstraße"
 housenumber: 24

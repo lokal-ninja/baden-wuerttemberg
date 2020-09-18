@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0575629
 longitude: 7.607582300000001
-postcode: 79235
+postcode: "79235"
 city: Vogtsburg im Kaiserstuhl
 street: "Auf der Haid"
 housenumber: 11

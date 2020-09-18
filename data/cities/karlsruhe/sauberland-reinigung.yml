@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.0088688
 longitude: 8.3932132
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Douglasstraße"
 housenumber: 34

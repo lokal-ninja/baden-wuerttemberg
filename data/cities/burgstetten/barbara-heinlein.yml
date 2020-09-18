@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.929524
 longitude: 9.370141700000001
-postcode: 71576
+postcode: "71576"
 city: Burgstetten
 street: "Marbacher Straße"
 housenumber: 11

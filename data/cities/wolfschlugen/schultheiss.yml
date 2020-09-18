@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.653944100000004
 longitude: 9.2869138
-postcode: 72649
+postcode: "72649"
 city: Wolfschlugen
 street: "Esslinger Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.779402100000006
 longitude: 9.178272600000001
-postcode: 
+postcode: ""
 city: Stuttgart
 street: "Königstraße"
 housenumber: 26

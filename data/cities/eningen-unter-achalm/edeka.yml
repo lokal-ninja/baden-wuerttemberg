@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4824823
 longitude: 9.254012300000001
-postcode: 72800
+postcode: "72800"
 city: Eningen unter Achalm
 street: "In der Raite"
 housenumber: 20

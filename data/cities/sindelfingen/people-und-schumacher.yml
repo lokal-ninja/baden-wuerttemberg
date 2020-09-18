@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7045918
 longitude: 8.9999835
-postcode: 71063
+postcode: "71063"
 city: Sindelfingen
 street: "Mercedesstraße"
 housenumber: 19

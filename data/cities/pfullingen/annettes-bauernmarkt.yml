@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.4681572
 longitude: 9.2318871
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Achalmstraße"
 housenumber: 28

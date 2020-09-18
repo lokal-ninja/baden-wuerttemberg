@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.395244700000006
 longitude: 8.5785081
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Grenzhöfer Straße"
 housenumber: 100

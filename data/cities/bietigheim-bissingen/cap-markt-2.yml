@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.942553800000006
 longitude: 9.1253876
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Zeppelinstraße"
 housenumber: 34

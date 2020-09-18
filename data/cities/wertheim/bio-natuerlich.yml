@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.7600598
 longitude: 9.5179437
-postcode: 97877
+postcode: "97877"
 city: Wertheim
 street: "Eichelgasse"
 housenumber: 22

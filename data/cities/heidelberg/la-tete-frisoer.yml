@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4282983
 longitude: 8.687797
-postcode: 69121
+postcode: "69121"
 city: Heidelberg
 street: "Handschuhsheimer Landstraße"
 housenumber: 132

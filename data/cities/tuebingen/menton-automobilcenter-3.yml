@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.517548000000005
 longitude: 9.0848887
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Eisenbahnstraße"
 housenumber: 140

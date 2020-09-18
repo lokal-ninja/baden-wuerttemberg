@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.975942200000006
 longitude: 7.914940700000001
-postcode: 79117
+postcode: "79117"
 city: Freiburg im Breisgau
 street: "Kirchzartener Straße"
 housenumber: 20

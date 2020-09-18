@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.4933169
 longitude: 9.701301500000001
-postcode: 89150
+postcode: "89150"
 city: Laichingen
 street: "Graf-von-Zeppelin-Straße"
 housenumber: 2

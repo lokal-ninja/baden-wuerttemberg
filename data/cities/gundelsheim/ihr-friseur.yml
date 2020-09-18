@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.28437580000001
 longitude: 9.1597951
-postcode: 74831
+postcode: "74831"
 city: Gundelsheim
 street: "Schloßstraße"
 housenumber: 2

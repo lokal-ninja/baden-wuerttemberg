@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7737892
 longitude: 9.181935600000001
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Wagnerstraße"
 housenumber: 26

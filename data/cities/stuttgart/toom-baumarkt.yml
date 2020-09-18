@@ -3,10 +3,10 @@ type: way
 shop: Baumarkt
 latitude: 48.7981167
 longitude: 9.2204051
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Daimlerstraße"
-housenumber: 104
+housenumber: 106
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+website: "https://toom.de/m/stuttgart-bad-cannstatt/"

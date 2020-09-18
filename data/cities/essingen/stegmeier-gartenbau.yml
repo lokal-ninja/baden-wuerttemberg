@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.808334800000004
 longitude: 10.022678
-postcode: 73457
+postcode: "73457"
 city: Essingen
 street: "Unteres Dorf"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.423407600000004
 longitude: 8.689218700000001
-postcode: 69121
+postcode: "69121"
 city: Heidelberg
 street: "Handschuhsheimer Landstraße"
 housenumber: 45a

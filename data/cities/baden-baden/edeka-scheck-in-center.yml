@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7825864
 longitude: 8.190293
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Gewerbepark Cité"
 housenumber: 7

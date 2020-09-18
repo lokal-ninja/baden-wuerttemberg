@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.2948469
 longitude: 8.9687974
-postcode: 74924
+postcode: "74924"
 city: Neckarbischofsheim
 street: "von-Hindenburg-Straße"
 housenumber: 54

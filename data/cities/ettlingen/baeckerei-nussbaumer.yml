@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8950107
 longitude: 8.4210624
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Moosbronner Straße"
 housenumber: 37

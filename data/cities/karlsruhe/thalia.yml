@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.006908700000004
 longitude: 8.402356000000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Ettlinger-Tor-Platz"
 housenumber: 1

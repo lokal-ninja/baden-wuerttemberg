@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7756509
 longitude: 9.17758
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Schulstraße"
 housenumber: 2

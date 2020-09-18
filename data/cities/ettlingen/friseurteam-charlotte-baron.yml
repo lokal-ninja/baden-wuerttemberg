@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.945941000000005
 longitude: 8.3912882
-postcode: 
+postcode: ""
 city: Ettlingen
 street: "Zehntwiesenstraße"
 housenumber: 68

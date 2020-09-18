@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.6871753
 longitude: 9.627342500000001
-postcode: 73035
+postcode: "73035"
 city: Göppingen
 street: "Boller Straße"
 housenumber: 14

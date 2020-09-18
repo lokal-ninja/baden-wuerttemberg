@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 48.939722700000004
 longitude: 8.4091052
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Leopoldstraße"
 housenumber: 5

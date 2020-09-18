@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5219238
 longitude: 9.0580087
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Wilhelmstraße"
 housenumber: 8

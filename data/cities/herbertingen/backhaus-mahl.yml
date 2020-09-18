@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0600381
 longitude: 9.4397047
-postcode: 88518
+postcode: "88518"
 city: Herbertingen
 street: "Marbacher Straße"
 housenumber: 1

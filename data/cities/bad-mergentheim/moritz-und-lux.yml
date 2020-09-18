@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.4920787
 longitude: 9.7726948
-postcode: 97980
+postcode: "97980"
 city: Bad Mergentheim
 street: "Gänsmarkt"
 housenumber: 3

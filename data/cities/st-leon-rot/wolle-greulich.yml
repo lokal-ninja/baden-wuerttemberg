@@ -3,7 +3,7 @@ type: node
 shop: Wolle
 latitude: 49.267443400000005
 longitude: 8.617482200000001
-postcode: 68789
+postcode: "68789"
 city: St. Leon-Rot
 street: "Im Schiff"
 housenumber: 2

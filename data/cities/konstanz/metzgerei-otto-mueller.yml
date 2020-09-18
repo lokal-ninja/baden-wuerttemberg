@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.6805357
 longitude: 9.2025333
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Staader Straße"
 housenumber: 2

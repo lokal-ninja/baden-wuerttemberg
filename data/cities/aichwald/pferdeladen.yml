@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.7592233
 longitude: 9.3755241
-postcode: 73773
+postcode: "73773"
 city: Aichwald
 street: "Hauptstraße"
 housenumber: 32

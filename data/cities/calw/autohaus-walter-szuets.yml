@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.6996496
 longitude: 8.761112
-postcode: 75365
+postcode: "75365"
 city: Calw
 street: "Justinus-Kerner-Straße"
 housenumber: 4

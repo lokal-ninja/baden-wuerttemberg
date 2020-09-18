@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.32836390000001
 longitude: 8.5361087
-postcode: 68766
+postcode: "68766"
 city: Hockenheim
 street: "Ludwigshafener Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.797547
 longitude: 9.627751
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Ravensburger Straße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5098968
 longitude: 9.0615574
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Stuttgarter Straße"
 housenumber: 17

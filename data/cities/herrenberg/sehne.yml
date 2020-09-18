@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5750358
 longitude: 8.886443
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Lise-Meitner-Straße"
 housenumber: 1

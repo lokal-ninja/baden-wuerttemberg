@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.5376156
 longitude: 9.283344300000001
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Reutlinger Straße"
 housenumber: 30

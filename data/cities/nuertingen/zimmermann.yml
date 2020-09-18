@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.6265884
 longitude: 9.338850800000001
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Schillerplatz"
 housenumber: 1

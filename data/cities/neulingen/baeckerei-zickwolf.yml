@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.9894267
 longitude: 8.6926027
-postcode: 75245
+postcode: "75245"
 city: Neulingen
 street: "Steiner Straße"
 housenumber: 12

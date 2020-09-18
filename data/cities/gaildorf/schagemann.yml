@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.999964500000004
 longitude: 9.7705514
-postcode: 74405
+postcode: "74405"
 city: Gaildorf
 street: "Karlstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.1974135
 longitude: 9.2029333
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Wimpfener Straße"
 housenumber: 14

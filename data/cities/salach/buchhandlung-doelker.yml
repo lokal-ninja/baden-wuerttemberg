@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.6910004
 longitude: 9.738165200000001
-postcode: 73084
+postcode: "73084"
 city: Salach
 street: "Hauptstraße"
 housenumber: 58

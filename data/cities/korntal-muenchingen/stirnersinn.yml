@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.854166500000005
 longitude: 9.0917916
-postcode: 70825
+postcode: "70825"
 city: Korntal-Münchingen
 street: "Stuttgarter Straße"
 housenumber: 30

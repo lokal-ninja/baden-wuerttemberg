@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.845798300000006
 longitude: 8.5218513
-postcode: 75334
+postcode: "75334"
 city: Straubenhardt
 street: "Benzstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.404687
 longitude: 8.0009657
-postcode: 77791
+postcode: "77791"
 city: Berghaupten
 street: "Kinzigstraße"
 housenumber: 11

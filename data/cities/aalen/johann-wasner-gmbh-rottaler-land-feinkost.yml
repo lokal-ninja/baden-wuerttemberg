@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.8248152
 longitude: 10.072027100000001
-postcode: 73431
+postcode: "73431"
 city: Aalen
 street: "Carl-Zeiss-Straße"
 housenumber: 27

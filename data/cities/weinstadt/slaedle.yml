@@ -1,12 +1,12 @@
 id: 5882322748
 type: node
 shop: Lebensmittel
-latitude: 48.7921234
-longitude: 9.402271800000001
-postcode: 71384
+latitude: 48.792236900000006
+longitude: 9.402255700000001
+postcode: "71384"
 city: Weinstadt
 street: "Silcherstraße"
-housenumber: 48
+housenumber: 40
 phone: ""
-opening_hours: ""
+opening_hours: "PH, Su off; Mo-Fr 07:00-12:30, 16:30-18:30; Sa 07:00-12:30"
 website: ""

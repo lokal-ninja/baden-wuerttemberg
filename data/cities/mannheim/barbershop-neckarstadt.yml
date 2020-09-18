@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.5024297
 longitude: 8.472235300000001
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Pettenkoferstraße"
 housenumber: 4

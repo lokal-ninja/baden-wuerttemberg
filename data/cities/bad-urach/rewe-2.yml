@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4943784
 longitude: 9.4000009
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Gebrüder-Gross-Straße"
 housenumber: 11

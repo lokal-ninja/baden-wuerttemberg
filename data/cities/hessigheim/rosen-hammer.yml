@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.993971200000004
 longitude: 9.194533
-postcode: 74394
+postcode: "74394"
 city: Hessigheim
 street: "Kleiningersheimer Straße"
 housenumber: 3

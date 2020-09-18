@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.011429400000004
 longitude: 8.4261703
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Rintheimer Straße"
 housenumber: 19

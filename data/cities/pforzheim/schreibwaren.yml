@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.896117700000005
 longitude: 8.699115
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Salierstraße"
 housenumber: 41

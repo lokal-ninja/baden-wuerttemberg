@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.126344
 longitude: 8.2942417
-postcode: 78112
+postcode: "78112"
 city: St. Georgen im Schwarzwald
 street: "Am Schützen"
 housenumber: 4

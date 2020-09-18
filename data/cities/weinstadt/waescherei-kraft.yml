@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.8100533
 longitude: 9.3645967
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Schafgasse"
 housenumber: 5

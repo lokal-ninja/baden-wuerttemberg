@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.889556500000005
 longitude: 8.6969686
-postcode: 75173
+postcode: "75173"
 city: Pforzheim
 street: "Jörg-Ratgeb-Straße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.1292163
 longitude: 9.1894012
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Hofstattstraße"
 housenumber: 36

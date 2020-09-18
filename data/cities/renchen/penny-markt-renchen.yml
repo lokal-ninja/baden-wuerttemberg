@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5914572
 longitude: 8.0166845
-postcode: 77871
+postcode: "77871"
 city: Renchen
 street: "Straßburger Straße"
 housenumber: 62

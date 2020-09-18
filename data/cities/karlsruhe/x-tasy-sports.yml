@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.006975800000006
 longitude: 8.429323
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Durlacher Allee"
 housenumber: 55

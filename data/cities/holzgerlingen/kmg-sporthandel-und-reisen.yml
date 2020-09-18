@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.64234870000001
 longitude: 9.0104612
-postcode: 71088
+postcode: "71088"
 city: Holzgerlingen
 street: "Böblinger Straße"
 housenumber: 45

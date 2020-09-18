@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.092376300000005
 longitude: 8.519856500000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Büchenauer Straße"
 housenumber: 35

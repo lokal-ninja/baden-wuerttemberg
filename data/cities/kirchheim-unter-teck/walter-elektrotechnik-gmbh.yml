@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.64629720000001
 longitude: 9.4421335
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Maybachstraße"
 housenumber: 16

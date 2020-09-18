@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.0576409
 longitude: 9.259287800000001
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
 street: "Siemensstraße"
 housenumber: 3

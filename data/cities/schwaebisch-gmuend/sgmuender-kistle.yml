@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.799043700000006
 longitude: 9.7984088
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Milchgäßle"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7126377
 longitude: 9.4154716
-postcode: 
+postcode: ""
 city: Plochingen
 street: "Brühlstraße"
 housenumber: 7

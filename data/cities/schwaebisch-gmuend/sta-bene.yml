@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 48.7991456
 longitude: 9.7956801
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Sonnengäßle"
 housenumber: 8

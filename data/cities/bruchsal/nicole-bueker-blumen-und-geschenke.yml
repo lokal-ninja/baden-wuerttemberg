@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.1225923
 longitude: 8.6015615
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Württemberger Straße"
 housenumber: 22

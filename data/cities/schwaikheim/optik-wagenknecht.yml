@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.875044200000005
 longitude: 9.3513175
-postcode: 71409
+postcode: "71409"
 city: Schwaikheim
 street: "Bahnhofstraße"
 housenumber: 16

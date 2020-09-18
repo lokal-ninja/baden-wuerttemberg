@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.8059056
 longitude: 9.543840300000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Gmünder Straße"
 housenumber: 102

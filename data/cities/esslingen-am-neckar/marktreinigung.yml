@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.7244298
 longitude: 9.3529589
-postcode: 73730
+postcode: "73730"
 city: Esslingen am Neckar
 street: "Alleenstraße"
 housenumber: 

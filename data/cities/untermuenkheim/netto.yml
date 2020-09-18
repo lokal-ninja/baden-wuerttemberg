@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1547904
 longitude: 9.7318134
-postcode: 74547
+postcode: "74547"
 city: Untermünkheim
 street: "Hohenloher Straße"
 housenumber: 62

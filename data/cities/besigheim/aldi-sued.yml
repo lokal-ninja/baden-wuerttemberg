@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.00041280000001
 longitude: 9.147216100000001
-postcode: 74354
+postcode: "74354"
 city: Besigheim
 street: "Robert-Bosch-Straße"
 housenumber: 10

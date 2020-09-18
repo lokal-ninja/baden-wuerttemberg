@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.496384400000004
 longitude: 8.5491872
-postcode: 68259
+postcode: "68259"
 city: Mannheim
 street: ""
 housenumber: 

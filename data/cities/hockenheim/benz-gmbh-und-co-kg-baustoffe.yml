@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.333144000000004
 longitude: 8.5303758
-postcode: 68766
+postcode: "68766"
 city: Hockenheim
 street: "Pfälzer Ring"
 housenumber: 31

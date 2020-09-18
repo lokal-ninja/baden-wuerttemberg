@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.293329500000006
 longitude: 8.5243489
-postcode: 68809
+postcode: "68809"
 city: Neulußheim
 street: "Sankt-Leoner-Straße"
 housenumber: 13

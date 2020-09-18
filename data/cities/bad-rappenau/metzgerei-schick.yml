@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.240805300000005
 longitude: 9.1012836
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Siegelsbacher Straße"
 housenumber: 2

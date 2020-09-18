@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.452070500000005
 longitude: 9.0621071
-postcode: 72144
+postcode: "72144"
 city: Dußlingen
 street: "Bundachstraße"
 housenumber: 3

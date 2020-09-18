@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.585443600000005
 longitude: 9.2272259
-postcode: 72654
+postcode: "72654"
 city: Neckartenzlingen
 street: "Ulrich-Gminder-Straße"
 housenumber: 2

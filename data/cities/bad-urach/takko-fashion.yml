@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4949741
 longitude: 9.398471
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Gebrüder-Gross-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.4304252
 longitude: 9.4274088
-postcode: 74706
+postcode: "74706"
 city: Osterburken
 street: "Marktplatz"
 housenumber: 4

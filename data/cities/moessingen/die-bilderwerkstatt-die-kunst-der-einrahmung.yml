@@ -3,7 +3,7 @@ type: node
 shop: Rahmen
 latitude: 48.414643000000005
 longitude: 9.1050956
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Mühlberg"
 housenumber: 10

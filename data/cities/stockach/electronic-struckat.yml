@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.8512567
 longitude: 9.0128576
-postcode: 78333
+postcode: "78333"
 city: Stockach
 street: "Salmannsweilerstraße"
 housenumber: 10

@@ -1,4 +1,0 @@
----
-title: "S&G Automobil AG"
-url: /karlsruhe/sundg-automobil-ag-2/
----

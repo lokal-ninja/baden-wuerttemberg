@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.170649000000004
 longitude: 8.0672253
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Freiburger Straße"
 housenumber: 17

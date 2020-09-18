@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.9400211
 longitude: 8.408192900000001
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Leopoldstraße"
 housenumber: 42-44

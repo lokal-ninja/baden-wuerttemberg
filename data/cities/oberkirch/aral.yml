@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.5336688
 longitude: 8.0725462
-postcode: 77704
+postcode: "77704"
 city: Oberkirch
 street: "Appenweierer Straße"
 housenumber: 27

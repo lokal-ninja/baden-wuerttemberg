@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.495929000000004
 longitude: 9.029124900000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Alte Landstraße"
 housenumber: 45

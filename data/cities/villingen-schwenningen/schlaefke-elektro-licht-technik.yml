@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.0661179
 longitude: 8.450594200000001
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Sebastian-Kneipp-Straße"
 housenumber: 32

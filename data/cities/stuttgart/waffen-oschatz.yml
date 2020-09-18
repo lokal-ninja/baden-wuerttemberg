@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 48.7589562
 longitude: 9.2539598
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Rohrackerstraße"
 housenumber: 6

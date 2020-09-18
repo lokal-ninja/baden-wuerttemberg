@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.5207683
 longitude: 9.0488886
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Belthlestraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.7902222
 longitude: 9.766724400000001
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Lorcher Straße"
 housenumber: 173

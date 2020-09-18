@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7922613
 longitude: 9.7720342
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Lorcher Straße"
 housenumber: 149

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.139545500000004
 longitude: 8.7714248
-postcode: 76703
+postcode: "76703"
 city: Kraichtal
 street: "Heilbronner Straße"
 housenumber: 22

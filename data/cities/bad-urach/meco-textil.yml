@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.4930887
 longitude: 9.4029634
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Eichendorffstraße"
 housenumber: 1

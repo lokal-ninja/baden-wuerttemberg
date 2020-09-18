@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.38563490000001
 longitude: 8.8032398
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Wiesenbacher Straße"
 housenumber: 77

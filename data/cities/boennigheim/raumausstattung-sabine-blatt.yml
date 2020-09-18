@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.0402039
 longitude: 9.095658400000001
-postcode: 74357
+postcode: "74357"
 city: Bönnigheim
 street: "Poststraße"
 housenumber: 14-16

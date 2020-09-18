@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7741489
 longitude: 8.3885345
-postcode: 76597
+postcode: "76597"
 city: Loffenau
 street: "In den Kirchwiesen"
 housenumber: 3

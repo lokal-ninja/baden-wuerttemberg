@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.0323471
 longitude: 8.5314797
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Carl-Friedrich-Benz-Straße"
 housenumber: 7

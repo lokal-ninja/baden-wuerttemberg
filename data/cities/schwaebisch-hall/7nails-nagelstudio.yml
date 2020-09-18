@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.112269600000005
 longitude: 9.7355566
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Blockgasse"
 housenumber: 8

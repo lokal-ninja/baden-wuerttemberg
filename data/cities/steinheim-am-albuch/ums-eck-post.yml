@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.670895
 longitude: 9.986441800000001
-postcode: 89555
+postcode: "89555"
 city: Steinheim am Albuch
 street: "Heidenheimer Straße"
 housenumber: 1

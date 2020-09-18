@@ -1,12 +1,12 @@
-id: 1595018696
+id: 1581074939
 type: node
 shop: Bäckerei
-latitude: 49.5251444
-longitude: 8.499707500000001
-postcode: 68305
+latitude: 49.437172700000005
+longitude: 8.5246955
+postcode: "68219"
 city: Mannheim
-street: "Waldstraße"
-housenumber: 139
-phone: "+49 621 7481593"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://k-und-u.com"
+street: "Relaisstraße"
+housenumber: 21
+phone: ""
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "https://www.k-und-u.com/filialen/"

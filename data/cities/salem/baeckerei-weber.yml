@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.7610686
 longitude: 9.2880166
-postcode: 88682
+postcode: "88682"
 city: Salem
 street: "Im Winkel"
 housenumber: 26

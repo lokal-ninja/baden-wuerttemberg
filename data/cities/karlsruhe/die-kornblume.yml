@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.9929317
 longitude: 8.3904628
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Marie-Alexandra-Straße"
 housenumber: 32

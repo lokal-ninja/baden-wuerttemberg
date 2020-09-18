@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.7891549
 longitude: 9.934973000000001
-postcode: 73540
+postcode: "73540"
 city: Heubach
 street: "Hauptstraße"
 housenumber: 39

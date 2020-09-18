@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.009661300000005
 longitude: 8.4237272
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Georg-Friedrich-Straße"
 housenumber: 9

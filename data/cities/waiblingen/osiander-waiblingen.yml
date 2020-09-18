@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.8321364
 longitude: 9.3163561
-postcode: 71332
+postcode: "71332"
 city: Waiblingen
 street: "Kurze Straße"
 housenumber: 24

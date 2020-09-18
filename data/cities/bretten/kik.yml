@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.032819100000005
 longitude: 8.7032804
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Pforzheimer Straße"
 housenumber: 46

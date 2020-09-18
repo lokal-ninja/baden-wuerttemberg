@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 48.8230918
 longitude: 9.1044838
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Turbinenstraße"
-housenumber: 2
+housenumber: 2-6
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.winkler-stuttgart.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.771262400000005
 longitude: 8.9035644
-postcode: 71272
+postcode: "71272"
 city: Renningen
 street: "Brunnenfeldstraße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.6561396
 longitude: 9.7800811
-postcode: 73333
+postcode: "73333"
 city: Gingen an der Fils
 street: "Mühlgasse"
 housenumber: 1

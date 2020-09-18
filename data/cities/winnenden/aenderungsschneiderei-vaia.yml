@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 48.876489400000004
 longitude: 9.3999094
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Mühltorstraße"
 housenumber: 10

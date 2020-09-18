@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.708322200000005
 longitude: 9.6369761
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Stuttgarter Straße"
 housenumber: 67

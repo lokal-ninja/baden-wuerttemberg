@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 48.684088300000006
 longitude: 9.0140992
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Poststraße"
 housenumber: 44

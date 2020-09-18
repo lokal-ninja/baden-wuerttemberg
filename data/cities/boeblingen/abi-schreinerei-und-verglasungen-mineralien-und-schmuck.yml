@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.6826797
 longitude: 9.0172298
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Schönaicher Straße"
 housenumber: 2

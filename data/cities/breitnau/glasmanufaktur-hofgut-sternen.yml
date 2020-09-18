@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.9161791
 longitude: 8.0734426
-postcode: 79874
+postcode: "79874"
 city: Breitnau
 street: "Höllsteig"
 housenumber: 74/1

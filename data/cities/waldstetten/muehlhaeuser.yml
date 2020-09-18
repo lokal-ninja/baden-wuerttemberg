@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7671949
 longitude: 9.8225964
-postcode: 73550
+postcode: "73550"
 city: Waldstetten
 street: "Gmünder Straße"
 housenumber: 16

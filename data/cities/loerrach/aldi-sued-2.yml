@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6035492
 longitude: 7.6566817
-postcode: 79540
+postcode: "79540"
 city: Lörrach
 street: "Küpferstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6468124
 longitude: 9.3633811
-postcode: 72644
+postcode: "72644"
 city: Oberboihingen
 street: "Mörikestraße"
 housenumber: 13

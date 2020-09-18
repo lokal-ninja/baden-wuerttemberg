@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 47.6648231
 longitude: 9.366098500000001
-postcode: 88090
+postcode: "88090"
 city: Immenstaad am Bodensee
 street: "Bachstraße"
 housenumber: 6

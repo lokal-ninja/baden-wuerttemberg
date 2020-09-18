@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.520450000000004
 longitude: 9.055607700000001
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Kirchgasse"
 housenumber: 21

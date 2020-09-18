@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.475155
 longitude: 8.6088181
-postcode: 68526
+postcode: "68526"
 city: Ladenburg
 street: "Preysingstraße"
 housenumber: 12

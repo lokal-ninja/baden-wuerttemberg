@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 48.7742706
 longitude: 8.7292935
-postcode: 75378
+postcode: "75378"
 city: Bad Liebenzell
 street: "Baumstraße"
 housenumber: 15

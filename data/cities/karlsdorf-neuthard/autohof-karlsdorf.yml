@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1482419
 longitude: 8.5546387
-postcode: 76689
+postcode: "76689"
 city: Karlsdorf-Neuthard
 street: "Simon-Hegele-Straße"
 housenumber: 1b

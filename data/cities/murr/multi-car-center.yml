@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9594797
 longitude: 9.2529164
-postcode: 71711
+postcode: "71711"
 city: Murr
 street: "Hindenburgstraße"
 housenumber: 110

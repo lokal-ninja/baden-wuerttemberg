@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 48.7917852
 longitude: 9.1852695
-postcode: 70191
+postcode: "70191"
 city: Stuttgart
 street: "Wolframstraße"
 housenumber: 20

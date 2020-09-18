@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.83071
 longitude: 8.5487529
-postcode: 78176
+postcode: "78176"
 city: Blumberg
 street: "Waldshuter Straße"
 housenumber: 37

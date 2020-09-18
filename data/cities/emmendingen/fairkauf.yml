@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.1270996
 longitude: 7.826370000000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Am Elzdamm"
 housenumber: 45

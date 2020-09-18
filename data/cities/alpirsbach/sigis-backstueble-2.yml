@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 48.335815700000005
 longitude: 8.4348951
-postcode: 72275
+postcode: "72275"
 city: Alpirsbach
 street: "Zankwaldweg"
 housenumber: 6
 phone: "+4974442651"
 opening_hours: ""
-website: ""
+website: "https://baeckerei-maser.de/index.php?id=1"

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.6478624
 longitude: 9.4497236
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Schloßplatz"
 housenumber: 3

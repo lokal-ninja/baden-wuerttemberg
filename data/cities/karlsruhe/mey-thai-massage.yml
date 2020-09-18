@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.0101129
 longitude: 8.3845995
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserallee"
 housenumber: 11

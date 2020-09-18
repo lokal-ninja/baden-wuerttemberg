@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7209811
 longitude: 9.1204516
-postcode: 70565
+postcode: "70565"
 city: Stuttgart
 street: "Galileistraße"
 housenumber: 7

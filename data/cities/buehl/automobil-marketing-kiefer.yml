@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.706157600000004
 longitude: 8.1264658
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Industriestraße"
 housenumber: 18

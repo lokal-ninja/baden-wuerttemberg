@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.725101800000004
 longitude: 9.3724982
-postcode: 73776
+postcode: "73776"
 city: Altbach
 street: "Esslinger Straße"
 housenumber: 9

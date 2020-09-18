@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7861861
 longitude: 10.1071012
-postcode: 73447
+postcode: "73447"
 city: Oberkochen
 street: "Blumenstraße"
 housenumber: 35

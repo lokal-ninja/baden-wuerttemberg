@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.917401000000005
 longitude: 9.8936702
-postcode: 73453
+postcode: "73453"
 city: Abtsgmünd
 street: "Aalener Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.287362900000005
 longitude: 9.7089123
-postcode: 74653
+postcode: "74653"
 city: Künzelsau
 street: "Steinbacher Weg"
 housenumber: 35

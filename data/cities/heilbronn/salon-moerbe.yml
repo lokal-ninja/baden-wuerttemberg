@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.143699000000005
 longitude: 9.2178625
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Gerberstraße"
 housenumber: 18

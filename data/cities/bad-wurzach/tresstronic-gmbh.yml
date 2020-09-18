@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.9015118
 longitude: 9.8932301
-postcode: 88410
+postcode: "88410"
 city: Bad Wurzach
 street: "Niedermühleweg"
 housenumber: 11

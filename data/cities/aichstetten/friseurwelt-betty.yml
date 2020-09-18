@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8966555
 longitude: 10.0794517
-postcode: 88317
+postcode: "88317"
 city: Aichstetten
 street: "Hardsteiger Straße"
 housenumber: 7

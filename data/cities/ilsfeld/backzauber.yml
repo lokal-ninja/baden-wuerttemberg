@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 49.057917100000004
 longitude: 9.2854752
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
 street: "Ludwig-Thoma-Straße"
 housenumber: 8

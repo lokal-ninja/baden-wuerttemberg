@@ -3,7 +3,7 @@ type: way
 shop: Milch
 latitude: 47.614031600000004
 longitude: 8.2947351
-postcode: 79790
+postcode: "79790"
 city: Küssaberg
 street: "Hauptstraße"
 housenumber: 42

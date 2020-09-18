@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.7140374
 longitude: 9.522359600000001
-postcode: 73061
+postcode: "73061"
 city: Ebersbach an der Fils
 street: "Stuttgarter Straße"
 housenumber: 9

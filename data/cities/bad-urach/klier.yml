@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.494575700000006
 longitude: 9.4001376
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Gebrüder-Gross-Straße"
 housenumber: 11

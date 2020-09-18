@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 47.629982500000004
 longitude: 8.317707200000001
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Siemensstraße"
 housenumber: 16

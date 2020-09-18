@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.6933276
 longitude: 8.1348097
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Hauptstraße"
 housenumber: 12

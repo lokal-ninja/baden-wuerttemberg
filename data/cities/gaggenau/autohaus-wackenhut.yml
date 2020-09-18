@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.800254100000004
 longitude: 8.3125444
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Waldstraße"
 housenumber: 31a

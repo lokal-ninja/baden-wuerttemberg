@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.773578
 longitude: 9.175113600000001
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Königstraße"
 housenumber: 49

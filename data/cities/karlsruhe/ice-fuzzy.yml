@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.0371795
 longitude: 8.3929177
-postcode: 76149
+postcode: "76149"
 city: Karlsruhe
 street: "Lorbeerweg"
 housenumber: 26

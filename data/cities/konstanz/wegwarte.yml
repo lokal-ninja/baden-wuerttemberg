@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.679759700000005
 longitude: 9.1626344
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Joseph-Belli-Weg"
 housenumber: 3

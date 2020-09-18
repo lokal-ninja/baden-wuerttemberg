@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.452046100000004
 longitude: 9.084325900000001
-postcode: 72810
+postcode: "72810"
 city: Gomaringen
 street: "Nehrener Straße"
 housenumber: 2

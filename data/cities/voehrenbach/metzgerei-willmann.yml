@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.0458033
 longitude: 8.304543200000001
-postcode: 78147
+postcode: "78147"
 city: Vöhrenbach
 street: "Josef-Hepting-Straße"
 housenumber: 1

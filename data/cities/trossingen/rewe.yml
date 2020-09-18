@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.078495200000006
 longitude: 8.637733200000001
-postcode: 78647
+postcode: "78647"
 city: Trossingen
 street: "Butschstraße"
 housenumber: 13

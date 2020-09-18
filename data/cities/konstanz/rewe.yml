@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.672935700000004
 longitude: 9.1690321
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Schneckenburgstraße"
 housenumber: 3

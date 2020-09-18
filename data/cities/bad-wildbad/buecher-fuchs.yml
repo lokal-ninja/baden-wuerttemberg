@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.749795500000005
 longitude: 8.5496462
-postcode: 75323
+postcode: "75323"
 city: Bad Wildbad
 street: "König-Karl-Straße"
 housenumber: 5

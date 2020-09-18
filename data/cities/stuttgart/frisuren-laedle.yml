@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7290676
 longitude: 9.106674400000001
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Ifflandstraße"
 housenumber: 2

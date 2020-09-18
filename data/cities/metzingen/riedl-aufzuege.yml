@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.5394646
 longitude: 9.2818394
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Stuttgarter Straße"
 housenumber: 19

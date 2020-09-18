@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.1392782
 longitude: 10.069717800000001
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Wilhelmstraße"
 housenumber: 29

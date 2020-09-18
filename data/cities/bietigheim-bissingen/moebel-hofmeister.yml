@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.955441300000004
 longitude: 9.1468489
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Kirchheimer Straße"
 housenumber: 5

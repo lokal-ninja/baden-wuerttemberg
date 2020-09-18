@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.798261700000005
 longitude: 9.500646000000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Stettiner Straße"
 housenumber: 19/21

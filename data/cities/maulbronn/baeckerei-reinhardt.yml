@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0002304
 longitude: 8.8157415
-postcode: 75433
+postcode: "75433"
 city: Maulbronn
 street: "Stuttgarter Straße"
 housenumber: 50

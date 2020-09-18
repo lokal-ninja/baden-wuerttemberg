@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.2262057
 longitude: 9.3863249
-postcode: 74243
+postcode: "74243"
 city: Langenbrettach
 street: "Bei der Leimengrube"
 housenumber: 21

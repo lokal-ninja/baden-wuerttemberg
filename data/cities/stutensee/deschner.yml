@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.079418000000004
 longitude: 8.4606394
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Linkenheimer Straße"
 housenumber: 55

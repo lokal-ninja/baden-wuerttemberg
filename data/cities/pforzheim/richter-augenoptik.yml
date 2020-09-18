@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.896820600000005
 longitude: 8.7071089
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Hohenzollernstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.599566700000004
 longitude: 8.8614435
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Zeppelinstraße"
 housenumber: 7

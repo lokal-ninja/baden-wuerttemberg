@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 47.579668600000005
 longitude: 7.596462700000001
-postcode: 4057
+postcode: "4057"
 city: Basel
 street: "Hochbergerstrasse"
 housenumber: 70

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.162396400000006
 longitude: 8.490248600000001
-postcode: 76676
+postcode: "76676"
 city: Graben-Neudorf
 street: "Bahnhofsring"
 housenumber: 5b

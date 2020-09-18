@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 48.4911711
 longitude: 9.209989700000001
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Rathausstraße"
 housenumber: 10

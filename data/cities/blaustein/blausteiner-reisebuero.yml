@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.41553630000001
 longitude: 9.920724
-postcode: 89134
+postcode: "89134"
 city: Blaustein
 street: "Hummelstraße"
 housenumber: 2

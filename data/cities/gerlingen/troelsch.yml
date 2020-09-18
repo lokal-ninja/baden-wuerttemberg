@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.79904560000001
 longitude: 9.061988600000001
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Hauptstraße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.868048
 longitude: 9.2586472
-postcode: 71686
+postcode: "71686"
 city: Remseck am Neckar
 street: "Neckarstraße"
 housenumber: 62

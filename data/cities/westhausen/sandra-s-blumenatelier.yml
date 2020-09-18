@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.8809758
 longitude: 10.1877996
-postcode: 73463
+postcode: "73463"
 city: Westhausen
 street: "Bohlerstraße"
 housenumber: 1

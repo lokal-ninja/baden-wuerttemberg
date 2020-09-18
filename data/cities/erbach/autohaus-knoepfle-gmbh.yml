@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.330811700000005
 longitude: 9.908168700000001
-postcode: 89155
+postcode: "89155"
 city: Erbach
 street: "Benzstraße"
 housenumber: 25

@@ -1,6 +1,6 @@
 ---
 title: Michelbach an der Bilz
 url: /michelbach-an-der-bilz/
-latitude: 49.068726100000006
-longitude: 9.7632366
+latitude: 49.0695415
+longitude: 9.762614300000001
 ---

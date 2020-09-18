@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.778811000000005
 longitude: 9.1771159
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Kleiner Schlossplatz"
 housenumber: 13/15

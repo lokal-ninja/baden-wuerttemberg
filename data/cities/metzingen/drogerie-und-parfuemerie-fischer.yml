@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.539498800000004
 longitude: 9.2836873
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Beim Rathaus"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 48.0547015
 longitude: 8.4686217
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Fürstenbergring"
 housenumber: 1/1

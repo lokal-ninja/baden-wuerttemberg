@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.4078646
 longitude: 9.5374327
-postcode: 72525
+postcode: "72525"
 city: Münsingen
 street: "Albstraße"
 housenumber: 20

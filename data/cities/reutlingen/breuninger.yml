@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4919102
 longitude: 9.2121273
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Wilhelmstraße"
 housenumber: 75

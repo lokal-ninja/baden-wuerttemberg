@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.158638700000004
 longitude: 9.1722493
-postcode: 74078
+postcode: "74078"
 city: Heilbronn
 street: "Speyerer Straße"
 housenumber: 1

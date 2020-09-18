@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.145758900000004
 longitude: 9.2211248
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Berliner Platz"
 housenumber: 12

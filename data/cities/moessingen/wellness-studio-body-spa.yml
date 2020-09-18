@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.4148973
 longitude: 9.1025504
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Mühlberg"
 housenumber: 35

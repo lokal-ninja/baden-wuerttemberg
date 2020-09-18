@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.982525100000004
 longitude: 7.8013396
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Basler Landstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.6991117
 longitude: 7.979845600000001
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Ziegelhof"
 housenumber: 3

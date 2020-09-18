@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.137429000000004
 longitude: 10.0714459
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Karlstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.000620500000004
 longitude: 9.139821300000001
-postcode: 74354
+postcode: "74354"
 city: Besigheim
 street: "Hauptstraße"
 housenumber: 51

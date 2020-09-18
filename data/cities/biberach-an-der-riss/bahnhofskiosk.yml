@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.1015165
 longitude: 9.7929812
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Bahnhof"
 housenumber: 4

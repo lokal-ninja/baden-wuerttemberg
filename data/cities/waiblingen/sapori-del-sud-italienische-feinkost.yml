@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.831299800000004
 longitude: 9.3157744
-postcode: 71332
+postcode: "71332"
 city: Waiblingen
 street: "Kurze Straße"
 housenumber: 38

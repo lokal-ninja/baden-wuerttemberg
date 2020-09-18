@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 49.0862373
 longitude: 9.286131600000001
-postcode: 74199
+postcode: "74199"
 city: Untergruppenbach
 street: "Happenbacher Straße"
 housenumber: 90

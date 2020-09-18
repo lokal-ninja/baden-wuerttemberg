@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 48.805724600000005
 longitude: 9.5259359
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Neue Straße"
 housenumber: 9

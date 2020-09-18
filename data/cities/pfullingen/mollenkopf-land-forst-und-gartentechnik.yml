@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.4558224
 longitude: 9.213872100000001
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Memmelers Wiese"
 housenumber: 4

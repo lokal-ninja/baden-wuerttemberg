@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.1132525
 longitude: 7.8600231
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Geyer-zu-Lauf-Straße"
 housenumber: 1-9

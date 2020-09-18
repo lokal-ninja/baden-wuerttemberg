@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.9817912
 longitude: 7.8036601
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Blumenstraße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.498879200000005
 longitude: 9.101341300000001
-postcode: 72127
+postcode: "72127"
 city: Kusterdingen
 street: "Hauptstraße"
 housenumber: 20

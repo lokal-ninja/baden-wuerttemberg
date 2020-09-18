@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.5692846
 longitude: 7.8217185
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Hauptstraße"
 housenumber: 150

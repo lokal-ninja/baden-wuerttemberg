@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.648946
 longitude: 9.4490274
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Max-Eyth-Straße"
 housenumber: 9

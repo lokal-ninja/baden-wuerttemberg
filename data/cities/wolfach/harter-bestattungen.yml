@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 48.293517900000005
 longitude: 8.3230653
-postcode: 77709
+postcode: "77709"
 city: Wolfach
 street: "Leubach"
 housenumber: 1

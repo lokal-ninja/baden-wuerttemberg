@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.1844443
 longitude: 8.4212591
-postcode: 76706
+postcode: "76706"
 city: Dettenheim
 street: "Rheinstraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.813680500000004
 longitude: 9.636888200000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Argonnenstraße"
 housenumber: 11

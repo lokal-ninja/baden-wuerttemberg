@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.380275700000006
 longitude: 8.584920200000001
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Scheffelstraße"
 housenumber: 67

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.797283
 longitude: 9.627434000000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Ravensburger Straße"
 housenumber: 56

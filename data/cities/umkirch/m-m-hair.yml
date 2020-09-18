@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.031227300000005
 longitude: 7.765472600000001
-postcode: 79224
+postcode: "79224"
 city: Umkirch
 street: "Hauptstraße"
 housenumber: 29

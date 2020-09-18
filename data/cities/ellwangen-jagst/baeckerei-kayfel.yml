@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.960944100000006
 longitude: 10.1334929
-postcode: 73479
+postcode: "73479"
 city: Ellwangen (Jagst)
 street: "Spitalstraße"
 housenumber: 20

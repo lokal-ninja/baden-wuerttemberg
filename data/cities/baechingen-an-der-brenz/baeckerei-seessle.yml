@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.5470344
 longitude: 10.3126555
-postcode: 89431
+postcode: "89431"
 city: Bächingen an der Brenz
 street: "Lindenstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 48.976984900000005
 longitude: 9.5865177
-postcode: 71540
+postcode: "71540"
 city: Murrhardt
 street: "Fornsbacher Straße"
 housenumber: 54

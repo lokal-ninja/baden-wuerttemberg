@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.9915728
 longitude: 8.3712374
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Pulverhausstraße"
 housenumber: 25

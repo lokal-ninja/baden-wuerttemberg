@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.677209500000004
 longitude: 9.169301200000001
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Bücklestraße"
 housenumber: 72

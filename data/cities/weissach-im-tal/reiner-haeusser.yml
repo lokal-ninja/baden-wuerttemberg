@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.9128358
 longitude: 9.5012643
-postcode: 71554
+postcode: "71554"
 city: Weissach im Tal
 street: "In den Rohrwiesen"
 housenumber: 2

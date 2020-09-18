@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7487198
 longitude: 9.169566600000001
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Epplestraße"
 housenumber: 4

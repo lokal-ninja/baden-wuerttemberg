@@ -3,7 +3,7 @@ type: way
 shop: Pool
 latitude: 48.407105
 longitude: 9.040759000000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Maybachstraße"
 housenumber: 7

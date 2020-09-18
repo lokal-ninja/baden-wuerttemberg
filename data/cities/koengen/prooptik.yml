@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.6842501
 longitude: 9.362614500000001
-postcode: 73257
+postcode: "73257"
 city: Köngen
 street: "Hirschstraße"
 housenumber: 8

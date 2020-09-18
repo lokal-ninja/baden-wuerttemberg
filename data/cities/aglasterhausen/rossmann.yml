@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.3487062
 longitude: 8.9855598
-postcode: 74858
+postcode: "74858"
 city: Aglasterhausen
 street: "Im Oberen Tal"
 housenumber: 14

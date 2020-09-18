@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 48.6665943
 longitude: 9.565141500000001
-postcode: 73110
+postcode: "73110"
 city: Hattenhofen
 street: "Hauptstraße"
 housenumber: 88/1

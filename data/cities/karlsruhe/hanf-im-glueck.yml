@@ -3,7 +3,7 @@ type: node
 shop: Hanf
 latitude: 49.0097849
 longitude: 8.3888152
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Amalienstraße"
 housenumber: 81

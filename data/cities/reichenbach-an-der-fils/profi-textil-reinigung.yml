@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.7090545
 longitude: 9.461537700000001
-postcode: 73262
+postcode: "73262"
 city: Reichenbach an der Fils
 street: "Stuttgarter Straße"
 housenumber: 10

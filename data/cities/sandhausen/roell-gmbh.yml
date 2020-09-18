@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3516181
 longitude: 8.6574398
-postcode: 69207
+postcode: "69207"
 city: Sandhausen
 street: "Heidenäckerstraße"
 housenumber: 11

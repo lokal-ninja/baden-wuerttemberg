@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.037866900000004
 longitude: 8.6817414
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Brückenfeldstraße"
 housenumber: 32

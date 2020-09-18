@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8084779
 longitude: 9.6419327
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Kirchstraße"
 housenumber: 11

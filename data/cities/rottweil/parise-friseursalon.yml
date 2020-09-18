@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.158286600000004
 longitude: 8.6210201
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Brugger Straße"
 housenumber: 59-61

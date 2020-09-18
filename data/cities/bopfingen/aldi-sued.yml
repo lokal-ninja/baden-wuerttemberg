@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8631803
 longitude: 10.3439566
-postcode: 73441
+postcode: "73441"
 city: Bopfingen
 street: "Aalener Straße"
 housenumber: 50

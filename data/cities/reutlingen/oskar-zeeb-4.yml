@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.520379000000005
 longitude: 9.2073329
-postcode: 72760
+postcode: "72760"
 city: Reutlingen
 street: "Dresdner Platz"
 housenumber: 2

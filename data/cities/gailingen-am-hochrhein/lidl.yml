@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6970375
 longitude: 8.745787100000001
-postcode: 78262
+postcode: "78262"
 city: Gailingen am Hochrhein
 street: "Im Rheinauer"
 housenumber: 7

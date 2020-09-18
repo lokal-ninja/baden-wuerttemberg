@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.083192000000004
 longitude: 9.3184625
-postcode: 74199
+postcode: "74199"
 city: Untergruppenbach
 street: "Abstatter Straße"
 housenumber: 57/1

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.1342787
 longitude: 9.383768100000001
-postcode: 74182
+postcode: "74182"
 city: Obersulm
 street: "Am Ordensschloß"
 housenumber: 4

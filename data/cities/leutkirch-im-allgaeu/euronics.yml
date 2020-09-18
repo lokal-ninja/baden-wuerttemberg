@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.8246947
 longitude: 10.020476
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Bahnhofsarkaden"
 housenumber: 3

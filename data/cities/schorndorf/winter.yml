@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.814289
 longitude: 9.530272100000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Welzheimer Straße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9977055
 longitude: 8.4574491
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Raiherwiesenstraße"
 housenumber: 34

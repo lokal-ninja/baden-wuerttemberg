@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6383378
 longitude: 9.012261800000001
-postcode: 71088
+postcode: "71088"
 city: Holzgerlingen
 street: "Tübinger Straße"
 housenumber: 8

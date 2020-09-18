@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.618502500000005
 longitude: 10.2505427
-postcode: 89537
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Gerschweiler Straße"
 housenumber: 8

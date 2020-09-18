@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.5559859
 longitude: 9.3747053
-postcode: 72639
+postcode: "72639"
 city: Neuffen
 street: "Bahnhofstraße"
 housenumber: 2

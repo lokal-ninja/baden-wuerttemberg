@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6874381
 longitude: 9.9252578
-postcode: 89558
+postcode: "89558"
 city: Böhmenkirch
 street: "Im Hart"
 housenumber: 4

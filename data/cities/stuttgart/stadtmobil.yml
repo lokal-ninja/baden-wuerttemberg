@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.7721907
 longitude: 9.174597200000001
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Tübinger Straße"
 housenumber: 15

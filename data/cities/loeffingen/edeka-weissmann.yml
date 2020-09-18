@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8834712
 longitude: 8.341429900000001
-postcode: 79843
+postcode: "79843"
 city: Löffingen
 street: "Güterstraße"
 housenumber: 1-3

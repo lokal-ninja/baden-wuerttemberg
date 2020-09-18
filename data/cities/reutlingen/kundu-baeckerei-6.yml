@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.487366200000004
 longitude: 9.1910424
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Friedrich-Naumann-Straße"
 housenumber: 36

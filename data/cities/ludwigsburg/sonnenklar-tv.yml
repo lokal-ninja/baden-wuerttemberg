@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.899712900000004
 longitude: 9.1914558
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Marstallstraße"
 housenumber: 1

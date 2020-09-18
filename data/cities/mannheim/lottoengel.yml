@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.5003265
 longitude: 8.4680555
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Riedfeldstraße"
 housenumber: 35

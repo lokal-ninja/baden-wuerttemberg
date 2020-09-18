@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.537499700000005
 longitude: 8.0617312
-postcode: 77704
+postcode: "77704"
 city: Oberkirch
 street: "Konrad-Adenauer-Straße"
 housenumber: 2

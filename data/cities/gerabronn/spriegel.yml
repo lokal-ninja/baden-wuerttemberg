@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.2486611
 longitude: 9.9229739
-postcode: 74582
+postcode: "74582"
 city: Gerabronn
 street: "Brühlstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.042227100000005
 longitude: 9.312890900000001
-postcode: 71717
+postcode: "71717"
 city: Beilstein
 street: "Auensteiner Straße"
 housenumber: 6

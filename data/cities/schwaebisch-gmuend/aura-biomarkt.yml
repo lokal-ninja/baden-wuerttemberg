@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.792114000000005
 longitude: 9.8039772
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Weißensteiner Straße"
 housenumber: 44

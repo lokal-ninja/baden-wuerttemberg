@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.742266400000005
 longitude: 9.3100704
-postcode: 73728
+postcode: "73728"
 city: Esslingen am Neckar
 street: "Heugasse"
 housenumber: 19/1

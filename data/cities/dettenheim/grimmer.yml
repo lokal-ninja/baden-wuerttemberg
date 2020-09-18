@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.1618562
 longitude: 8.4160509
-postcode: 76706
+postcode: "76706"
 city: Dettenheim
 street: "Blücherstraße"
 housenumber: 4

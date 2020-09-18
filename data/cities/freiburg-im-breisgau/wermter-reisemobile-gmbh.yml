@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.9962363
 longitude: 7.7163751000000005
-postcode: 
+postcode: ""
 city: Freiburg im Breisgau
 street: "Hugstmattweg"
 housenumber: 16

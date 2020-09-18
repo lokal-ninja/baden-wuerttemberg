@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.4443494
 longitude: 8.6905798
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Neckarstraße"
 housenumber: 36

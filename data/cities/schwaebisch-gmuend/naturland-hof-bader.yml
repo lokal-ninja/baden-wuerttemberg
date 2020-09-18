@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.7908782
 longitude: 9.7364925
-postcode: 73527
+postcode: "73527"
 city: Schwäbisch Gmünd
 street: "Sachsenhof"
 housenumber: 16

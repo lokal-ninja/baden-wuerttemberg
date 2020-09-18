@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.9870983
 longitude: 7.7920071
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Jechtinger Straße"
 housenumber: 5

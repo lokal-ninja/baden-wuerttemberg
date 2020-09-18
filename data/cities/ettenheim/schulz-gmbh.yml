@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.263180600000005
 longitude: 7.8013973000000005
-postcode: 77955
+postcode: "77955"
 city: Ettenheim
 street: "Stückle-Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.414205800000005
 longitude: 9.921168900000001
-postcode: 89134
+postcode: "89134"
 city: Blaustein
 street: "Hummelstraße"
 housenumber: 7-11

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.3814277
 longitude: 8.887698700000001
-postcode: 72414
+postcode: "72414"
 city: Rangendingen
 street: "Wintergasse"
 housenumber: 14

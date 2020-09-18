@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 48.5225833
 longitude: 9.054769400000001
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Lange Gasse"
 housenumber: 56

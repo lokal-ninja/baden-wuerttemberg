@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5464634
 longitude: 9.0570331
-postcode: 72076
+postcode: "72076"
 city: Tübingen
 street: "Vogelbeerweg"
 housenumber: 4

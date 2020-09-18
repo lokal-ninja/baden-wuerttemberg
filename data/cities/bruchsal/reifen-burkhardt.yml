@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1366348
 longitude: 8.593926100000001
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Murgstraße"
 housenumber: 12-14

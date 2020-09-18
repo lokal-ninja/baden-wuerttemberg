@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.6959169
 longitude: 9.739366500000001
-postcode: 73084
+postcode: "73084"
 city: Salach
 street: "Ziegelstraße"
 housenumber: 14

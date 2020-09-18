@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.8053498
 longitude: 9.5261448
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Gottlieb-Daimler-Straße"
 housenumber: 10

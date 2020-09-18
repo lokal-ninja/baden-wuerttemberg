@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.1495158
 longitude: 8.6413884
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Tuttlinger Straße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9256345
 longitude: 8.375054800000001
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Im Katzentach"
 housenumber: 10

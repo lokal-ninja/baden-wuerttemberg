@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.033288600000006
 longitude: 9.094253100000001
-postcode: 74357
+postcode: "74357"
 city: Bönnigheim
 street: "Erligheimer Straße"
 housenumber: 55

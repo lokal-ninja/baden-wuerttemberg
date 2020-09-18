@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.62147280000001
 longitude: 9.659138200000001
-postcode: 97941
+postcode: "97941"
 city: Tauberbischofsheim
 street: "Sonnenplatz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.00444460000001
 longitude: 8.4292294
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Alter Schlachthof"
 housenumber: 25a

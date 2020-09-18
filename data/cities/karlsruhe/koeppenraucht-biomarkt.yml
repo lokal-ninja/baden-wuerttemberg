@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.971757100000005
 longitude: 8.4048592
-postcode: 76199
+postcode: "76199"
 city: Karlsruhe
 street: "Herrenalber Straße"
 housenumber: 45

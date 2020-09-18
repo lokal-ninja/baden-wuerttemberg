@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.8827506
 longitude: 8.155528200000001
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Fährstraße"
 housenumber: 45

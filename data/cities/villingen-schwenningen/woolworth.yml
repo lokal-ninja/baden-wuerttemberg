@@ -1,9 +1,9 @@
 id: 1560532632
 type: node
-shop: Supermarkt
+shop: Warenhaus
 latitude: 48.063425
 longitude: 8.5343546
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
 street: "Kronenstraße"
 housenumber: 21

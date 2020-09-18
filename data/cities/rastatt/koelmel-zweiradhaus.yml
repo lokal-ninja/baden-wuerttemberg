@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.8695536
 longitude: 8.1907213
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Lindenstraße"
 housenumber: 5

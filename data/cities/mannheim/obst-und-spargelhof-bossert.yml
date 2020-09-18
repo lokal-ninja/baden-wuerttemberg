@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.4960996
 longitude: 8.550072100000001
-postcode: 68259
+postcode: "68259"
 city: Mannheim
 street: "Mosbacher Straße"
 housenumber: 15

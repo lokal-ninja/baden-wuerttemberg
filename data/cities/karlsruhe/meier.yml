@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.009149
 longitude: 8.3780941
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Goethestraße"
 housenumber: 31

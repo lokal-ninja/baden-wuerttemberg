@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.464596400000005
 longitude: 9.2271515
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Kirchstraße"
 housenumber: 19

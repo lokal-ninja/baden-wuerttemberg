@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.505838600000004
 longitude: 9.0514959
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Heinlenstraße"
 housenumber: 5

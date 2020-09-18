@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 48.809763800000006
 longitude: 9.3914563
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Heinkelstraße"
 housenumber: 32

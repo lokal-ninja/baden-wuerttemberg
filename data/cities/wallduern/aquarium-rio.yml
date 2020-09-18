@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.58425870000001
 longitude: 9.367776600000001
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: "Rathausgasse"
 housenumber: 36

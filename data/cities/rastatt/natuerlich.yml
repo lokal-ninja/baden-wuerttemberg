@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.8442147
 longitude: 8.1348842
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Hechtstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.6944591
 longitude: 8.7687051
-postcode: 75365
+postcode: "75365"
 city: Calw
 street: "Hauptstraße"
 housenumber: 56

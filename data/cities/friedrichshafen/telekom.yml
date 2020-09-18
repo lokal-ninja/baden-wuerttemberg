@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.6502117
 longitude: 9.4810107
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Wilhelmstraße"
 housenumber: 6

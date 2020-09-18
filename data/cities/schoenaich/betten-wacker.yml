@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.657291900000004
 longitude: 9.062109600000001
-postcode: 71101
+postcode: "71101"
 city: Schönaich
 street: "Jägerstraße"
 housenumber: 16

@@ -1,12 +1,12 @@
 id: 942530627
 type: node
 shop: Sanitätshaus
-latitude: 47.650715500000004
-longitude: 7.823762100000001
-postcode: 79650
+latitude: 47.6507202
+longitude: 7.8237899
+postcode: "79650"
 city: Schopfheim
 street: "Hauptstraße"
 housenumber: 78
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-12:30; Mo-Fr 13:30-18:00; Sa 09:00-12:30"
 website: ""

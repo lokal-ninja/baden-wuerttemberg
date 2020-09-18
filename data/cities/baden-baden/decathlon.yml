@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.7969682
 longitude: 8.195164100000001
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Neuer Markt"
 housenumber: 4

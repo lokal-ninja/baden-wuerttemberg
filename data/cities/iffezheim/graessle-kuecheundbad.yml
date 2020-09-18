@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 48.8172755
 longitude: 8.158687800000001
-postcode: 76473
+postcode: "76473"
 city: Iffezheim
 street: "Südring"
 housenumber: 12

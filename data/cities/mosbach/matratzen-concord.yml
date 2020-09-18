@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.350168100000005
 longitude: 9.1419444
-postcode: 74821
+postcode: "74821"
 city: Mosbach
 street: "Hauptstraße"
 housenumber: 2

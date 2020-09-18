@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.861731000000006
 longitude: 9.182016800000001
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Johannesstraße"
 housenumber: 40-42

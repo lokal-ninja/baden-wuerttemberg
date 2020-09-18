@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.937916900000005
 longitude: 9.438098
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Stuttgarter Straße"
 housenumber: 135

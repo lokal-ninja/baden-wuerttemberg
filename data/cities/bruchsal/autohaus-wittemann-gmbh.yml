@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.1190871
 longitude: 8.5736273
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Dieselweg"
 housenumber: 7-9

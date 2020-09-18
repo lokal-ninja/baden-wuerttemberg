@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.618520600000004
 longitude: 10.0241775
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Ulmer Straße"
 housenumber: 25

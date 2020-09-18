@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.8375119
 longitude: 9.1578187
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Porschestraße"
 housenumber: 22

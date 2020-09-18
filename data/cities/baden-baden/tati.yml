@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.7439696
 longitude: 8.2594402
-postcode: 76534
+postcode: "76534"
 city: Baden-Baden
 street: "Geroldsauer Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.9791322
 longitude: 9.647909100000001
-postcode: 88427
+postcode: "88427"
 city: Bad Schussenried
 street: "Laimbacher Straße"
 housenumber: 4

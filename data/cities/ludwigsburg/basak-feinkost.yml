@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.910179500000005
 longitude: 9.1770192
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Geisinger Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.860863300000005
 longitude: 8.2377599
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Im Wöhr"
 housenumber: 10

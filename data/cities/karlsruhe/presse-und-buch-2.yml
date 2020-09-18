@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 48.9940368
 longitude: 8.3999723
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Bahnhofplatz"
 housenumber: 1a

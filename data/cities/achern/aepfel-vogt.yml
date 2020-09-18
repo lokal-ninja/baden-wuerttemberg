@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.6194264
 longitude: 8.0837812
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Oberacherner Straße"
 housenumber: 14

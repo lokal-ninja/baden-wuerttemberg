@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 47.8170523
 longitude: 9.059856100000001
-postcode: 78351
+postcode: "78351"
 city: Bodman-Ludwigshafen
 street: "Überlinger Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 49.487373600000005
 longitude: 8.52771
-postcode: 68259
+postcode: "68259"
 city: Mannheim
 street: "Hauptstraße"
 housenumber: 100

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0216523
 longitude: 7.6800524
-postcode: 79291
+postcode: "79291"
 city: Merdingen
 street: "Winzerweg"
 housenumber: 1

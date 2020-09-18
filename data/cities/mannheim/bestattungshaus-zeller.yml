@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 49.5287724
 longitude: 8.4893847
-postcode: 68305
+postcode: "68305"
 city: Mannheim
 street: "Waldpforte"
 housenumber: 2

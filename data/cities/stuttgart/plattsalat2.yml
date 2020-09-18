@@ -3,7 +3,7 @@ type: way
 shop: Bioladen
 latitude: 48.8120454
 longitude: 9.2042187
-postcode: 70376
+postcode: "70376"
 city: Stuttgart
 street: "Sparrhärmlingweg"
 housenumber: 41

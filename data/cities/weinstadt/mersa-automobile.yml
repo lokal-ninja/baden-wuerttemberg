@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.813583300000005
 longitude: 9.358271
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Mercedesstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.5956674
 longitude: 10.2610741
-postcode: 89568
+postcode: "89568"
 city: Hermaringen
 street: "Karlstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1231579
 longitude: 8.3392228
-postcode: 78112
+postcode: "78112"
 city: St. Georgen im Schwarzwald
 street: "Industriestraße"
 housenumber: 3a

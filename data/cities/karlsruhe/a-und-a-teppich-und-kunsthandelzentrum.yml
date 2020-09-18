@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 49.022677900000005
 longitude: 8.4649055
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Junkersstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.146165
 longitude: 9.227122600000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Weinsberger Straße"
 housenumber: 47

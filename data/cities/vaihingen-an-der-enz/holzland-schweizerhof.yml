@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.913861600000004
 longitude: 8.980157100000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Rieter Straße"
 housenumber: 63

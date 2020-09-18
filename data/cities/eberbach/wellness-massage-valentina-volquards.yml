@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.4651912
 longitude: 8.9805892
-postcode: 69412
+postcode: "69412"
 city: Eberbach
 street: "Gartenstraße"
 housenumber: 2/2

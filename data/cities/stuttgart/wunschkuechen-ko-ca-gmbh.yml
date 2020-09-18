@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 48.729865200000006
 longitude: 9.1033001
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Hauptstraße"
 housenumber: 79

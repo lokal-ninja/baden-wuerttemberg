@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.0596346
 longitude: 8.4586763
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: ""
 housenumber: 

@@ -3,10 +3,10 @@ type: way
 shop: Blumen
 latitude: 49.402897700000004
 longitude: 9.3909404
-postcode: 74740
+postcode: "74740"
 city: Adelsheim
 street: "Marktstraße"
 housenumber: 5
 phone: "+49 6291 1341"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"
 website: ""

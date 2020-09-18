@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.8992378
 longitude: 8.674492800000001
-postcode: 75179
+postcode: "75179"
 city: Pforzheim
 street: "Hachelallee"
 housenumber: 65

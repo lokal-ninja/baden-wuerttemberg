@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.786863600000004
 longitude: 8.3312834
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Pionierweg"
 housenumber: 2

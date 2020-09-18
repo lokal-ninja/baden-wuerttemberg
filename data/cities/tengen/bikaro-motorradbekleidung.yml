@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.819729
 longitude: 8.6635466
-postcode: 78250
+postcode: "78250"
 city: Tengen
 street: "Ludwig-Gerer-Straße"
 housenumber: 9

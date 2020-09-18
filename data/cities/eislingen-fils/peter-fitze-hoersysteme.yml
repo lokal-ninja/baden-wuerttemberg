@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.698501400000005
 longitude: 9.7064324
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Hauptstraße"
 housenumber: 43

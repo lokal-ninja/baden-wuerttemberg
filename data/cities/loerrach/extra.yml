@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.6113208
 longitude: 7.662239100000001
-postcode: 79539
+postcode: "79539"
 city: Lörrach
 street: "Untere Wallbrunnstraße"
 housenumber: 8

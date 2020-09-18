@@ -1,12 +1,12 @@
-id: 210946574
-type: way
+id: 7477034813
+type: node
 shop: Supermarkt
-latitude: 49.506260000000005
-longitude: 8.4897512
-postcode: 68167
+latitude: 49.430421100000004
+longitude: 8.533206100000001
+postcode: "68219"
 city: Mannheim
-street: "Ulmenweg"
-housenumber: 47-49
+street: "Rheinauer Ring"
+housenumber: 95
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: ""
+opening_hours: "Mo-Sa 07:30-21:00; Su,PH off"
+website: "https://www.lidl.de/filialen/mannheim/rheinau-rheinauer-ring-95.html"

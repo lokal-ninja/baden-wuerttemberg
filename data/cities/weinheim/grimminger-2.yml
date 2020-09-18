@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.5450777
 longitude: 8.6485219
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Blumenstraße"
 housenumber: 1

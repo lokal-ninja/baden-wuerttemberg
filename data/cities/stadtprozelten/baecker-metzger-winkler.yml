@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.7914541
 longitude: 9.4334969
-postcode: 97909
+postcode: "97909"
 city: Stadtprozelten
 street: "Am Dreispitz"
 housenumber: 4

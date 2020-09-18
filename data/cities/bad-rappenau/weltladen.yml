@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.239832500000006
 longitude: 9.1022852
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Kirchplatz"
 housenumber: 5

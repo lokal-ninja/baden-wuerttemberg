@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.547410500000005
 longitude: 8.671919500000001
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Grabengasse"
 housenumber: 7

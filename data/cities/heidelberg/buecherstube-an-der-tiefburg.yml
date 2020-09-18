@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.428110600000004
 longitude: 8.687187100000001
-postcode: 69121
+postcode: "69121"
 city: Heidelberg
 street: "Dossenheimer Landstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.3537175
 longitude: 9.1447403
-postcode: 74821
+postcode: "74821"
 city: Mosbach
 street: "An der Bachmühle"
 housenumber: 10

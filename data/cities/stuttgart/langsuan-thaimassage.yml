@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.7749943
 longitude: 9.1850479
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Charlottenstraße"
 housenumber: 11

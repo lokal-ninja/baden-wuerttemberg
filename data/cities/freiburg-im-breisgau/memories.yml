@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.997240600000005
 longitude: 7.850195500000001
-postcode: 79098
+postcode: "79098"
 city: Freiburg im Breisgau
 street: "Schiffstraße"
 housenumber: 7

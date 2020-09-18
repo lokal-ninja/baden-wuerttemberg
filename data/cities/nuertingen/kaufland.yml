@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6277586
 longitude: 9.340874600000001
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Europastraße"
 housenumber: 7

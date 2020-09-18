@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1194897
 longitude: 9.75017
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Crailsheimer Straße"
 housenumber: 67

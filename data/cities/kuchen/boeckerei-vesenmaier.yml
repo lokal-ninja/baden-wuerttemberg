@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6363817
 longitude: 9.799038600000001
-postcode: 73329
+postcode: "73329"
 city: Kuchen
 street: "Hauptstraße"
 housenumber: 116

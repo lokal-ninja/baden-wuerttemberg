@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.8911062
 longitude: 9.181056700000001
-postcode: 71636
+postcode: "71636"
 city: Ludwigsburg
 street: "Martin-Luther-Straße"
 housenumber: 82

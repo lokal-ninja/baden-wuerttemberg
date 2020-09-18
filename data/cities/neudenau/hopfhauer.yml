@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.280835100000004
 longitude: 9.2562473
-postcode: 74861
+postcode: "74861"
 city: Neudenau
 street: "Austraße"
 housenumber: 20

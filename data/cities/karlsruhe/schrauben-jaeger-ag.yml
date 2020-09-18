@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.0078023
 longitude: 8.3208324
-postcode: 76189
+postcode: "76189"
 city: Karlsruhe
 street: "Industriestraße"
 housenumber: 15

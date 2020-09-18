@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.991457200000006
 longitude: 7.796491700000001
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Gündlinger Straße"
 housenumber: 22

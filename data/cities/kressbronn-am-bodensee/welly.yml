@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.596321
 longitude: 9.5985373
-postcode: 88079
+postcode: "88079"
 city: Kressbronn am Bodensee
 street: "Hauptstraße"
 housenumber: 22

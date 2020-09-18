@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.786996800000004
 longitude: 9.1919181
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Neckarstraße"
 housenumber: 122

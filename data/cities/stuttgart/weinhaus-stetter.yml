@@ -3,10 +3,10 @@ type: way
 shop: Spirituosen
 latitude: 48.7742881
 longitude: 9.1834199
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Rosenstraße"
 housenumber: 32
 phone: "+49 711 240163"
-opening_hours: ""
+opening_hours: "Mo-Fr 15:00-23:00; Sa 12:00-15:00,17:30-23:00"
 website: "http://www.weinhaus-stetter.de/"

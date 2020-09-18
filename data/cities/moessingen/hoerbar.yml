@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.4054937
 longitude: 9.0566391
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Bahnhofstraße"
 housenumber: 5

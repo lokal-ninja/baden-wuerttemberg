@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.644799400000004
 longitude: 9.614949600000001
-postcode: 73087
+postcode: "73087"
 city: Bad Boll
 street: "Dobelstraße"
 housenumber: 4

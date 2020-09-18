@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6721219
 longitude: 9.1675699
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Reichenaustraße"
 housenumber: 36

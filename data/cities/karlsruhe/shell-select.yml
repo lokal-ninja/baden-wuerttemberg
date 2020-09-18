@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.0335386
 longitude: 8.3954447
-postcode: 76149
+postcode: "76149"
 city: Karlsruhe
 street: "Linkenheimer Landstraße"
 housenumber: 96

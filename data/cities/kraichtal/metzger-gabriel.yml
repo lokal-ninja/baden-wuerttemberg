@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.124566200000004
 longitude: 8.7141683
-postcode: 76703
+postcode: "76703"
 city: Kraichtal
 street: "Unterdorfstraße"
 housenumber: 14

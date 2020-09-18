@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.213824300000006
 longitude: 9.2143695
-postcode: 74177
+postcode: "74177"
 city: Bad Friedrichshall
 street: "Bergrat-Bilfinger-Straße"
 housenumber: 11

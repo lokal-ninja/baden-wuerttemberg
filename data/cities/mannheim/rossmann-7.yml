@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.532949900000006
 longitude: 8.481867600000001
-postcode: 68307
+postcode: "68307"
 city: Mannheim
 street: "Sonderburger Straße"
 housenumber: 10

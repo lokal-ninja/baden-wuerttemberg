@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.172752
 longitude: 9.218656600000001
-postcode: 74076
+postcode: "74076"
 city: Heilbronn
 street: "Austraße"
 housenumber: 158

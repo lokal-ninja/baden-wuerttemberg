@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4500011
 longitude: 8.6762133
-postcode: 69221
+postcode: "69221"
 city: Dossenheim
 street: "Heidelberger Straße"
 housenumber: 15

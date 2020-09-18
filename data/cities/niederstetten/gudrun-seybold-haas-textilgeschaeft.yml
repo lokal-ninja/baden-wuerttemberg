@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.40118450000001
 longitude: 9.917938300000001
-postcode: 97996
+postcode: "97996"
 city: Niederstetten
 street: "Lange Gasse"
 housenumber: 8

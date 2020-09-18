@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.791894000000006
 longitude: 9.9342059
-postcode: 73540
+postcode: "73540"
 city: Heubach
 street: "Hauptstraße"
 housenumber: 6

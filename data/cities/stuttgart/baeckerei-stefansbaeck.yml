@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7892662
 longitude: 9.2024302
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Hackstraße"
 housenumber: 39

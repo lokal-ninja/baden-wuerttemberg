@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.4269602
 longitude: 8.6468617
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Mannheimer Straße"
 housenumber: 279

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.760142900000005
 longitude: 9.5176882
-postcode: 97877
+postcode: "97877"
 city: Wertheim
 street: "Eichelgasse"
 housenumber: 17

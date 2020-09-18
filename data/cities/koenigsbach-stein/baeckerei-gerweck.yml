@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.962959600000005
 longitude: 8.6443352
-postcode: 75203
+postcode: "75203"
 city: Königsbach-Stein
 street: "Bauschlotter Straße"
 housenumber: 3

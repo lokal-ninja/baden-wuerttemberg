@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.686840100000005
 longitude: 9.6863132
-postcode: 73037
+postcode: "73037"
 city: Göppingen
 street: "Göppinger Straße"
 housenumber: 5

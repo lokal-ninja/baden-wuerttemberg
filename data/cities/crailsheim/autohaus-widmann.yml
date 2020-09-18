@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.1339313
 longitude: 10.036164600000001
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Ludwig-Erhard-Straße"
 housenumber: 125

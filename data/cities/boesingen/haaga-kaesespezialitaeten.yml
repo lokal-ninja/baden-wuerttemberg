@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 48.2365311
 longitude: 8.5670695
-postcode: 78662
+postcode: "78662"
 city: Bösingen
 street: "Pfarrbrühl"
 housenumber: 14

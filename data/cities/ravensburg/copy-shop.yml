@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.780095700000004
 longitude: 9.6161011
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Marktstraße"
 housenumber: 57

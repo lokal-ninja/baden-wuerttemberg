@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.7461897
 longitude: 9.1031899
-postcode: 70569
+postcode: "70569"
 city: Stuttgart
 street: "Pfaffenwaldring"
 housenumber: 45

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.996558400000005
 longitude: 8.4460663
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Ottostraße"
 housenumber: 10

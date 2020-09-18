@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.1456911
 longitude: 9.6179311
-postcode: 
+postcode: ""
 city: Uttenweiler
 street: "Am Ziegelberg"
 housenumber: 8

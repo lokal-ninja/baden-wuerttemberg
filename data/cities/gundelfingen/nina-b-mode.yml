@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0417421
 longitude: 7.8663803
-postcode: 79194
+postcode: "79194"
 city: Gundelfingen
 street: "Alte Bundesstraße"
 housenumber: 27

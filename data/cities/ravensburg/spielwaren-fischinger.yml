@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 47.782560000000004
 longitude: 9.6142149
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Kirchstraße"
 housenumber: 12

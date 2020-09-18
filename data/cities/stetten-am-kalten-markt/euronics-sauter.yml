@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.121163100000004
 longitude: 9.077810300000001
-postcode: 72510
+postcode: "72510"
 city: Stetten am kalten Markt
 street: "Hauptstraße"
 housenumber: 8a

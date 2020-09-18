@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.73527
 longitude: 9.1166058
-postcode: 78465
+postcode: "78465"
 city: Konstanz
 street: "Kapitän-Romer-Straße"
 housenumber: 9a

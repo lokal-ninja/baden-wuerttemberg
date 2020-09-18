@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.080313600000004
 longitude: 9.781742000000001
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Amriswilstraße"
 housenumber: 49

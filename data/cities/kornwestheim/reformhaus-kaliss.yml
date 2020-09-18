@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.8626195
 longitude: 9.1816972
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Bahnhofsplatz"
 housenumber: 11

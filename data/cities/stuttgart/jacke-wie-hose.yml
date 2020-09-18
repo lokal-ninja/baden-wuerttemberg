@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.764905500000005
 longitude: 9.267407500000001
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Augsburger Straße"
 housenumber: 641

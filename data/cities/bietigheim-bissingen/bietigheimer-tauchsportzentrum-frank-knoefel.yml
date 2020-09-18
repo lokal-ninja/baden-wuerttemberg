@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 48.956806900000004
 longitude: 9.148342600000001
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Pleidelsheimer Straße"
 housenumber: 3

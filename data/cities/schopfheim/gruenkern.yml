@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.648357600000004
 longitude: 7.8222829
-postcode: 79650
+postcode: "79650"
 city: Schopfheim
 street: "Bahnhofstraße"
 housenumber: 10

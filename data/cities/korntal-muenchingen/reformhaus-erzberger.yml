@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.831464700000005
 longitude: 9.1220884
-postcode: 70825
+postcode: "70825"
 city: Korntal-Münchingen
 street: "Mirander Straße"
 housenumber: 8

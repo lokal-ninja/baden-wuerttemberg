@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.399402300000006
 longitude: 10.000738400000001
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Zeughausgasse"
 housenumber: 6

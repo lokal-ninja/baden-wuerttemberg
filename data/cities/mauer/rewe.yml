@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.346627500000004
 longitude: 8.7958935
-postcode: 69256
+postcode: "69256"
 city: Mauer
 street: "Sandklinge"
 housenumber: 1

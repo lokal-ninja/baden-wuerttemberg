@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.549845000000005
 longitude: 8.8233963
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Mötzinger Straße"
 housenumber: 25

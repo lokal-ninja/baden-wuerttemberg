@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7204543
 longitude: 9.2711795
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Edith-Stein-Straße"
 housenumber: 5

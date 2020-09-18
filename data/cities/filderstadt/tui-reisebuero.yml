@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.6533268
 longitude: 9.2155353
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Bonländer Hauptstraße"
 housenumber: 26

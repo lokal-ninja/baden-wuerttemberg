@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.143756700000004
 longitude: 9.1274555
-postcode: 74211
+postcode: "74211"
 city: Leingarten
 street: "Heilbronner Straße"
 housenumber: 76

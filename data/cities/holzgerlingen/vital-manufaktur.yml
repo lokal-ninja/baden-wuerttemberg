@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.6430487
 longitude: 9.0105125
-postcode: 71088
+postcode: "71088"
 city: Holzgerlingen
 street: "Böblinger Straße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.789567700000006
 longitude: 9.3002996
-postcode: 88682
+postcode: "88682"
 city: Salem
 street: "Heiligenberger Straße"
 housenumber: 130

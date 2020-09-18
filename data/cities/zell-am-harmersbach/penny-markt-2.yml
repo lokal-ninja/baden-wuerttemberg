@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.355568100000006
 longitude: 8.089632400000001
-postcode: 77736
+postcode: "77736"
 city: Zell am Harmersbach
 street: "Hauptstraße"
 housenumber: 217a

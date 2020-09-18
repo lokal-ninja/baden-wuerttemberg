@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.6944675
 longitude: 9.665492500000001
-postcode: 73037
+postcode: "73037"
 city: Göppingen
 street: "Holzheimer Straße"
 housenumber: 1

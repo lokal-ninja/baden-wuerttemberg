@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.2780964
 longitude: 10.0840949
-postcode: 74585
+postcode: "74585"
 city: Rot am See
 street: "Landwehrstraße"
 housenumber: 22

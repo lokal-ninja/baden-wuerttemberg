@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0014863
 longitude: 9.104842000000001
-postcode: 74369
+postcode: "74369"
 city: Löchgau
 street: ""
 housenumber: 

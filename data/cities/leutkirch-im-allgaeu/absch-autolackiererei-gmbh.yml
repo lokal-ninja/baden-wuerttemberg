@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.836705
 longitude: 10.016835500000001
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Memminger Straße"
 housenumber: 105

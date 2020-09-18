@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.168899
 longitude: 9.2005415
-postcode: 74078
+postcode: "74078"
 city: Heilbronn
 street: "Frankenbacher Straße"
 housenumber: 31

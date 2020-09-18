@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.996898300000005
 longitude: 9.2888251
-postcode: 71723
+postcode: "71723"
 city: Großbottwar
 street: "Waldstraße"
 housenumber: 1

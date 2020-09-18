@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4101395
 longitude: 8.693533500000001
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Sofienstraße"
 housenumber: 9

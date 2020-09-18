@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.828137000000005
 longitude: 10.0237865
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Memminger Straße"
 housenumber: 2

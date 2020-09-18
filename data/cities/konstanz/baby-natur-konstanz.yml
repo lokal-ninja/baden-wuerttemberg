@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.6716655
 longitude: 9.1785063
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Von-Emmich-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.990258100000005
 longitude: 7.7934007
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Munzinger Straße"
 housenumber: 6

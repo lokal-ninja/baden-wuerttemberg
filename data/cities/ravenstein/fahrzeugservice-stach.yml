@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4011234
 longitude: 9.5040096
-postcode: 74747
+postcode: "74747"
 city: Ravenstein
 street: "Lindenstraße"
 housenumber: 14

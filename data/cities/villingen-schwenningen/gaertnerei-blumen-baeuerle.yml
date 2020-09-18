@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.054223900000004
 longitude: 8.462154400000001
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: "Schwedendammstraße"
 housenumber: 12

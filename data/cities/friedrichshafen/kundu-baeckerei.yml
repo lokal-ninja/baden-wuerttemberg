@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.6521526
 longitude: 9.482362400000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Romanshorner Platz"
 housenumber: 2

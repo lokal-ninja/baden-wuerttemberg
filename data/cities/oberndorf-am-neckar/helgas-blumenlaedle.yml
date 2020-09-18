@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.2947317
 longitude: 8.579136100000001
-postcode: 78727
+postcode: "78727"
 city: Oberndorf am Neckar
 street: "Rosenfelder Straße"
 housenumber: 8

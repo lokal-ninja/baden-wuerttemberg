@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.9203558
 longitude: 9.7546994
-postcode: 88339
+postcode: "88339"
 city: Bad Waldsee
 street: "Ravensburger Straße"
 housenumber: 5

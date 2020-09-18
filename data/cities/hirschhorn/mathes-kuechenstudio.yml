@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.446617700000004
 longitude: 8.8974981
-postcode: 69434
+postcode: "69434"
 city: Hirschhorn
 street: "Hauptstraße"
 housenumber: 19

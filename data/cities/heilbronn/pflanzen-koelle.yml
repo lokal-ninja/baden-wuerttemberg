@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.155950600000004
 longitude: 9.2033774
-postcode: 74078
+postcode: "74078"
 city: Heilbronn
 street: "Im Neckargarten"
 housenumber: 6

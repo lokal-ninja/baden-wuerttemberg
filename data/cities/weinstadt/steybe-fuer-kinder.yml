@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 48.814246100000005
 longitude: 9.3538738
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Heerbergstraße"
 housenumber: 8

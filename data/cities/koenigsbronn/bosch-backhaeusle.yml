@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.741843800000005
 longitude: 10.1136853
-postcode: 89551
+postcode: "89551"
 city: Königsbronn
 street: "Aalener Straße"
 housenumber: 12

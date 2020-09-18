@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.9942834
 longitude: 9.1433776
-postcode: 74354
+postcode: "74354"
 city: Besigheim
 street: "Gottlob-Müller-Straße"
 housenumber: 7

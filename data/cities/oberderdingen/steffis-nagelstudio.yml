@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.0569083
 longitude: 8.801882800000001
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Bremichstraße"
 housenumber: 30

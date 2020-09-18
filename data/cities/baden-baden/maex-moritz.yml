@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.7617075
 longitude: 8.241352000000001
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Sophienstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.329999900000004
 longitude: 9.9395222
-postcode: 89079
+postcode: "89079"
 city: Donaustetten
 street: "Beim Brückle"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.8033932
 longitude: 8.0333187
-postcode: 79872
+postcode: "79872"
 city: Bernau im Schwarzwald
 street: "Rathausstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.2450671
 longitude: 9.6355859
-postcode: 89597
+postcode: "89597"
 city: Munderkingen
 street: "Carl-Benz-Straße"
 housenumber: 2

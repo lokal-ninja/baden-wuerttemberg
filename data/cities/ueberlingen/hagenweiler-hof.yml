@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.795503000000004
 longitude: 9.2245115
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Hagenweiler"
 housenumber: 1

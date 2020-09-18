@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.9549764
 longitude: 8.9872221
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Industriestraße"
 housenumber: 11

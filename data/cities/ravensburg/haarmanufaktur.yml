@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.781998400000006
 longitude: 9.616088600000001
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Herrenstraße"
 housenumber: 13

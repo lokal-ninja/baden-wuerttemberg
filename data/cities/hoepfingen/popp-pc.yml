@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.607174900000004
 longitude: 9.437947000000001
-postcode: 74746
+postcode: "74746"
 city: Höpfingen
 street: "Heidelberger Straße"
 housenumber: 49

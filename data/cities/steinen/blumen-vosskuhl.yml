@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.646807200000005
 longitude: 7.7395554
-postcode: 79585
+postcode: "79585"
 city: Steinen
 street: "Kirchstraße"
 housenumber: 27

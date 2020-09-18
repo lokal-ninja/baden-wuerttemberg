@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.514652700000006
 longitude: 9.0687577
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Hügelstraße"
 housenumber: 7

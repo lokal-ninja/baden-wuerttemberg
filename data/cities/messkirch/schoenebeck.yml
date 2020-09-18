@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.994466700000004
 longitude: 9.113768400000001
-postcode: 88605
+postcode: "88605"
 city: Meßkirch
 street: "Conradin-Kreutzer-Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.774171700000004
 longitude: 8.730797
-postcode: 75378
+postcode: "75378"
 city: Bad Liebenzell
 street: "Karlstraße"
 housenumber: 4

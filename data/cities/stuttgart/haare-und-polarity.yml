@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.774092800000005
 longitude: 9.1840271
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Rosenstraße"
 housenumber: 36A

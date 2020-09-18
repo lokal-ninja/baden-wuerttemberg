@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2610274
 longitude: 8.4093476
-postcode: 78733
+postcode: "78733"
 city: Aichhalden
 street: "Koppengässle"
 housenumber: 2

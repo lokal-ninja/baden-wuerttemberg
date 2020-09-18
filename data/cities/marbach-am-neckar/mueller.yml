@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.939875
 longitude: 9.259625900000001
-postcode: 71672
+postcode: "71672"
 city: Marbach am Neckar
 street: "Wildermuthstraße"
 housenumber: 5

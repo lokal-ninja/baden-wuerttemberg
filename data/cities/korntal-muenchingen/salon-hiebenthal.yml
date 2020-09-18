@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8277495
 longitude: 9.1210045
-postcode: 70825
+postcode: "70825"
 city: Korntal-Münchingen
 street: "Weilimdorfer Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8709235
 longitude: 10.025515200000001
-postcode: 73434
+postcode: "73434"
 city: Aalen
 street: "Fachsenfelder Straße"
 housenumber: 4/1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.203669600000005
 longitude: 8.7593187
-postcode: 72355
+postcode: "72355"
 city: Schömberg
 street: "Im Grund"
 housenumber: 25

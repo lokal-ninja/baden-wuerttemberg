@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.074515500000004
 longitude: 8.4501495
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Berliner Platz"
 housenumber: 1

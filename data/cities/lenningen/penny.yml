@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5659021
 longitude: 9.4597519
-postcode: 73252
+postcode: "73252"
 city: Lenningen
 street: "Bahnhofstraße"
 housenumber: 12

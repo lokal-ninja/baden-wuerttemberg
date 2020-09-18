@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.673152300000005
 longitude: 8.1606283
-postcode: 79809
+postcode: "79809"
 city: Weilheim
 street: "Gupfenstraße"
 housenumber: 19

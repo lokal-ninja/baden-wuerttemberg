@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.4152697
 longitude: 8.7612717
-postcode: 69118
+postcode: "69118"
 city: Heidelberg
 street: "In der Aue"
 housenumber: 2

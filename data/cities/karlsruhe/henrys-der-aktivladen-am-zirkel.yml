@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.0105445
 longitude: 8.402042400000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Zirkel"
 housenumber: 30d

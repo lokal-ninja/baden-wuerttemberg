@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.008221400000004
 longitude: 8.4091036
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kronenstraße"
 housenumber: 32

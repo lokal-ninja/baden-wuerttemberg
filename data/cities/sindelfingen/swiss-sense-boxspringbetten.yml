@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 48.702186000000005
 longitude: 9.004519100000001
-postcode: 71065
+postcode: "71065"
 city: Sindelfingen
 street: "Schadenwasenstraße"
 housenumber: 13

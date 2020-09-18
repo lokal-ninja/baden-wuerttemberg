@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.404220900000006
 longitude: 8.648243800000001
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Eppelheimer Straße"
 housenumber: 74

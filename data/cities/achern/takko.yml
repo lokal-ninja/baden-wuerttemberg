@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6285256
 longitude: 8.0608847
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Güterhallenstraße"
 housenumber: 1

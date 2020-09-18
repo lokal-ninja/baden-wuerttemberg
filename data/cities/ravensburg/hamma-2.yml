@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.770938900000004
 longitude: 9.6208449
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Wangener Straße"
 housenumber: 82

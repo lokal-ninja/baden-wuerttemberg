@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.2730983
 longitude: 8.850225100000001
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Adlerstraße"
 housenumber: 3

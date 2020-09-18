@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.933997500000004
 longitude: 8.4974544
-postcode: 78183
+postcode: "78183"
 city: Hüfingen
 street: "Lindenpark"
 housenumber: 12

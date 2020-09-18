@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.6227546
 longitude: 8.213714000000001
-postcode: 79761
+postcode: "79761"
 city: Waldshut-Tiengen
 street: "Kaiserstraße"
 housenumber: 20

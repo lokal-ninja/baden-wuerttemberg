@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.0723142
 longitude: 8.4526803
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Helmholtzstraße"
 housenumber: 14

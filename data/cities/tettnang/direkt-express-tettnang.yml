@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.6712738
 longitude: 9.5925866
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Bachstraße"
 housenumber: 19

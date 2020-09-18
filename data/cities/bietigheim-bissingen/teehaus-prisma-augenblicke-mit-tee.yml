@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 48.9594554
 longitude: 9.1280841
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Hauptstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.1435479
 longitude: 9.2231162
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Allee"
 housenumber: 40

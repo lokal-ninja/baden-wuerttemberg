@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0339164
 longitude: 8.5339518
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Auf Stocken"
 housenumber: 5

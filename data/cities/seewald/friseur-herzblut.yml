@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5951497
 longitude: 8.4183546
-postcode: 72297
+postcode: "72297"
 city: Seewald
 street: "Freudenstädter Straße"
 housenumber: 25

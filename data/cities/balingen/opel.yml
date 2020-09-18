@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2586359
 longitude: 8.8525246
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Wasserwiesen"
 housenumber: 31

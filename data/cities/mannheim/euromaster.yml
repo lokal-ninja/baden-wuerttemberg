@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.4601124
 longitude: 8.499962700000001
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Floßwörthstraße"
 housenumber: 37

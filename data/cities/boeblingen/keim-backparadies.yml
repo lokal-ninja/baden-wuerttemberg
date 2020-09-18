@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6873973
 longitude: 9.006574800000001
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Wolfgang-Brumme-Allee"
 housenumber: 27

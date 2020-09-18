@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1678342
 longitude: 8.626474700000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Hauptstraße"
 housenumber: 35

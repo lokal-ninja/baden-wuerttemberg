@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.5290824
 longitude: 8.564121
-postcode: 72285
+postcode: "72285"
 city: Pfalzgrafenweiler
 street: "Lange Straße"
 housenumber: 56

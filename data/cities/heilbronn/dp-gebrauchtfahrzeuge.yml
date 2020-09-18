@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.117898000000004
 longitude: 9.1735764
-postcode: 74081
+postcode: "74081"
 city: Heilbronn
 street: "Amsterdamer Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 48.770448900000005
 longitude: 9.1799701
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Wilhelmstraße"
 housenumber: 8b

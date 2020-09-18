@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.5608444
 longitude: 7.7845744
-postcode: 79618
+postcode: "79618"
 city: Rheinfelden (Baden)
 street: "Eichamtstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.6954889
 longitude: 9.705212000000001
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Kronenplatz"
 housenumber: 4

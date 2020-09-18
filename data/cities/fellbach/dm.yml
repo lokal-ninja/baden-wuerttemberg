@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.813782100000005
 longitude: 9.2712575
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Stuttgarter Straße"
 housenumber: 26

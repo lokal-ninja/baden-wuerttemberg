@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.494468000000005
 longitude: 8.8096666
-postcode: 72108
+postcode: "72108"
 city: Rottenburg am Neckar
 street: "Utta-Eberstein-Straße"
 housenumber: 5

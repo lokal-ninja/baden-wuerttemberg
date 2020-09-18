@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.5686485
 longitude: 8.7993606
-postcode: 71131
+postcode: "71131"
 city: Jettingen
 street: "Franziska-von-Hohenheim-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.9991822
 longitude: 8.4696914
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 49-51

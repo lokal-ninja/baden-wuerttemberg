@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.7460078
 longitude: 9.2103587
-postcode: 70619
+postcode: "70619"
 city: Stuttgart
 street: "Kirchheimer Straße"
 housenumber: 34

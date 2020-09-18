@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.798054900000004
 longitude: 9.6914703
-postcode: 73547
+postcode: "73547"
 city: Lorch
 street: "Hauptstraße"
 housenumber: 37

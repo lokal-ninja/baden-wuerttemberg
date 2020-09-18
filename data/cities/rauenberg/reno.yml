@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.274741000000006
 longitude: 8.695092500000001
-postcode: 69231
+postcode: "69231"
 city: Rauenberg
 street: "Hohenaspen"
 housenumber: 34

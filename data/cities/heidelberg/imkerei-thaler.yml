@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.3982037
 longitude: 8.651022600000001
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Steinhofweg"
 housenumber: 10

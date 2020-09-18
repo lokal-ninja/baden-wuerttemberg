@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.301218500000004
 longitude: 8.9163681
-postcode: 74915
+postcode: "74915"
 city: Waibstadt
 street: "Neidensteiner Straße"
 housenumber: 8

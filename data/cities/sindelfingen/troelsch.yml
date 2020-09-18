@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.704274700000006
 longitude: 9.0311609
-postcode: 71065
+postcode: "71065"
 city: Sindelfingen
 street: "Tilsiter Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.509092200000005
 longitude: 8.6042454
-postcode: 68542
+postcode: "68542"
 city: Heddesheim
 street: "Muckensturmer Straße"
 housenumber: 21

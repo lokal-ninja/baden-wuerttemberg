@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.6861272
 longitude: 9.178015
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Brühlhofstraße"
 housenumber: 9

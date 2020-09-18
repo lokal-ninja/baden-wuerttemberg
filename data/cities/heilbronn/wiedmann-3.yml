@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.138994600000004
 longitude: 9.2472606
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Jägerhausstraße"
 housenumber: 80

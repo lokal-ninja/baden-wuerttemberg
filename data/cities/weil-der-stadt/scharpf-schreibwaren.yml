@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.750139000000004
 longitude: 8.872627000000001
-postcode: 71263
+postcode: "71263"
 city: Weil der Stadt
 street: "Stuttgarter Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.122096400000004
 longitude: 7.8509158
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Hebelstraße"
 housenumber: 23

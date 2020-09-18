@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.213968300000005
 longitude: 9.41709
-postcode: 74243
+postcode: "74243"
 city: Langenbrettach
 street: "Schulstraße"
 housenumber: 10

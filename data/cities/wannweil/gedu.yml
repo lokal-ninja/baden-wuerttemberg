@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 48.5189521
 longitude: 9.1483225
-postcode: 72827
+postcode: "72827"
 city: Wannweil
 street: "Kirchentellinsfurter Straße"
 housenumber: 44

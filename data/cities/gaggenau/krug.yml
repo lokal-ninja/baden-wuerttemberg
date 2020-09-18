@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.786640500000004
 longitude: 8.3391224
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Max-Roth-Straße"
 housenumber: 9

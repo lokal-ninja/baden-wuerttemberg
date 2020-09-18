@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.046650400000004
 longitude: 8.1972267
-postcode: 78120
+postcode: "78120"
 city: Furtwangen im Schwarzwald
 street: "Bregstraße"
 housenumber: 40a

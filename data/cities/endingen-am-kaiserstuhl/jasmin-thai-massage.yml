@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.1415396
 longitude: 7.706654
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "Hauptstraße"
 housenumber: 13

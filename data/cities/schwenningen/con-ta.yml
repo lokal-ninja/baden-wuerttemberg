@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1058499
 longitude: 9.005767
-postcode: 72477
+postcode: "72477"
 city: Schwenningen
 street: "Talstraße"
 housenumber: 10

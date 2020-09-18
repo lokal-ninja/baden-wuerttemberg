@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6459326
 longitude: 9.0075103
-postcode: 71088
+postcode: "71088"
 city: Holzgerlingen
 street: "Olgastraße"
 housenumber: 2

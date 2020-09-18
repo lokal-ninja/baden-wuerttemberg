@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.7722813
 longitude: 8.8550953
-postcode: 71263
+postcode: "71263"
 city: Weil der Stadt
 street: "Industriestraße"
 housenumber: 10

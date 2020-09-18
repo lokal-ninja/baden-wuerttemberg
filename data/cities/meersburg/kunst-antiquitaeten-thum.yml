@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 47.693343500000005
 longitude: 9.2696454
-postcode: 88709
+postcode: "88709"
 city: Meersburg
 street: "Unterstadtstraße"
 housenumber: 4

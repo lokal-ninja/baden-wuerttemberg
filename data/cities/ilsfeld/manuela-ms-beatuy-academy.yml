@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.066827100000005
 longitude: 9.214954500000001
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
 street: "Sturmfederstraße"
 housenumber: 7

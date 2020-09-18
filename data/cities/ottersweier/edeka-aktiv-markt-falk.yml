@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6726806
 longitude: 8.1165328
-postcode: 77833
+postcode: "77833"
 city: Ottersweier
 street: "Hägenichstraße"
 housenumber: 4

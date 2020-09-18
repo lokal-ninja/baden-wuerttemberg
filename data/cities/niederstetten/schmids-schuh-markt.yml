@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.3955805
 longitude: 9.9227609
-postcode: 97996
+postcode: "97996"
 city: Niederstetten
 street: "Hatzfeldstraße"
 housenumber: 3

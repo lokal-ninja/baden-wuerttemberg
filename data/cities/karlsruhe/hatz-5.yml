@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9992243
 longitude: 8.428157500000001
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Wolfartsweierer Straße"
 housenumber: 46

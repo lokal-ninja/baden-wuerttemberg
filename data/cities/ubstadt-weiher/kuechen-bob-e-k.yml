@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.1718089
 longitude: 8.623231200000001
-postcode: 76698
+postcode: "76698"
 city: Ubstadt-Weiher
 street: "Am Grenzgraben"
 housenumber: 33

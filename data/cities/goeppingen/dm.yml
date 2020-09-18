@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.704017400000005
 longitude: 9.654952100000001
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Pfarrstraße"
 housenumber: 1-3

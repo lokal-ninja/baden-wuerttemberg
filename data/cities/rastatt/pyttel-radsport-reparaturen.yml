@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.8521056
 longitude: 8.208384800000001
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Friedrich-Ebert-Straße"
 housenumber: 11

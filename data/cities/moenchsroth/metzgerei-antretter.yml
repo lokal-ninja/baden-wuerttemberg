@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.0205275
 longitude: 10.357442
-postcode: 91614
+postcode: "91614"
 city: Mönchsroth
 street: "Hauptstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.202529000000006
 longitude: 7.768061200000001
-postcode: 79341
+postcode: "79341"
 city: Kenzingen
 street: "Industriestraße"
 housenumber: 21

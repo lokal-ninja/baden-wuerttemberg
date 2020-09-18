@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.605028700000005
 longitude: 7.6553836
-postcode: 79540
+postcode: "79540"
 city: Lörrach
 street: "Ob der Gass"
 housenumber: 25

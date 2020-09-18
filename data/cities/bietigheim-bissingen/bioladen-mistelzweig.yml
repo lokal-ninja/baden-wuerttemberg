@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.9472284
 longitude: 9.1003095
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Bahnhofstraße"
 housenumber: 7/1

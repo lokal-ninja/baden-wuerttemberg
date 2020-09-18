@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 48.670546900000005
 longitude: 9.0051038
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Freiburger Allee"
 housenumber: 31
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"
 website: ""

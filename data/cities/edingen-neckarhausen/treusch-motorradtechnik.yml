@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.4555547
 longitude: 8.5968649
-postcode: 68535
+postcode: "68535"
 city: Edingen-Neckarhausen
 street: "Gerberstraße"
 housenumber: 3

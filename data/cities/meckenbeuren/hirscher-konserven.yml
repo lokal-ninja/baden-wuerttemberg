@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.7185864
 longitude: 9.5583898
-postcode: 88074
+postcode: "88074"
 city: Meckenbeuren
 street: ""
 housenumber: 6

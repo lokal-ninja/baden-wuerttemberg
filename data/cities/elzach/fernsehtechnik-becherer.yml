@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.173779800000005
 longitude: 8.071246200000001
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Hauptstraße"
 housenumber: 34

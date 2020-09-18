@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.083448100000005
 longitude: 9.195221400000001
-postcode: 74388
+postcode: "74388"
 city: Talheim
 street: "Hauptstraße"
 housenumber: 18

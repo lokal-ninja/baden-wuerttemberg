@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.775623700000004
 longitude: 9.1799745
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Münzstraße"
 housenumber: 10

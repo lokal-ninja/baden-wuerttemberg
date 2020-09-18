@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.625945900000005
 longitude: 8.741817900000001
-postcode: 72218
+postcode: "72218"
 city: Wildberg
 street: "Saronweg"
 housenumber: 4

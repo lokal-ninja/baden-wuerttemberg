@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.0722138
 longitude: 9.3008051
-postcode: 74232
+postcode: "74232"
 city: Abstatt
 street: "Im Mitteltal"
 housenumber: 3

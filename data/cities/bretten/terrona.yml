@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.036619800000004
 longitude: 8.7079881
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Marktplatz"
 housenumber: 13

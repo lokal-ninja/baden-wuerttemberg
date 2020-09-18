@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.043004100000005
 longitude: 9.1429065
-postcode: 74366
+postcode: "74366"
 city: Kirchheim am Neckar
 street: "Hohensteiner Straße"
 housenumber: 1

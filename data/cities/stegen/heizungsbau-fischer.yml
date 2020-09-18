@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.0036326
 longitude: 7.993225600000001
-postcode: 79252
+postcode: "79252"
 city: Stegen
 street: "Obertal"
 housenumber: 11

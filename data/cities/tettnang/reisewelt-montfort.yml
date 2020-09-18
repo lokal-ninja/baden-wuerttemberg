@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.669989300000005
 longitude: 9.5882213
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Karlstraße"
 housenumber: 16

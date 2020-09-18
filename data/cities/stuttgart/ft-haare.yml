@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7595997
 longitude: 9.2551982
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Otto-Hirsch-Brücken"
 housenumber: 4

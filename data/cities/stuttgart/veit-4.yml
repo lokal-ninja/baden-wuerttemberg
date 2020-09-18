@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7717669
 longitude: 9.174312
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Tübinger Straße"
 housenumber: 19

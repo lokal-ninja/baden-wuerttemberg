@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.0949316
 longitude: 9.787707600000001
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Kolpingstraße"
 housenumber: 21

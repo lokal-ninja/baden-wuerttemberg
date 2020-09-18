@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.4718109
 longitude: 8.9941964
-postcode: 69412
+postcode: "69412"
 city: Eberbach
 street: "Friedrichsdorfer Landstraße"
 housenumber: 48

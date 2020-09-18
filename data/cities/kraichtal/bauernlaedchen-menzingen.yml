@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.1371431
 longitude: 8.7738089
-postcode: 76703
+postcode: "76703"
 city: Kraichtal
 street: "Bahnhofstraße"
 housenumber: 24

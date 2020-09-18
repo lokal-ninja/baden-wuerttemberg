@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5237101
 longitude: 8.8430376
-postcode: 71149
+postcode: "71149"
 city: Bondorf
 street: "Boschstraße"
 housenumber: 16

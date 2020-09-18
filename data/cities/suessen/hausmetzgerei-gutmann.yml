@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.668992
 longitude: 9.7483894
-postcode: 73079
+postcode: "73079"
 city: Süßen
 street: "Grünenberger Straße"
 housenumber: 86/1

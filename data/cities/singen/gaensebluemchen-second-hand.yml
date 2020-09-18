@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 47.766182
 longitude: 8.8294045
-postcode: 78224
+postcode: "78224"
 city: Singen
 street: "Hohenkrähenstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.480222700000006
 longitude: 9.2300634
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Marktstraße"
 housenumber: 160

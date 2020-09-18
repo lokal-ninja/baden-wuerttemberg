@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.9381092
 longitude: 8.919089600000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Kelterplatz"
 housenumber: 7

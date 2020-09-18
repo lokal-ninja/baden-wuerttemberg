@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.6825284
 longitude: 9.203043000000001
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Mainaustraße"
 housenumber: 158

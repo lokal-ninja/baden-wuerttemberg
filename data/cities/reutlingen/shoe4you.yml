@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.4923647
 longitude: 9.1602843
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Ferdinand-Lassalle-Straße"
 housenumber: 17

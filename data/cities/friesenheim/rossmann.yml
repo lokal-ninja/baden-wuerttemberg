@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.3730028
 longitude: 7.882640800000001
-postcode: 77948
+postcode: "77948"
 city: Friesenheim
 street: "Friesenheimer Hauptstraße"
 housenumber: 70

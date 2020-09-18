@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4851028
 longitude: 9.2131474
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Alexanderstraße"
 housenumber: 72

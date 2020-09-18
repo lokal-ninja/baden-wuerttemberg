@@ -3,7 +3,7 @@ type: way
 shop: Mieten
 latitude: 48.7292762
 longitude: 8.143071500000001
-postcode: 76534
+postcode: "76534"
 city: Baden-Baden
 street: "Dr.-Rudolf-Eberle-Straße"
 housenumber: 21

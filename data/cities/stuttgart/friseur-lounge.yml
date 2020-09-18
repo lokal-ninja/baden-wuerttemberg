@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7416709
 longitude: 9.1532429
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Laustraße"
 housenumber: 3

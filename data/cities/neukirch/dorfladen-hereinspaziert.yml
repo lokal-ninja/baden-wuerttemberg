@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.6565561
 longitude: 9.7021882
-postcode: 88099
+postcode: "88099"
 city: Neukirch
 street: "Schulstraße"
 housenumber: 15

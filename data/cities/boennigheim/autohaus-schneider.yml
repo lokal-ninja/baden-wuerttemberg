@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.0421136
 longitude: 9.1038344
-postcode: 74357
+postcode: "74357"
 city: Bönnigheim
 street: "Schmiedsberger Weg"
 housenumber: 40

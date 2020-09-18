@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.5836643
 longitude: 8.0129901
-postcode: 77871
+postcode: "77871"
 city: Renchen
 street: "Weidenstraße"
 housenumber: 30

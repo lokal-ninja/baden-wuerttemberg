@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 48.6593066
 longitude: 8.9398114
-postcode: 71139
+postcode: "71139"
 city: Ehningen
 street: "Königstraße"
 housenumber: 66
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 16:00-18:00; Sa 10:00-12:00; PH off"
 website: "https://radwelt-ehningen.de/"

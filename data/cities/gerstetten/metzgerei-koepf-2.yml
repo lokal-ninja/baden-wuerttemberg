@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.622722
 longitude: 10.0215344
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Gartenstraße"
 housenumber: 31

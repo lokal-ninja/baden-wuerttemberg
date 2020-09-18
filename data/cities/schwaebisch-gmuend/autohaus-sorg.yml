@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 48.7991188
 longitude: 9.7847899
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Lorcher Straße"
 housenumber: 38
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.autohaussorg.de"

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.746107200000004
 longitude: 9.211001300000001
-postcode: 70619
+postcode: "70619"
 city: Stuttgart
 street: "Kirchheimer Straße"
 housenumber: 41

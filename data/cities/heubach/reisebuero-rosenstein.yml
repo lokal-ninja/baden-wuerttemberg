@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.7926816
 longitude: 9.9336967
-postcode: 73540
+postcode: "73540"
 city: Heubach
 street: "Gmünder Straße"
 housenumber: 2

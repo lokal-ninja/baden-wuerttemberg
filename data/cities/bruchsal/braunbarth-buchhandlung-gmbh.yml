@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.1255638
 longitude: 8.5969332
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Kaiserstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.101184100000005
 longitude: 9.2148845
-postcode: 74223
+postcode: "74223"
 city: Flein
 street: "Erlachstraße"
 housenumber: 12

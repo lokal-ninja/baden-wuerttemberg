@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.079420000000006
 longitude: 8.846661600000001
-postcode: 75057
+postcode: "75057"
 city: Kürnbach
 street: "Austraße"
 housenumber: 1

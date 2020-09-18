@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 48.1649965
 longitude: 8.6397136
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Bahnhof"
 housenumber: 1

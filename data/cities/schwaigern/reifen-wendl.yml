@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.1446885
 longitude: 9.0513014
-postcode: 74193
+postcode: "74193"
 city: Schwaigern
 street: "Gemminger Straße"
 housenumber: 60

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.7715109
 longitude: 9.153641
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Ludwigstraße"
 housenumber: 106

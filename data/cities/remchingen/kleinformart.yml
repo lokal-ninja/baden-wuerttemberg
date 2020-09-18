@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.948734
 longitude: 8.5726472
-postcode: 75196
+postcode: "75196"
 city: Remchingen
 street: "Hauptstraße"
 housenumber: 63

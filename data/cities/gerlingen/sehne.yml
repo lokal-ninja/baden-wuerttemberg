@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.807337200000006
 longitude: 9.0765998
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Weilimdorfer Straße"
 housenumber: 91

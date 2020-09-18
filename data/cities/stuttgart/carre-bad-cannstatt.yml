@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.802398700000005
 longitude: 9.222202900000001
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Wildunger Straße"
 housenumber: 2-4

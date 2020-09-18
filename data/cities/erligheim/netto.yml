@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.023769200000004
 longitude: 9.0956956
-postcode: 74391
+postcode: "74391"
 city: Erligheim
 street: "Im Remsel"
 housenumber: 1

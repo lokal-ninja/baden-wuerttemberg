@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.4035863
 longitude: 9.990665700000001
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Zeitblomstraße"
 housenumber: 31

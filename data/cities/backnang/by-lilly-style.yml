@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.9436989
 longitude: 9.436290000000001
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Stuttgarter Straße"
 housenumber: 63

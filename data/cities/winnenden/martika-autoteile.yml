@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.8750486
 longitude: 9.3932991
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Waiblinger Straße"
 housenumber: 17

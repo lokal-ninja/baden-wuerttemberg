@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.112969500000005
 longitude: 9.7347552
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Neue Straße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.8640789
 longitude: 9.204974
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Murrstraße"
 housenumber: 3

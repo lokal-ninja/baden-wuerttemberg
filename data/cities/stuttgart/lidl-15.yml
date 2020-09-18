@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.76841760000001
 longitude: 9.1408825
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Unter dem Birkenkopf"
 housenumber: 19

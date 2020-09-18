@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.801270900000006
 longitude: 9.7995398
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Kalter Markt"
 housenumber: 18

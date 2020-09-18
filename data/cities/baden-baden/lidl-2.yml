@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.77922280000001
 longitude: 8.1852487
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Sinzheimer Straße"
 housenumber: 83

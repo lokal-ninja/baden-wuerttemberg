@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.716166
 longitude: 9.296495
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Ludwig-Jahn-Straße"
 housenumber: 60

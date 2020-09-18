@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.9386796
 longitude: 8.2745346
-postcode: 76448
+postcode: "76448"
 city: Durmersheim
 street: "Hansjakobstraße"
 housenumber: 2

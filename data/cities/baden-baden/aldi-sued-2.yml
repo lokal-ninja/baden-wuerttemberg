@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7771972
 longitude: 8.213750300000001
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Schwarzwaldstraße"
 housenumber: 42

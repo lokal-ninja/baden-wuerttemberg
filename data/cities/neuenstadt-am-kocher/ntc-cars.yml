@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.239463400000005
 longitude: 9.340386200000001
-postcode: 74196
+postcode: "74196"
 city: Neuenstadt am Kocher
 street: "Industriestraße"
 housenumber: 24

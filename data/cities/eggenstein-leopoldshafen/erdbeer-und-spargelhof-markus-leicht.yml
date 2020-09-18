@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.0850932
 longitude: 8.3954162
-postcode: 76344
+postcode: "76344"
 city: Eggenstein-Leopoldshafen
 street: "Landstraße"
 housenumber: 21

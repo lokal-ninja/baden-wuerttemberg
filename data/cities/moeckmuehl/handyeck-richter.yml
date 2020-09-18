@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.321134400000005
 longitude: 9.363063700000001
-postcode: 74219
+postcode: "74219"
 city: Möckmühl
 street: "Waagerner Tal"
 housenumber: 20

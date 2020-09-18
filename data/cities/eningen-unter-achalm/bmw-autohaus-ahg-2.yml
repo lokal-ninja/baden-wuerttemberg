@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.477597
 longitude: 9.2432104
-postcode: 72800
+postcode: "72800"
 city: Eningen unter Achalm
 street: "Max-Planck-Straße"
 housenumber: 31

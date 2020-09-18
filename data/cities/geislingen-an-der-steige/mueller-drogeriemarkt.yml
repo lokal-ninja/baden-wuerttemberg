@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.624935300000004
 longitude: 9.827551900000001
-postcode: 73312
+postcode: "73312"
 city: Geislingen an der Steige
 street: "Stuttgarter Straße"
 housenumber: 72

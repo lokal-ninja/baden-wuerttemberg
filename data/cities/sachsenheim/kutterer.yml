@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.958216900000004
 longitude: 9.0794327
-postcode: 74343
+postcode: "74343"
 city: Sachsenheim
 street: "Max-Eyth-Straße"
 housenumber: 1/1

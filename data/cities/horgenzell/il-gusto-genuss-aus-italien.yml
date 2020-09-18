@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.805976
 longitude: 9.499177000000001
-postcode: 88263
+postcode: "88263"
 city: Horgenzell
 street: "Alte Poststraße"
 housenumber: 15

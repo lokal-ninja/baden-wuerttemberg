@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.395892100000005
 longitude: 8.023690700000001
-postcode: 77723
+postcode: "77723"
 city: Gengenbach
 street: "Flößerstraße"
 housenumber: 12

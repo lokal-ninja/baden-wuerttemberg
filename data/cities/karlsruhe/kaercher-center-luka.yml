@@ -3,7 +3,7 @@ type: node
 shop: Staubsauger
 latitude: 49.010235200000004
 longitude: 8.4438105
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Heinrich-Wittmann-Straße"
 housenumber: 17

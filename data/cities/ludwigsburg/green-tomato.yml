@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.9217358
 longitude: 9.1510583
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Heinkelstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.409830400000004
 longitude: 8.630364
-postcode: 69214
+postcode: "69214"
 city: Eppelheim
 street: "Seestraße"
 housenumber: 70

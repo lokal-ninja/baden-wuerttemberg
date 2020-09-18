@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0521783
 longitude: 8.5370945
-postcode: 76356
+postcode: "76356"
 city: Weingarten (Baden)
 street: "Jöhlinger Straße"
 housenumber: 20

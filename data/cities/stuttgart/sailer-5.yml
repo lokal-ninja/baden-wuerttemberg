@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8177396
 longitude: 9.2131345
-postcode: 70376
+postcode: "70376"
 city: Stuttgart
 street: "Bottroper Straße"
 housenumber: 8

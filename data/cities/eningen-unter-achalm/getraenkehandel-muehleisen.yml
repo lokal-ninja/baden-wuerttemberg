@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.4801171
 longitude: 9.2533829
-postcode: 72800
+postcode: "72800"
 city: Eningen unter Achalm
 street: "Reutlinger Straße"
 housenumber: 33

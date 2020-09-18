@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.795361400000004
 longitude: 9.1896933
-postcode: 70191
+postcode: "70191"
 city: Stuttgart
 street: "Eckartstraße"
 housenumber: 4A

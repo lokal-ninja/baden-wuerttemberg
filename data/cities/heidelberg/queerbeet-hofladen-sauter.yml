@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.3686349
 longitude: 8.651532300000001
-postcode: 69124
+postcode: "69124"
 city: Heidelberg
 street: "Kirchheimer Hof"
 housenumber: 5

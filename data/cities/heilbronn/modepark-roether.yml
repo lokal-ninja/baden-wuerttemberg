@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.150747700000004
 longitude: 9.2150864
-postcode: 74076
+postcode: "74076"
 city: Heilbronn
 street: "Fügerstraße"
 housenumber: 2

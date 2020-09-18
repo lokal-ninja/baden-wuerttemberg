@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.964964900000005
 longitude: 7.955298300000001
-postcode: 79199
+postcode: "79199"
 city: Kirchzarten
 street: "Hauptstraße"
 housenumber: 1

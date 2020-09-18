@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.5142849
 longitude: 9.0665511
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Reutlinger Straße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.066478700000005
 longitude: 8.5394123
-postcode: 78056
+postcode: "78056"
 city: Villingen-Schwenningen
 street: "Spittelstraße"
 housenumber: 18

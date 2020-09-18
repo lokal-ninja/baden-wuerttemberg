@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.437318000000005
 longitude: 9.322901700000001
-postcode: 72813
+postcode: "72813"
 city: St. Johann
 street: "Kohlstetter Straße"
 housenumber: 19

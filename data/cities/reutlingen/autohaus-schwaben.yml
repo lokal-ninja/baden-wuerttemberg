@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.496785200000005
 longitude: 9.1520261
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Ernst-Abbe-Straße"
 housenumber: 24

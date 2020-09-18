@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 49.0218081
 longitude: 8.4594874
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "An der Tagweide"
 housenumber: 6

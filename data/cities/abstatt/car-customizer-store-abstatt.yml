@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 49.067680100000004
 longitude: 9.2882552
-postcode: 74232
+postcode: "74232"
 city: Abstatt
 street: "Rathausstraße"
 housenumber: 5

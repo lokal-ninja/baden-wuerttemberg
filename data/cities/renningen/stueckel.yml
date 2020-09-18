@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.7760681
 longitude: 8.905757600000001
-postcode: 71272
+postcode: "71272"
 city: Renningen
 street: "Ebertstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.68300300000001
 longitude: 8.990080800000001
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Hanns-Klemm-Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.6532478
 longitude: 9.4820261
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Paulinenstraße"
 housenumber: 6

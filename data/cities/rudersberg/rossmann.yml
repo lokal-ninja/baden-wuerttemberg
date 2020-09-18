@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.8794905
 longitude: 9.528323400000001
-postcode: 73635
+postcode: "73635"
 city: Rudersberg
 street: "Am Burren"
 housenumber: 3

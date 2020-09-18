@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.0845241
 longitude: 9.0792721
-postcode: 74336
+postcode: "74336"
 city: Brackenheim
 street: "Meimsheimer Straße"
 housenumber: 13

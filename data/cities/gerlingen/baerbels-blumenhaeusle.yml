@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.7996482
 longitude: 9.060567800000001
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Eltinger Straße"
 housenumber: 24

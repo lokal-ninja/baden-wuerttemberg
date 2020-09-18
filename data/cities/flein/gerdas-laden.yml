@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.0989451
 longitude: 9.2144619
-postcode: 74223
+postcode: "74223"
 city: Flein
 street: "Ilsfelder Straße"
 housenumber: 32

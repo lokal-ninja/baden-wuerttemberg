@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9006544
 longitude: 9.092874700000001
-postcode: 71706
+postcode: "71706"
 city: Markgröningen
 street: "Im Sträßle"
 housenumber: 14

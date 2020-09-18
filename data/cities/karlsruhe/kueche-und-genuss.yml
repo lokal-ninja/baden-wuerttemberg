@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.9946581
 longitude: 8.403419000000001
-postcode: 
+postcode: ""
 city: Karlsruhe
 street: "Poststraße"
 housenumber: 1-3

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7101843
 longitude: 8.126105
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Dieselstraße"
 housenumber: 8

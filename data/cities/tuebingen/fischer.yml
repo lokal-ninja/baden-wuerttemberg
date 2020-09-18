@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5137712
 longitude: 9.0622109
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Ulrichstraße"
 housenumber: 24

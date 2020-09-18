@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.764492100000005
 longitude: 9.1755673
-postcode: 70180
+postcode: "70180"
 city: Stuttgart
 street: "Filderstraße"
 housenumber: 5/1

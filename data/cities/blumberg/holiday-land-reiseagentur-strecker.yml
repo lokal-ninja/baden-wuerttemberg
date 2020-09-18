@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.838789600000005
 longitude: 8.53588
-postcode: 78176
+postcode: "78176"
 city: Blumberg
 street: "Schwarzwaldstraße"
 housenumber: 1a

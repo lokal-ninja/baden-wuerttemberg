@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.389294500000005
 longitude: 9.2916714
-postcode: 72829
+postcode: "72829"
 city: Engstingen
 street: "Keltenstraße"
 housenumber: 1

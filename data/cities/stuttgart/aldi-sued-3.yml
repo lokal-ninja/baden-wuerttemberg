@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.83185700000001
 longitude: 9.160082000000001
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Schwieberdinger Straße"
 housenumber: 62

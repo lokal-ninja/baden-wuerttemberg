@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0449251
 longitude: 8.3823149
-postcode: 76149
+postcode: "76149"
 city: Karlsruhe
 street: "Bärenweg"
 housenumber: 37

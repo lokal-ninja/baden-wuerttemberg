@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.952591600000005
 longitude: 8.8515669
-postcode: 75417
+postcode: "75417"
 city: Mühlacker
 street: "Industriestraße"
 housenumber: 30

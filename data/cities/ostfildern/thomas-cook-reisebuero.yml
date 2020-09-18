@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.721612400000005
 longitude: 9.2702685
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Bonhoefferstraße"
 housenumber: 2/7

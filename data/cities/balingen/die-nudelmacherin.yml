@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.271907500000005
 longitude: 8.851488900000001
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Neue Straße"
 housenumber: 53

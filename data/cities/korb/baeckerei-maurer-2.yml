@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.843079800000005
 longitude: 9.3606668
-postcode: 71404
+postcode: "71404"
 city: Korb
 street: "Winnender Straße"
 housenumber: 28

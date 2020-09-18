@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.101142
 longitude: 9.464071200000001
-postcode: 88521
+postcode: "88521"
 city: Ertingen
 street: "Krähbrunnenstraße"
 housenumber: 1

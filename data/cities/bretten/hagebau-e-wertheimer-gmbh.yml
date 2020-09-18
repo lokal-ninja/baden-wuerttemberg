@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.0327399
 longitude: 8.705599600000001
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Pforzheimer Straße"
 housenumber: 44/1

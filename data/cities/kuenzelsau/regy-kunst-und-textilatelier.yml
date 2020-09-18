@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 49.278591500000005
 longitude: 9.706338800000001
-postcode: 74653
+postcode: "74653"
 city: Künzelsau
 street: "Marcalistraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.490318
 longitude: 9.216385800000001
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Burgplatz"
 housenumber: 1

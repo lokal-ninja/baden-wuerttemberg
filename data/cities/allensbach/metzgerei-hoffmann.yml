@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.7169545
 longitude: 9.0641946
-postcode: 78476
+postcode: "78476"
 city: Allensbach
 street: "Radolfzeller Straße"
 housenumber: 17

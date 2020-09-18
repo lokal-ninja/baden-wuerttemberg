@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.832216700000004
 longitude: 9.1679191
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Unterländer Straße"
 housenumber: 73A

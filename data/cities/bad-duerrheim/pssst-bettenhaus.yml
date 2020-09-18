@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.033366900000004
 longitude: 8.529976900000001
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: ""
 housenumber: 

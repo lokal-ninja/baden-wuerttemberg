@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.2212407
 longitude: 7.7587659
-postcode: 79336
+postcode: "79336"
 city: Herbolzheim
 street: "Sven-Kovacs-Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.0075638
 longitude: 8.395276800000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Amalienstraße"
 housenumber: 15

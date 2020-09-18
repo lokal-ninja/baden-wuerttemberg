@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.458647400000004
 longitude: 8.6989111
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Rauher Grund"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.063120700000006
 longitude: 8.4430218
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: "Kirnacher Straße"
 housenumber: 75

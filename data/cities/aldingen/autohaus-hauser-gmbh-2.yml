@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.0919791
 longitude: 8.6905666
-postcode: 78554
+postcode: "78554"
 city: Aldingen
 street: "Trossinger Straße"
 housenumber: 80

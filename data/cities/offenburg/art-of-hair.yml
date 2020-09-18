@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.472960300000004
 longitude: 7.9852787
-postcode: 77654
+postcode: "77654"
 city: Offenburg
 street: "Talweg"
 housenumber: 9

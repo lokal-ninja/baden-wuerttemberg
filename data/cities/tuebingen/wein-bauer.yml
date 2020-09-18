@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.5175983
 longitude: 9.0801417
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Schaffhausenstraße"
 housenumber: 109

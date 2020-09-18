@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5405206
 longitude: 8.6551604
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Multring"
 housenumber: 81

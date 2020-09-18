@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.432476900000005
 longitude: 8.683019100000001
-postcode: 69121
+postcode: "69121"
 city: Heidelberg
 street: "Dossenheimer Landstraße"
 housenumber: 98

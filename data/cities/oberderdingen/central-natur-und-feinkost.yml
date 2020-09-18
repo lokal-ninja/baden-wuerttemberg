@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.0630784
 longitude: 8.801188900000001
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Flehinger Straße"
 housenumber: 11

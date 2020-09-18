@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.167032500000005
 longitude: 9.7893782
-postcode: 88433
+postcode: "88433"
 city: Schemmerhofen
 street: "Alte Biberacher Straße"
 housenumber: 51/5

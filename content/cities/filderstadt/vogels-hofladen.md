@@ -1,4 +1,4 @@
 ---
-title: "Vogel's Hofladen"
+title: "Vogels Hofladen"
 url: /filderstadt/vogels-hofladen/
 ---

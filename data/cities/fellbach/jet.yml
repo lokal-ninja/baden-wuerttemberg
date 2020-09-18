@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.815640200000004
 longitude: 9.2800598
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: ""
 housenumber: 37

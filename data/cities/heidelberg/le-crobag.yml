@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.404248200000005
 longitude: 8.675673900000001
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Willy-Brandt-Platz"
 housenumber: 5

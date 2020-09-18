@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.00751330000001
 longitude: 8.4070781
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Markgrafenstraße"
 housenumber: 30a

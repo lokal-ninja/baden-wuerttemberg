@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 48.7293606
 longitude: 8.005662000000001
-postcode: 77839
+postcode: "77839"
 city: Lichtenau
 street: "Am Römerweg"
 housenumber: 17

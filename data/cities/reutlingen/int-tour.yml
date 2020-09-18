@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.4982235
 longitude: 9.1732239
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Jettenburger Straße"
 housenumber: 17

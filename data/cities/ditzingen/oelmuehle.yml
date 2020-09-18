@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8244199
 longitude: 9.064898600000001
-postcode: 71254
+postcode: "71254"
 city: Ditzingen
 street: "Johannes-Fuchs-Straße"
 housenumber: 5

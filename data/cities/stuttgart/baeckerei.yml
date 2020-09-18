@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.795945200000006
 longitude: 9.1897318
-postcode: 70191
+postcode: "70191"
 city: Stuttgart
 street: "Nordbahnhofstraße"
 housenumber: 61

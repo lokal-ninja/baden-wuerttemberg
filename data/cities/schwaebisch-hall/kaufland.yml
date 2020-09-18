@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1048838
 longitude: 9.7014615
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Steinbeisweg"
 housenumber: 30

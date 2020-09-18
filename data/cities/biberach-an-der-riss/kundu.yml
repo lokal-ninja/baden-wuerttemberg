@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.110745800000004
 longitude: 9.8025059
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Sandgrabenstraße"
 housenumber: 52

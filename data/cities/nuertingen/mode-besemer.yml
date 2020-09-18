@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6260941
 longitude: 9.3373875
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Marktstraße"
 housenumber: 4

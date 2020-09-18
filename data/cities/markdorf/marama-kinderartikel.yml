@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 47.708597100000006
 longitude: 9.4043489
-postcode: 88677
+postcode: "88677"
 city: Markdorf
 street: "Robert-Bosch-Straße"
 housenumber: 2

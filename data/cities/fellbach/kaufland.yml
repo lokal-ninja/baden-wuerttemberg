@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.81317060000001
 longitude: 9.2658342
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Stuttgarter Straße"
 housenumber: 70

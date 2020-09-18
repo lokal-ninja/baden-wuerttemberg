@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.076061100000004
 longitude: 9.140569600000001
-postcode: 74348
+postcode: "74348"
 city: Lauffen am Neckar
 street: "Im Brühl"
 housenumber: 48

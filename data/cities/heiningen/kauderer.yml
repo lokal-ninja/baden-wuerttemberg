@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.6542948
 longitude: 9.6488835
-postcode: 73092
+postcode: "73092"
 city: Heiningen
 street: "Riedstraße"
 housenumber: 3

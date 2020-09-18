@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0628972
 longitude: 8.5090877
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
 street: "Grabenäckerstraße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.140365200000005
 longitude: 9.2152743
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Obere Neckarstraße"
 housenumber: 8

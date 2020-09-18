@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2145554
 longitude: 9.214953000000001
-postcode: 74177
+postcode: "74177"
 city: Bad Friedrichshall
 street: "Bergrat-Bilfinger-Straße"
 housenumber: 9

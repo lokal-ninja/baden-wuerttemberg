@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.002652600000005
 longitude: 8.383014300000001
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Lorenzstraße"
 housenumber: 16

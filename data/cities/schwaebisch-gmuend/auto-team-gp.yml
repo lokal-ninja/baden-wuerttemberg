@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7967947
 longitude: 9.865952100000001
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Güglingstraße"
 housenumber: 75

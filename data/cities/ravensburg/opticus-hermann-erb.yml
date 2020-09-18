@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.7811366
 longitude: 9.610780400000001
-postcode: 88214
+postcode: "88214"
 city: Ravensburg
 street: "Bachstraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.8271195
 longitude: 9.2315573
-postcode: 70378
+postcode: "70378"
 city: Stuttgart
 street: "Steinhaldenstraße"
 housenumber: 169

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7421592
 longitude: 9.2962296
-postcode: 73728
+postcode: "73728"
 city: Esslingen am Neckar
 street: "Schelztorstraße"
 housenumber: 49

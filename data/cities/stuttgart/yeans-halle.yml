@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7812196
 longitude: 9.1811291
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Königstraße"
 housenumber: 3

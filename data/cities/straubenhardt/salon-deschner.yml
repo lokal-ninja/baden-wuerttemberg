@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8438947
 longitude: 8.5008479
-postcode: 75334
+postcode: "75334"
 city: Straubenhardt
 street: "Marxzeller Straße"
 housenumber: 52

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.5304726
 longitude: 9.199496
-postcode: 69427
+postcode: "69427"
 city: Mudau
 street: "Industriestraße"
 housenumber: 1

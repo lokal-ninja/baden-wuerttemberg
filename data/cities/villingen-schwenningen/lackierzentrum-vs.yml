@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.0808267
 longitude: 8.5079881
-postcode: 78052
+postcode: "78052"
 city: Villingen-Schwenningen
 street: "Auf Herdenen"
 housenumber: 26

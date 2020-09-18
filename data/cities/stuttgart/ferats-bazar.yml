@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 48.732537
 longitude: 9.104924200000001
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Katzenbachstraße"
 housenumber: 65

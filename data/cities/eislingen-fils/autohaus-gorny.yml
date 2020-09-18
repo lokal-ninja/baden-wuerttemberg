@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.691913500000005
 longitude: 9.7144835
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Ulmer Straße"
 housenumber: 69

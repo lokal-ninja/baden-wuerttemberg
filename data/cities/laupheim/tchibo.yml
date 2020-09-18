@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.229553200000005
 longitude: 9.8829515
-postcode: 88471
+postcode: "88471"
 city: Laupheim
 street: "Mittelstraße"
 housenumber: 8

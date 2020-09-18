@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.200763800000004
 longitude: 9.499975300000001
-postcode: 
+postcode: ""
 city: Öhringen
 street: "Untere Torstraße"
 housenumber: 13

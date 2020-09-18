@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.940017000000005
 longitude: 9.260218100000001
-postcode: 71672
+postcode: "71672"
 city: Marbach am Neckar
 street: "Güntterstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.461868900000006
 longitude: 9.151569100000001
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Alteburger Hof"
 housenumber: 

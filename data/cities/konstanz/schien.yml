@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.682563
 longitude: 9.202462500000001
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Mainaustraße"
 housenumber: 153

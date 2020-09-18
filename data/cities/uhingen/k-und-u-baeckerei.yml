@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7140682
 longitude: 9.5625032
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Bleichereistraße"
 housenumber: 54

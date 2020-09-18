@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.065338700000005
 longitude: 8.4610184
-postcode: 
+postcode: ""
 city: Villingen-Schwenningen
 street: "Mönchweilerstraße"
 housenumber: 22

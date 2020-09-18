@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.40111640000001
 longitude: 9.918200200000001
-postcode: 97996
+postcode: "97996"
 city: Niederstetten
 street: "Lange Gasse"
 housenumber: 5

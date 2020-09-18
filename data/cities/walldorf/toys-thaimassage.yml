@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.3018774
 longitude: 8.6369583
-postcode: 69190
+postcode: "69190"
 city: Walldorf
 street: "Hauptstraße"
 housenumber: 52

@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.702517300000004
 longitude: 9.6565039
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Poststraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.755107100000004
 longitude: 8.8596155
-postcode: 78224
+postcode: "78224"
 city: Singen
 street: "Im Haselbusch"
 housenumber: 16

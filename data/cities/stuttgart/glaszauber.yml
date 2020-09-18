@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.827258900000004
 longitude: 9.231547200000001
-postcode: 70378
+postcode: "70378"
 city: Stuttgart
 street: "Steinhaldenstraße"
 housenumber: 160

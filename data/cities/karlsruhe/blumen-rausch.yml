@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 49.002276800000004
 longitude: 8.4839632
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Am Friedhof"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-13:00, Mo,We-Fr 14:00-18:00; Sa 09:00-13:00"
 website: "http://blumen-rausch.de/"

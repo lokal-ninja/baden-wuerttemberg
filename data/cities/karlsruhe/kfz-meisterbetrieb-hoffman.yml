@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0306937
 longitude: 8.4584729
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Karlsruher Straße"
 housenumber: 1

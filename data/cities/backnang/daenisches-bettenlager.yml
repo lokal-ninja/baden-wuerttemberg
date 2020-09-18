@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.9375657
 longitude: 9.4446279
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Industriestraße"
 housenumber: 37

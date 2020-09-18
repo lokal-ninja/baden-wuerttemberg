@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.125655900000005
 longitude: 9.2172891
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Kauffmannstraße"
 housenumber: 39a

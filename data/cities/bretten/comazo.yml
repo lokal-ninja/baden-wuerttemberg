@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.0333854
 longitude: 8.7057122
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Wilhelmstraße"
 housenumber: 2-4

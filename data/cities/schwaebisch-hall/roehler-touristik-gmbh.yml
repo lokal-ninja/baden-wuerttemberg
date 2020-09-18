@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.1020966
 longitude: 9.6987226
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Daimlerstraße"
 housenumber: 49-53

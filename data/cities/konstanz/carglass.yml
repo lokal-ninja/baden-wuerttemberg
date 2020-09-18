@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.674435900000006
 longitude: 9.157307000000001
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Reichenaustraße"
 housenumber: 206

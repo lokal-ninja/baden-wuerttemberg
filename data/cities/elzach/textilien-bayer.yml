@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.1757458
 longitude: 8.0723608
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Hauptstraße"
 housenumber: 84

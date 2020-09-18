@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.8573809
 longitude: 8.2070503
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Bahnhofstraße"
 housenumber: 2

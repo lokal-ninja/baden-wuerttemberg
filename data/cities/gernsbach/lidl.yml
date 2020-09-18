@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.773783200000004
 longitude: 8.3440587
-postcode: 76593
+postcode: "76593"
 city: Gernsbach
 street: "Hillaustraße"
 housenumber: 4

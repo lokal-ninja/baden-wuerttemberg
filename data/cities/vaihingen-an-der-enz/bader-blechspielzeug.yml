@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.929480000000005
 longitude: 8.9609473
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Stuttgarter Straße"
 housenumber: 61

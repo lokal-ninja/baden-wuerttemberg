@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.894029
 longitude: 9.1849161
-postcode: 71638
+postcode: "71638"
 city: Ludwigsburg
 street: "Schillerstraße"
 housenumber: 17

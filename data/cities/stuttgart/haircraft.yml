@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7429028
 longitude: 9.1331969
-postcode: 70569
+postcode: "70569"
 city: Stuttgart
 street: "Böblinger Straße"
 housenumber: 415

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.669456000000004
 longitude: 8.9927235
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Maurener Weg"
 housenumber: 130

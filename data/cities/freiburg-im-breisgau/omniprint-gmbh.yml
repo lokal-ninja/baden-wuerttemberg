@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.9968816
 longitude: 7.8437609
-postcode: 79098
+postcode: "79098"
 city: Freiburg im Breisgau
 street: "Eisenbahnstraße"
 housenumber: 64

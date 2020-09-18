@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 47.682059100000004
 longitude: 9.202219300000001
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Mainaustraße"
 housenumber: 149

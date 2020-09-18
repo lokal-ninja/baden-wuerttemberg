@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 47.8280876
 longitude: 10.015543300000001
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Nadlerstraße"
 housenumber: 1

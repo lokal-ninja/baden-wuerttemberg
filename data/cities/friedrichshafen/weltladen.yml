@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.650057100000005
 longitude: 9.4790968
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Schanzstraße"
 housenumber: 4

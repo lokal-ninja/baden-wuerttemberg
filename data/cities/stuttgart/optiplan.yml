@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.7719764
 longitude: 9.1572402
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Schwabstraße"
 housenumber: 36A

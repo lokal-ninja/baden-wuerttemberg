@@ -3,10 +3,10 @@ type: node
 shop: Kopieren
 latitude: 48.4024863
 longitude: 9.048480000000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Röhlerstraße"
 housenumber: 12
-phone: ""
+phone: "+49 7473 954200"
 opening_hours: ""
 website: "http://www.mtdruck.de"

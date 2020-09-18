@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.506043500000004
 longitude: 8.596208800000001
-postcode: 68542
+postcode: "68542"
 city: Heddesheim
 street: "Schillerstraße"
 housenumber: 1

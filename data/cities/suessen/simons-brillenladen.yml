@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.6830962
 longitude: 9.759371400000001
-postcode: 73079
+postcode: "73079"
 city: Süßen
 street: "Bahnhofstraße"
 housenumber: 17

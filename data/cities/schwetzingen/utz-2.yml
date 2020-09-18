@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.378219800000004
 longitude: 8.5611374
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Hockenheimer Landstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Immobilien
 latitude: 48.53600470000001
 longitude: 9.2864532
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Ulmer Straße"
 housenumber: 51/1

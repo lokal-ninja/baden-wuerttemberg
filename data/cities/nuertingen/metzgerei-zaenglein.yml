@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.638355100000005
 longitude: 9.326518100000001
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Im Wiesengrund"
 housenumber: 1

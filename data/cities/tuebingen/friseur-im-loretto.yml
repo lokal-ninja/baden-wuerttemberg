@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5099803
 longitude: 9.0610502
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Ruth-Marx-Straße"
 housenumber: 13

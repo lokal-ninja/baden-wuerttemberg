@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.79313500000001
 longitude: 9.202384200000001
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Neckarstraße"
 housenumber: 226

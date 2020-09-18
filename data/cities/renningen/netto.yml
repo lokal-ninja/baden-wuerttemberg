@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.774430100000004
 longitude: 8.9286315
-postcode: 71272
+postcode: "71272"
 city: Renningen
 street: "Bahnhof"
 housenumber: 14

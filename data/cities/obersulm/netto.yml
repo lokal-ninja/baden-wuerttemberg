@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.133284700000004
 longitude: 9.3784951
-postcode: 74182
+postcode: "74182"
 city: Obersulm
 street: "Zwerchäcker"
 housenumber: 16

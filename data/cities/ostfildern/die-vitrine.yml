@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.717528900000005
 longitude: 9.231692200000001
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Hauptstraße"
 housenumber: 11

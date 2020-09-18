@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 47.9094233
 longitude: 8.2131486
-postcode: 79822
+postcode: "79822"
 city: Titisee-Neustadt
 street: "Schützenstraße"
 housenumber: 8

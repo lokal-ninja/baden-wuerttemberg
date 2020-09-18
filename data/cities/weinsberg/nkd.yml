@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.1517435
 longitude: 9.2886024
-postcode: 74189
+postcode: "74189"
 city: Weinsberg
 street: "Hauptstraße"
 housenumber: 

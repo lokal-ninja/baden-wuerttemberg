@@ -3,10 +3,10 @@ type: node
 shop: Schreibwaren
 latitude: 48.79783320000001
 longitude: 8.495645900000001
-postcode: 75335
+postcode: "75335"
 city: Dobel
 street: "Hauptstraße"
 housenumber: 18
 phone: "+49 7083 9359403"
-opening_hours: "Mo-Sa 07:00 - 12:30; Mo, Mi-Fr 14:30 - 18:00"
+opening_hours: "Mo-Fr 08:00 - 12:30; Mo, Mi-Fr 15:00 - 18:00; Sa 07:00 - 12:30"
 website: ""

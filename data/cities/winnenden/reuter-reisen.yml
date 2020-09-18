@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.874664100000004
 longitude: 9.4020034
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Schorndorfer Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4789061
 longitude: 8.6562444
-postcode: 69198
+postcode: "69198"
 city: Schriesheim
 street: "Säulenweg"
 housenumber: 1

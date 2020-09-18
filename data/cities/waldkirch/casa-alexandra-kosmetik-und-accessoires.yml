@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.092678600000006
 longitude: 7.962687700000001
-postcode: 79183
+postcode: "79183"
 city: Waldkirch
 street: "Kandelstraße"
 housenumber: 1

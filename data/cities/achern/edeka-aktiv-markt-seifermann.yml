@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6156966
 longitude: 8.0850977
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Oberacherner Straße"
 housenumber: 60

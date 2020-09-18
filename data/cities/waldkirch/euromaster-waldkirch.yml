@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.0859948
 longitude: 7.944981800000001
-postcode: 79183
+postcode: "79183"
 city: Waldkirch
 street: "Industriestraße"
 housenumber: 5

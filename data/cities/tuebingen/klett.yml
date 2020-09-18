@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5207941
 longitude: 9.0568611
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Pfleghofstraße"
 housenumber: 9

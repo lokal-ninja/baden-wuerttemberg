@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5757029
 longitude: 8.1692357
-postcode: 77889
+postcode: "77889"
 city: Seebach
 street: "Ruhesteinstraße"
 housenumber: 18

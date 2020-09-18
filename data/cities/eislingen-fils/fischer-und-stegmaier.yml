@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6989023
 longitude: 9.7071114
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Hauptstraße"
 housenumber: 50

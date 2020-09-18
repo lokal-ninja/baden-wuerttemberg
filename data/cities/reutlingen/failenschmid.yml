@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.4888435
 longitude: 9.2168585
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Obere Wässere"
 housenumber: 3-7

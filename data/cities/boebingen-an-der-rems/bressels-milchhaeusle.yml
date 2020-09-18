@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.8085735
 longitude: 9.9349323
-postcode: 73560
+postcode: "73560"
 city: Böbingen an der Rems
 street: "Bachäcker"
 housenumber: 4

@@ -1,12 +1,12 @@
-id: 441915269
-type: way
+id: 7745089375
+type: node
 shop: Drogerie
-latitude: 48.3977536
-longitude: 9.9956676
-postcode: 89073
+latitude: 48.399495400000006
+longitude: 9.984727600000001
+postcode: "89073"
 city: Ulm
-street: "Frauenstraße"
-housenumber: 1
-phone: "+49 731 37935993"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+street: ""
+housenumber: 
+phone: ""
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.dm.de"

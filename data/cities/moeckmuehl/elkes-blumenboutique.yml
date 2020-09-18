@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.321169000000005
 longitude: 9.362806800000001
-postcode: 74219
+postcode: "74219"
 city: Möckmühl
 street: "Waagerner Tal"
 housenumber: 20

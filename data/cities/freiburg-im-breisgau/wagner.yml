@@ -3,7 +3,7 @@ type: way
 shop: Schreinerei
 latitude: 47.988258
 longitude: 7.8671623
-postcode: 79117
+postcode: "79117"
 city: Freiburg im Breisgau
 street: "Schwarzwaldstraße"
 housenumber: 48

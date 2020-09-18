@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.7141808
 longitude: 9.2973572
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Otto-Schuster-Straße"
 housenumber: 35

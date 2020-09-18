@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 49.243405700000004
 longitude: 8.9764102
-postcode: 74889
+postcode: "74889"
 city: Sinsheim
 street: "Schlossstraße"
 housenumber: 6

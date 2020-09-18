@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4027551
 longitude: 9.920012
-postcode: 97996
+postcode: "97996"
 city: Niederstetten
 street: "Vorbachzimmerner Straße"
 housenumber: 6

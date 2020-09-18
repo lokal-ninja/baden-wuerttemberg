@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9422523
 longitude: 8.406733000000001
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Albstraße"
 housenumber: 4

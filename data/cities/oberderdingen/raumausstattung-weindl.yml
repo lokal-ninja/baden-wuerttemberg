@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.063751
 longitude: 8.8006487
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Rote-Tor-Straße"
 housenumber: 4

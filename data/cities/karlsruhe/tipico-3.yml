@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 49.0089795
 longitude: 8.4143202
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 23

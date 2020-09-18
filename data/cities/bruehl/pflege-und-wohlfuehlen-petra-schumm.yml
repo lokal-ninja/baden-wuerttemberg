@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 49.4117857
 longitude: 8.523120800000001
-postcode: 68782
+postcode: "68782"
 city: Brühl
 street: "Lessingstraße"
 housenumber: 5

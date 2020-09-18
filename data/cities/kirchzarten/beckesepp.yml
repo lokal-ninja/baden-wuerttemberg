@@ -1,12 +1,12 @@
-id: 256765435
+id: 4745376436
 type: node
 shop: Supermarkt
-latitude: 47.963604700000005
-longitude: 7.954015500000001
-postcode: 79199
+latitude: 47.964831700000005
+longitude: 7.9545978
+postcode: "79199"
 city: Kirchzarten
-street: "Schwarzwaldstraße"
-housenumber: 20
-phone: "+49 7661 4028"
-opening_hours: "Mo-Sa 07:30-22:00; May-Dec Su,PH 08:00-12:00"
-website: "https://www.beckesepp.de/standorte/kirchzarten-schwarzwaldstrasse-supermarkt-baeckerei"
+street: "Hauptstraße"
+housenumber: 8
+phone: "+49 7661 908134"
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
+website: "https://www.beckesepp.de/standorte/kirchzarten-hauptstrasse-supermarkt-baeckerei-cafe/"

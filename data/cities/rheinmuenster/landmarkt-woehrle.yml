@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.749732200000004
 longitude: 8.035894500000001
-postcode: 77836
+postcode: "77836"
 city: Rheinmünster
 street: "Körnersbühnd"
 housenumber: 1

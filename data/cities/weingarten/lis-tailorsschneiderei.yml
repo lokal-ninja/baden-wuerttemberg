@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 47.8020002
 longitude: 9.633496300000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Ravensburger Straße"
 housenumber: 20

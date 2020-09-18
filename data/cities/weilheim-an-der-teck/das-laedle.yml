@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.615120000000005
 longitude: 9.536340000000001
-postcode: 73235
+postcode: "73235"
 city: Weilheim an der Teck
 street: "Kirchgasse"
 housenumber: 

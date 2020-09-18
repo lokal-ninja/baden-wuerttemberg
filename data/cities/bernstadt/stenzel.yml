@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4998105
 longitude: 10.0232287
-postcode: 89182
+postcode: "89182"
 city: Bernstadt
 street: "Bürggasse"
 housenumber: 1

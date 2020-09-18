@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.782746
 longitude: 9.6103485
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Untere Breite Straße"
 housenumber: 27

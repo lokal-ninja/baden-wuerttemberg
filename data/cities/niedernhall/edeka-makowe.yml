@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.300314
 longitude: 9.6148653
-postcode: 74676
+postcode: "74676"
 city: Niedernhall
 street: "Criesbacher Straße"
 housenumber: 20

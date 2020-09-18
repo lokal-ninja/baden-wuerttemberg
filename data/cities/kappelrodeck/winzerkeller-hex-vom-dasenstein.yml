@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.5905457
 longitude: 8.112508100000001
-postcode: 77876
+postcode: "77876"
 city: Kappelrodeck
 street: "Burgunderplatz"
 housenumber: 1

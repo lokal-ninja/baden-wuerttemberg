@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.8012652
 longitude: 9.7953579
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Ledergasse"
 housenumber: 9

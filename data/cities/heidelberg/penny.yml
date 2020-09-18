@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.428755300000006
 longitude: 8.6832239
-postcode: 69121
+postcode: "69121"
 city: Heidelberg
 street: "Dossenheimer Landstraße"
 housenumber: 40

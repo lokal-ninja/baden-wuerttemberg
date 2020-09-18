@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.14067420000001
 longitude: 9.056769300000001
-postcode: 74193
+postcode: "74193"
 city: Schwaigern
 street: "Theodor-Heuss-Straße"
 housenumber: 4-6

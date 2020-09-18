@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.592157400000005
 longitude: 8.0183765
-postcode: 77871
+postcode: "77871"
 city: Renchen
 street: "Mozartstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.7112155
 longitude: 8.998587200000001
-postcode: 71063
+postcode: "71063"
 city: Sindelfingen
 street: "Hirsauer Straße"
 housenumber: 17

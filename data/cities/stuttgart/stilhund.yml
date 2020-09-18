@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.737390000000005
 longitude: 9.166880800000001
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Bruno-Jacoby-Weg"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.198514900000006
 longitude: 7.673913400000001
-postcode: 79367
+postcode: "79367"
 city: Weisweil
 street: "Rheinstraße"
 housenumber: 10

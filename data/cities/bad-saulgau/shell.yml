@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.0067399
 longitude: 9.5139067
-postcode: 88348
+postcode: "88348"
 city: Bad Saulgau
 street: "Platzstraße"
 housenumber: 40

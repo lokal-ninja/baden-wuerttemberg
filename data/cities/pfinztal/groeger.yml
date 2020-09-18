@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.0058121
 longitude: 8.531233
-postcode: 76327
+postcode: "76327"
 city: Pfinztal
 street: "An der Bahn"
 housenumber: 9

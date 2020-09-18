@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.7085182
 longitude: 9.002003100000001
-postcode: 71063
+postcode: "71063"
 city: Sindelfingen
 street: "Planiestraße"
 housenumber: 6

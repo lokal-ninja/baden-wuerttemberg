@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.073244800000005
 longitude: 8.462648600000001
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Vorderer Eckweg"
 housenumber: 37

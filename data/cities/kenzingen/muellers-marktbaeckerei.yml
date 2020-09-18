@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.196673000000004
 longitude: 7.7736001
-postcode: 79341
+postcode: "79341"
 city: Kenzingen
 street: "Feuerwehrweg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.024453400000006
 longitude: 8.7787942
-postcode: 78604
+postcode: "78604"
 city: Rietheim-Weilheim
 street: "Mühlstraße"
 housenumber: 6

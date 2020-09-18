@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.0865796
 longitude: 9.2171568
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Schwabstraße"
 housenumber: 10

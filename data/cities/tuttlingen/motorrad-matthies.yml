@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.0070788
 longitude: 8.8516183
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Industriestraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.0707462
 longitude: 8.4582707
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Vockenhauser Straße"
 housenumber: 

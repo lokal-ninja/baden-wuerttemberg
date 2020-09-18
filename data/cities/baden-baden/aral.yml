@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.811272300000006
 longitude: 8.1952274
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Sandweierer Straße"
 housenumber: 47

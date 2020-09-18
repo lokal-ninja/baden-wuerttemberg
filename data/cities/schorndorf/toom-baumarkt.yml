@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.8054532
 longitude: 9.5129067
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Stuttgarter Straße"
 housenumber: 50

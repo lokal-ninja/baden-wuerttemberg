@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.68260110000001
 longitude: 10.040172
-postcode: 88316
+postcode: "88316"
 city: Isny im Allgäu
 street: "Maierhöfener Straße"
 housenumber: 78

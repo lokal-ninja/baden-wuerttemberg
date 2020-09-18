@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.9120579
 longitude: 8.9357969
-postcode: 78253
+postcode: "78253"
 city: Eigeltingen
 street: "Gewerbestraße"
 housenumber: 2

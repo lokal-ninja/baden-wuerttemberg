@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7347808
 longitude: 9.181567600000001
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Hofgärten"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.6162636
 longitude: 9.5374605
-postcode: 73235
+postcode: "73235"
 city: Weilheim an der Teck
 street: "Brunnenstraße"
 housenumber: 3/1

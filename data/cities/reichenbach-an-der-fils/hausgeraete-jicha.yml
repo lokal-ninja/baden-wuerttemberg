@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.708673600000004
 longitude: 9.465979500000001
-postcode: 73262
+postcode: "73262"
 city: Reichenbach an der Fils
 street: "Olgastraße"
 housenumber: 23

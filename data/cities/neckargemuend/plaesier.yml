@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.3929028
 longitude: 8.799732800000001
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Hauptstraße"
 housenumber: 19

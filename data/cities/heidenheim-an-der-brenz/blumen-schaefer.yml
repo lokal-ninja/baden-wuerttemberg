@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.69097
 longitude: 10.143168000000001
-postcode: 89518
+postcode: "89518"
 city: Heidenheim an der Brenz
 street: "Am Waldfriedhof"
 housenumber: 9

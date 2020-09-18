@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.9207866
 longitude: 9.7543673
-postcode: 88339
+postcode: "88339"
 city: Bad Waldsee
 street: "Hauptstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.613913200000006
 longitude: 9.810392700000001
-postcode: 73312
+postcode: "73312"
 city: Geislingen an der Steige
 street: "Steinbeisstraße"
 housenumber: 5

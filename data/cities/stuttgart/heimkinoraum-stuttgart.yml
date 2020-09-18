@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.8149102
 longitude: 9.1113467
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Glemsgaustraße"
 housenumber: 15

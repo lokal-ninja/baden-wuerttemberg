@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.7684901
 longitude: 8.184532800000001
-postcode: 76547
+postcode: "76547"
 city: Sinzheim
 street: "Frohnhofweg"
 housenumber: 8

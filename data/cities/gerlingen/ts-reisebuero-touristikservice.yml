@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.7994877
 longitude: 9.0618957
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Hauptstraße"
 housenumber: 26

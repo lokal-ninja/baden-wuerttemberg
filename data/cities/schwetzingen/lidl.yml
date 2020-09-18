@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3903156
 longitude: 8.5791463
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Borsigstraße"
 housenumber: 3

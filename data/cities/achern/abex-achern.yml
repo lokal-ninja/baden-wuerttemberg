@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 48.6321134
 longitude: 8.0584696
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Franz-John-Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.676322500000005
 longitude: 9.492598300000001
-postcode: 88048
+postcode: "88048"
 city: Friedrichshafen
 street: "Bodenseestraße"
 housenumber: 121

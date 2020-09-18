@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.637193100000005
 longitude: 8.0827811
-postcode: 79733
+postcode: "79733"
 city: Görwihl
 street: "Schwärze"
 housenumber: 2

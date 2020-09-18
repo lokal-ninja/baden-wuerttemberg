@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0395357
 longitude: 9.0942957
-postcode: 74357
+postcode: "74357"
 city: Bönnigheim
 street: "Poststraße"
 housenumber: 1

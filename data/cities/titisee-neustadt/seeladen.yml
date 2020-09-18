@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.901379500000004
 longitude: 8.1520361
-postcode: 
+postcode: ""
 city: Titisee-Neustadt
 street: "Seestraße"
 housenumber: 33

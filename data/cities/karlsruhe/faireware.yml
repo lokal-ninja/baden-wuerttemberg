@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 49.00774800000001
 longitude: 8.396907500000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Herrenstraße"
 housenumber: 46

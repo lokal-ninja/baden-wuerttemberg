@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.477853800000005
 longitude: 8.593971100000001
-postcode: 68526
+postcode: "68526"
 city: Ladenburg
 street: "Boveristraße"
 housenumber: 

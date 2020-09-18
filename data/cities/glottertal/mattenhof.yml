@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.046811600000005
 longitude: 7.946442200000001
-postcode: 79286
+postcode: "79286"
 city: Glottertal
 street: "Kandelstraße"
 housenumber: 2

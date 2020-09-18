@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.2784204
 longitude: 8.0883237
-postcode: 77716
+postcode: "77716"
 city: Haslach im Kinzigtal
 street: "Alte Eisenbahnstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.781035
 longitude: 9.610430200000001
-postcode: 88214
+postcode: "88214"
 city: Ravensburg
 street: "Bachstraße"
 housenumber: 43

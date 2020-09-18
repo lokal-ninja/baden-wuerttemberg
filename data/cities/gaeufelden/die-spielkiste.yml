@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.557784500000004
 longitude: 8.8510313
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Raiffeisenstraße"
 housenumber: 5

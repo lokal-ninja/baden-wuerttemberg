@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.496928700000005
 longitude: 9.030832
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Alte Landstraße"
 housenumber: 45

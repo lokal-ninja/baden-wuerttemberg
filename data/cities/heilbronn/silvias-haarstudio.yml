@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.184566100000005
 longitude: 9.111727
-postcode: 74078
+postcode: "74078"
 city: Heilbronn
 street: "Deutschritterstraße"
 housenumber: 21

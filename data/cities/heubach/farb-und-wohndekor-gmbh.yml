@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.7927855
 longitude: 9.935575700000001
-postcode: 73540
+postcode: "73540"
 city: Heubach
 street: "Bahnhofstraße"
 housenumber: 2

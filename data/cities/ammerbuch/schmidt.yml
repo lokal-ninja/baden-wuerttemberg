@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.561117200000005
 longitude: 8.9096449
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Römerstraße"
 housenumber: 8

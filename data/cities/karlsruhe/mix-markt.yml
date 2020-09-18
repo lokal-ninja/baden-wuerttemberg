@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.986136300000005
 longitude: 8.363086800000001
-postcode: 76189
+postcode: "76189"
 city: Karlsruhe
 street: "Otto-Wels-Straße"
 housenumber: 29

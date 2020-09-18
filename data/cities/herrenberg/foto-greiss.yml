@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.5958485
 longitude: 8.8694717
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Bronngasse"
 housenumber: 3-7

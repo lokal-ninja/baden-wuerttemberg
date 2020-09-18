@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.3593495
 longitude: 9.1299674
-postcode: 72393
+postcode: "72393"
 city: Burladingen
 street: "Häuslerwasen"
 housenumber: 14

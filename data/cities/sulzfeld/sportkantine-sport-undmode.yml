@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.0989596
 longitude: 8.8592484
-postcode: 75056
+postcode: "75056"
 city: Sulzfeld
 street: "Ochsenburger Straße"
 housenumber: 19

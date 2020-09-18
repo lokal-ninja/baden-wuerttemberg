@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.4917588
 longitude: 9.210531300000001
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Katharinenstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.9458513
 longitude: 9.4302638
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Dilleniusstraße"
 housenumber: 11

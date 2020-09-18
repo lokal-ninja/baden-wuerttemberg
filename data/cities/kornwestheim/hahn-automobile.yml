@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.867068100000004
 longitude: 9.198252400000001
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Leibnizstraße"
 housenumber: 1

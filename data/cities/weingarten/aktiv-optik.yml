@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.807735
 longitude: 9.641185400000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Karlstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.492060200000004
 longitude: 9.2146066
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Gartenstraße"
 housenumber: 38

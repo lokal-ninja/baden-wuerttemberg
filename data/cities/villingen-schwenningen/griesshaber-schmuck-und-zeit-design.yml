@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.059820800000004
 longitude: 8.4586324
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: ""
 housenumber: 

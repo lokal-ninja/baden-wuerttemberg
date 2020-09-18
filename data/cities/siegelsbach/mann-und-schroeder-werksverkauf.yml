@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.2713825
 longitude: 9.0884286
-postcode: 74936
+postcode: "74936"
 city: Siegelsbach
 street: "Bahnhofstraße"
 housenumber: 5

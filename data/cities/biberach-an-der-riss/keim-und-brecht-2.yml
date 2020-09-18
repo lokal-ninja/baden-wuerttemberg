@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0999758
 longitude: 9.792796800000001
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Zeppelinring"
 housenumber: 1

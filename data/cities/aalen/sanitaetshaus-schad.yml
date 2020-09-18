@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.8371979
 longitude: 10.087572600000001
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Alfred-Delp-Straße"
 housenumber: 4

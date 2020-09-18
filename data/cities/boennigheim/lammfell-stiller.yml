@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.0405323
 longitude: 9.106511300000001
-postcode: 74357
+postcode: "74357"
 city: Bönnigheim
 street: "Blumenstraße"
 housenumber: 30

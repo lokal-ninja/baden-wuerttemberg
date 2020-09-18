@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.3517347
 longitude: 8.6864269
-postcode: 69181
+postcode: "69181"
 city: Leimen
 street: "Schwetzinger Straße"
 housenumber: 12

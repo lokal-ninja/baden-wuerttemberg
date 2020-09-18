@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.655710000000006
 longitude: 9.196209600000001
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Uhlbergstraße"
 housenumber: 21

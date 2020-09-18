@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5953674
 longitude: 8.8607995
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Schießtäle"
 housenumber: 2

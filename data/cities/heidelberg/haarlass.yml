@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.429172
 longitude: 8.68257
-postcode: 69121
+postcode: "69121"
 city: Heidelberg
 street: "Dossenheimer Landstraße"
 housenumber: 53

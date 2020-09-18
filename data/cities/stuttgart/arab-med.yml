@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.7636649
 longitude: 9.1644404
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Böblinger Straße"
 housenumber: 27B

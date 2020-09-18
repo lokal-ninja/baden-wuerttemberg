@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.063958
 longitude: 8.539948
-postcode: 78056
+postcode: "78056"
 city: Villingen-Schwenningen
 street: "Schützenstraße"
 housenumber: 16

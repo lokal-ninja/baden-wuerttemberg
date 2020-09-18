@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.0176718
 longitude: 8.3430058
-postcode: 76189
+postcode: "76189"
 city: Karlsruhe
 street: "Nördliche Uferstraße"
 housenumber: 11

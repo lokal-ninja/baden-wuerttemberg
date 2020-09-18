@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.7242046
 longitude: 8.7965821
-postcode: 75382
+postcode: "75382"
 city: Althengstett
 street: "Bahnhofstraße"
 housenumber: 10

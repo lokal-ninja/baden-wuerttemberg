@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.5650619
 longitude: 8.9054863
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Hagenring"
 housenumber: 15

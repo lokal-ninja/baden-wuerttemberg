@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9616349
 longitude: 9.1027103
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Kleinsachsenheimer Straße"
 housenumber: 4

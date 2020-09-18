@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0322419
 longitude: 8.5736782
-postcode: 75045
+postcode: "75045"
 city: Walzbachtal
 street: "Jöhlinger Straße"
 housenumber: 103A

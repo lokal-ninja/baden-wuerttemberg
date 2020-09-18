@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4928892
 longitude: 9.2012557
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Kurrerstraße"
 housenumber: 1

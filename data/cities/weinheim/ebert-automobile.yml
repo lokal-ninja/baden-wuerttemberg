@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.549263200000006
 longitude: 8.6540394
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Mannheimer Straße"
 housenumber: 77

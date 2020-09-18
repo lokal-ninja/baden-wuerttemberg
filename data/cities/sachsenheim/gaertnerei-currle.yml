@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.9570913
 longitude: 9.0678465
-postcode: 74343
+postcode: "74343"
 city: Sachsenheim
 street: "Bissinger Straße"
 housenumber: 24

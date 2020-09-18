@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 49.010369700000005
 longitude: 8.4027271
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Zirkel"
 housenumber: 30

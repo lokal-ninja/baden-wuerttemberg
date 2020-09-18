@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8452439
 longitude: 8.541550800000001
-postcode: 75334
+postcode: "75334"
 city: Straubenhardt
 street: "Trifelsstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.0274377
 longitude: 7.586133800000001
-postcode: 79206
+postcode: "79206"
 city: Breisach am Rhein
 street: "Neutorplatz"
 housenumber: 9

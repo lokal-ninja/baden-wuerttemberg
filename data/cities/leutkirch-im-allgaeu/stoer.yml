@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.8261553
 longitude: 10.022817100000001
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Evangelische Kirchgasse"
 housenumber: 10/1

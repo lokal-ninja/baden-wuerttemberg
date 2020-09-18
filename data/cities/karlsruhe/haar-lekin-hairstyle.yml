@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.994691800000005
 longitude: 8.3994985
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Bahnhofplatz"
 housenumber: 8

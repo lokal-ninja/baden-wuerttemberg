@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.805323
 longitude: 9.525593500000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Gottlieb-Daimler-Straße"
 housenumber: 18

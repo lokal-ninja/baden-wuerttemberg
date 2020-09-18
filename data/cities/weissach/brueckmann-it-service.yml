@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.8342754
 longitude: 8.913303
-postcode: 71287
+postcode: "71287"
 city: Weissach
 street: "Weissacher Straße"
 housenumber: 2

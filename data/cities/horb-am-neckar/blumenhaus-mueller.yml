@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.4441271
 longitude: 8.6911951
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Neckarstraße"
 housenumber: 31a

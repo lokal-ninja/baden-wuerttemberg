@@ -1,12 +1,12 @@
-id: 121465246
-type: way
+id: 1925813864
+type: node
 shop: Supermarkt
-latitude: 49.5474383
-longitude: 8.4802791
-postcode: 68307
+latitude: 49.475099900000004
+longitude: 8.4810444
+postcode: "68165"
 city: Mannheim
-street: "Lilienthalstraße"
-housenumber: 305
-phone: ""
-opening_hours: ""
+street: "Schwetzinger Straße"
+housenumber: 
+phone: "+49 800 4353361"
+opening_hours: "Mo-Sa 08:00-21:00"
 website: ""

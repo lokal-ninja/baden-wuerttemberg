@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.038055500000006
 longitude: 8.6996958
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Melanchthonstraße"
 housenumber: 75/1

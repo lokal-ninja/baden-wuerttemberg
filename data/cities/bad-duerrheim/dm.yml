@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.031647500000005
 longitude: 8.5266222
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Carl-Friedrich-Benz-Straße"
 housenumber: 26

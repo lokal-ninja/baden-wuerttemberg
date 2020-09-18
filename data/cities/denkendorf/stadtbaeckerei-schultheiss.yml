@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7029513
 longitude: 9.3126197
-postcode: 73770
+postcode: "73770"
 city: Denkendorf
 street: "Rechbergstraße"
 housenumber: 5

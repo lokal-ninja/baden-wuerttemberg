@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.8643287
 longitude: 10.340256400000001
-postcode: 73441
+postcode: "73441"
 city: Bopfingen
 street: "Aalener Straße"
 housenumber: 60a

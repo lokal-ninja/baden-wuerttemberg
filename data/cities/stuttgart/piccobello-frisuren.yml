@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7312707
 longitude: 9.1043676
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Bachstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 47.782606300000005
 longitude: 9.6112947
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Obere Breite Straße"
 housenumber: 11

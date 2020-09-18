@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.5950665
 longitude: 8.8677575
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Hindenburgstraße"
 housenumber: 6

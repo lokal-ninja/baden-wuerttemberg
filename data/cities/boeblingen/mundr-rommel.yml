@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 48.681549200000006
 longitude: 9.0059786
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Steinbeisstraße"
 housenumber: 15

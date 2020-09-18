@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4308269
 longitude: 7.9938729
-postcode: 77797
+postcode: "77797"
 city: Ohlsbach
 street: "Hauptstraße"
 housenumber: 22

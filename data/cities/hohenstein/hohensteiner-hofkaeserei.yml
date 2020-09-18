@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 48.3451992
 longitude: 9.3593692
-postcode: 72531
+postcode: "72531"
 city: Hohenstein
 street: ""
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.757234200000006
 longitude: 9.713347500000001
-postcode: 88289
+postcode: "88289"
 city: Waldburg
 street: "Hauptstraße"
 housenumber: 30

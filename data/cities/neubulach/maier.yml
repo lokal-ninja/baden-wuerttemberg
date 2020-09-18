@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.6616562
 longitude: 8.695192500000001
-postcode: 75387
+postcode: "75387"
 city: Neubulach
 street: "Marktstraße"
 housenumber: 2

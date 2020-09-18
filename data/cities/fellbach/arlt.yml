@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 48.8140769
 longitude: 9.274966000000001
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Cannstatter Straße"
 housenumber: 119

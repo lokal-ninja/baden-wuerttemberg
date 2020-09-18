@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6112966
 longitude: 8.8511878
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Römerweg"
 housenumber: 57

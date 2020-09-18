@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.0093285
 longitude: 8.398730500000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Herrenstraße"
 housenumber: 22

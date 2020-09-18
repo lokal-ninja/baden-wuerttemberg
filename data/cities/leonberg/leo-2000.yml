@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.7968855
 longitude: 9.0121879
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Eltinger Straße"
 housenumber: 61

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.4912908
 longitude: 9.2095511
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Mettmannsgasse"
 housenumber: 1

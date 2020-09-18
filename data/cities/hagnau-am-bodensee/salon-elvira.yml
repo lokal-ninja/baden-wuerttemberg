@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.6739703
 longitude: 9.3170669
-postcode: 88709
+postcode: "88709"
 city: Hagnau am Bodensee
 street: "Seestraße"
 housenumber: 16

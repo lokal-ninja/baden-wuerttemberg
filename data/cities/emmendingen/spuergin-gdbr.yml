@@ -3,7 +3,7 @@ type: way
 shop: Imkerei
 latitude: 48.130928000000004
 longitude: 7.8211569
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Teninger Straße"
 housenumber: 1

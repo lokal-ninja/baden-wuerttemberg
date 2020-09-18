@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9373877
 longitude: 10.094548300000001
-postcode: 88319
+postcode: "88319"
 city: Aitrach
 street: "St.-Konrad-Weg"
 housenumber: 2

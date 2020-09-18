@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5116766
 longitude: 9.0630442
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Katharinenstraße"
 housenumber: 27

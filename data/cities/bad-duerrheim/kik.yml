@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.033711600000004
 longitude: 8.533326500000001
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Schwenninger Straße"
 housenumber: 28

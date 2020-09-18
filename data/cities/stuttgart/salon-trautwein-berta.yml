@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8048319
 longitude: 9.111367300000001
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Am Seelachwald"
 housenumber: 24

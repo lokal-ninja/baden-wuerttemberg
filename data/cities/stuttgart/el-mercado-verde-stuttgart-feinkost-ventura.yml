@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.774511800000006
 longitude: 9.174829500000001
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Königstraße"
 housenumber: 43A

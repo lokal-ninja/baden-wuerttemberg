@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.7965523
 longitude: 8.9207771
-postcode: 78256
+postcode: "78256"
 city: Steißlingen
 street: "Singener Straße"
 housenumber: 

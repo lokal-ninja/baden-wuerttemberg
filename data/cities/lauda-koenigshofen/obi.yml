@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.540572000000004
 longitude: 9.7373747
-postcode: 97922
+postcode: "97922"
 city: Lauda-Königshofen
 street: "Deubacher Straße"
 housenumber: 8

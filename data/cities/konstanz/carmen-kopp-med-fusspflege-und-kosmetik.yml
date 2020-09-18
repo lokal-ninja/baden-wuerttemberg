@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.6817733
 longitude: 9.2025039
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Mainaustraße"
 housenumber: 150

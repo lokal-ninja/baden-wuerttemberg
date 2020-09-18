@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.6219648
 longitude: 10.236699600000001
-postcode: 89537
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Herbrechtinger Straße"
 housenumber: 3

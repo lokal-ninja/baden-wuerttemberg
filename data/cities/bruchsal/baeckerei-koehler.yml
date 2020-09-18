@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.135937500000004
 longitude: 8.569550000000001
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Kammerforststraße"
 housenumber: 3

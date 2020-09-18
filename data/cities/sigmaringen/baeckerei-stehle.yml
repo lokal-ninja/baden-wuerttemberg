@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0908437
 longitude: 9.2340508
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Am Riedbaum"
 housenumber: 1

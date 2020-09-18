@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.139169300000006
 longitude: 9.211612800000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Badstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.376566100000005
 longitude: 8.5601766
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Hockenheimer Landstraße"
 housenumber: 6

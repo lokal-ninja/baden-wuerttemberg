@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.168083200000005
 longitude: 8.624193100000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Oberamteigasse"
 housenumber: 9

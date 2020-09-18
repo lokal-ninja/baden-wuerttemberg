@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.4864235
 longitude: 8.5318176
-postcode: 68259
+postcode: "68259"
 city: Mannheim
 street: "Hauptstraße"
 housenumber: 45

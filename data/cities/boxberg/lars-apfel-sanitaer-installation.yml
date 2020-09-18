@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.515046500000004
 longitude: 9.6918436
-postcode: 97944
+postcode: "97944"
 city: Boxberg
 street: "Mühlbergstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.8704267
 longitude: 8.6293904
-postcode: 75217
+postcode: "75217"
 city: Birkenfeld
 street: "Herrenalber Straße"
 housenumber: 17

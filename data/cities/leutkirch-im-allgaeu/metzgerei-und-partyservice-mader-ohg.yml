@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.852522300000004
 longitude: 10.0155264
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Mailand"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.7583928
 longitude: 8.7807932
-postcode: 75378
+postcode: "75378"
 city: Bad Liebenzell
 street: ""
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1253389
 longitude: 9.214165600000001
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Geibelstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.4795419
 longitude: 8.9482718
-postcode: 72108
+postcode: "72108"
 city: Rottenburg am Neckar
 street: "Graf-Bentzel-Straße"
 housenumber: 43

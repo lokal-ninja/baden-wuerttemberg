@@ -3,7 +3,7 @@ type: way
 shop: Tabak
 latitude: 49.278925300000004
 longitude: 9.6896395
-postcode: 74653
+postcode: "74653"
 city: Künzelsau
 street: "Hauptstraße"
 housenumber: 32

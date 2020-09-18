@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.664872100000004
 longitude: 7.9388787
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Rheinstraße"
 housenumber: 10

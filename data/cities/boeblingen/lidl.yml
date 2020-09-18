@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.689967100000004
 longitude: 9.0196292
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Stuttgarter Straße"
 housenumber: 68

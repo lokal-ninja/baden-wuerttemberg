@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.651006800000005
 longitude: 9.7840477
-postcode: 73333
+postcode: "73333"
 city: Gingen an der Fils
 street: "Immenreich"
 housenumber: 9

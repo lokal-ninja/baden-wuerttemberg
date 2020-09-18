@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.538965000000005
 longitude: 9.283381
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Reutlinger Straße"
 housenumber: 6

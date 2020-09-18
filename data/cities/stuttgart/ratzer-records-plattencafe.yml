@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.7645503
 longitude: 9.1692213
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Hauptstätter Straße"
 housenumber: 154

@@ -3,10 +3,10 @@ type: way
 shop: Metzgerei
 latitude: 49.5279116
 longitude: 9.7461765
-postcode: 97922
+postcode: "97922"
 city: Lauda-Königshofen
-street: ""
-housenumber: 
+street: "Bürgermeister-Kolb-Straße"
+housenumber: 19
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://unterbalbach.de/gewerbe/metzgerei/"

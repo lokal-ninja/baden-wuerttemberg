@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.202656000000005
 longitude: 8.638577600000001
-postcode: 76669
+postcode: "76669"
 city: Bad Schönborn
 street: "Kinzigring"
 housenumber: 2

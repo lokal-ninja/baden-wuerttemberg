@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.136208100000005
 longitude: 9.355904
-postcode: 74182
+postcode: "74182"
 city: Obersulm
 street: "Löwensteiner Straße"
 housenumber: 2

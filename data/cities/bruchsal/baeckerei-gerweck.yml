@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1239919
 longitude: 8.596611300000001
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "John-Bopp-Straße"
 housenumber: 10

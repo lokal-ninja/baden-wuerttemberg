@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.750878300000004
 longitude: 8.870914200000001
-postcode: 71263
+postcode: "71263"
 city: Weil der Stadt
 street: "Untere Klostergasse"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.204943400000005
 longitude: 9.5842889
-postcode: 74632
+postcode: "74632"
 city: Neuenstein
 street: "Schraderstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Boot
 latitude: 47.5881449
 longitude: 8.3068346
-postcode: 79790
+postcode: "79790"
 city: Küssaberg-Rheinheim
 street: "Hofäckerweg"
 housenumber: 

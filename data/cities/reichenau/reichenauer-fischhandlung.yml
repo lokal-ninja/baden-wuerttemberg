@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 47.690837900000005
 longitude: 9.080423300000001
-postcode: 78479
+postcode: "78479"
 city: Reichenau
 street: "Seestraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.704137
 longitude: 9.6539877
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Pfarrstraße"
 housenumber: 12

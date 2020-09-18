@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.535577700000005
 longitude: 8.5687195
-postcode: 72285
+postcode: "72285"
 city: Pfalzgrafenweiler
 street: "Porschestraße"
 housenumber: 11

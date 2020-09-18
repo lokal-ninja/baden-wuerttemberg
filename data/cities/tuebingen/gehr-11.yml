@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5318678
 longitude: 9.0788597
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Pfrondorfer Straße"
 housenumber: 2

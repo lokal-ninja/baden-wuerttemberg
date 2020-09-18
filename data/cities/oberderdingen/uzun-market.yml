@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.0627355
 longitude: 8.802174500000001
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Aschingerstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.827887100000005
 longitude: 9.1100893
-postcode: 70825
+postcode: "70825"
 city: Korntal-Münchingen
 street: "Motorstraße"
 housenumber: 16-18

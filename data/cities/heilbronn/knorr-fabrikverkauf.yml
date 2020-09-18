@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.131510500000005
 longitude: 9.2115814
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Liebigstraße"
 housenumber: 32

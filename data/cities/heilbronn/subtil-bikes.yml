@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.1395391
 longitude: 9.2275527
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Mönchseestraße"
 housenumber: 84

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.836323400000005
 longitude: 9.2035595
-postcode: 70437
+postcode: "70437"
 city: Stuttgart
 street: "Adalbert-Stifter-Straße"
 housenumber: 101

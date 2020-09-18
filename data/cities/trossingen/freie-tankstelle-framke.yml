@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.0755758
 longitude: 8.625489100000001
-postcode: 78647
+postcode: "78647"
 city: Trossingen
 street: "In Steppach"
 housenumber: 3

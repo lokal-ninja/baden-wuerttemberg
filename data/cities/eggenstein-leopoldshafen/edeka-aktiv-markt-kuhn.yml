@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.07081590000001
 longitude: 8.3938419
-postcode: 76344
+postcode: "76344"
 city: Eggenstein-Leopoldshafen
 street: "Hauptstraße"
 housenumber: 170

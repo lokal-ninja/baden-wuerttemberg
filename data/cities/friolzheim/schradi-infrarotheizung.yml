@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.835985900000004
 longitude: 8.8367099
-postcode: 71292
+postcode: "71292"
 city: Friolzheim
 street: "Mönsheimer Straße"
 housenumber: 3

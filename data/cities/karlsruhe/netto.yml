@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9950582
 longitude: 8.4654772
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Rommelstraße"
 housenumber: 5

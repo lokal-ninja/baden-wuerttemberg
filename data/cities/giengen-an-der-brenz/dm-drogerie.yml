@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.6168963
 longitude: 10.2513716
-postcode: 89537
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Riedstraße"
 housenumber: 40/3

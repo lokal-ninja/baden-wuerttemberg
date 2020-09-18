@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.736801500000006
 longitude: 8.970649100000001
-postcode: 78315
+postcode: "78315"
 city: Radolfzell am Bodensee
 street: "Bahnhofstraße"
 housenumber: 5

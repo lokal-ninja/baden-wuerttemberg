@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.2789598
 longitude: 9.6865964
-postcode: 74653
+postcode: "74653"
 city: Künzelsau
 street: "Oberamteistraße"
 housenumber: 16

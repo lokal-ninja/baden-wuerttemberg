@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.774936200000006
 longitude: 9.764630400000001
-postcode: 88267
+postcode: "88267"
 city: Vogt
 street: "Ravensburger Straße"
 housenumber: 15

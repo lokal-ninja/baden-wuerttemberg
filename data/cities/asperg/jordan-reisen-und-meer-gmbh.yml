@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.9071701
 longitude: 9.1455338
-postcode: 71679
+postcode: "71679"
 city: Asperg
 street: "Friedrichstraße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.784217000000005
 longitude: 10.1118454
-postcode: 73447
+postcode: "73447"
 city: Oberkochen
 street: "Kapellenweg"
 housenumber: 27

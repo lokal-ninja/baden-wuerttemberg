@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.016510600000004
 longitude: 9.5005758
-postcode: 88348
+postcode: "88348"
 city: Bad Saulgau
 street: "Hauptstraße"
 housenumber: 80

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.4648356
 longitude: 9.2262287
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Kirchstraße"
 housenumber: 16

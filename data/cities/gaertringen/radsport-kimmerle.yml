@@ -3,10 +3,10 @@ type: way
 shop: Fahrrad
 latitude: 48.6416534
 longitude: 8.906360600000001
-postcode: 71116
+postcode: "71116"
 city: Gärtringen
 street: "Arndtstraße"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-12:30;Mo-Tu,Th-Fr 15:00-17:30;Sa 09:00-13:00"
 website: "https://www.radsportkimmerle.de/"

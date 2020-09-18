@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.509903900000005
 longitude: 8.6319247
-postcode: 68542
+postcode: "68542"
 city: Heddesheim
 street: "Am Bundesbahnhof"
 housenumber: 3

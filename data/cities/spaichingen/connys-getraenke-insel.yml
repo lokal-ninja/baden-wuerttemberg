@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.0683371
 longitude: 8.7508127
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Obere Wiesen"
 housenumber: 7

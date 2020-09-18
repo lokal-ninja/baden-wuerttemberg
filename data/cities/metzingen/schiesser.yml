@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.535885400000005
 longitude: 9.2830656
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Mühlstraße"
 housenumber: 5

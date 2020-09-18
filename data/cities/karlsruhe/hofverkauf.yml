@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.9909058
 longitude: 8.4531983
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Ostmarkstraße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7244704
 longitude: 8.1092271
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Vimbucher Straße"
 housenumber: 75

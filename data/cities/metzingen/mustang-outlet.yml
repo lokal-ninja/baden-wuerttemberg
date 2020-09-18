@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.538688300000004
 longitude: 9.281708400000001
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Wilhelmstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.068811700000005
 longitude: 7.798852500000001
-postcode: 79232
+postcode: "79232"
 city: March
 street: "Benzhauser Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.0303021
 longitude: 8.5252291
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Dieselstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.5983645
 longitude: 8.1470421
-postcode: 79774
+postcode: "79774"
 city: Albbruck
 street: "Am Mühlebach"
 housenumber: 5

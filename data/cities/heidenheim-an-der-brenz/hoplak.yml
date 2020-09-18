@@ -3,7 +3,7 @@ type: way
 shop: Holz
 latitude: 48.681255
 longitude: 10.1319722
-postcode: 89518
+postcode: "89518"
 city: Heidenheim an der Brenz
 street: "Liststraße"
 housenumber: 45

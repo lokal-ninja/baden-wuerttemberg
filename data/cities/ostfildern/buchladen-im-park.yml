@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.719265500000006
 longitude: 9.271716300000001
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Niemöllerstraße"
 housenumber: 12

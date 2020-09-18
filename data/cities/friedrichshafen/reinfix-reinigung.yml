@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.654839800000005
 longitude: 9.481010900000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Charlottenstraße"
 housenumber: 56

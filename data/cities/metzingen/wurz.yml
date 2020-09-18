@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.539607100000005
 longitude: 9.2881935
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Schönbeinstraße"
 housenumber: 14

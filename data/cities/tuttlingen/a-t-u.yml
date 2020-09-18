@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.9941795
 longitude: 8.827463
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Ludwigstaler Straße"
 housenumber: 101

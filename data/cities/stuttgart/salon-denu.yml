@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.718285200000004
 longitude: 9.0909145
-postcode: 70565
+postcode: "70565"
 city: Stuttgart
 street: "Am Wildwechsel"
 housenumber: 24

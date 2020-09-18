@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.244667400000004
 longitude: 8.2131221
-postcode: 77793
+postcode: "77793"
 city: Gutach (Schwarzwaldbahn)
 street: "Hauptstraße"
 housenumber: 2

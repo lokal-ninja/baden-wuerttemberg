@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.405785
 longitude: 7.9993172
-postcode: 77791
+postcode: "77791"
 city: Berghaupten
 street: "Obere Gewerbestraße"
 housenumber: 3

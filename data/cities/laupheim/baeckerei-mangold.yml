@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.227755
 longitude: 9.8796762
-postcode: 88471
+postcode: "88471"
 city: Laupheim
 street: "Mittelstraße"
 housenumber: 41

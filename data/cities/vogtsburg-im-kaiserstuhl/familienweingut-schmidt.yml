@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.101205
 longitude: 7.6315312
-postcode: 79235
+postcode: "79235"
 city: Vogtsburg im Kaiserstuhl
 street: "Weinbergstraße"
 housenumber: 1

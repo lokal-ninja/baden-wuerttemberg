@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.750919
 longitude: 8.870617000000001
-postcode: 
+postcode: ""
 city: Weil der Stadt
 street: "Untere Klostergasse"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 48.122826100000005
 longitude: 7.843242
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Karl-Friedrich-Straße"
 housenumber: 53

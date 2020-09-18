@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.6780203
 longitude: 9.216071000000001
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Aicher Straße"
 housenumber: 4

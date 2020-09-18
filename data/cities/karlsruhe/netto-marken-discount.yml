@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0421896
 longitude: 8.4434916
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Elbinger Straße"
 housenumber: 16

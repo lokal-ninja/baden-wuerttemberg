@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.637737900000005
 longitude: 9.1305628
-postcode: 71111
+postcode: "71111"
 city: Waldenbuch
 street: "Auf dem Graben"
 housenumber: 35

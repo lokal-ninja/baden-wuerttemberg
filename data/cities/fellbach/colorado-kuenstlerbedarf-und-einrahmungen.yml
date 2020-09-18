@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.819190400000004
 longitude: 9.269594600000001
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Theodor-Heuss-Straße"
 housenumber: 77

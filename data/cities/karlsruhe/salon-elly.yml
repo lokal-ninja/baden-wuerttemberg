@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.010696700000004
 longitude: 8.4230952
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Georg-Friedrich-Straße"
 housenumber: 6

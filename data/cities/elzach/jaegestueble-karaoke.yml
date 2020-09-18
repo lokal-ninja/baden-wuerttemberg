@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.2132407
 longitude: 8.1389849
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Waldkircher Straße"
 housenumber: 12

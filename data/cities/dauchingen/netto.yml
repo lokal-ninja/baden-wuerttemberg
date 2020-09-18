@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.084178300000005
 longitude: 8.5447708
-postcode: 78083
+postcode: "78083"
 city: Dauchingen
 street: "Pfeilstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.659367
 longitude: 9.496811000000001
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Ravensburger Straße"
 housenumber: 3

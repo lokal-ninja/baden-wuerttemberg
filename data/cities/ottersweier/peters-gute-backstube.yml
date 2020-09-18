@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.673974
 longitude: 8.1158819
-postcode: 77833
+postcode: "77833"
 city: Ottersweier
 street: "Hägenichstraße"
 housenumber: 7

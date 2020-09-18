@@ -3,7 +3,7 @@ type: way
 shop: Tabak
 latitude: 49.4041822
 longitude: 8.6759927
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Willy-Brandt-Platz"
 housenumber: 5

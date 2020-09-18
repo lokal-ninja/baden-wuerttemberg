@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.896610800000005
 longitude: 8.705185400000001
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Hohenzollernstraße"
 housenumber: 37

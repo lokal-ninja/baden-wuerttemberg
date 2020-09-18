@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 48.5908348
 longitude: 9.234243900000001
-postcode: 72654
+postcode: "72654"
 city: Neckartenzlingen
 street: "Schulstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.8232263
 longitude: 10.016305800000001
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Wangener Straße"
 housenumber: 49

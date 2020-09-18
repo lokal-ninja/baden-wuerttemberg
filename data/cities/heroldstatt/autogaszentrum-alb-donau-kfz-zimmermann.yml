@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.445175600000006
 longitude: 9.6708285
-postcode: 72535
+postcode: "72535"
 city: Heroldstatt
 street: "Justinger Weg"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.7993359
 longitude: 8.437307
-postcode: 76332
+postcode: "76332"
 city: Bad Herrenalb
 street: "Kurpromenade"
 housenumber: 15

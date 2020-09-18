@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.536601000000005
 longitude: 8.569981
-postcode: 72285
+postcode: "72285"
 city: Pfalzgrafenweiler
 street: "Porschestraße"
 housenumber: 19

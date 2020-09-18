@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.8115995
 longitude: 9.384332800000001
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Daimlerstraße"
 housenumber: 4

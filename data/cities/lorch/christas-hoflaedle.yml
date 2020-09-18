@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.7962033
 longitude: 9.6890044
-postcode: 73547
+postcode: "73547"
 city: Lorch
 street: "Schießhausstraße"
 housenumber: 20

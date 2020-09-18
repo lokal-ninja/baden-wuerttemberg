@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.6714714
 longitude: 9.3771096
-postcode: 73240
+postcode: "73240"
 city: Wendlingen am Neckar
 street: "Albstraße"
 housenumber: 19

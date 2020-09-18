@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4104946
 longitude: 8.6935781
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Sofienstraße"
 housenumber: 7a

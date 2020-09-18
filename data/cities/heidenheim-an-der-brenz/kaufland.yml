@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6804575
 longitude: 10.1277039
-postcode: 89518
+postcode: "89518"
 city: Heidenheim an der Brenz
 street: "Wilhelmstraße"
 housenumber: 148

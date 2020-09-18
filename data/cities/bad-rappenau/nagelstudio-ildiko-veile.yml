@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.239121700000005
 longitude: 9.103589900000001
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Gartenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8866493
 longitude: 8.2435262
-postcode: 76470
+postcode: "76470"
 city: Ötigheim
 street: "Industriestraße"
 housenumber: 22a

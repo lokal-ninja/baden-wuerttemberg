@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.8062198
 longitude: 8.841097900000001
-postcode: 78224
+postcode: "78224"
 city: Singen
 street: "Volkertshauser Straße"
 housenumber: 6

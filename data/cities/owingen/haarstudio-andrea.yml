@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 47.8097482
 longitude: 9.17369
-postcode: 88696
+postcode: "88696"
 city: Owingen
 street: "Hauptstraße"
 housenumber: 43

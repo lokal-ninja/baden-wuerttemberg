@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6241907
 longitude: 8.7165347
-postcode: 72218
+postcode: "72218"
 city: Wildberg
 street: "Hauptstraße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.0068357
 longitude: 8.6152013
-postcode: 75045
+postcode: "75045"
 city: Walzbachtal
 street: "Schloßstraße"
 housenumber: 61

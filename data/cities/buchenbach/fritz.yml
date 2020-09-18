@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.9613091
 longitude: 8.007529100000001
-postcode: 79256
+postcode: "79256"
 city: Buchenbach
 street: "Hauptstraße"
 housenumber: 12

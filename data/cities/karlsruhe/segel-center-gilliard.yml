@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.995823200000004
 longitude: 8.345289900000001
-postcode: 76189
+postcode: "76189"
 city: Karlsruhe
 street: "Durmersheimer Straße"
 housenumber: 151

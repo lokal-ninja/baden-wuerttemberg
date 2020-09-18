@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 48.6416089
 longitude: 9.471021200000001
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Sudetenstraße"
 housenumber: 25
 phone: "+49 7021 7256072"
 opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://gtue-kirchheim.de"
+website: "https://gtü-kfz-prüfservice.de"

@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.0219645
 longitude: 8.5987259
-postcode: 78609
+postcode: "78609"
 city: Tuningen
 street: "Kreuzstraße"
 housenumber: 22

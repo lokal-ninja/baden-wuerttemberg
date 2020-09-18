@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.077266200000004
 longitude: 8.8454694
-postcode: 75057
+postcode: "75057"
 city: Kürnbach
 street: "Lammstraße"
 housenumber: 6

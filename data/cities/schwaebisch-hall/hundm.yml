@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.112915300000004
 longitude: 9.7343772
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Neue Straße"
 housenumber: 25

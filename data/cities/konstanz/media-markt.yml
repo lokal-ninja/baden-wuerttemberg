@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.6718661
 longitude: 9.1694821
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Schneckenburgstraße"
 housenumber: 2

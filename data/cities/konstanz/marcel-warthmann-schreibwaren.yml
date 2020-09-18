@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.6838544
 longitude: 9.156831200000001
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Fürstenbergstraße"
 housenumber: 82

@@ -3,10 +3,10 @@ type: node
 shop: Reisebüro
 latitude: 48.0592606
 longitude: 8.463051
-postcode: 
+postcode: "78050"
 city: Villingen-Schwenningen
-street: ""
-housenumber: 
+street: "Kaiserring"
+housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-17:30; Sa 09:30-12:30"
 website: ""

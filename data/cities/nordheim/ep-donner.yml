@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.108059700000005
 longitude: 9.1307068
-postcode: 74226
+postcode: "74226"
 city: Nordheim
 street: "Hauptstraße"
 housenumber: 45

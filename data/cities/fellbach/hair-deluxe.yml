@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8036146
 longitude: 9.2750087
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Hintere Straße"
 housenumber: 76

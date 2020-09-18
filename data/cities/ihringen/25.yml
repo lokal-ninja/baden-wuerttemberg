@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.0512802
 longitude: 7.680985700000001
-postcode: 79241
+postcode: "79241"
 city: Ihringen
 street: "Hauptstraße"
 housenumber: 25

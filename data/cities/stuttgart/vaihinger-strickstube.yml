@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.7250462
 longitude: 9.101434300000001
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Krehlstraße"
 housenumber: 53

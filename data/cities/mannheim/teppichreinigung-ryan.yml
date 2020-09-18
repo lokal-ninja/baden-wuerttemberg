@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.4889767
 longitude: 8.470858400000001
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 1

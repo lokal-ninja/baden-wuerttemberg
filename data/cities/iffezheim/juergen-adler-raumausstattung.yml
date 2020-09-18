@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.821519800000004
 longitude: 8.145895300000001
-postcode: 76473
+postcode: "76473"
 city: Iffezheim
 street: "Hauptstraße"
 housenumber: 19

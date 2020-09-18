@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.762182900000006
 longitude: 8.241637500000001
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Gernsbacher Straße"
 housenumber: 13

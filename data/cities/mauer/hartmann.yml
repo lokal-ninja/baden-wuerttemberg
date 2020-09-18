@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 49.333608100000006
 longitude: 8.8000149
-postcode: 69256
+postcode: "69256"
 city: Mauer
 street: "Ziegeleistraße"
 housenumber: 16

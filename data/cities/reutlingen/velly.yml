@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4935576
 longitude: 9.2096107
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Nikolaiplatz"
 housenumber: 3

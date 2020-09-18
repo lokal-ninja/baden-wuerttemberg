@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1401612
 longitude: 8.5619443
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Am Mantel"
 housenumber: 9

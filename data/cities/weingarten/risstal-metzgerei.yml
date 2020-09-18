@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.8081443
 longitude: 9.631330400000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Immergrünweg"
 housenumber: 46

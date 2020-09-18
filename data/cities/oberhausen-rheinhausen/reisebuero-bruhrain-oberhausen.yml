@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.2606576
 longitude: 8.4829097
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Adlerstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.3676923
 longitude: 8.638630800000001
-postcode: 72172
+postcode: "72172"
 city: Sulz am Neckar
 street: "Bahnhofstraße"
 housenumber: 53

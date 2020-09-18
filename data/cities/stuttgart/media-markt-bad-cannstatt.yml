@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.801880800000006
 longitude: 9.220261
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Daimlerstraße"
 housenumber: 69

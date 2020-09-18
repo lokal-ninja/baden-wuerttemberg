@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.0064429
 longitude: 7.8477448
-postcode: 79106
+postcode: "79106"
 city: Freiburg im Breisgau
 street: "Emmendinger Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.7846327
 longitude: 9.206406000000001
-postcode: 70188
+postcode: "70188"
 city: Stuttgart
 street: "Florianstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.993293400000006
 longitude: 7.8539517000000005
-postcode: 79098
+postcode: "79098"
 city: Freiburg im Breisgau
 street: "Oberlinden"
 housenumber: 16

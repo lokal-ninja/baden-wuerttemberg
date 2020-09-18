@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5482256
 longitude: 8.7259423
-postcode: 72202
+postcode: "72202"
 city: Nagold
 street: "Grafenwiesenstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Gartenmöbel
 latitude: 48.6398651
 longitude: 10.1545787
-postcode: 89542
+postcode: "89542"
 city: Bolheim
 street: "Heidenheimer Straße"
 housenumber: 80

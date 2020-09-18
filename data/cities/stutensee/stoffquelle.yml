@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.107262000000006
 longitude: 8.4803966
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Rheinstraße Ost"
 housenumber: 3

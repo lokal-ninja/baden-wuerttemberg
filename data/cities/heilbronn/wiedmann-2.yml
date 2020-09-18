@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1356266
 longitude: 9.212858
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Schoettlestraße"
 housenumber: 2

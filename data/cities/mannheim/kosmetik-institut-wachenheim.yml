@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.4861559
 longitude: 8.471154700000001
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 

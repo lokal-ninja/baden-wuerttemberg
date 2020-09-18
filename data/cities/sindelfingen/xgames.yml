@@ -3,7 +3,7 @@ type: node
 shop: Videospiele
 latitude: 48.707069700000005
 longitude: 8.9983082
-postcode: 71063
+postcode: "71063"
 city: Sindelfingen
 street: "Wettbachstraße"
 housenumber: 29

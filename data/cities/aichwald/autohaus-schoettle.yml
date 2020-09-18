@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7586412
 longitude: 9.3734716
-postcode: 73773
+postcode: "73773"
 city: Aichwald
 street: "Hauptstraße"
 housenumber: 53

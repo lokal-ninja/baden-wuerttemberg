@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.49041080000001
 longitude: 8.471924600000001
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 

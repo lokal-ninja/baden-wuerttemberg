@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.1471144
 longitude: 9.1943455
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "August-Mogler-Straße"
 housenumber: 6

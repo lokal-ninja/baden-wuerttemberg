@@ -3,10 +3,10 @@ type: node
 shop: Hörgeräte
 latitude: 48.7390656
 longitude: 9.3046437
-postcode: 73728
+postcode: "73728"
 city: Esslingen am Neckar
 street: "Pliensaustraße"
 housenumber: 32
 phone: "+49 711 94541758"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa off; Su off"
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa off; Su off; PH off"
 website: "http://www.geers.de/fachgeschaefte/geers-esslingen-pliensaustrasse-32"

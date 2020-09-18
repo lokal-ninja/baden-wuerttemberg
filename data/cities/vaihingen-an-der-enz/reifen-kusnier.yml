@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.92825920000001
 longitude: 8.9706109
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Einsteinstraße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.817910600000005
 longitude: 8.335214
-postcode: 79848
+postcode: "79848"
 city: Bonndorf im Schwarzwald
 street: "Lenzkircher Straße"
 housenumber: 4

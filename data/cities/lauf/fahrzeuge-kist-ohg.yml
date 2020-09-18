@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.6510946
 longitude: 8.1298607
-postcode: 77886
+postcode: "77886"
 city: Lauf
 street: "Hauptstraße"
 housenumber: 38

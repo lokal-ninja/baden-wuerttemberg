@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.814978200000006
 longitude: 9.1601941
-postcode: 70469
+postcode: "70469"
 city: Stuttgart
 street: "Leobener Straße"
 housenumber: 78

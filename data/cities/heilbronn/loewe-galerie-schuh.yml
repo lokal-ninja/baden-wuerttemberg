@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.139195
 longitude: 9.217533900000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Götzenturmstraße"
 housenumber: 37

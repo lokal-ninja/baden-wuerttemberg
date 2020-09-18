@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7136324
 longitude: 9.412778000000001
-postcode: 
+postcode: ""
 city: Plochingen
 street: "Hermannstraße"
 housenumber: 5

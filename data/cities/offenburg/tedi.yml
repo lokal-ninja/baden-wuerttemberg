@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.4694294
 longitude: 7.9418939
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Am Marktplatz"
 housenumber: 5

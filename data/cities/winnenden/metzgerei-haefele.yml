@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.8759256
 longitude: 9.4035119
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Wiesenstraße"
 housenumber: 28

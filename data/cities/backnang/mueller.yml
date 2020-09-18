@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9473216
 longitude: 9.428824
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Grabenstraße"
 housenumber: 15

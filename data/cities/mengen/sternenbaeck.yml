@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0488007
 longitude: 9.329294200000001
-postcode: 88512
+postcode: "88512"
 city: Mengen
 street: "Hauptstraße"
 housenumber: 86

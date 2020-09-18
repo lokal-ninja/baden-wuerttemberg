@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.4908471
 longitude: 9.4004764
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Beim Tiergarten"
 housenumber: 3

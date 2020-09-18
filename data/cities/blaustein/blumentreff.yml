@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.415240700000005
 longitude: 9.9201063
-postcode: 89134
+postcode: "89134"
 city: Blaustein
 street: "Hummelstraße"
 housenumber: 6

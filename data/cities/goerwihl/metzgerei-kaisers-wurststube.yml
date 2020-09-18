@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.6589316
 longitude: 8.0226324
-postcode: 79733
+postcode: "79733"
 city: Görwihl
 street: "Segeten"
 housenumber: 88

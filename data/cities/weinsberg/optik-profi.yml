@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.1490875
 longitude: 9.2872708
-postcode: 74189
+postcode: "74189"
 city: Weinsberg
 street: "Kernerstraße"
 housenumber: 21

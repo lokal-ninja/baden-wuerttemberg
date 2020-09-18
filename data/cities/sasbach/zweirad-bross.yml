@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.636534700000006
 longitude: 8.0894487
-postcode: 77880
+postcode: "77880"
 city: Sasbach
 street: "Hauptstraße"
 housenumber: 32

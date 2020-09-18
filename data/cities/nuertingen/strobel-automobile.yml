@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.6282994
 longitude: 9.381309100000001
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Reuderner Straße"
 housenumber: 24

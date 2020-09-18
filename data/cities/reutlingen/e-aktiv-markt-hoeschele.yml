@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.527951800000004
 longitude: 9.2054091
-postcode: 72768
+postcode: "72768"
 city: Reutlingen
 street: "In Bühlen"
 housenumber: 8

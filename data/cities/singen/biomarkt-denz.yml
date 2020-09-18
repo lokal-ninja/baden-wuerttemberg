@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.758921
 longitude: 8.8389042
-postcode: 78224
+postcode: "78224"
 city: Singen
 street: "Erzbergerstraße"
 housenumber: 1

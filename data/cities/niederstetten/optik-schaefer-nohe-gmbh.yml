@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.4010036
 longitude: 9.918814900000001
-postcode: 97996
+postcode: "97996"
 city: Niederstetten
 street: "Marktplatz"
 housenumber: 2

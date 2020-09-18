@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.0369989
 longitude: 8.7076238
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Marktplatz"
 housenumber: 7

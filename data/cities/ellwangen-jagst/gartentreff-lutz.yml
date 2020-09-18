@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.970968400000004
 longitude: 10.1206867
-postcode: 73479
+postcode: "73479"
 city: Ellwangen (Jagst)
 street: "Haller Straße"
 housenumber: 71

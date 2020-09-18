@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 49.3821176
 longitude: 8.5750768
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Friedrichstraße"
 housenumber: 44

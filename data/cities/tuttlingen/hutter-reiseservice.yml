@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.979926500000005
 longitude: 8.8190255
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Stockacher Straße"
 housenumber: 24

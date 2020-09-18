@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.6771356
 longitude: 10.1525019
-postcode: 89522
+postcode: "89522"
 city: Heidenheim an der Brenz
 street: "Grabenstraße"
 housenumber: 10

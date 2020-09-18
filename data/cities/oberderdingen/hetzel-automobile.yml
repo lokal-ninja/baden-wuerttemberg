@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.0687082
 longitude: 8.8039992
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Bachstraße"
 housenumber: 18

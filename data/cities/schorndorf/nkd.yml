@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.806721800000005
 longitude: 9.527888
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Karlsplatz"
 housenumber: 4

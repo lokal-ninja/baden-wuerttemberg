@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.407572
 longitude: 7.9977457
-postcode: 77791
+postcode: "77791"
 city: Berghaupten
 street: "Im Fruchtfeld"
 housenumber: 16

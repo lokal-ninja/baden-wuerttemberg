@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.9053236
 longitude: 9.0816786
-postcode: 71706
+postcode: "71706"
 city: Markgröningen
 street: "Ostergasse"
 housenumber: 11

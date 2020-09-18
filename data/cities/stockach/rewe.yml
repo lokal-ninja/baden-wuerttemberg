@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8497536
 longitude: 9.0140247
-postcode: 78333
+postcode: "78333"
 city: Stockach
 street: "Dillstraße"
 housenumber: 2

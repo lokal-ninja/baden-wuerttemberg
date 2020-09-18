@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.7852298
 longitude: 9.798760000000001
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Einhornstraße"
 housenumber: 104

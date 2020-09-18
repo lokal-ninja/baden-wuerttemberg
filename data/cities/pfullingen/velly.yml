@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4668709
 longitude: 9.2260158
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Lindenplatz"
 housenumber: 14

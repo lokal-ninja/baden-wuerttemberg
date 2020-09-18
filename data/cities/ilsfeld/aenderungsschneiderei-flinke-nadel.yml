@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 49.0574329
 longitude: 9.2384842
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
 street: "An der Lehmgrube"
 housenumber: 3

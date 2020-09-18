@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.669488
 longitude: 9.162856300000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Bärenhofstraße"
 housenumber: 8/2

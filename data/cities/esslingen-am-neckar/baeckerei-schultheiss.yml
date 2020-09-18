@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.743149200000005
 longitude: 9.341005200000001
-postcode: 73732
+postcode: "73732"
 city: Esslingen am Neckar
 street: "Oberesslinger Straße"
 housenumber: 1

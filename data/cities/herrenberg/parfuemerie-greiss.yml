@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 48.5959629
 longitude: 8.8696219
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Bronngasse"
-housenumber: 5-3
+housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-14:00"
 website: "https://www.parfuemerie-greiss.de"

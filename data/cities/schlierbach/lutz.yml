@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.6729445
 longitude: 9.513485900000001
-postcode: 73278
+postcode: "73278"
 city: Schlierbach
 street: "Hauptstraße"
 housenumber: 46

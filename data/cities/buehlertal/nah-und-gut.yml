@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.695780400000004
 longitude: 8.1728121
-postcode: 77830
+postcode: "77830"
 city: Bühlertal
 street: "Hauptstraße"
 housenumber: 4a

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.239709500000004
 longitude: 9.099434500000001
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Babstadter Straße"
 housenumber: 21

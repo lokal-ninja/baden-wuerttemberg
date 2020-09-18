@@ -3,7 +3,7 @@ type: way
 shop: Gardinen
 latitude: 48.637945800000004
 longitude: 9.3417645
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Walter-Rauch-Straße"
 housenumber: 8

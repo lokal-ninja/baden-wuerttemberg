@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.942872300000005
 longitude: 9.340801200000001
-postcode: 71737
+postcode: "71737"
 city: Kirchberg an der Murr
 street: "Magengasse"
 housenumber: 2

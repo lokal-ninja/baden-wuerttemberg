@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 48.948014400000005
 longitude: 8.835024500000001
-postcode: 75417
+postcode: "75417"
 city: Mühlacker
 street: "Pforzheimer Straße"
 housenumber: 55

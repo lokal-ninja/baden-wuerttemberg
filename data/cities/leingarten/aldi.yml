@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1485032
 longitude: 9.119132800000001
-postcode: 74211
+postcode: "74211"
 city: Leingarten
 street: "Dieselstraße"
 housenumber: 3

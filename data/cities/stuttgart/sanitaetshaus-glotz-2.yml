@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.8316742
 longitude: 9.1748387
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Ludwigsburger Straße"
 housenumber: 126

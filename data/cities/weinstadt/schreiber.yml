@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.804034
 longitude: 9.388226300000001
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Buhlstraße"
 housenumber: 38

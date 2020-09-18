@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 49.4123529
 longitude: 8.710013
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Marktplatz"
 housenumber: 3

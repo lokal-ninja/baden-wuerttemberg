@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.806042600000005
 longitude: 9.5247729
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Rosenstraße"
 housenumber: 25

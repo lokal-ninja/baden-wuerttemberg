@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.475393000000004
 longitude: 7.930356300000001
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Heinrich-Hertz-Straße"
 housenumber: 18

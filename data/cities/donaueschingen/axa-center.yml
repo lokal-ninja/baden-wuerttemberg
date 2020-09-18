@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.949907100000004
 longitude: 8.4949093
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Käferstraße"
 housenumber: 39

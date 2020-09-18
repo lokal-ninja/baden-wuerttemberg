@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.9992412
 longitude: 8.4687602
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 61

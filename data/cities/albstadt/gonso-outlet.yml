@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.2788176
 longitude: 8.999517500000001
-postcode: 72461
+postcode: "72461"
 city: Albstadt
 street: "Hauptstraße"
 housenumber: 70

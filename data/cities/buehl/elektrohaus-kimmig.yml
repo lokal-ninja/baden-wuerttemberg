@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.6981131
 longitude: 8.136401900000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Rheinstraße"
 housenumber: 5

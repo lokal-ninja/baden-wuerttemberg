@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.4718042
 longitude: 7.943288900000001
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Hauptstraße"
 housenumber: 33

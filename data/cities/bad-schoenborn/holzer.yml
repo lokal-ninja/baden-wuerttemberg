@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.219071
 longitude: 8.6521758
-postcode: 76669
+postcode: "76669"
 city: Bad Schönborn
 street: "Bahnhofstraße"
 housenumber: 38

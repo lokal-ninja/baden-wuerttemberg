@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.4621228
 longitude: 8.493963800000001
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Voltastraße"
 housenumber: 28

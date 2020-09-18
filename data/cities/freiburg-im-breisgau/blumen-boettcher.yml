@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.9824058
 longitude: 7.8894801
-postcode: 79117
+postcode: "79117"
 city: Freiburg im Breisgau
 street: "Kunzenweg"
 housenumber: 1

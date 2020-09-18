@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.0483959
 longitude: 7.803145400000001
-postcode: 79108
+postcode: "79108"
 city: Freiburg im Breisgau
 street: "Bachwinkel"
 housenumber: 6a

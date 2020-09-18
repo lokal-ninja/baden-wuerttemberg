@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.6828778
 longitude: 8.1914654
-postcode: 77830
+postcode: "77830"
 city: Bühlertal
 street: "Hauptstraße"
 housenumber: 134

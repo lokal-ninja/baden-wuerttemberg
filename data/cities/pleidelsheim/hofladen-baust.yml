@@ -3,10 +3,10 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.963693000000006
 longitude: 9.209257000000001
-postcode: 74385
+postcode: "74385"
 city: Pleidelsheim
 street: "Ludwig-Uhland-Straße"
 housenumber: 15
 phone: ""
-opening_hours: ""
+opening_hours: "Tu,Th,Fr 08:00-18:00; Sa 08:00-13:00"
 website: ""

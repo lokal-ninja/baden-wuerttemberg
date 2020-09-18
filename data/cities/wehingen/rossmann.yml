@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.1438545
 longitude: 8.7858438
-postcode: 78564
+postcode: "78564"
 city: Wehingen
 street: "Gosheimer Straße"
 housenumber: 64

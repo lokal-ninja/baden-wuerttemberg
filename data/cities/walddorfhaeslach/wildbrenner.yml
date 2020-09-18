@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.5868497
 longitude: 9.188178500000001
-postcode: 72141
+postcode: "72141"
 city: Walddorfhäslach
 street: "Heerstraße"
 housenumber: 31

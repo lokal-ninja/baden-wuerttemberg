@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 49.448560500000006
 longitude: 8.5033103
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Casterfeldstraße"
 housenumber: 64

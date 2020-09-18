@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.083267000000006
 longitude: 8.486300100000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: ""
 housenumber: 1

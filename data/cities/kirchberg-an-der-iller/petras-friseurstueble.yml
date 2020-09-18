@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1295463
 longitude: 10.0819784
-postcode: 88486
+postcode: "88486"
 city: Kirchberg an der Iller
 street: "Buchenstraße"
 housenumber: 4

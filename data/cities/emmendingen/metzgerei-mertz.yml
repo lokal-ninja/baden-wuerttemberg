@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.1245434
 longitude: 7.843854400000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Mundinger Straße"
 housenumber: 16

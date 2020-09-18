@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.5904715
 longitude: 8.1184083
-postcode: 77876
+postcode: "77876"
 city: Kappelrodeck
 street: "Hauptstraße"
 housenumber: 101

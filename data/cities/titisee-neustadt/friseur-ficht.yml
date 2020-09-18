@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9196207
 longitude: 8.2088078
-postcode: 79822
+postcode: "79822"
 city: Titisee-Neustadt
 street: "Hebelstraße"
 housenumber: 6

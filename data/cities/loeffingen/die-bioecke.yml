@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.8836358
 longitude: 8.3443129
-postcode: 79843
+postcode: "79843"
 city: Löffingen
 street: "Rathausplatz"
 housenumber: 8

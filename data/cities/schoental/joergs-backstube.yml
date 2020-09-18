@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.3423329
 longitude: 9.560745800000001
-postcode: 74214
+postcode: "74214"
 city: Schöntal
 street: "Linde"
 housenumber: 4

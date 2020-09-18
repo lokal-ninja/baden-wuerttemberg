@@ -3,7 +3,7 @@ type: way
 shop: Rahmen
 latitude: 48.3446149
 longitude: 8.225916
-postcode: 77709
+postcode: "77709"
 city: Oberwolfach
 street: "Schwarzwaldstraße"
 housenumber: 1

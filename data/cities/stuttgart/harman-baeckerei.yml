@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.8037803
 longitude: 9.2154232
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Marktstraße"
 housenumber: 15A

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0352869
 longitude: 8.713764000000001
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Weißhofer Straße"
 housenumber: 65-67

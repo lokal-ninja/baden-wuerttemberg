@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.777236200000004
 longitude: 9.6188617
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Wangener Straße"
 housenumber: 17

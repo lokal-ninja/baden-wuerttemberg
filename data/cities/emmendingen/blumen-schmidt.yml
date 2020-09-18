@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.0993799
 longitude: 7.885436200000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Hauptstraße"
 housenumber: 13

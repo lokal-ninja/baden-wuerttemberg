@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7895345
 longitude: 9.0168531
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Berliner Straße"
 housenumber: 56

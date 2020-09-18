@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.402134100000005
 longitude: 8.6649156
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Pfaffengrunder Terrasse"
 housenumber: 6

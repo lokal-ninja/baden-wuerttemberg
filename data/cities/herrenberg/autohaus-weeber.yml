@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.603021000000005
 longitude: 8.8711477
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Daimlerstraße"
 housenumber: 32

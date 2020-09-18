@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4755563
 longitude: 9.2270316
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Max-Eyth-Straße"
 housenumber: 22

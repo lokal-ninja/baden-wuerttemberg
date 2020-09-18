@@ -3,7 +3,7 @@ type: node
 shop: Staubsauger
 latitude: 48.469112
 longitude: 7.9440407
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Steinstraße"
 housenumber: 4

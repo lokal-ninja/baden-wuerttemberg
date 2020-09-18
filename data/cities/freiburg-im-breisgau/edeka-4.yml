@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.006800600000005
 longitude: 7.863790600000001
-postcode: 79104
+postcode: "79104"
 city: Freiburg im Breisgau
 street: "Hauptstraße"
 housenumber: 68

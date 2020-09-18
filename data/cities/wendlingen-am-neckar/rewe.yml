@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6759579
 longitude: 9.3765921
-postcode: 73240
+postcode: "73240"
 city: Wendlingen am Neckar
 street: "Bahnhofstraße"
 housenumber: 76

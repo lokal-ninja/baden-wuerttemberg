@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.7880891
 longitude: 9.752803400000001
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Alexander-von-Humboldt-Straße"
 housenumber: 17

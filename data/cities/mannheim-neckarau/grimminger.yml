@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4492391
 longitude: 8.494595200000001
-postcode: 68199
+postcode: "68199"
 city: Mannheim-Neckarau
 street: "Belfortstraße"
 housenumber: 36

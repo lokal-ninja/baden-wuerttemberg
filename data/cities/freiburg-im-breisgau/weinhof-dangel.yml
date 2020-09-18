@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.024390800000006
 longitude: 7.718815
-postcode: 79112
+postcode: "79112"
 city: Freiburg im Breisgau
 street: "Benleweg"
 housenumber: 2

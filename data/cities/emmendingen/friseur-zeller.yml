@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.121103000000005
 longitude: 7.8499984000000005
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Theodor-Ludwig-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 48.151039700000005
 longitude: 8.6406539
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Tuttlinger Straße"
 housenumber: 63

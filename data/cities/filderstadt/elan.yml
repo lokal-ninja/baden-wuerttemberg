@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.684002400000004
 longitude: 9.2182226
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Plieninger Straße"
 housenumber: 91

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.0115482
 longitude: 8.395398400000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Karlstraße"
 housenumber: 3-5

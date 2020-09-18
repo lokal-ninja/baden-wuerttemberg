@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.5939525
 longitude: 8.3608867
-postcode: 79790
+postcode: "79790"
 city: Küssaberg
 street: "Lindenhof"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.0623444
 longitude: 8.802738900000001
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Sternenfelser Straße"
 housenumber: 5

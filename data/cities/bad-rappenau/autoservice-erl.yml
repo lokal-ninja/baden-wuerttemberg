@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.225350000000006
 longitude: 8.991526200000001
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Mühlstraße"
 housenumber: 11

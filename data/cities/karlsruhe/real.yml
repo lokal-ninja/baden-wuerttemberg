@@ -1,12 +1,12 @@
-id: 23528417
-type: way
+id: 7379979241
+type: node
 shop: Supermarkt
-latitude: 48.9909509
-longitude: 8.376185300000001
-postcode: 76135
+latitude: 48.9913766
+longitude: 8.375943000000001
+postcode: "76135"
 city: Karlsruhe
 street: "Ortenbergstraße"
 housenumber: 8
 phone: "+49 721 986690"
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.real.de/"
+website: "https://www.real.de/markt/karlsruhe-bulach/"

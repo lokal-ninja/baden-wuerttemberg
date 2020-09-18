@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.947501800000005
 longitude: 8.3821654
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Hertzstraße"
 housenumber: 2

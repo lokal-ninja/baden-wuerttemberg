@@ -3,10 +3,10 @@ type: node
 shop: Elektrisch
 latitude: 48.3207682
 longitude: 10.016343800000001
-postcode: 89171
+postcode: "89171"
 city: Illerkirchberg
 street: "St.-Ida-Straße"
 housenumber: 8
-phone: "0 73 46 / 85 85"
+phone: "+49 7346 8585"
 opening_hours: ""
 website: ""

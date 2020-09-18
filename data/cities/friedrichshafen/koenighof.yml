@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.665189000000005
 longitude: 9.432186100000001
-postcode: 88048
+postcode: "88048"
 city: Friedrichshafen
 street: "Schnetzenhauser Straße"
 housenumber: 13

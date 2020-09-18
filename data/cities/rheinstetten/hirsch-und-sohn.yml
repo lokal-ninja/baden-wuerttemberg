@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 48.982267900000004
 longitude: 8.3258606
-postcode: 76287
+postcode: "76287"
 city: Rheinstetten
 street: "Großklamm"
 housenumber: 2

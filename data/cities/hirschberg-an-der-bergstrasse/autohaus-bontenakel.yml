@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.5106222
 longitude: 8.6552985
-postcode: 69493
+postcode: "69493"
 city: Hirschberg an der Bergstraße
 street: "Landstraße"
 housenumber: 1

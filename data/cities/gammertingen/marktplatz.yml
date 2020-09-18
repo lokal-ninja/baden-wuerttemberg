@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2729775
 longitude: 9.210205100000001
-postcode: 72501
+postcode: "72501"
 city: Gammertingen
 street: "Burghaldenstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.9987191
 longitude: 8.471641
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Amthausstraße"
 housenumber: 7

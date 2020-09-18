@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.669607600000006
 longitude: 9.491558900000001
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Äußere Ailinger Straße"
 housenumber: 20

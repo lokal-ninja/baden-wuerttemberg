@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.787349400000004
 longitude: 8.647318
-postcode: 75328
+postcode: "75328"
 city: Schömberg
 street: "Liebenzeller Straße"
 housenumber: 8

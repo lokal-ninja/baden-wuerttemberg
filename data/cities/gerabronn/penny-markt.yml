@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2466905
 longitude: 9.9213132
-postcode: 74582
+postcode: "74582"
 city: Gerabronn
 street: "Narzissenweg"
 housenumber: 4

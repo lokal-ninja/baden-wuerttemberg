@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0409978
 longitude: 8.6778356
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Schwandorfstraße"
 housenumber: 55

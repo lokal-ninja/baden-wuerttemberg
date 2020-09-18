@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.644491300000006
 longitude: 7.8043098
-postcode: 79650
+postcode: "79650"
 city: Schopfheim
 street: "Lusweg"
 housenumber: 4

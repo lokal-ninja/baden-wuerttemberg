@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9283866
 longitude: 8.568148
-postcode: 75196
+postcode: "75196"
 city: Remchingen
 street: "Karlsbader Straße"
 housenumber: 62

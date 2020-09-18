@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 48.7459329
 longitude: 9.210331700000001
-postcode: 70619
+postcode: "70619"
 city: Stuttgart
 street: "Kirchheimer Straße"
 housenumber: 36

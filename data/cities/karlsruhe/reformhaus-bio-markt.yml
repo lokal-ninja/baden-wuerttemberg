@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.009433
 longitude: 8.4234214
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Ludwig-Wilhelm-Straße"
 housenumber: 20

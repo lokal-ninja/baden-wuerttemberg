@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.8097817
 longitude: 8.8601278
-postcode: 71296
+postcode: "71296"
 city: Heimsheim
 street: "Mönsheimer Straße"
 housenumber: 63

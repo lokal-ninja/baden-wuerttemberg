@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.7293523
 longitude: 9.251536900000001
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Kirchheimer Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.582631500000005
 longitude: 9.3688895
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: "Hauptstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 48.807244600000004
 longitude: 9.277302
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Cannstatter Straße"
 housenumber: 10

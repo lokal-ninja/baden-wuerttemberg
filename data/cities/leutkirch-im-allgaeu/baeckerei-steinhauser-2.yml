@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.8449849
 longitude: 9.9456944
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Achtalstraße"
 housenumber: 11

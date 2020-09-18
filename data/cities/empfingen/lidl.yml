@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.388145900000005
 longitude: 8.7257209
-postcode: 72186
+postcode: "72186"
 city: Empfingen
 street: "Robert-Bosch-Straße"
 housenumber: 27

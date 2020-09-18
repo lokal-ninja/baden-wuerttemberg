@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 47.9579242
 longitude: 8.488731900000001
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Hagelrainstraße"
 housenumber: 6

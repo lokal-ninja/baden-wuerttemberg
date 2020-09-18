@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.196827400000004
 longitude: 8.864118600000001
-postcode: 74889
+postcode: "74889"
 city: Sinsheim
 street: "Marktstraße"
 housenumber: 38

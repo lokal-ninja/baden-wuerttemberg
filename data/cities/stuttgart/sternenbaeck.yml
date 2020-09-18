@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.820168800000005
 longitude: 9.2181806
-postcode: 70376
+postcode: "70376"
 city: Stuttgart
 street: "Nagoldstraße"
 housenumber: 53-55

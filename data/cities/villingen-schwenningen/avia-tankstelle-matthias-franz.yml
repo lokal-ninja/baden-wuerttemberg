@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.0714161
 longitude: 8.446639900000001
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Berliner Straße"
 housenumber: 21

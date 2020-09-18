@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5527403
 longitude: 8.966111100000001
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Tübinger Straße"
 housenumber: 22

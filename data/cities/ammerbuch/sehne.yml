@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5572901
 longitude: 8.9609786
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Bei der Schießmauer"
 housenumber: 3

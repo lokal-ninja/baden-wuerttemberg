@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.421820100000005
 longitude: 8.533368600000001
-postcode: 68219
+postcode: "68219"
 city: Mannheim-Rheinau
 street: "Edinger Riedweg"
 housenumber: 8, 10, 12

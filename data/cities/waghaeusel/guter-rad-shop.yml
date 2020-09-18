@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.22124710000001
 longitude: 8.5213253
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Oberer Hagweg"
 housenumber: 16

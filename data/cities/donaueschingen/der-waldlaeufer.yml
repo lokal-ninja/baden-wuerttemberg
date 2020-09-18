@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.9432077
 longitude: 8.5495368
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Bundesstraße"
 housenumber: 10

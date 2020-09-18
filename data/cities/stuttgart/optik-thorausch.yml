@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.7485669
 longitude: 9.170438800000001
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Felix-Dahn-Straße"
 housenumber: 11

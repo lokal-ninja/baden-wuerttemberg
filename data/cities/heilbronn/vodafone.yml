@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.1422302
 longitude: 9.220479000000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Sülmerstraße"
 housenumber: 12

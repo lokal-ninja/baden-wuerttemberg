@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.4923482
 longitude: 9.3991995
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Lange Straße"
 housenumber: 3

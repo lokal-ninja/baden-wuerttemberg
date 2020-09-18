@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.8023242
 longitude: 9.7985725
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Hintere Schmiedgasse"
 housenumber: 7

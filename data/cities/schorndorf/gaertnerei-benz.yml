@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.8030795
 longitude: 9.528456400000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Burgstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.162810900000004
 longitude: 8.6111204
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Feldbergstraße"
 housenumber: 12

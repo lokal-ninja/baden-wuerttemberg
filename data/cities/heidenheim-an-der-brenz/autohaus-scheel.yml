@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.654571000000004
 longitude: 10.157927500000001
-postcode: 89522
+postcode: "89522"
 city: Heidenheim an der Brenz
 street: "Stäffeleswiesen"
 housenumber: 10

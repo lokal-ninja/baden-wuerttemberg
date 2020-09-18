@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.406231000000005
 longitude: 9.0577444
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Falltorstraße"
 housenumber: 5

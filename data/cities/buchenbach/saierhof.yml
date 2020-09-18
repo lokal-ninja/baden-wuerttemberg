@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.9821754
 longitude: 8.0425783
-postcode: 79256
+postcode: "79256"
 city: Buchenbach
 street: "Talstr."
 housenumber: 21

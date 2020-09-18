@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.6373855
 longitude: 9.1299978
-postcode: 71111
+postcode: "71111"
 city: Waldenbuch
 street: "Auf dem Graben"
 housenumber: 27

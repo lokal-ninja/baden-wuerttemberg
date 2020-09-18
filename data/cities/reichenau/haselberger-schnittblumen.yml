@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.6977057
 longitude: 9.0560794
-postcode: 78479
+postcode: "78479"
 city: Reichenau
 street: "Häfelishofstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.807672600000004
 longitude: 9.8472337
-postcode: 73527
+postcode: "73527"
 city: Schwäbisch Gmünd
 street: "Böhmerwaldstraße"
 housenumber: 8

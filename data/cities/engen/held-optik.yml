@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 47.8542616
 longitude: 8.7714631
-postcode: 78234
+postcode: "78234"
 city: Engen
 street: "Peterstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1550055
 longitude: 9.226380800000001
-postcode: 74076
+postcode: "74076"
 city: Heilbronn
 street: "Käferflugstraße"
 housenumber: 21

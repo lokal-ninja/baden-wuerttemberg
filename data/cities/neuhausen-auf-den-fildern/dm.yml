@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.684995
 longitude: 9.272331600000001
-postcode: 73765
+postcode: "73765"
 city: Neuhausen auf den Fildern
 street: "Scharnhäuser Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.074541100000005
 longitude: 9.946686000000001
-postcode: 
+postcode: ""
 city: Ochsenhausen
 street: "Güterbahnhof"
 housenumber: 10

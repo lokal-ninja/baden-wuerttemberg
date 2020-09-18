@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9411879
 longitude: 9.296254600000001
-postcode: 71729
+postcode: "71729"
 city: Erdmannhausen
 street: "Mittelstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.560488400000004
 longitude: 8.855810400000001
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Siedlerstraße"
 housenumber: 18/1

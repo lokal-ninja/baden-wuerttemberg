@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.0876578
 longitude: 9.2144381
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Burgstraße"
 housenumber: 10

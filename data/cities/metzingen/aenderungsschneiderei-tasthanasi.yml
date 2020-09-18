@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.5393489
 longitude: 9.284382500000001
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Hindenburgstraße"
 housenumber: 3

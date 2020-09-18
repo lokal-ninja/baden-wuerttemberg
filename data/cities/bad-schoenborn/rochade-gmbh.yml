@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.205394500000004
 longitude: 8.6472222
-postcode: 76669
+postcode: "76669"
 city: Bad Schönborn
 street: "Seifensiedergasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.520902400000004
 longitude: 9.0503196
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Ammergasse"
 housenumber: 26

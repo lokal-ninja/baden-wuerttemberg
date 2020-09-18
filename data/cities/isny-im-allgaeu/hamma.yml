@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.6937671
 longitude: 10.0406917
-postcode: 88316
+postcode: "88316"
 city: Isny im Allgäu
 street: "Wassertorstraße"
 housenumber: 39

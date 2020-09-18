@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0090353
 longitude: 8.373902900000001
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
 street: "Yorckstraße"
 housenumber: 25

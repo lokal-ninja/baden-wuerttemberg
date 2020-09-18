@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4904804
 longitude: 9.7733462
-postcode: 97980
+postcode: "97980"
 city: Bad Mergentheim
 street: "Marktplatz"
 housenumber: 13

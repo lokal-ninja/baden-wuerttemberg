@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.739541100000004
 longitude: 9.3095473
-postcode: 73728
+postcode: "73728"
 city: Esslingen am Neckar
 street: "Adlerstraße"
 housenumber: 6

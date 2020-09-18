@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.5054943
 longitude: 8.4605727
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Industriestraße"
 housenumber: 2 g-h

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.7315308
 longitude: 9.092785000000001
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Hauptstraße"
 housenumber: 166

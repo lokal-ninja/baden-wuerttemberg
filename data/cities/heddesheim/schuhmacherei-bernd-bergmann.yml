@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.5032712
 longitude: 8.5994518
-postcode: 68542
+postcode: "68542"
 city: Heddesheim
 street: "Lissenstraße"
 housenumber: 16

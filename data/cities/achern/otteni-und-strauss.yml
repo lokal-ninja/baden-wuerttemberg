@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.637754900000004
 longitude: 8.057623300000001
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Von-Drais-Straße"
 housenumber: 30

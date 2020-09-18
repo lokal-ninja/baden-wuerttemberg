@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.363101400000005
 longitude: 8.1236648
-postcode: 77784
+postcode: "77784"
 city: Oberharmersbach
 street: "Billersberg"
 housenumber: 1

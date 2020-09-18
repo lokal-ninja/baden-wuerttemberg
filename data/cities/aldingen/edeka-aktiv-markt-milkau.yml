@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.091624800000005
 longitude: 8.6843184
-postcode: 78554
+postcode: "78554"
 city: Aldingen
 street: "Zotterangen"
 housenumber: 4

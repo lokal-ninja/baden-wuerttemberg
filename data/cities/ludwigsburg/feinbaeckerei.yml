@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.909992
 longitude: 9.2057739
-postcode: 71642
+postcode: "71642"
 city: Ludwigsburg
 street: "Ludwigsburger Straße"
 housenumber: 133

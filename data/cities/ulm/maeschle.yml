@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.394806
 longitude: 9.9583058
-postcode: 89077
+postcode: "89077"
 city: Ulm
 street: "Söflinger Straße"
 housenumber: 250

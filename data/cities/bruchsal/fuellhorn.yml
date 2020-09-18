@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1221022
 longitude: 8.5890094
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Prinz-Wilhelm-Straße"
 housenumber: 8

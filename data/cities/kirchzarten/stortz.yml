@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9655062
 longitude: 7.9567749
-postcode: 79199
+postcode: "79199"
 city: Kirchzarten
 street: "Höfener Straße"
 housenumber: 7

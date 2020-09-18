@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.6789482
 longitude: 9.151042200000001
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Max-Stromeyer-Straße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7277786
 longitude: 8.008715200000001
-postcode: 77839
+postcode: "77839"
 city: Lichtenau
 street: "Hauptstraße"
 housenumber: 2

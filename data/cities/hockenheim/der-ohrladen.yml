@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.318363600000005
 longitude: 8.5451797
-postcode: 68766
+postcode: "68766"
 city: Hockenheim
 street: "Karlsruher Straße"
 housenumber: 11

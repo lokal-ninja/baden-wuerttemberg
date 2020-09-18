@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.584464100000005
 longitude: 8.005432
-postcode: 77871
+postcode: "77871"
 city: Renchen
 street: "Vogesenstraße"
 housenumber: 4

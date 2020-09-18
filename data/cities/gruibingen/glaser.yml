@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5954722
 longitude: 9.6427925
-postcode: 73344
+postcode: "73344"
 city: Gruibingen
 street: "Hauptstraße"
 housenumber: 16

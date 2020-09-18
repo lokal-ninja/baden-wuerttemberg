@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.789058000000004
 longitude: 9.196423900000001
-postcode: 
+postcode: ""
 city: Stuttgart
 street: "Werastraße"
 housenumber: 136

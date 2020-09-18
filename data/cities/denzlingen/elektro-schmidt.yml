@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.0666127
 longitude: 7.8842904
-postcode: 79211
+postcode: "79211"
 city: Denzlingen
 street: "Hauptstraße"
 housenumber: 138

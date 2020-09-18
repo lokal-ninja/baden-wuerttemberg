@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7466081
 longitude: 8.712111700000001
-postcode: 75365
+postcode: "75365"
 city: Calw
 street: "Lützenhardter Hof"
 housenumber: 2

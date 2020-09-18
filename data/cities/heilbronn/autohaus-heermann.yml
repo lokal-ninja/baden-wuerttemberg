@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.152998100000005
 longitude: 9.223050200000001
-postcode: 74076
+postcode: "74076"
 city: Heilbronn
 street: "Neckarsulmer Straße"
 housenumber: 26

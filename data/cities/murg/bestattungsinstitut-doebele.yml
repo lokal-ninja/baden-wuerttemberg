@@ -3,10 +3,10 @@ type: node
 shop: Bestattungen
 latitude: 47.553940600000004
 longitude: 8.0216217
-postcode: 79730
+postcode: "79730"
 city: Murg
 street: "Kirchstraße"
 housenumber: 1
 phone: "+49 7763 923900"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-12:00,14:00-16:30"
 website: ""

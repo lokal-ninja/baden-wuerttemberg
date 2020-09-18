@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.0795128
 longitude: 8.4105599
-postcode: 76344
+postcode: "76344"
 city: Eggenstein-Leopoldshafen
 street: "Linkenheimer Allee"
 housenumber: 3

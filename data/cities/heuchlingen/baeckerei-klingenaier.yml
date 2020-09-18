@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.852036000000005
 longitude: 9.9422213
-postcode: 73572
+postcode: "73572"
 city: Heuchlingen
 street: "Leinzeller Straße"
 housenumber: 11

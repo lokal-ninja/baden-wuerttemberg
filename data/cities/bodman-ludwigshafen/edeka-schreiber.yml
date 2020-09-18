@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8165958
 longitude: 9.060567800000001
-postcode: 78351
+postcode: "78351"
 city: Bodman-Ludwigshafen
 street: "Salzbachäcker"
 housenumber: 9

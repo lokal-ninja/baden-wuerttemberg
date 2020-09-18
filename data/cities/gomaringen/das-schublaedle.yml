@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4523104
 longitude: 9.0953012
-postcode: 72810
+postcode: "72810"
 city: Gomaringen
 street: "Kirchenplatz"
 housenumber: 3

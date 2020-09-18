@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.1446899
 longitude: 9.186111200000001
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Derfflingerstraße"
 housenumber: 25

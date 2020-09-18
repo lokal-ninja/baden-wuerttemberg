@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.441790600000004
 longitude: 8.57771
-postcode: 
+postcode: ""
 city: Mannheim
 street: "Vogesenstraße"
 housenumber: 29

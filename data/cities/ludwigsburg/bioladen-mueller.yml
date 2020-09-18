@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.9085693
 longitude: 9.2033804
-postcode: 71642
+postcode: "71642"
 city: Ludwigsburg
 street: "Bottwartalstraße"
 housenumber: 74

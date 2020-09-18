@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.6225365
 longitude: 8.2139252
-postcode: 79761
+postcode: "79761"
 city: Waldshut-Tiengen
 street: "Kaiserstraße"
 housenumber: 15

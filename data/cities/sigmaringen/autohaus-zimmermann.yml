@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.089597000000005
 longitude: 9.208962600000001
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "In den Burgwiesen"
 housenumber: 18

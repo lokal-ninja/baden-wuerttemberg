@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.1414434
 longitude: 9.105552600000001
-postcode: 74211
+postcode: "74211"
 city: Leingarten
 street: "Röthestraße"
 housenumber: 93

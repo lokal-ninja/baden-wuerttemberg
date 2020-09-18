@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.530616200000004
 longitude: 8.4995475
-postcode: 68305
+postcode: "68305"
 city: Mannheim
 street: "Staudenweg"
 housenumber: 5

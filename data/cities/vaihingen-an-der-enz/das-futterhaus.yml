@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.9266359
 longitude: 8.965681100000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Salzäckerstraße"
 housenumber: 3

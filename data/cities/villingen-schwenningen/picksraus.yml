@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.0694814
 longitude: 8.448203900000001
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Karlsruher Straße"
 housenumber: 21/2

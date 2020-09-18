@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 47.8681494
 longitude: 8.2016186
-postcode: 79853
+postcode: "79853"
 city: Lenzkirch
 street: "Kolumban-Kayser-Straße"
 housenumber: 1

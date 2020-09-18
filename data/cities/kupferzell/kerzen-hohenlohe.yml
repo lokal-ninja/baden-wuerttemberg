@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.2293992
 longitude: 9.638314900000001
-postcode: 74635
+postcode: "74635"
 city: Kupferzell
 street: "Sallstraße"
 housenumber: 38

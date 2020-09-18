@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 48.714531300000004
 longitude: 10.1582115
-postcode: 89520
+postcode: "89520"
 city: Heidenheim an der Brenz
 street: "Aufhausener Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.marnet.de"

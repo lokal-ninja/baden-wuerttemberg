@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.565335600000004
 longitude: 8.0745751
-postcode: 79725
+postcode: "79725"
 city: Laufenburg (Baden)
 street: "Laufenpark"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 48.858874
 longitude: 8.2023171
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: ""
 housenumber: 

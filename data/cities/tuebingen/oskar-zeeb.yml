@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.5057683
 longitude: 9.051205000000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Derendinger Straße"
 housenumber: 111

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9474955
 longitude: 8.2497833
-postcode: 76474
+postcode: "76474"
 city: Au am Rhein
 street: "Siemensstraße"
 housenumber: 6

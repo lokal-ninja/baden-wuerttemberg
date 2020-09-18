@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7296471
 longitude: 9.111752000000001
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Hauptstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.028600600000004
 longitude: 7.583508800000001
-postcode: 79206
+postcode: "79206"
 city: Breisach am Rhein
 street: "Neutorstraße"
 housenumber: 9

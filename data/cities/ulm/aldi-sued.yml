@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.351050900000004
 longitude: 9.9794739
-postcode: 89079
+postcode: "89079"
 city: Ulm
 street: "Wiblinger Ring"
 housenumber: 100

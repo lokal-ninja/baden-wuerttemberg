@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.6888171
 longitude: 9.1393605
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Randweg"
 housenumber: 7

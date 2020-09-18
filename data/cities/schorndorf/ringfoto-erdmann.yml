@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.806981
 longitude: 9.528876400000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Karlstraße"
 housenumber: 3

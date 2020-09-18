@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.461456000000005
 longitude: 9.2270117
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Hohe Straße"
 housenumber: 3

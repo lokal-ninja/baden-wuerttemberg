@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.8869078
 longitude: 9.1874602
-postcode: 71636
+postcode: "71636"
 city: Ludwigsburg
 street: "Eisenbahnstraße"
 housenumber: 10

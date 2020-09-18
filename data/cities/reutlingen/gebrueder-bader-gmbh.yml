@@ -3,7 +3,7 @@ type: node
 shop: Türen
 latitude: 48.544823
 longitude: 9.1749439
-postcode: 72768
+postcode: "72768"
 city: Reutlingen
 street: "Steigäckerstraße"
 housenumber: 14

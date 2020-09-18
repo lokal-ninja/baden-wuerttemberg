@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.862218500000004
 longitude: 9.4252071
-postcode: 88271
+postcode: "88271"
 city: Wilhelmsdorf
 street: "Öschweg"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.4312434
 longitude: 8.6756008
-postcode: 69121
+postcode: "69121"
 city: Heidelberg
 street: "Gewann Husarenäcker"
 housenumber: 12

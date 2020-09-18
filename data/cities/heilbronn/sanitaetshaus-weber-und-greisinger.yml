@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 49.1441219
 longitude: 9.2209228
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Sülmerstraße"
 housenumber: 54

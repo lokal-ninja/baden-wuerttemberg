@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.600099900000004
 longitude: 7.8733494
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Rastatter Straße"
 housenumber: 28

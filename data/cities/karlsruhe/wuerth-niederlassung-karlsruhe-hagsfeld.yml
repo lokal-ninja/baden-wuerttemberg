@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.0211028
 longitude: 8.4623024
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Printzstraße"
 housenumber: 2a

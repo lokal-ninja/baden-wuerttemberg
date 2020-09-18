@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9921085
 longitude: 8.4603725
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Westmarkstraße"
 housenumber: 12

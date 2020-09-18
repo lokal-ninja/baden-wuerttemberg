@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.704795100000005
 longitude: 9.5814096
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Stuttgarter Straße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Heizungsanlagen
 latitude: 48.78763420000001
 longitude: 10.2656661
-postcode: 73450
+postcode: "73450"
 city: Neresheim
 street: "Mörikestraße"
 housenumber: 2

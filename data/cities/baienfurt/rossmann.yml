@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.828952
 longitude: 9.654667100000001
-postcode: 88255
+postcode: "88255"
 city: Baienfurt
 street: "Gutenbergstraße"
 housenumber: 3

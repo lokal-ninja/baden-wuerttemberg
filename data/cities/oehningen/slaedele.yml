@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6880947
 longitude: 8.9003954
-postcode: 78337
+postcode: "78337"
 city: Öhningen
 street: "Schienerbergstraße"
 housenumber: 3

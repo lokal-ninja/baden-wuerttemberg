@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.782242000000004
 longitude: 9.1587501
-postcode: 70176
+postcode: "70176"
 city: Stuttgart
 street: "Kornbergstraße"
 housenumber: 43

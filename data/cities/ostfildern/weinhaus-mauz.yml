@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.7155446
 longitude: 9.298530000000001
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Bismarckstraße"
 housenumber: 51

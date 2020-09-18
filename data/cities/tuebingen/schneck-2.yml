@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.546537400000005
 longitude: 9.0568155
-postcode: 72076
+postcode: "72076"
 city: Tübingen
 street: "Vogelbeerweg"
 housenumber: 4

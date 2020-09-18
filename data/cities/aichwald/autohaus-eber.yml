@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7464007
 longitude: 9.3863018
-postcode: 73773
+postcode: "73773"
 city: Aichwald
 street: "Himbeerweg"
 housenumber: 4

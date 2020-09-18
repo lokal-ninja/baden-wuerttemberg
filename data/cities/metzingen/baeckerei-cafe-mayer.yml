@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.537867500000004
 longitude: 9.2937002
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Zeppelinstraße"
 housenumber: 14

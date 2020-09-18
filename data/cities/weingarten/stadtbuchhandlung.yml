@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.8069709
 longitude: 9.6403545
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Löwenplatz"
 housenumber: 11

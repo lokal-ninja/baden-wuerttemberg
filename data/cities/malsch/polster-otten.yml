@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.893622900000004
 longitude: 8.310731500000001
-postcode: 76316
+postcode: "76316"
 city: Malsch
 street: "Siemensstraße"
 housenumber: 32

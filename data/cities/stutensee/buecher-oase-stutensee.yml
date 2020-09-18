@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.065674200000004
 longitude: 8.4719785
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Hauptstraße"
 housenumber: 75-81

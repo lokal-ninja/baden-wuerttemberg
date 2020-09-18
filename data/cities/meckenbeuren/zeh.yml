@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.683612000000004
 longitude: 9.5556093
-postcode: 88074
+postcode: "88074"
 city: Meckenbeuren
 street: "Hauptstraße"
 housenumber: 175

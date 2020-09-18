@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6206751
 longitude: 10.249496500000001
-postcode: 89537
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Marktstraße"
 housenumber: 86

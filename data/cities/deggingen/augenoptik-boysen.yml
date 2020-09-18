@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.596133900000005
 longitude: 9.7192541
-postcode: 73326
+postcode: "73326"
 city: Deggingen
 street: "Kaplaneigasse"
 housenumber: 1

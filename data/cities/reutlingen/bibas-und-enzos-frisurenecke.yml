@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5005697
 longitude: 9.205230700000001
-postcode: 72760
+postcode: "72760"
 city: Reutlingen
 street: "Rommelsbacher Straße"
 housenumber: 32

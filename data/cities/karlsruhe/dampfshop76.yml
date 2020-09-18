@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 49.0282655
 longitude: 8.4556317
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Karlsruher Straße"
 housenumber: 56

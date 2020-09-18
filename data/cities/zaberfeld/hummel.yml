@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.057762000000004
 longitude: 8.9282077
-postcode: 74374
+postcode: "74374"
 city: Zaberfeld
 street: "Hauptstraße"
 housenumber: 19

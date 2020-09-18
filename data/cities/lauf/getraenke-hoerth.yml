@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.647697900000004
 longitude: 8.127569300000001
-postcode: 77886
+postcode: "77886"
 city: Lauf
 street: "Hauptstraße"
 housenumber: 84

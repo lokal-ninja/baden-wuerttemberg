@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.1132226
 longitude: 7.853707000000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Freiburger Straße"
 housenumber: 7

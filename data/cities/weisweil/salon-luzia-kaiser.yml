@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1980474
 longitude: 7.674756400000001
-postcode: 79367
+postcode: "79367"
 city: Weisweil
 street: "Hauptstraße"
 housenumber: 33

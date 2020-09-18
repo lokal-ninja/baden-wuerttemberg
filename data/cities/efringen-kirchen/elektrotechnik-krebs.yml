@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.6552615
 longitude: 7.5740986
-postcode: 79588
+postcode: "79588"
 city: Efringen-Kirchen
 street: "Im Martelacker"
 housenumber: 8

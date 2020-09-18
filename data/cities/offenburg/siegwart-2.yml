@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.4743998
 longitude: 7.9533348
-postcode: 77654
+postcode: "77654"
 city: Offenburg
 street: "Erzbergerstraße"
 housenumber: 1

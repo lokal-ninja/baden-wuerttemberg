@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.83729760000001
 longitude: 10.0910826
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Friedhofstraße"
 housenumber: 1

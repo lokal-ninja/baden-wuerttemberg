@@ -1,4 +1,4 @@
 ---
-title: "MITOHNE"
+title: "mitohne"
 url: /heidelberg/mitohne/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.518901
 longitude: 8.555801500000001
-postcode: 68309
+postcode: "68309"
 city: Mannheim
 street: "Spreewaldallee"
 housenumber: 

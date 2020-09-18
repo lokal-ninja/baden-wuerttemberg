@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6146024
 longitude: 9.531211200000001
-postcode: 73235
+postcode: "73235"
 city: Weilheim an der Teck
 street: "Baumgartenstraße"
 housenumber: 3

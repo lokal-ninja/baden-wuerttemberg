@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.6823588
 longitude: 9.3640108
-postcode: 73257
+postcode: "73257"
 city: Köngen
 street: "Kiesweg"
 housenumber: 31

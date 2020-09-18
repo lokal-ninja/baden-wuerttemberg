@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.8011739
 longitude: 9.796586300000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Marktplatz"
 housenumber: 33

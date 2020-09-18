@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 48.873921200000005
 longitude: 9.3896276
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Waiblinger Straße"
 housenumber: 54

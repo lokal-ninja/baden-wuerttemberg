@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.760146500000005
 longitude: 9.316969100000001
-postcode: 73732
+postcode: "73732"
 city: Esslingen am Neckar
 street: "Stettener Straße"
 housenumber: 107

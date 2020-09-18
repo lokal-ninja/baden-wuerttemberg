@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.029932800000005
 longitude: 8.714781
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Mörikeweg"
 housenumber: 29

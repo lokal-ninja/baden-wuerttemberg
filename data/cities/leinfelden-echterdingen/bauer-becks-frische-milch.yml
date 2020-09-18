@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.6963948
 longitude: 9.174579900000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Lachenäcker"
 housenumber: 2

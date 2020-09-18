@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9580749
 longitude: 9.0790623
-postcode: 74343
+postcode: "74343"
 city: Sachsenheim
 street: "Max-Eyth-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.80678
 longitude: 9.6408979
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Karlstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.982443
 longitude: 7.8012689
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Basler Landstraße"
 housenumber: 48

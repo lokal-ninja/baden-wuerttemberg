@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.0016309
 longitude: 9.139891200000001
-postcode: 74354
+postcode: "74354"
 city: Besigheim
 street: "Hauptstraße"
 housenumber: 65

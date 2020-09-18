@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.7416658
 longitude: 9.2692504
-postcode: 73733
+postcode: "73733"
 city: Esslingen am Neckar
 street: "Weilstraße"
 housenumber: 227

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.480522900000004
 longitude: 8.4498947
-postcode: 67059
+postcode: "67059"
 city: Ludwigshafen am Rhein
 street: "Wredestraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 47.977484700000005
 longitude: 7.665528600000001
-postcode: 79206
+postcode: "79206"
 city: Breisach am Rhein
 street: "Schneckenweg"
 housenumber: 8

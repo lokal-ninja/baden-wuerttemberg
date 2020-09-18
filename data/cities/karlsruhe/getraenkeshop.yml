@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.0004976
 longitude: 8.466918600000001
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Zur Gießerei"
 housenumber: 3

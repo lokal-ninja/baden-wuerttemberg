@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6078284
 longitude: 9.2589533
-postcode: 72666
+postcode: "72666"
 city: Neckartailfingen
 street: "Alleenstraße"
 housenumber: 46

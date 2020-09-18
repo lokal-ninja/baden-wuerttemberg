@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.590208800000006
 longitude: 8.8645882
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Goethestraße"
 housenumber: 35

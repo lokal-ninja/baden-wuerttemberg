@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9643353
 longitude: 8.8152743
-postcode: 75443
+postcode: "75443"
 city: Ötisheim
 street: "Schlattstraße"
 housenumber: 23

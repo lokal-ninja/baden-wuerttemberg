@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0947169
 longitude: 8.7005108
-postcode: 78554
+postcode: "78554"
 city: Aldingen
 street: "Aixheimer Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.4915779
 longitude: 9.2092826
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Katharinenstraße"
 housenumber: 18

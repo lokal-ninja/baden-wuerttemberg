@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.29124830000001
 longitude: 8.5280707
-postcode: 68804
+postcode: "68804"
 city: Altlußheim
 street: "Am Sägewerk"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.9613707
 longitude: 10.134523600000001
-postcode: 73479
+postcode: "73479"
 city: Ellwangen (Jagst)
 street: "Obere Straße"
 housenumber: 7-9

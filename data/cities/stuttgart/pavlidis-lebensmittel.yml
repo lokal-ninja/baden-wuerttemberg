@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.769536300000006
 longitude: 9.1605744
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Augustenstraße"
 housenumber: 69

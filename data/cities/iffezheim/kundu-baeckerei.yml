@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.819686600000004
 longitude: 8.1514665
-postcode: 76473
+postcode: "76473"
 city: Iffezheim
 street: "Gebrüder-Grimm-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Autoservice
 latitude: 47.6423141
 longitude: 7.638226500000001
-postcode: 79595
+postcode: "79595"
 city: Rümmingen
 street: "Gewerbestraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.086976
 longitude: 9.214305000000001
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Burgstraße"
 housenumber: 1

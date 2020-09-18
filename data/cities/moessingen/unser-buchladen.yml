@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.4059819
 longitude: 9.055209300000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Bahnhofstraße"
 housenumber: 13

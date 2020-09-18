@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3970519
 longitude: 9.9953918
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Donaustraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7630629
 longitude: 9.1748703
-postcode: 70180
+postcode: "70180"
 city: Stuttgart
 street: "Römerstraße"
 housenumber: 67B

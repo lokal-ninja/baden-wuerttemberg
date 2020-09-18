@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7047668
 longitude: 9.144451100000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Adlerstraße"
 housenumber: 7

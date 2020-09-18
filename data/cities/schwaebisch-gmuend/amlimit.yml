@@ -3,10 +3,10 @@ type: node
 shop: Sport
 latitude: 48.7993967
 longitude: 9.797204200000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Buhlgäßle"
 housenumber: 3
-phone: ""
-opening_hours: ""
-website: "https://www.amlimit-sportshop.de"
+phone: "+49 7171 8076351"
+opening_hours: "We 16:00-19:00; Sa 09:00-13:00; Su-Tu, Th, Fr, PH off"
+website: "https://amlimit-sportshop.de"

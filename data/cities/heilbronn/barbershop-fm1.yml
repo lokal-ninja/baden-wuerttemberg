@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.139683000000005
 longitude: 9.2161414
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Schöntaler Gasse"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.7871523
 longitude: 8.1937757
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Sinzheimer Straße"
 housenumber: 2

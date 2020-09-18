@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.2922887
 longitude: 8.574597800000001
-postcode: 78727
+postcode: "78727"
 city: Oberndorf am Neckar
 street: "Talstraße"
 housenumber: 9

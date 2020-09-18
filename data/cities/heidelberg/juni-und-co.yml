@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.414306100000005
 longitude: 8.6889041
-postcode: 69120
+postcode: "69120"
 city: Heidelberg
 street: "Ladenburger Straße"
 housenumber: 31

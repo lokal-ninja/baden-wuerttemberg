@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.4927293
 longitude: 9.401408700000001
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Neue Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.6289801
 longitude: 8.072832100000001
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Hauptstraße"
 housenumber: 70

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.134877200000005
 longitude: 8.9053991
-postcode: 75031
+postcode: "75031"
 city: Eppingen
 street: "Mühlbacher Straße"
 housenumber: 2

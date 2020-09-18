@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.764884300000006
 longitude: 9.6005146
-postcode: 88214
+postcode: "88214"
 city: Ravensburg
 street: "Rosenweg"
 housenumber: 3

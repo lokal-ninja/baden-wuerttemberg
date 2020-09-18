@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.608403700000004
 longitude: 9.259251200000001
-postcode: 72666
+postcode: "72666"
 city: Neckartailfingen
 street: "Tübinger Straße"
 housenumber: 111

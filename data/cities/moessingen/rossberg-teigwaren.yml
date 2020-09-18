@@ -3,7 +3,7 @@ type: node
 shop: Pasta
 latitude: 48.406199
 longitude: 9.048946500000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Freiherr-vom-Stein-Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.6516559
 longitude: 9.4802205
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Friedrichstraße"
 housenumber: 46

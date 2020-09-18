@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.1913598
 longitude: 9.224496
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Marktstraße"
 housenumber: 14

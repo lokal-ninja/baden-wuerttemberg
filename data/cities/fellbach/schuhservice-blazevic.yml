@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.813371100000005
 longitude: 9.2746752
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Falkenstraße"
 housenumber: 51/1

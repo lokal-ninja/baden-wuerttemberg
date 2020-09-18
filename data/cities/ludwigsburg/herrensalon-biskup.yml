@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8958979
 longitude: 9.2025708
-postcode: 71638
+postcode: "71638"
 city: Ludwigsburg
 street: "Schorndorfer Straße"
 housenumber: 58

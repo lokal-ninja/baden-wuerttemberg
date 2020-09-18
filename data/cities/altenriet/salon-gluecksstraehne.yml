@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5899901
 longitude: 9.2188023
-postcode: 72657
+postcode: "72657"
 city: Altenriet
 street: "Walddorfer Straße"
 housenumber: 51

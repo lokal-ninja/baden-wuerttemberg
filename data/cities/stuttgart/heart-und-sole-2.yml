@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.7494032
 longitude: 9.170346400000001
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Jahnstraße"
 housenumber: 4

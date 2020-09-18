@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.0083094
 longitude: 8.409464400000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kronenstraße"
 housenumber: 21

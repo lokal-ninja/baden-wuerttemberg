@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.8046627
 longitude: 9.213835900000001
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Marktstraße"
 housenumber: 43

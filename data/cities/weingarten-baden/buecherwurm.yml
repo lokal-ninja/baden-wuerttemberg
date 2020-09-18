@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.05371340000001
 longitude: 8.531123500000001
-postcode: 76356
+postcode: "76356"
 city: Weingarten (Baden)
 street: "Bruchsaler Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6874861
 longitude: 9.0017572
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Konrad-Zuse-Straße"
 housenumber: 22

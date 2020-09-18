@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.12533680000001
 longitude: 9.2022017
-postcode: 74081
+postcode: "74081"
 city: Heilbronn
 street: "Kreuzäckerstraße"
 housenumber: 6

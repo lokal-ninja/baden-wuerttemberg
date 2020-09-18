@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.5592337
 longitude: 7.952570000000001
-postcode: 79713
+postcode: "79713"
 city: Bad Säckingen
 street: "Lindenmatten"
 housenumber: 9

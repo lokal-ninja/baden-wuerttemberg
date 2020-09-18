@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.3547469
 longitude: 8.9900018
-postcode: 74858
+postcode: "74858"
 city: Aglasterhausen
 street: "Hauptstraße"
 housenumber: 14

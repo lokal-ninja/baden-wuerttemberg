@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 49.4256268
 longitude: 9.156966200000001
-postcode: 74864
+postcode: "74864"
 city: Fahrenbach
 street: "Heiligengraber Weg"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

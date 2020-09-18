@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7267792
 longitude: 9.141754500000001
-postcode: 70567
+postcode: "70567"
 city: Stuttgart
 street: "Vaihinger Straße"
 housenumber: 89

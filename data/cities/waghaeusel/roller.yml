@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.213630200000004
 longitude: 8.5268902
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Hambrücker Landstraße"
 housenumber: 6

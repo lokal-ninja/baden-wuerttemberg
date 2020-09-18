@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.984736700000006
 longitude: 7.8473467
-postcode: 79100
+postcode: "79100"
 city: Freiburg im Breisgau
 street: "Günterstalstraße"
 housenumber: 

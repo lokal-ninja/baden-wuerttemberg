@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.627104800000005
 longitude: 7.6568358000000005
-postcode: 79539
+postcode: "79539"
 city: Lörrach
 street: "Mühlestraße"
 housenumber: 6

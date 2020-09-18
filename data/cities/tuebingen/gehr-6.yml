@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5213789
 longitude: 9.0574337
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Am Lustnauer Tor"
 housenumber: 5

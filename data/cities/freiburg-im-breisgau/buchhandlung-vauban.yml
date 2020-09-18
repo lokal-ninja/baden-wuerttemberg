@@ -3,10 +3,10 @@ type: way
 shop: Bücher
 latitude: 47.974423200000004
 longitude: 7.826899900000001
-postcode: 79100
+postcode: "79100"
 city: Freiburg im Breisgau
 street: "Vaubanallee"
 housenumber: 12
 phone: "+49 761 2171876"
 opening_hours: "Mo 15:00-18:30; Tu-Fr 09:30-13:00,15:00-18:30; Sa 09:30-13:00; Su,PH off"
-website: ""
+website: "www.buchhandlung-vauban.de"

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9101183
 longitude: 8.2123328
-postcode: 79822
+postcode: "79822"
 city: Titisee-Neustadt
 street: "Am Postplatz"
 housenumber: 4

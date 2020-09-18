@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.022783000000004
 longitude: 9.487076700000001
-postcode: 88348
+postcode: "88348"
 city: Bad Saulgau
 street: "Herbertinger Straße"
 housenumber: 56

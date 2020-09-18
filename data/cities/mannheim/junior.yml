@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.504306400000004
 longitude: 8.472198500000001
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Maybachstraße"
 housenumber: 

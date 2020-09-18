@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 49.279549100000004
 longitude: 9.690373600000001
-postcode: 74653
+postcode: "74653"
 city: Künzelsau
 street: "Schlossgasse"
 housenumber: 4

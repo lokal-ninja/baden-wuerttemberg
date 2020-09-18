@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.0092306
 longitude: 8.3986195
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Herrenstraße"
 housenumber: 24

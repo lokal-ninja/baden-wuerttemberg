@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.985852400000006
 longitude: 7.8392151000000005
-postcode: 79100
+postcode: "79100"
 city: Freiburg im Breisgau
 street: "Bayernstraße"
 housenumber: 2

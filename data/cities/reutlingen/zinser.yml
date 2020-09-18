@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4916519
 longitude: 9.2116395
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Marktplatz"
 housenumber: 3

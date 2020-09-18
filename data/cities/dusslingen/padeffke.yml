@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.447264700000005
 longitude: 9.059627500000001
-postcode: 72144
+postcode: "72144"
 city: Dußlingen
 street: "Blumenstraße"
 housenumber: 25

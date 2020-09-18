@@ -1,12 +1,12 @@
 id: 5069363221
 type: node
 shop: Bäckerei
-latitude: 48.5750916
-longitude: 7.807502700000001
-postcode: 77694
+latitude: 48.575105400000005
+longitude: 7.807463800000001
+postcode: "77694"
 city: Kehl
 street: "Hauptstraße"
 housenumber: 8
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 7851 480378"
+opening_hours: "Mo-Sa 06:00-17:00; Su 07:30-12:30"
+website: "https://www.landbaeckerei-zimmerer.de/"

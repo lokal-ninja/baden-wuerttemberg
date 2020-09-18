@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7360484
 longitude: 9.1666258
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Tränkestraße"
 housenumber: 18

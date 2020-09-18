@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.8199776
 longitude: 8.2102652
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Burnieweg"
 housenumber: 1

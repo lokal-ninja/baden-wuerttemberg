@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.4425868
 longitude: 8.690764900000001
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Bahnhofplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6805827
 longitude: 9.2030537
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Staader Straße"
 housenumber: 6

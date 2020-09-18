@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3993425
 longitude: 9.9911963
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Platzgasse"
 housenumber: 4

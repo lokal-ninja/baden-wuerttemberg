@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.2234537
 longitude: 8.6536317
-postcode: 76669
+postcode: "76669"
 city: Bad Schönborn
 street: "Heidelberger Straße"
 housenumber: 35

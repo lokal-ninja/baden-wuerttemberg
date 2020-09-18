@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.8873363
 longitude: 9.1693855
-postcode: 71636
+postcode: "71636"
 city: Ludwigsburg
 street: "Friedenstraße"
 housenumber: 93

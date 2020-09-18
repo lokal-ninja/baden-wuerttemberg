@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.144708300000005
 longitude: 9.2191469
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Lammgasse"
 housenumber: 27

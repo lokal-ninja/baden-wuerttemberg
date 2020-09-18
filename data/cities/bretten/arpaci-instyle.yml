@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.035821500000004
 longitude: 8.7073734
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Friedrichstraße"
 housenumber: 5

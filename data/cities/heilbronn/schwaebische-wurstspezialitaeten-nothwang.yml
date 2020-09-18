@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.151467100000005
 longitude: 9.195945100000001
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Neckargartacher Straße"
 housenumber: 111

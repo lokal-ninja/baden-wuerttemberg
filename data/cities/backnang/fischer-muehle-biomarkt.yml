@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9469052
 longitude: 9.4338162
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Annonay-Straße"
 housenumber: 1

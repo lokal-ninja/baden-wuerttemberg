@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.1368075
 longitude: 8.5953587
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Murgstraße"
 housenumber: 9-13

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.8346232
 longitude: 10.1017364
-postcode: 73431
+postcode: "73431"
 city: Aalen
 street: "Alte Heidenheimer Straße"
 housenumber: 72

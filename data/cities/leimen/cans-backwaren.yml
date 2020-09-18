@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.341114000000005
 longitude: 8.6688788
-postcode: 69181
+postcode: "69181"
 city: Leimen
 street: "Bahnhofstraße"
 housenumber: 57

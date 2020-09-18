@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.113148
 longitude: 9.7344372
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Neue Straße"
 housenumber: 22-24

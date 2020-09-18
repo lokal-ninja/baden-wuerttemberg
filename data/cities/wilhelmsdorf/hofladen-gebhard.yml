@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.8499264
 longitude: 9.431242300000001
-postcode: 88271
+postcode: "88271"
 city: Wilhelmsdorf
 street: "Leonhardstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.5219911
 longitude: 9.056260400000001
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Beim Nonnenhaus"
 housenumber: 16

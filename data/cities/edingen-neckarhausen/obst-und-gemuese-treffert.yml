@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.4658279
 longitude: 8.601390700000001
-postcode: 68535
+postcode: "68535"
 city: Edingen-Neckarhausen
 street: "Schulstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.701460100000006
 longitude: 9.143474600000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Maybachstraße"
 housenumber: 1

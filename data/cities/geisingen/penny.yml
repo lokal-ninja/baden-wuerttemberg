@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.919626
 longitude: 8.651821700000001
-postcode: 78187
+postcode: "78187"
 city: Geisingen
 street: "Engener Straße"
 housenumber: 5

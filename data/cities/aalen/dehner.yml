@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.83491840000001
 longitude: 10.097337000000001
-postcode: 73431
+postcode: "73431"
 city: Aalen
 street: "Wilhelm-Merz-Straße"
 housenumber: 35

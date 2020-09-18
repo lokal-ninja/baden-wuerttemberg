@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.475768900000006
 longitude: 8.9324045
-postcode: 72108
+postcode: "72108"
 city: Rottenburg am Neckar
 street: "Königstraße"
 housenumber: 50

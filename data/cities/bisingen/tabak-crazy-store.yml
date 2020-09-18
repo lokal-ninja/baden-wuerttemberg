@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.3088003
 longitude: 8.916461
-postcode: 72406
+postcode: "72406"
 city: Bisingen
 street: "Hauptstraße"
 housenumber: 52

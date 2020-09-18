@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.922765500000004
 longitude: 8.4755669
-postcode: 76337
+postcode: "76337"
 city: Waldbronn
 street: "Pforzheimer Straße"
 housenumber: 37

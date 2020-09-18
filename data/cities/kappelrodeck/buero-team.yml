@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.5918112
 longitude: 8.1170997
-postcode: 77876
+postcode: "77876"
 city: Kappelrodeck
 street: "Hauptstraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.0942188
 longitude: 7.970562900000001
-postcode: 79183
+postcode: "79183"
 city: Waldkirch
 street: "Rosenweg"
 housenumber: 10

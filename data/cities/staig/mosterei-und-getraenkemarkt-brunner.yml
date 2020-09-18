@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.299904000000005
 longitude: 9.999939000000001
-postcode: 89195
+postcode: "89195"
 city: Staig
 street: "Bergstraße"
 housenumber: 14

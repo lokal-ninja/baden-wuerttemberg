@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.52073540000001
 longitude: 8.5788767
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Am Straßenheimer Weg"
 housenumber: 7

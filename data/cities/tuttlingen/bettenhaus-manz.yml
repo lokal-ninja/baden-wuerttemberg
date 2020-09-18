@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.9831227
 longitude: 8.8171095
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Schulstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1695062
 longitude: 9.8597151
-postcode: 74549
+postcode: "74549"
 city: Wolpertshausen
 street: "Birkichstraße"
 housenumber: 10

@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 49.578594100000004
 longitude: 9.370182600000001
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: "Neue Altheimer Straße"
 housenumber: 9
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-15:00; Sa 09:00-12:00"
 website: "http://www.repa-fix.de"

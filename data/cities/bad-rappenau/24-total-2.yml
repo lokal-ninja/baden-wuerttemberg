@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.2124825
 longitude: 9.0766229
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Buchäckerring"
 housenumber: 40

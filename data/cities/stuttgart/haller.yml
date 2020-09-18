@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 48.7299821
 longitude: 9.1170092
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Möhringer Landstraße"
 housenumber: 37

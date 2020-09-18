@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.5894412
 longitude: 9.5935819
-postcode: 88079
+postcode: "88079"
 city: Kressbronn am Bodensee
 street: "Bodanstraße"
 housenumber: 34

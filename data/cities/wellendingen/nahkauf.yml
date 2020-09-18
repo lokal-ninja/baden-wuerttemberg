@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.147544100000005
 longitude: 8.6994225
-postcode: 78669
+postcode: "78669"
 city: Wellendingen
 street: "Sonnenstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.6768677
 longitude: 9.1509821
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Maybachstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3829847
 longitude: 8.7719854
-postcode: 72401
+postcode: "72401"
 city: Haigerloch
 street: "Birkenwaldstraße"
 housenumber: 6

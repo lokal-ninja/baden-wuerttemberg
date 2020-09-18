@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.745839100000005
 longitude: 8.8444886
-postcode: 78224
+postcode: "78224"
 city: Singen
 street: "Feldstraße"
 housenumber: 61

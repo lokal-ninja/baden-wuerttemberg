@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.341287
 longitude: 7.8728556
-postcode: 77933
+postcode: "77933"
 city: Lahr/Schwarzwald
 street: "Marktstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.686980600000005
 longitude: 9.833488500000001
-postcode: 88239
+postcode: "88239"
 city: Wangen im Allgäu
 street: "Herrenstraße"
 housenumber: 19

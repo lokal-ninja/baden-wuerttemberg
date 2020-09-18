@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.124599800000006
 longitude: 8.5976471
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Kaiserstraße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.9655913
 longitude: 8.4053106
-postcode: 76199
+postcode: "76199"
 city: Karlsruhe
 street: "Battstraße"
 housenumber: 2a

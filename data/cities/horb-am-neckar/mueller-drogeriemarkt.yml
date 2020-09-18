@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.4424123
 longitude: 8.6906821
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Bahnhofplatz"
 housenumber: 1

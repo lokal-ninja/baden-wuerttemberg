@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.0535155
 longitude: 9.054623000000001
-postcode: 88637
+postcode: "88637"
 city: Leibertingen
 street: "Auf der Höhe"
 housenumber: 2

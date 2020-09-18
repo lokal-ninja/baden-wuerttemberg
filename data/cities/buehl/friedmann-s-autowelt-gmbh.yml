@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7093615
 longitude: 8.117709600000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Liechtersmatten"
 housenumber: 12

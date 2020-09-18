@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 48.6801529
 longitude: 10.1322652
-postcode: 89518
+postcode: "89518"
 city: Heidenheim an der Brenz
 street: "Wilhelmstraße"
 housenumber: 130

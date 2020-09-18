@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.818932100000005
 longitude: 9.8470312
-postcode: 73527
+postcode: "73527"
 city: Schwäbisch Gmünd
 street: "In der Hub"
 housenumber: 14

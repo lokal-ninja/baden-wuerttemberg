@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7179768
 longitude: 8.0630583
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Mooser Straße"
 housenumber: 32

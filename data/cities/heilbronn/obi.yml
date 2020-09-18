@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.153578100000004
 longitude: 9.2148716
-postcode: 74076
+postcode: "74076"
 city: Heilbronn
 street: "Etzelstraße"
 housenumber: 44

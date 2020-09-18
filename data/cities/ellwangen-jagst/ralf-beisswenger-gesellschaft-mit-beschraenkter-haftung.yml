@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.954584100000005
 longitude: 10.1727231
-postcode: 73479
+postcode: "73479"
 city: Ellwangen (Jagst)
 street: "Ludwig-Lutz-Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.562766
 longitude: 7.9289455
-postcode: 79713
+postcode: "79713"
 city: Bad Säckingen
 street: "Obere Flüh"
 housenumber: 118

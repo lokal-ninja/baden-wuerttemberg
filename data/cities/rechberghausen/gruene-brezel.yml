@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7311302
 longitude: 9.644155300000001
-postcode: 73098
+postcode: "73098"
 city: Rechberghausen
 street: "Lorcher Straße"
 housenumber: 1

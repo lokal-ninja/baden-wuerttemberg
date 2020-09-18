@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.776312600000004
 longitude: 9.1747657
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Kronprinzstraße"
 housenumber: 16

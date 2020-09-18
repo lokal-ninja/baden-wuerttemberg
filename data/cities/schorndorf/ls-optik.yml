@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.806490100000005
 longitude: 9.5270747
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Marktplatz"
 housenumber: 34-36

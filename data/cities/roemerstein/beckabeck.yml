@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4945031
 longitude: 9.5142289
-postcode: 72587
+postcode: "72587"
 city: Römerstein
 street: "Aglishardter Straße"
 housenumber: 5

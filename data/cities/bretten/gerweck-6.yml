@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.070714
 longitude: 8.684672500000001
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Talbachstraße"
 housenumber: 30

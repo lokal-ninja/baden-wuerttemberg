@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.274819400000005
 longitude: 8.8512673
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Friedrichstraße"
 housenumber: 18

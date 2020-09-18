@@ -3,7 +3,7 @@ type: node
 shop: Sammler
 latitude: 48.773132600000004
 longitude: 9.186628200000001
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Alexanderstraße"
 housenumber: 42

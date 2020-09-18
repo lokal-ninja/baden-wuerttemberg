@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.808608400000004
 longitude: 9.642682500000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Münsterplatz"
 housenumber: 4

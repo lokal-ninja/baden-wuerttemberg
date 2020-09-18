@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.7871101
 longitude: 8.194499
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: ""
 housenumber: 

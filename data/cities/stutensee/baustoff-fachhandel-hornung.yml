@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.109317100000005
 longitude: 8.4723539
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Rheinstraße West"
 housenumber: 132

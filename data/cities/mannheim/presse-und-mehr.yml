@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.4864588
 longitude: 8.465257600000001
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 

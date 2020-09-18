@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.504499800000005
 longitude: 8.6010931
-postcode: 68542
+postcode: "68542"
 city: Heddesheim
 street: "Unterdorfstraße"
 housenumber: 13

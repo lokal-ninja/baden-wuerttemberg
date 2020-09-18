@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.0772483
 longitude: 8.3877959
-postcode: 76344
+postcode: "76344"
 city: Eggenstein-Leopoldshafen
 street: "Hauptstraße"
 housenumber: 60

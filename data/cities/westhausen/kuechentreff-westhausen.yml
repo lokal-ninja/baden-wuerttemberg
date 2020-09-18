@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.883289000000005
 longitude: 10.174087
-postcode: 73463
+postcode: "73463"
 city: Westhausen
 street: "In der Waage"
 housenumber: 3

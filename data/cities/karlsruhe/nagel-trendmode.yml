@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.999352200000004
 longitude: 8.4698808
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 76

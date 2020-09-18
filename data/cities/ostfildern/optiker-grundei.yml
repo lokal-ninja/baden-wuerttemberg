@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.729653400000004
 longitude: 9.2494733
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Stuttgarter Straße"
 housenumber: 13

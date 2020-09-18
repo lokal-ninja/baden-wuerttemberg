@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.0487563
 longitude: 8.533156700000001
-postcode: 76356
+postcode: "76356"
 city: Weingarten
 street: "Kirchbergstraße"
 housenumber: 17

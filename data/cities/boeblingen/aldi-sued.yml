@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.685996800000005
 longitude: 8.9931447
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Otto-Lilienthal-Straße"
 housenumber: 3

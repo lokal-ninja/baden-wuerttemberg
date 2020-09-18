@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.632452900000004
 longitude: 8.8963683
-postcode: 71154
+postcode: "71154"
 city: Nufringen
 street: "Rudolf-Diesel-Straße"
 housenumber: 37

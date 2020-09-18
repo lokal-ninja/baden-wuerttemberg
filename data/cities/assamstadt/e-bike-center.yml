@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4264692
 longitude: 9.7014457
-postcode: 97959
+postcode: "97959"
 city: Assamstadt
 street: "Industriestraße"
 housenumber: 10

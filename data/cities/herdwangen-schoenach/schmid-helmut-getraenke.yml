@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.862443600000006
 longitude: 9.1687084
-postcode: 88634
+postcode: "88634"
 city: Herdwangen-Schönach
 street: "Bodenseestraße"
 housenumber: 25

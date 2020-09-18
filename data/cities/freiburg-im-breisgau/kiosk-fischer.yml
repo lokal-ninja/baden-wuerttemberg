@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 48.0117587
 longitude: 7.809208300000001
-postcode: 79114
+postcode: "79114"
 city: Freiburg im Breisgau
 street: "Dietenbachstraße"
 housenumber: 1

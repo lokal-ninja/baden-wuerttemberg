@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.399252700000005
 longitude: 8.655329700000001
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Diebsweg"
 housenumber: 9a

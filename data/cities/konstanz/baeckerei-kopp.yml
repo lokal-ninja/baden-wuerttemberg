@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.691481100000004
 longitude: 9.145771100000001
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Radolfzeller Straße"
 housenumber: 2

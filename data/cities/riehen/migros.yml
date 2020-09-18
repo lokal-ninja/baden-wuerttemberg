@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 47.5852901
 longitude: 7.6517854000000005
-postcode: 4125
+postcode: "4125"
 city: Riehen
 street: "Webergässchen"
 housenumber: 8
 phone: "+41 58 575 83 80"
-opening_hours: ""
-website: "http://filialen.migros.ch/de/#/Riehen-Dorf/0024360"
+opening_hours: "Mo-Fr 08:00-19:00, Sa 07:30-18:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-riehen-dorf"

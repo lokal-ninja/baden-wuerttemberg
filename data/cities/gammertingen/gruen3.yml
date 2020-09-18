@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.2479505
 longitude: 9.220461700000001
-postcode: 72501
+postcode: "72501"
 city: Gammertingen
 street: "Sigmaringer Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5061179
 longitude: 9.207270600000001
-postcode: 72760
+postcode: "72760"
 city: Reutlingen
 street: "Carl-Diem-Straße"
 housenumber: 10

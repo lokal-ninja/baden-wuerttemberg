@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.036823500000004
 longitude: 8.7033444
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Am Seedamm"
 housenumber: 8

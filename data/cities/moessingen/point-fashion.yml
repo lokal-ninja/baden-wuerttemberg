@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.406103
 longitude: 9.054274000000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Bahnhofstraße"
 housenumber: 19

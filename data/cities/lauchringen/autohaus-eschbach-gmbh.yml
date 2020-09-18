@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.628074700000006
 longitude: 8.315153200000001
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Riedstraße"
 housenumber: 2

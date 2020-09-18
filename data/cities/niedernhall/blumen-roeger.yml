@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.2928171
 longitude: 9.6184799
-postcode: 74676
+postcode: "74676"
 city: Niedernhall
 street: "Neufelser Straße"
 housenumber: 24

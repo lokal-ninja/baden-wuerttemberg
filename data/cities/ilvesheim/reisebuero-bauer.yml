@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.4723625
 longitude: 8.565794
-postcode: 68549
+postcode: "68549"
 city: Ilvesheim
 street: "Neue Schulstraße"
 housenumber: 15b

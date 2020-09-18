@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.6963743
 longitude: 8.1382294
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Johannes-Passage"
 housenumber: 8

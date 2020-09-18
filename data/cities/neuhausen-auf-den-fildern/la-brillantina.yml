@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.682972400000004
 longitude: 9.278517800000001
-postcode: 73765
+postcode: "73765"
 city: Neuhausen auf den Fildern
 street: "Schlossplatz"
 housenumber: 6

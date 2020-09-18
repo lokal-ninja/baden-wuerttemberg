@@ -3,10 +3,10 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.1419178
 longitude: 10.0413925
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Hans-Scholl-Allee"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

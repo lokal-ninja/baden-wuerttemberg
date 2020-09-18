@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.619597500000005
 longitude: 8.1240904
-postcode: 77887
+postcode: "77887"
 city: Sasbachwalden
 street: "Talstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.561933200000006
 longitude: 8.908545100000001
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Römerstraße"
 housenumber: 1

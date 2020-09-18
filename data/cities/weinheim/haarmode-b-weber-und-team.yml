@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.552146300000004
 longitude: 8.6594476
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Mannheimer Straße"
 housenumber: 28

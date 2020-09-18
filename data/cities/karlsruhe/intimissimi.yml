@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 49.0098344
 longitude: 8.3954115
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 215
-phone: ""
+phone: "+49 721 82005568"
 opening_hours: ""
-website: ""
+website: "https://www.intimissimi.com/de/karlsruhe_kaiserstrasse_215/IO20.html"

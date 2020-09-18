@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.494494
 longitude: 8.4573701
-postcode: 68159
+postcode: "68159"
 city: Mannheim
 street: "Hafenstraße"
 housenumber: 58

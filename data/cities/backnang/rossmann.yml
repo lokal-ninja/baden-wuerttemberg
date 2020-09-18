@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.94696810000001
 longitude: 9.433651300000001
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Sulzbacher Straße"
 housenumber: 10

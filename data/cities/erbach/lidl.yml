@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.326021600000004
 longitude: 9.8989776
-postcode: 89155
+postcode: "89155"
 city: Erbach
 street: "Heinrich-Hammer-Straße"
 housenumber: 17

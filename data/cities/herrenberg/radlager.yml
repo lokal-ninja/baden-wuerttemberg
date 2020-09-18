@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.5949675
 longitude: 8.871723300000001
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Spitalgasse"
 housenumber: 42

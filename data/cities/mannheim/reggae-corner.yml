@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.4951507
 longitude: 8.461159
-postcode: 68159
+postcode: "68159"
 city: Mannheim
 street: "Schanzenstraße"
 housenumber: 28

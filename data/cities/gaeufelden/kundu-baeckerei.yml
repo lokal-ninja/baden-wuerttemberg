@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.556285
 longitude: 8.849061800000001
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Raiffeisenstraße"
 housenumber: 20

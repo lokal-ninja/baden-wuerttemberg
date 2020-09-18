@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.8132688
 longitude: 9.1608418
-postcode: 88696
+postcode: "88696"
 city: Owingen
 street: "Hauptstraße"
 housenumber: 4a

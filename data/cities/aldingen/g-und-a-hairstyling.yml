@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0943047
 longitude: 8.702122000000001
-postcode: 78554
+postcode: "78554"
 city: Aldingen
 street: "Hauptstraße"
 housenumber: 12

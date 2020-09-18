@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 48.729799400000005
 longitude: 9.2525484
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Hedelfinger Straße"
 housenumber: 10

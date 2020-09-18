@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.1117769
 longitude: 9.737532
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Obere Herrngasse"
 housenumber: 3

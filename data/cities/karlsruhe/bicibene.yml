@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.9998761
 longitude: 8.466490400000001
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 90

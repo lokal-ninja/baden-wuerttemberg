@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.5045871
 longitude: 9.058605
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Hechinger Straße"
 housenumber: 130

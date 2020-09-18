@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.9975643
 longitude: 8.457428
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Raiherwiesenstraße"
 housenumber: 36

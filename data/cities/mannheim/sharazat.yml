@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.486547900000005
 longitude: 8.465331500000001
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 

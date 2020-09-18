@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.7090023
 longitude: 9.6021883
-postcode: 88074
+postcode: "88074"
 city: Meckenbeuren
 street: "Siggenweilerstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 48.489085200000005
 longitude: 9.2141567
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Weingärtnerstraße"
 housenumber: 27

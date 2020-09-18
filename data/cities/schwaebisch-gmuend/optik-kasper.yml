@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.8013093
 longitude: 9.7994464
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Kalter Markt"
 housenumber: 28

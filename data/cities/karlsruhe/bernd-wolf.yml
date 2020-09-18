@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.0088784
 longitude: 8.3975702
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Erbprinzenstraße"
 housenumber: 24

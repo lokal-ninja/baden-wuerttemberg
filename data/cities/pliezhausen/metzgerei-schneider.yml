@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.565399500000005
 longitude: 9.1961294
-postcode: 72124
+postcode: "72124"
 city: Pliezhausen
 street: "Gutenbergstraße"
 housenumber: 1

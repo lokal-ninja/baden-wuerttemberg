@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.637379
 longitude: 9.0129494
-postcode: 71088
+postcode: "71088"
 city: Holzgerlingen
 street: "Schloßstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 47.670634
 longitude: 9.5873434
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Grabenstraße"
 housenumber: 13

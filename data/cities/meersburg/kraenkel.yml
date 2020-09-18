@@ -1,12 +1,12 @@
-id: 583259773
-type: node
+id: 36331377
+type: way
 shop: Bäckerei
-latitude: 47.6949126
-longitude: 9.2807137
-postcode: 88709
+latitude: 47.694468300000004
+longitude: 9.272035200000001
+postcode: "88709"
 city: Meersburg
-street: "Kronenstraße"
-housenumber: 8
-phone: "+49 7532 807180"
+street: "Steigstraße"
+housenumber: 7
+phone: "+49 7532 447211"
 opening_hours: ""
 website: "http://www.baecker-kraenkel.de"

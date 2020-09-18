@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.6892762
 longitude: 9.147831700000001
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Radolfzeller Straße"
 housenumber: 11

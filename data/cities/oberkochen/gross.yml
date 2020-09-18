@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7884984
 longitude: 10.1082967
-postcode: 73447
+postcode: "73447"
 city: Oberkochen
 street: "Walther-Bauersfeld-Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4890789
 longitude: 9.2178498
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Albstraße"
 housenumber: 20

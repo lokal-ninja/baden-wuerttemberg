@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1626923
 longitude: 8.6335742
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Ruhe-Christi-Straße"
 housenumber: 38

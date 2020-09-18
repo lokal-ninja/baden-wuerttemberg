@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.5921546
 longitude: 7.7016983
-postcode: 79594
+postcode: "79594"
 city: Inzlingen
 street: "Schloßstraße"
 housenumber: 4

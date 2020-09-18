@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.882210400000005
 longitude: 10.1874075
-postcode: 73463
+postcode: "73463"
 city: Westhausen
 street: "Deutschordenstraße"
 housenumber: 18

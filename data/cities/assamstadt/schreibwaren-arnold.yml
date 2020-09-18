@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.4268359
 longitude: 9.6878767
-postcode: 97959
+postcode: "97959"
 city: Assamstadt
 street: "Rengershäuser Straße"
 housenumber: 1

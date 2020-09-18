@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.0831582
 longitude: 9.195491200000001
-postcode: 74388
+postcode: "74388"
 city: Talheim
 street: "Sonnenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.9495817
 longitude: 9.142324700000001
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Rohräckerstraße"
 housenumber: 10

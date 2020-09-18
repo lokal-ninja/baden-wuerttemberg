@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.629883500000005
 longitude: 8.399450700000001
-postcode: 79771
+postcode: "79771"
 city: Klettgau
 street: "Industriestraße"
 housenumber: 2

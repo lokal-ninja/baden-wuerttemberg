@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.125293500000005
 longitude: 8.5939935
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Luisenstraße"
 housenumber: 1

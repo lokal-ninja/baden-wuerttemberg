@@ -1,6 +1,6 @@
 ---
 title: Graben-Neudorf
 url: /graben-neudorf/
-latitude: 49.1591681
-longitude: 8.486308600000001
+latitude: 49.1640231
+longitude: 8.493046300000001
 ---

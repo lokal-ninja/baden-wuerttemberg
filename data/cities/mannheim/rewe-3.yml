@@ -1,12 +1,12 @@
-id: 164049483
-type: way
+id: 3444426184
+type: node
 shop: Supermarkt
-latitude: 49.517445
-longitude: 8.5108409
-postcode: 68309
+latitude: 49.456933600000006
+longitude: 8.4807772
+postcode: "68199"
 city: Mannheim
-street: "Dornheimer Ring"
-housenumber: 96
-phone: "+49 621 7185416"
-opening_hours: "Mo-Sa 07:00-24:00; PH off"
-website: "https://www.rewe.de/"
+street: "Steubenstraße"
+housenumber: 76
+phone: ""
+opening_hours: "Mo-Sa 7:00-22:00"
+website: ""

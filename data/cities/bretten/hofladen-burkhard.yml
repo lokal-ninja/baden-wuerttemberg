@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.0400426
 longitude: 8.733145
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: ""
 housenumber: 1

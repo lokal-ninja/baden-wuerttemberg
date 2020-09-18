@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.6929196
 longitude: 9.2707799
-postcode: 88709
+postcode: "88709"
 city: Meersburg
 street: "Unterstadtstraße"
 housenumber: 24

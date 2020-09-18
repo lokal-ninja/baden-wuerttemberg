@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.696074800000005
 longitude: 10.157886300000001
-postcode: 89520
+postcode: "89520"
 city: Heidenheim an der Brenz
 street: "Heidenheimer Straße"
 housenumber: 182

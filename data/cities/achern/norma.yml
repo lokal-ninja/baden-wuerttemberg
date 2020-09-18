@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.629353200000004
 longitude: 8.062659700000001
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Fautenbacher Straße"
 housenumber: 5-7

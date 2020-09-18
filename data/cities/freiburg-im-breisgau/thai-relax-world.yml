@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.0114211
 longitude: 7.810672
-postcode: 79110
+postcode: "79110"
 city: Freiburg im Breisgau
 street: "Sundgauallee"
 housenumber: 112

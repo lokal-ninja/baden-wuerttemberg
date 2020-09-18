@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 48.050752800000005
 longitude: 8.2077715
-postcode: 78120
+postcode: "78120"
 city: Furtwangen im Schwarzwald
 street: "Gerwigstraße"
 housenumber: 12

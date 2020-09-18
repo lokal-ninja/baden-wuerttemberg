@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 47.7372334
 longitude: 8.7776554
-postcode: 78244
+postcode: "78244"
 city: Gottmadingen
 street: "Johann-Georg-Fahr-Straße"
 housenumber: 27

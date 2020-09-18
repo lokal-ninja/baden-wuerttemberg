@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.7223545
 longitude: 9.644449
-postcode: 73035
+postcode: "73035"
 city: Göppingen
 street: "Marbachstraße"
 housenumber: 46

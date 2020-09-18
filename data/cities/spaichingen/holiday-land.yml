@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.074300300000004
 longitude: 8.7370897
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Hauptstraße"
 housenumber: 115

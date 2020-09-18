@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.078649600000006
 longitude: 9.1400991
-postcode: 
+postcode: ""
 city: Inzigkofen
 street: "Burgstraße"
 housenumber: 9

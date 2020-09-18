@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.126890700000004
 longitude: 8.5980731
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Wilderichstraße"
 housenumber: 3

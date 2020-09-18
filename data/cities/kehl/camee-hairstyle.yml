@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.573846700000004
 longitude: 7.8109329
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Hauptstraße"
 housenumber: 54a

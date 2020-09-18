@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 49.010125800000004
 longitude: 8.3957434
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 140
-phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: ""
+phone: "+49 721 2038700"
+opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
+website: "https://www.newyorker.de/stores/"

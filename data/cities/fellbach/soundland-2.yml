@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 48.815926600000004
 longitude: 9.2778275
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Schorndorfer Straße"
 housenumber: 25

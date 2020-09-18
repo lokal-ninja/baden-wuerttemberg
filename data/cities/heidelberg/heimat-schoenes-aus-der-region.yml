@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.4123365
 longitude: 8.7098679
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Marktplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.77956390000001
 longitude: 9.796277
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Einhornstraße"
 housenumber: 30

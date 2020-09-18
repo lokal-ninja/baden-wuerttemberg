@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.393462
 longitude: 8.841409
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Neuhofer Straße"
 housenumber: 22

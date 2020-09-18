@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.084952
 longitude: 9.1948332
-postcode: 74388
+postcode: "74388"
 city: Talheim
 street: "Rathausplatz"
 housenumber: 28

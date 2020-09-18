@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.6805815
 longitude: 9.181467600000001
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Stockackerweg"
 housenumber: 41

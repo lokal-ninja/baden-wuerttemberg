@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.876634100000004
 longitude: 9.3996031
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Mühltorstraße"
 housenumber: 9

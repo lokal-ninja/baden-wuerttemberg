@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.7360498
 longitude: 8.7766178
-postcode: 78244
+postcode: "78244"
 city: Gottmadingen
 street: "Im Buck"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.653288700000004
 longitude: 7.9243091
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Schloßplatz"
 housenumber: 1

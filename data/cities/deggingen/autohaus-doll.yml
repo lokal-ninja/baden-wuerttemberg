@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.5964079
 longitude: 9.7131231
-postcode: 73326
+postcode: "73326"
 city: Deggingen
 street: "Königstraße"
 housenumber: 72

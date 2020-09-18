@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.487517700000005
 longitude: 8.467277600000001
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 

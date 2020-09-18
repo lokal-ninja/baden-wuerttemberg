@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.0353943
 longitude: 8.4450099
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Lötzener Straße"
 housenumber: 18

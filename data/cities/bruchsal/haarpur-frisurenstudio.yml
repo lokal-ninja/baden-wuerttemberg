@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.0918429
 longitude: 8.5401989
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Metzgerallmend"
 housenumber: 4

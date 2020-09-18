@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 48.951874700000005
 longitude: 8.470982300000001
-postcode: 76228
+postcode: "76228"
 city: Karlsruhe
 street: "Wiesenstraße"
 housenumber: 36

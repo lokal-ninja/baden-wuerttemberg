@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.9638616
 longitude: 7.955279000000001
-postcode: 79199
+postcode: "79199"
 city: Kirchzarten
 street: "Schwarzwaldstraße"
 housenumber: 9

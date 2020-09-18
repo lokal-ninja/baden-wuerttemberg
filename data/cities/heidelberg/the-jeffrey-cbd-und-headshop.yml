@@ -3,7 +3,7 @@ type: node
 shop: Hanf
 latitude: 49.4083727
 longitude: 8.6957052
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Nadlerstraße"
 housenumber: 3

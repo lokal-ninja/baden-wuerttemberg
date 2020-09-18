@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 47.6298412
 longitude: 8.3154644
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Riedstraße"
 housenumber: 16

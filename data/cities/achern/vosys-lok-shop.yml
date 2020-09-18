@@ -1,12 +1,12 @@
 id: 2051496090
 type: node
 shop: Spielzeug
-latitude: 48.629048700000006
-longitude: 8.0800339
-postcode: 77855
+latitude: 48.6290655
+longitude: 8.080007100000001
+postcode: "77855"
 city: Achern
 street: "Sasbacher Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-13:00"
-website: ""
+website: "https://www.vosys-lok-shop.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.708091700000004
 longitude: 9.3053883
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Rudolf-Diesel-Straße"
 housenumber: 10

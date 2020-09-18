@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.295423
 longitude: 8.867604
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Schweizer Straße"
 housenumber: 70/1

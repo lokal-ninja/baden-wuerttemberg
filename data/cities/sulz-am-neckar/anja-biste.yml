@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3658167
 longitude: 8.6542362
-postcode: 72172
+postcode: "72172"
 city: Sulz am Neckar
 street: "Rathausstraße"
 housenumber: 1

@@ -1,12 +1,12 @@
-id: 134499444
-type: way
+id: 7381029670
+type: node
 shop: Supermarkt
-latitude: 49.00942980000001
-longitude: 8.438962
-postcode: 76131
+latitude: 48.9932753
+longitude: 8.385208800000001
+postcode: "76135"
 city: Karlsruhe
-street: "Theodor-Rehbock-Straße"
-housenumber: 17
+street: "Hohenzollernstraße"
+housenumber: 69
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: ""
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Hohenzollernstra%C3%9Fe%2069%2076135%20Karlsruhe&Mode=None"

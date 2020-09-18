@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7142307
 longitude: 10.159090200000001
-postcode: 89520
+postcode: "89520"
 city: Heidenheim an der Brenz
 street: "Aufhausener Straße"
 housenumber: 23

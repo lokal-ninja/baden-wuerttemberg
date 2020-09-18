@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.7108095
 longitude: 9.571851
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Stuttgarter Straße"
 housenumber: 139

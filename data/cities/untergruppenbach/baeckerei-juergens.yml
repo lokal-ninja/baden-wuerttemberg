@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.089013
 longitude: 9.2764088
-postcode: 74199
+postcode: "74199"
 city: Untergruppenbach
 street: "Hauptstraße"
 housenumber: 17

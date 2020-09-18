@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.792337
 longitude: 9.8035289
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Weißensteiner Straße"
 housenumber: 44

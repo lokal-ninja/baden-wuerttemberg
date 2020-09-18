@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.886115600000004
 longitude: 9.001512100000001
-postcode: 71735
+postcode: "71735"
 city: Eberdingen
 street: "Hauptstraße"
 housenumber: 3

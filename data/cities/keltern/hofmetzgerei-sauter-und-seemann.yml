@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.892577100000004
 longitude: 8.5791824
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: "Grenzsägmühle"
 housenumber: 2/1

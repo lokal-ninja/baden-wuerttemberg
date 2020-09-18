@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.905942800000005
 longitude: 9.082481600000001
-postcode: 71706
+postcode: "71706"
 city: Markgröningen
 street: "Helenenstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.946696200000005
 longitude: 9.148854100000001
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Hans-Kudlich-Platz"
 housenumber: 4

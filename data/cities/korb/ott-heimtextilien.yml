@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.8424926
 longitude: 9.3602664
-postcode: 71404
+postcode: "71404"
 city: Korb
 street: "Seestraße"
 housenumber: 6

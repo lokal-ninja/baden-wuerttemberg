@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.5940035
 longitude: 8.173075800000001
-postcode: 5325
+postcode: "5325"
 city: Leibstadt
 street: "Bernaustrasse"
 housenumber: 212

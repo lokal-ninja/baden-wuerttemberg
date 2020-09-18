@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.1676687
 longitude: 8.6243338
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Oberamteigasse"
 housenumber: 1

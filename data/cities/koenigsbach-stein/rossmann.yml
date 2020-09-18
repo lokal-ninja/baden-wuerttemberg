@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.9616157
 longitude: 8.6213715
-postcode: 75203
+postcode: "75203"
 city: Königsbach-Stein
 street: "Steiner Straße"
 housenumber: 62

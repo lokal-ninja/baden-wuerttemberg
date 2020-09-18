@@ -3,7 +3,7 @@ type: node
 shop: Rahmen
 latitude: 49.765261
 longitude: 9.5197561
-postcode: 97892
+postcode: "97892"
 city: Kreuzwertheim
 street: "Philipp-Günzelmann-Weg"
 housenumber: 2e

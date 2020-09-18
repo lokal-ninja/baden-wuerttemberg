@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6220705
 longitude: 9.0533354
-postcode: 71093
+postcode: "71093"
 city: Weil im Schönbuch
 street: "Hauptstraße"
 housenumber: 107

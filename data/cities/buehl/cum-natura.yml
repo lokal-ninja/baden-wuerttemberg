@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.7077873
 longitude: 8.1323225
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Am Froschbächle"
 housenumber: 17

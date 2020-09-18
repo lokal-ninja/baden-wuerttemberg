@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.622417500000005
 longitude: 10.019261100000001
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Böhmenstraße"
 housenumber: 12

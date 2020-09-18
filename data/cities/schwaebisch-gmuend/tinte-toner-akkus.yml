@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.802500200000004
 longitude: 9.8013855
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Hintere Schmiedgasse"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.901672600000005
 longitude: 8.578051
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: "Lindenstraße"
 housenumber: 5

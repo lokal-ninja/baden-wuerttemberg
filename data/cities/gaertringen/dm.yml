@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.642114600000006
 longitude: 8.9137652
-postcode: 71116
+postcode: "71116"
 city: Gärtringen
 street: "Max-Planck-Straße"
 housenumber: 26

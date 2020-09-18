@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.896213
 longitude: 8.704774200000001
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Pfälzerstraße"
 housenumber: 20

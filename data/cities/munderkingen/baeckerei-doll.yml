@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2358453
 longitude: 9.6436893
-postcode: 89597
+postcode: "89597"
 city: Munderkingen
 street: "Donaustraße"
 housenumber: 25

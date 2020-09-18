@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.3257532
 longitude: 8.9766063
-postcode: 74921
+postcode: "74921"
 city: Helmstadt-Bargen
 street: "Asbacher Straße"
 housenumber: 2a

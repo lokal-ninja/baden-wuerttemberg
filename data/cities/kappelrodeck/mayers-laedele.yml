@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.5910856
 longitude: 8.1148738
-postcode: 77876
+postcode: "77876"
 city: Kappelrodeck
 street: "Waldulmer Straße"
 housenumber: 28

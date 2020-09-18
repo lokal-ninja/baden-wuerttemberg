@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.797985100000005
 longitude: 8.4953423
-postcode: 75335
+postcode: "75335"
 city: Dobel
 street: "Hauptstraße"
 housenumber: 15

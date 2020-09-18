@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.87698940000001
 longitude: 9.396864200000001
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Marktstraße"
 housenumber: 11

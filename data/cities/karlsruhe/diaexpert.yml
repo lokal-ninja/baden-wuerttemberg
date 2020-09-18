@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.005809500000005
 longitude: 8.3943154
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kriegsstraße"
 housenumber: 140

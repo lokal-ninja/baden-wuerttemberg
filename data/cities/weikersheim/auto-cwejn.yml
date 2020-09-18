@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.4884502
 longitude: 9.9006637
-postcode: 97990
+postcode: "97990"
 city: Weikersheim
 street: "Ahornweg"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.8646274
 longitude: 9.1849042
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Bahnhofstraße"
 housenumber: 2

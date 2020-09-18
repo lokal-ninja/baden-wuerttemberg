@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 48.798413700000005
 longitude: 9.973622200000001
-postcode: 73540
+postcode: "73540"
 city: Heubach
 street: "Obere Mühlgasse"
 housenumber: 3

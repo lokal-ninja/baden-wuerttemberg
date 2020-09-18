@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.2277677
 longitude: 8.503846900000001
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Bahnhofstraße"
 housenumber: 146

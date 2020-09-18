@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.063080500000005
 longitude: 9.005176
-postcode: 74363
+postcode: "74363"
 city: Güglingen
 street: "Emil-Weber-Straße"
 housenumber: 25

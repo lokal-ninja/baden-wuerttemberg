@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.217108
 longitude: 9.2322135
-postcode: 72513
+postcode: "72513"
 city: Hettingen
 street: "Hauptstraße"
 housenumber: 42

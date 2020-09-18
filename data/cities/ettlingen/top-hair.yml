@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.945511700000004
 longitude: 8.408259000000001
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Huttenkreuzstraße"
 housenumber: 3

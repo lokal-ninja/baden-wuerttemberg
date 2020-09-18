@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.698258
 longitude: 8.7490454
-postcode: 78262
+postcode: "78262"
 city: Gailingen am Hochrhein
 street: "Hauptstraße"
 housenumber: 47

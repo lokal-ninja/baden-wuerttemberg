@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.572326600000004
 longitude: 7.8153348000000005
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Hauptstraße"
 housenumber: 90

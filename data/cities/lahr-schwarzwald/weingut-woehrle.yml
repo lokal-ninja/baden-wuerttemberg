@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.3432174
 longitude: 7.850423
-postcode: 77933
+postcode: "77933"
 city: Lahr/Schwarzwald
 street: "Weinbergstraße"
 housenumber: 3

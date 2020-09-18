@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.129111300000005
 longitude: 7.802291200000001
-postcode: 79331
+postcode: "79331"
 city: Teningen
 street: "Riegeler Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 47.829396800000005
 longitude: 9.650659000000001
-postcode: 88255
+postcode: "88255"
 city: Baienfurt
 street: "Jahnstraße"
 housenumber: 11

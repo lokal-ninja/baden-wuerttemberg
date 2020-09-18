@@ -1,12 +1,12 @@
 id: 6718702309
 type: node
 shop: Supermarkt
-latitude: 48.742082
-longitude: 10.1121456
-postcode: 89551
+latitude: 48.742024300000004
+longitude: 10.1121377
+postcode: "89551"
 city: Königsbronn
 street: "Aalener Straße"
-housenumber: 23
+housenumber: 25
 phone: "+497328-9298020"
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Sa 07:00-22:00; ph off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.6288199
 longitude: 8.0721632
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Hauptstraße"
 housenumber: 45

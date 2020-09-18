@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.140427900000006
 longitude: 9.2133371
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Holzstraße"
 housenumber: 6

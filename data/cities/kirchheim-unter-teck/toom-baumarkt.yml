@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.650339200000005
 longitude: 9.4398502
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Stuttgarter Straße"
 housenumber: 51

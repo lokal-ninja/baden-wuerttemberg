@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7701714
 longitude: 9.1841861
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Wächterstraße"
 housenumber: 9

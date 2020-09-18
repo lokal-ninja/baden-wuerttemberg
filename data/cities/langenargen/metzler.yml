@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.596887200000005
 longitude: 9.541850700000001
-postcode: 88085
+postcode: "88085"
 city: Langenargen
 street: "Klosterstraße"
 housenumber: 1

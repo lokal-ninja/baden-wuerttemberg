@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.403300900000005
 longitude: 10.0033688
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Schwambergerstraße"
 housenumber: 61

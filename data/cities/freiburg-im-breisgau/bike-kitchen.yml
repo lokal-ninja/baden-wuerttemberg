@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.9915936
 longitude: 7.8475599
-postcode: 79098
+postcode: "79098"
 city: Freiburg im Breisgau
 street: "Gartenstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3806608
 longitude: 8.8874481
-postcode: 72414
+postcode: "72414"
 city: Rangendingen
 street: "Oberdorfstraße"
 housenumber: 1

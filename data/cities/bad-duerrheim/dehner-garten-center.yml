@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.0318015
 longitude: 8.532971700000001
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Schwenninger Straße"
 housenumber: 20

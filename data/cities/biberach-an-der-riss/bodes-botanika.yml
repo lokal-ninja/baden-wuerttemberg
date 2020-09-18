@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.0836826
 longitude: 9.7918088
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Schlierenbachstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.1113367
 longitude: 9.8251042
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Althof"
 housenumber: 10

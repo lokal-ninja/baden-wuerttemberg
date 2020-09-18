@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2867558
 longitude: 9.726113400000001
-postcode: 89584
+postcode: "89584"
 city: Ehingen (Donau)
 street: "Adolffstraße"
 housenumber: 46

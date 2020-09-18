@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.985159800000005
 longitude: 8.8202197
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Untere Hauptstraße"
 housenumber: 20

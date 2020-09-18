@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.978818200000006
 longitude: 9.580673800000001
-postcode: 71540
+postcode: "71540"
 city: Murrhardt
 street: "Hauptstraße"
 housenumber: 43

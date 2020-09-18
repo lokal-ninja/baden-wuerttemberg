@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5209728
 longitude: 8.322005
-postcode: 72270
+postcode: "72270"
 city: Baiersbronn
 street: "Ruhesteinstraße"
 housenumber: 307

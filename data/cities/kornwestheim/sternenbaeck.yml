@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.862123000000004
 longitude: 9.1850041
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Stuttgarter Straße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3756606
 longitude: 8.5670569
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Königsäcker"
 housenumber: 112

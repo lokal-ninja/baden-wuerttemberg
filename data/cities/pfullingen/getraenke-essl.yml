@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.4756561
 longitude: 9.226320600000001
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Max-Eyth-Straße"
 housenumber: 19

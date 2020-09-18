@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 48.621472600000004
 longitude: 10.022962600000001
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Gartenstraße"
 housenumber: 12

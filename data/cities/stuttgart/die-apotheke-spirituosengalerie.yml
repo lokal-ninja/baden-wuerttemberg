@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 48.770569800000004
 longitude: 9.1865334
-postcode: 70184
+postcode: "70184"
 city: Stuttgart
 street: "Hohenheimer Straße"
 housenumber: 38

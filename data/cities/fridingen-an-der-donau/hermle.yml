@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.020668900000004
 longitude: 8.9333878
-postcode: 78567
+postcode: "78567"
 city: Fridingen an der Donau
 street: "Bahnhofstraße"
 housenumber: 1

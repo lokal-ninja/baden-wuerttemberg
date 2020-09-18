@@ -3,10 +3,10 @@ type: way
 shop: Sanitätshaus
 latitude: 47.7389098
 longitude: 8.9680595
-postcode: 78315
+postcode: "78315"
 city: Radolfzell am Bodensee
 street: "Bismarckstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.sanitaetshaus-trapp.de/kontakt-filialen/niederlassung-radolfzell.html"

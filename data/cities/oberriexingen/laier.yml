@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9256316
 longitude: 9.028476600000001
-postcode: 71739
+postcode: "71739"
 city: Oberriexingen
 street: "Hauptstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2621789
 longitude: 7.7244039
-postcode: 77977
+postcode: "77977"
 city: Rust
 street: "Alemannenstraße"
 housenumber: 1

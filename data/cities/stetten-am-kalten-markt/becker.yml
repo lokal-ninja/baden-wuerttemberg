@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.1222733
 longitude: 9.0777771
-postcode: 72510
+postcode: "72510"
 city: Stetten am kalten Markt
 street: "Lagerstraße"
 housenumber: 2

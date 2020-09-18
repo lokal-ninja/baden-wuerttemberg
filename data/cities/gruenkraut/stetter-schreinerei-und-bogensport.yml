@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.755796600000004
 longitude: 9.6595802
-postcode: 88287
+postcode: "88287"
 city: Grünkraut
 street: "Schlierer Straße"
 housenumber: 55

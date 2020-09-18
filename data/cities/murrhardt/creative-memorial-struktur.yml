@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.953895100000004
 longitude: 9.6825378
-postcode: 71540
+postcode: "71540"
 city: Murrhardt
 street: "Lettengasse"
 housenumber: 15

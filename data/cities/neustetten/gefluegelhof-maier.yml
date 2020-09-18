@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.482835200000004
 longitude: 8.8871971
-postcode: 72149
+postcode: "72149"
 city: Neustetten
 street: "Brühlstraße"
 housenumber: 8

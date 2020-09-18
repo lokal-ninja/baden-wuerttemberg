@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.510926000000005
 longitude: 8.539006200000001
-postcode: 68309
+postcode: "68309"
 city: Mannheim
 street: "Geraer Ring"
 housenumber: 6

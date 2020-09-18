@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.894283800000004
 longitude: 9.1851182
-postcode: 71638
+postcode: "71638"
 city: Ludwigsburg
 street: "Schillerstraße"
 housenumber: 16

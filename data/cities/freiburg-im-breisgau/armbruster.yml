@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.010867000000005
 longitude: 7.8105918
-postcode: 79114
+postcode: "79114"
 city: Freiburg im Breisgau
 street: "Sundgauallee"
 housenumber: 55

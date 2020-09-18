@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.0032264
 longitude: 8.3947616
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Karlstraße"
 housenumber: 61

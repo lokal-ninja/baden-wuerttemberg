@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5375852
 longitude: 8.5705852
-postcode: 72285
+postcode: "72285"
 city: Pfalzgrafenweiler
 street: "Dieselstraße"
 housenumber: 9

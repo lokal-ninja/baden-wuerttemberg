@@ -3,10 +3,10 @@ type: way
 shop: Hofladen
 latitude: 49.0638158
 longitude: 9.0863524
-postcode: 74336
+postcode: "74336"
 city: Brackenheim
 street: "Bahnhofstraße"
 housenumber: 41
-phone: "+49 7133 43 65"
+phone: "+49 7133 4365"
 opening_hours: "24/7"
 website: ""

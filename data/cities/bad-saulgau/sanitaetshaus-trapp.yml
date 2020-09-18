@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.0166557
 longitude: 9.501142600000001
-postcode: 88348
+postcode: "88348"
 city: Bad Saulgau
 street: "Hauptstraße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2456371
 longitude: 9.2449402
-postcode: 74229
+postcode: "74229"
 city: Oedheim
 street: "Tannenstraße"
 housenumber: 2

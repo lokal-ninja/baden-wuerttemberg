@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.630162500000004
 longitude: 8.315642500000001
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Riedstraße"
 housenumber: 18

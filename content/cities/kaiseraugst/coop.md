@@ -1,4 +1,4 @@
 ---
-title: "coop"
+title: "Coop"
 url: /kaiseraugst/coop/
 ---

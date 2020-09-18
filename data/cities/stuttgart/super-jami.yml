@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 48.7698874
 longitude: 9.1792428
-postcode: 70180
+postcode: "70180"
 city: Stuttgart
 street: "Bopserstraße"
 housenumber: 10

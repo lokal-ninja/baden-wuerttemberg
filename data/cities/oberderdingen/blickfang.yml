@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.0613278
 longitude: 8.8017403
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Brettener Straße"
 housenumber: 17

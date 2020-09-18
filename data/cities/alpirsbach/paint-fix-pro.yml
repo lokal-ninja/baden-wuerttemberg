@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.3261175
 longitude: 8.4649328
-postcode: 72275
+postcode: "72275"
 city: Alpirsbach
 street: "Fluorner Straße"
 housenumber: 34

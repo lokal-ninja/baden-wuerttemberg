@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.832081200000005
 longitude: 9.262710100000001
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Gotthilf-Bayh-Straße"
 housenumber: 6

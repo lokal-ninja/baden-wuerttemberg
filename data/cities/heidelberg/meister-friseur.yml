@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.405452600000004
 longitude: 8.6754055
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Kurfürsten-Anlage"
 housenumber: 62

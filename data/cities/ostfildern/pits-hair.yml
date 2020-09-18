@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.728621100000005
 longitude: 9.2586531
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Plochinger Straße"
 housenumber: 43

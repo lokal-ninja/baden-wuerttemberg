@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.9880153
 longitude: 7.8750182
-postcode: 79102
+postcode: "79102"
 city: Freiburg im Breisgau
 street: "Schwarzwaldstraße"
 housenumber: 149

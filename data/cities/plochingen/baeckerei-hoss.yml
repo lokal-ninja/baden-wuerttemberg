@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.711827400000004
 longitude: 9.4211078
-postcode: 
+postcode: ""
 city: Plochingen
 street: "Moltkestraße"
 housenumber: 26

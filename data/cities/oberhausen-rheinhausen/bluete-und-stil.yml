@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.2569657
 longitude: 8.489748200000001
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Marienstraße"
 housenumber: 74a

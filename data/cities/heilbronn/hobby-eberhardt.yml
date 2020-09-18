@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 49.1397154
 longitude: 9.216178600000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Allerheiligenstraße"
 housenumber: 8

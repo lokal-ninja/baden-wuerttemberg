@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.6865779
 longitude: 8.1123647
-postcode: 79875
+postcode: "79875"
 city: Dachsberg
 street: "Happenmoos"
 housenumber: 6

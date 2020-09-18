@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.420610200000006
 longitude: 8.7565463
-postcode: 69118
+postcode: "69118"
 city: Heidelberg
 street: "Peterstaler Straße"
 housenumber: 34

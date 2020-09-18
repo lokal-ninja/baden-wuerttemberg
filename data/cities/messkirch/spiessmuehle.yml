@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.975265400000005
 longitude: 9.1611218
-postcode: 88605
+postcode: "88605"
 city: Meßkirch
 street: ""
 housenumber: 37

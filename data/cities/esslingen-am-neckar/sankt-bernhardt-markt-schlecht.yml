@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.7475928
 longitude: 9.322925300000001
-postcode: 73732
+postcode: "73732"
 city: Esslingen am Neckar
 street: "Rotenackerstraße"
 housenumber: 22

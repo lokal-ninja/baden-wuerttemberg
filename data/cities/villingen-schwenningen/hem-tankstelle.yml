@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.0708081
 longitude: 8.4573713
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Vockenhauser Straße"
 housenumber: 14

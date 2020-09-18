@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.8150618
 longitude: 10.0287542
-postcode: 73457
+postcode: "73457"
 city: Essingen
 street: "Heerweg"
 housenumber: 79

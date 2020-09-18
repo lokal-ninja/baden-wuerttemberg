@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 47.9006861
 longitude: 8.1523062
-postcode: 79822
+postcode: "79822"
 city: Titisee-Neustadt
 street: "Seestraße"
 housenumber: 19

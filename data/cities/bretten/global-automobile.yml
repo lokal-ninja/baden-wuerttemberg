@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.044136800000004
 longitude: 8.7193767
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Eppinger Straße"
 housenumber: 6

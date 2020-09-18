@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 49.574722300000005
 longitude: 9.3664129
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: ""
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

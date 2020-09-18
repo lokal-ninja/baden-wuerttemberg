@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.7324302
 longitude: 9.331419700000001
-postcode: 73730
+postcode: "73730"
 city: Esslingen am Neckar
 street: "Kreuzstraße"
 housenumber: 52

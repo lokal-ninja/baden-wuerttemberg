@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.766857800000004
 longitude: 9.6002329
-postcode: 88214
+postcode: "88214"
 city: Ravensburg
 street: "Ravensburger Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.3209175
 longitude: 9.358993400000001
-postcode: 74219
+postcode: "74219"
 city: Möckmühl
 street: "Domenecker Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.6304913
 longitude: 8.5780367
-postcode: 79807
+postcode: "79807"
 city: Lottstetten
 street: "Hauptstraße"
 housenumber: 10

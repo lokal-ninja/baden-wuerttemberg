@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.156000000000006
 longitude: 8.5030952
-postcode: 78078
+postcode: "78078"
 city: Niedereschach
 street: "Sinkinger Straße"
 housenumber: 44

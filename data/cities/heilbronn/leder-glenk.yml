@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 49.1427361
 longitude: 9.2196137
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Am Kieselmarkt"
 housenumber: 4

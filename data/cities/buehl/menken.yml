@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.693211600000005
 longitude: 8.133655300000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Oberweierer Straße"
 housenumber: 1

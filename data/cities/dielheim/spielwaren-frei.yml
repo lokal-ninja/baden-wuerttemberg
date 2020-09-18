@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.2839795
 longitude: 8.732239400000001
-postcode: 69234
+postcode: "69234"
 city: Dielheim
 street: "Augartenstraße"
 housenumber: 11

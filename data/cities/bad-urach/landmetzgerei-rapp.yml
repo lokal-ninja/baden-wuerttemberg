@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.4941174
 longitude: 9.4034215
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Pfählerstraße"
 housenumber: 47

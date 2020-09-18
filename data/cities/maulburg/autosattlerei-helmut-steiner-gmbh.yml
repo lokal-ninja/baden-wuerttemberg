@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.6472069
 longitude: 7.774747400000001
-postcode: 79689
+postcode: "79689"
 city: Maulburg
 street: "Waldstraße"
 housenumber: 15a

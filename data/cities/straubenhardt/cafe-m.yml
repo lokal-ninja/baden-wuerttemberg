@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8453266
 longitude: 8.525611900000001
-postcode: 75334
+postcode: "75334"
 city: Straubenhardt
 street: "Pflugweg"
 housenumber: 19

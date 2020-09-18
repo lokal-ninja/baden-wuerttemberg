@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.51389
 longitude: 9.065012000000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Eberhardstraße"
 housenumber: 21

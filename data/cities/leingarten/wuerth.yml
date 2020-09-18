@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.1510922
 longitude: 9.1224671
-postcode: 74211
+postcode: "74211"
 city: Leingarten
 street: "Boschstraße"
 housenumber: 1

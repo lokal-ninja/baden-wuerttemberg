@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.594490900000004
 longitude: 8.872242100000001
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Hasenplatz"
 housenumber: 4

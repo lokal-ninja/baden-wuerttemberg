@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.826561600000005
 longitude: 10.022349100000001
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Kornhausstraße"
 housenumber: 16

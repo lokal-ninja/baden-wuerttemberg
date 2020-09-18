@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.8246778
 longitude: 10.0200472
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Bahnhofsarkaden"
 housenumber: 6

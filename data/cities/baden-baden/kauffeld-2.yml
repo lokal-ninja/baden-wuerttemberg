@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.793904600000005
 longitude: 8.197823
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Wilhelm-Drapp-Straße"
 housenumber: 14

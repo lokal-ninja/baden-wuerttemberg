@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.244256500000006
 longitude: 9.0894023
-postcode: 72475
+postcode: "72475"
 city: Bitz
 street: "Moltkestraße"
 housenumber: 26

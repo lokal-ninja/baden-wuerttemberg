@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 47.905406000000006
 longitude: 8.106340900000001
-postcode: 79856
+postcode: "79856"
 city: Hinterzarten
 street: "Adlerweg"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-12:30,14:30-17:00; Sa 09:30-12:30"
 website: "http://www.buchhandlung-baeuchle.de/"

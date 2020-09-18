@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 49.475611300000004
 longitude: 8.659603
-postcode: 69198
+postcode: "69198"
 city: Schriesheim
 street: "Talstraße"
 housenumber: 4

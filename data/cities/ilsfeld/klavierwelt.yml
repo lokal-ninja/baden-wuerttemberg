@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 49.042827
 longitude: 9.273709
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
 street: "Wunnensteinstraße"
 housenumber: 31

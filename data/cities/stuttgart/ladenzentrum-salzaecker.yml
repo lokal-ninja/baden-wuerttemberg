@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.7223315
 longitude: 9.157913
-postcode: 70567
+postcode: "70567"
 city: Stuttgart
 street: "Widmaierstraße"
 housenumber: 110

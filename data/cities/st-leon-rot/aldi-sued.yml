@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2680105
 longitude: 8.6135514
-postcode: 68789
+postcode: "68789"
 city: St. Leon-Rot
 street: "Im Schiff"
 housenumber: 9

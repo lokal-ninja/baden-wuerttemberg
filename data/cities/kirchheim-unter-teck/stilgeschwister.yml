@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6480369
 longitude: 9.4521121
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Flachsstraße"
 housenumber: 7

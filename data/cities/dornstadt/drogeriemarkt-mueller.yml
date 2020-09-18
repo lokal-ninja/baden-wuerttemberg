@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.468499800000004
 longitude: 9.9456883
-postcode: 89160
+postcode: "89160"
 city: Dornstadt
 street: "Alte Landstraße"
 housenumber: 5

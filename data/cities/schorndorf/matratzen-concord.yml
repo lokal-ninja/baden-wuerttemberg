@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.811885200000006
 longitude: 9.528873200000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Schlachthausstraße"
 housenumber: 6

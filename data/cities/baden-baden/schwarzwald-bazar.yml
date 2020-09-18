@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.759911
 longitude: 8.2400046
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Lichtentaler Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 49.3279459
 longitude: 8.5386301
-postcode: 68766
+postcode: "68766"
 city: Hockenheim
 street: "Gleisstraße"
 housenumber: 2

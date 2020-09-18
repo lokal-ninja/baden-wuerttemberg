@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5159898
 longitude: 9.055113
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Europaplatz"
 housenumber: 17

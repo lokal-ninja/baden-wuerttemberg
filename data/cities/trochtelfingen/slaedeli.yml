@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.309450600000005
 longitude: 9.2796123
-postcode: 72818
+postcode: "72818"
 city: Trochtelfingen
 street: "Oberstetter Straße"
 housenumber: 8

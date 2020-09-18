@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.8248358
 longitude: 10.019883100000001
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Bahnhofsarkaden"
 housenumber: 7

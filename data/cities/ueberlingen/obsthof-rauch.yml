@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 47.781530700000005
 longitude: 9.2317803
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Scheinbuch"
 housenumber: 2

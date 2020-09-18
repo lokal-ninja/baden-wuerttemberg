@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.118098700000004
 longitude: 8.5131335
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Adlerstraße"
 housenumber: 62

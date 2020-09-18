@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.1113258
 longitude: 8.505579800000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Beethovenstraße"
 housenumber: 32

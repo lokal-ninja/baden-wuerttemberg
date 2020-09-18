@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6926038
 longitude: 9.5662111
-postcode: 73095
+postcode: "73095"
 city: Albershausen
 street: "Uhinger Straße"
 housenumber: 17

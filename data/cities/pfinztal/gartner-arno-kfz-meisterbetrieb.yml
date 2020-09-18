@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.999404500000004
 longitude: 8.5373772
-postcode: 76327
+postcode: "76327"
 city: Pfinztal
 street: "Am Stadion"
 housenumber: 10

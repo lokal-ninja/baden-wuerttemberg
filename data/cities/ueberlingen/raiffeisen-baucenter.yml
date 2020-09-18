@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 47.775072800000004
 longitude: 9.2037355
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Heiligenbreite"
 housenumber: 43

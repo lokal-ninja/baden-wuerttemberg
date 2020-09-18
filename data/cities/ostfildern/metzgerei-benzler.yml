@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.71250190000001
 longitude: 9.3010114
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Esslinger Straße"
 housenumber: 3

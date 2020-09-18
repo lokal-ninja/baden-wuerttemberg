@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7213348
 longitude: 7.9946701000000004
-postcode: 77839
+postcode: "77839"
 city: Lichtenau
 street: "Im Gewerbegebiet"
 housenumber: 47

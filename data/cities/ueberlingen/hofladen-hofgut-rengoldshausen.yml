@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.7713386
 longitude: 9.2029145
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Rengoldshauser Straße"
 housenumber: 29

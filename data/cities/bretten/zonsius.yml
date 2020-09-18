@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.0252762
 longitude: 8.69848
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Salzhofen"
 housenumber: 4/1

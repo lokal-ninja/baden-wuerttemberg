@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.403120200000004
 longitude: 9.973112800000001
-postcode: 89077
+postcode: "89077"
 city: Ulm
 street: "Blaubeurer Straße"
 housenumber: 22

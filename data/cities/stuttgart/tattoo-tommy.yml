@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.803887800000005
 longitude: 9.2193047
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Waiblinger Straße"
 housenumber: 19

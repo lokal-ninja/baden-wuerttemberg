@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.0709608
 longitude: 8.456021400000001
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Vockenhauser Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.7414702
 longitude: 8.9622729
-postcode: 71106
+postcode: "71106"
 city: Magstadt
 street: "Brauereistraße"
 housenumber: 11/2

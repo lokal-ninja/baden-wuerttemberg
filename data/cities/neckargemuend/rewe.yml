@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.396787700000004
 longitude: 8.8033357
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Neckarsteinacher Straße"
 housenumber: 27

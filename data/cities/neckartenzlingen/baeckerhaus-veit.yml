@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.590044500000005
 longitude: 9.236144900000001
-postcode: 72654
+postcode: "72654"
 city: Neckartenzlingen
 street: "Planstraße"
 housenumber: 8

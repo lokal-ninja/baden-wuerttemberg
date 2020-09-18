@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.071136200000005
 longitude: 8.7433925
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Hauptstraße"
 housenumber: 56

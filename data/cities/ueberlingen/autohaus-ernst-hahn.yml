@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.802569500000004
 longitude: 9.2379771
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Hauptstraße"
 housenumber: 37

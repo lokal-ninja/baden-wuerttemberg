@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.7219482
 longitude: 9.6073122
-postcode: 73117
+postcode: "73117"
 city: Wangen
 street: "Daimlerstraße"
 housenumber: 1

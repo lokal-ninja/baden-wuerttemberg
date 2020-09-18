@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8014008
 longitude: 9.794526600000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Ledergasse"
 housenumber: 16

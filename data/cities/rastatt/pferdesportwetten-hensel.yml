@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 48.8535875
 longitude: 8.2077392
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Badstraße"
 housenumber: 4

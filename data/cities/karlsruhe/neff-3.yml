@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9946445
 longitude: 8.3909167
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Ebertstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.5214012
 longitude: 9.3250287
-postcode: 74722
+postcode: "74722"
 city: Buchen (Odenwald)
 street: "Hofstraße"
 housenumber: 6

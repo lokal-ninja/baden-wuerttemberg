@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 48.253897900000005
 longitude: 7.813276500000001
-postcode: 77955
+postcode: "77955"
 city: Ettenheim
 street: "Friedrichstraße"
 housenumber: 

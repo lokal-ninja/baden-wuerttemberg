@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.213664400000006
 longitude: 8.5272287
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Hambrücker Landstraße"
 housenumber: 6

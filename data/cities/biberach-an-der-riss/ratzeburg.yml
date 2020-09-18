@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.098473000000006
 longitude: 9.7910745
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Pfluggasse"
 housenumber: 14

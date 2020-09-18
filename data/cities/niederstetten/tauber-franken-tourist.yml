@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.401037900000006
 longitude: 9.9186368
-postcode: 97996
+postcode: "97996"
 city: Niederstetten
 street: "Lange Gasse"
 housenumber: 1

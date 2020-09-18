@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.745626
 longitude: 8.447236100000001
-postcode: 79780
+postcode: "79780"
 city: Stühlingen
 street: "Hauptstraße"
 housenumber: 14

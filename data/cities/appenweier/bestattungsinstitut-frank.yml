@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.5376204
 longitude: 7.9781922000000005
-postcode: 77767
+postcode: "77767"
 city: Appenweier
 street: "Ortenauer Straße"
 housenumber: 28

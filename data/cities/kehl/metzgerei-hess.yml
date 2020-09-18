@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.568939300000004
 longitude: 7.821907700000001
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Hauptstraße"
 housenumber: 165

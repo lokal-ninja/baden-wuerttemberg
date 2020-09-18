@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.0024729
 longitude: 8.3605593
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
 street: "Zeppelinstraße"
 housenumber: 14

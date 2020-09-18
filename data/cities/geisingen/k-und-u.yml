@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.924545900000005
 longitude: 8.6411204
-postcode: 78187
+postcode: "78187"
 city: Geisingen
 street: "Kleine Breite"
 housenumber: 1

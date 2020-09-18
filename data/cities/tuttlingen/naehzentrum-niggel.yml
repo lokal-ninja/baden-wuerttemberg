@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 47.98151480000001
 longitude: 8.8035799
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Bahnhofstraße"
 housenumber: 118

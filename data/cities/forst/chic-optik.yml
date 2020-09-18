@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.15381
 longitude: 8.58482
-postcode: 76694
+postcode: "76694"
 city: Forst
 street: "Kirchstraße"
 housenumber: 24

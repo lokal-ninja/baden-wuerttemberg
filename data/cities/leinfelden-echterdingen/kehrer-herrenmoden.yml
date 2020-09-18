@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6883349
 longitude: 9.167608000000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Im Gässle"
 housenumber: 1

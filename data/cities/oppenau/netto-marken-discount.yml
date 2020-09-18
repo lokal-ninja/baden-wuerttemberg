@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.468683500000004
 longitude: 8.1633825
-postcode: 77728
+postcode: "77728"
 city: Oppenau
 street: "Schwarzwaldstraße"
 housenumber: 1

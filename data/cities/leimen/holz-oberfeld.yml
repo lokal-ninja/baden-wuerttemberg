@@ -3,7 +3,7 @@ type: way
 shop: Holz
 latitude: 49.3529983
 longitude: 8.6834938
-postcode: 69181
+postcode: "69181"
 city: Leimen
 street: "Lübecker Straße"
 housenumber: 9

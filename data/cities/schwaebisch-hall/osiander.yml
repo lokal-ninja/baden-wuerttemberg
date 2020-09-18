@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.1130129
 longitude: 9.7337605
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Neue Straße"
 housenumber: 29-33

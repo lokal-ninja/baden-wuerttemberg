@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.7731003
 longitude: 9.1823973
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Pfarrstraße"
 housenumber: 21

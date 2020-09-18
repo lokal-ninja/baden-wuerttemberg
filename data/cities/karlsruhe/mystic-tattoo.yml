@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 49.011152800000005
 longitude: 8.3975743
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Passagehof"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.291780200000005
 longitude: 9.081021100000001
-postcode: 74928
+postcode: "74928"
 city: Hüffenhardt
 street: "Reisengasse"
 housenumber: 8

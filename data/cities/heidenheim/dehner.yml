@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.6946115
 longitude: 10.170948500000002
-postcode: 89520
+postcode: "89520"
 city: Heidenheim
 street: "Am Kalkwerk"
 housenumber: 5

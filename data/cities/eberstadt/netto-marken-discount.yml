@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1772781
 longitude: 9.3266922
-postcode: 74246
+postcode: "74246"
 city: Eberstadt
 street: "Weinsberger Straße"
 housenumber: 2

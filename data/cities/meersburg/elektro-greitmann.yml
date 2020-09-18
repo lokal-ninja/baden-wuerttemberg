@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.6947508
 longitude: 9.2709502
-postcode: 88709
+postcode: "88709"
 city: Meersburg
 street: "Winzergasse"
 housenumber: 10

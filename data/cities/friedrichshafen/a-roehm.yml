@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.6578564
 longitude: 9.463183
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Montafonstraße"
 housenumber: 3

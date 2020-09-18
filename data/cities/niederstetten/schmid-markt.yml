@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.3958815
 longitude: 9.9241434
-postcode: 97996
+postcode: "97996"
 city: Niederstetten
 street: "Lerchenweg"
 housenumber: 2

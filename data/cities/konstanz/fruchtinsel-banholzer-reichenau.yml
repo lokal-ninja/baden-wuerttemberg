@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 47.689810400000006
 longitude: 9.150395300000001
-postcode: 
+postcode: ""
 city: Konstanz
 street: "Schwaketenstraße"
 housenumber: 21

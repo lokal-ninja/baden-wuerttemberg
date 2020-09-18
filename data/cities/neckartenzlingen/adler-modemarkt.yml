@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5784066
 longitude: 9.2530493
-postcode: 72654
+postcode: "72654"
 city: Neckartenzlingen
 street: "Schleieräcker"
 housenumber: 1

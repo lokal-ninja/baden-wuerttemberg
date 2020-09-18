@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 49.3870446
 longitude: 8.570703700000001
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Wildemannstraße"
 housenumber: 13

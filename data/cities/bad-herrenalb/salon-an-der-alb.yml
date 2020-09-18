@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7966326
 longitude: 8.435075000000001
-postcode: 76332
+postcode: "76332"
 city: Bad Herrenalb
 street: "Gernsbacher Straße"
 housenumber: 5

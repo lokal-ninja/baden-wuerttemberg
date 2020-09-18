@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.284840200000005
 longitude: 9.000935400000001
-postcode: 72461
+postcode: "72461"
 city: Albstadt
 street: "Thanheimer Straße"
 housenumber: 1

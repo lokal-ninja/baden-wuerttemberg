@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.4815708
 longitude: 7.9402764
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Alte Straßburger Straße"
 housenumber: 6

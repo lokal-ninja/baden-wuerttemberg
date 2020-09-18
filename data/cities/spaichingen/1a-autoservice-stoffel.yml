@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0661481
 longitude: 8.74676
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Max-Planck-Straße"
 housenumber: 23

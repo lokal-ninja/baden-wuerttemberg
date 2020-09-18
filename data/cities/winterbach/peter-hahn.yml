@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.804326700000004
 longitude: 9.4845121
-postcode: 73650
+postcode: "73650"
 city: Winterbach
 street: "Peter-Hahn-Platz"
 housenumber: 1

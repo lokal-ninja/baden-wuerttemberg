@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.795776700000005
 longitude: 8.4365605
-postcode: 76332
+postcode: "76332"
 city: Bad Herrenalb
 street: "Im Kloster"
 housenumber: 18

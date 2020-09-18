@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.330257800000005
 longitude: 8.4437414
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Hasenpfühlerweide"
 housenumber: 11

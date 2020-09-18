@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.6077482
 longitude: 9.224767100000001
-postcode: 72667
+postcode: "72667"
 city: Schlaitdorf
 street: "Aicher Straße"
 housenumber: 7

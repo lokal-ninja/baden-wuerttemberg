@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.6627956
 longitude: 9.4829349
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Meistershofener Straße"
 housenumber: 3

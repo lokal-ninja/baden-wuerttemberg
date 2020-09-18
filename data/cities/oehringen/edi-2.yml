@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.205598
 longitude: 9.512019800000001
-postcode: 74613
+postcode: "74613"
 city: Öhringen
 street: "Wollreffenweg"
 housenumber: 44

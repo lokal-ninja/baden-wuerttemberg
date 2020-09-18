@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.720429800000005
 longitude: 9.3889142
-postcode: 88677
+postcode: "88677"
 city: Markdorf
 street: "Am Stadtgraben"
 housenumber: 1

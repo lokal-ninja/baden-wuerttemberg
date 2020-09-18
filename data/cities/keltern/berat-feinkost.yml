@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.901166700000005
 longitude: 8.575017
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: "Ettlinger Straße"
 housenumber: 5

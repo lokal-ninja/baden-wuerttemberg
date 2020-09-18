@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.721523600000005
 longitude: 9.3860796
-postcode: 88677
+postcode: "88677"
 city: Markdorf
 street: "Hauptstraße"
 housenumber: 25

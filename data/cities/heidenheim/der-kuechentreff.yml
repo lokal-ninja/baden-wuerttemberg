@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.690535000000004
 longitude: 10.164181300000001
-postcode: 89520
+postcode: "89520"
 city: Heidenheim
 street: "Nördlinger Straße"
 housenumber: 71

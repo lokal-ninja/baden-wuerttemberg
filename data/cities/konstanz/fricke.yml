@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.683849200000004
 longitude: 9.2020993
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Mainaustraße"
 housenumber: 165

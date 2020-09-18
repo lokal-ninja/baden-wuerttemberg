@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.5232935
 longitude: 8.098097600000001
-postcode: 77794
+postcode: "77794"
 city: Lautenbach
 street: "Vorder-Winterbach"
 housenumber: 5

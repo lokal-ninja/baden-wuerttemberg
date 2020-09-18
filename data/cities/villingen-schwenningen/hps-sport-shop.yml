@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.0640202
 longitude: 8.5321269
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
 street: "Jägerstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8154927
 longitude: 9.7785729
-postcode: 73527
+postcode: "73527"
 city: Schwäbisch Gmünd
 street: "Willy-Schenk-Straße"
 housenumber: 32

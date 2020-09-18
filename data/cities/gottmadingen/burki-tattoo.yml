@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 47.730184200000004
 longitude: 8.7768315
-postcode: 78244
+postcode: "78244"
 city: Gottmadingen
 street: "Friedhofstraße"
 housenumber: 20

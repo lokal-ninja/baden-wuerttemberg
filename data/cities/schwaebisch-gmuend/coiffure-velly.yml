@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.78558
 longitude: 9.798614
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Einhornstraße"
 housenumber: 114

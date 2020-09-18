@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.1259238
 longitude: 9.327020000000001
-postcode: 74251
+postcode: "74251"
 city: Lehrensteinsfeld
 street: "Steig"
 housenumber: 5

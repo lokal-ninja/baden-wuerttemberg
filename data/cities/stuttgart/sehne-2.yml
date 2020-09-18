@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8321173
 longitude: 9.1705935
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Unterländer Straße"
 housenumber: 49

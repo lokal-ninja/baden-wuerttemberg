@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.99509320000001
 longitude: 8.4010882
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Bahnhofplatz"
 housenumber: 4

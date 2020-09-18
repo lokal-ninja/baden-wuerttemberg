@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.121122500000006
 longitude: 7.848578700000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Lammstraße"
 housenumber: 15

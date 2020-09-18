@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4939387
 longitude: 8.0180556
-postcode: 77770
+postcode: "77770"
 city: Durbach
 street: "Tal"
 housenumber: 14

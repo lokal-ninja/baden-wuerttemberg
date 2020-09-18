@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.525084400000004
 longitude: 8.499814500000001
-postcode: 68305
+postcode: "68305"
 city: Mannheim
 street: "Waldstraße"
 housenumber: 139

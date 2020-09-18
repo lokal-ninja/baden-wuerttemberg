@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.8543188
 longitude: 9.8977307
-postcode: 88410
+postcode: "88410"
 city: Bad Wurzach
 street: "St.-Ulrich-Straße"
 housenumber: 1

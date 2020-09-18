@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.534600700000006
 longitude: 9.053167
-postcode: 72076
+postcode: "72076"
 city: Tübingen
 street: "Robert-Gradmann-Weg"
 housenumber: 2

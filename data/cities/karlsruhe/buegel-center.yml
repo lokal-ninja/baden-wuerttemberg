@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 49.0045883
 longitude: 8.5037117
-postcode: 76229
+postcode: "76229"
 city: Karlsruhe
 street: "Augustenburgstraße"
 housenumber: 67

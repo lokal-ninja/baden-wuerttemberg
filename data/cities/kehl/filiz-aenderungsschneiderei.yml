@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.573522800000006
 longitude: 7.8132266
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Schulstraße"
 housenumber: 78

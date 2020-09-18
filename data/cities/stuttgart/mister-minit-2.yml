@@ -3,7 +3,7 @@ type: way
 shop: Schlüsseldienst
 latitude: 48.783497000000004
 longitude: 9.1801686
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Klett-Passage"
 housenumber: 

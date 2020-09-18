@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.945155
 longitude: 9.1746482
-postcode: 71691
+postcode: "71691"
 city: Freiberg am Neckar
 street: "Brandholzweg"
 housenumber: 3/1

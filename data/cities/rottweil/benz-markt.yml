@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.164637400000004
 longitude: 8.606414800000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Schramberger Straße"
 housenumber: 103

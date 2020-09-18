@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0337941
 longitude: 10.0961266
-postcode: 73489
+postcode: "73489"
 city: Jagstzell
 street: "Crailsheimer Straße"
 housenumber: 17

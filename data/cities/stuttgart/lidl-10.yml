@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.818177500000004
 longitude: 9.213746
-postcode: 70376
+postcode: "70376"
 city: Stuttgart
 street: "Bottroper Straße"
 housenumber: 8a

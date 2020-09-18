@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.657665
 longitude: 9.4816681
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Scheffelstraße"
 housenumber: 39

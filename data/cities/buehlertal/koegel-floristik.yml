@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.6824377
 longitude: 8.192896600000001
-postcode: 77830
+postcode: "77830"
 city: Bühlertal
 street: "Hirschbachstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.4068684
 longitude: 9.0521249
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Richard-Burkhardt-Straße"
 housenumber: 3

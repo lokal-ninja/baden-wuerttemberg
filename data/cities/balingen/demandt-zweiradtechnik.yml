@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.2904628
 longitude: 8.845028000000001
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Am Bangraben"
 housenumber: 10

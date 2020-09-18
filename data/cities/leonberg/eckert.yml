@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.7994488
 longitude: 9.003789300000001
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Bahnhofstraße"
 housenumber: 78

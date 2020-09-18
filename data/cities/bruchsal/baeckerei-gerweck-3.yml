@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.0767413
 longitude: 8.5866018
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Hauptstraße"
 housenumber: 5

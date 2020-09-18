@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7265207
 longitude: 9.608845500000001
-postcode: 73117
+postcode: "73117"
 city: Wangen
 street: "Hauptstraße"
 housenumber: 38

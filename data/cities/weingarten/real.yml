@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.797223200000005
 longitude: 9.6237905
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Franz-Beer-Straße"
 housenumber: 107

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.012341600000006
 longitude: 7.809802800000001
-postcode: 79110
+postcode: "79110"
 city: Freiburg im Breisgau
 street: "Hofackerstraße"
 housenumber: 94

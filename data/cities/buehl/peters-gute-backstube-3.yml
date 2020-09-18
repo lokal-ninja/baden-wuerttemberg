@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6948919
 longitude: 8.135505700000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Hauptstraße"
 housenumber: 37

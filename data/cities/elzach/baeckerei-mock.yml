@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.174127600000006
 longitude: 8.0711635
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Hauptstraße"
 housenumber: 44

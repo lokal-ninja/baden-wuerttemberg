@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 47.9949589
 longitude: 9.1118667
-postcode: 88605
+postcode: "88605"
 city: Meßkirch
 street: "Grabenbachstraße"
 housenumber: 14

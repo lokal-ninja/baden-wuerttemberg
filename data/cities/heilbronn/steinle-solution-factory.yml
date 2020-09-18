@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 49.135208000000006
 longitude: 9.222165500000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Uhlandstraße"
 housenumber: 42/1

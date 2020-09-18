@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7549575
 longitude: 10.3245454
-postcode: 73450
+postcode: "73450"
 city: Neresheim
 street: "Heidenheimer Straße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.300766700000004
 longitude: 9.653535300000001
-postcode: 74653
+postcode: "74653"
 city: Ingelfingen
 street: "Schloßstraße"
 housenumber: 29

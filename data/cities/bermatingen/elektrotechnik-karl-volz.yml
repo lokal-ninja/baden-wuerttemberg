@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 47.730792400000006
 longitude: 9.349032900000001
-postcode: 88697
+postcode: "88697"
 city: Bermatingen
 street: "Salemer Straße"
 housenumber: 6

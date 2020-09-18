@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.7508342
 longitude: 8.8711009
-postcode: 71263
+postcode: "71263"
 city: Weil der Stadt
 street: "Pfarrgasse"
 housenumber: 8

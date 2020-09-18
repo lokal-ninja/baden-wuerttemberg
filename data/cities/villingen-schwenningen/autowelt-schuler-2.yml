@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.0731419
 longitude: 8.4686535
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Margarethe-Scherb-Straße"
 housenumber: 45

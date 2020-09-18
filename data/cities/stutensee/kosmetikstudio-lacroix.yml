@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.1006155
 longitude: 8.476475800000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Buchenfeldstraße"
 housenumber: 15

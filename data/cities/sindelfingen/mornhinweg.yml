@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.6953985
 longitude: 8.9386083
-postcode: 71069
+postcode: "71069"
 city: Sindelfingen
 street: "Karlstraße"
 housenumber: 5

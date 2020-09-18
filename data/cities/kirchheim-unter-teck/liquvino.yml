@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.64643280000001
 longitude: 9.4517693
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Roßmarkt"
 housenumber: 1

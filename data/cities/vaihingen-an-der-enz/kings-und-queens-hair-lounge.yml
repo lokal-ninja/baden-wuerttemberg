@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 48.931559
 longitude: 8.9577104
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Stuttgarter Straße"
 housenumber: 8
 phone: "+49 7042 2859907"
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: "Mo-Sa 09:00-18:00; PH,Su off"
 website: "http://www.kingsandqueenshair.de/"

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1297933
 longitude: 8.418529000000001
-postcode: 76351
+postcode: "76351"
 city: Linkenheim-Hochstetten
 street: "Am Wall"
 housenumber: 7

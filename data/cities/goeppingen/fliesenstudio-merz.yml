@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.6842929
 longitude: 9.6255182
-postcode: 73035
+postcode: "73035"
 city: Göppingen
 street: "Baronenwaldstraße"
 housenumber: 41

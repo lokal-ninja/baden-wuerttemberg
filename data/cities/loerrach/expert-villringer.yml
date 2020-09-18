@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.6082223
 longitude: 7.6588042000000005
-postcode: 79540
+postcode: "79540"
 city: Lörrach
 street: "Meeraner Platz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 49.007710700000004
 longitude: 8.4248173
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Durlacher Allee"
 housenumber: 27a

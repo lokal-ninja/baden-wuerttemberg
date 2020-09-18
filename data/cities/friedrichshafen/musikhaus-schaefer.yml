@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 47.6734765
 longitude: 9.4924871
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Rotkreuzstraße"
 housenumber: 3

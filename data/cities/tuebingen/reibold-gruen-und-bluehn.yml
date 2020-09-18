@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.530018500000004
 longitude: 9.063698200000001
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Nauklerstraße"
 housenumber: 55

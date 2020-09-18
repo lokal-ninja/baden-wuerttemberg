@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 47.723536
 longitude: 9.0716441
-postcode: 78476
+postcode: "78476"
 city: Allensbach
 street: "Zum Riesenberg"
 housenumber: 8

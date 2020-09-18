@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.139668
 longitude: 9.2197721
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Am Wollhaus"
 housenumber: 6

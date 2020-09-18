@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 47.980520500000004
 longitude: 7.794626500000001
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Hartkirchweg"
 housenumber: 61

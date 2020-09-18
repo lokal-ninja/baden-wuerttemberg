@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.63697620000001
 longitude: 9.013081900000001
-postcode: 71088
+postcode: "71088"
 city: Holzgerlingen
 street: "Schloßstraße"
 housenumber: 17

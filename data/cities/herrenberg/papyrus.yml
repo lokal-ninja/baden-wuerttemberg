@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.5949712
 longitude: 8.8694209
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Hindenburgstraße"
 housenumber: 9/1

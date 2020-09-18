@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 47.996269600000005
 longitude: 7.8532527000000005
-postcode: 79098
+postcode: "79098"
 city: Freiburg im Breisgau
 street: "Kaiser-Joseph-Straße"
 housenumber: 165

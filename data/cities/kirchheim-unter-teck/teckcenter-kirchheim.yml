@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.649256400000006
 longitude: 9.4466243
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Stuttgarter Straße"
 housenumber: 2

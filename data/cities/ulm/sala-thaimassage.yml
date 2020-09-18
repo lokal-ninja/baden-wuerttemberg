@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.3944635
 longitude: 9.960149600000001
-postcode: 89077
+postcode: "89077"
 city: Ulm
 street: "Söflinger Straße"
 housenumber: 223

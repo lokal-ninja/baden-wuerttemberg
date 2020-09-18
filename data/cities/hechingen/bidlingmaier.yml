@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.3525591
 longitude: 8.9643064
-postcode: 72379
+postcode: "72379"
 city: Hechingen
 street: "Marktplatz"
 housenumber: 7

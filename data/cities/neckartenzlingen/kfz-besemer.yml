@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.5885145
 longitude: 9.2283535
-postcode: 72654
+postcode: "72654"
 city: Neckartenzlingen
 street: "Karlstraße"
 housenumber: 3

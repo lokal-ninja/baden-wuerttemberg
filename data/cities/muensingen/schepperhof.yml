@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.4179886
 longitude: 9.449310200000001
-postcode: 72525
+postcode: "72525"
 city: Münsingen
 street: "Braike"
 housenumber: 3

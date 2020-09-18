@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.052010700000004
 longitude: 8.531097
-postcode: 76356
+postcode: "76356"
 city: Weingarten (Baden)
 street: "Rathausplatz"
 housenumber: 4

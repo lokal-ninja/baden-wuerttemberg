@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.9573994
 longitude: 10.1783585
-postcode: 73479
+postcode: "73479"
 city: Ellwangen (Jagst)
 street: "Wilhelm-Maybach-Straße"
 housenumber: 6/1

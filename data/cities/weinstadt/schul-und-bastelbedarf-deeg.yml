@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.809619500000004
 longitude: 9.365178
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Schafgasse"
 housenumber: 10

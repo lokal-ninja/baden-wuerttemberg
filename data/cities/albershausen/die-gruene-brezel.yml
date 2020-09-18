@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6921091
 longitude: 9.566198400000001
-postcode: 73095
+postcode: "73095"
 city: Albershausen
 street: "Uhinger Straße"
 housenumber: 14

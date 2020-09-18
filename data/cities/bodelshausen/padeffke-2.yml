@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.386159400000004
 longitude: 8.980485
-postcode: 72411
+postcode: "72411"
 city: Bodelshausen
 street: "Daimlerstraße"
 housenumber: 22

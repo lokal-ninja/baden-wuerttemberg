@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1299293
 longitude: 8.2300935
-postcode: 78098
+postcode: "78098"
 city: Triberg im Schwarzwald
 street: "Kreuzstraße"
 housenumber: 16

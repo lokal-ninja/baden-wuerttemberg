@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.169909200000006
 longitude: 9.2158241
-postcode: 74076
+postcode: "74076"
 city: Heilbronn
 street: "Karl-Wüst-Straße"
 housenumber: 21

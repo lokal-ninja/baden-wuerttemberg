@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.9695363
 longitude: 9.1421644
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Heilbronner Straße"
 housenumber: 103

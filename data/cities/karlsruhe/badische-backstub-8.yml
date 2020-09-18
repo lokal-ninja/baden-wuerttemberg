@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.029440900000004
 longitude: 8.3749824
-postcode: 76187
+postcode: "76187"
 city: Karlsruhe
 street: "Josef-Schofer-Straße"
 housenumber: 14

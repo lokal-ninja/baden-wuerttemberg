@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.993979100000004
 longitude: 9.1117798
-postcode: 88605
+postcode: "88605"
 city: Meßkirch
 street: "Schloßstraße"
 housenumber: 4

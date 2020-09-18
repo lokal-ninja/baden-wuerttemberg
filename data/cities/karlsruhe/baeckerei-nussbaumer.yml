@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9687126
 longitude: 8.478145600000001
-postcode: 76228
+postcode: "76228"
 city: Karlsruhe
 street: "Tiefentalstraße"
 housenumber: 6

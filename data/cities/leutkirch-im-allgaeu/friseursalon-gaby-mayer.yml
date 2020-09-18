@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.8263289
 longitude: 10.021258600000001
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Bahnhofstraße"
 housenumber: 1/1

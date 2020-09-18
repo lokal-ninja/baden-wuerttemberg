@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0011797
 longitude: 8.4157154
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Anna-Lauter-Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.476017500000005
 longitude: 7.954631300000001
-postcode: 77654
+postcode: "77654"
 city: Offenburg
 street: "Ebertplatz"
 housenumber: 12

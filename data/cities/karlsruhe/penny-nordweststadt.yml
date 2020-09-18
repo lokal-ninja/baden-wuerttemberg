@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0301826
 longitude: 8.375231900000001
-postcode: 76187
+postcode: "76187"
 city: Karlsruhe
 street: "Josef-Schofer-Straße"
 housenumber: 16

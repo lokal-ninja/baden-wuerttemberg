@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.847448500000006
 longitude: 8.547857
-postcode: 75334
+postcode: "75334"
 city: Straubenhardt
 street: "Hauptstraße"
 housenumber: 107

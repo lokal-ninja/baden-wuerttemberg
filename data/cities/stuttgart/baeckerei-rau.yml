@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.836684600000005
 longitude: 9.226156600000001
-postcode: 70378
+postcode: "70378"
 city: Stuttgart
 street: "Hartwaldstraße"
 housenumber: 81

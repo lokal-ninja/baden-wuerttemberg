@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.6479639
 longitude: 9.4497312
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Schloßplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.2328325
 longitude: 9.4596747
-postcode: 88529
+postcode: "88529"
 city: Zwiefalten
 street: "Sägmühlstraße"
 housenumber: 6

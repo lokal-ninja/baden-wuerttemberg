@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.1220553
 longitude: 8.724258200000001
-postcode: 76703
+postcode: "76703"
 city: Kraichtal
 street: "Eppinger Straße"
 housenumber: 51

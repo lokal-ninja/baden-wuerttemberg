@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.7567901
 longitude: 9.146077700000001
-postcode: 70199
+postcode: "70199"
 city: Stuttgart
 street: "Böblinger Straße"
 housenumber: 215

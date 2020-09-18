@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.806530800000004
 longitude: 8.9527488
-postcode: 71277
+postcode: "71277"
 city: Rutesheim
 street: "Leonberger Straße"
 housenumber: 56

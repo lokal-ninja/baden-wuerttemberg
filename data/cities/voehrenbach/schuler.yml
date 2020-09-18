@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.9970361
 longitude: 8.321880400000001
-postcode: 78147
+postcode: "78147"
 city: Vöhrenbach
 street: "Hauptstraße"
 housenumber: 13/4

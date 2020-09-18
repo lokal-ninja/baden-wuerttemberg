@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.9972292
 longitude: 8.4045697
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Nebeniusstraße"
 housenumber: 4-6

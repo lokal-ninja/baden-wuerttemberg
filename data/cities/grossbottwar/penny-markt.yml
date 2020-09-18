@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.00785440000001
 longitude: 9.3015963
-postcode: 71723
+postcode: "71723"
 city: Großbottwar
 street: "Sonnenbergstraße"
 housenumber: 31

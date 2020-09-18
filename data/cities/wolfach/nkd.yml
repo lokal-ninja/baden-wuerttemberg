@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.298188100000004
 longitude: 8.221795400000001
-postcode: 77709
+postcode: "77709"
 city: Wolfach
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.630786900000004
 longitude: 8.5784642
-postcode: 79807
+postcode: "79807"
 city: Lottstetten
 street: "Industriestraße"
 housenumber: 36

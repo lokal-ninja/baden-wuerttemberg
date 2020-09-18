@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.054144300000004
 longitude: 9.890368800000001
-postcode: 74423
+postcode: "74423"
 city: Obersontheim
 street: "Stockäcker"
 housenumber: 2

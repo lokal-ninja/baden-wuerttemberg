@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7866854
 longitude: 8.1930131
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Sinzheimer Straße"
 housenumber: 14

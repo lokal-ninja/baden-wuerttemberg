@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.7105532
 longitude: 9.637724700000001
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Nördliche Ringstraße"
 housenumber: 151

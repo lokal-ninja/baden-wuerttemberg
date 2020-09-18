@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.017155900000006
 longitude: 9.5001154
-postcode: 88348
+postcode: "88348"
 city: Bad Saulgau
 street: "Hauptstraße"
 housenumber: 51

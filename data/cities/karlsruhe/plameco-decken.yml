@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.019709600000006
 longitude: 8.461346200000001
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Am Storrenacker"
 housenumber: 1b

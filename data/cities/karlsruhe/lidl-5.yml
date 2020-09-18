@@ -1,12 +1,12 @@
-id: 32686241
-type: way
+id: 7738236370
+type: node
 shop: Supermarkt
-latitude: 49.0086749
-longitude: 8.437383500000001
-postcode: 76131
+latitude: 49.045146200000005
+longitude: 8.393687
+postcode: "76149"
 city: Karlsruhe
-street: "Theodor-Rehbock-Straße"
-housenumber: 4
+street: "An der Trift"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: ""
 website: ""

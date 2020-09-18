@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 48.300459100000005
 longitude: 8.221563
-postcode: 77709
+postcode: "77709"
 city: Wolfach
 street: "Vorstadtstraße"
 housenumber: 45

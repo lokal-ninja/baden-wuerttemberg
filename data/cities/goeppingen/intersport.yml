@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.701979200000004
 longitude: 9.6625682
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Poststraße"
 housenumber: 1

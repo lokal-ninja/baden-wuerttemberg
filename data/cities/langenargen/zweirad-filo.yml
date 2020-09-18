@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.5967994
 longitude: 9.543204600000001
-postcode: 88085
+postcode: "88085"
 city: Langenargen
 street: "Kirchstraße"
 housenumber: 3

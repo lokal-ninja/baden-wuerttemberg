@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6760048
 longitude: 9.1799516
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Wollmatinger Straße"
 housenumber: 22

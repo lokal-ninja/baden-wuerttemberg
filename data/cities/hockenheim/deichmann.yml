@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.335169900000004
 longitude: 8.5320283
-postcode: 68766
+postcode: "68766"
 city: Hockenheim
 street: "Speyerer Straße"
 housenumber: 1

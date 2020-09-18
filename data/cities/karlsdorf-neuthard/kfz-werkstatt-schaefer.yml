@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.1249843
 longitude: 8.519388000000001
-postcode: 76689
+postcode: "76689"
 city: Karlsdorf-Neuthard
 street: "Kirchstraße"
 housenumber: 77

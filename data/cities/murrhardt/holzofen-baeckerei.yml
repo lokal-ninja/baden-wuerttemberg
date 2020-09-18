@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.9803608
 longitude: 9.5787206
-postcode: 71540
+postcode: "71540"
 city: Murrhardt
 street: "Karlstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.347006300000004
 longitude: 8.0639059
-postcode: 77736
+postcode: "77736"
 city: Zell am Harmersbach
 street: "Hauptstraße"
 housenumber: 30

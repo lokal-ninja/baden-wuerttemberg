@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.8207151
 longitude: 9.280989
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Hertzstraße"
 housenumber: 3

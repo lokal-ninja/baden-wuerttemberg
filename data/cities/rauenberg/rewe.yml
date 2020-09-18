@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2731718
 longitude: 8.6970577
-postcode: 69231
+postcode: "69231"
 city: Rauenberg
 street: "Frankenäcker"
 housenumber: 4

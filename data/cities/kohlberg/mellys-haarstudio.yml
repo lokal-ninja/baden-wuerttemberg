@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.558067400000006
 longitude: 9.3434808
-postcode: 72664
+postcode: "72664"
 city: Kohlberg
 street: "Hardtstraße"
 housenumber: 11

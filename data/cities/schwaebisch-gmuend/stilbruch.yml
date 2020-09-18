@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.8007373
 longitude: 9.797806900000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Postgasse"
 housenumber: 1

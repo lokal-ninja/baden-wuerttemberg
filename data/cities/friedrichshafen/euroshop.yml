@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 47.651782100000005
 longitude: 9.4778488
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Friedrichstraße"
 housenumber: 26

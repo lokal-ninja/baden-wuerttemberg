@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.1683237
 longitude: 8.6202213
-postcode: 76698
+postcode: "76698"
 city: Ubstadt-Weiher
 street: "Bahnhofstraße"
 housenumber: 2

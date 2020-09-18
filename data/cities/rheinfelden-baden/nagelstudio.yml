@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.5595421
 longitude: 7.788672900000001
-postcode: 79618
+postcode: "79618"
 city: Rheinfelden (Baden)
 street: "Friedrichstraße"
 housenumber: 5

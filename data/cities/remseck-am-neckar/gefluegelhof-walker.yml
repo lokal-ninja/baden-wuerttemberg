@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.8710752
 longitude: 9.2391526
-postcode: 71686
+postcode: "71686"
 city: Remseck am Neckar
 street: "Ludwigsburger Steige"
 housenumber: 100

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.3225715
 longitude: 8.804773200000001
-postcode: 74909
+postcode: "74909"
 city: Meckesheim
 street: "Bemannsbruch"
 housenumber: 2-4

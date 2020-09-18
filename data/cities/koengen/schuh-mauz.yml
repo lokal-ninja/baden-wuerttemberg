@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.6831332
 longitude: 9.3622779
-postcode: 73257
+postcode: "73257"
 city: Köngen
 street: "Kiesweg"
 housenumber: 18

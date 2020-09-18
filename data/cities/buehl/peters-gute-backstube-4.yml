@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7361561
 longitude: 8.1305523
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Ottenhofener Straße"
 housenumber: 2a

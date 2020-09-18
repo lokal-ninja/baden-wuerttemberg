@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.086366600000005
 longitude: 9.215278000000001
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Antonstraße"
 housenumber: 28

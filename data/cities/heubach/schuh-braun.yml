@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 48.7881993
 longitude: 9.9322236
-postcode: 73540
+postcode: "73540"
 city: Heubach
 street: "Scheuelbergstraße"
 housenumber: 16
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 7173 927260"
+opening_hours: "Mo-Fr 08:30-12:30, 14:00-18:00; Sa 08:30-13:00"
+website: "https://www.schuhe.de/online-kaufen/store-1520060789.html"

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.127082
 longitude: 7.809949700000001
-postcode: 79331
+postcode: "79331"
 city: Teningen
 street: "Riegeler Straße"
 housenumber: 1

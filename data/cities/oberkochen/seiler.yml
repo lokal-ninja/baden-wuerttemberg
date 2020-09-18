@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.7830181
 longitude: 10.104925000000001
-postcode: 73447
+postcode: "73447"
 city: Oberkochen
 street: "Heidenheimer Straße"
 housenumber: 17

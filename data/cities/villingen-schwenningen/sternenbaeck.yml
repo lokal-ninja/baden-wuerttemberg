@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.063241500000004
 longitude: 8.5343889
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
 street: "Kronenstraße"
 housenumber: 21

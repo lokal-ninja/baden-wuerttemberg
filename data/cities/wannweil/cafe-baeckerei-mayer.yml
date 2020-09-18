@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.514062700000004
 longitude: 9.1520638
-postcode: 72827
+postcode: "72827"
 city: Wannweil
 street: "Hauptstraße"
 housenumber: 26

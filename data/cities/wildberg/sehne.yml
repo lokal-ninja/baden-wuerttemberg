@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6250553
 longitude: 8.7468056
-postcode: 
+postcode: ""
 city: Wildberg
 street: "Talstraße"
 housenumber: 17

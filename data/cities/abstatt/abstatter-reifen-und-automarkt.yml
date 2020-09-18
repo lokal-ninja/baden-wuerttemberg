@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0638671
 longitude: 9.2919736
-postcode: 74232
+postcode: "74232"
 city: Abstatt
 street: "Fabrikstraße"
 housenumber: 8

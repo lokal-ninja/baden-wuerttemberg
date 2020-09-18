@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.2955782
 longitude: 8.9643406
-postcode: 74924
+postcode: "74924"
 city: Neckarbischofsheim
 street: "von-Hindenburg-Straße"
 housenumber: 21a

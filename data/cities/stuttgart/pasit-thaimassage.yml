@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.7370967
 longitude: 9.1661383
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Julius-Hölder-Straße"
 housenumber: 48

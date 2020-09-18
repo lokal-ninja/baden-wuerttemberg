@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.732006600000005
 longitude: 8.837505
-postcode: 78239
+postcode: "78239"
 city: Rielasingen-Worblingen
 street: "Hauptstraße"
 housenumber: 10

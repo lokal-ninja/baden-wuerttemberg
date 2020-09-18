@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.8200091
 longitude: 8.2103214
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Burnieweg"
 housenumber: 1

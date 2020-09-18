@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.092874200000004
 longitude: 7.963172200000001
-postcode: 79183
+postcode: "79183"
 city: Waldkirch
 street: "Friedhofstraße"
 housenumber: 2

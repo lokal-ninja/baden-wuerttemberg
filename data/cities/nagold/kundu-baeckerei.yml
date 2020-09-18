@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.549576
 longitude: 8.722291400000001
-postcode: 72202
+postcode: "72202"
 city: Nagold
 street: "Freudenstädter Straße"
 housenumber: 25

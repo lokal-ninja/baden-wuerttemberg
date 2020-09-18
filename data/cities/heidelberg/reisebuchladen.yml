@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.411428
 longitude: 8.7086778
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Kettengasse"
 housenumber: 5

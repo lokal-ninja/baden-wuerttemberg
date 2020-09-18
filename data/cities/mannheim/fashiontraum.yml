@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.486165400000004
 longitude: 8.5333141
-postcode: 68259
+postcode: "68259"
 city: Mannheim
 street: "Eberbacher Straße"
 housenumber: 2

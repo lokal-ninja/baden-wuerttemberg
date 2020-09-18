@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.1186925
 longitude: 9.7507319
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Schweickerweg"
 housenumber: 21

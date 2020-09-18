@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.4172231
 longitude: 8.6286235
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Knieacker"
 housenumber: 10

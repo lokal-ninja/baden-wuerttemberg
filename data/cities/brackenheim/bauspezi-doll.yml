@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.074972100000004
 longitude: 9.061688100000001
-postcode: 74336
+postcode: "74336"
 city: Brackenheim
 street: "Maulbronner Straße"
 housenumber: 22

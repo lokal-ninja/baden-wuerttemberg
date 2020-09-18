@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4832331
 longitude: 8.997826
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Eugen-Bolz-Straße"
 housenumber: 19

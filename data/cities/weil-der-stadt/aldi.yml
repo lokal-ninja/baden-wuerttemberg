@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.75782340000001
 longitude: 8.8680649
-postcode: 71263
+postcode: "71263"
 city: Weil der Stadt
 street: "Siemensstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.9975074
 longitude: 8.3591352
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
 street: "Herrmann-Leichtlin-Straße"
 housenumber: 11

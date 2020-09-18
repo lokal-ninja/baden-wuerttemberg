@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.001375700000004
 longitude: 8.406635600000001
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Werderstraße"
 housenumber: 36-38

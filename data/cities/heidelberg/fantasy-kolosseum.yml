@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.407909700000005
 longitude: 8.6881901
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Poststraße"
 housenumber: 36/7

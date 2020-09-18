@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.13482440000001
 longitude: 10.0716145
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Lange Straße"
 housenumber: 39

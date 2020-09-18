@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.471962600000005
 longitude: 8.4680879
-postcode: 
+postcode: ""
 city: Mannheim
 street: "Torwiesenstraße"
 housenumber: 2

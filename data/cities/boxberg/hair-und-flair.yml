@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.5158387
 longitude: 9.6900259
-postcode: 97944
+postcode: "97944"
 city: Boxberg
 street: "Mühlbergstraße"
 housenumber: 21

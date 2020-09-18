@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.492077900000005
 longitude: 9.401414
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Weberbleiche"
 housenumber: 11

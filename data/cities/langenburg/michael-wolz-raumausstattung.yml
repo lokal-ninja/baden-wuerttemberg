@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.2536817
 longitude: 9.849607200000001
-postcode: 74595
+postcode: "74595"
 city: Langenburg
 street: "Regenbacher Straße"
 housenumber: 3

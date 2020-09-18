@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.861096100000005
 longitude: 9.436769100000001
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Hofkammerstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.862323
 longitude: 9.0473701
-postcode: 71282
+postcode: "71282"
 city: Hemmingen
 street: "Saarstraße"
 housenumber: 80

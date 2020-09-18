@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.792501400000006
 longitude: 9.186198300000001
-postcode: 70191
+postcode: "70191"
 city: Stuttgart
 street: "Friedhofstraße"
 housenumber: 25

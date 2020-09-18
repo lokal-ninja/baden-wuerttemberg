@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.157134400000004
 longitude: 8.572584800000001
-postcode: 76694
+postcode: "76694"
 city: Forst
 street: "Heinrich-Hertz-Straße"
 housenumber: 10

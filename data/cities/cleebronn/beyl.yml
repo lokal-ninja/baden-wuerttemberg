@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0435535
 longitude: 9.033546600000001
-postcode: 74389
+postcode: "74389"
 city: Cleebronn
 street: "Steuppergstraße"
 housenumber: 24

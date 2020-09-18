@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1411433
 longitude: 8.552204900000001
-postcode: 76689
+postcode: "76689"
 city: Karlsdorf-Neuthard
 street: "Bruchsaler Straße"
 housenumber: 24

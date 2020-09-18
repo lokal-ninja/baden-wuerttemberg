@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.0565683
 longitude: 9.8988753
-postcode: 74423
+postcode: "74423"
 city: Obersontheim
 street: "Schubartstraße"
 housenumber: 9

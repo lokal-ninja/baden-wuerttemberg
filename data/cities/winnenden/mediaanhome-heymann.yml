@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.878263600000004
 longitude: 9.395438200000001
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Alfred-Kärcher-Straße"
 housenumber: 11

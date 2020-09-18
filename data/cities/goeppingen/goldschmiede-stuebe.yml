@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.703203800000004
 longitude: 9.6521437
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Lange Straße"
 housenumber: 25

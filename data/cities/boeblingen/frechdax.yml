@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6848138
 longitude: 9.0100906
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: ""
 housenumber: 

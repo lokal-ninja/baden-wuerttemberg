@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5401109
 longitude: 9.2872091
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Schönbeinstraße"
 housenumber: 3

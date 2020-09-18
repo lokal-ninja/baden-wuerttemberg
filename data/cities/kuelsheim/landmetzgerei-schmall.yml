@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.6793696
 longitude: 9.5726443
-postcode: 97900
+postcode: "97900"
 city: Külsheim
 street: "Ritter-Arnold-Straße"
 housenumber: 28

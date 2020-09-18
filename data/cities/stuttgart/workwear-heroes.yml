@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7577676
 longitude: 9.255544
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Amstetter Straße"
 housenumber: 24

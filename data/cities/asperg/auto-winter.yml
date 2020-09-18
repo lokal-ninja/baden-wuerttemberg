@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.8989119
 longitude: 9.1477381
-postcode: 71679
+postcode: "71679"
 city: Asperg
 street: "Ruhrstraße"
 housenumber: 2

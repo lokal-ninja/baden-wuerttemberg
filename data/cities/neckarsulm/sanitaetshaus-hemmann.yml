@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.188451
 longitude: 9.2203281
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Bahnhofplatz"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.8560232
 longitude: 8.203685100000001
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Kaiserstraße"
 housenumber: 11

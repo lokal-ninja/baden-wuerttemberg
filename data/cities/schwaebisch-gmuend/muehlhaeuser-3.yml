@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.787328800000004
 longitude: 9.8879383
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Albuchstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.739780800000005
 longitude: 9.3014413
-postcode: 73728
+postcode: "73728"
 city: Esslingen am Neckar
 street: "Berliner Straße"
 housenumber: 2

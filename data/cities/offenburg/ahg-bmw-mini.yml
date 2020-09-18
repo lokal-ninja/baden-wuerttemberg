@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.4656631
 longitude: 7.930558100000001
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Schutterwälder Straße"
 housenumber: 2

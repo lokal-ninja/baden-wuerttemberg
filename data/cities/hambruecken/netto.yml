@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.191150400000005
 longitude: 8.5467533
-postcode: 76707
+postcode: "76707"
 city: Hambrücken
 street: "Hauptstraße"
 housenumber: 196

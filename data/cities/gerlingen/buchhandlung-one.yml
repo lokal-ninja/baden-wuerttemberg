@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.7996557
 longitude: 9.062330000000001
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Hauptstraße"
 housenumber: 21/1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4201661
 longitude: 9.4458103
-postcode: 74706
+postcode: "74706"
 city: Osterburken
 street: "Industriepark"
 housenumber: 1

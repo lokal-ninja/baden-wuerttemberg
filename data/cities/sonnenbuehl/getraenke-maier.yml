@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.3880186
 longitude: 9.184613800000001
-postcode: 72820
+postcode: "72820"
 city: Sonnenbühl
 street: "Gartenstraße"
 housenumber: 1

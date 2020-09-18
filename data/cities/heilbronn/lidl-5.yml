@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.125816
 longitude: 9.2242571
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Heinrieter Straße"
 housenumber: 3

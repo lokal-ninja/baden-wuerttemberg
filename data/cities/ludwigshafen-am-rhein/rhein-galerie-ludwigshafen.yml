@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.484590000000004
 longitude: 8.448369600000001
-postcode: 67061
+postcode: "67061"
 city: Ludwigshafen am Rhein
 street: "Im Zollhof"
 housenumber: 4

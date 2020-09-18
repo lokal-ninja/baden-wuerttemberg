@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.4284751
 longitude: 9.160142
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Lichtensteinstraße"
 housenumber: 74

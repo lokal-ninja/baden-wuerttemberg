@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 47.794246400000006
 longitude: 9.6139724
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Bleicherstraße"
 housenumber: 53

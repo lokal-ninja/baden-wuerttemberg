@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4350424
 longitude: 9.0767124
-postcode: 72147
+postcode: "72147"
 city: Nehren
 street: "Gomaringer Straße"
 housenumber: 64

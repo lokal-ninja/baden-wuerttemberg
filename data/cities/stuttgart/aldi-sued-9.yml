@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.769306900000004
 longitude: 9.142585
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Am Stellwerk"
 housenumber: 1

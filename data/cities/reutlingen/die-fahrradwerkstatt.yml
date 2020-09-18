@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.4938141
 longitude: 9.197632200000001
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Tübinger Straße"
 housenumber: 89

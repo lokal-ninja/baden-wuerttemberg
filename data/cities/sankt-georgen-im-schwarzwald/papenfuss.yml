@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.128309900000005
 longitude: 8.35463
-postcode: 78112
+postcode: "78112"
 city: Sankt Georgen im Schwarzwald
 street: "Industriestraße"
 housenumber: 39

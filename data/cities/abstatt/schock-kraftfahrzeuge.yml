@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.075341400000006
 longitude: 9.2943794
-postcode: 74232
+postcode: "74232"
 city: Abstatt
 street: "Seestraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.8055989
 longitude: 8.690714700000001
-postcode: 75399
+postcode: "75399"
 city: Unterreichenbach
 street: "Zu den Mühlen"
 housenumber: 3

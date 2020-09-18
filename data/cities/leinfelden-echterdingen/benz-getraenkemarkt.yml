@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.694359500000004
 longitude: 9.167901500000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Karlsruher Straße"
 housenumber: 1

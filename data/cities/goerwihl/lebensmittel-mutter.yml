@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6421277
 longitude: 8.077646
-postcode: 79733
+postcode: "79733"
 city: Görwihl
 street: "Hauptstraße"
 housenumber: 33

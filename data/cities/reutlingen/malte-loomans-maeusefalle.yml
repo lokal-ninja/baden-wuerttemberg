@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 48.488852200000004
 longitude: 9.2171123
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Obere Wässere"
 housenumber: 3–7

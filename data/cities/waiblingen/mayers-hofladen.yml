@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.854829800000005
 longitude: 9.3321007
-postcode: 71336
+postcode: "71336"
 city: Waiblingen
 street: "Schärisweg"
 housenumber: 44

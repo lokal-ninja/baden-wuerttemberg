@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.946685200000005
 longitude: 9.428562900000001
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Grabenstraße"
 housenumber: 1

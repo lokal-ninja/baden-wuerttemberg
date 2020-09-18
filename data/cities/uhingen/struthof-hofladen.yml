@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.7206557
 longitude: 9.579014
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Einfeldstraße"
 housenumber: 45

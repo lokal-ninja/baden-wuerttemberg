@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6630343
 longitude: 9.5065719
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Adelheidstraße"
 housenumber: 38

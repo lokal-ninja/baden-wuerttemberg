@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.4979062
 longitude: 9.2005496
-postcode: 72760
+postcode: "72760"
 city: Reutlingen
 street: "Emil-Adolff-Straße"
 housenumber: 12

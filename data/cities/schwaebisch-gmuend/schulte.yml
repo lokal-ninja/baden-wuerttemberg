@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.7967523
 longitude: 9.778921
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Lorcher Straße"
 housenumber: 92

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.168629
 longitude: 8.691262400000001
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Im Zinken"
 housenumber: 10

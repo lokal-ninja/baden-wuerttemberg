@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.6984271
 longitude: 9.706837100000001
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Hauptstraße"
 housenumber: 44

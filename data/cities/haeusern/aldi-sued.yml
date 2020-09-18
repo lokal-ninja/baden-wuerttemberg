@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.753143300000005
 longitude: 8.167784300000001
-postcode: 79837
+postcode: "79837"
 city: Häusern
 street: "Höchenschwander Straße"
 housenumber: 1a

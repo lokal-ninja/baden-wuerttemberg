@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.0103768
 longitude: 8.3900693
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 190

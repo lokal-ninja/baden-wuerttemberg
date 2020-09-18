@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.4750139
 longitude: 7.935913200000001
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Freiburger Straße"
 housenumber: 20a

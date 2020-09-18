@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 48.6733264
 longitude: 10.1455984
-postcode: 89522
+postcode: "89522"
 city: Heidenheim an der Brenz
 street: "Hugo-Rupf-Platz"
 housenumber: 3

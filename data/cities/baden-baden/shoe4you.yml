@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.7822892
 longitude: 8.1912295
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Gewerbepark Cité"
 housenumber: 7

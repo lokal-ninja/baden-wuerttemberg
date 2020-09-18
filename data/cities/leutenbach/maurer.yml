@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.887310500000005
 longitude: 9.3923921
-postcode: 71397
+postcode: "71397"
 city: Leutenbach
 street: "Winnender Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.891117
 longitude: 9.229513
-postcode: 71640
+postcode: "71640"
 city: Ludwigsburg
 street: "Flurstraße"
 housenumber: 4

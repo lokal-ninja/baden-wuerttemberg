@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.1009934
 longitude: 9.464532700000001
-postcode: 88521
+postcode: "88521"
 city: Ertingen
 street: "Krähbrunnenstraße"
 housenumber: 8

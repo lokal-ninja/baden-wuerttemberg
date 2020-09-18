@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.6434981
 longitude: 7.739029
-postcode: 79585
+postcode: "79585"
 city: Steinen
 street: "Lörracher Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 47.6496885
 longitude: 9.480246300000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Karlstraße"
 housenumber: 35

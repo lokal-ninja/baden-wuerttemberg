@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.7647034
 longitude: 9.1721851
-postcode: 70180
+postcode: "70180"
 city: Stuttgart
 street: "Strohberg"
 housenumber: 7-9

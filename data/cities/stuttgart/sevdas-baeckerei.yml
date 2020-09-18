@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7586668
 longitude: 9.2545012
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Rohrackerstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.125404100000004
 longitude: 8.3275729
-postcode: 78112
+postcode: "78112"
 city: St. Georgen im Schwarzwald
 street: "Sommerauer Straße"
 housenumber: 2

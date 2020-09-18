@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.730854
 longitude: 9.110985900000001
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Vaihinger Markt"
 housenumber: 18

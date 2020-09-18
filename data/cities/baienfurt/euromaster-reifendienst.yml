@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 47.8229642
 longitude: 9.627703700000001
-postcode: 88255
+postcode: "88255"
 city: Baienfurt
 street: "Schussentalstraße"
 housenumber: 55

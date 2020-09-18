@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.823123200000005
 longitude: 8.2965233
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Murgtalstraße"
 housenumber: 2

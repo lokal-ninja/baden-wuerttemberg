@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 47.6412795
 longitude: 8.346588800000001
-postcode: 79793
+postcode: "79793"
 city: Wutöschingen
 street: "Industriestraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 47.737404100000006
 longitude: 8.7970608
-postcode: 78244
+postcode: "78244"
 city: Gottmadingen
 street: "Zeppelinstraße"
 housenumber: 36

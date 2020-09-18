@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.949006100000005
 longitude: 8.9624056
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Roßwager Straße"
 housenumber: 72

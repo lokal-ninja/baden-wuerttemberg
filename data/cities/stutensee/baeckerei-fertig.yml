@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1093502
 longitude: 8.505837300000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Badener Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.28144270000001
 longitude: 8.5779516
-postcode: 68789
+postcode: "68789"
 city: St. Leon-Rot
 street: ""
 housenumber: 6

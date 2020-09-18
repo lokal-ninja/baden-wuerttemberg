@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.80995050000001
 longitude: 9.3649555
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Schafgasse"
 housenumber: 11A

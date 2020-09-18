@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 48.8114702
 longitude: 9.516933400000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Grafenbergweg"
 housenumber: 6
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://autohaus-parente.skoda-auto.de/index_haendler.php?e=2-15"

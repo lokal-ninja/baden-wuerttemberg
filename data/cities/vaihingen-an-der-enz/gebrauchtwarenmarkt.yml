@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 48.928497400000005
 longitude: 8.9682093
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Planckstraße"
 housenumber: 5

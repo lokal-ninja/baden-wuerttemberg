@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.1708616
 longitude: 8.5735731
-postcode: 78658
+postcode: "78658"
 city: Zimmern ob Rottweil
 street: "Raiffeisenstraße"
 housenumber: 1

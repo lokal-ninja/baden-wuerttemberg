@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.1675278
 longitude: 8.6276895
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Hochbrücktorstraße"
 housenumber: 5

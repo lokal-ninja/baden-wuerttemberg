@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2353795
 longitude: 9.0938619
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Raiffeisenstraße"
 housenumber: 29/4

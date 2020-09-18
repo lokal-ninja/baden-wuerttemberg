@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1701123
 longitude: 8.9397426
-postcode: 75031
+postcode: "75031"
 city: Eppingen
 street: "Ittlinger Straße"
 housenumber: 24

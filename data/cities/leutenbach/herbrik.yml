@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.9015379
 longitude: 9.416342400000001
-postcode: 71397
+postcode: "71397"
 city: Leutenbach
 street: "Maybachstraße"
 housenumber: 1

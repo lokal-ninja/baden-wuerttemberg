@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 49.0097481
 longitude: 8.388972200000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Amalienstraße"
 housenumber: 79

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.9830775
 longitude: 8.8143285
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Karlstraße"
 housenumber: 16

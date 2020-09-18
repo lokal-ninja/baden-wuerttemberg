@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.0117476
 longitude: 7.810086600000001
-postcode: 79110
+postcode: "79110"
 city: Freiburg im Breisgau
 street: "Hofackerstraße"
 housenumber: 95

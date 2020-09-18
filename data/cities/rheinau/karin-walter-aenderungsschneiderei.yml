@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 48.7119519
 longitude: 7.9679481
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Fischerstraße"
 housenumber: 22

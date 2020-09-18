@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.198945800000004
 longitude: 9.5299622
-postcode: 74613
+postcode: "74613"
 city: Öhringen
 street: "Eckartsweiler Straße"
 housenumber: 4

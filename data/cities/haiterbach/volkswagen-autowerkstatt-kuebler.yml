@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.504763200000006
 longitude: 8.6344256
-postcode: 72221
+postcode: "72221"
 city: Haiterbach
 street: "Industriestraße"
 housenumber: 54

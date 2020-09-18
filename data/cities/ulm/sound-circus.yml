@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 48.400353
 longitude: 9.9970888
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Frauenstraße"
 housenumber: 40

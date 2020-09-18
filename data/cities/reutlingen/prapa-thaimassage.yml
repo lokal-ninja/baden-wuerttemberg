@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.5042533
 longitude: 9.225157300000001
-postcode: 72766
+postcode: "72766"
 city: Reutlingen
 street: "Georg-Friedrich-Händel-Straße"
 housenumber: 115

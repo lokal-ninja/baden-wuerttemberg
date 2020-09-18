@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7608758
 longitude: 8.24022
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Sophienstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.6795363
 longitude: 9.147589400000001
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Max-Stromeyer-Straße"
 housenumber: 59

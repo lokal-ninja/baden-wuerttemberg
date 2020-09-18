@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.9375155
 longitude: 8.859471600000001
-postcode: 78576
+postcode: "78576"
 city: Emmingen-Liptingen
 street: "Friedrich-Wöhler-Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 47.65163930000001
 longitude: 10.0843748
-postcode: 87480
+postcode: "87480"
 city: Weitnau
 street: "Klausenmühle"
 housenumber: 1

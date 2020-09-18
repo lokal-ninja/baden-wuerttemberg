@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.5799791
 longitude: 8.0096035
-postcode: 77871
+postcode: "77871"
 city: Renchen
 street: "Robert-Bosch-Straße"
 housenumber: 3

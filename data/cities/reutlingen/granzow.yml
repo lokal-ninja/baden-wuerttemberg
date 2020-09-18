@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 48.490681200000004
 longitude: 9.1350751
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Aspenhaustraße"
 housenumber: 5

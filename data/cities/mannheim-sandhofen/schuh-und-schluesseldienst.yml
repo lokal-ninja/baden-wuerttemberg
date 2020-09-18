@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 49.548269000000005
 longitude: 8.4559687
-postcode: 68307
+postcode: "68307"
 city: Mannheim-Sandhofen
 street: "Amselstraße"
 housenumber: 10

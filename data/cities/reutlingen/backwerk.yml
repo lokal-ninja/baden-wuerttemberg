@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4942815
 longitude: 9.209362
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Eberhardstraße"
 housenumber: 1

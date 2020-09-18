@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.8325242
 longitude: 9.3115322
-postcode: 71332
+postcode: "71332"
 city: Waiblingen
 street: "Barbarossastraße"
 housenumber: 25

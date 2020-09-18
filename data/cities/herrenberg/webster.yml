@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.595952700000005
 longitude: 8.870093800000001
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Tübinger Straße"
 housenumber: 2

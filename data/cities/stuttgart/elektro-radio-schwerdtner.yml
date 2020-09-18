@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.7636264
 longitude: 9.1642428
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Böblinger Straße"
 housenumber: 29A

@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 48.520756600000006
 longitude: 9.0357836
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Schleifmühleweg"
 housenumber: 82

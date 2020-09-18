@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.7031068
 longitude: 9.437942000000001
-postcode: 73207
+postcode: "73207"
 city: Plochingen
 street: "Filsallee"
 housenumber: 19

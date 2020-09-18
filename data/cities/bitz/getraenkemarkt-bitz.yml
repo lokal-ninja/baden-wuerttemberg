@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.2432941
 longitude: 9.091974500000001
-postcode: 72475
+postcode: "72475"
 city: Bitz
 street: "Hindenburgplatz"
 housenumber: 6

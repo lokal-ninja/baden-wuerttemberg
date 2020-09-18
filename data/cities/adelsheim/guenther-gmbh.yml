@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.404992
 longitude: 9.3926396
-postcode: 74740
+postcode: "74740"
 city: Adelsheim
 street: "Obere Austraße"
 housenumber: 12

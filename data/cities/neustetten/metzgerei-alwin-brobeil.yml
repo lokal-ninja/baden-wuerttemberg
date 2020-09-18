@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.4829555
 longitude: 8.881874
-postcode: 72149
+postcode: "72149"
 city: Neustetten
 street: "Hauptstraße"
 housenumber: 95

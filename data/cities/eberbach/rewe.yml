@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.466244800000005
 longitude: 8.9844573
-postcode: 69412
+postcode: "69412"
 city: Eberbach
 street: "Güterbahnhofstraße"
 housenumber: 10

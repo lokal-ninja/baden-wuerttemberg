@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.5585916
 longitude: 9.267803500000001
-postcode: 72585
+postcode: "72585"
 city: Riederich
 street: "Metzinger Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.6490962
 longitude: 9.4517612
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Marktstraße"
 housenumber: 5

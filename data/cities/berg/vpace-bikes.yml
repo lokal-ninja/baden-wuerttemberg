@@ -3,10 +3,10 @@ type: way
 shop: Fahrrad
 latitude: 47.8196571
 longitude: 9.6090836
-postcode: 88276
+postcode: "88276"
 city: Berg
 street: "Altdorfer Straße"
 housenumber: 16
 phone: ""
-opening_hours: ""
-website: "http://www.vpace.de"
+opening_hours: "Mo-Fr 10:00-17:00"
+website: ""

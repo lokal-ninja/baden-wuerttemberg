@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.5235733
 longitude: 8.100251100000001
-postcode: 77794
+postcode: "77794"
 city: Lautenbach
 street: "Vorder-Winterbach"
 housenumber: 2

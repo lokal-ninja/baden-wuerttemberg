@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.032003
 longitude: 8.7044002
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Pforzheimer Straße"
 housenumber: 46

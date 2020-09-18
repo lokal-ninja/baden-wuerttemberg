@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.009978100000005
 longitude: 8.3819947
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Scheffelstraße"
 housenumber: 1

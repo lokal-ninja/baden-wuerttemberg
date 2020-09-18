@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 47.6139906
 longitude: 7.6112821
-postcode: 79576
+postcode: "79576"
 city: Weil am Rhein
 street: "Dammstraße"
 housenumber: 9

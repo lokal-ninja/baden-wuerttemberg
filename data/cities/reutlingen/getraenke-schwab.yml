@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.5155096
 longitude: 9.235446600000001
-postcode: 72766
+postcode: "72766"
 city: Reutlingen
 street: "Hopfengartenstraße"
 housenumber: 97

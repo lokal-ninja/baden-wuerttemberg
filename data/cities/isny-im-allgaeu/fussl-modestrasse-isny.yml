@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.6924562
 longitude: 10.0399019
-postcode: 88316
+postcode: "88316"
 city: Isny im Allgäu
 street: "Wassertorstraße"
 housenumber: 6

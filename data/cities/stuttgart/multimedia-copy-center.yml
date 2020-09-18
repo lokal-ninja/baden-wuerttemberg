@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 48.8136437
 longitude: 9.113982700000001
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Pforzheimer Straße"
 housenumber: 371 A

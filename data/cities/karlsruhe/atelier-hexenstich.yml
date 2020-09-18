@@ -1,12 +1,12 @@
 id: 3885250124
 type: node
 shop: Kleidung
-latitude: 49.009812700000005
-longitude: 8.4071554
-postcode: 76133
+latitude: 49.0100935
+longitude: 8.3902521
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserstraße"
-housenumber: 50
-phone: "+49 721 849687"
-opening_hours: "Mo closed;Tu,We 10:00-16:00;Th 10:00-14:00;Fr 10:00-18:00;Sa 12:00-16:00;PH closed"
-website: "https://atelier-hexenstich.jimdo.com/"
+housenumber: 243
+phone: ""
+opening_hours: "Tu-Sa 10:00-18:00"
+website: ""

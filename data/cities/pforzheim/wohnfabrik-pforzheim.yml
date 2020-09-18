@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.8903836
 longitude: 8.697101
-postcode: 75172
+postcode: "75172"
 city: Pforzheim
 street: "Zerrennerstraße"
 housenumber: 23

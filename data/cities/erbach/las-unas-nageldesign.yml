@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.302639000000006
 longitude: 9.9020934
-postcode: 89155
+postcode: "89155"
 city: Erbach
 street: "Schulstraße"
 housenumber: 14

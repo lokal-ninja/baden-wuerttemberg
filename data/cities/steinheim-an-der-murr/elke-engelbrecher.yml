@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9660695
 longitude: 9.277010800000001
-postcode: 71711
+postcode: "71711"
 city: Steinheim an der Murr
 street: "August-Scholl-Straße"
 housenumber: 2

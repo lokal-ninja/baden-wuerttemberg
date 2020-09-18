@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7717486
 longitude: 9.1570201
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Schwabstraße"
 housenumber: 53-61

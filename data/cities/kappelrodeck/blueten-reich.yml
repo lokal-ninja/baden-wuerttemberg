@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.5919201
 longitude: 8.1169927
-postcode: 77876
+postcode: "77876"
 city: Kappelrodeck
 street: "Hauptstraße"
 housenumber: 47

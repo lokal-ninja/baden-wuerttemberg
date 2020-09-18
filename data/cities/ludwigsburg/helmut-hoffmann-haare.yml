@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8963863
 longitude: 9.1874719
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Hospitalstraße"
 housenumber: 1

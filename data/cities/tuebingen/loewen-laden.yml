@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.521026400000004
 longitude: 9.0529422
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Kornhausstraße"
 housenumber: 5

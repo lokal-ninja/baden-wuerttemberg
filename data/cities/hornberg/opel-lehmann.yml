@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.206602100000005
 longitude: 8.2324546
-postcode: 78132
+postcode: "78132"
 city: Hornberg
 street: "Frombachstraße"
 housenumber: 1

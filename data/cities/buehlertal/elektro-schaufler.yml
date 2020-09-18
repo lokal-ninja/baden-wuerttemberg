@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 48.6892073
 longitude: 8.1823346
-postcode: 77830
+postcode: "77830"
 city: Bühlertal
 street: "Hauptstraße"
 housenumber: 78

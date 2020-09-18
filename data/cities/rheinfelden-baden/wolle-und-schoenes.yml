@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 47.560402200000006
 longitude: 7.7854776
-postcode: 79618
+postcode: "79618"
 city: Rheinfelden (Baden)
 street: "Zähringerstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.534798
 longitude: 8.619803000000001
-postcode: 68542
+postcode: "68542"
 city: Heddesheim
 street: ""
 housenumber: 28

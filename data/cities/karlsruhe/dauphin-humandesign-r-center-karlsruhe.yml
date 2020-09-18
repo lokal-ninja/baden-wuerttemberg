@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.0232812
 longitude: 8.463726600000001
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Printzstraße"
 housenumber: 13

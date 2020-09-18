@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.673974
 longitude: 9.3621297
-postcode: 73257
+postcode: "73257"
 city: Köngen
 street: "Imanuel-Maier-Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.818122100000004
 longitude: 8.177319500000001
-postcode: 79859
+postcode: "79859"
 city: Schluchsee
 street: "Kirchplatz"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.063330300000004
 longitude: 8.557056000000001
-postcode: 78056
+postcode: "78056"
 city: Villingen-Schwenningen
 street: "Rottweiler Straße"
 housenumber: 110

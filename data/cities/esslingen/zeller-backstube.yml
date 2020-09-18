@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7246661
 longitude: 9.361410000000001
-postcode: 73730
+postcode: "73730"
 city: Esslingen
 street: "Hauptstraße"
 housenumber: 114

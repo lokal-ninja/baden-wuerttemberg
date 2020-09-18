@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.898182600000005
 longitude: 8.4197099
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Johann-Gregor-Breuer-Straße"
 housenumber: 17

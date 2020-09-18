@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.876018200000004
 longitude: 9.4035106
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Wiesenstraße"
 housenumber: 28

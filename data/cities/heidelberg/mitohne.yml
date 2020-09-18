@@ -1,12 +1,12 @@
 id: 6980271905
 type: node
-shop: Allgemein
-latitude: 49.4030077
-longitude: 8.665433100000001
-postcode: 69115
+shop: Lebensmittel
+latitude: 49.402990700000004
+longitude: 8.6654284
+postcode: "69115"
 city: Heidelberg
 street: "Da-Vinci-Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Tu-Fr 09:30-12:30, 15:00-19:00; Sa 09:30-14:30; Su off; PH off"
-website: "http://www.unverpackt-bahnstadt.de/"
+website: "https://www.unverpackt-bahnstadt.de"

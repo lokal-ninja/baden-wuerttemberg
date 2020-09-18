@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.8071782
 longitude: 9.643031200000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Broner Platz"
 housenumber: 6

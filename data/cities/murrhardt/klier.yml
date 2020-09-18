@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9806776
 longitude: 9.5809148
-postcode: 71540
+postcode: "71540"
 city: Murrhardt
 street: "Fritz-Schweizer-Straße"
 housenumber: 6

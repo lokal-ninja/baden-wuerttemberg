@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.941298
 longitude: 8.406332800000001
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Neuer Markt"
 housenumber: 3

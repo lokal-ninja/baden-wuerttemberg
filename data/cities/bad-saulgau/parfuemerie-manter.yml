@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.015743400000005
 longitude: 9.5017273
-postcode: 
+postcode: ""
 city: Bad Saulgau
 street: "Hauptstraße"
 housenumber: 83

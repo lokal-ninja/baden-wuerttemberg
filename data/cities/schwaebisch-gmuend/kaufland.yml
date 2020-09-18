@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8041497
 longitude: 9.8392386
-postcode: 73527
+postcode: "73527"
 city: Schwäbisch Gmünd
 street: "Hauptstraße"
 housenumber: 6

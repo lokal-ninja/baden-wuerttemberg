@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.410012
 longitude: 9.0688668
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Firstwaldstraße"
 housenumber: 4/2

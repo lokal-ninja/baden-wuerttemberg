@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.282021300000004
 longitude: 9.945497000000001
-postcode: 89185
+postcode: "89185"
 city: Hüttisheim
 street: "Humlanger Straße"
 housenumber: 15/1

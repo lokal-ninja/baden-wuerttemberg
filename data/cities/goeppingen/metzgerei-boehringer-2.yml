@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.6870623
 longitude: 9.6275103
-postcode: 73035
+postcode: "73035"
 city: Göppingen
 street: "Boller Straße"
 housenumber: 16

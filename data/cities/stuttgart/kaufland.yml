@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7302084
 longitude: 9.108808400000001
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Schwabenplatz"
 housenumber: 1

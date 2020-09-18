@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.8433514
 longitude: 9.1381868
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Schwieberdinger Straße"
 housenumber: 230

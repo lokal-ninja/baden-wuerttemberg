@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6267225
 longitude: 10.0219615
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Osterstraße"
 housenumber: 30

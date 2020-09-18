@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.6142339
 longitude: 9.5376717
-postcode: 73235
+postcode: "73235"
 city: Weilheim an der Teck
 street: "Obere Mühlstraße"
 housenumber: 10

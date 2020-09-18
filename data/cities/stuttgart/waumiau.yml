@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.7742506
 longitude: 9.182027300000001
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Esslinger Straße"
 housenumber: 18

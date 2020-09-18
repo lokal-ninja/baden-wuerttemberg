@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.086563500000004
 longitude: 9.2121346
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Laizer Straße"
 housenumber: 3

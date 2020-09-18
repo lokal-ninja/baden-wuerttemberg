@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.137266700000005
 longitude: 9.219542800000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Cäcilienstraße"
 housenumber: 58

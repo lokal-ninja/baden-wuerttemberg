@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.942772500000004
 longitude: 9.645253100000001
-postcode: 88326
+postcode: "88326"
 city: Aulendorf
 street: "Alte Kiesgrube"
 housenumber: 5

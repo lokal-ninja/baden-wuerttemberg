@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.009365
 longitude: 8.3955085
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Erbprinzenstraße"
 housenumber: 35

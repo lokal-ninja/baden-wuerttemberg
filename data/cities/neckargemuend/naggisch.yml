@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.3941255
 longitude: 8.7984752
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Hauptstraße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.9562164
 longitude: 9.144039600000001
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Geisinger Straße"
 housenumber: 65

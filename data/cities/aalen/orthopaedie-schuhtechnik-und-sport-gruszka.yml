@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.838671100000006
 longitude: 10.0886645
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Friedrichstraße"
 housenumber: 43

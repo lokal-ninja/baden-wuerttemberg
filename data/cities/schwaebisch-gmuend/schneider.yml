@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.7960536
 longitude: 9.798009500000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Waldstetter Gasse"
 housenumber: 18

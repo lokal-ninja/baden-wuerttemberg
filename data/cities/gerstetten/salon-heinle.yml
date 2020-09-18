@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6213082
 longitude: 10.021970300000001
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Wilhelmstraße"
 housenumber: 41

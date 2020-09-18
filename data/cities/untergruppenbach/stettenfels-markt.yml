@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0855599
 longitude: 9.2876328
-postcode: 74199
+postcode: "74199"
 city: Untergruppenbach
 street: "Siegfried-Levi-Straße"
 housenumber: 8

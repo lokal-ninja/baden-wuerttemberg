@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 49.095790900000004
 longitude: 9.3792985
-postcode: 74245
+postcode: "74245"
 city: Löwenstein
 street: "Maybachstraße"
 housenumber: 5

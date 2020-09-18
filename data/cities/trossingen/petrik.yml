@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.0745422
 longitude: 8.6333628
-postcode: 78647
+postcode: "78647"
 city: Trossingen
 street: "Hauptstraße"
 housenumber: 34

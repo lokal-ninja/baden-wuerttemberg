@@ -3,7 +3,7 @@ type: way
 shop: Rahmen
 latitude: 49.4550764
 longitude: 8.5073354
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Ziegelhüttenweg"
 housenumber: 7

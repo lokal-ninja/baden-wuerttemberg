@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.945452700000004
 longitude: 9.2429583
-postcode: 71726
+postcode: "71726"
 city: Benningen am Neckar
 street: "Gartenstraße"
 housenumber: 7

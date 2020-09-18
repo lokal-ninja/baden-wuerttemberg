@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.452909600000005
 longitude: 8.5871437
-postcode: 68535
+postcode: "68535"
 city: Edingen-Neckarhausen
 street: "Rosenstraße"
 housenumber: 70

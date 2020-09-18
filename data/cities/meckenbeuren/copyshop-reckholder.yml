@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 47.69789
 longitude: 9.561984800000001
-postcode: 88074
+postcode: "88074"
 city: Meckenbeuren
 street: "Lindberghstraße"
 housenumber: 8

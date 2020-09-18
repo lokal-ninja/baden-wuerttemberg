@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.8308279
 longitude: 9.3131603
-postcode: 71332
+postcode: "71332"
 city: Waiblingen
 street: "Fronackerstraße"
 housenumber: 8

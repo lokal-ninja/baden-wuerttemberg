@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.809418
 longitude: 8.980689700000001
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Carl-Zeiss-Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.06277660000001
 longitude: 8.5328047
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
 street: "Harzerstraße"
 housenumber: 8

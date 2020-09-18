@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 47.9344655
 longitude: 8.7168626
-postcode: 78194
+postcode: "78194"
 city: Immendingen
 street: "Schwarzwaldstraße"
 housenumber: 93

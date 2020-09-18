@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 49.0550622
 longitude: 9.245084400000001
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
 street: "König-Wilhelm-Straße"
 housenumber: 51-53

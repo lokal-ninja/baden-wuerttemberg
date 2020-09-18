@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.3527545
 longitude: 9.144387700000001
-postcode: 74821
+postcode: "74821"
 city: Mosbach
 street: "Gartenweg"
 housenumber: 5

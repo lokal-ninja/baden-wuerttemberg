@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6619948
 longitude: 8.6915454
-postcode: 75387
+postcode: "75387"
 city: Neubulach
 street: "Julius-Heuß-Straße"
 housenumber: 12

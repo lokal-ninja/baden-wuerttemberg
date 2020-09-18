@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.841447
 longitude: 9.3604251
-postcode: 71404
+postcode: "71404"
 city: Korb
 street: "Waiblinger Straße"
 housenumber: 16

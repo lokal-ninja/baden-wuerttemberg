@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 47.9573872
 longitude: 7.773621500000001
-postcode: 79285
+postcode: "79285"
 city: Ebringen
 street: "Talhauser Straße"
 housenumber: 1

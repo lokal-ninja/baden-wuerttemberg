@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.4898401
 longitude: 9.3995762
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Seilerweg"
 housenumber: 4

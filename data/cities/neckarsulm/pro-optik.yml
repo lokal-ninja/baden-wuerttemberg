@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.1922884
 longitude: 9.2246979
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Marktstraße"
 housenumber: 35

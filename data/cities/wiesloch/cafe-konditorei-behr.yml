@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.293786700000005
 longitude: 8.6972647
-postcode: 69168
+postcode: "69168"
 city: Wiesloch
 street: "Hauptstraße"
 housenumber: 122

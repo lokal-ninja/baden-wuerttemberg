@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.4711605
 longitude: 8.6069665
-postcode: 68526
+postcode: "68526"
 city: Ladenburg
 street: "Neckartorplatz"
 housenumber: 1

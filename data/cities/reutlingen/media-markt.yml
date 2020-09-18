@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.495899900000005
 longitude: 9.2070573
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Unter den Linden"
 housenumber: 8

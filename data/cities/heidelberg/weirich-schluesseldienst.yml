@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.4168918
 longitude: 8.6901147
-postcode: 69120
+postcode: "69120"
 city: Heidelberg
 street: "Lutherstraße"
 housenumber: 57

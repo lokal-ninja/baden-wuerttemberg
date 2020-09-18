@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.44291380000001
 longitude: 9.3356363
-postcode: 74743
+postcode: "74743"
 city: Seckach
 street: ""
 housenumber: 

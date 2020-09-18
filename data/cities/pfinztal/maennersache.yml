@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.987391200000005
 longitude: 8.5425649
-postcode: 76327
+postcode: "76327"
 city: Pfinztal
 street: "Pfinzstraße"
 housenumber: 34

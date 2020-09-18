@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.0044265
 longitude: 8.3908678
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Gartenstraße"
 housenumber: 37

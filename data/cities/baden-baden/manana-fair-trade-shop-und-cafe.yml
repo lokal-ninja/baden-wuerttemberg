@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.762105000000005
 longitude: 8.239743
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Büttenstraße"
 housenumber: 4

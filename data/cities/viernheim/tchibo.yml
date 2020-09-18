@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 49.526889800000006
 longitude: 8.565318000000001
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Robert-Schuman-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.8757467
 longitude: 9.3997098
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Marktstraße"
 housenumber: 40

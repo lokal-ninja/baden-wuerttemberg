@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 48.7718216
 longitude: 9.176978100000001
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Gerberstraße"
 housenumber: 3

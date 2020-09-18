@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.8684841
 longitude: 9.3547585
-postcode: 71409
+postcode: "71409"
 city: Schwaikheim
 street: ""
 housenumber: 

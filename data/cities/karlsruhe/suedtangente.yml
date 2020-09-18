@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.9857474
 longitude: 8.4480315
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Erlachseeweg"
 housenumber: 10

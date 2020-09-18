@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.6840969
 longitude: 9.3631585
-postcode: 73257
+postcode: "73257"
 city: Köngen
 street: "Unterdorfstraße"
 housenumber: 16

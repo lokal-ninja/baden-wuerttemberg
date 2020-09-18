@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.9479673
 longitude: 9.4308154
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Marktstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.538409800000004
 longitude: 7.9791762
-postcode: 77767
+postcode: "77767"
 city: Appenweier
 street: "Ortenauer Straße"
 housenumber: 23

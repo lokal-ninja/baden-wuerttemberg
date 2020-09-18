@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0187827
 longitude: 9.098281
-postcode: 
+postcode: ""
 city: Erligheim
 street: "Löchgauer Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.77548
 longitude: 9.1811123
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Karlstraße"
 housenumber: 3

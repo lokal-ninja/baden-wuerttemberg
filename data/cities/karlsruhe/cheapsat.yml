@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.9964087
 longitude: 8.4486582
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Ottostraße"
 housenumber: 2b

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.937528300000004
 longitude: 8.3813276
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Marie-Curie-Straße"
 housenumber: 2,

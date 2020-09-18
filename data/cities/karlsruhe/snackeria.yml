@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.9964255
 longitude: 8.4449324
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Ottostraße"
 housenumber: 9

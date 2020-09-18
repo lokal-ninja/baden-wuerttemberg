@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9943145
 longitude: 9.111775100000001
-postcode: 88605
+postcode: "88605"
 city: Meßkirch
 street: "Hauptstraße"
 housenumber: 28/30

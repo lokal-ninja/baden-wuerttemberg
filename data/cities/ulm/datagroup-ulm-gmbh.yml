@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.4004308
 longitude: 9.957388400000001
-postcode: 89077
+postcode: "89077"
 city: Ulm
 street: "Magirus-Deutz-Straße"
 housenumber: 17

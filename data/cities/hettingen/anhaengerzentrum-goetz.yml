@@ -3,7 +3,7 @@ type: way
 shop: Anhänger
 latitude: 48.192753700000004
 longitude: 9.2827163
-postcode: 72513
+postcode: "72513"
 city: Hettingen
 street: "Schillerstraße"
 housenumber: 1

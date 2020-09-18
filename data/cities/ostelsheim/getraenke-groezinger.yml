@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.7272789
 longitude: 8.8545086
-postcode: 75395
+postcode: "75395"
 city: Ostelsheim
 street: "Stuttgarter Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.9352
 longitude: 8.4296713
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Pforzheimer Straße"
 housenumber: 114

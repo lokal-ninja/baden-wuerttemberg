@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.7993218
 longitude: 9.1861897
-postcode: 70191
+postcode: "70191"
 city: Stuttgart
 street: "Innerer Nordbahnhof"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 49.6976723
 longitude: 9.6971477
-postcode: 97956
+postcode: "97956"
 city: Werbach
 street: "Andreas-Kneucker-Straße"
 housenumber: 21

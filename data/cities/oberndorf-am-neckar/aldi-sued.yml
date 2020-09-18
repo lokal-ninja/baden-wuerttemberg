@@ -1,12 +1,12 @@
-id: 5417992521
-type: node
+id: 448830974
+type: way
 shop: Supermarkt
-latitude: 48.295164400000004
-longitude: 8.5528229
-postcode: 78727
+latitude: 48.2809645
+longitude: 8.5897664
+postcode: "78727"
 city: Oberndorf am Neckar
-street: "Friedrich-List-Straße"
-housenumber: 2
+street: "Austraße"
+housenumber: 42
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

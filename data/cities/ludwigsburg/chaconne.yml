@@ -3,7 +3,7 @@ type: node
 shop: Hüte
 latitude: 48.896395600000005
 longitude: 9.1930055
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Eberhardstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.899358400000004
 longitude: 8.671664400000001
-postcode: 75179
+postcode: "75179"
 city: Pforzheim
 street: "Sinsheimer Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6463703
 longitude: 9.363726400000001
-postcode: 72644
+postcode: "72644"
 city: Oberboihingen
 street: "Mörikestraße"
 housenumber: 13

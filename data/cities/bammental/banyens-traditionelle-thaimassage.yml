@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.3580223
 longitude: 8.7815343
-postcode: 69245
+postcode: "69245"
 city: Bammental
 street: "Hauptstraße"
 housenumber: 5

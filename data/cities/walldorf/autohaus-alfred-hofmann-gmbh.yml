@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.3049091
 longitude: 8.6322645
-postcode: 69190
+postcode: "69190"
 city: Walldorf
 street: "Carl-Zeiss-Straße"
 housenumber: 4

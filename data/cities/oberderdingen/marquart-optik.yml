@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.061736
 longitude: 8.8019365
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Wette"
 housenumber: 3

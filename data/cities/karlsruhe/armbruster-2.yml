@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9979263
 longitude: 8.4730138
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Marstallstraße"
 housenumber: 18

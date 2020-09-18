@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.702802600000005
 longitude: 9.653667500000001
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Marktstraße"
 housenumber: 22

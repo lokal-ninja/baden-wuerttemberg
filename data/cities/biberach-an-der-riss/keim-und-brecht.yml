@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.098911300000005
 longitude: 9.767506000000001
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Berthold-Hupmann-Straße"
 housenumber: 1

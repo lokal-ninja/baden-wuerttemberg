@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2815591
 longitude: 9.1617596
-postcode: 74831
+postcode: "74831"
 city: Gundelsheim
 street: "Lerchenstraße"
 housenumber: 37

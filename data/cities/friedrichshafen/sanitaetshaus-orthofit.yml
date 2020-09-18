@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.6590873
 longitude: 9.4847537
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Ehlersstraße"
 housenumber: 19

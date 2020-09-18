@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0348357
 longitude: 8.530300200000001
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: ""
 housenumber: 

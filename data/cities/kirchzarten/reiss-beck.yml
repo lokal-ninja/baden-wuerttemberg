@@ -1,12 +1,12 @@
-id: 1729345710
+id: 374194933
 type: node
 shop: Bäckerei
-latitude: 47.967415900000006
-longitude: 7.958281500000001
-postcode: 79199
+latitude: 47.963731700000004
+longitude: 7.953234900000001
+postcode: "79199"
 city: Kirchzarten
-street: "Bahnhofstraße"
-housenumber: 22
-phone: "+49 7661 9899561"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-17:00; Su 8:00-17:00"
+street: "Hauptstraße"
+housenumber: 23
+phone: ""
+opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-18:00; Su 08:00-18:00"
 website: ""

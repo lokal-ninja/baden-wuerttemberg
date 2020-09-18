@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.0682835
 longitude: 8.6759775
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Im Tal"
 housenumber: 11

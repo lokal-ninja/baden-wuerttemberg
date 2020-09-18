@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.7954712
 longitude: 9.7870478
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Mörikestraße"
 housenumber: 19

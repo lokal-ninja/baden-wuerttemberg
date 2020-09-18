@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.887751300000005
 longitude: 8.704212100000001
-postcode: 75175
+postcode: "75175"
 city: Pforzheim
 street: "Kreuzstraße"
 housenumber: 5-7

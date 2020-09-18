@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.848778100000004
 longitude: 8.450468
-postcode: 79879
+postcode: "79879"
 city: Wutach
 street: ""
 housenumber: 6

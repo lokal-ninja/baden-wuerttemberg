@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 48.6885478
 longitude: 9.6324515
-postcode: 73035
+postcode: "73035"
 city: Göppingen
 street: "Wasenstraße"
 housenumber: 6
-phone: "+49 7161 5050910 - Mobil: +49 176 35733166"
+phone: "+49 7161 5050910"
 opening_hours: ""
 website: ""

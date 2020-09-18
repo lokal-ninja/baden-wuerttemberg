@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 47.674398000000004
 longitude: 9.150635000000001
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Carl-Benz-Straße"
 housenumber: 3a

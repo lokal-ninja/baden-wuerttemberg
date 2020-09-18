@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.870302
 longitude: 8.438482800000001
-postcode: 76359
+postcode: "76359"
 city: Marxzell
 street: "Speiglerstraße"
 housenumber: 5

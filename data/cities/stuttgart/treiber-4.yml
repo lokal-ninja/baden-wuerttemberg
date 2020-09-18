@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.714434700000005
 longitude: 9.164904
-postcode: 70567
+postcode: "70567"
 city: Stuttgart
 street: "Schelmenwasenstraße"
 housenumber: 4

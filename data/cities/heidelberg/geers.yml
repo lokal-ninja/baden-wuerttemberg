@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.413552700000004
 longitude: 8.6920768
-postcode: 69120
+postcode: "69120"
 city: Heidelberg
 street: "Brückenstraße"
 housenumber: 1

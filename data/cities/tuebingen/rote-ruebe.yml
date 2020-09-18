@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.510924
 longitude: 9.075574600000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Aixer Straße"
 housenumber: 44

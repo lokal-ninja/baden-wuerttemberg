@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1219301
 longitude: 9.0747607
-postcode: 72510
+postcode: "72510"
 city: Stetten am kalten Markt
 street: "Albstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.880324200000004
 longitude: 9.7628593
-postcode: 73565
+postcode: "73565"
 city: Spraitbach
 street: "Gschwender Straße"
 housenumber: 8

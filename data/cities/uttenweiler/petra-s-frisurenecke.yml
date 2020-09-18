@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.144322
 longitude: 9.618014500000001
-postcode: 
+postcode: ""
 city: Uttenweiler
 street: "Weiherstraße"
 housenumber: 9

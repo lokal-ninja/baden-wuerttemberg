@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.838617500000005
 longitude: 10.016228100000001
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Rupert-App-Straße"
 housenumber: 4

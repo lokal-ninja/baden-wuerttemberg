@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 48.7608242
 longitude: 8.239771900000001
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Sophienstraße"
 housenumber: 8

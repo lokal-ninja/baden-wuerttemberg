@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.78176920000001
 longitude: 9.5890644
-postcode: 88213
+postcode: "88213"
 city: Ravensburg
 street: "Mittelöschstraße"
 housenumber: 16

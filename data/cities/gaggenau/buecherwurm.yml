@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.8021115
 longitude: 8.3206769
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Hauptstraße"
 housenumber: 83

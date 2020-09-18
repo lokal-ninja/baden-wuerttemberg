@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3272336
 longitude: 9.041982800000001
-postcode: 72417
+postcode: "72417"
 city: Jungingen
 street: "Bruckstraße"
 housenumber: 2

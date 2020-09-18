@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.100863200000006
 longitude: 9.214374000000001
-postcode: 74223
+postcode: "74223"
 city: Flein
 street: "Erlachstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.665193
 longitude: 9.3609345
-postcode: 88090
+postcode: "88090"
 city: Immenstaad am Bodensee
 street: "Meersburger Straße"
 housenumber: 19

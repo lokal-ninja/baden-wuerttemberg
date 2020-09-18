@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6935579
 longitude: 9.140165900000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Musberger Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.6124383
 longitude: 7.6621733
-postcode: 79539
+postcode: "79539"
 city: Lörrach
 street: "Turmstraße"
 housenumber: 12

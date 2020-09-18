@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8578927
 longitude: 8.2029812
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Schloßstraße"
 housenumber: 8

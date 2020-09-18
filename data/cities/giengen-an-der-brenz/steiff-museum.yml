@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.621262
 longitude: 10.2416006
-postcode: 89537
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Margarete Steiff-Platz"
 housenumber: 1

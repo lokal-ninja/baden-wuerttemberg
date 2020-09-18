@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.969136400000004
 longitude: 8.942233
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Dennefstraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1589104
 longitude: 9.1715941
-postcode: 74078
+postcode: "74078"
 city: Heilbronn
 street: "Stauchenstraße"
 housenumber: 1

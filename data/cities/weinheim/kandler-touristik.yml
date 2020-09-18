@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 49.545612600000005
 longitude: 8.642406600000001
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Ahornstraße"
 housenumber: 46

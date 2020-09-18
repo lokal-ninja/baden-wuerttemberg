@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.6483372
 longitude: 8.348618100000001
-postcode: 79793
+postcode: "79793"
 city: Wutöschingen
 street: "Bahnhofstraße"
 housenumber: 6

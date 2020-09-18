@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.141201300000006
 longitude: 7.7050663
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "Dielenmarktstraße"
 housenumber: 6-10

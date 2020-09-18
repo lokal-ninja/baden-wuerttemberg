@@ -3,10 +3,10 @@ type: node
 shop: Massage
 latitude: 48.508962700000005
 longitude: 9.2048982
-postcode: 72760
+postcode: "72760"
 city: Reutlingen
 street: "Storlachstraße"
 housenumber: 198
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00; PH 10:00-20:00; We off"
+opening_hours: "Tu-Su 10:00-20:00; PH 10:00-20:00; Mo off"
 website: ""

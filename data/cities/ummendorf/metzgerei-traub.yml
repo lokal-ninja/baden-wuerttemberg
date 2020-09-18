@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.063154100000006
 longitude: 9.8294338
-postcode: 88444
+postcode: "88444"
 city: Ummendorf
 street: "Biberacher Straße"
 housenumber: 17/2

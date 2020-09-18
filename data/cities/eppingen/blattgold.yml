@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.1344646
 longitude: 8.911894400000001
-postcode: 75031
+postcode: "75031"
 city: Eppingen
 street: "Bismarckstraße"
 housenumber: 2

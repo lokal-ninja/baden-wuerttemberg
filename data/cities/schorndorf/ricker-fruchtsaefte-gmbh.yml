@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.82188
 longitude: 9.549603300000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Kellerwiesen"
 housenumber: 19

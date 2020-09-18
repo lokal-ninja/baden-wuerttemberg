@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.0364543
 longitude: 8.7098124
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Sporgasse"
 housenumber: 20

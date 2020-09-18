@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.4714535
 longitude: 8.1600503
-postcode: 77728
+postcode: "77728"
 city: Oppenau
 street: "Moosweg"
 housenumber: 1a

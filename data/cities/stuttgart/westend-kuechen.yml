@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 48.7723418
 longitude: 9.1564004
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Ludwigstraße"
 housenumber: 77

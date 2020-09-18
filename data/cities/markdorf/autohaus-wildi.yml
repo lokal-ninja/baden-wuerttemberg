@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.717142100000004
 longitude: 9.396456800000001
-postcode: 88677
+postcode: "88677"
 city: Markdorf
 street: "Riedstraße"
 housenumber: 4

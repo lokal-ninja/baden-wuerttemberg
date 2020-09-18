@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.80066780000001
 longitude: 9.8001684
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Kalter Markt"
 housenumber: 12

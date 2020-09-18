@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.3376887
 longitude: 8.9110216
-postcode: 74925
+postcode: "74925"
 city: Epfenbach
 street: "Kreisental"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.0837738
 longitude: 8.3948211
-postcode: 76344
+postcode: "76344"
 city: Eggenstein-Leopoldshafen
 street: "Bachstraße"
 housenumber: 32

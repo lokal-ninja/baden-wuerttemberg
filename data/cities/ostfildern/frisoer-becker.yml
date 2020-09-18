@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.717543500000005
 longitude: 9.2294186
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Birkacher Straße"
 housenumber: 2

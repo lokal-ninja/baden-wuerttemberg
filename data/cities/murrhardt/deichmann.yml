@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.9807537
 longitude: 9.5809581
-postcode: 71540
+postcode: "71540"
 city: Murrhardt
 street: "Fritz-Schweizer-Straße"
 housenumber: 34

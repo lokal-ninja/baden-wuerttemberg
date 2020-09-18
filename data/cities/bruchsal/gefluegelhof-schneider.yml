@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.0848991
 longitude: 8.5488988
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Im Weier"
 housenumber: 11a

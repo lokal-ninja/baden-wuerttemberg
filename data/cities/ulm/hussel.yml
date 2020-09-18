@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.3990616
 longitude: 9.991404900000001
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Münsterplatz"
 housenumber: 11

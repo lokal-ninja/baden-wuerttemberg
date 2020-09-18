@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.8364641
 longitude: 8.827564800000001
-postcode: 71292
+postcode: "71292"
 city: Friolzheim
 street: "Pforzheimer Straße"
 housenumber: 72/1

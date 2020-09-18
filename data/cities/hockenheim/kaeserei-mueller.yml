@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.3196633
 longitude: 8.553130900000001
-postcode: 68766
+postcode: "68766"
 city: Hockenheim
 street: "Rathausstraße"
 housenumber: 36

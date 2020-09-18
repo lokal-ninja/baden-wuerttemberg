@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.6574116
 longitude: 8.9413088
-postcode: 71139
+postcode: "71139"
 city: Ehningen
 street: "Hildrizhauser Straße"
 housenumber: 31

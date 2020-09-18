@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.200614900000005
 longitude: 8.649844400000001
-postcode: 76669
+postcode: "76669"
 city: Bad Schönborn
 street: "Bischof-Stang-Straße"
 housenumber: 1a

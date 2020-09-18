@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 49.136758500000006
 longitude: 8.7750281
-postcode: 76703
+postcode: "76703"
 city: Kraichtal
 street: "Bahnhofstraße"
 housenumber: 33a

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.140605400000005
 longitude: 7.703299800000001
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "Marktplatz"
 housenumber: 25

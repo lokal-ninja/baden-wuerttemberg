@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6962677
 longitude: 8.1343216
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Eisenbahnstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.679064200000006
 longitude: 8.9749538
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Hanns-Klemm-Straße"
 housenumber: 50

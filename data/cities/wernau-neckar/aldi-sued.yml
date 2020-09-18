@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6797102
 longitude: 9.4288129
-postcode: 73249
+postcode: "73249"
 city: Wernau (Neckar)
 street: "Kranzhaldenstraße"
 housenumber: 13

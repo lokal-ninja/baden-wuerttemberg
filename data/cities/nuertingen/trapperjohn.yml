@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 48.6133803
 longitude: 9.344969800000001
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Max-Eyth-Straße"
 housenumber: 30

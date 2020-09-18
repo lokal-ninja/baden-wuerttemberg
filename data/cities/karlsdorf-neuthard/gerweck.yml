@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.136510200000004
 longitude: 8.5409916
-postcode: 76689
+postcode: "76689"
 city: Karlsdorf-Neuthard
 street: "Amalienstraße"
 housenumber: 30

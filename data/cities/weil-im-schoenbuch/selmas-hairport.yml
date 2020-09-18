@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.622291800000006
 longitude: 9.0573297
-postcode: 71093
+postcode: "71093"
 city: Weil im Schönbuch
 street: "Hauptstraße"
 housenumber: 79

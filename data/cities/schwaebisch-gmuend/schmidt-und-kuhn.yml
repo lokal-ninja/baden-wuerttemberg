@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.778685100000004
 longitude: 9.8445798
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Breslauer Straße"
 housenumber: 45

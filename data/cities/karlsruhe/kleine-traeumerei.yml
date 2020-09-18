@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.999965
 longitude: 8.472739200000001
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Ochsentorstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.516311300000005
 longitude: 9.0586409
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Europaplatz"
 housenumber: 1

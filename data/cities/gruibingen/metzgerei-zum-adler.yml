@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.59394
 longitude: 9.6448243
-postcode: 73344
+postcode: "73344"
 city: Gruibingen
 street: "Hauptstraße"
 housenumber: 1

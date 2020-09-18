@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 49.203758900000004
 longitude: 9.5054323
-postcode: 74613
+postcode: "74613"
 city: Öhringen
 street: "Wollreffenweg"
 housenumber: 1

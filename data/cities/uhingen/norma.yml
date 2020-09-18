@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.707466600000004
 longitude: 9.583341800000001
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Bahnhofstraße"
 housenumber: 3

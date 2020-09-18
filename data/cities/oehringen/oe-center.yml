@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.2047028
 longitude: 9.487824400000001
-postcode: 74613
+postcode: "74613"
 city: Öhringen
 street: "Austraße"
 housenumber: 5

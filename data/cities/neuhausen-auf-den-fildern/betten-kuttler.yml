@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.680344000000005
 longitude: 9.2794871
-postcode: 73765
+postcode: "73765"
 city: Neuhausen auf den Fildern
 street: "Kirchstraße"
 housenumber: 34

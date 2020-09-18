@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.4186679
 longitude: 8.6755482
-postcode: 69120
+postcode: "69120"
 city: Heidelberg
 street: "Berliner Straße"
 housenumber: 49

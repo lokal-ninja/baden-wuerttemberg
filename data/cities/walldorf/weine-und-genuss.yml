@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.3035805
 longitude: 8.642310400000001
-postcode: 69190
+postcode: "69190"
 city: Walldorf
 street: "Schwetzinger Straße"
 housenumber: 3

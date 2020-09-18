@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.6709888
 longitude: 9.1727139
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Reichenaustraße"
 housenumber: 14b

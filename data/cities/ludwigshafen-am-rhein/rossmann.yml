@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.481716000000006
 longitude: 8.449698
-postcode: 67059
+postcode: "67059"
 city: Ludwigshafen am Rhein
 street: "Ludwigstraße"
 housenumber: 57

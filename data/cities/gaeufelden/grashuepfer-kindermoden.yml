@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5571399
 longitude: 8.850943800000001
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Hämmerlestraße"
 housenumber: 3

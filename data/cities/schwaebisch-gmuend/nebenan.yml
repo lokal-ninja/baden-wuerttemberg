@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.7974273
 longitude: 9.7976186
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Sebaldstraße"
 housenumber: 6

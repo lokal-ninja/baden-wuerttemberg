@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.4490144
 longitude: 8.9043302
-postcode: 69434
+postcode: "69434"
 city: Hirschhorn
 street: "Adalbert-Stifter-Straße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.763212300000006
 longitude: 8.3383378
-postcode: 76593
+postcode: "76593"
 city: Gernsbach
 street: "Igelbachstraße"
 housenumber: 9

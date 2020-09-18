@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.6252213
 longitude: 8.749061000000001
-postcode: 72218
+postcode: "72218"
 city: Wildberg
 street: "Talstraße"
 housenumber: 51

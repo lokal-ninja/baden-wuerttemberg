@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.3227617
 longitude: 9.3601536
-postcode: 74219
+postcode: "74219"
 city: Möckmühl
 street: "Marktstraße"
 housenumber: 11

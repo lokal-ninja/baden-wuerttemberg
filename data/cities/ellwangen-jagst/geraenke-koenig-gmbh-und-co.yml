@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.955231000000005
 longitude: 10.1727141
-postcode: 73479
+postcode: "73479"
 city: Ellwangen (Jagst)
 street: "Ludwig-Lutz-Straße"
 housenumber: 24

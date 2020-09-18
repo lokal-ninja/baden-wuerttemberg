@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.167351700000005
 longitude: 9.189072900000001
-postcode: 74078
+postcode: "74078"
 city: Heilbronn
 street: "Frankenbacher Straße"
 housenumber: 134

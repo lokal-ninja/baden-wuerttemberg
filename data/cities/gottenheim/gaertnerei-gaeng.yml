@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.052379200000004
 longitude: 7.7344762000000005
-postcode: 79288
+postcode: "79288"
 city: Gottenheim
 street: "Buchheimer Straße"
 housenumber: 7

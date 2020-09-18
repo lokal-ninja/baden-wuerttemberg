@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.648306500000004
 longitude: 9.454193100000001
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Alleenstraße"
 housenumber: 104

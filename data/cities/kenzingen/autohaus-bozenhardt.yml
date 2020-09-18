@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.1831873
 longitude: 7.7671402
-postcode: 79341
+postcode: "79341"
 city: Kenzingen
 street: "Franzosenstraße"
 housenumber: 13

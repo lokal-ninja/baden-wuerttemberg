@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.993340100000005
 longitude: 7.8539203
-postcode: 79098
+postcode: "79098"
 city: Freiburg im Breisgau
 street: "Oberlinden"
 housenumber: 14

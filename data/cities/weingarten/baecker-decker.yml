@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8083594
 longitude: 9.642131200000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Kirchstraße"
 housenumber: 14

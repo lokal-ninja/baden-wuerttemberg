@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.6971141
 longitude: 10.043253400000001
-postcode: 88316
+postcode: "88316"
 city: Isny im Allgäu
 street: "Bahnhofstraße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 49.0677761
 longitude: 8.679485300000001
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Im Tal"
 housenumber: 1

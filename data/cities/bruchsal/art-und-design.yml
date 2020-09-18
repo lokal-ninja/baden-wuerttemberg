@@ -3,10 +3,10 @@ type: node
 shop: Raumausstattung
 latitude: 49.137908700000004
 longitude: 8.5633063
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Kammerforststraße"
 housenumber: 17a
-phone: ""
+phone: "+49 7251 3082488"
 opening_hours: ""
-website: ""
+website: "https://www.lz-gmbh.de/art-design-online-shop/"

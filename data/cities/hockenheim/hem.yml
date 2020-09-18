@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.31177640000001
 longitude: 8.556637
-postcode: 68766
+postcode: "68766"
 city: Hockenheim
 street: "Heinrich-von-Kleist-Straße"
 housenumber: 16

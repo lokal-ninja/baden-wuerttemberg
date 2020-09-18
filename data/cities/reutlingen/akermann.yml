@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.4925086
 longitude: 9.2114499
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Wilhelmstraße"
 housenumber: 65

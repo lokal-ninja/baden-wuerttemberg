@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.5643563
 longitude: 8.8495414
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Herrenberger Straße"
 housenumber: 24

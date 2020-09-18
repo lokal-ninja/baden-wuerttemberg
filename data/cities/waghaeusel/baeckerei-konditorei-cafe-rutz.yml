@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2463123
 longitude: 8.534993100000001
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Waghäusler Straße"
 housenumber: 128

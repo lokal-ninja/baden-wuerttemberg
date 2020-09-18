@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.232038800000005
 longitude: 8.462835700000001
-postcode: 76661
+postcode: "76661"
 city: Philippsburg
 street: "Dammstraße"
 housenumber: 1-3

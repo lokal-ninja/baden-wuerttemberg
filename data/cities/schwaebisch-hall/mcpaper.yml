@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.113028
 longitude: 9.7352548
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Neue Straße"
 housenumber: 14

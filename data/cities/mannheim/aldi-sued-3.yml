@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.487516500000005
 longitude: 8.474895
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 29-32

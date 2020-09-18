@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5310141
 longitude: 9.139548600000001
-postcode: 72138
+postcode: "72138"
 city: Kirchentellinsfurt
 street: "Wannweiler Straße"
 housenumber: 3

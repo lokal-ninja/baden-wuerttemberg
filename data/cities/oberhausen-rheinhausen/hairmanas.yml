@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2793239
 longitude: 8.4690984
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Eichendorffweg"
 housenumber: 14

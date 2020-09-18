@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.135984
 longitude: 9.214725900000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Südstraße"
 housenumber: 9

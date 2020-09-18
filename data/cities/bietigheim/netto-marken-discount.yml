@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9130363
 longitude: 8.253632
-postcode: 76467
+postcode: "76467"
 city: Bietigheim
 street: "Alte Rathausstraße"
 housenumber: 9

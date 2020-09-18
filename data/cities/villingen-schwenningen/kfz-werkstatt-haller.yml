@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0540856
 longitude: 8.5806751
-postcode: 78056
+postcode: "78056"
 city: Villingen-Schwenningen
 street: "Mühlbachstraße"
 housenumber: 11

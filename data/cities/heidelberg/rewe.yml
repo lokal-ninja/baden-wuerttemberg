@@ -1,12 +1,12 @@
-id: 101778353
+id: 26772988
 type: way
 shop: Supermarkt
-latitude: 49.4253105
-longitude: 8.642006700000001
-postcode: 69123
+latitude: 49.3852721
+longitude: 8.6738158
+postcode: "69124"
 city: Heidelberg
-street: "Grenzhöfer Weg"
-housenumber: 17
+street: "Im Franzosengewann"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+opening_hours: "Mo-Sa 08:00-22:00"
+website: ""

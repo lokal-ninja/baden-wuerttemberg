@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.899708700000005
 longitude: 9.1893796
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Marstallstraße"
 housenumber: 1

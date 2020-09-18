@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2382445
 longitude: 9.102679
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Bahnhofstraße"
 housenumber: 5

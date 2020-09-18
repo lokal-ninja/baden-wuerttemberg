@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.359410000000004
 longitude: 8.813874
-postcode: 69257
+postcode: "69257"
 city: Wiesenbach
 street: "Hauptstraße"
 housenumber: 92

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.83103130000001
 longitude: 9.123387300000001
-postcode: 70825
+postcode: "70825"
 city: Korntal-Münchingen
 street: "Feuerseeweg"
 housenumber: 2/1

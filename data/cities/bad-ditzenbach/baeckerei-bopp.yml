@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.572285400000005
 longitude: 9.6790043
-postcode: 73342
+postcode: "73342"
 city: Bad Ditzenbach
 street: "Drackensteiner Straße"
 housenumber: 125

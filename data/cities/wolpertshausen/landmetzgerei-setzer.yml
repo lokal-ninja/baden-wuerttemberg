@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.169265200000005
 longitude: 9.8539849
-postcode: 74549
+postcode: "74549"
 city: Wolpertshausen
 street: "Birkichstraße"
 housenumber: 2

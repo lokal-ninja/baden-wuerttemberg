@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 47.651036000000005
 longitude: 9.482361000000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Buchhornplatz"
 housenumber: 8

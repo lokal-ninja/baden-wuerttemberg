@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.494368400000006
 longitude: 9.2105747
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Metzgerstraße"
 housenumber: 5

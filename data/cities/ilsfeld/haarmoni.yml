@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.058760400000004
 longitude: 9.280225100000001
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
 street: "Beilsteiner Straße"
 housenumber: 2

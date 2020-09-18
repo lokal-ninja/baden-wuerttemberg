@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 47.875688800000006
 longitude: 9.631054200000001
-postcode: 88284
+postcode: "88284"
 city: Wolpertswende
 street: "Hauptstraße"
 housenumber: 27
 phone: "+49 7502 92050"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-12:30,13:30-17:00"
 website: "http://www.kfz-miller.de"

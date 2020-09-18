@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.346642
 longitude: 8.6811883
-postcode: 69181
+postcode: "69181"
 city: Leimen
 street: "Sankt Ilgener Straße"
 housenumber: 60

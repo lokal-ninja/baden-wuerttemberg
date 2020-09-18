@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.729019
 longitude: 9.7013425
-postcode: 88285
+postcode: "88285"
 city: Bodnegg
 street: "Birkenstraße"
 housenumber: 13

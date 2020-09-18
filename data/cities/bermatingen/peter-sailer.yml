@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.7256833
 longitude: 9.3236361
-postcode: 88697
+postcode: "88697"
 city: Bermatingen
 street: "Mühlbachstraße"
 housenumber: 8

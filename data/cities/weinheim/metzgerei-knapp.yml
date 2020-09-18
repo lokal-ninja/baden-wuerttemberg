@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.5451448
 longitude: 8.6486034
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Ahornstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Energie
 latitude: 49.0066083
 longitude: 8.4308929
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Tullastraße"
 housenumber: 88

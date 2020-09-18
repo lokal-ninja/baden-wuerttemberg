@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.459545000000006
 longitude: 9.1031524
-postcode: 72810
+postcode: "72810"
 city: Gomaringen
 street: "Ohmenhäuser Straße"
 housenumber: 15

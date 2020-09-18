@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0855753
 longitude: 9.2158469
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Antonstraße"
 housenumber: 13

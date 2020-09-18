@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.552348800000004
 longitude: 7.9487398
-postcode: 79713
+postcode: "79713"
 city: Bad Säckingen
 street: "Rheinbrückstraße"
 housenumber: 13

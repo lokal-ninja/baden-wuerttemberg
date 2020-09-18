@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.4305226
 longitude: 9.427128100000001
-postcode: 74706
+postcode: "74706"
 city: Osterburken
 street: "Marktplatz"
 housenumber: 4

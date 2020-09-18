@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.278428000000005
 longitude: 8.0934276
-postcode: 77716
+postcode: "77716"
 city: Haslach im Kinzigtal
 street: "Im Spießacker"
 housenumber: 15

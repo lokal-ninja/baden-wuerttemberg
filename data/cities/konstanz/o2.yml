@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.6725502
 longitude: 9.1830458
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Zähringerplatz"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.8053006
 longitude: 9.527957500000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Johann-Philipp-Palm-Straße"
 housenumber: 5

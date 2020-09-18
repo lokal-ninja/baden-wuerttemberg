@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.0213759
 longitude: 9.4945185
-postcode: 88348
+postcode: "88348"
 city: Bad Saulgau
 street: "Friedrich-List-Straße"
 housenumber: 10

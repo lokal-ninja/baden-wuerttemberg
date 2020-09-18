@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.9528066
 longitude: 8.4968371
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Karlstraße"
 housenumber: 11

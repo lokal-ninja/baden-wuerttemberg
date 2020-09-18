@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.682731000000004
 longitude: 9.0028956
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Königsberger Straße"
 housenumber: 12

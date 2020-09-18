@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.799813
 longitude: 9.061963
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Hauptstraße"
 housenumber: 15

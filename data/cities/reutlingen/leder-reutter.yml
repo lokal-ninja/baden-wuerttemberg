@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.4926782
 longitude: 9.2113504
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Wilhelmstraße"
 housenumber: 59

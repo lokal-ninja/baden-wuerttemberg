@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.597211300000005
 longitude: 9.7195161
-postcode: 73326
+postcode: "73326"
 city: Deggingen
 street: "Königstraße"
 housenumber: 22

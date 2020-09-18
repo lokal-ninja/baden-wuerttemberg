@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.8119731
 longitude: 9.2702036
-postcode: 88699
+postcode: "88699"
 city: Frickingen
 street: "Gewerbestraße"
 housenumber: 1

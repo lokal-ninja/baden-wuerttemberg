@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.480839100000004
 longitude: 8.4846944
-postcode: 68165
+postcode: "68165"
 city: Mannheim
 street: "Augustaanlage"
 housenumber: 37

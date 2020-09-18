@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.0864757
 longitude: 9.2174806
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Schwabstraße"
 housenumber: 11

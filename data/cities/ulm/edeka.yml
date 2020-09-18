@@ -1,12 +1,12 @@
-id: 135585035
-type: way
+id: 7745089378
+type: node
 shop: Supermarkt
-latitude: 48.437148
-longitude: 9.9712788
-postcode: 89081
+latitude: 48.3996323
+longitude: 9.984856800000001
+postcode: "89073"
 city: Ulm
-street: "Junginger Straße"
-housenumber: 15
-phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
-website: ""
+street: "Albert-Einstein-Platz"
+housenumber: 3/6
+phone: "+497313608940"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-d%C3%B6rflinger-albert-einstein-platz-3-6/index.jsp"

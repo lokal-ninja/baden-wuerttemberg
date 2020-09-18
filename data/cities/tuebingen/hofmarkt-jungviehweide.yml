@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.5346727
 longitude: 9.0531225
-postcode: 72076
+postcode: "72076"
 city: Tübingen
 street: "Robert-Gradmann-Weg"
 housenumber: 2

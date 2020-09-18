@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.030845400000004
 longitude: 8.5764637
-postcode: 75045
+postcode: "75045"
 city: Walzbachtal
 street: "Jöhlinger Straße"
 housenumber: 68

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.576333000000005
 longitude: 7.806797400000001
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Bahnhofsplatz"
 housenumber: 1

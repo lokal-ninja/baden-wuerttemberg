@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.475238000000004
 longitude: 8.6645587
-postcode: 69198
+postcode: "69198"
 city: Schriesheim
 street: "Kirchstraße"
 housenumber: 1a

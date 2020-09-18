@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0700456
 longitude: 8.4559581
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Konstanzer Straße"
 housenumber: 6

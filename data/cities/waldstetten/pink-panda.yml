@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.7688311
 longitude: 9.8325685
-postcode: 73550
+postcode: "73550"
 city: Waldstetten
 street: "Robert-Bosch-Straße"
 housenumber: 31

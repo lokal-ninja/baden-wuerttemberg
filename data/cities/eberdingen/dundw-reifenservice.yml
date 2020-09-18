@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.892081700000006
 longitude: 9.0058931
-postcode: 71735
+postcode: "71735"
 city: Eberdingen
 street: "Zeppelinring"
 housenumber: 30

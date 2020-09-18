@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 49.461922200000004
 longitude: 8.986510200000001
-postcode: 69412
+postcode: "69412"
 city: Eberbach
 street: "Hauptstraße"
 housenumber: 19

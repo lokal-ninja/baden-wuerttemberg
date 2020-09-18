@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.272857900000005
 longitude: 8.8485641
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Wilhelmstraße"
 housenumber: 34

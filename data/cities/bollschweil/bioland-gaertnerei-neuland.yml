@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.922506600000006
 longitude: 7.790150700000001
-postcode: 79283
+postcode: "79283"
 city: Bollschweil
 street: "Hexentalstraße"
 housenumber: 28a

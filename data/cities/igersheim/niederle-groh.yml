@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.488681
 longitude: 9.8160095
-postcode: 97999
+postcode: "97999"
 city: Igersheim
 street: "Lindenweg"
 housenumber: 22

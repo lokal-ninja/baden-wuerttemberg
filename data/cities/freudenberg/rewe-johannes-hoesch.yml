@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7540764
 longitude: 9.323507600000001
-postcode: 97896
+postcode: "97896"
 city: Freudenberg
 street: "Schleusenweg"
 housenumber: 1

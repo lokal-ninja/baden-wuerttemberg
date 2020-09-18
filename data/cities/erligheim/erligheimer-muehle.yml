@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.015388800000004
 longitude: 9.1076248
-postcode: 74391
+postcode: "74391"
 city: Erligheim
 street: "Mühlstraße"
 housenumber: 48

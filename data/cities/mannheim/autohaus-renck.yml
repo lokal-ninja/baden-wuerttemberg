@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.446847600000005
 longitude: 8.5051377
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Meckenheimer Straße"
 housenumber: 8-12

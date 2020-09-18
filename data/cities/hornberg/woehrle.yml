@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2121727
 longitude: 8.229800000000001
-postcode: 
+postcode: ""
 city: Hornberg
 street: "Hauptstraße"
 housenumber: 58

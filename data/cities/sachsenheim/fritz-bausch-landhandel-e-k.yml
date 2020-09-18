@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.963475300000006
 longitude: 9.065038300000001
-postcode: 74343
+postcode: "74343"
 city: Sachsenheim
 street: ""
 housenumber: 2

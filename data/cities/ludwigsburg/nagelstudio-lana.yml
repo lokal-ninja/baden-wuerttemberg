@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.9114371
 longitude: 9.1796305
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Straßenäcker"
 housenumber: 60

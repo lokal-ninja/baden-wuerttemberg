@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.9280939
 longitude: 8.9660084
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Hans-Krieg-Straße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.6572216
 longitude: 9.1765492
-postcode: 78462
+postcode: "78462"
 city: Konstanz
 street: "Bodanstraße"
 housenumber: 1

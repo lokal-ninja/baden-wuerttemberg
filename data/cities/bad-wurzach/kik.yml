@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.9070862
 longitude: 9.894223100000001
-postcode: 88410
+postcode: "88410"
 city: Bad Wurzach
 street: "Weberweg"
 housenumber: 6

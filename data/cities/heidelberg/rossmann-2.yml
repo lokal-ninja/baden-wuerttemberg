@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4192509
 longitude: 8.6756721
-postcode: 69120
+postcode: "69120"
 city: Heidelberg
 street: "Berliner Straße"
 housenumber: 41-49

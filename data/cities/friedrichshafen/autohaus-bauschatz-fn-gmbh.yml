@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.658815700000005
 longitude: 9.4723466
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Leutholdstraße"
 housenumber: 11

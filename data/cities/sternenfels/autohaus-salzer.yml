@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0534412
 longitude: 8.8432911
-postcode: 75447
+postcode: "75447"
 city: Sternenfels
 street: "Ferdinand-von-Steinbeis-Ring"
 housenumber: 1

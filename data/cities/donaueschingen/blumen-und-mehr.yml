@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.953287200000005
 longitude: 8.4962202
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Karlstraße"
 housenumber: 1

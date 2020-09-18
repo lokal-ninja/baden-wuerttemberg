@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.8754932
 longitude: 9.4001543
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Marktstraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.859799100000004
 longitude: 8.036656500000001
-postcode: 79868
+postcode: "79868"
 city: Feldberg
 street: "Dr.-Pilet-Spur"
 housenumber: 1

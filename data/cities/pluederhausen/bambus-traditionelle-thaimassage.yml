@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.793942
 longitude: 9.602656600000001
-postcode: 73655
+postcode: "73655"
 city: Plüderhausen
 street: "Am Marktplatz"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 49.4064652
 longitude: 8.6627199
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Eppelheimer Straße"
 housenumber: 22

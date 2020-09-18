@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 47.6689276
 longitude: 9.181277600000001
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Theodor-Heuss-Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.562285700000004
 longitude: 8.847063
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Lange Straße"
 housenumber: 11

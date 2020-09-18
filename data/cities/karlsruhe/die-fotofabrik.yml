@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.0101936
 longitude: 8.3997731
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Herrenstraße"
 housenumber: 16

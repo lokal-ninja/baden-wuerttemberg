@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.7734449
 longitude: 8.1730744
-postcode: 76547
+postcode: "76547"
 city: Sinzheim
 street: "Industriestraße"
 housenumber: 16a

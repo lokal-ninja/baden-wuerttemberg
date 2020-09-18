@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.9776321
 longitude: 8.9839977
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Pforzheimer Straße"
 housenumber: 55

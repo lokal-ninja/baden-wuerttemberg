@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3012339
 longitude: 9.9001543
-postcode: 89155
+postcode: "89155"
 city: Erbach
 street: "Werdensteinstraße"
 housenumber: 1

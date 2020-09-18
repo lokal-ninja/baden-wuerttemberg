@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.0376665
 longitude: 9.054273100000001
-postcode: 74389
+postcode: "74389"
 city: Cleebronn
 street: ""
 housenumber: 

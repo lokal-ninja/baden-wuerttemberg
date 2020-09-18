@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.942513500000004
 longitude: 9.3408429
-postcode: 71737
+postcode: "71737"
 city: Kirchberg an der Murr
 street: "Schulstraße"
 housenumber: 1

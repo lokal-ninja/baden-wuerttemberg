@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6924313
 longitude: 9.7049743
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Scheerstraße"
 housenumber: 28

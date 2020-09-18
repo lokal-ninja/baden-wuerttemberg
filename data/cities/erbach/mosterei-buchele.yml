@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.3042609
 longitude: 9.902760200000001
-postcode: 89155
+postcode: "89155"
 city: Erbach
 street: "Ulmer Straße"
 housenumber: 23

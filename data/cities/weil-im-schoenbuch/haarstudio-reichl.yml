@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6222092
 longitude: 9.0467478
-postcode: 71093
+postcode: "71093"
 city: Weil im Schönbuch
 street: "Furtbrunnen"
 housenumber: 12

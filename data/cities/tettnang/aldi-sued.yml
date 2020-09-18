@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6606855
 longitude: 9.592973800000001
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Schäferhofstraße"
 housenumber: 1

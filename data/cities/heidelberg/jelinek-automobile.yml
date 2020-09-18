@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.411027000000004
 longitude: 8.6466208
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Wieblinger Weg"
 housenumber: 99

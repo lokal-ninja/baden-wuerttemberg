@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 49.532860500000005
 longitude: 8.4858597
-postcode: 68305
+postcode: "68305"
 city: Mannheim
 street: "Alsenweg"
 housenumber: 

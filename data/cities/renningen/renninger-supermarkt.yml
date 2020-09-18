@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7716094
 longitude: 8.9336413
-postcode: 71272
+postcode: "71272"
 city: Renningen
 street: "Bahnhofstraße"
 housenumber: 5

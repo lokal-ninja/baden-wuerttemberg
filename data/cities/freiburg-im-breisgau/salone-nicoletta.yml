@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.98297
 longitude: 7.8536758
-postcode: 79102
+postcode: "79102"
 city: Freiburg im Breisgau
 street: "Gerwigplatz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.5743633
 longitude: 8.7615417
-postcode: 71131
+postcode: "71131"
 city: Jettingen
 street: "Stumpenweg"
 housenumber: 12

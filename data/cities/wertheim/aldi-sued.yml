@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.759766500000005
 longitude: 9.4956393
-postcode: 97877
+postcode: "97877"
 city: Wertheim
 street: "Willy-Brandt-Straße"
 housenumber: 23

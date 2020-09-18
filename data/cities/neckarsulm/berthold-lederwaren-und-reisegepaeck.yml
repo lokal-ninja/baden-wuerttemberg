@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 49.1920902
 longitude: 9.2245942
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Marktstraße"
 housenumber: 31

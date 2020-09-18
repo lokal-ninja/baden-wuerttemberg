@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.6487397
 longitude: 7.8222272
-postcode: 79650
+postcode: "79650"
 city: Schopfheim
 street: "Scheffelstraße"
 housenumber: 9

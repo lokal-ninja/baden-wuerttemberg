@@ -3,7 +3,7 @@ type: way
 shop: Staubsauger
 latitude: 48.7608223
 longitude: 8.168504800000001
-postcode: 76547
+postcode: "76547"
 city: Sinzheim
 street: "Landstraße"
 housenumber: 25

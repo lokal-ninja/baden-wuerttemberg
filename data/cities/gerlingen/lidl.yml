@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.8005745
 longitude: 9.0668339
-postcode: 70839
+postcode: "70839"
 city: Gerlingen
 street: "Weilimdorfer Straße"
 housenumber: 18

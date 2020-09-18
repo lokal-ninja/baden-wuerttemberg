@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6840964
 longitude: 9.362541
-postcode: 73257
+postcode: "73257"
 city: Köngen
 street: "Hirschstraße"
 housenumber: 8

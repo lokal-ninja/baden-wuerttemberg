@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0638097
 longitude: 8.7973848
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Schillerstraße"
 housenumber: 7

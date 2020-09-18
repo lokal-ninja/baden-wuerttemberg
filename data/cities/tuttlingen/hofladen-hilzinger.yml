@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.9406431
 longitude: 8.8243399
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: ""
 housenumber: 1

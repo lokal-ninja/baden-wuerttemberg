@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.0085119
 longitude: 8.379340000000001
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Schillerstraße"
 housenumber: 32

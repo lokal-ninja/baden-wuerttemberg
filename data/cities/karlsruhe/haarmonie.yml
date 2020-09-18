@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0086103
 longitude: 8.4279063
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Gerwigstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.03932390000001
 longitude: 8.6969063
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Melanchthonstraße"
 housenumber: 114

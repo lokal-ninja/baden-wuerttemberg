@@ -1,4 +1,4 @@
 ---
-title: "Hobby&more G.Stahl"
+title: "Hobby&more G. Stahl"
 url: /gorxheimertal/hobbyundmore-g-stahl/
 ---

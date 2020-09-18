@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 48.22599
 longitude: 9.8741713
-postcode: 88471
+postcode: "88471"
 city: Laupheim
 street: "Pfarrer-Aich-Straße"
 housenumber: 30

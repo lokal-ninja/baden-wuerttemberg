@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 49.0095036
 longitude: 8.3968723
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Waldstraße"
 housenumber: 47

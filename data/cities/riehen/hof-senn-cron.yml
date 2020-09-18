@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.585118200000004
 longitude: 7.6714405
-postcode: 4125
+postcode: "4125"
 city: Riehen
 street: "Inzlingerstrasse"
 housenumber: 320

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.953924
 longitude: 8.495733000000001
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Villinger Straße"
 housenumber: 3

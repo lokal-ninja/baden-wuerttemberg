@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.773055400000004
 longitude: 9.1564742
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Schwabstraße"
 housenumber: 48

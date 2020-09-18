@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.9638804
 longitude: 9.204500600000001
-postcode: 74385
+postcode: "74385"
 city: Pleidelsheim
 street: "Mundelsheimer Straße"
 housenumber: 34

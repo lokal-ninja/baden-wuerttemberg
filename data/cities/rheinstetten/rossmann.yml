@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.9639041
 longitude: 8.2824563
-postcode: 76287
+postcode: "76287"
 city: Rheinstetten
 street: "Hertzstraße"
 housenumber: 1

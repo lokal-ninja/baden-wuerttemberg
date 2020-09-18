@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.137419200000004
 longitude: 10.071282700000001
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Karlstraße"
 housenumber: 3

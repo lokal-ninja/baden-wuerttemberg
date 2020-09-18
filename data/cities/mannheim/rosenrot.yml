@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.4861359
 longitude: 8.532166700000001
-postcode: 68259
+postcode: "68259"
 city: Mannheim
 street: "Neckarstraße"
 housenumber: 3

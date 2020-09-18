@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.6464541
 longitude: 9.452220500000001
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Roßmarkt"
 housenumber: 5

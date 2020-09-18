@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.653091200000006
 longitude: 8.5748
-postcode: 79798
+postcode: "79798"
 city: Jestetten
 street: "Saarstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.803229300000005
 longitude: 8.319508
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Hauptstraße"
 housenumber: 36

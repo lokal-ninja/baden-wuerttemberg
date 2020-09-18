@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.148389900000005
 longitude: 9.60675
-postcode: 
+postcode: ""
 city: Uttenweiler
 street: "Riedlinger Straße"
 housenumber: 27/2

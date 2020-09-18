@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.295262
 longitude: 8.575270900000001
-postcode: 78727
+postcode: "78727"
 city: Oberndorf am Neckar
 street: "Bahnhofstraße"
 housenumber: 18

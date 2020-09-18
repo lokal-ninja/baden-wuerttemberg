@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.5598426
 longitude: 7.9723335
-postcode: 79713
+postcode: "79713"
 city: Bad Säckingen
 street: "Schaffhauser Straße"
 housenumber: 90

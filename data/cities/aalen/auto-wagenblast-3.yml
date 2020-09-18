@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.82735580000001
 longitude: 10.0781449
-postcode: 73431
+postcode: "73431"
 city: Aalen
 street: "Obere Bahnstraße"
 housenumber: 79

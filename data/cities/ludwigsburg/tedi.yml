@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 48.9000131
 longitude: 9.1913944
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Marstallstraße"
 housenumber: 1

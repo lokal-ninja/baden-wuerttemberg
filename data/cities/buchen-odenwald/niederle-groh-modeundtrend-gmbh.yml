@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.522069800000004
 longitude: 9.3253711
-postcode: 74722
+postcode: "74722"
 city: Buchen (Odenwald)
 street: "Pfarrgasse"
 housenumber: 1

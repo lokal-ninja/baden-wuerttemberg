@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.3924165
 longitude: 8.563489
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Moscheeweg"
 housenumber: 3

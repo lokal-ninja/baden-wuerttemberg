@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.3812251
 longitude: 9.1075468
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Steinlachstraße"
 housenumber: 13

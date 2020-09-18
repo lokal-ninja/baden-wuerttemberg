@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.8895921
 longitude: 9.4195712
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Lise-Meitner-Straße"
 housenumber: 8/1

@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 48.9999733
 longitude: 8.3569493
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
 street: "Fritz-Haber-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.785022700000006
 longitude: 9.208093
-postcode: 70188
+postcode: "70188"
 city: Stuttgart
 street: "Ostendstraße"
 housenumber: 75

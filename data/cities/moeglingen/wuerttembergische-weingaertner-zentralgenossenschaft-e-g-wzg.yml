@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 48.89086
 longitude: 9.1455388
-postcode: 71696
+postcode: "71696"
 city: Möglingen
 street: "Raiffeisenstraße"
 housenumber: 2

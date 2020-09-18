@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.778503900000004
 longitude: 9.127747300000001
-postcode: 70195
+postcode: "70195"
 city: Stuttgart
 street: "Franz-Schubert-Straße"
 housenumber: 25

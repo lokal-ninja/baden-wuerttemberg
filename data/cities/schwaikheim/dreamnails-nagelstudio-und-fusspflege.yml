@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.876691
 longitude: 9.3509217
-postcode: 71409
+postcode: "71409"
 city: Schwaikheim
 street: "Badstraße"
 housenumber: 1

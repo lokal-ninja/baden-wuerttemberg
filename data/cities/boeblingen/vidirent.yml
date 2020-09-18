@@ -3,7 +3,7 @@ type: way
 shop: Videothek
 latitude: 48.686502000000004
 longitude: 8.9930014
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Otto-Lilienthal-Straße"
 housenumber: 6

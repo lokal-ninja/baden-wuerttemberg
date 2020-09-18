@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7290962
 longitude: 9.1094559
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Robert-Koch-Straße"
 housenumber: 2

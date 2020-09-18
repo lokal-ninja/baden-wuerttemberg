@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.384722700000005
 longitude: 9.6947285
-postcode: 74677
+postcode: "74677"
 city: Dörzbach
 street: "Max-Planck-Straße"
 housenumber: 1

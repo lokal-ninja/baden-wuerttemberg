@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.6718781
 longitude: 9.4804837
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Teuringer Straße"
 housenumber: 22

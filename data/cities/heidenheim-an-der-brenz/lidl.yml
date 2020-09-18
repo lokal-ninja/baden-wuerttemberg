@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6813176
 longitude: 10.1303456
-postcode: 89518
+postcode: "89518"
 city: Heidenheim an der Brenz
 street: "Am Sägwerk"
 housenumber: 7

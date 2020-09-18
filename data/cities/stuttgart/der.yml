@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.802886900000004
 longitude: 9.2173668
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Bahnhofstraße"
 housenumber: 1

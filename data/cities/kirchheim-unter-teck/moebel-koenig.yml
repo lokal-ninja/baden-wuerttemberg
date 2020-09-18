@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.6524993
 longitude: 9.4334696
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Hegelstraße"
 housenumber: 9

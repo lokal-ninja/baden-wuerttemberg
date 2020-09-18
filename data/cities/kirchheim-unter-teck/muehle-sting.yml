@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.639531000000005
 longitude: 9.4897608
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Mühlstraße"
 housenumber: 3

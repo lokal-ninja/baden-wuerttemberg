@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.008662400000006
 longitude: 8.4076055
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Zähringerstraße"
 housenumber: 49

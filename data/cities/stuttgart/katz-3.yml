@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.790935600000005
 longitude: 9.171186800000001
-postcode: 70191
+postcode: "70191"
 city: Stuttgart
 street: "Birkenwaldstraße"
 housenumber: 104

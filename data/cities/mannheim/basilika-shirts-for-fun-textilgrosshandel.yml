@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.4478212
 longitude: 8.504799400000001
-postcode: 68199
+postcode: "68199"
 city: Mannheim
 street: "Casterfeldstraße"
 housenumber: 74/76

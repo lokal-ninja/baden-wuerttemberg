@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.833320300000004
 longitude: 9.3178266
-postcode: 71332
+postcode: "71332"
 city: Waiblingen
 street: "Lange Straße"
 housenumber: 11

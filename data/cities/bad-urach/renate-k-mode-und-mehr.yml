@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5019505
 longitude: 9.375927
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Bei den Thermen"
 housenumber: 2

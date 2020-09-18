@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.7861616
 longitude: 8.183648400000001
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Im Rollfeld"
 housenumber: 29

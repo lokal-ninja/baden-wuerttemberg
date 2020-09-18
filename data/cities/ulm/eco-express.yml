@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.389822
 longitude: 9.9774481
-postcode: 89077
+postcode: "89077"
 city: Ulm
 street: "Haßlerstraße"
 housenumber: 15

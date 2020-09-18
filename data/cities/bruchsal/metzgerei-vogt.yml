@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.0769206
 longitude: 8.5860391
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Gondelsheimer Straße"
 housenumber: 1

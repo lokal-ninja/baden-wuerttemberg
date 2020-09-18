@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.386920200000006
 longitude: 9.292056500000001
-postcode: 72829
+postcode: "72829"
 city: Engstingen
 street: "Kleinengstinger Straße"
 housenumber: 16

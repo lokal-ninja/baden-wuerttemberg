@@ -1,12 +1,12 @@
 id: 697623520
 type: node
 shop: Bücher
-latitude: 48.857583500000004
-longitude: 8.2054253
-postcode: 76437
+latitude: 48.8565588
+longitude: 8.2032069
+postcode: "76437"
 city: Rastatt
-street: "Poststraße"
-housenumber: 10a
+street: "Kaiserstraße"
+housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
 website: "https://www.thalia.de"

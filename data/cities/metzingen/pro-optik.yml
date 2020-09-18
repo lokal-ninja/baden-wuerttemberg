@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.5394859
 longitude: 9.2884352
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Schönbeinstraße"
 housenumber: 20

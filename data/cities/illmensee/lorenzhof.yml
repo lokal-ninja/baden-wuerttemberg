@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.877055500000004
 longitude: 9.364726300000001
-postcode: 88636
+postcode: "88636"
 city: Illmensee
 street: "Sturmbergstraße"
 housenumber: 8

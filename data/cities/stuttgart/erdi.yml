@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.722343900000006
 longitude: 9.1582913
-postcode: 70567
+postcode: "70567"
 city: Stuttgart
 street: "Widmaierstraße"
 housenumber: 110

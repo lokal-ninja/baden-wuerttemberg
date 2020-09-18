@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 49.5249638
 longitude: 9.678609600000001
-postcode: 97944
+postcode: "97944"
 city: Boxberg
 street: "Sonnenhalde"
 housenumber: 26

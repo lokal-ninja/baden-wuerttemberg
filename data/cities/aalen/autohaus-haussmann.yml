@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.846445300000006
 longitude: 10.0926869
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Oesterleinstraße"
 housenumber: 18

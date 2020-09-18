@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.063511500000004
 longitude: 9.8326285
-postcode: 88444
+postcode: "88444"
 city: Ummendorf
 street: "Bachstraße"
 housenumber: 10

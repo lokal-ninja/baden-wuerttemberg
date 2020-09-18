@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.8397026
 longitude: 10.0933156
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Beinstraße"
 housenumber: 14

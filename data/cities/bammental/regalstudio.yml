@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.3592255
 longitude: 8.796611
-postcode: 69245
+postcode: "69245"
 city: Bammental
 street: "Wiesenbacher Landstraße"
 housenumber: 30

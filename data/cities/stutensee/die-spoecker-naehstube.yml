@@ -3,7 +3,7 @@ type: way
 shop: Schneiderei
 latitude: 49.118300000000005
 longitude: 8.511567000000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Reutgrabenweg"
 housenumber: 4

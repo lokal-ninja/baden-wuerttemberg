@@ -1,4 +1,4 @@
 ---
-title: "s' Oliver"
+title: "s.Oliver"
 url: /ludwigsburg/s-oliver/
 ---

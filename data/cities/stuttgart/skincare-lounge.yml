@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.7221294
 longitude: 9.158491900000001
-postcode: 70567
+postcode: "70567"
 city: Stuttgart
 street: "Widmaierstraße"
 housenumber: 110

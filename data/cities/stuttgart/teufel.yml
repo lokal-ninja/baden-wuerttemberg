@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 48.773270000000004
 longitude: 9.1733431
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Marienstraße"
 housenumber: 3

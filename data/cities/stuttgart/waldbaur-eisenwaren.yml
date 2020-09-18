@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.7267318
 longitude: 9.1468652
-postcode: 70567
+postcode: "70567"
 city: Stuttgart
 street: "Filderbahnstraße"
 housenumber: 17

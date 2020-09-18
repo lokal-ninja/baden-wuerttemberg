@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8333023
 longitude: 9.1706334
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Markgröninger Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.9595743
 longitude: 10.130115400000001
-postcode: 73479
+postcode: "73479"
 city: Ellwangen (Jagst)
 street: "Marienstraße"
 housenumber: 29

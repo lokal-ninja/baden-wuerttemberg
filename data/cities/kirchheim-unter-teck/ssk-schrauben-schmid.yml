@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.6353536
 longitude: 9.4702277
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Einsteinstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.049325
 longitude: 8.215177200000001
-postcode: 78120
+postcode: "78120"
 city: Furtwangen im Schwarzwald
 street: "Allmendstraße"
 housenumber: 32

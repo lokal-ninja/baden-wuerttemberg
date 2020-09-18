@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.0125243
 longitude: 7.8093291
-postcode: 79110
+postcode: "79110"
 city: Freiburg im Breisgau
 street: "Sundgauallee"
 housenumber: 118

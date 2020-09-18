@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.7836123
 longitude: 10.105453200000001
-postcode: 73447
+postcode: "73447"
 city: Oberkochen
 street: "Heidenheimer Straße"
 housenumber: 5

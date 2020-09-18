@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 47.6071642
 longitude: 8.5714351
-postcode: 79807
+postcode: "79807"
 city: Lottstetten
 street: "Obere Dorfstraße"
 housenumber: 39

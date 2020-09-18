@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 47.7156401
 longitude: 9.3977967
-postcode: 88677
+postcode: "88677"
 city: Markdorf
 street: "Planckstraße"
 housenumber: 10

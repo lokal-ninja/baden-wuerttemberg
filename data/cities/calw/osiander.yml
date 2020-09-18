@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.716978600000004
 longitude: 8.7372694
-postcode: 75365
+postcode: "75365"
 city: Calw
 street: "Lederstraße"
 housenumber: 60

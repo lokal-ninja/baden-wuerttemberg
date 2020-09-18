@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.0107292
 longitude: 8.4007469
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Herrenstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.205156900000006
 longitude: 9.581078100000001
-postcode: 74632
+postcode: "74632"
 city: Neuenstein
 street: "Hintere Straße"
 housenumber: 4

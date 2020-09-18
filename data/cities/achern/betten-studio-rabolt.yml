@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.6282244
 longitude: 8.072732700000001
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Ratskellerstraße"
 housenumber: 6

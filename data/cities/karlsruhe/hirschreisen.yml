@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.0090389
 longitude: 8.395719900000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Waldstraße"
 housenumber: 31

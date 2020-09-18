@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.008048
 longitude: 8.496489500000001
-postcode: 76229
+postcode: "76229"
 city: Karlsruhe
 street: "Schultheiß-Kiefer-Straße"
 housenumber: 10

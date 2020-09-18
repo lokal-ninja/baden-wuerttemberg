@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.478168200000006
 longitude: 8.454946600000001
-postcode: 67061
+postcode: "67061"
 city: Ludwigshafen am Rhein
 street: "Yorckstraße"
 housenumber: 2

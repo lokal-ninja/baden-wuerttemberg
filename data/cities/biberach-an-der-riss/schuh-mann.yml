@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.097496
 longitude: 9.7868607
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Marktplatz"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.600353500000004
 longitude: 10.0694327
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Elsternweg"
 housenumber: 10

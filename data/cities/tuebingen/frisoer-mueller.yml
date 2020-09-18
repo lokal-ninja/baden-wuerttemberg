@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5227062
 longitude: 9.048220800000001
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Westbahnhofstraße"
 housenumber: 1

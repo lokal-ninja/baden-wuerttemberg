@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.876067500000005
 longitude: 9.2910211
-postcode: 71686
+postcode: "71686"
 city: Remseck am Neckar
 street: "Beim Rötelbrunnen"
 housenumber: 1

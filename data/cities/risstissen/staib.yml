@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.272167700000004
 longitude: 9.828008
-postcode: 89584
+postcode: "89584"
 city: Rißtissen
 street: "Rißstraße"
 housenumber: 74

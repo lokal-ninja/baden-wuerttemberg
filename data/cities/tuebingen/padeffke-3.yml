@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5010142
 longitude: 9.0485471
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Sieben-Höfe-Straße"
 housenumber: 85

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.046844400000005
 longitude: 7.7220301000000005
-postcode: 79288
+postcode: "79288"
 city: Gottenheim
 street: "Am Silberbuck"
 housenumber: 3

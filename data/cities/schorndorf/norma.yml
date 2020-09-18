@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.806686000000006
 longitude: 9.521785900000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Bismarckstraße"
 housenumber: 8

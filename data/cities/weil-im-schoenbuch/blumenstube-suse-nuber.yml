@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.6224385
 longitude: 9.0588938
-postcode: 71093
+postcode: "71093"
 city: Weil im Schönbuch
 street: "Hauptstraße"
 housenumber: 61

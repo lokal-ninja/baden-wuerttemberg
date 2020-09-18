@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.4817351
 longitude: 7.9280115
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Im Drachenacker"
 housenumber: 7

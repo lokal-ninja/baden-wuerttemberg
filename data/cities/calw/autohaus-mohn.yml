@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7092443
 longitude: 8.7591259
-postcode: 75365
+postcode: "75365"
 city: Calw
 street: "Stuttgarter Straße"
 housenumber: 96

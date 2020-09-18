@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.999824600000004
 longitude: 8.4649505
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 85

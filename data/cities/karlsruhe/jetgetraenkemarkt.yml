@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.0130641
 longitude: 8.4288907
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Haid-und-Neu-Straße"
 housenumber: 30a

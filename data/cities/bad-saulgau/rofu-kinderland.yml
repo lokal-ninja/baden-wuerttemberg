@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.021134
 longitude: 9.4913603
-postcode: 88348
+postcode: "88348"
 city: Bad Saulgau
 street: "Herbertinger Straße"
 housenumber: 38

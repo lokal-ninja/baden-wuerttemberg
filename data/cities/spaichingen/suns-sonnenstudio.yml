@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.0778137
 longitude: 8.7381595
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Hauptstraße"
 housenumber: 156

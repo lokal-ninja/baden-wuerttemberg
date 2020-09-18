@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4761151
 longitude: 9.6271857
-postcode: 89150
+postcode: "89150"
 city: Laichingen
 street: "Lange Straße"
 housenumber: 53

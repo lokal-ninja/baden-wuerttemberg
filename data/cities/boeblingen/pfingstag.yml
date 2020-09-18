@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.6862337
 longitude: 9.012150100000001
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Stadtgrabenstraße"
 housenumber: 28

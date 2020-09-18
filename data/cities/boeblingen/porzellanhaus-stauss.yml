@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.6854497
 longitude: 8.997635800000001
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Calwer Straße"
 housenumber: 32

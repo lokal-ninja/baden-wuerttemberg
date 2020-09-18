@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.524195000000006
 longitude: 9.0601806
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Wilhelmstraße"
 housenumber: 28

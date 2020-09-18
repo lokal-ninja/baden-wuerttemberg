@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.629273600000005
 longitude: 8.327775200000001
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Horheimer Straße"
 housenumber: 1

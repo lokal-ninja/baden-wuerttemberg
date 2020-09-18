@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.4621669
 longitude: 8.9858408
-postcode: 69412
+postcode: "69412"
 city: Eberbach
 street: "Obere Badstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.782200700000004
 longitude: 8.342212
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Kanalstraße"
 housenumber: 2

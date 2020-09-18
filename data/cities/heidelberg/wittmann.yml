@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4282849
 longitude: 8.6379321
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Am Taubenfeld"
 housenumber: 29a

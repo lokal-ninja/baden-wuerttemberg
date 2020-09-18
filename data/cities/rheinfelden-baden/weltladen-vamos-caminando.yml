@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.5597884
 longitude: 7.786110000000001
-postcode: 79618
+postcode: "79618"
 city: Rheinfelden (Baden)
 street: "Karl-Fürstenberg-Straße"
 housenumber: 13

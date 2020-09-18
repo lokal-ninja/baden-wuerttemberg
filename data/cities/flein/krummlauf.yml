@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.097186300000004
 longitude: 9.2164935
-postcode: 74223
+postcode: "74223"
 city: Flein
 street: "Neubrunnenstraße"
 housenumber: 2

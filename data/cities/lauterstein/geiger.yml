@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.709336900000004
 longitude: 9.8588725
-postcode: 73111
+postcode: "73111"
 city: Lauterstein
 street: "Hauptstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.8239874
 longitude: 8.7594349
-postcode: 78234
+postcode: "78234"
 city: Engen
 street: "Dorfstraße"
 housenumber: 20

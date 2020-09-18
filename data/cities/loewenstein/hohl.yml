@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.095352000000005
 longitude: 9.380661
-postcode: 74245
+postcode: "74245"
 city: Löwenstein
 street: "Maybachstraße"
 housenumber: 27

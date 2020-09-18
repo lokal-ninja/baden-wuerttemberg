@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7109644
 longitude: 8.1293761
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Nikolaus-Otto-Straße"
 housenumber: 14

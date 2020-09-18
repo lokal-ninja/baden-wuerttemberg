@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.820493600000006
 longitude: 9.2220586
-postcode: 70376
+postcode: "70376"
 city: Stuttgart
 street: "Elbestraße"
 housenumber: 10

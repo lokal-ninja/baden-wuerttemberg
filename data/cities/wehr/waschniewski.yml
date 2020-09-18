@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 47.622167700000006
 longitude: 7.905230400000001
-postcode: 79664
+postcode: "79664"
 city: Wehr
 street: "Öflinger Straße"
 housenumber: 21

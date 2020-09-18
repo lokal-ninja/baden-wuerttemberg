@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.699722
 longitude: 9.1383097
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Stuttgarter Straße"
 housenumber: 69

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.736336400000006
 longitude: 8.968687000000001
-postcode: 78315
+postcode: "78315"
 city: Radolfzell am Bodensee
 street: "Bahnhofplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.0814875
 longitude: 8.4673315
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Am Hasenbiel"
 housenumber: 29a

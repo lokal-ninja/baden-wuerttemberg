@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.469273400000006
 longitude: 8.4149264
-postcode: 72250
+postcode: "72250"
 city: Freudenstadt
 street: "Ludwig-Jahn-Straße"
 housenumber: 34

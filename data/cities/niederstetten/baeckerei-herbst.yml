@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4019819
 longitude: 9.9192762
-postcode: 97996
+postcode: "97996"
 city: Niederstetten
 street: "Vorbachzimmerner Straße"
 housenumber: 1

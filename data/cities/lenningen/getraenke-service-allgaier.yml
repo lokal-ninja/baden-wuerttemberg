@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.5373293
 longitude: 9.5318479
-postcode: 73252
+postcode: "73252"
 city: Lenningen
 street: "Pfulbstraße"
 housenumber: 32/1

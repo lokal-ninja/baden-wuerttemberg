@@ -3,7 +3,7 @@ type: node
 shop: Kerzen
 latitude: 49.665315400000004
 longitude: 9.7337447
-postcode: 97950
+postcode: "97950"
 city: Großrinderfeld
 street: "Hauptstraße"
 housenumber: 20

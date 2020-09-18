@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.8917578
 longitude: 9.228542000000001
-postcode: 71640
+postcode: "71640"
 city: Ludwigsburg
 street: "Westfalenstraße"
 housenumber: 27

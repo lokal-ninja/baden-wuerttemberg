@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 47.679639800000004
 longitude: 9.1682368
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Wollmatinger Straße"
 housenumber: 92

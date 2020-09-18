@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.638680900000004
 longitude: 8.0636652
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Neulandstraße"
 housenumber: 21

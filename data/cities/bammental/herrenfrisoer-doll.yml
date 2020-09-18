@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3582995
 longitude: 8.7818324
-postcode: 69245
+postcode: "69245"
 city: Bammental
 street: "Hauptstraße"
 housenumber: 6

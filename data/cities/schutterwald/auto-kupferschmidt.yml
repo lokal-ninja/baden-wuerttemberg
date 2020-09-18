@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.465610600000005
 longitude: 7.8801616
-postcode: 77746
+postcode: "77746"
 city: Schutterwald
 street: "Schutterstraße"
 housenumber: 3

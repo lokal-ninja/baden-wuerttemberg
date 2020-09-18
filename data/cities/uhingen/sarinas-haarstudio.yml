@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7050063
 longitude: 9.588559100000001
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Oberdorfstraße"
 housenumber: 24

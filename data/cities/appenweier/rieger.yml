@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.519353
 longitude: 8.0044505
-postcode: 77767
+postcode: "77767"
 city: Appenweier
 street: "Dorfstraße"
 housenumber: 46

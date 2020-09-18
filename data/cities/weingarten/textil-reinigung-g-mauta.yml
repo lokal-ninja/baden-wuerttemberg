@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.8065506
 longitude: 9.640905
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Karlstraße"
 housenumber: 31

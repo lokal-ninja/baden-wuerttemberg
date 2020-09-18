@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.294808100000004
 longitude: 9.6170484
-postcode: 74676
+postcode: "74676"
 city: Niedernhall
 street: "Hauptstraße"
 housenumber: 37

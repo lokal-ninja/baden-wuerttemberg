@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.0487595
 longitude: 8.46353
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Buchenring"
 housenumber: 3

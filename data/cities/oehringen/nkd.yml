@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.200165600000005
 longitude: 9.5021717
-postcode: 74613
+postcode: "74613"
 city: Öhringen
 street: "Marktplatz"
 housenumber: 11+12

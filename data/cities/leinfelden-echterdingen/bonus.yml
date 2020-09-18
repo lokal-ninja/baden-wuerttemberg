@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6669567
 longitude: 9.169750500000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Jahnstraße"
 housenumber: 53

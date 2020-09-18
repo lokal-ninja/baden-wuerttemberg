@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.8083821
 longitude: 9.1938498
-postcode: 70376
+postcode: "70376"
 city: Stuttgart
 street: "Löwentorstraße"
 housenumber: 68

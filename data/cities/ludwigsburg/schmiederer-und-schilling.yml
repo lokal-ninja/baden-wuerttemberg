@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8963132
 longitude: 9.2088728
-postcode: 71638
+postcode: "71638"
 city: Ludwigsburg
 street: "Schorndorfer Straße"
 housenumber: 105

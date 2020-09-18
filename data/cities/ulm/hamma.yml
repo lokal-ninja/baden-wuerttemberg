@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.401750400000005
 longitude: 9.987289200000001
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Neutorstraße"
 housenumber: 12

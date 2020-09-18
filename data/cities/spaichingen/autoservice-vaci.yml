@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.0675978
 longitude: 8.742858
-postcode: 78549
+postcode: "78549"
 city: Spaichingen
 street: "Friedrich-List-Straße"
 housenumber: 7

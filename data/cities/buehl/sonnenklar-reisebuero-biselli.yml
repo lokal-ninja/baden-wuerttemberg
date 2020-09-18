@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.697543200000005
 longitude: 8.1348962
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Friedrichstraße"
 housenumber: 7

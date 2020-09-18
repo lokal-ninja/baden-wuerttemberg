@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9893851
 longitude: 7.823050500000001
-postcode: 79115
+postcode: "79115"
 city: Freiburg im Breisgau
 street: "Carl-Kistner-Straße"
 housenumber: 72

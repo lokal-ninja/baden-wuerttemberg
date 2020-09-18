@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 48.290964
 longitude: 8.5717166
-postcode: 78727
+postcode: "78727"
 city: Oberndorf am Neckar
 street: "Hafenmarkt"
 housenumber: 3

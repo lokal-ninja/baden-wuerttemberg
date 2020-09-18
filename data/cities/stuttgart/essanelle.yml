@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7398718
 longitude: 9.2196186
-postcode: 70619
+postcode: "70619"
 city: Stuttgart
 street: ""
 housenumber: 

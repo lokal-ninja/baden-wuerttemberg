@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.704201700000006
 longitude: 9.6501392
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Hauptstraße"
 housenumber: 42

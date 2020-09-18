@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 47.677855900000004
 longitude: 9.1748087
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Wollmatinger Straße"
 housenumber: 50b

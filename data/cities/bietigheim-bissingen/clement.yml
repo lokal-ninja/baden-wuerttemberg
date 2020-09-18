@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.963966400000004
 longitude: 9.1205996
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Antonia-Visconti-Straße"
 housenumber: 3

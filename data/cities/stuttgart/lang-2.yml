@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8317406
 longitude: 9.1672296
-postcode: 
+postcode: ""
 city: Stuttgart
 street: "Burgunderstraße"
 housenumber: 5

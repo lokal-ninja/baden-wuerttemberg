@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.21921570000001
 longitude: 8.6622378
-postcode: 76669
+postcode: "76669"
 city: Bad Schönborn
 street: "Gallbrunnenplatz"
 housenumber: 1

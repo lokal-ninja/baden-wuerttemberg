@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.4291459
 longitude: 8.2057909
-postcode: 77740
+postcode: "77740"
 city: Bad Peterstal-Griesbach
 street: "Renchtalstraße"
 housenumber: 1

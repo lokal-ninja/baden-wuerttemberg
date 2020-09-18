@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 47.873808000000004
 longitude: 7.6471162
-postcode: 79423
+postcode: "79423"
 city: Heitersheim
 street: "Beiersdorfstraße"
 housenumber: 14

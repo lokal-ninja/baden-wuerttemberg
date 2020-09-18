@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.7618961
 longitude: 8.2385359
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Luisenstraße"
 housenumber: 14

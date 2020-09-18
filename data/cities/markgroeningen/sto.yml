@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 48.9110935
 longitude: 9.077952400000001
-postcode: 71706
+postcode: "71706"
 city: Markgröningen
 street: "An der Bracke"
 housenumber: 1

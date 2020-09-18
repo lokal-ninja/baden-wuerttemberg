@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 49.257899
 longitude: 8.4885867
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Marienstraße"
 housenumber: 51

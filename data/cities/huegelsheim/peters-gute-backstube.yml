@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8004425
 longitude: 8.117300100000001
-postcode: 76549
+postcode: "76549"
 city: Hügelsheim
 street: "Am Hecklehamm"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.093815500000005
 longitude: 9.7588805
-postcode: 88441
+postcode: "88441"
 city: Mittelbiberach
 street: "Ziegeleistraße"
 housenumber: 35/2

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.200251300000005
 longitude: 9.7939284
-postcode: 74542
+postcode: "74542"
 city: Braunsbach
 street: "Orlacher Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.769266800000004
 longitude: 9.176121700000001
-postcode: 70180
+postcode: "70180"
 city: Stuttgart
 street: "Schlosserstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.158309200000005
 longitude: 8.6208714
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Brugger Straße"
 housenumber: 57

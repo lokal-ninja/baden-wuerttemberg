@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.706334600000005
 longitude: 9.148978900000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Meisenweg"
 housenumber: 37

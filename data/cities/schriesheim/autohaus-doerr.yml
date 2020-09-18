@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.4804222
 longitude: 8.6563316
-postcode: 69198
+postcode: "69198"
 city: Schriesheim
 street: "Säulenweg"
 housenumber: 7

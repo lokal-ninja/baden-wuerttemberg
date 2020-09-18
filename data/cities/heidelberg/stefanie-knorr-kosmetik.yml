@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.4157573
 longitude: 8.6886642
-postcode: 69120
+postcode: "69120"
 city: Heidelberg
 street: "Schröderstraße"
 housenumber: 37

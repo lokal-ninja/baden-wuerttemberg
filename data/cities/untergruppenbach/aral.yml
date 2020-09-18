@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.0863115
 longitude: 9.2749933
-postcode: 74199
+postcode: "74199"
 city: Untergruppenbach
 street: "Entenstraße"
 housenumber: 18/1

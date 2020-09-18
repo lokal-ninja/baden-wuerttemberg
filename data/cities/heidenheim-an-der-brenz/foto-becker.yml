@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.679448400000005
 longitude: 10.1521529
-postcode: 89518
+postcode: "89518"
 city: Heidenheim an der Brenz
 street: "Olgastraße"
 housenumber: 7

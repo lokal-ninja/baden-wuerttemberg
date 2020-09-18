@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.6387609
 longitude: 9.0090599
-postcode: 71088
+postcode: "71088"
 city: Holzgerlingen
 street: "Bahnhofstraße"
 housenumber: 22

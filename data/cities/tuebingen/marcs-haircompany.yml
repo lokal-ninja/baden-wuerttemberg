@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.510892600000005
 longitude: 9.0757378
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Aixer Straße"
 housenumber: 46

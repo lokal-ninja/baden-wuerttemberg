@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.6266395
 longitude: 9.3464215
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Forststraße"
 housenumber: 21

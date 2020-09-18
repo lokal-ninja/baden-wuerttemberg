@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.791210500000005
 longitude: 9.880633300000001
-postcode: 88353
+postcode: "88353"
 city: Kißlegg
 street: "Schloßstraße"
 housenumber: 38

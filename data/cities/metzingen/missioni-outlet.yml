@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5346118
 longitude: 9.279593700000001
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Reutlinger Straße"
 housenumber: 67/1

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.7243968
 longitude: 9.376194
-postcode: 73776
+postcode: "73776"
 city: Altbach
 street: "Esslinger Straße"
 housenumber: 27

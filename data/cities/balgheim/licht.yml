@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.0640945
 longitude: 8.7636474
-postcode: 78582
+postcode: "78582"
 city: Balgheim
 street: "Tuttlinger Straße"
 housenumber: 20

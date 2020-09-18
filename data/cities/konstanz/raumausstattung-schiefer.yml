@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.684797700000004
 longitude: 9.156914
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Siebenbürgener Weg"
 housenumber: 4

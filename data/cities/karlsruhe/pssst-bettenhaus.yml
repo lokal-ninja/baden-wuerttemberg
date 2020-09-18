@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 49.0461809
 longitude: 8.3929724
-postcode: 76149
+postcode: "76149"
 city: Karlsruhe
 street: "Thujaweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.275685
 longitude: 7.7840370000000005
-postcode: 77955
+postcode: "77955"
 city: Ettenheim
 street: "Rudolf-Hell-Straße"
 housenumber: 4

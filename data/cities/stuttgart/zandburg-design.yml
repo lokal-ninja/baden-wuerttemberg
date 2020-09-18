@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.7741551
 longitude: 9.181877100000001
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Esslinger Straße"
 housenumber: 14

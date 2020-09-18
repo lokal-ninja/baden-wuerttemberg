@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.378856500000005
 longitude: 8.6714824
-postcode: 69124
+postcode: "69124"
 city: Heidelberg
 street: "Hagellachstraße"
 housenumber: 2

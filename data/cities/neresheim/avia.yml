@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.7957612
 longitude: 10.2605123
-postcode: 73450
+postcode: "73450"
 city: Neresheim
 street: "Neresheimer Straße"
 housenumber: 32

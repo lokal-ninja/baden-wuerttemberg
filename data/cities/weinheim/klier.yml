@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.542064700000005
 longitude: 8.660375
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Bergstraße"
 housenumber: 5-11

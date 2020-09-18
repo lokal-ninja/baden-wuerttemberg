@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6964241
 longitude: 8.138724700000001
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Grabenstraße"
 housenumber: 14

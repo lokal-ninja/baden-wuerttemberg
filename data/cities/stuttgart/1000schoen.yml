@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 48.7735501
 longitude: 9.1780959
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Eberhardstraße"
 housenumber: 10

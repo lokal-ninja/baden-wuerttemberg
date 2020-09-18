@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.413648200000004
 longitude: 8.6920882
-postcode: 69120
+postcode: "69120"
 city: Heidelberg
 street: "Brückenstraße"
 housenumber: 1

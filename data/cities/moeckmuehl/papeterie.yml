@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.323286
 longitude: 9.359889200000001
-postcode: 74219
+postcode: "74219"
 city: Möckmühl
 street: "Seckachtorgasse"
 housenumber: 7

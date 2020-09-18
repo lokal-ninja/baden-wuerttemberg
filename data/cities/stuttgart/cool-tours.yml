@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.820580400000004
 longitude: 9.2234025
-postcode: 70376
+postcode: "70376"
 city: Stuttgart
 street: "Echazstraße"
 housenumber: 13

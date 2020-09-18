@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 49.522122100000004
 longitude: 9.3245159
-postcode: 74722
+postcode: "74722"
 city: Buchen (Odenwald)
 street: "Marktstraße"
 housenumber: 15

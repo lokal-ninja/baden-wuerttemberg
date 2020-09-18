@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.5523977
 longitude: 7.9483348000000005
-postcode: 79713
+postcode: "79713"
 city: Bad Säckingen
 street: "Rheinbrückstraße"
 housenumber: 14

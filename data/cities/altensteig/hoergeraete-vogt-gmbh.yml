@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.5854793
 longitude: 8.6013401
-postcode: 72213
+postcode: "72213"
 city: Altensteig
 street: "Poststraße"
 housenumber: 46

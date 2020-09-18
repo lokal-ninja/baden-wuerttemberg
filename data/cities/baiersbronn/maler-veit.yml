@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 48.522852300000004
 longitude: 8.3145211
-postcode: 72270
+postcode: "72270"
 city: Baiersbronn
 street: "Max-Eyth-Straße"
 housenumber: 7

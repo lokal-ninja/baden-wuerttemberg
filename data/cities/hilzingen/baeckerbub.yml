@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.761651400000005
 longitude: 8.7905227
-postcode: 78247
+postcode: "78247"
 city: Hilzingen
 street: "Obere Gießwiesen"
 housenumber: 10

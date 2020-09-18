@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 49.004269400000005
 longitude: 8.524610000000001
-postcode: 76327
+postcode: "76327"
 city: Pfinztal
 street: "Karlsruher Straße"
 housenumber: 67

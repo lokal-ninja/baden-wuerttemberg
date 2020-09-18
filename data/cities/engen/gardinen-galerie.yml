@@ -3,7 +3,7 @@ type: way
 shop: Gardinen
 latitude: 47.8544725
 longitude: 8.7718366
-postcode: 78234
+postcode: "78234"
 city: Engen
 street: "Peterstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.8925299
 longitude: 9.150865300000001
-postcode: 71679
+postcode: "71679"
 city: Asperg
 street: "Im Waldeck"
 housenumber: 15

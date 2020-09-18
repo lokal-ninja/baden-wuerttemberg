@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.0344275
 longitude: 8.6802045
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Diedelsheimer Straße"
 housenumber: 2

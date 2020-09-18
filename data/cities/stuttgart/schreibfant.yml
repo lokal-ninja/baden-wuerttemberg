@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.8012992
 longitude: 9.2216761
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Wildunger Straße"
 housenumber: 2

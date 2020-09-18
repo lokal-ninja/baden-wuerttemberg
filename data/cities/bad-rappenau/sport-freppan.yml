@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.2390623
 longitude: 9.101442800000001
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Kirchplatz"
 housenumber: 6

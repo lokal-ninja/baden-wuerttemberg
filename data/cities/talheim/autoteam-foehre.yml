@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0914724
 longitude: 9.1888228
-postcode: 74388
+postcode: "74388"
 city: Talheim
 street: "Sontheimer Straße"
 housenumber: 46/1

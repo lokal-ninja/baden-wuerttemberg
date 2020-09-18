@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.086380500000004
 longitude: 9.994235
-postcode: 
+postcode: ""
 city: Ochsenhausen
 street: "Edelbeurer Straße"
 housenumber: 3

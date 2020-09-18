@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 48.998285700000004
 longitude: 8.3928352
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Südendstraße"
 housenumber: 17a

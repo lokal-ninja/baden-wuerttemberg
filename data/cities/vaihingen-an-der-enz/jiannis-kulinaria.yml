@@ -3,10 +3,10 @@ type: node
 shop: Feinkost
 latitude: 48.932086600000005
 longitude: 8.9574306
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Marktgasse"
 housenumber: 2
 phone: ""
-opening_hours: "Tu-Th 10:00-12:30,15:30-18:00; Fr 09:00-12:30,15:30-18:00; Sa 09:00-13:00,15:30-18:00"
+opening_hours: "Tu-Th 10:00-12:30,15:30-18:00; Fr 09:00-12:30,15:30-18:00; Sa 09:00-13:00,15:30-18:00; PH off"
 website: ""

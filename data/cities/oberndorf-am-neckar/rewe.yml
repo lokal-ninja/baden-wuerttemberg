@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2972222
 longitude: 8.576491500000001
-postcode: 78727
+postcode: "78727"
 city: Oberndorf am Neckar
 street: "Neckarstraße"
 housenumber: 15

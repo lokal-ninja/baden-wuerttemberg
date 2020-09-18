@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.7090006
 longitude: 9.002604100000001
-postcode: 71063
+postcode: "71063"
 city: Sindelfingen
 street: "Ziegelstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.9620583
 longitude: 9.130912
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Talstraße"
 housenumber: 14

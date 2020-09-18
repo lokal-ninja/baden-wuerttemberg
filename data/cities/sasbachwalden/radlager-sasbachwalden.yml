@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.6177538
 longitude: 8.1275596
-postcode: 77887
+postcode: "77887"
 city: Sasbachwalden
 street: "Talstraße"
 housenumber: 35

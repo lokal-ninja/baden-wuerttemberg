@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6804877
 longitude: 9.8449329
-postcode: 88239
+postcode: "88239"
 city: Wangen im Allgäu
 street: "Simoniusstraße"
 housenumber: 7

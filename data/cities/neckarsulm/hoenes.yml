@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.191909300000006
 longitude: 9.223297800000001
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Schloßgasse"
 housenumber: 9

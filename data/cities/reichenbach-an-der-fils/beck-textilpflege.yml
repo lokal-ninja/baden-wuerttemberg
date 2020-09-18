@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.7112915
 longitude: 9.463201100000001
-postcode: 73262
+postcode: "73262"
 city: Reichenbach an der Fils
 street: "Moltkestraße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.762481300000005
 longitude: 9.1619308
-postcode: 70199
+postcode: "70199"
 city: Stuttgart
 street: "Möhringer Straße"
 housenumber: 44B

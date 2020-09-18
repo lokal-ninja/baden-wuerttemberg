@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 47.6708811
 longitude: 9.178130000000001
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Petershauser Straße"
 housenumber: 32

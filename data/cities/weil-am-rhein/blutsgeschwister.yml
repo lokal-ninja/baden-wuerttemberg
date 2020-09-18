@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 47.5921249
 longitude: 7.595925500000001
-postcode: 79576
+postcode: "79576"
 city: Weil am Rhein
 street: "Schusterinsel"
 housenumber: 7

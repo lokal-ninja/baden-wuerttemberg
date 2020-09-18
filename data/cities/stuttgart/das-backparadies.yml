@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7280269
 longitude: 9.1469587
-postcode: 70567
+postcode: "70567"
 city: Stuttgart
 street: "Vaihinger Straße"
 housenumber: 45

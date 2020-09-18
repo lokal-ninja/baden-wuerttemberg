@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.0100561
 longitude: 8.4232507
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Georg-Friedrich-Straße"
 housenumber: 18

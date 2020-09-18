@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.530788900000005
 longitude: 9.0797355
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Dorfackerstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.8448531
 longitude: 8.9990093
-postcode: 78333
+postcode: "78333"
 city: Stockach
 street: "Radolfzeller Straße"
 housenumber: 37

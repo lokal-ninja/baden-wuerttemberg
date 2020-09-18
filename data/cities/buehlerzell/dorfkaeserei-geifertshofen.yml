@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 49.007420700000004
 longitude: 9.894003900000001
-postcode: 74426
+postcode: "74426"
 city: Bühlerzell
 street: "Bachstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.90579
 longitude: 9.089956200000001
-postcode: 71706
+postcode: "71706"
 city: Markgröningen
 street: "Bahnhofstraße"
 housenumber: 47-47A

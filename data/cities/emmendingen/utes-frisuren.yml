@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1202507
 longitude: 7.850818100000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Markgrafenstraße"
 housenumber: 7

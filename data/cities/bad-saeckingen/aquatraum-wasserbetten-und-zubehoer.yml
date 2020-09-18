@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.553228600000004
 longitude: 7.9452932
-postcode: 79713
+postcode: "79713"
 city: Bad Säckingen
 street: "Werderstraße"
 housenumber: 10

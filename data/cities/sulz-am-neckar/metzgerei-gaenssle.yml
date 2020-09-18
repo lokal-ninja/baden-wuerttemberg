@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.3457881
 longitude: 8.682446800000001
-postcode: 72172
+postcode: "72172"
 city: Sulz am Neckar
 street: "Beim Rathaus"
 housenumber: 11

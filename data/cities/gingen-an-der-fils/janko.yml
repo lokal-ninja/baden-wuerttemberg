@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.650573300000005
 longitude: 9.7844374
-postcode: 73333
+postcode: "73333"
 city: Gingen an der Fils
 street: "Immenreich"
 housenumber: 11

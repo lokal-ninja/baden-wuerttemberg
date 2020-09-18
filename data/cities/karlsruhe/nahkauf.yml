@@ -1,12 +1,12 @@
-id: 321426895
+id: 248951132
 type: node
 shop: Supermarkt
-latitude: 49.001395800000004
-longitude: 8.4073717
-postcode: 76137
+latitude: 49.019954500000004
+longitude: 8.3852197
+postcode: "76133"
 city: Karlsruhe
-street: "Werderstraße"
-housenumber: 46-48
-phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: ""
+street: "Erzbergerstraße"
+housenumber: 100
+phone: "+4972171766"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "http://www.nahkauf-sarac.de"

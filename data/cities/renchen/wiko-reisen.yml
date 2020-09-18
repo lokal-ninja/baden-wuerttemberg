@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.586746600000005
 longitude: 8.012144600000001
-postcode: 77871
+postcode: "77871"
 city: Renchen
 street: "Hauptstraße"
 housenumber: 44

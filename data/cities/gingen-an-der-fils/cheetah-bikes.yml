@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.6536983
 longitude: 9.7816498
-postcode: 73333
+postcode: "73333"
 city: Gingen an der Fils
 street: "Hindenburgstraße"
 housenumber: 174

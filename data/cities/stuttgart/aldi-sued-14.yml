@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7549426
 longitude: 9.140875600000001
-postcode: 70199
+postcode: "70199"
 city: Stuttgart
 street: "Böblinger Straße"
 housenumber: 253

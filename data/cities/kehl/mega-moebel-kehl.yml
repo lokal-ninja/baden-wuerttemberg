@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.576491000000004
 longitude: 7.8217268
-postcode: 77694
+postcode: "77694"
 city: Kehl
 street: "Königsberger Straße"
 housenumber: 3

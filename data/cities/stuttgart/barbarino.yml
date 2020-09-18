@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 48.78348140000001
 longitude: 9.180208200000001
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Klett-Passage"
 housenumber: 

@@ -1,4 +1,4 @@
 ---
-title: "Quick-Schuh"
+title: "Quick Schuh"
 url: /rottenburg-am-neckar/quick-schuh/
 ---

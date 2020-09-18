@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.789104
 longitude: 9.7647896
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Freimühle"
 housenumber: 3

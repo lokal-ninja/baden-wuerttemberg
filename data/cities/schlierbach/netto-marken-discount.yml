@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.677012600000005
 longitude: 9.529008000000001
-postcode: 73278
+postcode: "73278"
 city: Schlierbach
 street: "Auchtertstraße"
 housenumber: 1

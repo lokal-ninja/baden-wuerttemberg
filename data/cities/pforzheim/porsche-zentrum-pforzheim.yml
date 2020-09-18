@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.910666400000004
 longitude: 8.719187400000001
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Kieselbronner Straße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.2787547
 longitude: 10.0862643
-postcode: 74585
+postcode: "74585"
 city: Rot am See
 street: "Brunnengasse"
 housenumber: 15/1

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.7678537
 longitude: 9.1765776
-postcode: 70180
+postcode: "70180"
 city: Stuttgart
 street: "Mozartstraße"
 housenumber: 38

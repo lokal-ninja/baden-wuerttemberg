@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.739781300000004
 longitude: 9.219668500000001
-postcode: 70619
+postcode: "70619"
 city: Stuttgart
 street: "Schemppstraße"
 housenumber: 85

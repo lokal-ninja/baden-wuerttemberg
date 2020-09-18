@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.641145800000004
 longitude: 8.895988500000001
-postcode: 71116
+postcode: "71116"
 city: Gärtringen
 street: "Kirchstraße"
 housenumber: 35

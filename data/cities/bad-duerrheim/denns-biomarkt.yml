@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.032843
 longitude: 8.5328713
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Carl-Friedrich-Benz-Straße"
 housenumber: 3

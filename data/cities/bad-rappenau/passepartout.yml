@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.2395415
 longitude: 9.101438400000001
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Kirchplatz"
 housenumber: 4

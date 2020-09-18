@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 47.9828593
 longitude: 8.819768400000001
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Obere Vorstadt"
 housenumber: 10

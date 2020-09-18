@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.4366258
 longitude: 9.0691453
-postcode: 72147
+postcode: "72147"
 city: Nehren
 street: "Talstraße"
 housenumber: 14

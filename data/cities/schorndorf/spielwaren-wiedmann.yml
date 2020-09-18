@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.8047978
 longitude: 9.527586300000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Oberer Marktplatz"
 housenumber: 7

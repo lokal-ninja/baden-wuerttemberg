@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.047978300000004
 longitude: 8.379322700000001
-postcode: 76149
+postcode: "76149"
 city: Karlsruhe
 street: "Am Alten Bahnhof"
 housenumber: 26

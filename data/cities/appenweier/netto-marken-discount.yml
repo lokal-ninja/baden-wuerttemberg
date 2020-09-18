@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5605423
 longitude: 7.976375300000001
-postcode: 77767
+postcode: "77767"
 city: Appenweier
 street: "Straßburger Straße"
 housenumber: 81

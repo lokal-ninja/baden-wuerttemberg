@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.06104920000001
 longitude: 9.5936138
-postcode: 88422
+postcode: "88422"
 city: Bad Buchau
 street: "Oberbachstraße"
 housenumber: 40

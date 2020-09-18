@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.700456800000005
 longitude: 9.5613164
-postcode: 88074
+postcode: "88074"
 city: Meckenbeuren
 street: "Bahnhofstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.815304000000005
 longitude: 9.2651614
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Erich-Herion-Straße"
 housenumber: 70

@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 48.8889216
 longitude: 9.4194516
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Heckenweg"
 housenumber: 7

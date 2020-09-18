@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.340636700000005
 longitude: 8.6643048
-postcode: 72189
+postcode: "72189"
 city: Vöhringen
 street: "Maybachstraße"
 housenumber: 2

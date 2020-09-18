@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.688582100000005
 longitude: 9.080701000000001
-postcode: 78479
+postcode: "78479"
 city: Reichenau
 street: "Zelleleweg"
 housenumber: 2

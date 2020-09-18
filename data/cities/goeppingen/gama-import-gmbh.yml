@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 48.6943786
 longitude: 9.683117300000001
-postcode: 73037
+postcode: "73037"
 city: Göppingen
 street: "Heilbronner Straße"
 housenumber: 15/3

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.626446800000004
 longitude: 9.3377522
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Brunnsteige"
 housenumber: 2

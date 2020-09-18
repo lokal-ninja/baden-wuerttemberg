@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7891867
 longitude: 9.199288300000001
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Hackstraße"
 housenumber: 22

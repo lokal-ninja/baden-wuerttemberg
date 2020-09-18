@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.406594500000004
 longitude: 8.6602017
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Eppelheimer Straße"
 housenumber: 36

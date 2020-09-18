@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.2465455
 longitude: 9.223193100000001
-postcode: 72501
+postcode: "72501"
 city: Gammertingen
 street: "Sigmaringer Straße"
 housenumber: 79

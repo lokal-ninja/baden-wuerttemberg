@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.1441589
 longitude: 9.231991
-postcode: 74076
+postcode: "74076"
 city: Heilbronn
 street: "Goethestraße"
 housenumber: 38

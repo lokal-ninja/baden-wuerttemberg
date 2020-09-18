@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.047624400000004
 longitude: 8.467483900000001
-postcode: 
+postcode: ""
 city: Villingen-Schwenningen
 street: "Mühlenstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.5175922
 longitude: 9.0603391
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Friedrichstraße"
 housenumber: 15

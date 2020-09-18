@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.8755687
 longitude: 7.6559672
-postcode: 79423
+postcode: "79423"
 city: Heitersheim
 street: "Im Stühlinger"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 48.4827312
 longitude: 7.9211473
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Hanns-Martin-Schleyer-Straße"
 housenumber: 7

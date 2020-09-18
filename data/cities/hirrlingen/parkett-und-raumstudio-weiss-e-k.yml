@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.4120337
 longitude: 8.8941435
-postcode: 72145
+postcode: "72145"
 city: Hirrlingen
 street: "Rammertstraße"
 housenumber: 12

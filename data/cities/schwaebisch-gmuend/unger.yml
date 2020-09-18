@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.7995388
 longitude: 9.797223800000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Buhlgäßle"
 housenumber: 4

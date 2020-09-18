@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.8962579
 longitude: 9.209882700000001
-postcode: 71638
+postcode: "71638"
 city: Ludwigsburg
 street: "Schorndorfer Straße"
 housenumber: 113

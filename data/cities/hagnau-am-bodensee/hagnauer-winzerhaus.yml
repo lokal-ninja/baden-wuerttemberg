@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 47.6746794
 longitude: 9.3195001
-postcode: 88709
+postcode: "88709"
 city: Hagnau am Bodensee
 street: "Strandbadstraße"
 housenumber: 7

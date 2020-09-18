@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.677523400000005
 longitude: 9.1471221
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Carl-Benz-Straße"
 housenumber: 24

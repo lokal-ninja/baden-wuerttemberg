@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.772747800000005
 longitude: 9.336330100000001
-postcode: 97903
+postcode: "97903"
 city: Collenberg
 street: "Streckerring"
 housenumber: 12

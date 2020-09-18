@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.0881054
 longitude: 8.546195
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Joß-Fritz-Straße"
 housenumber: 2

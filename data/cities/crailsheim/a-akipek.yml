@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.1362834
 longitude: 10.0699746
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Jagststraße"
 housenumber: 9

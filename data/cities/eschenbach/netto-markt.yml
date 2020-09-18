@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6582571
 longitude: 9.674136500000001
-postcode: 73107
+postcode: "73107"
 city: Eschenbach
 street: "In den Bühlgärten"
 housenumber: 2

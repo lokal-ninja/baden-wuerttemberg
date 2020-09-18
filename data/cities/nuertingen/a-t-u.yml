@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.613404200000005
 longitude: 9.3478636
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Neuffener Straße"
 housenumber: 156

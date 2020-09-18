@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 48.625137900000006
 longitude: 8.9671923
-postcode: 71157
+postcode: "71157"
 city: Hildrizhausen
 street: "Rosnestraße"
 housenumber: 1

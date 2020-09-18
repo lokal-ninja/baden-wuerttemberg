@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.13888
 longitude: 8.2377499
-postcode: 78098
+postcode: "78098"
 city: Triberg im Schwarzwald
 street: "Bahnhofstraße"
 housenumber: 7

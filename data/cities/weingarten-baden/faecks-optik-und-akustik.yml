@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.0527504
 longitude: 8.5286082
-postcode: 76356
+postcode: "76356"
 city: Weingarten (Baden)
 street: "Bahnhofstraße"
 housenumber: 33

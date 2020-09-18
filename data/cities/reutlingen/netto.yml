@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5026182
 longitude: 9.2093644
-postcode: 72760
+postcode: "72760"
 city: Reutlingen
 street: "Föhrstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.063042900000006
 longitude: 7.7794053000000005
-postcode: 79232
+postcode: "79232"
 city: March
 street: "Hauptstraße"
 housenumber: 37

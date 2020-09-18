@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 47.753488000000004
 longitude: 8.849751300000001
-postcode: 78224
+postcode: "78224"
 city: Singen
 street: "Georg-Fischer-Straße"
 housenumber: 21

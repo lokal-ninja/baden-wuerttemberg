@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.5090124
 longitude: 9.2048878
-postcode: 72760
+postcode: "72760"
 city: Reutlingen
 street: "Storlachstraße"
 housenumber: 200

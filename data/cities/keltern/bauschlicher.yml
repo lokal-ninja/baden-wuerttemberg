@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.903550700000004
 longitude: 8.5733332
-postcode: 75210
+postcode: "75210"
 city: Keltern
 street: "Durlacher Straße"
 housenumber: 31

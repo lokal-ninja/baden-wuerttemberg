@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4656698
 longitude: 8.4090986
-postcode: 72250
+postcode: "72250"
 city: Freudenstadt
 street: "Hirschkopfstraße"
 housenumber: 15

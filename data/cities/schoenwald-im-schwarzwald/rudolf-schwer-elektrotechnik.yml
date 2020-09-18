@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 48.1041041
 longitude: 8.2044004
-postcode: 78141
+postcode: "78141"
 city: Schönwald im Schwarzwald
 street: "Amselstraße"
 housenumber: 1

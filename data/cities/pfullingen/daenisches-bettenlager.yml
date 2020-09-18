@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.4782638
 longitude: 9.2278362
-postcode: 72793
+postcode: "72793"
 city: Pfullingen
 street: "Daimlerstraße"
 housenumber: 3

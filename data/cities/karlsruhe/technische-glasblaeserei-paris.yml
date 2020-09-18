@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.0078459
 longitude: 8.413812
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Am Künstlerhaus"
 housenumber: 51

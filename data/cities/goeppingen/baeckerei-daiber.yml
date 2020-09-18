@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7048691
 longitude: 9.6649173
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Barbarossastraße"
 housenumber: 31

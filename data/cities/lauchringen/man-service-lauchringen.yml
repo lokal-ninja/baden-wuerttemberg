@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.6303233
 longitude: 8.3231567
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Industriestraße"
 housenumber: 2

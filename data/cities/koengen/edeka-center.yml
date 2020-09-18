@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.6736577
 longitude: 9.3611973
-postcode: 73257
+postcode: "73257"
 city: Köngen
 street: "Imanuel-Maier-Straße"
 housenumber: 2

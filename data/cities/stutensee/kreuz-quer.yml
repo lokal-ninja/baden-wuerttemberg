@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.110213
 longitude: 8.514506200000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Kirchstraße"
 housenumber: 22

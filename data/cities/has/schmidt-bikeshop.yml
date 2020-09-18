@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.277798700000005
 longitude: 8.08665
-postcode: 77716
+postcode: "77716"
 city: Has
 street: "Neue Eisenbahnstraße"
 housenumber: 6

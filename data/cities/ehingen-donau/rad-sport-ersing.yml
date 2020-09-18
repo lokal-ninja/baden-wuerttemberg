@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.281719900000006
 longitude: 9.7167309
-postcode: 89584
+postcode: "89584"
 city: Ehingen (Donau)
 street: "Hauptstraße"
 housenumber: 195

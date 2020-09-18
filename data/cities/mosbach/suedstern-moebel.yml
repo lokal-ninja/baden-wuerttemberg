@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.3443118
 longitude: 9.124111000000001
-postcode: 74821
+postcode: "74821"
 city: Mosbach
 street: "Industriestraße"
 housenumber: 13

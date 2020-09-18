@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7523314
 longitude: 8.5489294
-postcode: 75323
+postcode: "75323"
 city: Bad Wildbad
 street: "König-Karl-Straße"
 housenumber: 57

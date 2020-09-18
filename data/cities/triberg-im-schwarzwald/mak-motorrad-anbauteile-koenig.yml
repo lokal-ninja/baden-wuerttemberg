@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.131258300000006
 longitude: 8.2566831
-postcode: 78098
+postcode: "78098"
 city: Triberg im Schwarzwald
 street: "Alte Straße"
 housenumber: 5

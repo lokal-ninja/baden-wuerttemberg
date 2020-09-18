@@ -3,7 +3,7 @@ type: way
 shop: Pokal
 latitude: 48.2596026
 longitude: 9.2300073
-postcode: 72501
+postcode: "72501"
 city: Gammertingen
 street: "Eichertstraße"
 housenumber: 69

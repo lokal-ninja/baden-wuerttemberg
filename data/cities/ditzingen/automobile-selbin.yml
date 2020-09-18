@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.8238871
 longitude: 9.069134100000001
-postcode: 71254
+postcode: "71254"
 city: Ditzingen
 street: "Gerlinger Straße"
 housenumber: 24

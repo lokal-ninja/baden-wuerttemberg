@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.2139942
 longitude: 9.4066323
-postcode: 74243
+postcode: "74243"
 city: Langenbrettach
 street: "Schwabbacher Straße"
 housenumber: 8

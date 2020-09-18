@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.140794400000004
 longitude: 9.2192285
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Fleiner Straße"
 housenumber: 28

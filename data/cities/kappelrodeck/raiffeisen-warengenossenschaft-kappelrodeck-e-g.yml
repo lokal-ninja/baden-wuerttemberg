@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.591627700000004
 longitude: 8.1181827
-postcode: 77876
+postcode: "77876"
 city: Kappelrodeck
 street: "Trompeterstraße"
 housenumber: 14

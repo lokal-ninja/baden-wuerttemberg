@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 48.376249900000005
 longitude: 8.130239000000001
-postcode: 77784
+postcode: "77784"
 city: Oberharmersbach
 street: "Dorf"
 housenumber: 71

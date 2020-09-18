@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7610236
 longitude: 9.7193695
-postcode: 73037
+postcode: "73037"
 city: Göppingen
 street: "Beutentalweg"
 housenumber: 11

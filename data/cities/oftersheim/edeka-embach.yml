@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.367236600000005
 longitude: 8.576561700000001
-postcode: 68723
+postcode: "68723"
 city: Oftersheim
 street: "Eichendorffstraße"
 housenumber: 44

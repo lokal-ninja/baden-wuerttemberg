@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.994801100000004
 longitude: 8.3936679
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Ebertstraße"
 housenumber: 16

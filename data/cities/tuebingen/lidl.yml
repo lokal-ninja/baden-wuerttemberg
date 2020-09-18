@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5124587
 longitude: 9.070845700000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Schweickhardtstraße"
 housenumber: 11

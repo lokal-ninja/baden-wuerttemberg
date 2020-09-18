@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.9829908
 longitude: 7.8537539
-postcode: 79102
+postcode: "79102"
 city: Freiburg im Breisgau
 street: "Gerwigplatz"
 housenumber: 3a

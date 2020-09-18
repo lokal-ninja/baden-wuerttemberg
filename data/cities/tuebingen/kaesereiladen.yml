@@ -3,7 +3,7 @@ type: node
 shop: Milch
 latitude: 48.5220062
 longitude: 9.046859900000001
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Rappstraße"
 housenumber: 21

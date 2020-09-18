@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0379306
 longitude: 8.7203721
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Anne-Frank-Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.1426261
 longitude: 9.2206233
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Sülmerstraße"
 housenumber: 26

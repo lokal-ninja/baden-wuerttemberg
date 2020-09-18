@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.2828924
 longitude: 9.1612094
-postcode: 74831
+postcode: "74831"
 city: Gundelsheim
 street: "Gartenstraße"
 housenumber: 15

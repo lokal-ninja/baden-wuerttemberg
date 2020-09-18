@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.0597732
 longitude: 8.459570600000001
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: "Rietstraße"
 housenumber: 2

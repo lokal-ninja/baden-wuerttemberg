@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.785414
 longitude: 8.6432423
-postcode: 75328
+postcode: "75328"
 city: Schömberg
 street: "Poststraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1411485
 longitude: 9.2118848
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Frankfurter Straße"
 housenumber: 20

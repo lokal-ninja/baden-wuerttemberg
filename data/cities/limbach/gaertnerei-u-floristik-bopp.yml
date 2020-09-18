@@ -3,10 +3,10 @@ type: way
 shop: Garten-Center
 latitude: 49.4623624
 longitude: 9.2108665
-postcode: 74838
+postcode: "74838"
 city: Limbach
 street: "Ringstraße"
 housenumber: 62
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-17:00"
 website: ""

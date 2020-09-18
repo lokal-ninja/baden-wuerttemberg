@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.396601600000004
 longitude: 9.036173100000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Albblickstraße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.4309451
 longitude: 7.9829603
-postcode: 77797
+postcode: "77797"
 city: Ohlsbach
 street: "Alte Gasse"
 housenumber: 12

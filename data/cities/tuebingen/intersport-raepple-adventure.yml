@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 48.5142869
 longitude: 9.069801100000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Reutlinger Straße"
 housenumber: 51

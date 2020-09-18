@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9897876
 longitude: 7.8234881000000005
-postcode: 79115
+postcode: "79115"
 city: Freiburg im Breisgau
 street: "Carl-Kistner-Straße"
 housenumber: 67

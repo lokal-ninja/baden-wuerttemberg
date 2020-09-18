@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.7007604
 longitude: 8.1100435
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Kapellenstraße"
 housenumber: 24

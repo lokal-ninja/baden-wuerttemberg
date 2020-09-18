@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.901786200000004
 longitude: 9.3715509
-postcode: 71397
+postcode: "71397"
 city: Leutenbach
 street: "Friedhofstraße"
 housenumber: 1

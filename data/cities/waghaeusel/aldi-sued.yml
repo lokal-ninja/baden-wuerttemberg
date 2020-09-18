@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2476227
 longitude: 8.5012238
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Mannheimer Straße"
 housenumber: 187

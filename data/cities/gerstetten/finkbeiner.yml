@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.623777200000006
 longitude: 10.0267817
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Karlstraße"
 housenumber: 62

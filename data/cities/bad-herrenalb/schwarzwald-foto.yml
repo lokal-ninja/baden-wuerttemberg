@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.7980278
 longitude: 8.435612500000001
-postcode: 76332
+postcode: "76332"
 city: Bad Herrenalb
 street: "Kurpromenade"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.929692200000005
 longitude: 9.546733900000001
-postcode: 88361
+postcode: "88361"
 city: Altshausen
 street: "Bahnhofstraße"
 housenumber: 20

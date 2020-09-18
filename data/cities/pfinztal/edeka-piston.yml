@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.004044300000004
 longitude: 8.534962100000001
-postcode: 76327
+postcode: "76327"
 city: Pfinztal
 street: "Wöschbacher Straße"
 housenumber: 31

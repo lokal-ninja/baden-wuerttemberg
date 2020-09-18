@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.740509700000004
 longitude: 9.3123463
-postcode: 
+postcode: ""
 city: Esslingen am Neckar
 street: "Wagnerstraße"
 housenumber: 19

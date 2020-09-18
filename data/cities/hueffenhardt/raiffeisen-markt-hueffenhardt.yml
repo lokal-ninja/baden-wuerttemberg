@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.289131600000005
 longitude: 9.0862827
-postcode: 74928
+postcode: "74928"
 city: Hüffenhardt
 street: "Beudweg"
 housenumber: 9

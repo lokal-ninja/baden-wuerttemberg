@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.643346900000004
 longitude: 7.7392213000000005
-postcode: 79585
+postcode: "79585"
 city: Steinen
 street: "Lörracher Straße"
 housenumber: 5

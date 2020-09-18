@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.5585023
 longitude: 8.443799400000001
-postcode: 68307
+postcode: "68307"
 city: Mannheim
 street: "Frankenthaler Straße"
 housenumber: 129

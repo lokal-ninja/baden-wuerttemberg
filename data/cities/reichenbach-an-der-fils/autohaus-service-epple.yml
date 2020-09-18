@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.7082598
 longitude: 9.4561046
-postcode: 73262
+postcode: "73262"
 city: Reichenbach an der Fils
 street: "Stuttgarter Straße"
 housenumber: 63

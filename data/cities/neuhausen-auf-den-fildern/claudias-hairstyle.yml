@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6844022
 longitude: 9.276030500000001
-postcode: 73765
+postcode: "73765"
 city: Neuhausen auf den Fildern
 street: "Bahnhofstraße"
 housenumber: 32

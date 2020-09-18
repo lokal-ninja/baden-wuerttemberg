@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.830541700000005
 longitude: 9.8167557
-postcode: 73527
+postcode: "73527"
 city: Schwäbisch Gmünd
 street: "Hans-Diemar-Straße"
 housenumber: 20

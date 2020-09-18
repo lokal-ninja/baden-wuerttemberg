@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.905099500000006
 longitude: 9.0879817
-postcode: 71706
+postcode: "71706"
 city: Markgröningen
 street: "Bahnhofstraße"
 housenumber: 29

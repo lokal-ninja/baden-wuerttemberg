@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2825475
 longitude: 8.738510100000001
-postcode: 69234
+postcode: "69234"
 city: Dielheim
 street: "Hauptstraße"
 housenumber: 7a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8549683
 longitude: 9.2938007
-postcode: 71334
+postcode: "71334"
 city: Waiblingen
 street: "Oeffinger Straße"
 housenumber: 1

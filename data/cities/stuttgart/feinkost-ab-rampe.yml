@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.746624800000006
 longitude: 9.1701341
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Epplestraße"
 housenumber: 32

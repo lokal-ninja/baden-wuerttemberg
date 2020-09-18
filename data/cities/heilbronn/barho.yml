@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.1701296
 longitude: 9.2097774
-postcode: 74076
+postcode: "74076"
 city: Heilbronn
 street: "Lichtenbergerstraße"
 housenumber: 2

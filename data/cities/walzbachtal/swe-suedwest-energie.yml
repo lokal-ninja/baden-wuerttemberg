@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.0379713
 longitude: 8.5792613
-postcode: 75045
+postcode: "75045"
 city: Walzbachtal
 street: "Grombacher Straße"
 housenumber: 63

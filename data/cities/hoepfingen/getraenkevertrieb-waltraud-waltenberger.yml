@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.602703000000005
 longitude: 9.439003300000001
-postcode: 74746
+postcode: "74746"
 city: Höpfingen
 street: "Hardheimer Straße"
 housenumber: 78

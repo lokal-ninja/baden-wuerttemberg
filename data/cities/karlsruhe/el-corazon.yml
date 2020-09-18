@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.010622500000004
 longitude: 8.3988098
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Waldstraße"
 housenumber: 21

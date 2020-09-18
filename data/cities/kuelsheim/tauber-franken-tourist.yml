@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.669664600000004
 longitude: 9.521489800000001
-postcode: 
+postcode: ""
 city: Külsheim
 street: "Spitalstraße"
 housenumber: 2

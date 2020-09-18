@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.813339400000004
 longitude: 9.1118097
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Pforzheimer Straße"
 housenumber: 383

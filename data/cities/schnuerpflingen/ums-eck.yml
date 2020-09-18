@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.2731323
 longitude: 9.9942837
-postcode: 89194
+postcode: "89194"
 city: Schnürpflingen
 street: "Hauptstraße"
 housenumber: 63

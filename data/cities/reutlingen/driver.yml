@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.4876797
 longitude: 9.223848100000001
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Kaiserstraße"
 housenumber: 110

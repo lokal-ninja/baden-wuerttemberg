@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.680040500000004
 longitude: 9.556704100000001
-postcode: 73095
+postcode: "73095"
 city: Albershausen
 street: "Hattenhofer Straße"
 housenumber: 1

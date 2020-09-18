@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.958802000000006
 longitude: 9.079663400000001
-postcode: 74343
+postcode: "74343"
 city: Sachsenheim
 street: "Max-Eyth-Straße"
 housenumber: 5

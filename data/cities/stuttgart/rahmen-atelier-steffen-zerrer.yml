@@ -3,7 +3,7 @@ type: node
 shop: Rahmen
 latitude: 48.7467236
 longitude: 9.1654281
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Albstraße"
 housenumber: 16

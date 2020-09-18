@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8162455
 longitude: 9.419568
-postcode: 73630
+postcode: "73630"
 city: Remshalden
 street: "Reinhold-Maier-Straße"
 housenumber: 6

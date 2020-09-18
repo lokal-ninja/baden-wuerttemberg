@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.4027364
 longitude: 9.9195285
-postcode: 97996
+postcode: "97996"
 city: Niederstetten
 street: "Vorbachzimmerner Straße"
 housenumber: 14

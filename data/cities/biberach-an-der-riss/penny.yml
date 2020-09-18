@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.0940832
 longitude: 9.783119800000001
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Wolfentalstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 48.9597294
 longitude: 9.1301693
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Kronenplatz"
 housenumber: 

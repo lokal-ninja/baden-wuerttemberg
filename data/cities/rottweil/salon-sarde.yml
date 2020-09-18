@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.1559621
 longitude: 8.6390711
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Tuttlinger Straße"
 housenumber: 24

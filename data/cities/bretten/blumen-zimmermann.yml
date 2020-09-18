@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.037882100000004
 longitude: 8.701750200000001
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Melanchthonstraße"
 housenumber: 72

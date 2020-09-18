@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 49.0207193
 longitude: 8.4587726
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "An der Tagweide"
 housenumber: 2

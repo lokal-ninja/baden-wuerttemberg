@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.2715149
 longitude: 8.848893700000001
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Wilhelmstraße"
 housenumber: 45

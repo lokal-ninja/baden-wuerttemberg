@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.760043
 longitude: 9.2631928
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Mercedes-Benz Werk 2 (Hedelfingen)"
 housenumber: 37/4

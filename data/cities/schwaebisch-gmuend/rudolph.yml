@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.800341100000004
 longitude: 9.798473600000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Marktgäßle"
 housenumber: 7

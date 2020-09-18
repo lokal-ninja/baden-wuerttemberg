@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 49.035725000000006
 longitude: 9.315646800000001
-postcode: 71717
+postcode: "71717"
 city: Beilstein
 street: "Talstraße"
 housenumber: 10

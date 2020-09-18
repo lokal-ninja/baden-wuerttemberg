@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.520988300000006
 longitude: 9.0516506
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Ammergasse"
 housenumber: 1/1

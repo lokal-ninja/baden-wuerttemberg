@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8008911
 longitude: 9.7930019
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Ledergasse"
 housenumber: 44

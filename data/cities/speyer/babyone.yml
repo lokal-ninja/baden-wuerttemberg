@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 49.332638
 longitude: 8.447803
-postcode: 67346
+postcode: "67346"
 city: Speyer
 street: "Auestraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.8179188
 longitude: 8.3276688
-postcode: 79848
+postcode: "79848"
 city: Bonndorf im Schwarzwald
 street: "Bahnhofstraße"
 housenumber: 9

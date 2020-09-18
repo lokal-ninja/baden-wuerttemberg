@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.49776850000001
 longitude: 8.4713322
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Mittelstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.6299129
 longitude: 8.3147487
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Riedstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.792381400000004
 longitude: 8.3294244
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Ebersteinstraße"
 housenumber: 2

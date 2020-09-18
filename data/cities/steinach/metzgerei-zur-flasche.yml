@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.303844100000006
 longitude: 8.0570114
-postcode: 77790
+postcode: "77790"
 city: Steinach
 street: "Hauptstraße"
 housenumber: 47a

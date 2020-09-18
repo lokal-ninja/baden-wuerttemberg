@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4757346
 longitude: 8.766749500000001
-postcode: 72184
+postcode: "72184"
 city: Eutingen im Gäu
 street: "Alter Bahnhof"
 housenumber: 9

@@ -3,10 +3,10 @@ type: way
 shop: Küchen
 latitude: 48.6398646
 longitude: 8.912984100000001
-postcode: 71116
+postcode: "71116"
 city: Gärtringen
 street: "Erich-Kiefer-Straße"
 housenumber: 19
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-13:00"
 website: "https://www.kuechenstudio-hoeferlin.de/"

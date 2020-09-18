@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.5161717
 longitude: 9.086320500000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Au-Ost"
 housenumber: 5

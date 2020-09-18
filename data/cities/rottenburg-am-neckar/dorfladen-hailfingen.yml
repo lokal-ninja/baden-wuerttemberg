@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.528414100000006
 longitude: 8.8690712
-postcode: 72108
+postcode: "72108"
 city: Rottenburg am Neckar
 street: "Hadolfinger Straße"
 housenumber: 20

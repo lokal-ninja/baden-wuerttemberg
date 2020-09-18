@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.1126122
 longitude: 9.734937
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Schwatzbühlgasse"
 housenumber: 5

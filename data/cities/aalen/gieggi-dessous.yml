@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8393415
 longitude: 10.091584500000002
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Nördlicher Stadtgraben"
 housenumber: 22

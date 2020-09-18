@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.90749
 longitude: 9.172543300000001
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Katharinenstraße"
 housenumber: 5

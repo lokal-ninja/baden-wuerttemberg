@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 47.6288136
 longitude: 8.3160145
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Riedstraße"
 housenumber: 6

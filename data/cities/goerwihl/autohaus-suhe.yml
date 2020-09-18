@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.6406659
 longitude: 8.0803248
-postcode: 79733
+postcode: "79733"
 city: Görwihl
 street: "Hauptstraße"
 housenumber: 34

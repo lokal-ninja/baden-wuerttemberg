@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6259473
 longitude: 10.0215083
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Osterstraße"
 housenumber: 28

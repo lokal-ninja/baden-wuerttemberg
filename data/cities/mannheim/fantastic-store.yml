@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.479959
 longitude: 8.472024600000001
-postcode: 68165
+postcode: "68165"
 city: Mannheim
 street: "Tattersallstraße"
 housenumber: 8-10

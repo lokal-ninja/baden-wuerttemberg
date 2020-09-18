@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.492932700000004
 longitude: 9.7408154
-postcode: 89150
+postcode: "89150"
 city: Laichingen
 street: "Hauptstraße"
 housenumber: 29

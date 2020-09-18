@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.9630561
 longitude: 7.9822164
-postcode: 79199
+postcode: "79199"
 city: Kirchzarten
 street: "Burger Platz"
 housenumber: 4

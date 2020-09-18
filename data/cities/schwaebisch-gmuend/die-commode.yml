@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.7994129
 longitude: 9.7941211
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Turniergraben"
 housenumber: 2

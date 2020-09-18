@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.8361828
 longitude: 10.0905582
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Gartenstraße"
 housenumber: 9A

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2075292
 longitude: 9.5714714
-postcode: 74632
+postcode: "74632"
 city: Neuenstein
 street: "Lindenstraße"
 housenumber: 25

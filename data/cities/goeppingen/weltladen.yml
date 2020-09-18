@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.7039302
 longitude: 9.6528644
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Freihofstraße"
 housenumber: 37

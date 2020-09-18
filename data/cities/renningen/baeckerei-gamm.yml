@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.771292100000004
 longitude: 8.906269100000001
-postcode: 71272
+postcode: "71272"
 city: Renningen
 street: "Haldenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.6501438
 longitude: 9.450467100000001
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Plochinger Straße"
 housenumber: 3

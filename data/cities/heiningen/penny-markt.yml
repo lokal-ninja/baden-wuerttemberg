@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6549923
 longitude: 9.6493924
-postcode: 73092
+postcode: "73092"
 city: Heiningen
 street: "Riedstraße"
 housenumber: 1

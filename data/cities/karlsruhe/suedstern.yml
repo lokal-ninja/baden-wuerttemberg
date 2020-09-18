@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.0073451
 longitude: 8.4026686
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Erbprinzenstraße"
 housenumber: 4-12

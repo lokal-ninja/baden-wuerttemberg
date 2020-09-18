@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.0045725
 longitude: 8.448064200000001
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Durlacher Allee"
 housenumber: 111

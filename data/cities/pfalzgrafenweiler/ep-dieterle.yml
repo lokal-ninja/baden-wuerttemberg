@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.5252466
 longitude: 8.565825400000001
-postcode: 72285
+postcode: "72285"
 city: Pfalzgrafenweiler
 street: "Kronenstraße"
 housenumber: 4

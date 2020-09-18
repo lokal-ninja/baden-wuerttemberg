@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4926952
 longitude: 9.3978982
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Kirchstraße"
 housenumber: 13

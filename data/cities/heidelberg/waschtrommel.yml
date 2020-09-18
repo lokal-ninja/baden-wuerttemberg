@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.406693100000005
 longitude: 8.6926144
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Rohrbacher Straße"
 housenumber: 10

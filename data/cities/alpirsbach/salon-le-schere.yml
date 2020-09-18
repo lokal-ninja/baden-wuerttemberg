@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.3430759
 longitude: 8.462029300000001
-postcode: 72275
+postcode: "72275"
 city: Alpirsbach
 street: "Im Aischfeld"
 housenumber: 10

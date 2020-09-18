@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.381227800000005
 longitude: 8.9002997
-postcode: 72414
+postcode: "72414"
 city: Rangendingen
 street: "Im Hitzenried"
 housenumber: 13

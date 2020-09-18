@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 48.892734700000005
 longitude: 8.680740400000001
-postcode: 75172
+postcode: "75172"
 city: Pforzheim
 street: "Maximilianstraße"
 housenumber: 98

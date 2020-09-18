@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 48.5383592
 longitude: 9.287477200000001
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Friedrichstraße"
 housenumber: 26

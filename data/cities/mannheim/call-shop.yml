@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 49.5033279
 longitude: 8.4630457
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Ackerstraße"
 housenumber: 28

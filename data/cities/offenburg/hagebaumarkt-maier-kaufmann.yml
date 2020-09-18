@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.4715538
 longitude: 7.9308098000000005
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Heinrich-Hertz-Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.678394100000006
 longitude: 9.480824400000001
-postcode: 88048
+postcode: "88048"
 city: Friedrichshafen
 street: "Siemensstraße"
 housenumber: 6/2

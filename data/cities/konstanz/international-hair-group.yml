@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.676723700000004
 longitude: 9.176580300000001
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Wollmatinger Straße"
 housenumber: 43b

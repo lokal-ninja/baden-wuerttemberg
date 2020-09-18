@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.8952929
 longitude: 8.7033077
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Zähringerallee"
 housenumber: 15

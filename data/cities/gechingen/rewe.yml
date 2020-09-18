@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6965881
 longitude: 8.818548100000001
-postcode: 75391
+postcode: "75391"
 city: Gechingen
 street: "Calwer Straße"
 housenumber: 56

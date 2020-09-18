@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.097599100000004
 longitude: 9.7889893
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Hindenburgstraße"
 housenumber: 12

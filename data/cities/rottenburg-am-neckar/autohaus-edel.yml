@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 48.4740617
 longitude: 8.9483783
-postcode: 72108
+postcode: "72108"
 city: Rottenburg am Neckar
 street: "Bellinostraße"
 housenumber: 6
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 07:15-17:30; Fr 07:15-17:00; Sa 08:30-12:30"
 website: ""

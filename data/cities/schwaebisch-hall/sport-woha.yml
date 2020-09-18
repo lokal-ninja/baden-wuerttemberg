@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.1135734
 longitude: 9.7366101
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Marktstraße"
 housenumber: 10

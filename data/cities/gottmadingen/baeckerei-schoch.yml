@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.734687
 longitude: 8.7756709
-postcode: 78244
+postcode: "78244"
 city: Gottmadingen
 street: "Hauptstraße"
 housenumber: 42

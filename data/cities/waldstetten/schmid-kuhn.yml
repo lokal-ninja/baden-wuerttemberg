@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7663189
 longitude: 9.8204645
-postcode: 73550
+postcode: "73550"
 city: Waldstetten
 street: "Hauptstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.0060669
 longitude: 8.3944361
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Sophienstraße"
 housenumber: 

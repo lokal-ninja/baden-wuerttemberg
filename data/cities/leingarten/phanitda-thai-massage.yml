@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.143545200000005
 longitude: 9.1257374
-postcode: 74211
+postcode: "74211"
 city: Leingarten
 street: "Heilbronner Straße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.6040709
 longitude: 9.7361132
-postcode: 97947
+postcode: "97947"
 city: Grünsfeld
 street: "Brückle"
 housenumber: 2

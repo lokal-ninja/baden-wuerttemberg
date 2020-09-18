@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.454343200000004
 longitude: 8.6639765
-postcode: 69221
+postcode: "69221"
 city: Dossenheim
 street: "Gewerbestraße"
 housenumber: 19

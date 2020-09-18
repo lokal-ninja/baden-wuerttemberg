@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.555379
 longitude: 9.261642
-postcode: 72585
+postcode: "72585"
 city: Riederich
 street: "Industriestraße"
 housenumber: 31-37

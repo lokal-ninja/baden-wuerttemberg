@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.0037144
 longitude: 8.5260621
-postcode: 76327
+postcode: "76327"
 city: Pfinztal
 street: "Karlsruher Straße"
 housenumber: 84/1

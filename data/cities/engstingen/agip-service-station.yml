@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.38579420000001
 longitude: 9.300002300000001
-postcode: 72829
+postcode: "72829"
 city: Engstingen
 street: "Bernlocher Straße"
 housenumber: 17

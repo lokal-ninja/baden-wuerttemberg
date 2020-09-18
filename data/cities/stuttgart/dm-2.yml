@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.764365000000005
 longitude: 9.1698685
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Hauptstätter Straße"
 housenumber: 149

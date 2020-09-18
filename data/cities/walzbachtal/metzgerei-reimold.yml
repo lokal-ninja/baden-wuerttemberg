@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.0108571
 longitude: 8.6112436
-postcode: 75045
+postcode: "75045"
 city: Walzbachtal
 street: "Wössinger Straße"
 housenumber: 24

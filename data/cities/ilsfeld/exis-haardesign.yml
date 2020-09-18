@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.0554081
 longitude: 9.2479105
-postcode: 74360
+postcode: "74360"
 city: Ilsfeld
 street: "König-Wilhelm-Straße"
 housenumber: 29

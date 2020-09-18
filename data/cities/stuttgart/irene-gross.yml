@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8131174
 longitude: 9.1132402
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Köstlinstraße"
 housenumber: 8

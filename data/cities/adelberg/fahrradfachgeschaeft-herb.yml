@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.762654100000006
 longitude: 9.600030100000001
-postcode: 73099
+postcode: "73099"
 city: Adelberg
 street: "Rankstraße"
 housenumber: 4

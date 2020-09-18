@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 48.9476797
 longitude: 9.430361900000001
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Uhlandstraße"
 housenumber: 20

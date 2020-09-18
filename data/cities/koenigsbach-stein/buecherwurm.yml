@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.963649000000004
 longitude: 8.6119319
-postcode: 75203
+postcode: "75203"
 city: Königsbach-Stein
 street: "Saint-Andre-Straße"
 housenumber: 22

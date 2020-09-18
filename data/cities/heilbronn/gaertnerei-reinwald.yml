@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.1383482
 longitude: 9.2349797
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Wollhausstraße"
 housenumber: 114

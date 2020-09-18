@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.866843900000006
 longitude: 9.3512869
-postcode: 71409
+postcode: "71409"
 city: Schwaikheim
 street: "Heinkelstraße"
 housenumber: 8

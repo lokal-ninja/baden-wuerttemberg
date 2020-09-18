@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0808211
 longitude: 8.4615659
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Linkenheimer Straße"
 housenumber: 56

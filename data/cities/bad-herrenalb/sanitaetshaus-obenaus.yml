@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.7956629
 longitude: 8.4342751
-postcode: 76332
+postcode: "76332"
 city: Bad Herrenalb
 street: "Gernsbacher Straße"
 housenumber: 19

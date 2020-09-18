@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.821356200000004
 longitude: 10.028852500000001
-postcode: 73457
+postcode: "73457"
 city: Essingen
 street: "Bahnhofstraße"
 housenumber: 97

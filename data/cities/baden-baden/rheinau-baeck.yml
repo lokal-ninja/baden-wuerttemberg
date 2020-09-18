@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.771219
 longitude: 8.223594700000001
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Eisenbahnstraße"
 housenumber: 25

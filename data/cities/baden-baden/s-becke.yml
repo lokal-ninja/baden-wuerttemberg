@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7787439
 longitude: 8.270166900000001
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Ebersteinburger Straße"
 housenumber: 26

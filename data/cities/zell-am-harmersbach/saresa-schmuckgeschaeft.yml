@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.3470031
 longitude: 8.065056
-postcode: 77736
+postcode: "77736"
 city: Zell am Harmersbach
 street: "Hauptstraße"
 housenumber: 29

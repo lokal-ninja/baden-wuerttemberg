@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.686471000000004
 longitude: 9.016855600000001
-postcode: 71032
+postcode: "71032"
 city: Böblingen
 street: "Lauchstraße"
 housenumber: 14

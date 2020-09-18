@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.0006421
 longitude: 8.4055576
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Luisenstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.997558000000005
 longitude: 8.4650894
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Amalienbadstraße"
 housenumber: 24

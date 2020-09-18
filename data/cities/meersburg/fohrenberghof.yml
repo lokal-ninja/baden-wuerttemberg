@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.6971082
 longitude: 9.2763434
-postcode: 88709
+postcode: "88709"
 city: Meersburg
 street: "Lehrenweg"
 housenumber: 27

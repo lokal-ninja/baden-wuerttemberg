@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9238755
 longitude: 8.1874389
-postcode: 79822
+postcode: "79822"
 city: Titisee-Neustadt
 street: "Freiburger Straße"
 housenumber: 11

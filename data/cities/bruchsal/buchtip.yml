@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.125323
 longitude: 8.5968654
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Friedrichstraße"
 housenumber: 42

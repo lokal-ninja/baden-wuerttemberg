@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.09155620000001
 longitude: 7.7525199
-postcode: 79356
+postcode: "79356"
 city: Eichstetten am Kaiserstuhl
 street: "Bruckmatten"
 housenumber: 43

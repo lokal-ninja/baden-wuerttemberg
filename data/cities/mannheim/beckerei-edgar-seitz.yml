@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4671255
 longitude: 8.5555202
-postcode: 68239
+postcode: "68239"
 city: Mannheim
 street: "Rastatter Straße"
 housenumber: 30

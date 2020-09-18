@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7947837
 longitude: 9.6027207
-postcode: 73655
+postcode: "73655"
 city: Plüderhausen
 street: "Hauptstraße"
 housenumber: 28

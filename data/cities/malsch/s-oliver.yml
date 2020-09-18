@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.881381000000005
 longitude: 8.3349962
-postcode: 76316
+postcode: "76316"
 city: Malsch
 street: "Hauptstraße"
 housenumber: 33

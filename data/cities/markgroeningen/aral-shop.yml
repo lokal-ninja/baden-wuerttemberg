@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.905209600000006
 longitude: 9.0912383
-postcode: 71706
+postcode: "71706"
 city: Markgröningen
 street: "Bahnhofstraße"
 housenumber: 51

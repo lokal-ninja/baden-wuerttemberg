@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.0639088
 longitude: 8.800942800000001
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Flehinger Straße"
 housenumber: 28

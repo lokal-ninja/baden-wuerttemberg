@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.1303604
 longitude: 9.3245124
-postcode: 74251
+postcode: "74251"
 city: Lehrensteinsfeld
 street: "Goethestraße"
 housenumber: 14

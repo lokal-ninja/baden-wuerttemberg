@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.558987300000005
 longitude: 8.8524815
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Raiffeisenstraße"
 housenumber: 1

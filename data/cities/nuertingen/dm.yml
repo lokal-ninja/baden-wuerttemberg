@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.6082673
 longitude: 9.348368800000001
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Eichendorffstraße"
 housenumber: 30

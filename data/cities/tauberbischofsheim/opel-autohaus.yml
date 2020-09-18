@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.625469
 longitude: 9.666217600000001
-postcode: 97941
+postcode: "97941"
 city: Tauberbischofsheim
 street: "Wertheimer Straße"
 housenumber: 15

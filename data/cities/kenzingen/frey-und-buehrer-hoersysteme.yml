@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.1909903
 longitude: 7.7697095
-postcode: 79341
+postcode: "79341"
 city: Kenzingen
 street: "Brotstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.6182457
 longitude: 8.2501668
-postcode: 79761
+postcode: "79761"
 city: Waldshut-Tiengen
 street: "Lise-Meitner-Ring"
 housenumber: 8

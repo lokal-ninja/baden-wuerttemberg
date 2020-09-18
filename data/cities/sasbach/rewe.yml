@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.636755
 longitude: 8.0920811
-postcode: 77880
+postcode: "77880"
 city: Sasbach
 street: "Hauptstraße"
 housenumber: 7b

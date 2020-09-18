@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.7741666
 longitude: 9.795616800000001
-postcode: 73529
+postcode: "73529"
 city: Schwäbisch Gmünd
 street: "Donzdorfer Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5481642
 longitude: 8.7256994
-postcode: 72202
+postcode: "72202"
 city: Nagold
 street: "Grafenwiesenstraße"
 housenumber: 15

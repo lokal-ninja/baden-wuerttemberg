@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3405257
 longitude: 9.7972312
-postcode: 74673
+postcode: "74673"
 city: Mulfingen
 street: "Unterer Bach"
 housenumber: 9

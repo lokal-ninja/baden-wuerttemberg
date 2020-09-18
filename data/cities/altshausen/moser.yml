@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 47.9332882
 longitude: 9.5388426
-postcode: 88361
+postcode: "88361"
 city: Altshausen
 street: "Hindenburgstraße"
 housenumber: 18

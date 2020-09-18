@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5387969
 longitude: 9.2828503
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Willy-Brandt-Straße"
 housenumber: 7

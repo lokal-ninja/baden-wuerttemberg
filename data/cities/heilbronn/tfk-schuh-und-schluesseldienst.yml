@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.1412063
 longitude: 9.194676900000001
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Großgartacher Straße"
 housenumber: 40

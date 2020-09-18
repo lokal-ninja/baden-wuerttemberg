@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 48.681267000000005
 longitude: 7.9808535
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Höllengasse"
 housenumber: 4

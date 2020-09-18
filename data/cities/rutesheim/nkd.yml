@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8083527
 longitude: 8.9446764
-postcode: 71277
+postcode: "71277"
 city: Rutesheim
 street: "Pforzheimer Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2947259
 longitude: 8.965088
-postcode: 74924
+postcode: "74924"
 city: Neckarbischofsheim
 street: "von-Hindenburg-Straße"
 housenumber: 34

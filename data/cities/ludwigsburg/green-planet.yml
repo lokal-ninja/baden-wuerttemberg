@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 48.9002813
 longitude: 9.185310000000001
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Abelstraße"
 housenumber: 47

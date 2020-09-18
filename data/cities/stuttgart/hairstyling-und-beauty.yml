@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.757532700000006
 longitude: 9.256466600000001
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Amstetter Straße"
 housenumber: 31

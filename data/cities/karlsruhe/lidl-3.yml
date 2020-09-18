@@ -1,12 +1,12 @@
-id: 1282748780
+id: 7395968357
 type: node
 shop: Supermarkt
-latitude: 49.0445214
-longitude: 8.3911361
-postcode: 76149
+latitude: 49.0054955
+longitude: 8.500129300000001
+postcode: "76229"
 city: Karlsruhe
-street: "Am Sandfeld"
-housenumber: 1
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+street: "Eisenbahnstraße"
+housenumber: 8
+phone: ""
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+website: "https://www.lidl.de/filialen/karlsruhe/groetzingen-eisenbahnstr-8.html"

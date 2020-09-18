@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.867679700000004
 longitude: 9.4257118
-postcode: 88271
+postcode: "88271"
 city: Wilhelmsdorf
 street: "Saalplatz"
 housenumber: 12

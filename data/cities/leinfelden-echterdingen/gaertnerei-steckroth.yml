@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.670416100000004
 longitude: 9.175683900000001
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Höfer Äcker"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.7548876
 longitude: 10.3272034
-postcode: 73450
+postcode: "73450"
 city: Neresheim
 street: "Heidenheimer Straße"
 housenumber: 21

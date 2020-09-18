@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.4026505
 longitude: 9.986689100000001
-postcode: 89073
+postcode: "89073"
 city: Ulm
 street: "Neutorstraße"
 housenumber: 22

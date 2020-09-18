@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.997199
 longitude: 8.3444537
-postcode: 76189
+postcode: "76189"
 city: Karlsruhe
 street: "Durmersheimer Straße"
 housenumber: 190

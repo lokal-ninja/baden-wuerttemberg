@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.6559406
 longitude: 8.940229
-postcode: 71139
+postcode: "71139"
 city: Ehningen
 street: "Hintere Burgwiesen"
 housenumber: 

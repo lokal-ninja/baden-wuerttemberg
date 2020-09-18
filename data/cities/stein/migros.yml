@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 47.5493278
 longitude: 7.9544994
-postcode: 4332
+postcode: "4332"
 city: Stein
 street: "Schaffhauserstrasse"
 housenumber: 61
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00; PH off"
+website: "https://filialen.migros.ch/de/migros-supermarkt-stein-am-rhein"

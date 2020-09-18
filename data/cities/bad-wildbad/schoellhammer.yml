@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.7511917
 longitude: 8.549666400000001
-postcode: 75323
+postcode: "75323"
 city: Bad Wildbad
 street: "Wilhelmstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.613361700000006
 longitude: 7.6595091
-postcode: 79539
+postcode: "79539"
 city: Lörrach
 street: "Spitalstraße"
 housenumber: 19

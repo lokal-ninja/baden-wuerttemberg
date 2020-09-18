@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.3930085
 longitude: 8.800423200000001
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Hauptstraße"
 housenumber: 20

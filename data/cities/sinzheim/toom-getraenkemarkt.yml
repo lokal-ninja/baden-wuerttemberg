@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.774482400000004
 longitude: 8.175574300000001
-postcode: 76547
+postcode: "76547"
 city: Sinzheim
 street: "Industriestraße"
 housenumber: 18a

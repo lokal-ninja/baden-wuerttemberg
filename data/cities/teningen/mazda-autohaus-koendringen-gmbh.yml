@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.136130200000004
 longitude: 7.8117919
-postcode: 79331
+postcode: "79331"
 city: Teningen
 street: "Blochmattenstraße"
 housenumber: 29

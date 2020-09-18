@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.287218100000004
 longitude: 8.819738300000001
-postcode: 72351
+postcode: "72351"
 city: Geislingen
 street: "Brühlstraße"
 housenumber: 66

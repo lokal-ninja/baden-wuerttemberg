@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.7188274
 longitude: 9.2310262
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Rosenstraße"
 housenumber: 1

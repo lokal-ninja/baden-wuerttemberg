@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.2893521
 longitude: 9.1204427
-postcode: 72393
+postcode: "72393"
 city: Burladingen
 street: "Fehlabrücke"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.6647631
 longitude: 9.482463800000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Meistershofener Straße"
 housenumber: 12

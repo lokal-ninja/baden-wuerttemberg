@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.520034900000006
 longitude: 9.0533553
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Wienergäßle"
 housenumber: 2

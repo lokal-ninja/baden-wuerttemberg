@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.77776050000001
 longitude: 9.199407
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Rengoldshauser Straße"
 housenumber: 9

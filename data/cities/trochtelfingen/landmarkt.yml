@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.327775800000005
 longitude: 9.2390881
-postcode: 72818
+postcode: "72818"
 city: Trochtelfingen
 street: "Grindel"
 housenumber: 1

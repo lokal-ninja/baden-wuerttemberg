@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.004860900000004
 longitude: 9.6562192
-postcode: 88427
+postcode: "88427"
 city: Bad Schussenried
 street: "Magnusstraße"
 housenumber: 5

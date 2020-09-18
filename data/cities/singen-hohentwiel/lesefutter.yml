@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.759940900000004
 longitude: 8.837660600000001
-postcode: 78224
+postcode: "78224"
 city: Singen (Hohentwiel)
 street: "Hadwigstraße"
 housenumber: 4

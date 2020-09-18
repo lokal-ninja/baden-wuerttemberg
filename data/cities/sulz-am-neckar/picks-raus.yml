@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.371121200000005
 longitude: 8.646270600000001
-postcode: 72172
+postcode: "72172"
 city: Sulz am Neckar
 street: "Stuttgarter Straße"
 housenumber: 118

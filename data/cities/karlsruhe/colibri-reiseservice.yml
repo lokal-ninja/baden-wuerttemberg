@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.9973906
 longitude: 8.410539
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Rüppurrer Straße"
 housenumber: 94

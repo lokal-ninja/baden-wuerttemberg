@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.8646353
 longitude: 8.221020300000001
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Niederwaldstraße"
 housenumber: 21/1

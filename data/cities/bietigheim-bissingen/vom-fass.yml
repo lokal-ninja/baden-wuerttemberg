@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.9598099
 longitude: 9.1287857
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Hauptstraße"
 housenumber: 14

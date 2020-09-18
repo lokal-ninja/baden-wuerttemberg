@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7414872
 longitude: 8.962174300000001
-postcode: 71106
+postcode: "71106"
 city: Magstadt
 street: "Brauereistraße"
 housenumber: 11/1

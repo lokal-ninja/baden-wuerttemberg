@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.826151
 longitude: 9.6513559
-postcode: 88255
+postcode: "88255"
 city: Baienfurt
 street: "Waldseer Straße"
 housenumber: 10

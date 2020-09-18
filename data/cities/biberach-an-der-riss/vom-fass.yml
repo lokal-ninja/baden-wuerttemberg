@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.0979754
 longitude: 9.7876799
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Marktplatz"
 housenumber: 22

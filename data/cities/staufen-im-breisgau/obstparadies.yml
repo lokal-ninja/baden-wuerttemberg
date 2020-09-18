@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.8885744
 longitude: 7.718916600000001
-postcode: 79219
+postcode: "79219"
 city: Staufen im Breisgau
 street: "Im Gaisgraben"
 housenumber: 17

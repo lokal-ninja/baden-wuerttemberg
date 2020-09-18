@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7368839
 longitude: 8.7809594
-postcode: 75382
+postcode: "75382"
 city: Althengstett
 street: "Waldenserstraße"
 housenumber: 20

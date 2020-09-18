@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 49.5011931
 longitude: 8.470806900000001
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Waldhofstraße"
 housenumber: 41

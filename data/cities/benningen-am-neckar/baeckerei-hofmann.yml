@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.9449582
 longitude: 9.243001900000001
-postcode: 71726
+postcode: "71726"
 city: Benningen am Neckar
 street: "Studionstraße"
 housenumber: 3

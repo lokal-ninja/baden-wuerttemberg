@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.628863
 longitude: 10.0099842
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Dieselstraße"
 housenumber: 6

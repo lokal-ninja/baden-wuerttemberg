@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.6826238
 longitude: 9.764309800000001
-postcode: 73079
+postcode: "73079"
 city: Süßen
 street: "Fabrikstraße"
 housenumber: 6

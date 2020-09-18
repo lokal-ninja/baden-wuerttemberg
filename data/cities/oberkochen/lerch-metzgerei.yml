@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.7822497
 longitude: 10.104473200000001
-postcode: 73447
+postcode: "73447"
 city: Oberkochen
 street: "Heidenheimer Straße"
 housenumber: 31

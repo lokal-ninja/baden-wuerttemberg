@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.4175276
 longitude: 8.7614856
-postcode: 69118
+postcode: "69118"
 city: Heidelberg
 street: "Brahmsstraße"
 housenumber: 1a

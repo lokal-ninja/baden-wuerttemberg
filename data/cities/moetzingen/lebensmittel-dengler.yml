@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5315548
 longitude: 8.7792992
-postcode: 71159
+postcode: "71159"
 city: Mötzingen
 street: "Ochsenweg"
 housenumber: 6

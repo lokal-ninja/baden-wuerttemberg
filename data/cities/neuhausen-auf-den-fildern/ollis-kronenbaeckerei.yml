@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6840654
 longitude: 9.2793589
-postcode: 73765
+postcode: "73765"
 city: Neuhausen auf den Fildern
 street: "Marktstraße"
 housenumber: 5

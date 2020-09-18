@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 47.930040600000005
 longitude: 8.4496295
-postcode: 78199
+postcode: "78199"
 city: Bräunlingen
 street: "Grabenring"
 housenumber: 9

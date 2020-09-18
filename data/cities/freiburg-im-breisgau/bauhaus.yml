@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 47.9825122
 longitude: 7.820075600000001
-postcode: 79115
+postcode: "79115"
 city: Freiburg im Breisgau
 street: "Basler Straße"
 housenumber: 98

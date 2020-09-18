@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.411001500000005
 longitude: 8.8881121
-postcode: 72145
+postcode: "72145"
 city: Hirrlingen
 street: "Rottenburger Straße"
 housenumber: 1

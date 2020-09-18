@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.7099204
 longitude: 9.308442900000001
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Felix-Wankel-Straße"
 housenumber: 18

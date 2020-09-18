@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.683882700000005
 longitude: 9.8271035
-postcode: 
+postcode: ""
 city: Wangen im Allgäu
 street: "Lindauer Straße"
 housenumber: 43

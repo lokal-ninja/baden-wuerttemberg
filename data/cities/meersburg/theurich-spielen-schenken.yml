@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 47.695581000000004
 longitude: 9.2714432
-postcode: 88709
+postcode: "88709"
 city: Meersburg
 street: "Daisendorfer Straße"
 housenumber: 1

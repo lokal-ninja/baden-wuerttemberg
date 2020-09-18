@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.6794882
 longitude: 9.1690789
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Wollmatinger Straße"
 housenumber: 82

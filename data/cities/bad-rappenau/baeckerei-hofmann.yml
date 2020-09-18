@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2622542
 longitude: 9.148114300000001
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Neckarstraße"
 housenumber: 30

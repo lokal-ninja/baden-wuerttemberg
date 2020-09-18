@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8138913
 longitude: 9.113065200000001
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Löwen-Markt"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.582826700000005
 longitude: 9.367304200000001
-postcode: 74731
+postcode: "74731"
 city: Walldürn
 street: "Obere Vorstadtstraße"
 housenumber: 21

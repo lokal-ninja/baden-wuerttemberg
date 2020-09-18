@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4007457
 longitude: 8.6307477
-postcode: 69214
+postcode: "69214"
 city: Eppelheim
 street: "Scheffelstraße"
 housenumber: 4

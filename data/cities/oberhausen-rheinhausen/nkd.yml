@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.259956100000004
 longitude: 8.4845673
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Marienstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.0341225
 longitude: 9.3382688
-postcode: 71720
+postcode: "71720"
 city: Oberstenfeld
 street: "Hauptstraße"
 housenumber: 14

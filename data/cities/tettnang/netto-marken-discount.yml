@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6599708
 longitude: 9.5954764
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Enderwiesenstraße"
 housenumber: 7

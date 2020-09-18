@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 47.935697600000005
 longitude: 8.497099500000001
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Emil-von-Kessler-Straße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.486446300000004
 longitude: 7.924135700000001
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Hanns-Martin-Schleyer-Straße"
 housenumber: 14

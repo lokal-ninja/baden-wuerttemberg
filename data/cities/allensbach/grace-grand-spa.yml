@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.724145400000005
 longitude: 9.0704066
-postcode: 78476
+postcode: "78476"
 city: Allensbach
 street: "Prof.-Maier-Leibnitz-Straße"
 housenumber: 16

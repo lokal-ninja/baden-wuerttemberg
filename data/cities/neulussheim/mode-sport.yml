@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.293759300000005
 longitude: 8.521279700000001
-postcode: 68809
+postcode: "68809"
 city: Neulußheim
 street: "Altlußheimer Straße"
 housenumber: 4

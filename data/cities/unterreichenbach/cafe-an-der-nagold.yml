@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8243292
 longitude: 8.7097757
-postcode: 75399
+postcode: "75399"
 city: Unterreichenbach
 street: "Calwer Straße"
 housenumber: 23

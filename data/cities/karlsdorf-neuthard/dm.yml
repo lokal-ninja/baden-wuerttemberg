@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.1401545
 longitude: 8.5533812
-postcode: 76689
+postcode: "76689"
 city: Karlsdorf-Neuthard
 street: "Erich-Keßler-Straße"
 housenumber: 1a

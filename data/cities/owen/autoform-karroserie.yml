@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.581233600000004
 longitude: 9.447154300000001
-postcode: 73277
+postcode: "73277"
 city: Owen
 street: "In der Braike"
 housenumber: 26

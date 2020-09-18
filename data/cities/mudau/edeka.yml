@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.529985800000006
 longitude: 9.2039717
-postcode: 69427
+postcode: "69427"
 city: Mudau
 street: "Bahnhofstraße"
 housenumber: 5

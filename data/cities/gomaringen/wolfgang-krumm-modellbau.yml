@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.463959700000004
 longitude: 9.098148400000001
-postcode: 72810
+postcode: "72810"
 city: Gomaringen
 street: "Hermann-Hesse-Straße"
 housenumber: 26

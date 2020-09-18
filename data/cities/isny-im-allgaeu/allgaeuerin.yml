@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 47.6941051
 longitude: 10.041131100000001
-postcode: 88316
+postcode: "88316"
 city: Isny im Allgäu
 street: "Wassertorstraße"
 housenumber: 47

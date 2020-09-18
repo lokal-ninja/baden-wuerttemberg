@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.655269700000005
 longitude: 9.061678200000001
-postcode: 71101
+postcode: "71101"
 city: Schönaich
 street: "Schwabenstraße"
 housenumber: 1

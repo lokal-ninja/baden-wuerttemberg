@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.844080500000004
 longitude: 9.640606
-postcode: 88255
+postcode: "88255"
 city: Baindt
 street: "Wickenhauser Straße"
 housenumber: 92/1

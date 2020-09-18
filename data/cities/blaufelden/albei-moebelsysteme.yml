@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.295126800000006
 longitude: 9.967203000000001
-postcode: 74572
+postcode: "74572"
 city: Blaufelden
 street: "Hermann-Rapp-Straße"
 housenumber: 4

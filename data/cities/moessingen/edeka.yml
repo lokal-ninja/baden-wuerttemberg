@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.406802000000006
 longitude: 9.0386605
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Daimlerstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.141964
 longitude: 9.0569514
-postcode: 74193
+postcode: "74193"
 city: Schwaigern
 street: "Silcherstraße"
 housenumber: 1

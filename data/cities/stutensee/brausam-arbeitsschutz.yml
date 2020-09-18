@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.07484710000001
 longitude: 8.466266300000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Am Hasenbiel"
 housenumber: 40

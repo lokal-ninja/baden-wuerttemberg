@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.812572200000005
 longitude: 9.2073648
-postcode: 70376
+postcode: "70376"
 city: Stuttgart
 street: "Sparrhärmlingweg"
 housenumber: 14

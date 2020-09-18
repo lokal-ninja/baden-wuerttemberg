@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 48.3050543
 longitude: 9.8905381
-postcode: 89155
+postcode: "89155"
 city: Dellmensingen
 street: "Ersinger Straße"
 housenumber: 20

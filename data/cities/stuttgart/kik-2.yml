@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.819952300000004
 longitude: 9.21855
-postcode: 70376
+postcode: "70376"
 city: Stuttgart
 street: "Nagoldstraße"
 housenumber: 53-55

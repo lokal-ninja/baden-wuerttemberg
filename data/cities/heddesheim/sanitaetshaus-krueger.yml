@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.5045743
 longitude: 8.604855200000001
-postcode: 68542
+postcode: "68542"
 city: Heddesheim
 street: "Oberdorfstraße"
 housenumber: 12a

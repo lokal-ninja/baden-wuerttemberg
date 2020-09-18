@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.815049200000004
 longitude: 9.629558600000001
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Boschstraße"
 housenumber: 6

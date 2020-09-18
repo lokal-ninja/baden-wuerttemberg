@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.929371100000004
 longitude: 8.960670200000001
-postcode: 71665
+postcode: "71665"
 city: Vaihingen an der Enz
 street: "Stuttgarter Straße"
 housenumber: 62

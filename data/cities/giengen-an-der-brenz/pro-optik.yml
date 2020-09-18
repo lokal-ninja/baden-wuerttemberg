@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.6205652
 longitude: 10.245609700000001
-postcode: 89537
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Marktstraße"
 housenumber: 27

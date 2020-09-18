@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.9477666
 longitude: 9.4295305
-postcode: 71522
+postcode: "71522"
 city: Backnang
 street: "Im Biegel"
 housenumber: 8-10

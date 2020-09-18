@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.1307386
 longitude: 8.705288900000001
-postcode: 78665
+postcode: "78665"
 city: Frittlingen
 street: "Gewerbestraße"
 housenumber: 1

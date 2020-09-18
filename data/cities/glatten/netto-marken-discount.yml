@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4387423
 longitude: 8.502360300000001
-postcode: 72293
+postcode: "72293"
 city: Glatten
 street: "Lombacher Straße"
 housenumber: 69

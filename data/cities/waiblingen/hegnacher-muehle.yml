@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.859452600000004
 longitude: 9.3114291
-postcode: 71334
+postcode: "71334"
 city: Waiblingen
 street: "Hegnacher Mühle"
 housenumber: 1

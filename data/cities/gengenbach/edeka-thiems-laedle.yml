@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.403837800000005
 longitude: 8.0130192
-postcode: 
+postcode: ""
 city: Gengenbach
 street: "Hauptstraße"
 housenumber: 41

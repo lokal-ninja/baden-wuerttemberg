@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.235892500000006
 longitude: 9.6436936
-postcode: 89597
+postcode: "89597"
 city: Munderkingen
 street: "Donaustraße"
 housenumber: 23

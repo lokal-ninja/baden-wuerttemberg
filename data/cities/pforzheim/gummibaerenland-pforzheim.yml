@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.901700500000004
 longitude: 8.662491300000001
-postcode: 75179
+postcode: "75179"
 city: Pforzheim
 street: "Karlsruher Straße"
 housenumber: 24a

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.7784318
 longitude: 8.1760555
-postcode: 76547
+postcode: "76547"
 city: Sinzheim
 street: ""
 housenumber: 

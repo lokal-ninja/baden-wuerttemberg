@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 47.6768392
 longitude: 9.492472300000001
-postcode: 88048
+postcode: "88048"
 city: Friedrichshafen
 street: "Bodenseestraße"
 housenumber: 117-119

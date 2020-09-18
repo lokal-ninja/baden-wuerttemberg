@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.225027700000005
 longitude: 8.6533364
-postcode: 76669
+postcode: "76669"
 city: Bad Schönborn
 street: "Fontanestraße"
 housenumber: 1-5

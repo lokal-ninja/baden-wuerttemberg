@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.8467672
 longitude: 8.5554541
-postcode: 78176
+postcode: "78176"
 city: Blumberg
 street: "Nordwerk"
 housenumber: 8

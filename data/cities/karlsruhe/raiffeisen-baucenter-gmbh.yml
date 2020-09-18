@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.008400800000004
 longitude: 8.3248774
-postcode: 76189
+postcode: "76189"
 city: Karlsruhe
 street: "Fettweisstraße"
 housenumber: 12

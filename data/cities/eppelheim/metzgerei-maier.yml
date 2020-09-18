@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 49.401519300000004
 longitude: 8.6288703
-postcode: 69214
+postcode: "69214"
 city: Eppelheim
 street: "Hauptstraße"
 housenumber: 81
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-13:00, Fr 13:00-18:00; Sa 07:00-12:30"
 website: ""

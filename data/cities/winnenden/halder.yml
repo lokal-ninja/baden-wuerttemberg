@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 48.875770700000004
 longitude: 9.398489600000001
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Torstraße"
 housenumber: 5

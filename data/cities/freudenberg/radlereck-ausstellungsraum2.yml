@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.7426061
 longitude: 9.324339
-postcode: 97896
+postcode: "97896"
 city: Freudenberg
 street: "Hauptstraße"
 housenumber: 180

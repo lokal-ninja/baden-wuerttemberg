@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.33846440000001
 longitude: 8.3960982
-postcode: 72275
+postcode: "72275"
 city: Alpirsbach
 street: "Rötenbacher Straße"
 housenumber: 19

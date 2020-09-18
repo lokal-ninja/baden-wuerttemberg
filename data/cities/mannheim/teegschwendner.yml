@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.4863512
 longitude: 8.4674525
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 1

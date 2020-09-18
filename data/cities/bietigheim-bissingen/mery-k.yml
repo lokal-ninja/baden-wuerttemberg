@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.9410785
 longitude: 9.1473621
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Sudetenstraße"
 housenumber: 81

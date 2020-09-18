@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.180713000000004
 longitude: 9.2242561
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Heilbronner Straße"
 housenumber: 69

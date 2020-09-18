@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 48.802049800000006
 longitude: 9.7998508
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Vordere Schmiedgasse"
 housenumber: 21

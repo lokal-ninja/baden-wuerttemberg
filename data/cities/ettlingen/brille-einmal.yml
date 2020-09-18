@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.941586900000004
 longitude: 8.4044814
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Rheinstraße"
 housenumber: 3

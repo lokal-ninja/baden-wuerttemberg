@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.9207544
 longitude: 9.148266600000001
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Porschestraße"
 housenumber: 8

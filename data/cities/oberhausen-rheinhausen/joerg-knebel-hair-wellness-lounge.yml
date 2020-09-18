@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.25761180000001
 longitude: 8.484651300000001
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Kriegstraße"
 housenumber: 22

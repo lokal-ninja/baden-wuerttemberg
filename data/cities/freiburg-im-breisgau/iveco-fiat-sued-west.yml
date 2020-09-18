@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.028415300000006
 longitude: 7.8532267000000004
-postcode: 
+postcode: ""
 city: Freiburg im Breisgau
 street: "Hans-Bunte-Straße"
 housenumber: 9

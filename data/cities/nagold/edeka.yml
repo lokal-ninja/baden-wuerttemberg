@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.549506400000006
 longitude: 8.7226154
-postcode: 72202
+postcode: "72202"
 city: Nagold
 street: ""
 housenumber: 

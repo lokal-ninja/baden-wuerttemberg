@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7921295
 longitude: 9.9345224
-postcode: 73540
+postcode: "73540"
 city: Heubach
 street: "Hauptstraße"
 housenumber: 1

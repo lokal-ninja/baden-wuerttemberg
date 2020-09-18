@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 47.631571400000006
 longitude: 8.3178695
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Industriestraße"
 housenumber: 19

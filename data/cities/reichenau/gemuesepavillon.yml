@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 47.692523
 longitude: 9.0743364
-postcode: 78479
+postcode: "78479"
 city: Reichenau
 street: "Marktstraße"
 housenumber: 1

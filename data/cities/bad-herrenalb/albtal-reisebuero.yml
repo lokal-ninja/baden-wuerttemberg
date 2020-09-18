@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.7976954
 longitude: 8.436105000000001
-postcode: 76332
+postcode: "76332"
 city: Bad Herrenalb
 street: "Rathausplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.7823337
 longitude: 9.179830800000001
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Kronenstraße"
 housenumber: 4

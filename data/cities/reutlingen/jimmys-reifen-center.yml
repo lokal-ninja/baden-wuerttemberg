@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.490918
 longitude: 9.135272800000001
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Aspenhaustraße"
 housenumber: 5

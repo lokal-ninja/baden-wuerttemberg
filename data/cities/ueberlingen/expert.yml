@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.7753176
 longitude: 9.1878734
-postcode: 88662
+postcode: "88662"
 city: Überlingen
 street: "Abigstraße"
 housenumber: 1

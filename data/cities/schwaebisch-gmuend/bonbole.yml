@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 48.8015139
 longitude: 9.7974005
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Kappelgasse"
 housenumber: 2

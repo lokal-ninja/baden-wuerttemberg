@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1487655
 longitude: 7.701140700000001
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "Maria-Theresia-Straße"
 housenumber: 1

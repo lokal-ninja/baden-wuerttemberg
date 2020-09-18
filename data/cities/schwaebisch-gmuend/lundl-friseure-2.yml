@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.790019900000004
 longitude: 9.7756814
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Kolpingplatz"
 housenumber: 7

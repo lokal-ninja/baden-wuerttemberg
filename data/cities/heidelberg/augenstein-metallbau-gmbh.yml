@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.426425300000005
 longitude: 8.7477465
-postcode: 69118
+postcode: "69118"
 city: Heidelberg
 street: "Rainweg"
 housenumber: 35

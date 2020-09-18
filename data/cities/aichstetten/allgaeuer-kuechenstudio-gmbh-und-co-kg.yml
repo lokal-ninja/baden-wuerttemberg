@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.904839
 longitude: 10.0909894
-postcode: 88317
+postcode: "88317"
 city: Aichstetten
 street: "Ziegelbrunnen"
 housenumber: 88

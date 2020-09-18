@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.377631
 longitude: 8.5817292
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Rudolf-Diesel-Straße"
 housenumber: 10

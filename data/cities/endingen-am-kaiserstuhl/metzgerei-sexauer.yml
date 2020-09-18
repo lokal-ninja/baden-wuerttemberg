@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.1369149
 longitude: 7.6580776
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "Bahnhofstraße"
 housenumber: 8

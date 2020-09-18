@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 48.4917535
 longitude: 9.2139419
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Metzgerstraße"
 housenumber: 59

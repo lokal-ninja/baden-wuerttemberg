@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.6225145
 longitude: 9.0575433
-postcode: 71093
+postcode: "71093"
 city: Weil im Schönbuch
 street: "Hauptstraße"
 housenumber: 72

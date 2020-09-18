@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.4819613
 longitude: 9.255066900000001
-postcode: 72800
+postcode: "72800"
 city: Eningen unter Achalm
 street: "Reutlinger Straße"
 housenumber: 21

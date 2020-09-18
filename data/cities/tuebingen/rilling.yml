@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.5210158
 longitude: 9.0524862
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Kornhausstraße"
 housenumber: 13/15

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.4947851
 longitude: 9.2093592
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Karlstraße"
 housenumber: 1

@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 47.694608
 longitude: 9.7596944
-postcode: 88279
+postcode: "88279"
 city: Amtzell
 street: "Schomburger Straße"
 housenumber: 11
-phone: "+49  7520 2024022"
-opening_hours: "o-Fr 10:00-13:00, 14:00-19:00; Sa 09:00-16:00"
+phone: "+49 7520 2024022"
+opening_hours: "Mo-Fr 10:00-13:00, 14:00-19:00; Sa 09:00-16:00"
 website: "https://www.zweirad-stadl.de/"

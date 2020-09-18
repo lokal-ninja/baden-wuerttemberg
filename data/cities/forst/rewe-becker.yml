@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.147036
 longitude: 8.5880075
-postcode: 76694
+postcode: "76694"
 city: Forst
 street: "Bruchsaler Straße"
 housenumber: 67

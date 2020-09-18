@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.8016444
 longitude: 10.1834723
-postcode: 73432
+postcode: "73432"
 city: Aalen
 street: "Ebnater Hauptstraße"
 housenumber: 57

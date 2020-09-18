@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7459469
 longitude: 8.2566547
-postcode: 76534
+postcode: "76534"
 city: Baden-Baden
 street: "Hauptstraße"
 housenumber: 

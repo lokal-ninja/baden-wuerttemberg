@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2003665
 longitude: 9.527014600000001
-postcode: 74613
+postcode: "74613"
 city: Öhringen
 street: "Haller Straße"
 housenumber: 117

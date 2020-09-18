@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.530227000000004
 longitude: 9.3045518
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Stuttgarterstr."
 housenumber: 26

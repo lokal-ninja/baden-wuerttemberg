@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.6939271
 longitude: 8.1349044
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Hauptstraße"
 housenumber: 17

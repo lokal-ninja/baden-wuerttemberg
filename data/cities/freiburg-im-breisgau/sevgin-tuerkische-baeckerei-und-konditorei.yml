@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.000373700000004
 longitude: 7.8397959
-postcode: 79106
+postcode: "79106"
 city: Freiburg im Breisgau
 street: "Lehener Straße"
 housenumber: 25

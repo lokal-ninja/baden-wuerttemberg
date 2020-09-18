@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.638449200000004
 longitude: 9.4542397
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Dettinger Straße"
 housenumber: 107

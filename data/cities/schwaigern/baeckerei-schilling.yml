@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.130045200000005
 longitude: 9.0063885
-postcode: 74193
+postcode: "74193"
 city: Schwaigern
 street: "Bahnhofstraße"
 housenumber: 7

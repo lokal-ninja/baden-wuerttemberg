@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.996932
 longitude: 7.853491600000001
-postcode: 79098
+postcode: "79098"
 city: Freiburg im Breisgau
 street: "Nußmannstraße"
 housenumber: 5

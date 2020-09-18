@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.9719849
 longitude: 7.8292681
-postcode: 79249
+postcode: "79249"
 city: Merzhausen
 street: "Im Großacker"
 housenumber: 4a

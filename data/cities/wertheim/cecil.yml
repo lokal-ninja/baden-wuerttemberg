@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7601749
 longitude: 9.516681400000001
-postcode: 97877
+postcode: "97877"
 city: Wertheim
 street: "Maingasse"
 housenumber: 4

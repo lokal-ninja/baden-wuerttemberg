@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 47.8841898
 longitude: 8.3440218
-postcode: 79843
+postcode: "79843"
 city: Löffingen
 street: "Demetriusstraße"
 housenumber: 9

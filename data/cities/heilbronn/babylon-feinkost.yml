@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.1383932
 longitude: 9.2200614
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Am Wollhaus"
 housenumber: 18

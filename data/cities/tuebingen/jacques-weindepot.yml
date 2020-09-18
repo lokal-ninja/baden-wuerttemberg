@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.5128171
 longitude: 9.0706366
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Schweickhardtstraße"
 housenumber: 5

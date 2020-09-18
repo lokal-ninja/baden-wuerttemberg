@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 47.9895006
 longitude: 8.814942700000001
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Brückenstraße"
 housenumber: 25

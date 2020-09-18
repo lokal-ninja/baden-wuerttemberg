@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.683277200000006
 longitude: 9.1578786
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Fürstenbergstraße"
 housenumber: 103

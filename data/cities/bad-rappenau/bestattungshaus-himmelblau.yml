@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.2396152
 longitude: 9.1004055
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Kronenstraße"
 housenumber: 2/1

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.802951300000004
 longitude: 9.0905296
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Engelbergstraße"
 housenumber: 108

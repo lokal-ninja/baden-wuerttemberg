@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.7613945
 longitude: 7.578869900000001
-postcode: 79418
+postcode: "79418"
 city: Schliengen
 street: "Am Sonnenstück"
 housenumber: 3

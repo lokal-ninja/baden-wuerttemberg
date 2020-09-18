@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.1378136
 longitude: 9.0628001
-postcode: 74193
+postcode: "74193"
 city: Schwaigern
 street: "Neipperger Straße"
 housenumber: 1

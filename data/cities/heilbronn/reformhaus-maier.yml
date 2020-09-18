@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.14124210000001
 longitude: 9.2217689
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Allee"
 housenumber: 9

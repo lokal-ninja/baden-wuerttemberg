@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.715140100000006
 longitude: 9.0670204
-postcode: 78476
+postcode: "78476"
 city: Allensbach
 street: "Konstanzer Straße"
 housenumber: 10

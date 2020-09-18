@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.3768803
 longitude: 8.5862464
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Scheffelstraße"
 housenumber: 40

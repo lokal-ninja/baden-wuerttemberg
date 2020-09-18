@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.688039700000004
 longitude: 9.0065635
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Wolfgang-Brumme-Allee"
 housenumber: 27

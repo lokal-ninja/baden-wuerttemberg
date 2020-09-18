@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.2603348
 longitude: 8.4842075
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Marienstraße"
 housenumber: 1

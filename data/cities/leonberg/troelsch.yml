@@ -1,12 +1,12 @@
-id: 564314123
+id: 764954835
 type: node
 shop: Bäckerei
-latitude: 48.8169197
-longitude: 9.0175549
-postcode: 71229
+latitude: 48.8012821
+longitude: 9.015521600000001
+postcode: "71229"
 city: Leonberg
-street: "Pforzheimer Straße"
-housenumber: 2
+street: "Marktplatz"
+housenumber: 12
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:00-12:30; Su 07:30-10:30"
+opening_hours: "Mo-Fr 07:30-19:00;Sa-Su 07:30-18:00;PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.3293126
 longitude: 9.9323868
-postcode: 
+postcode: ""
 city: Donaustetten
 street: "Pfarrer-Höfflinger-Straße"
 housenumber: 6

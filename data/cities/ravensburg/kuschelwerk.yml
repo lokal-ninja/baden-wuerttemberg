@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 47.781885700000004
 longitude: 9.6162802
-postcode: 88212
+postcode: "88212"
 city: Ravensburg
 street: "Herrenstraße"
 housenumber: 19

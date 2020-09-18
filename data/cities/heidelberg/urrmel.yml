@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.4207915
 longitude: 8.6631059
-postcode: 69120
+postcode: "69120"
 city: Heidelberg
 street: "Im Neuenheimer Feld"
 housenumber: 706

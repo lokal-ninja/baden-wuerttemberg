@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8813906
 longitude: 8.3339535
-postcode: 76316
+postcode: "76316"
 city: Malsch
 street: "Adlerstraße"
 housenumber: 62

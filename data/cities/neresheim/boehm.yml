@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.755270700000004
 longitude: 10.3288873
-postcode: 73450
+postcode: "73450"
 city: Neresheim
 street: "Dossinger Weg"
 housenumber: 1

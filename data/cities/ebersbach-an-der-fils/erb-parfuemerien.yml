@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.7145798
 longitude: 9.5265083
-postcode: 73061
+postcode: "73061"
 city: Ebersbach an der Fils
 street: "Bahnhofstraße"
 housenumber: 1

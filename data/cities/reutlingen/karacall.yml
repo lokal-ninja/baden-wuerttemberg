@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.4969333
 longitude: 9.2127811
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Karlstraße"
 housenumber: 19

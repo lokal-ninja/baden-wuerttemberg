@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.653554
 longitude: 9.215183300000001
-postcode: 70794
+postcode: "70794"
 city: Filderstadt
 street: "Bonländer Hauptstraße"
 housenumber: 31

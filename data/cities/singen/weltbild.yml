@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 47.761274
 longitude: 8.838773
-postcode: 78224
+postcode: "78224"
 city: Singen
 street: "August-Ruf-Straße"
 housenumber: 11

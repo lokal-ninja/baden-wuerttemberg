@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6074192
 longitude: 9.3494712
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Eichendorffstraße"
 housenumber: 51

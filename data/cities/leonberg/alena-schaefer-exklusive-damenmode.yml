@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.80178900000001
 longitude: 9.0154171
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Marktplatz"
 housenumber: 26

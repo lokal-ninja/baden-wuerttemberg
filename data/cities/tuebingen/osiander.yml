@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.5204898
 longitude: 9.055799200000001
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Holzmarkt"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.912297200000005
 longitude: 8.2543266
-postcode: 76467
+postcode: "76467"
 city: Bietigheim
 street: "Badenstraße"
 housenumber: 17

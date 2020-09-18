@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7292872
 longitude: 8.1627085
-postcode: 76534
+postcode: "76534"
 city: Baden-Baden
 street: "Steinbacher Straße"
 housenumber: 29

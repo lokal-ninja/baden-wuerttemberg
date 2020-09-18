@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6232891
 longitude: 9.3290696
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Metzinger Straße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.8038481
 longitude: 9.216213100000001
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Marktstraße"
 housenumber: 6

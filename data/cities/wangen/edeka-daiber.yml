@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.718530300000005
 longitude: 9.610687500000001
-postcode: 73117
+postcode: "73117"
 city: Wangen
 street: "Siemensstraße"
 housenumber: 10

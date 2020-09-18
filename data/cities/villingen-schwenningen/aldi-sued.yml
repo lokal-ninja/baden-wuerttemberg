@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.0630894
 longitude: 8.5573697
-postcode: 78056
+postcode: "78056"
 city: Villingen-Schwenningen
 street: "Rottweiler Straße"
 housenumber: 110

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.8332605
 longitude: 9.1774874
-postcode: 70435
+postcode: "70435"
 city: Stuttgart
 street: "Marbacher Straße"
 housenumber: 48-52

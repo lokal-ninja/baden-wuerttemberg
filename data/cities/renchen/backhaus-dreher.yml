@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5840909
 longitude: 8.0050568
-postcode: 77871
+postcode: "77871"
 city: Renchen
 street: "Vogesenstraße"
 housenumber: 4

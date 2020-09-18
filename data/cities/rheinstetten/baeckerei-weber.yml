@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9596904
 longitude: 8.2923987
-postcode: 76287
+postcode: "76287"
 city: Rheinstetten
 street: "Karl-Friedrich-Straße"
 housenumber: 13

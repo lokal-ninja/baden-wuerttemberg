@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 48.770845
 longitude: 8.5828854
-postcode: 75323
+postcode: "75323"
 city: Bad Wildbad
 street: "Flößerstraße"
 housenumber: 14

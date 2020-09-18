@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.5062725
 longitude: 9.220308900000001
-postcode: 72766
+postcode: "72766"
 city: Reutlingen
 street: "Am Heilbrunnen"
 housenumber: 88

@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 47.610475400000006
 longitude: 7.6649766
-postcode: 79539
+postcode: "79539"
 city: Lörrach
 street: "Wallbrunnstraße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5329604
 longitude: 9.2026439
-postcode: 72768
+postcode: "72768"
 city: Reutlingen
 street: "Württemberger Straße"
 housenumber: 2

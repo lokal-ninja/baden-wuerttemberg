@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 47.651485
 longitude: 9.481180100000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Buchhornplatz"
 housenumber: 13
 phone: ""
-opening_hours: "09:00-18:00; Sa 09:00-17:00; Su,PH off"
+opening_hours: "09:00-18:00; Sa 09:00-17:00; PH,Su off"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Boot
 latitude: 49.4968731
 longitude: 8.502560200000001
-postcode: 68167
+postcode: "68167"
 city: Mannheim
 street: "Christian-Friedrich-Schwan-Straße"
 housenumber: 14

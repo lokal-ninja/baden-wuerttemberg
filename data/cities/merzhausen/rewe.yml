@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.965412300000004
 longitude: 7.8295715
-postcode: 79249
+postcode: "79249"
 city: Merzhausen
 street: "Hexentalstraße"
 housenumber: 49

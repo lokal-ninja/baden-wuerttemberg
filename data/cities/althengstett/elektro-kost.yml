@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.7365876
 longitude: 8.781234300000001
-postcode: 75382
+postcode: "75382"
 city: Althengstett
 street: "Waldenserstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.7261303
 longitude: 9.146822700000001
-postcode: 70567
+postcode: "70567"
 city: Stuttgart
 street: "Filderbahnstraße"
 housenumber: 10

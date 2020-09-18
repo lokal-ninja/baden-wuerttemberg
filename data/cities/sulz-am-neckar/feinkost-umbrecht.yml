@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.387496500000005
 longitude: 8.628943900000001
-postcode: 72172
+postcode: "72172"
 city: Sulz am Neckar
 street: "Oberamtstraße"
 housenumber: 64

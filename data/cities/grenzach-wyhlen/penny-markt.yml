@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.548388900000006
 longitude: 7.6944553
-postcode: 79639
+postcode: "79639"
 city: Grenzach-Wyhlen
 street: "Rheinfelder Straße"
 housenumber: 34

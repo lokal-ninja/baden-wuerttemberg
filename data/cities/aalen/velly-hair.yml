@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 48.8391881
 longitude: 10.092018600000001
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Beinstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.velly.de"
+website: "https://velly.de"

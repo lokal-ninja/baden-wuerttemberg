@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.003853500000005
 longitude: 9.5046116
-postcode: 71560
+postcode: "71560"
 city: Sulzbach an der Murr
 street: "Milchstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.782684200000006
 longitude: 10.1042936
-postcode: 73447
+postcode: "73447"
 city: Oberkochen
 street: "Heidenheimer Straße"
 housenumber: 22

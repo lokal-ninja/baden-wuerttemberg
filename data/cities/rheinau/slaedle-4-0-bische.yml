@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.653162200000004
 longitude: 7.9267780000000005
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Kronenstraße"
 housenumber: 36

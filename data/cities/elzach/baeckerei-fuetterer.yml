@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.1726053
 longitude: 8.0686629
-postcode: 79215
+postcode: "79215"
 city: Elzach
 street: "Nikolausstraße"
 housenumber: 4

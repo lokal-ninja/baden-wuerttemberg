@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.6763987
 longitude: 9.479762500000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Albert-Maier-Straße"
 housenumber: 13/1

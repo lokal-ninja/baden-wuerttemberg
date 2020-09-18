@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 47.921841900000004
 longitude: 7.738793
-postcode: 79238
+postcode: "79238"
 city: Ehrenkirchen
 street: "Lazarus-Schwendi-Straße"
 housenumber: 12

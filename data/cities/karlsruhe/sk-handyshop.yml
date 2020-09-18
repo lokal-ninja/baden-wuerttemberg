@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 48.9938774
 longitude: 8.400711600000001
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Bahnhofplatz"
 housenumber: 1

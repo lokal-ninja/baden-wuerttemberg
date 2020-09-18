@@ -1,12 +1,12 @@
-id: 28869646
-type: way
+id: 7379584819
+type: node
 shop: Supermarkt
-latitude: 49.0371955
-longitude: 8.3916454
-postcode: 76149
+latitude: 49.0211142
+longitude: 8.3543115
+postcode: "76185"
 city: Karlsruhe
-street: "Lorbeerweg"
-housenumber: 1
+street: "Borsigstraße"
+housenumber: 11
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Sa 08:00-21:00"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=%20Borsigstra%C3%9Fe%2011%2076185%20Karlsruhe-M%C3%BChlburg&Mode=None"

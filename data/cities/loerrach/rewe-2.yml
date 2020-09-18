@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.610989100000005
 longitude: 7.6622678
-postcode: 79539
+postcode: "79539"
 city: Lörrach
 street: "Am Alten Markt"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.3375524
 longitude: 8.800644700000001
-postcode: 69256
+postcode: "69256"
 city: Mauer
 street: "Kirchenstraße"
 housenumber: 26

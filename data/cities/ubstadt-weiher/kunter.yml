@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.180436
 longitude: 8.6229979
-postcode: 76698
+postcode: "76698"
 city: Ubstadt-Weiher
 street: "Hirschstraße"
 housenumber: 9

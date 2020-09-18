@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.146770100000005
 longitude: 9.2104652
-postcode: 74076
+postcode: "74076"
 city: Heilbronn
 street: "Paula-Fuchs-Allee"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.0313644
 longitude: 8.3055895
-postcode: 76187
+postcode: "76187"
 city: Karlsruhe
 street: "Maxau am Rhein"
 housenumber: 24

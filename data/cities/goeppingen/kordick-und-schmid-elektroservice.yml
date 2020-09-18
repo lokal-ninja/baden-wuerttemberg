@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.6894179
 longitude: 9.6297288
-postcode: 73035
+postcode: "73035"
 city: Göppingen
 street: "Herdweg"
 housenumber: 4

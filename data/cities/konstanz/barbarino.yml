@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.672636600000004
 longitude: 9.1829798
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Zähringerplatz"
 housenumber: 9

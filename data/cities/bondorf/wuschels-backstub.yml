@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.521173700000006
 longitude: 8.8327778
-postcode: 71149
+postcode: "71149"
 city: Bondorf
 street: "Hindenburgstraße"
 housenumber: 50

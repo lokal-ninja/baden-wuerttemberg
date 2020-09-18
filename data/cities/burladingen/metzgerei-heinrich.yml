@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.315543500000004
 longitude: 9.064429800000001
-postcode: 72393
+postcode: "72393"
 city: Burladingen
 street: "Unterdorfstraße"
 housenumber: 7

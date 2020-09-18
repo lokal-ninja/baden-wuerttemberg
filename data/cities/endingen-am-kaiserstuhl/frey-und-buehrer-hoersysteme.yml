@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.1408058
 longitude: 7.7043742
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "Ritterstraße"
 housenumber: 7

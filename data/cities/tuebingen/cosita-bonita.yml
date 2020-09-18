@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 48.5203235
 longitude: 9.0522819
-postcode: 
+postcode: ""
 city: Tübingen
 street: "Haaggasse"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Hanf
 latitude: 48.9044315
 longitude: 8.6576196
-postcode: 75179
+postcode: "75179"
 city: Pforzheim
 street: "Mannheimer Straße"
 housenumber: 21

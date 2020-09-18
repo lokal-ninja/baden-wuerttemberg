@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.527558500000005
 longitude: 9.1416962
-postcode: 72138
+postcode: "72138"
 city: Kirchentellinsfurt
 street: "Wannweiler Straße"
 housenumber: 48

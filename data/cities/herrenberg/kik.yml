@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.5938377
 longitude: 8.8642243
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Bahnhofstraße"
 housenumber: 13

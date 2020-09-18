@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2347942
 longitude: 9.6539216
-postcode: 89597
+postcode: "89597"
 city: Munderkingen
 street: "Stöcklenstraße"
 housenumber: 20

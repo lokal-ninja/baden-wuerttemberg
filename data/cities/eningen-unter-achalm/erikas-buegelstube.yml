@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.486905500000006
 longitude: 9.2577412
-postcode: 72800
+postcode: "72800"
 city: Eningen unter Achalm
 street: "Burgstraße"
 housenumber: 11

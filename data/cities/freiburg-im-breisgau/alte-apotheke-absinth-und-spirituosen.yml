@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 47.9973733
 longitude: 7.8388318
-postcode: 79106
+postcode: "79106"
 city: Freiburg im Breisgau
 street: "Klarastraße"
 housenumber: 60

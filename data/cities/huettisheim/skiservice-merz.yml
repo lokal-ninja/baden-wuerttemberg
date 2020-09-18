@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.282446300000004
 longitude: 9.9361581
-postcode: 89185
+postcode: "89185"
 city: Hüttisheim
 street: "Gassenäcker"
 housenumber: 4

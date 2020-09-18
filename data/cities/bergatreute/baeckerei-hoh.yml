@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.850476900000004
 longitude: 9.7477509
-postcode: 88368
+postcode: "88368"
 city: Bergatreute
 street: "Untere Gasse"
 housenumber: 6

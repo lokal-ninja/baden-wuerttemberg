@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 49.1476526
 longitude: 8.5467794
-postcode: 76689
+postcode: "76689"
 city: Karlsdorf-Neuthard
 street: "Lußhardtstraße"
 housenumber: 1

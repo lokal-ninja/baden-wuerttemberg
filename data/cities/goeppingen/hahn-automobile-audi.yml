@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.6964507
 longitude: 9.664004400000001
-postcode: 73037
+postcode: "73037"
 city: Göppingen
 street: "Heininger Straße"
 housenumber: 16

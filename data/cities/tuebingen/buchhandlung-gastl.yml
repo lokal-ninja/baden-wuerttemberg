@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.521514800000006
 longitude: 9.0570941
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Am Lustnauer Tor"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.2848271
 longitude: 9.0013672
-postcode: 72461
+postcode: "72461"
 city: Albstadt
 street: "Wilhelmstraße"
 housenumber: 4

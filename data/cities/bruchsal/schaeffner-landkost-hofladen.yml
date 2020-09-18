@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.1092334
 longitude: 8.5280368
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Neutharder Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.7520636
 longitude: 9.171981800000001
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Obere Weinsteige"
 housenumber: 23

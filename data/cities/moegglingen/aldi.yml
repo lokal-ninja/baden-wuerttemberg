@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.815989
 longitude: 9.958831100000001
-postcode: 73563
+postcode: "73563"
 city: Mögglingen
 street: "Heubacher Straße"
 housenumber: 39

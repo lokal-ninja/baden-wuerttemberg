@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8184406
 longitude: 8.3316061
-postcode: 79848
+postcode: "79848"
 city: Bonndorf im Schwarzwald
 street: "Lenzkircher Straße"
 housenumber: 24

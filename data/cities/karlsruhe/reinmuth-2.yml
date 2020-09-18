@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9994261
 longitude: 8.4623431
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Christofstraße"
 housenumber: 11

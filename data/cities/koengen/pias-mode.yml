@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.6836701
 longitude: 9.3626266
-postcode: 73257
+postcode: "73257"
 city: Köngen
 street: "Hirschstraße"
 housenumber: 15

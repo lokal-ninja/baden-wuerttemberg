@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.506433200000004
 longitude: 9.220842300000001
-postcode: 72766
+postcode: "72766"
 city: Reutlingen
 street: "Am Heilbrunnen"
 housenumber: 88

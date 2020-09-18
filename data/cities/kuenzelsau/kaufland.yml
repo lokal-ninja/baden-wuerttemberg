@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.277596700000004
 longitude: 9.684161300000001
-postcode: 74653
+postcode: "74653"
 city: Künzelsau
 street: "Bergstraße"
 housenumber: 10-12

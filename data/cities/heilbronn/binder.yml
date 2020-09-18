@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.1438593
 longitude: 9.2206638
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Sülmerstraße"
 housenumber: 33

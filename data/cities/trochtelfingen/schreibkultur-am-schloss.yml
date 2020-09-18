@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.3075617
 longitude: 9.243377500000001
-postcode: 72818
+postcode: "72818"
 city: Trochtelfingen
 street: "Marktstraße"
 housenumber: 11

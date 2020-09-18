@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.005064700000005
 longitude: 8.3205656
-postcode: 76189
+postcode: "76189"
 city: Karlsruhe
 street: "Babbergerstraße"
 housenumber: 7

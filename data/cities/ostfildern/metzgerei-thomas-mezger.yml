@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.7301146
 longitude: 9.2521497
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Kronenstraße"
 housenumber: 37

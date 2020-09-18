@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.76304510000001
 longitude: 9.2692906
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Uhlbacher Straße"
 housenumber: 2

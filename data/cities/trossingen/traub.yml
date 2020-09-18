@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.077792900000006
 longitude: 8.6398317
-postcode: 78647
+postcode: "78647"
 city: Trossingen
 street: "Vogtswinkel"
 housenumber: 11

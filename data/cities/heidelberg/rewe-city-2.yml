@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.414137700000005
 longitude: 8.685653
-postcode: 69120
+postcode: "69120"
 city: Heidelberg
 street: "Ladenburger Straße"
 housenumber: 68

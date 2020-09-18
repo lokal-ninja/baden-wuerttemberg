@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.2954286
 longitude: 8.7025033
-postcode: 69168
+postcode: "69168"
 city: Wiesloch
 street: "Altwieslocher Straße"
 housenumber: 3

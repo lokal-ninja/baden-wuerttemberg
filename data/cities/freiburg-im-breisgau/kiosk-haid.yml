@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 47.9882822
 longitude: 7.7961955000000005
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Munzinger Straße"
 housenumber: 1

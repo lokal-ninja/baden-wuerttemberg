@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 48.520790700000006
 longitude: 9.0552126
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Collegiumsgasse"
 housenumber: 12

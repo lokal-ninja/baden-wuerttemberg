@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.816713500000006
 longitude: 9.4205746
-postcode: 73630
+postcode: "73630"
 city: Remshalden
 street: "Olgastraße"
 housenumber: 5

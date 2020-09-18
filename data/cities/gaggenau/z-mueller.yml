@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8032915
 longitude: 8.3198972
-postcode: 76571
+postcode: "76571"
 city: Gaggenau
 street: "Hauptstraße"
 housenumber: 65

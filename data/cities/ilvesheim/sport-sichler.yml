@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.471605200000006
 longitude: 8.5669143
-postcode: 68549
+postcode: "68549"
 city: Ilvesheim
 street: "Schloßstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.626391700000006
 longitude: 9.8233327
-postcode: 73312
+postcode: "73312"
 city: Geislingen an der Steige
 street: "Stuttgarter Straße"
 housenumber: 144

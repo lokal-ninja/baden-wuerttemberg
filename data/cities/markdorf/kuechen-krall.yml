@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 47.720454100000005
 longitude: 9.3862722
-postcode: 88677
+postcode: "88677"
 city: Markdorf
 street: "Mangoldstraße"
 housenumber: 10a

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.8886328
 longitude: 9.1260267
-postcode: 71696
+postcode: "71696"
 city: Möglingen
 street: "Bahnhofstraße"
 housenumber: 21

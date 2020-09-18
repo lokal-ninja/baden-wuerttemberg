@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.120341700000004
 longitude: 7.850092900000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Marktplatz"
 housenumber: 11

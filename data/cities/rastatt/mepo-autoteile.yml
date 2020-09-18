@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 48.8604806
 longitude: 8.2190023
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Rauentaler Straße"
 housenumber: 24

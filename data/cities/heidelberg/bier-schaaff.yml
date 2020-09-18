@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.4105597
 longitude: 8.6485315
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Wieblinger Weg"
 housenumber: 97

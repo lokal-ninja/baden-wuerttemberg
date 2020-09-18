@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 49.1374513
 longitude: 10.0724189
-postcode: 74564
+postcode: "74564"
 city: Crailsheim
 street: "Karlstraße"
 housenumber: 21

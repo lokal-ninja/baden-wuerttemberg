@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.1393994
 longitude: 9.2439791
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Jägerhausstraße"
 housenumber: 46

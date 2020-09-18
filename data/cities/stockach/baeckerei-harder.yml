@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8147329
 longitude: 8.965204
-postcode: 78333
+postcode: "78333"
 city: Stockach
 street: "Leonhardstraße"
 housenumber: 4

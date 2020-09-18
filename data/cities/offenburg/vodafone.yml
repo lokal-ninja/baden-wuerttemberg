@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.4704089
 longitude: 7.943135700000001
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Metzgerstraße"
 housenumber: 57

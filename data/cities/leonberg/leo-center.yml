@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 48.796265600000005
 longitude: 9.0113366
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Römerstraße"
 housenumber: 98 -110

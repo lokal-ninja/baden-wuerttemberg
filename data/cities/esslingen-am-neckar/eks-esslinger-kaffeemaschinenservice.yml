@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.738601100000004
 longitude: 9.312945800000001
-postcode: 73728
+postcode: "73728"
 city: Esslingen am Neckar
 street: "Obertorstraße"
 housenumber: 19

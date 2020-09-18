@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.3936871
 longitude: 8.566472000000001
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Friedrich-Ebert-Straße"
 housenumber: 76

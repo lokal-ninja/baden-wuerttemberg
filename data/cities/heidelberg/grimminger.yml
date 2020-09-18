@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.429802
 longitude: 8.681339000000001
-postcode: 69121
+postcode: "69121"
 city: Heidelberg
 street: "Mühlingstraße"
 housenumber: 10

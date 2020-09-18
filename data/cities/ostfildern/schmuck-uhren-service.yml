@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 48.712803
 longitude: 9.3012744
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Esslinger Straße"
 housenumber: 2

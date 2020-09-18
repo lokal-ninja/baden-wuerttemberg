@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0061516
 longitude: 9.3021569
-postcode: 71723
+postcode: "71723"
 city: Großbottwar
 street: "Hoftalstraße"
 housenumber: 1

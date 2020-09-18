@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.7810033
 longitude: 9.179041
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Stephanstraße"
 housenumber: 30

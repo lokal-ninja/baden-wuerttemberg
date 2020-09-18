@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 48.7816661
 longitude: 9.179278
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Kronenstraße"
 housenumber: 7

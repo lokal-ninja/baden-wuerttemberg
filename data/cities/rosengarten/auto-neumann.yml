@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0711225
 longitude: 9.7243356
-postcode: 74538
+postcode: "74538"
 city: Rosengarten
 street: "Schollenäcker"
 housenumber: 4

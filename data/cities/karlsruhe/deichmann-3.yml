@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.0064794
 longitude: 8.403025600000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Ettlinger-Tor-Platz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 49.284041900000005
 longitude: 9.1612562
-postcode: 74831
+postcode: "74831"
 city: Gundelsheim
 street: "Oststraße"
 housenumber: 5

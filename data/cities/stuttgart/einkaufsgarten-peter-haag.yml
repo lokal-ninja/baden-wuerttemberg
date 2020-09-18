@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 48.7384932
 longitude: 9.1679929
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Chemnitzer Straße"
 housenumber: 23

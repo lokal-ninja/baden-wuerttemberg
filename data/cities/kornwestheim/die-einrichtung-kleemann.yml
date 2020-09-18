@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.864667700000005
 longitude: 9.2070181
-postcode: 70806
+postcode: "70806"
 city: Kornwestheim
 street: "Enzstraße"
 housenumber: 22

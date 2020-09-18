@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 48.4044059
 longitude: 9.051269900000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Breite Straße"
 housenumber: 23

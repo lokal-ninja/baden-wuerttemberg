@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 48.059590400000005
 longitude: 8.4593256
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: "Rietstraße"
 housenumber: 5

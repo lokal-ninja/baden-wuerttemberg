@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.5971831
 longitude: 9.722926300000001
-postcode: 73326
+postcode: "73326"
 city: Deggingen
 street: "Mühlstraße"
 housenumber: 3

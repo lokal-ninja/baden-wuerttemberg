@@ -1,12 +1,12 @@
 id: 1707453513
 type: node
 shop: Computer
-latitude: 48.7078001
-longitude: 8.763770300000001
-postcode: 75365
+latitude: 48.7057178
+longitude: 8.767195300000001
+postcode: "75365"
 city: Calw
-street: "Kimmichwiesen"
-housenumber: 7
+street: "Gottlob-Bauknecht-Straße"
+housenumber: 35
 phone: "+49 7051 926810"
 opening_hours: ""
 website: "http://www.highlight-computer.de/"

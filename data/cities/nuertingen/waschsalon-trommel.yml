@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.625801800000005
 longitude: 9.3425782
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Neuffener Straße"
 housenumber: 1

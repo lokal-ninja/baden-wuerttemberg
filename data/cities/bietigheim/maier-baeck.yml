@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.913774700000005
 longitude: 8.249614600000001
-postcode: 76467
+postcode: "76467"
 city: Bietigheim
 street: "Kirchstraße"
 housenumber: 34

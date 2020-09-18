@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.010810600000006
 longitude: 8.4245245
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Rintheimer Straße"
 housenumber: 10

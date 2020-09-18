@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 49.112460000000006
 longitude: 8.513811500000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Adlerstraße"
 housenumber: 31

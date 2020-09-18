@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.368044000000005
 longitude: 9.492913600000001
-postcode: 74214
+postcode: "74214"
 city: Schöntal
 street: "Seestraße"
 housenumber: 10

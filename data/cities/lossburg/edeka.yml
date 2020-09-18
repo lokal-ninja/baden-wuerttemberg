@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.406583000000005
 longitude: 8.4500252
-postcode: 72290
+postcode: "72290"
 city: Loßburg
 street: "Arthur-Hehl-Straße"
 housenumber: 20

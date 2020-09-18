@@ -1,12 +1,12 @@
 id: 388564325
 type: node
 shop: Fahrrad
-latitude: 49.075344
-longitude: 8.3935081
-postcode: 76344
+latitude: 49.0752705
+longitude: 8.3939765
+postcode: "76344"
 city: Eggenstein-Leopoldshafen
 street: "Moltkestraße"
-housenumber: 32
+housenumber: 32 A
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu,Th 09:00-12:30,15:00-18:00; Fr 09:00-12:30,15:00-19:00; We,Sa 09:00-14:00"
 website: ""

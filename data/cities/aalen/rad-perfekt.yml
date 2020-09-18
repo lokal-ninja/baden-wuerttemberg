@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.864877
 longitude: 10.1075912
-postcode: 73433
+postcode: "73433"
 city: Aalen
 street: "Kolpingstraße"
 housenumber: 10

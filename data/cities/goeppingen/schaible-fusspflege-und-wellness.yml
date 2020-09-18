@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.7246388
 longitude: 9.6549923
-postcode: 73035
+postcode: "73035"
 city: Göppingen
 street: "Rehsteige"
 housenumber: 6

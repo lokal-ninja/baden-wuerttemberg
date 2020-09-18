@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.0647803
 longitude: 9.0661422
-postcode: 74336
+postcode: "74336"
 city: Brackenheim
 street: "Hindenburgstraße"
 housenumber: 1

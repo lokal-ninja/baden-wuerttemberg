@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.135759900000004
 longitude: 9.2125388
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Schoettlestraße"
 housenumber: 2

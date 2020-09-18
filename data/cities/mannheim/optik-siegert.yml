@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.4869301
 longitude: 8.5298704
-postcode: 68259
+postcode: "68259"
 city: Mannheim
 street: "Hauptstraße"
 housenumber: 78

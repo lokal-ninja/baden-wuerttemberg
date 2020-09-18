@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.1475224
 longitude: 7.7012647
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "Maria-Theresia-Straße"
 housenumber: 2

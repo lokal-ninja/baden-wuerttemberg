@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.2105624
 longitude: 9.0948896
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Obere Mühle"
 housenumber: 28

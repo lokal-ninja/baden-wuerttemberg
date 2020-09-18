@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.4108217
 longitude: 8.8875793
-postcode: 72145
+postcode: "72145"
 city: Hirrlingen
 street: "Brunnenstraße"
 housenumber: 2

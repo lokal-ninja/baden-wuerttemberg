@@ -1,12 +1,12 @@
-id: 622958096
+id: 230365154
 type: way
 shop: Kiosk
-latitude: 48.8130935
-longitude: 9.1104555
-postcode: 70499
+latitude: 48.843981400000004
+longitude: 9.1583626
+postcode: "70439"
 city: Stuttgart
-street: "Solitudestraße"
-housenumber: 207
+street: "Freihofstraße"
+housenumber: 77
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: "Mo-Fr 06:00-22:00; Sa,Su,PH 07:00-22:00"
 website: ""

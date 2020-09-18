@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.385917000000006
 longitude: 8.5726952
-postcode: 68723
+postcode: "68723"
 city: Schwetzingen
 street: "Dreikönigstraße"
 housenumber: 10

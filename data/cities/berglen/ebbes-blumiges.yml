@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.859295800000005
 longitude: 9.4671303
-postcode: 73663
+postcode: "73663"
 city: Berglen
 street: "G.-F.-Händel-Straße"
 housenumber: 11

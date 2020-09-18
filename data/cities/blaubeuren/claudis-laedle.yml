@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.408724400000004
 longitude: 9.7854624
-postcode: 89143
+postcode: "89143"
 city: Blaubeuren
 street: "Weilerstraße"
 housenumber: 41

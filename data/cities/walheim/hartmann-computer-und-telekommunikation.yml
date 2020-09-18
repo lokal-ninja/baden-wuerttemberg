@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.0112639
 longitude: 9.1544162
-postcode: 74399
+postcode: "74399"
 city: Walheim
 street: "Hauptstraße"
 housenumber: 65/2

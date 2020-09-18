@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.1103729
 longitude: 8.601806
-postcode: 78652
+postcode: "78652"
 city: Deißlingen
 street: "Kurze Straße"
 housenumber: 8

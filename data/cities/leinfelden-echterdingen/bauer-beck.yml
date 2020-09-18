@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.691048200000004
 longitude: 9.1672078
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Leinfelder Straße"
 housenumber: 2

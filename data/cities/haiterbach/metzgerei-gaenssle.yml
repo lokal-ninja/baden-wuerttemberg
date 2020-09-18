@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.5505039
 longitude: 8.6624247
-postcode: 72221
+postcode: "72221"
 city: Haiterbach
 street: "Schwalbenstraße"
 housenumber: 4

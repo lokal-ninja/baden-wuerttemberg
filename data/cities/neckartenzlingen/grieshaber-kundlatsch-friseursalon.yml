@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.5885626
 longitude: 9.253713900000001
-postcode: 72654
+postcode: "72654"
 city: Neckartenzlingen
 street: "Lerchenweg"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.4014071
 longitude: 8.6766974
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Czernyring"
 housenumber: 15

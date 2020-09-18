@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 48.640407100000004
 longitude: 9.4533856
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Dettinger Straße"
 housenumber: 92

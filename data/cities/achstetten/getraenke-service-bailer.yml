@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.262084900000005
 longitude: 9.892941200000001
-postcode: 
+postcode: ""
 city: Achstetten
 street: "Langer Weg"
 housenumber: 8/1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.1707843
 longitude: 9.2243159
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Rötelstraße"
 housenumber: 35

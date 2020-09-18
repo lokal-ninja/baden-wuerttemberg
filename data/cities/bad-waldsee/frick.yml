@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.918826
 longitude: 9.755841700000001
-postcode: 88339
+postcode: "88339"
 city: Bad Waldsee
 street: "Friedhofstraße"
 housenumber: 3

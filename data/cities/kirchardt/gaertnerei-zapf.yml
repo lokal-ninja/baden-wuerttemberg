@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 49.21032030000001
 longitude: 8.9938809
-postcode: 74912
+postcode: "74912"
 city: Kirchardt
 street: "Grombacher Straße"
 housenumber: 35

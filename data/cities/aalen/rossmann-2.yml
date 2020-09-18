@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.8362434
 longitude: 10.0920995
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Marktplatz"
 housenumber: 26

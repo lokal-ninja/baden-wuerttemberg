@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.763321100000006
 longitude: 8.3385307
-postcode: 76593
+postcode: "76593"
 city: Gernsbach
 street: "Gottlieb-Klumpp-Straße"
 housenumber: 16

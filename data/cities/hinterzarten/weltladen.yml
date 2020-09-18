@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.9051072
 longitude: 8.1063354
-postcode: 79856
+postcode: "79856"
 city: Hinterzarten
 street: "Adlerweg"
 housenumber: 2

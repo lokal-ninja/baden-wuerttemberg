@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.7290822
 longitude: 9.2530534
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Kirchheimer Straße"
 housenumber: 46

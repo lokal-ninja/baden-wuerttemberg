@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.4357976
 longitude: 8.5257468
-postcode: 68219
+postcode: "68219"
 city: Mannheim
 street: "Relaisstraße"
 housenumber: 47-49

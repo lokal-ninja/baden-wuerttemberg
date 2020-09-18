@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 48.7517629
 longitude: 8.5486442
-postcode: 75323
+postcode: "75323"
 city: Bad Wildbad
 street: "König-Karl-Straße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 48.706046400000005
 longitude: 9.6015102
-postcode: 73066
+postcode: "73066"
 city: Uhingen
 street: "Römerstraße"
 housenumber: 75

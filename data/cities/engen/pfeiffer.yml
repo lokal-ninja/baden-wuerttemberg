@@ -3,7 +3,7 @@ type: way
 shop: Uhren
 latitude: 47.854024
 longitude: 8.771520500000001
-postcode: 78234
+postcode: "78234"
 city: Engen
 street: "Peterstraße"
 housenumber: 13

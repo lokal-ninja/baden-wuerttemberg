@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.233321700000005
 longitude: 9.1914344
-postcode: 74177
+postcode: "74177"
 city: Bad Friedrichshall
 street: "Deutschordenstraße"
 housenumber: 19

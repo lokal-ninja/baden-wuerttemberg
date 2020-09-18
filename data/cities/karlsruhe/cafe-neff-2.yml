@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.999214
 longitude: 8.473631000000001
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.910124700000004
 longitude: 9.176740500000001
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Geisinger Straße"
 housenumber: 15

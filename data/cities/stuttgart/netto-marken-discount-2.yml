@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7645149
 longitude: 9.1712495
-postcode: 70180
+postcode: "70180"
 city: Stuttgart
 street: "Heusteigstraße"
 housenumber: 105

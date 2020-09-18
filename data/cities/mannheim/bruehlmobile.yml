@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.410339
 longitude: 8.543802300000001
-postcode: 68782
+postcode: "68782"
 city: Mannheim
 street: "Alte Mannheimer Landstraße"
 housenumber: 2

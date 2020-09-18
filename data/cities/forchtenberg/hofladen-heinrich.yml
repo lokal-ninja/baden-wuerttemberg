@@ -3,10 +3,10 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.2898926
 longitude: 9.56417
-postcode: 74670
+postcode: "74670"
 city: Forchtenberg
 street: "Bahnhofstraße"
-housenumber: 12-14
+housenumber: 14
 phone: "+49 7947 9438840"
-opening_hours: ""
+opening_hours: "Mo-Th 08:00-13:00,14:30-18:00; Fr 08:00-18:00; Sa 08:00-13:00"
 website: "http://heinrich-oehringen.pmagri.de/verkaufsstellen/hoflaeden.htm"

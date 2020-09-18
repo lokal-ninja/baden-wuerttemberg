@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.232174
 longitude: 8.792783100000001
-postcode: 72359
+postcode: "72359"
 city: Dotternhausen
 street: "Robert-Koch-Straße"
 housenumber: 7

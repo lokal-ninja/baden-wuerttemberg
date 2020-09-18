@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.4103823
 longitude: 8.5219562
-postcode: 68782
+postcode: "68782"
 city: Brühl
 street: "Rheinauer Straße"
 housenumber: 15

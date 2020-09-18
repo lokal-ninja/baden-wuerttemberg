@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9524534
 longitude: 8.500395300000001
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Karlstraße"
 housenumber: 48

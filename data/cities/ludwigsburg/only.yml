@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.899544500000005
 longitude: 9.1906187
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Marstallstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 48.1065266
 longitude: 8.6004869
-postcode: 78652
+postcode: "78652"
 city: Deißlingen
 street: "Schwarzwaldstraße"
 housenumber: 8

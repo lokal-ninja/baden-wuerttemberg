@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 49.1601439
 longitude: 9.218084300000001
-postcode: 74076
+postcode: "74076"
 city: Heilbronn
 street: "Austraße"
 housenumber: 61

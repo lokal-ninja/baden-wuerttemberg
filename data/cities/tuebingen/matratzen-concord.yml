@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 48.5221292
 longitude: 9.041333
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Eckenerstraße"
 housenumber: 2

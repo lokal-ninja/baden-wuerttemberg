@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.121315
 longitude: 9.7340146
-postcode: 74523
+postcode: "74523"
 city: Schwäbisch Hall
 street: "Salinenstraße"
 housenumber: 35

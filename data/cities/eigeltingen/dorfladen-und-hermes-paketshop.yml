@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.857739
 longitude: 8.8950013
-postcode: 78253
+postcode: "78253"
 city: Eigeltingen
 street: "Hauptstraße"
 housenumber: 38

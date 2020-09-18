@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 49.004375800000005
 longitude: 8.4503122
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Durlacher Allee"
 housenumber: 111

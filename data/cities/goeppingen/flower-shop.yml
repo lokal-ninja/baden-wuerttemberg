@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.701827
 longitude: 9.6528866
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Grabenstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 49.4062263
 longitude: 8.6729231
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Emil-Maier-Straße"
 housenumber: 9

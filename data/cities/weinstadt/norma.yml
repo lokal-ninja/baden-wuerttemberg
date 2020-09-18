@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.8143426
 longitude: 9.3835184
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Benzstraße"
 housenumber: 10

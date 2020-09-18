@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 47.868909
 longitude: 8.2006501
-postcode: 79853
+postcode: "79853"
 city: Lenzkirch
 street: "Haldenweg"
 housenumber: 1

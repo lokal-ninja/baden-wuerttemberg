@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.911321300000004
 longitude: 9.466945200000001
-postcode: 71573
+postcode: "71573"
 city: Allmersbach im Tal
 street: "Backnanger Straße"
 housenumber: 100

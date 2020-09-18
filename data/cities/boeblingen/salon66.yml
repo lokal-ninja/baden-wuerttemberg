@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6876936
 longitude: 8.9969172
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Leonardo-da-Vinci-Platz"
 housenumber: 7

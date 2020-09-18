@@ -3,7 +3,7 @@ type: way
 shop: Sammler
 latitude: 48.341632000000004
 longitude: 7.872599600000001
-postcode: 77933
+postcode: "77933"
 city: Lahr/Schwarzwald
 street: "Kaiserstraße"
 housenumber: 4

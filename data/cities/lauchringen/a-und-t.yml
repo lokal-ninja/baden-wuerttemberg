@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.623025000000005
 longitude: 8.3277262
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Mühleweg"
 housenumber: 12

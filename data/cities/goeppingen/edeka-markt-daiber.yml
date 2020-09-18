@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7010402
 longitude: 9.654891600000001
-postcode: 73033
+postcode: "73033"
 city: Göppingen
 street: "Apostelhof"
 housenumber: 1

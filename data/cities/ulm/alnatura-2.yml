@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4005748
 longitude: 9.970697600000001
-postcode: 89077
+postcode: "89077"
 city: Ulm
 street: "Blaubeurer Straße"
 housenumber: 53

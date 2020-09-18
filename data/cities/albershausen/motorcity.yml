@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.699206000000004
 longitude: 9.569821300000001
-postcode: 73095
+postcode: "73095"
 city: Albershausen
 street: "Staufenstraße"
 housenumber: 18

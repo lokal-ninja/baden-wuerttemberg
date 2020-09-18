@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.489764300000004
 longitude: 9.213045900000001
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Kanzleistraße"
 housenumber: 51

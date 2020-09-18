@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.059697
 longitude: 8.4572263
-postcode: 78050
+postcode: "78050"
 city: Villingen-Schwenningen
 street: "Rietstraße"
 housenumber: 31

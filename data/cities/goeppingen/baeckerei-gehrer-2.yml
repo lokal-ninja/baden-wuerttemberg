@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.6877312
 longitude: 9.6291851
-postcode: 73035
+postcode: "73035"
 city: Göppingen
 street: "Vorderer Berg"
 housenumber: 16

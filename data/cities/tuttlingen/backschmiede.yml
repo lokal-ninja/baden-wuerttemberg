@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.9836134
 longitude: 8.8180403
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Helfereistraße"
 housenumber: 13

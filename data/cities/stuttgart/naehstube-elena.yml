@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 48.748434700000004
 longitude: 9.1701908
-postcode: 70597
+postcode: "70597"
 city: Stuttgart
 street: "Felix-Dahn-Straße"
 housenumber: 11 A

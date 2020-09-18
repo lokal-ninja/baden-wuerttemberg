@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.0391242
 longitude: 9.1440137
-postcode: 74366
+postcode: "74366"
 city: Kirchheim am Neckar
 street: "Besigheimer Straße"
 housenumber: 62

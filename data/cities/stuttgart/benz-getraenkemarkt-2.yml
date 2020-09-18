@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.724245
 longitude: 9.1240456
-postcode: 70565
+postcode: "70565"
 city: Stuttgart
 street: "Industriestraße"
 housenumber: 49A

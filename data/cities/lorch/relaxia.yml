@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.7862674
 longitude: 9.637689
-postcode: 73547
+postcode: "73547"
 city: Lorch
 street: "Bahnhofstraße"
 housenumber: 20/1

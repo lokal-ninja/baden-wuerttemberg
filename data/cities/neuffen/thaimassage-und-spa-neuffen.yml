@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.561299000000005
 longitude: 9.3809336
-postcode: 72639
+postcode: "72639"
 city: Neuffen
 street: "Max-Planck-Straße"
 housenumber: 2

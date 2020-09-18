@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 49.2292342
 longitude: 9.1899493
-postcode: 74206
+postcode: "74206"
 city: Bad Wimpfen
 street: "Brühlstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 49.294130800000005
 longitude: 8.6626256
-postcode: 69190
+postcode: "69190"
 city: Walldorf
 street: "Wiesenstraße"
 housenumber: 4

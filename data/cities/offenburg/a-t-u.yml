@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.486019500000005
 longitude: 7.9419602000000005
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Englerstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.0307971
 longitude: 8.4713803
-postcode: 76229
+postcode: "76229"
 city: Karlsruhe
 street: "An der Rossweid"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.662504000000006
 longitude: 7.938614800000001
-postcode: 77866
+postcode: "77866"
 city: Rheinau
 street: "Stadionstraße"
 housenumber: 6b

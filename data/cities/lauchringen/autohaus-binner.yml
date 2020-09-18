@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 47.624036000000004
 longitude: 8.324432100000001
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Eberwiesenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 48.781710700000005
 longitude: 9.1820913
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Königstraße"
 housenumber: 1 B

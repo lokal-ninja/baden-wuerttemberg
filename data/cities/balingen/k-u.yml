@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.2721323
 longitude: 8.8765809
-postcode: 72336
+postcode: "72336"
 city: Balingen
 street: "Lisztstraße"
 housenumber: 97

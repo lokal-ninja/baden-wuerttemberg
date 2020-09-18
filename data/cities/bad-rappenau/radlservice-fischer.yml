@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.237929900000005
 longitude: 9.0914254
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Riemenstraße"
 housenumber: 12

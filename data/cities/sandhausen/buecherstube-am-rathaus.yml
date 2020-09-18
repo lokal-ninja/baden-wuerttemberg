@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 49.3425248
 longitude: 8.6594345
-postcode: 69207
+postcode: "69207"
 city: Sandhausen
 street: "Bahnhofstraße"
 housenumber: 5

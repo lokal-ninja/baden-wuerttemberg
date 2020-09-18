@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 48.2758345
 longitude: 8.088234100000001
-postcode: 77716
+postcode: "77716"
 city: Haslach im Kinzigtal
 street: "Mühlenbacher Straße"
 housenumber: 7

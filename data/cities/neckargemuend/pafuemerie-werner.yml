@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.394676100000005
 longitude: 8.7967264
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Hauptstraße"
 housenumber: 75

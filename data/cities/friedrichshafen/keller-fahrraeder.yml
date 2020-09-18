@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.674803600000004
 longitude: 9.499682700000001
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Spatenstraße"
 housenumber: 20

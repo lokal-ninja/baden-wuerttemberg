@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.070987
 longitude: 8.6364169
-postcode: 78647
+postcode: "78647"
 city: Trossingen
 street: "Ernst-Haller-Straße"
 housenumber: 29/2

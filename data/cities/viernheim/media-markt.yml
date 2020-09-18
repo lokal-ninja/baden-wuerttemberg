@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.527653
 longitude: 8.5687435
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Bürgermeister-Neff-Straße"
 housenumber: 17

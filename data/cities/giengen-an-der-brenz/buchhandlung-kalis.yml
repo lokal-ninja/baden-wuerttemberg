@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.620590400000005
 longitude: 10.245492500000001
-postcode: 89537
+postcode: "89537"
 city: Giengen an der Brenz
 street: "Marktstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 48.6277422
 longitude: 9.331769300000001
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "Neckarstraße"
 housenumber: 4

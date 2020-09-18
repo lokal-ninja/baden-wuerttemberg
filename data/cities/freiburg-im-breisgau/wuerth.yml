@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 47.983131500000006
 longitude: 7.7799421
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Bötzinger Straße"
 housenumber: 51

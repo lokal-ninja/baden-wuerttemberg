@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.807055000000005
 longitude: 9.5169894
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Mittlere Uferstraße"
 housenumber: 5

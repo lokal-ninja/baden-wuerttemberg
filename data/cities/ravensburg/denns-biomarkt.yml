@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.780683700000004
 longitude: 9.6064483
-postcode: 88214
+postcode: "88214"
 city: Ravensburg
 street: "Jahnstraße"
 housenumber: 5

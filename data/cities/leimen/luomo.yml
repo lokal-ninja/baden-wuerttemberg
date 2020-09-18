@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.349003800000006
 longitude: 8.6904517
-postcode: 69181
+postcode: "69181"
 city: Leimen
 street: "Turmgasse"
 housenumber: 

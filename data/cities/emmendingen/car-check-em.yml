@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 48.128045400000005
 longitude: 7.8250497
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Am Elzdamm"
 housenumber: 50

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.890067800000004
 longitude: 8.2663062
-postcode: 76467
+postcode: "76467"
 city: Bietigheim
 street: "Obere Hardt"
 housenumber: 3

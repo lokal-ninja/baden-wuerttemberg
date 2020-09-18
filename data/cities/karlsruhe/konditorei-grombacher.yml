@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.028108100000004
 longitude: 8.4560314
-postcode: 76139
+postcode: "76139"
 city: Karlsruhe
 street: "Karlsruher Straße"
 housenumber: 43

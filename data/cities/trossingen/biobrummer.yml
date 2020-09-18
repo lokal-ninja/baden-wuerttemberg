@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.072526800000006
 longitude: 8.6334689
-postcode: 78647
+postcode: "78647"
 city: Trossingen
 street: "Ernst-Haller-Straße"
 housenumber: 6

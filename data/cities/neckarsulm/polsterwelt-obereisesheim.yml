@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.196956500000006
 longitude: 9.2050687
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Silcherstraße"
 housenumber: 21

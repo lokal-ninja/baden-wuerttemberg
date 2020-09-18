@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.5595542
 longitude: 7.7871676
-postcode: 79618
+postcode: "79618"
 city: Rheinfelden (Baden)
 street: "Zähringerstraße"
 housenumber: 12

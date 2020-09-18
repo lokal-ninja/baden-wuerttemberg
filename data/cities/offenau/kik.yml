@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.239271
 longitude: 9.1664899
-postcode: 74254
+postcode: "74254"
 city: Offenau
 street: "Talweg"
 housenumber: 20

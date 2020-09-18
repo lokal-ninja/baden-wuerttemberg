@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.842384800000005
 longitude: 8.5355383
-postcode: 75334
+postcode: "75334"
 city: Straubenhardt
 street: "Neuenbürger Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.509424100000004
 longitude: 9.0593685
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Hechinger Straße"
 housenumber: 64

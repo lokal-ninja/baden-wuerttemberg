@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.079108000000005
 longitude: 10.1293349
-postcode: 88457
+postcode: "88457"
 city: Kirchdorf an der Iller
 street: "Griesweg"
 housenumber: 24

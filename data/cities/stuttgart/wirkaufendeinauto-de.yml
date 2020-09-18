@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.7729914
 longitude: 9.1320326
-postcode: 70195
+postcode: "70195"
 city: Stuttgart
 street: "Lindpaintnerstraße"
 housenumber: 5

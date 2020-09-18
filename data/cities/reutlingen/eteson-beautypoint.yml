@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.502158900000005
 longitude: 9.2064866
-postcode: 72760
+postcode: "72760"
 city: Reutlingen
 street: "Föhrstraße"
 housenumber: 1

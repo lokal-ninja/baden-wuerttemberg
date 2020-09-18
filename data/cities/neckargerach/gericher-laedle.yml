@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.400831600000004
 longitude: 9.069503800000001
-postcode: 69437
+postcode: "69437"
 city: Neckargerach
 street: "Hauptstraße"
 housenumber: 14

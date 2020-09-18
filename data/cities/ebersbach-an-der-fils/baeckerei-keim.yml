@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.717421300000005
 longitude: 9.5340418
-postcode: 73061
+postcode: "73061"
 city: Ebersbach an der Fils
 street: "Hauptstraße"
 housenumber: 83

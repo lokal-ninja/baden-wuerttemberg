@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.9799601
 longitude: 7.8069755
-postcode: 79111
+postcode: "79111"
 city: Freiburg im Breisgau
 street: "Am Mettweg"
 housenumber: 34

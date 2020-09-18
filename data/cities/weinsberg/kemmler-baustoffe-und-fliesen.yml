@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 49.145427700000006
 longitude: 9.3059492
-postcode: 74189
+postcode: "74189"
 city: Weinsberg
 street: "Am Autobahnkreuz"
 housenumber: 9-13

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.0939326
 longitude: 7.961038200000001
-postcode: 79183
+postcode: "79183"
 city: Waldkirch
 street: "Marktplatz"
 housenumber: 2

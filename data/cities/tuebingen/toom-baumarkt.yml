@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.513670600000005
 longitude: 9.073101300000001
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Reutlinger Straße"
 housenumber: 65

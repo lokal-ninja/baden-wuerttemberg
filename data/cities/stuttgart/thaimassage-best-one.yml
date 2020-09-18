@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.772092
 longitude: 9.1738012
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Sophienstraße"
 housenumber: 24b

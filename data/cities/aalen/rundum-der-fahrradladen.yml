@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.8636958
 longitude: 10.103152900000001
-postcode: 73433
+postcode: "73433"
 city: Aalen
 street: "Wilhelmstraße"
 housenumber: 30

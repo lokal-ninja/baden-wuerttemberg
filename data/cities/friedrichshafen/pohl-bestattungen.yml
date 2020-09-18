@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 47.6756747
 longitude: 9.4748307
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Hermann-Metzger-Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4944107
 longitude: 8.458986000000001
-postcode: 68159
+postcode: "68159"
 city: Mannheim
 street: "Böckstraße"
 housenumber: 5

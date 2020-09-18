@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.7725176
 longitude: 9.2424903
-postcode: 70327
+postcode: "70327"
 city: Stuttgart
 street: "Buchauer Straße"
 housenumber: 2

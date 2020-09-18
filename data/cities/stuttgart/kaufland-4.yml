@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.839937500000005
 longitude: 9.2290629
-postcode: 70378
+postcode: "70378"
 city: Stuttgart
 street: "Aldinger Straße"
 housenumber: 70

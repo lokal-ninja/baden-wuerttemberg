@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7155697
 longitude: 9.4143171
-postcode: 73207
+postcode: "73207"
 city: Plochingen
 street: "Karlstraße"
 housenumber: 29

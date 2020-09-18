@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.8234617
 longitude: 9.798001000000001
-postcode: 73557
+postcode: "73557"
 city: Mutlangen
 street: "Johannesstraße"
 housenumber: 2

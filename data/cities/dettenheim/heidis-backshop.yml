@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.164252600000005
 longitude: 8.420705700000001
-postcode: 76706
+postcode: "76706"
 city: Dettenheim
 street: "Goethestraße"
 housenumber: 18 A

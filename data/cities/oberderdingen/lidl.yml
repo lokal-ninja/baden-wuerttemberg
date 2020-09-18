@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.0733666
 longitude: 8.7923376
-postcode: 75038
+postcode: "75038"
 city: Oberderdingen
 street: "Flehinger Straße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.9310867
 longitude: 8.2682163
-postcode: 
+postcode: ""
 city: Durmersheim
 street: "Hauptstraße"
 housenumber: 63

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.4563466
 longitude: 8.6994424
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Hahnerstraße"
 housenumber: 8

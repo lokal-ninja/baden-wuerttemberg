@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 47.560677500000004
 longitude: 7.9647873
-postcode: 79713
+postcode: "79713"
 city: Bad Säckingen
 street: "Unter dem Dorf"
 housenumber: 3

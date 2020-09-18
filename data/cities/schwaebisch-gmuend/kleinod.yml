@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.7989801
 longitude: 9.7984205
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Milchgäßle"
 housenumber: 7

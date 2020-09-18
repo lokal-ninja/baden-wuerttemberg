@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.669521100000004
 longitude: 9.515298900000001
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Flughafen"
 housenumber: 29

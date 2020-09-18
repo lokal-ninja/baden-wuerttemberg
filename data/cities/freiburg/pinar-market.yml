@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 47.994231600000006
 longitude: 7.8111614000000005
-postcode: 79114
+postcode: "79114"
 city: Freiburg
 street: "Krozinger Straße"
 housenumber: 9

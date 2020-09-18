@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0007347
 longitude: 8.3925614
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Klauprechtstraße"
 housenumber: 13

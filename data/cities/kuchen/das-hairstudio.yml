@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.635657
 longitude: 9.7997698
-postcode: 73329
+postcode: "73329"
 city: Kuchen
 street: "Seetalbachstraße"
 housenumber: 6

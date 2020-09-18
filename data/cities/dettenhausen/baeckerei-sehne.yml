@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.609690500000006
 longitude: 9.1095048
-postcode: 72135
+postcode: "72135"
 city: Dettenhausen
 street: "Breitwasenring"
 housenumber: 58/1

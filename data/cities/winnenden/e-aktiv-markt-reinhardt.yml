@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.876204300000005
 longitude: 9.4043238
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Wiesenstraße"
 housenumber: 29, 31

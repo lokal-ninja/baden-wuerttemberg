@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 48.903800700000005
 longitude: 8.6575504
-postcode: 75179
+postcode: "75179"
 city: Pforzheim
 street: "Karlsruher Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.0710385
 longitude: 8.4561089
-postcode: 78048
+postcode: "78048"
 city: Villingen-Schwenningen
 street: "Vockenhauser Straße"
 housenumber: 15

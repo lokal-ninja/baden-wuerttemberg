@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.639606
 longitude: 9.460094400000001
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Tannenbergstraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.0089538
 longitude: 8.4104256
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Fritz-Erler-Straße"
 housenumber: 1-3

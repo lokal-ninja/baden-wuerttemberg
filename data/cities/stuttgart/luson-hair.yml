@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.8138122
 longitude: 9.111389500000001
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Rennstraße"
 housenumber: 2

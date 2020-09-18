@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0354417
 longitude: 8.7014569
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Wilhelmstraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.4078035
 longitude: 8.6921927
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Rohrbacher Straße"
 housenumber: 8

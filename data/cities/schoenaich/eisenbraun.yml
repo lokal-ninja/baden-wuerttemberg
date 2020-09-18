@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.656541100000005
 longitude: 9.0625242
-postcode: 71101
+postcode: "71101"
 city: Schönaich
 street: "Große Gasse"
 housenumber: 28

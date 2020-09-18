@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4156631
 longitude: 9.109753300000001
-postcode: 72116
+postcode: "72116"
 city: Mössingen
 street: "Falkenstraße"
 housenumber: 4

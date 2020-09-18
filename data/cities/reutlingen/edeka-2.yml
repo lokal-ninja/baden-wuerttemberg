@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4871889
 longitude: 9.1906648
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Friedrich-Naumann-Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.8241461
 longitude: 10.057949
-postcode: 73431
+postcode: "73431"
 city: Aalen
 street: "Carl-Zeiss-Straße"
 housenumber: 16

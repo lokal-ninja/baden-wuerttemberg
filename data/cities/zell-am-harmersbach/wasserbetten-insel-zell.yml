@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 48.3398776
 longitude: 8.057597600000001
-postcode: 77736
+postcode: "77736"
 city: Zell am Harmersbach
 street: "Am Galgenfeld"
 housenumber: 2

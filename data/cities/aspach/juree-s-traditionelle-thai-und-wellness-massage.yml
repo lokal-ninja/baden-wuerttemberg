@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 48.9659491
 longitude: 9.4023012
-postcode: 71546
+postcode: "71546"
 city: Aspach
 street: "Karlstraße"
 housenumber: 7

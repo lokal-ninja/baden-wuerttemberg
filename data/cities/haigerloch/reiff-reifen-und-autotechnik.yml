@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.3853996
 longitude: 8.8155011
-postcode: 72401
+postcode: "72401"
 city: Haigerloch
 street: "Salenhofweg"
 housenumber: 6

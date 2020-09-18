@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.914324400000005
 longitude: 9.7438815
-postcode: 88339
+postcode: "88339"
 city: Bad Waldsee
 street: "Im Ballenmoos"
 housenumber: 2/1

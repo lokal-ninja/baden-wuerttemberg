@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.7208124
 longitude: 9.2721122
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Niemöllerstraße"
 housenumber: 7/1

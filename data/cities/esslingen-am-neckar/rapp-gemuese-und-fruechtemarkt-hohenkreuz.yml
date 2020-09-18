@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.751551500000005
 longitude: 9.3144515
-postcode: 73732
+postcode: "73732"
 city: Esslingen am Neckar
 street: "Wäldenbronner Straße"
 housenumber: 27

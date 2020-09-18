@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.1413541
 longitude: 9.0554555
-postcode: 74193
+postcode: "74193"
 city: Schwaigern
 street: "Frizstraße"
 housenumber: 2a

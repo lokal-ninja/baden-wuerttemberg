@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.568371500000005
 longitude: 8.0888545
-postcode: 79725
+postcode: "79725"
 city: Laufenburg (Baden)
 street: "Feldgrabenstraße"
 housenumber: 3

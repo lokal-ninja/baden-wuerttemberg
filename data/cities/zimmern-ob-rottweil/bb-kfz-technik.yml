@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.171004800000006
 longitude: 8.578726600000001
-postcode: 78658
+postcode: "78658"
 city: Zimmern ob Rottweil
 street: "Robert-Bosch-Straße"
 housenumber: 11

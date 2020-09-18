@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.169431100000004
 longitude: 8.6252064
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Kriegsdamm"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.757840800000004
 longitude: 9.253672
-postcode: 70329
+postcode: "70329"
 city: Stuttgart
 street: "Rohrackerstraße"
 housenumber: 21

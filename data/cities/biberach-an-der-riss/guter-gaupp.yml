@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.0904454
 longitude: 9.776903500000001
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Wolfentalstraße"
 housenumber: 40

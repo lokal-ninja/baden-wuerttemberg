@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.359634500000006
 longitude: 8.982289
-postcode: 74858
+postcode: "74858"
 city: Aglasterhausen
 street: "Am Henschelberg"
 housenumber: 1

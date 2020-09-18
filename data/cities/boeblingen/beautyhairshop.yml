@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.6878454
 longitude: 9.006936600000001
-postcode: 71034
+postcode: "71034"
 city: Böblingen
 street: "Wolfgang-Brumme-Allee"
 housenumber: 27

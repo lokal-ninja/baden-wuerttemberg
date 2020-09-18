@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.832292900000006
 longitude: 9.2633238
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Gotthilf-Bayh-Straße"
 housenumber: 2

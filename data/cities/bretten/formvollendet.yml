@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.036496400000004
 longitude: 8.7085837
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Weißhofer Straße"
 housenumber: 8

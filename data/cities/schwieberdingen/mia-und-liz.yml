@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.876207300000004
 longitude: 9.0749914
-postcode: 71701
+postcode: "71701"
 city: Schwieberdingen
 street: "Brunnenhof"
 housenumber: 1

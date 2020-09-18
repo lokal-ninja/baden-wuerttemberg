@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.3179357
 longitude: 8.2162513
-postcode: 77709
+postcode: "77709"
 city: Oberwolfach
 street: "Wolftalstraße"
 housenumber: 26

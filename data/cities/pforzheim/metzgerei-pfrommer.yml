@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.910138
 longitude: 8.7507488
-postcode: 75181
+postcode: "75181"
 city: Pforzheim
 street: "Sägewerkstraße"
 housenumber: 1-5

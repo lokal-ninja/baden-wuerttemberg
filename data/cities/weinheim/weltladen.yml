@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.5489863
 longitude: 8.671946
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Hauptstraße"
 housenumber: 90

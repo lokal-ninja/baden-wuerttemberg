@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.1422268
 longitude: 7.702975
-postcode: 79346
+postcode: "79346"
 city: Endingen am Kaiserstuhl
 street: "St. Jakobsgäßli"
 housenumber: 1

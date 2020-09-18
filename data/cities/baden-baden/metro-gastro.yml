@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.815466900000004
 longitude: 8.196475900000001
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Lärchenstraße"
 housenumber: 4

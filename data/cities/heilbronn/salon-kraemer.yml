@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.1267483
 longitude: 9.221692800000001
-postcode: 74074
+postcode: "74074"
 city: Heilbronn
 street: "Hohenstaufenstraße"
 housenumber: 57

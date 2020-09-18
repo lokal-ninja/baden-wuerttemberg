@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.0145336
 longitude: 7.824203000000001
-postcode: 79110
+postcode: "79110"
 city: Freiburg im Breisgau
 street: "Elsässer Straße"
 housenumber: 52

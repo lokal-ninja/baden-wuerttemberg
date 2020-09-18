@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 47.9516384
 longitude: 8.4971748
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Max-Egon-Straße"
 housenumber: 13

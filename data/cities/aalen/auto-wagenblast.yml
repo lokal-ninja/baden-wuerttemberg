@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.828377200000006
 longitude: 10.0786169
-postcode: 73431
+postcode: "73431"
 city: Aalen
 street: "Obere Bahnstraße"
 housenumber: 78

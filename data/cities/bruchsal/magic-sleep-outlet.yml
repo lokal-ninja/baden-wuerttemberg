@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.1356404
 longitude: 8.5919573
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Pfinzstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.8374236
 longitude: 10.0927846
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Gmünder Straße"
 housenumber: 1

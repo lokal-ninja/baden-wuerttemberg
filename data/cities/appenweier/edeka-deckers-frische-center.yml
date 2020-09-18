@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5349859
 longitude: 7.975209100000001
-postcode: 77767
+postcode: "77767"
 city: Appenweier
 street: "Sander Straße"
 housenumber: 1

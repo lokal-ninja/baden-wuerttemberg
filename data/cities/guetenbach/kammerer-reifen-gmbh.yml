@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.041074200000004
 longitude: 8.1695601
-postcode: 78148
+postcode: "78148"
 city: Gütenbach
 street: "Ob der Eck"
 housenumber: 3

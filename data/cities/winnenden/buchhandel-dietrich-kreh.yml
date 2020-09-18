@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.874921
 longitude: 9.4009575
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Marktstraße"
 housenumber: 58

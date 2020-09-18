@@ -3,7 +3,7 @@ type: node
 shop: Maschinen
 latitude: 49.033247700000004
 longitude: 8.4747264
-postcode: 76229
+postcode: "76229"
 city: Karlsruhe
 street: "Greschbachstraße"
 housenumber: 14

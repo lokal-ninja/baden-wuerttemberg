@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2595466
 longitude: 8.4826038
-postcode: 68794
+postcode: "68794"
 city: Oberhausen-Rheinhausen
 street: "Jahnstraße"
 housenumber: 12

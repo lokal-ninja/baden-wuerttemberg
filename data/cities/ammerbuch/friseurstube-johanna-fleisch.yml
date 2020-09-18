@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.534778300000006
 longitude: 8.9455784
-postcode: 72119
+postcode: "72119"
 city: Ammerbuch
 street: "Aiblestraße"
 housenumber: 21

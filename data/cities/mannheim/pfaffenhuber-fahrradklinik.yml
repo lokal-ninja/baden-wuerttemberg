@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.5197094
 longitude: 8.501911400000001
-postcode: 68305
+postcode: "68305"
 city: Mannheim
 street: "Speckweg"
 housenumber: 179-181

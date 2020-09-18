@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.9814376
 longitude: 9.7157392
-postcode: 74427
+postcode: "74427"
 city: Fichtenberg
 street: "Aspachweg"
 housenumber: 6

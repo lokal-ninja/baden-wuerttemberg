@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.1413981
 longitude: 9.220182300000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Kiliansplatz"
 housenumber: 2

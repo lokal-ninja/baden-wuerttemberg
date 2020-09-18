@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.8076001
 longitude: 9.4950214
-postcode: 88263
+postcode: "88263"
 city: Horgenzell
 street: "Unterholz"
 housenumber: 4

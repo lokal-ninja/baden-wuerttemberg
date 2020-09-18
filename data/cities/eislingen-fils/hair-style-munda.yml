@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.699404300000005
 longitude: 9.707379000000001
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Hauptstraße"
 housenumber: 60

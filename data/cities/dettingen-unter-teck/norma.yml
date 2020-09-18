@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.625298300000004
 longitude: 9.4550549
-postcode: 73265
+postcode: "73265"
 city: Dettingen unter Teck
 street: "Kirchheimer Straße"
 housenumber: 172

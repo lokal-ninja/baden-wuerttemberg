@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 48.4849089
 longitude: 9.253602
-postcode: 72800
+postcode: "72800"
 city: Eningen unter Achalm
 street: "Wengenstraße"
 housenumber: 19

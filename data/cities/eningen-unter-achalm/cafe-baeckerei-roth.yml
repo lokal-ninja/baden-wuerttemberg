@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.4848269
 longitude: 9.259549900000001
-postcode: 72800
+postcode: "72800"
 city: Eningen unter Achalm
 street: "Grabenstraße"
 housenumber: 2

@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 48.518534700000004
 longitude: 9.0578353
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Uhlandstraße"
 housenumber: 2/1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su 13:00-17:00"
 website: ""

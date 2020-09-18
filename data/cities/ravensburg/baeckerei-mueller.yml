@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.782198900000004
 longitude: 9.570810700000001
-postcode: 88213
+postcode: "88213"
 city: Ravensburg
 street: "Rümelinstraße"
 housenumber: 7

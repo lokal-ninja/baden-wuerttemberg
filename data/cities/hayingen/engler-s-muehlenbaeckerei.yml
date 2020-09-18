@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.275877900000005
 longitude: 9.4776301
-postcode: 
+postcode: ""
 city: Hayingen
 street: "Josefstraße"
 housenumber: 1

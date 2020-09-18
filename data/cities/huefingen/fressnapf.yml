@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 47.9335013
 longitude: 8.497284
-postcode: 78183
+postcode: "78183"
 city: Hüfingen
 street: "Lindenpark"
 housenumber: 24

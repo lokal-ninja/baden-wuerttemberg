@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.037148300000005
 longitude: 8.706308400000001
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Melanchthonstraße"
 housenumber: 10

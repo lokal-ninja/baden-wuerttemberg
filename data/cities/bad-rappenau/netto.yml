@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.235215100000005
 longitude: 9.093889
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Raiffeisenstraße"
 housenumber: 29

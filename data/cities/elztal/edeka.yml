@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.380402600000004
 longitude: 9.1861029
-postcode: 74834
+postcode: "74834"
 city: Elztal
 street: "Untere Augartenstraße"
 housenumber: 35

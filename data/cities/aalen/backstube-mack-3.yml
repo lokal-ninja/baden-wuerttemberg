@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.868647700000004
 longitude: 10.1080257
-postcode: 73433
+postcode: "73433"
 city: Aalen
 street: "Ellwanger Straße"
 housenumber: 22

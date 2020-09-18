@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.6366006
 longitude: 9.341262500000001
-postcode: 72622
+postcode: "72622"
 city: Nürtingen
 street: "In der Au"
 housenumber: 3

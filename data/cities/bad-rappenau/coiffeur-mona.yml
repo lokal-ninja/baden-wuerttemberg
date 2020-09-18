@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.2551098
 longitude: 9.039645400000001
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Grombacher Straße"
 housenumber: 11

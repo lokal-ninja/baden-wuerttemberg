@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.803390300000004
 longitude: 9.535770600000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Göppinger Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6973836
 longitude: 9.717067
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Salacher Straße"
 housenumber: 85

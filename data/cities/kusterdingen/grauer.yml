@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.5290322
 longitude: 9.1189783
-postcode: 72127
+postcode: "72127"
 city: Kusterdingen
 street: "Friedrich-List-Straße"
 housenumber: 38

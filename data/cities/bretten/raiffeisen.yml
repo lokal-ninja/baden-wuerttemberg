@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.036224000000004
 longitude: 8.699803300000001
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Wilhelmstraße"
 housenumber: 41

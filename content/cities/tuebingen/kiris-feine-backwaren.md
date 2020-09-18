@@ -1,4 +1,4 @@
 ---
-title: "Kiris feine Backwaren"
+title: "Kiri's feine Backwaren"
 url: /tuebingen/kiris-feine-backwaren/
 ---

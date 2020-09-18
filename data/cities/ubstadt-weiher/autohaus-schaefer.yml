@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.1824682
 longitude: 8.6449052
-postcode: 76698
+postcode: "76698"
 city: Ubstadt-Weiher
 street: "Marcellusplatz"
 housenumber: 4

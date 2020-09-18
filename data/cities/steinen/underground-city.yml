@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.643410700000004
 longitude: 7.7395388
-postcode: 79585
+postcode: "79585"
 city: Steinen
 street: "Eisenbahnstraße"
 housenumber: 2/1

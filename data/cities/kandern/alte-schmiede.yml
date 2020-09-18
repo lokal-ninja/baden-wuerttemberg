@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.7141019
 longitude: 7.659730000000001
-postcode: 79400
+postcode: "79400"
 city: Kandern
 street: "Hauptstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.0459935
 longitude: 8.304924
-postcode: 78147
+postcode: "78147"
 city: Vöhrenbach
 street: "Luisenstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 48.045177800000005
 longitude: 7.7833427
-postcode: 79232
+postcode: "79232"
 city: March
 street: "Eschenweg"
 housenumber: 1 A

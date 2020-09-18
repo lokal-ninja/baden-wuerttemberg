@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.8055213
 longitude: 9.527636000000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Marktplatz"
 housenumber: 10

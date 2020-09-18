@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.807277500000005
 longitude: 8.445802500000001
-postcode: 76332
+postcode: "76332"
 city: Bad Herrenalb
 street: "Ettlinger Straße"
 housenumber: 54

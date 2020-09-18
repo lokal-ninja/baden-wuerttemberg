@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.803251
 longitude: 9.215430600000001
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "Badstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.781423600000004
 longitude: 8.7317956
-postcode: 75378
+postcode: "75378"
 city: Bad Liebenzell
 street: "Pforzheimer Straße"
 housenumber: 50

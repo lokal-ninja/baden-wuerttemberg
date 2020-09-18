@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.813549800000004
 longitude: 9.5251408
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Waiblinger Straße"
 housenumber: 10

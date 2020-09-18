@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.491406000000005
 longitude: 9.7735293
-postcode: 97980
+postcode: "97980"
 city: Bad Mergentheim
 street: ""
 housenumber: 

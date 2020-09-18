@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 47.6823707
 longitude: 9.202898300000001
-postcode: 78464
+postcode: "78464"
 city: Konstanz
 street: "Mainaustraße"
 housenumber: 156

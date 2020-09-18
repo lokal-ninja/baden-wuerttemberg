@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.9028423
 longitude: 9.082116000000001
-postcode: 71706
+postcode: "71706"
 city: Markgröningen
 street: "Grabenstraße"
 housenumber: 33

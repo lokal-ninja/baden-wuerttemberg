@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.8746675
 longitude: 10.119269000000001
-postcode: 73433
+postcode: "73433"
 city: Aalen
 street: "Knappenstraße"
 housenumber: 18

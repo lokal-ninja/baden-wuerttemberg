@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5979587
 longitude: 8.0656313
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Renchtalstraße"
 housenumber: 19

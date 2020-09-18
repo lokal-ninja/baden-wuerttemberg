@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.084793000000005
 longitude: 9.7883428
-postcode: 88400
+postcode: "88400"
 city: Biberach an der Riß
 street: "Schlierenbachstraße"
 housenumber: 103

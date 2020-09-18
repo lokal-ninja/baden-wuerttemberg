@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.604205300000004
 longitude: 8.1585569
-postcode: 79804
+postcode: "79804"
 city: Dogern
 street: "Gewerbestraße"
 housenumber: 2a

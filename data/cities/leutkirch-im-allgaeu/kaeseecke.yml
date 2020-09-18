@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 47.8260786
 longitude: 10.0237879
-postcode: 88299
+postcode: "88299"
 city: Leutkirch im Allgäu
 street: "Lammgasse"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.410308400000005
 longitude: 8.6943721
-postcode: 69117
+postcode: "69117"
 city: Heidelberg
 street: "Hauptstraße"
 housenumber: 9-13

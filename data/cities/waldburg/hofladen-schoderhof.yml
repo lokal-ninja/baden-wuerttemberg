@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 47.755957300000006
 longitude: 9.739215
-postcode: 88289
+postcode: "88289"
 city: Waldburg
 street: ""
 housenumber: 191
 phone: ""
-opening_hours: "06:00-20:00; Su,PH off"
+opening_hours: "06:00-20:00; PH,Su off"
 website: ""

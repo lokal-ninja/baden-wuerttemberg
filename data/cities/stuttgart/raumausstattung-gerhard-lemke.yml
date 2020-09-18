@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.8133658
 longitude: 9.1078404
-postcode: 70499
+postcode: "70499"
 city: Stuttgart
 street: "Rennstraße"
 housenumber: 27

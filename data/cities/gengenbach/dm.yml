@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 48.4150476
 longitude: 8.0006362
-postcode: 77723
+postcode: "77723"
 city: Gengenbach
 street: "Allmend"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.898889600000004
 longitude: 9.1514232
-postcode: 71679
+postcode: "71679"
 city: Asperg
 street: "Filsstraße"
 housenumber: 25

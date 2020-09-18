@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.5199932
 longitude: 9.175479900000001
-postcode: 72768
+postcode: "72768"
 city: Reutlingen
 street: "Leiblstraße"
 housenumber: 20

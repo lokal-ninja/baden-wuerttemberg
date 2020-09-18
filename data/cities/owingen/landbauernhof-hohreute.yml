@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 47.816245
 longitude: 9.172835300000001
-postcode: 88696
+postcode: "88696"
 city: Owingen
 street: "Hohreutehof"
 housenumber: 83

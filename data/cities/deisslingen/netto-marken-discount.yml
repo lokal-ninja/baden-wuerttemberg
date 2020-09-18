@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1184552
 longitude: 8.609587000000001
-postcode: 78652
+postcode: "78652"
 city: Deißlingen
 street: "In Fürsten"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7139013
 longitude: 9.3948566
-postcode: 73779
+postcode: "73779"
 city: Deizisau
 street: "Plochinger Straße"
 housenumber: 40-42

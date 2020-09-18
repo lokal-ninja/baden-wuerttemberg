@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.7116922
 longitude: 9.4148031
-postcode: 
+postcode: ""
 city: Plochingen
 street: "Esslinger Straße"
 housenumber: 15

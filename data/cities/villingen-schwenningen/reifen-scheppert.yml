@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.0567794
 longitude: 8.5341967
-postcode: 78056
+postcode: "78056"
 city: Villingen-Schwenningen
 street: "Neckarstraße"
 housenumber: 90

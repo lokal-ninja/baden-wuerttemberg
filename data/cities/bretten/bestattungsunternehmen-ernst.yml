@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 49.0355238
 longitude: 8.7085203
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Friedrichstraße"
 housenumber: 13-15

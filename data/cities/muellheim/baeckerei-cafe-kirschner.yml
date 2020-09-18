@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8070382
 longitude: 7.629950600000001
-postcode: 79379
+postcode: "79379"
 city: Müllheim
 street: "Staltengasse"
 housenumber: 2

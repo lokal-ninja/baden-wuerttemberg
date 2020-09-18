@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.56513
 longitude: 7.6178131
-postcode: 4058
+postcode: "4058"
 city: Basel
 street: "Bäumlihofstrasse"
 housenumber: 132/134

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5211996
 longitude: 9.0440761
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Schleifmühleweg"
 housenumber: 36

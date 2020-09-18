@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.21059270000001
 longitude: 9.015862100000001
-postcode: 72458
+postcode: "72458"
 city: Albstadt
 street: "Kientenstraße"
 housenumber: 12

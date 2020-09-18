@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 47.8869522
 longitude: 9.386939
-postcode: 88271
+postcode: "88271"
 city: Wilhelmsdorf
 street: "Egelreute"
 housenumber: 50

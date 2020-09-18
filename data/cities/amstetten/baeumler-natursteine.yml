@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 48.583116700000005
 longitude: 9.8718999
-postcode: 73340
+postcode: "73340"
 city: Amstetten
 street: "Römerstraße"
 housenumber: 13

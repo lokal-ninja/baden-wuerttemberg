@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.407432400000005
 longitude: 8.689271100000001
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Poststraße"
 housenumber: 11

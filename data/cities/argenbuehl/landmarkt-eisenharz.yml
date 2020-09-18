@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 47.689423600000005
 longitude: 9.9550218
-postcode: 88260
+postcode: "88260"
 city: Argenbühl
 street: "Stephanusstraße"
 housenumber: 14

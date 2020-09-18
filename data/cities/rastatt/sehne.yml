@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.86102330000001
 longitude: 8.235117
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Rauentaler Straße"
 housenumber: 65

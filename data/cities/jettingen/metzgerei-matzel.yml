@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.5634711
 longitude: 8.7830578
-postcode: 71131
+postcode: "71131"
 city: Jettingen
 street: "Hauptstraße"
 housenumber: 2

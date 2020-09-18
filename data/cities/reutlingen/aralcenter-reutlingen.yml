@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 48.5115387
 longitude: 9.2040767
-postcode: 72760
+postcode: "72760"
 city: Reutlingen
 street: "Rommelsbacher Straße"
 housenumber: 140

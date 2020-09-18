@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.4947408
 longitude: 9.2109596
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Gartenstraße"
 housenumber: 4

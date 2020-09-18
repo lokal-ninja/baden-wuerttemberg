@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.5174607
 longitude: 9.0599775
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Friedrichstraße"
 housenumber: 6

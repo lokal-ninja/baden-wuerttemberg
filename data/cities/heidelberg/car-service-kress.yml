@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.3867728
 longitude: 8.663777300000001
-postcode: 69124
+postcode: "69124"
 city: Heidelberg
 street: "Pleikartsförsterstraße"
 housenumber: 118

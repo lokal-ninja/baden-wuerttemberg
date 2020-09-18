@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 48.6228661
 longitude: 10.020361300000001
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Wilhelmstraße"
 housenumber: 18
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-14:00"
+opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-14:00; ph off"
 website: "https://www.mueller.de/"

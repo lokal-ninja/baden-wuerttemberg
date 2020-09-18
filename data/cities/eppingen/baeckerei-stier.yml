@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1373204
 longitude: 8.9115859
-postcode: 75031
+postcode: "75031"
 city: Eppingen
 street: "Altstadtstraße"
 housenumber: 20

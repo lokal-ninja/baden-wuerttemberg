@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.9729162
 longitude: 9.3858701
-postcode: 71546
+postcode: "71546"
 city: Aspach
 street: "Boschstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.7267937
 longitude: 9.3104361
-postcode: 73734
+postcode: "73734"
 city: Esslingen am Neckar
 street: "Im Rohr"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.924178600000005
 longitude: 8.3724255
-postcode: 76275
+postcode: "76275"
 city: Ettlingen
 street: "Neue Bruchstraße"
 housenumber: 2

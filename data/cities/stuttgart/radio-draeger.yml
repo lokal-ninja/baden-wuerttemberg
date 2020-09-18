@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 48.770526100000005
 longitude: 9.1766698
-postcode: 70178
+postcode: "70178"
 city: Stuttgart
 street: "Hauptstätter Straße"
 housenumber: 55

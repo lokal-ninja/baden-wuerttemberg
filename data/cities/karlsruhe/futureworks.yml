@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.0015325
 longitude: 8.4157446
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Anna-Lauter-Straße"
 housenumber: 9

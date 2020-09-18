@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.1913841
 longitude: 9.2253944
-postcode: 74172
+postcode: "74172"
 city: Neckarsulm
 street: "Rathausstraße"
 housenumber: 4

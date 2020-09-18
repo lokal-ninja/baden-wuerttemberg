@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8098119
 longitude: 10.0310118
-postcode: 73457
+postcode: "73457"
 city: Essingen
 street: "Aalener Straße"
 housenumber: 10

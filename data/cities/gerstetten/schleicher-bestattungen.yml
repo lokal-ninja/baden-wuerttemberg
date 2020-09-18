@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.62890590000001
 longitude: 10.0029965
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Carl-Zeiss-Straße"
 housenumber: 15

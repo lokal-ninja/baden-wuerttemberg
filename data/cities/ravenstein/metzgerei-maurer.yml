@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.4009556
 longitude: 9.507725800000001
-postcode: 74747
+postcode: "74747"
 city: Ravenstein
 street: "Eichenstraße"
 housenumber: 16

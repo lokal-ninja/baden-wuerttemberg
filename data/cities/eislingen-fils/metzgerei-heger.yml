@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.698129
 longitude: 9.7048536
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Hindenburgstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.966660000000005
 longitude: 8.613069000000001
-postcode: 75203
+postcode: "75203"
 city: Königsbach-Stein
 street: "Wössinger Straße"
 housenumber: 1

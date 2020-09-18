@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.8512554
 longitude: 9.0064303
-postcode: 78333
+postcode: "78333"
 city: Stockach
 street: "Bahnhofstraße"
 housenumber: 10

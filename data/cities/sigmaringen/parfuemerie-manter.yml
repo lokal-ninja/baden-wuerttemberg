@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.086321600000005
 longitude: 9.2167349
-postcode: 72488
+postcode: "72488"
 city: Sigmaringen
 street: "Weingasse"
 housenumber: 1

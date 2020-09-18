@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.1667016
 longitude: 8.628121
-postcode: 78628
+postcode: "78628"
 city: Rottweil
 street: "Hochbrücktorstraße"
 housenumber: 21

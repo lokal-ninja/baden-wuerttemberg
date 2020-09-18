@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.808431000000006
 longitude: 8.1950962
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Sandweierer Straße"
 housenumber: 15

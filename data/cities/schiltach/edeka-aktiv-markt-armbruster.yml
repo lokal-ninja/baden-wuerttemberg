@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.291128
 longitude: 8.3514304
-postcode: 77761
+postcode: "77761"
 city: Schiltach
 street: "Hauptstraße"
 housenumber: 74

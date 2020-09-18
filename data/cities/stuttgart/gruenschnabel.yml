@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.729513100000005
 longitude: 9.1113988
-postcode: 70563
+postcode: "70563"
 city: Stuttgart
 street: "Sigmundtstraße"
 housenumber: 1

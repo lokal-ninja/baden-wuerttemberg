@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 47.6674798
 longitude: 9.5922769
-postcode: 88069
+postcode: "88069"
 city: Tettnang
 street: "Lindauer Straße"
 housenumber: 38

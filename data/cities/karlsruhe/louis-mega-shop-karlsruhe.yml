@@ -3,10 +3,10 @@ type: node
 shop: Motorrad
 latitude: 49.0079325
 longitude: 8.4103478
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Fritz-Erler-Straße"
 housenumber: 9
 phone: "+49 721 9374239"
-opening_hours: "Feb-Oct: Mo-We 09:00-20:00; Th-Fr 09:00-21:00; Sa 09:00-20:00; Nov-Jan: Mo-Sa 09:00-19:00; Su off"
+opening_hours: "Feb-Oct Mo-Sa 09:00-20:00; Jan, Nov, Dec Mo-Sa 09:00-19:00; Su geschlossen"
 website: "https://www.louis.de/service/filialen/louis-megashop-karlsruhe/29"

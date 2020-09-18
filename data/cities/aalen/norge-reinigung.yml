@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 48.8397407
 longitude: 10.0941804
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Bahnhofstraße"
 housenumber: 21

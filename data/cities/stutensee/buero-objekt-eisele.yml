@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.080827000000006
 longitude: 8.464688500000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Am Hasenbiel"
 housenumber: 6

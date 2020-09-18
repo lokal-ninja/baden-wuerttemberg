@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.0847333
 longitude: 9.195439
-postcode: 74388
+postcode: "74388"
 city: Talheim
 street: "Rathausplatz"
 housenumber: 18

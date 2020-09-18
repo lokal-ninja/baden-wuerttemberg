@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 47.5596559
 longitude: 7.786239
-postcode: 79618
+postcode: "79618"
 city: Rheinfelden (Baden)
 street: "Karl-Fürstenberg-Straße"
 housenumber: 6-8

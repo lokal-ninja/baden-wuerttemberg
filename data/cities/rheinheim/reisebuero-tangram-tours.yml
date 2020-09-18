@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 47.587794800000005
 longitude: 8.3046865
-postcode: 79790
+postcode: "79790"
 city: Rheinheim
 street: "Austraße"
 housenumber: 1

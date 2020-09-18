@@ -1,12 +1,12 @@
-id: 93903787
-type: way
-shop: Modehaus
-latitude: 48.801221500000004
-longitude: 9.795174900000001
-postcode: 73525
+id: 7617542732
+type: node
+shop: Kleidung
+latitude: 48.8012091
+longitude: 9.7952364
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Ledergasse"
 housenumber: 15
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 7171 37314"
+opening_hours: "Mo-Fr 10:00-18:00; Sa, Su, PH off"
+website: "http://laboutique-gmuend.de"

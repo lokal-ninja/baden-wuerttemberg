@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 47.9838673
 longitude: 8.816185800000001
-postcode: 78532
+postcode: "78532"
 city: Tuttlingen
 street: "Bahnhofstraße"
 housenumber: 21

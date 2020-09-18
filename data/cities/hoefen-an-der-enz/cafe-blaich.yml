@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.8058294
 longitude: 8.5832788
-postcode: 75339
+postcode: "75339"
 city: Höfen an der Enz
 street: "Hindenburgstraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 47.652128700000006
 longitude: 9.4822138
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Romanshorner Platz"
 housenumber: 2

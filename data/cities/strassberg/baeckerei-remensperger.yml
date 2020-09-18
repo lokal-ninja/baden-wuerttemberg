@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.1769862
 longitude: 9.087410100000001
-postcode: 72479
+postcode: "72479"
 city: Straßberg
 street: "Bohlstraße"
 housenumber: 4

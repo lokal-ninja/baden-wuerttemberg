@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.2197125
 longitude: 8.6611265
-postcode: 76669
+postcode: "76669"
 city: Bad Schönborn
 street: ""
 housenumber: 

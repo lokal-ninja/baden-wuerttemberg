@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.689582900000005
 longitude: 9.4227934
-postcode: 73249
+postcode: "73249"
 city: Wernau (Neckar)
 street: "Hauptstraße"
 housenumber: 7

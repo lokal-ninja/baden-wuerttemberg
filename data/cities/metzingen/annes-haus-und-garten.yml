@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 48.5376938
 longitude: 9.2968825
-postcode: 72555
+postcode: "72555"
 city: Metzingen
 street: "Steinerweg"
 housenumber: 4

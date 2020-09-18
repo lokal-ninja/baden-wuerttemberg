@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 48.8428522
 longitude: 9.453842700000001
-postcode: 73663
+postcode: "73663"
 city: Berglen
 street: "Erlenstraße"
 housenumber: 10

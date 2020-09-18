@@ -3,7 +3,7 @@ type: node
 shop: Roboter
 latitude: 49.4712225
 longitude: 8.4900625
-postcode: 68165
+postcode: "68165"
 city: Mannheim
 street: "Fritz-Huber-Straße"
 housenumber: 1-3

@@ -3,7 +3,7 @@ type: node
 shop: Leerstehend
 latitude: 48.668922300000006
 longitude: 9.5806667
-postcode: 73110
+postcode: "73110"
 city: Hattenhofen
 street: "Reustadt"
 housenumber: 23

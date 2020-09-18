@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.5518538
 longitude: 8.8756147
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Hauptstraße"
 housenumber: 34

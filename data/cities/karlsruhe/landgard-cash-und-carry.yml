@@ -3,10 +3,10 @@ type: node
 shop: Großhandel
 latitude: 49.0067122
 longitude: 8.4444516
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Am Großmarkt"
-housenumber: 43
+housenumber: 10
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,We-Fr 04:30-13:00; Tu 04:30-16:00; Sa 04:30-09:00; Su,PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.5039803
 longitude: 8.4682201
-postcode: 68169
+postcode: "68169"
 city: Mannheim
 street: "Bürgermeister-Fuchs-Straße"
 housenumber: 90

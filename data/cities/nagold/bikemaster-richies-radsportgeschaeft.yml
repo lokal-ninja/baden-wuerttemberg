@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.550033400000004
 longitude: 8.7237611
-postcode: 72202
+postcode: "72202"
 city: Nagold
 street: "Hirschstraße"
 housenumber: 10

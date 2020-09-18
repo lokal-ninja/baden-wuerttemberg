@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.486441000000006
 longitude: 8.4776238
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: "Berliner Straße"
 housenumber: 11

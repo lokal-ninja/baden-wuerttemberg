@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.964412
 longitude: 8.612203300000001
-postcode: 75203
+postcode: "75203"
 city: Königsbach-Stein
 street: "Bahnhofstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.1255146
 longitude: 8.5945702
-postcode: 76646
+postcode: "76646"
 city: Bruchsal
 street: "Wörthstraße"
 housenumber: 13

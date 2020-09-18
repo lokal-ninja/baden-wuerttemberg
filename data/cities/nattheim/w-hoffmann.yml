@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.6999433
 longitude: 10.2427142
-postcode: 89564
+postcode: "89564"
 city: Nattheim
 street: "Neresheimer Straße"
 housenumber: 4

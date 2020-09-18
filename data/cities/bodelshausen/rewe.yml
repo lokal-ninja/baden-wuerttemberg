@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3963842
 longitude: 8.971602800000001
-postcode: 72411
+postcode: "72411"
 city: Bodelshausen
 street: "Rottenburger Straße"
 housenumber: 3

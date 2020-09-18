@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 48.8160699
 longitude: 9.371466700000001
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Werkstraße"
 housenumber: 7

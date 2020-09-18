@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 48.4199063
 longitude: 8.157422200000001
-postcode: 77784
+postcode: "77784"
 city: Oberharmersbach
 street: "Löcherwasenweg"
 housenumber: 

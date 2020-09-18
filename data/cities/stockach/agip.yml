@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.845217500000004
 longitude: 8.9999807
-postcode: 78333
+postcode: "78333"
 city: Stockach
 street: "Radolfzeller Straße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 48.552563600000006
 longitude: 8.8773777
-postcode: 71126
+postcode: "71126"
 city: Gäufelden
 street: "Brunnenstraße"
 housenumber: 1

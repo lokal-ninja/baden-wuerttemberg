@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.3054908
 longitude: 9.2352184
-postcode: 72818
+postcode: "72818"
 city: Trochtelfingen
 street: "Robert-Bosch-Straße"
 housenumber: 2

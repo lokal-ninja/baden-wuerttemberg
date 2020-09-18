@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 48.7716282
 longitude: 9.145913
-postcode: 70197
+postcode: "70197"
 city: Stuttgart
 street: "Rotenwaldstraße"
 housenumber: 95

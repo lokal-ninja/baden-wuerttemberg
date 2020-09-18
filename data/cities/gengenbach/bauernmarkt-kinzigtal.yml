@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.4044911
 longitude: 8.0122561
-postcode: 77723
+postcode: "77723"
 city: Gengenbach
 street: "Leutkirchstraße"
 housenumber: 14

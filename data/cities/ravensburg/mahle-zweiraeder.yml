@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.775877300000005
 longitude: 9.6029587
-postcode: 88214
+postcode: "88214"
 city: Ravensburg
 street: "Gottlieb-Daimler-Straße"
 housenumber: 9

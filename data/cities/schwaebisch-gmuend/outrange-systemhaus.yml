@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.800650000000005
 longitude: 9.793689500000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Ledergasse"
 housenumber: 47

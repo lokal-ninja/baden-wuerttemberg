@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.036069700000006
 longitude: 8.5329121
-postcode: 78073
+postcode: "78073"
 city: Bad Dürrheim
 street: "Schwenninger Straße"
 housenumber: 40

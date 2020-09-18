@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.322450200000006
 longitude: 10.0216247
-postcode: 89171
+postcode: "89171"
 city: Illerkirchberg
 street: "Ulmer Straße"
 housenumber: 1

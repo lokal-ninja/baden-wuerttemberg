@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.1342213
 longitude: 9.218838700000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Südstraße"
 housenumber: 88

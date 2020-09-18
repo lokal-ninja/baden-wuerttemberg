@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.7158237
 longitude: 9.4320432
-postcode: 
+postcode: ""
 city: Plochingen
 street: "Teckplatz"
 housenumber: 12

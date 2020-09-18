@@ -3,7 +3,7 @@ type: node
 shop: Immobilien
 latitude: 47.735372100000006
 longitude: 8.7760268
-postcode: 78244
+postcode: "78244"
 city: Gottmadingen
 street: "Dorfgärten"
 housenumber: 1

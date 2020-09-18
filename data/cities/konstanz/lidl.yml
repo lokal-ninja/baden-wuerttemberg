@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.6743779
 longitude: 9.1651491
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Max-Stromeyer-Straße"
 housenumber: 15

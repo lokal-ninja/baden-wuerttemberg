@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.6369818
 longitude: 8.7472142
-postcode: 72218
+postcode: "72218"
 city: Wildberg
 street: "Calwer Straße"
 housenumber: 304

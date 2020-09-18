@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 48.6939835
 longitude: 8.1219905
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Siemensstraße"
 housenumber: 4c

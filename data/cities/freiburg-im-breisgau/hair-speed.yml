@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.9742861
 longitude: 7.8276338
-postcode: 79100
+postcode: "79100"
 city: Freiburg im Breisgau
 street: "Paula-Modersohn-Platz"
 housenumber: 7

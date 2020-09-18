@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.2461755
 longitude: 8.53528
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Waghäusler Straße"
 housenumber: 128

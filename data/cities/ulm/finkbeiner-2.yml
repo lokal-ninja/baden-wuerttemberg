@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.4005973
 longitude: 9.972538400000001
-postcode: 89077
+postcode: "89077"
 city: Ulm
 street: "Beim B'scheid"
 housenumber: 8

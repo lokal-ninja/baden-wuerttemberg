@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.5063055
 longitude: 9.2209724
-postcode: 72766
+postcode: "72766"
 city: Reutlingen
 street: "Am Heilbrunnen"
 housenumber: 88

@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 49.169062600000004
 longitude: 9.2037949
-postcode: 74078
+postcode: "74078"
 city: Heilbronn
 street: "Obereisesheimer Straße"
 housenumber: 11

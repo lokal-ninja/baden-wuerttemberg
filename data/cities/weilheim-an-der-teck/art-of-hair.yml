@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.614727800000004
 longitude: 9.539701500000001
-postcode: 73235
+postcode: "73235"
 city: Weilheim an der Teck
 street: "Schulstraße"
 housenumber: 9

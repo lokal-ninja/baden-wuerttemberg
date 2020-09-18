@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.7552888
 longitude: 8.243471600000001
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Lichtentaler Straße"
 housenumber: 66

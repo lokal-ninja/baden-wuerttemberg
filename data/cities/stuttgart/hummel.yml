@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.7739361
 longitude: 9.1950999
-postcode: 70184
+postcode: "70184"
 city: Stuttgart
 street: "Gänsheidestraße"
 housenumber: 39

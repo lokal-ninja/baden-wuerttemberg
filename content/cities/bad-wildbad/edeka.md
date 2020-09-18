@@ -1,4 +1,4 @@
 ---
-title: "EDEKA"
+title: "Edeka"
 url: /bad-wildbad/edeka/
 ---

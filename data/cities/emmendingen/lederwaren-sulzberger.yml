@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 48.120147200000005
 longitude: 7.850514100000001
-postcode: 79312
+postcode: "79312"
 city: Emmendingen
 street: "Marktplatz"
 housenumber: 14

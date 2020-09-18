@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.84269260000001
 longitude: 9.2204806
-postcode: 70378
+postcode: "70378"
 city: Stuttgart
 street: "Hechtstraße"
 housenumber: 33b

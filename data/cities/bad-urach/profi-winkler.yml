@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.4946439
 longitude: 9.3873973
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Burgstraße"
 housenumber: 46

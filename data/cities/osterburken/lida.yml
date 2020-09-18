@@ -3,7 +3,7 @@ type: way
 shop: Angeln
 latitude: 49.4285142
 longitude: 9.425329300000001
-postcode: 74706
+postcode: "74706"
 city: Osterburken
 street: "Römerstraße"
 housenumber: 15

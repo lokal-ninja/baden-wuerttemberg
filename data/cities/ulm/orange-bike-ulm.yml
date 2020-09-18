@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.3629666
 longitude: 9.9884371
-postcode: 89079
+postcode: "89079"
 city: Ulm
 street: "Schleifmühleweg"
 housenumber: 10

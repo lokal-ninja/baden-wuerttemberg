@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 48.881862600000005
 longitude: 8.696759
-postcode: 75173
+postcode: "75173"
 city: Pforzheim
 street: "Kallhardtstraße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 47.9082969
 longitude: 9.8947225
-postcode: 88410
+postcode: "88410"
 city: Bad Wurzach
 street: "Herrenstraße"
 housenumber: 5

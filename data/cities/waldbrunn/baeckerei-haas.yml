@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 49.4652461
 longitude: 9.058385000000001
-postcode: 69429
+postcode: "69429"
 city: Waldbrunn
 street: "Hirtenweg"
 housenumber: 3
 phone: "+49 6274 433"
-opening_hours: ""
+opening_hours: "Tu-Sa 05:30-12:30, Th,Fr 14:30-18:00"
 website: ""

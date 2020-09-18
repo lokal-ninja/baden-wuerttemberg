@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.9458526
 longitude: 8.281290700000001
-postcode: 76448
+postcode: "76448"
 city: Durmersheim
 street: "Auf den Heilberg"
 housenumber: 11

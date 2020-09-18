@@ -3,10 +3,10 @@ type: way
 shop: Elektronik
 latitude: 48.696983100000004
 longitude: 9.687144
-postcode: 73054
+postcode: "73054"
 city: Eislingen/Fils
 street: "Steinbeisstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00"
-website: ""
+website: "https://www.mediamarkt.de/"

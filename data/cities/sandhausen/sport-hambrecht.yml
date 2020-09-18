@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.338945
 longitude: 8.651727000000001
-postcode: 69207
+postcode: "69207"
 city: Sandhausen
 street: "Lattweg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.4138506
 longitude: 8.638532900000001
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "In der Gabel"
 housenumber: 16

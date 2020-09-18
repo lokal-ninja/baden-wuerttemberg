@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.0716465
 longitude: 8.6348371
-postcode: 78647
+postcode: "78647"
 city: Trossingen
 street: "Ernst-Haller-Straße"
 housenumber: 16

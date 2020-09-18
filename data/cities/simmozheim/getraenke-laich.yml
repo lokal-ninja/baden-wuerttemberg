@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 48.7493021
 longitude: 8.8072987
-postcode: 75397
+postcode: "75397"
 city: Simmozheim
 street: "Mittelfeldstraße"
 housenumber: 9

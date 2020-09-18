@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.4955501
 longitude: 9.2090572
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Bahnhofstraße"
 housenumber: 1/1

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.003130600000006
 longitude: 8.5226336
-postcode: 76327
+postcode: "76327"
 city: Pfinztal
 street: "Tannenstraße"
 housenumber: 15

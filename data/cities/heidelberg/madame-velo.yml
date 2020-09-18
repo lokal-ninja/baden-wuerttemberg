@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.4057946
 longitude: 8.6759416
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Alte Eppelheimer Straße"
 housenumber: 31a

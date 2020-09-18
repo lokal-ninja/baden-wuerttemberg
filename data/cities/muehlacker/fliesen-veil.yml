@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 48.956070800000006
 longitude: 8.870005200000001
-postcode: 75417
+postcode: "75417"
 city: Mühlacker
 street: "Industriestraße"
 housenumber: 123

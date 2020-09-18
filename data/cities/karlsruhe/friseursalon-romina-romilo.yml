@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.015460700000006
 longitude: 8.4411585
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Heilbronner Straße"
 housenumber: 30

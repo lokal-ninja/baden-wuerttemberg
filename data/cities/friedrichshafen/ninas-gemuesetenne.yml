@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 47.6657603
 longitude: 9.4279159
-postcode: 88048
+postcode: "88048"
 city: Friedrichshafen
 street: "Linzgaustraße"
 housenumber: 1

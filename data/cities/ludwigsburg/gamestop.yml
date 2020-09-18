@@ -3,7 +3,7 @@ type: node
 shop: Videospiele
 latitude: 48.899540900000005
 longitude: 9.1904226
-postcode: 71634
+postcode: "71634"
 city: Ludwigsburg
 street: "Marstallstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.8573857
 longitude: 8.8948721
-postcode: 78253
+postcode: "78253"
 city: Eigeltingen
 street: "Hauptstraße"
 housenumber: 49

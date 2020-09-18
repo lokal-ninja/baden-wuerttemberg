@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.4929077
 longitude: 9.3985157
-postcode: 72574
+postcode: "72574"
 city: Bad Urach
 street: "Kirchstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.5860397
 longitude: 8.0111273
-postcode: 77871
+postcode: "77871"
 city: Renchen
 street: "Hauptstraße"
 housenumber: 69

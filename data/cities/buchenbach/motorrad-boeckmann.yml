@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 47.9423661
 longitude: 8.0122859
-postcode: 79256
+postcode: "79256"
 city: Buchenbach
 street: "Höllentalstraße"
 housenumber: 45

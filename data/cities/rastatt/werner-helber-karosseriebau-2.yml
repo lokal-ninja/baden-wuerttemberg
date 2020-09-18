@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.859477500000004
 longitude: 8.2314223
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Woogseestraße"
 housenumber: 8

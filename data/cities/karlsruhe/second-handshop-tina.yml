@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.0020413
 longitude: 8.407969900000001
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Marienstraße"
 housenumber: 36

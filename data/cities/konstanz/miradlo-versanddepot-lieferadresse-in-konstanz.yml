@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 47.67541790000001
 longitude: 9.1801592
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Wollmatinger Straße"
 housenumber: 23

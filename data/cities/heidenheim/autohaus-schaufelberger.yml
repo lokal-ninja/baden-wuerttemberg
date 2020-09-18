@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.660808700000004
 longitude: 10.1566779
-postcode: 89522
+postcode: "89522"
 city: Heidenheim
 street: "Paul-Hartmann-Straße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.241746500000005
 longitude: 8.536187700000001
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Erlenweg"
 housenumber: 2

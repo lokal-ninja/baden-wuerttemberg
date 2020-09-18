@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 48.89218210000001
 longitude: 9.183998
-postcode: 71636
+postcode: "71636"
 city: Ludwigsburg
 street: "Pflugfelder Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.0647243
 longitude: 9.1991713
-postcode: 74348
+postcode: "74348"
 city: Lauffen am Neckar
 street: "Am Landturm"
 housenumber: 7

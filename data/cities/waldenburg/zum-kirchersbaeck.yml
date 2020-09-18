@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.185025200000005
 longitude: 9.6270834
-postcode: 74638
+postcode: "74638"
 city: Waldenburg
 street: "Am Schneiderlesee"
 housenumber: 1

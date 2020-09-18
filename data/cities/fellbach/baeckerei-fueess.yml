@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.806564800000004
 longitude: 9.2773476
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Weimerstraße"
 housenumber: 2

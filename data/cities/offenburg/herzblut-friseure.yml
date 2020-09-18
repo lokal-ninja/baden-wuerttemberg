@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.467830400000004
 longitude: 7.9414002
-postcode: 77652
+postcode: "77652"
 city: Offenburg
 street: "Wilhelm-Bauer-Straße"
 housenumber: 2

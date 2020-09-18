@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 47.6611166
 longitude: 9.4823517
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Ailinger Straße"
 housenumber: 77

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 48.8620278
 longitude: 8.2146668
-postcode: 76437
+postcode: "76437"
 city: Rastatt
 street: "Karlsruher Straße"
 housenumber: 1

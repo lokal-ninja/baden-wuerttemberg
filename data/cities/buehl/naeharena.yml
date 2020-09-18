@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 48.6944024
 longitude: 8.1365178
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Sternenstraße"
 housenumber: 5

@@ -3,9 +3,9 @@ type: node
 shop: Autohaus
 latitude: 48.5317943
 longitude: 8.075049100000001
-postcode: 77704
+postcode: "77704"
 city: Oberkirch
-street: "Appenweiererstraße"
+street: "Appenweierer Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

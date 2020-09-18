@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.501704000000004
 longitude: 8.9991383
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Kingersheimer Straße"
 housenumber: 10

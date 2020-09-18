@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.0105206
 longitude: 8.379648300000001
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Schillerstraße"
 housenumber: 2

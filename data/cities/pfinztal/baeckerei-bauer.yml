@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.965901200000005
 longitude: 8.5541699
-postcode: 76327
+postcode: "76327"
 city: Pfinztal
 street: "Pforzheimer Straße"
 housenumber: 7a

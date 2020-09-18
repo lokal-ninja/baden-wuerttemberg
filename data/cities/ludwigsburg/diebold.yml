@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.8906647
 longitude: 9.192317000000001
-postcode: 71638
+postcode: "71638"
 city: Ludwigsburg
 street: "Leonberger Straße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.836710100000005
 longitude: 10.090924300000001
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Friedhofstraße"
 housenumber: 1

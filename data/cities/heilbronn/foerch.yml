@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.1224416
 longitude: 9.1956634
-postcode: 
+postcode: ""
 city: Heilbronn
 street: "Spitzwegstraße"
 housenumber: 4

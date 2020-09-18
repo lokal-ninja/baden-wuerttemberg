@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.741455
 longitude: 9.1266371
-postcode: 70569
+postcode: "70569"
 city: Stuttgart
 street: "Fuchswaldstraße"
 housenumber: 103

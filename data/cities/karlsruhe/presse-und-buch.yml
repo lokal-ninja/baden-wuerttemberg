@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.00171
 longitude: 8.462433800000001
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Hauptbahnstraße"
 housenumber: 1

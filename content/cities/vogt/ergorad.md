@@ -1,4 +1,4 @@
 ---
-title: "Ergorad"
+title: "ergoRAD"
 url: /vogt/ergorad/
 ---

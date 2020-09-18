@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.238570100000004
 longitude: 9.1020477
-postcode: 74906
+postcode: "74906"
 city: Bad Rappenau
 street: "Bahnhofstraße"
 housenumber: 6

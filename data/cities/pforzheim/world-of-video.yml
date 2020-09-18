@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 48.897637
 longitude: 8.7027812
-postcode: 75177
+postcode: "75177"
 city: Pforzheim
 street: "Sachsenstraße"
 housenumber: 6-8

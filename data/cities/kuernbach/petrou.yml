@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0816013
 longitude: 8.8407443
-postcode: 75057
+postcode: "75057"
 city: Kürnbach
 street: "Gewerbestraße"
 housenumber: 7

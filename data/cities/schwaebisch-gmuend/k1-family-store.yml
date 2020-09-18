@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.7998416
 longitude: 9.799071300000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Kornhausstraße"
 housenumber: 1

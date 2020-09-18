@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 48.9916441
 longitude: 8.4385653
-postcode: 76227
+postcode: "76227"
 city: Karlsruhe
 street: "Wachhausstraße"
 housenumber: 28

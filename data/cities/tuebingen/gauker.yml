@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5278154
 longitude: 9.061813800000001
-postcode: 72074
+postcode: "72074"
 city: Tübingen
 street: "Nauklerstraße"
 housenumber: 31

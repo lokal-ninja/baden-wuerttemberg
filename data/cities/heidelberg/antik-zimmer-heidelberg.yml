@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.4281814
 longitude: 8.646458200000001
-postcode: 69123
+postcode: "69123"
 city: Heidelberg
 street: "Mannheimer Straße"
 housenumber: 282

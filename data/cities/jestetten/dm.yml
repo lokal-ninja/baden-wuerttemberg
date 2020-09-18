@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 47.649768900000005
 longitude: 8.5682966
-postcode: 79798
+postcode: "79798"
 city: Jestetten
 street: "Hauptstraße"
 housenumber: 27

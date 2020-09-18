@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.802525200000005
 longitude: 9.2160366
-postcode: 70372
+postcode: "70372"
 city: Stuttgart
 street: "König-Karl-Straße"
 housenumber: 

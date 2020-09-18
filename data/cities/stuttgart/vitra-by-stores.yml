@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.7736369
 longitude: 9.1872687
-postcode: 70182
+postcode: "70182"
 city: Stuttgart
 street: "Charlottenstraße"
 housenumber: 29-31

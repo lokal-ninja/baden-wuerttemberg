@@ -1,12 +1,12 @@
-id: 4803497123
-type: node
+id: 47809194
+type: way
 shop: Supermarkt
-latitude: 48.6209397
-longitude: 9.04141
-postcode: 71093
+latitude: 48.621189300000005
+longitude: 9.0413508
+postcode: "71093"
 city: Weil im Schönbuch
 street: "Lachentalstraße"
-housenumber: 15
+housenumber: 17
 phone: ""
 opening_hours: ""
 website: ""

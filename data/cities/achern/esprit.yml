@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.6286469
 longitude: 8.073949800000001
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Hauptstraße"
 housenumber: 61

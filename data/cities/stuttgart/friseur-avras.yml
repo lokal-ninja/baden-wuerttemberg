@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.786024000000005
 longitude: 9.2088442
-postcode: 70188
+postcode: "70188"
 city: Stuttgart
 street: "Haußmannstraße"
 housenumber: 196

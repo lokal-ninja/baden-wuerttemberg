@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 49.0194078
 longitude: 10.0309168
-postcode: 73494
+postcode: "73494"
 city: Rosenberg
 street: "Virngrundweg"
 housenumber: 3

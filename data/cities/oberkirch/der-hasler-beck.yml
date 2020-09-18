@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.5658739
 longitude: 8.0608982
-postcode: 77704
+postcode: "77704"
 city: Oberkirch
 street: "Haslacher Straße"
 housenumber: 24

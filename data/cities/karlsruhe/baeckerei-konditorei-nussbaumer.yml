@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.006544000000005
 longitude: 8.4968027
-postcode: 76229
+postcode: "76229"
 city: Karlsruhe
 street: "Mühlstraße"
 housenumber: 8

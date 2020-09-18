@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 48.473361700000005
 longitude: 7.9298831000000005
-postcode: 77656
+postcode: "77656"
 city: Offenburg
 street: "Heinrich-Hertz-Straße"
 housenumber: 13a

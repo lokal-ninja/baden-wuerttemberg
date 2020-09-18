@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.804655000000004
 longitude: 9.2706595
-postcode: 70734
+postcode: "70734"
 city: Fellbach
 street: "Kienbachstraße"
 housenumber: 11/1

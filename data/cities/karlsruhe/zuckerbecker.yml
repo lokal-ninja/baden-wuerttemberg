@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.0013682
 longitude: 8.4063769
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Werderstraße"
 housenumber: 34

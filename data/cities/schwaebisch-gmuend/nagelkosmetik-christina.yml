@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 48.7975422
 longitude: 9.797224700000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Klösterlestraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 48.5775888
 longitude: 8.8878916
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Heerstraße"
 housenumber: 6

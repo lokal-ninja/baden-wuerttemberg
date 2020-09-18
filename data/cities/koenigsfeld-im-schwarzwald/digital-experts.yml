@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 48.1364955
 longitude: 8.4172131
-postcode: 78126
+postcode: "78126"
 city: Königsfeld im Schwarzwald
 street: "Ostlandstraße"
 housenumber: 9

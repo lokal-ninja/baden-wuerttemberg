@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.795759600000004
 longitude: 9.779527900000001
-postcode: 73525
+postcode: "73525"
 city: Schwäbisch Gmünd
 street: "Lorcher Straße"
 housenumber: 101

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.723058200000004
 longitude: 8.780366
-postcode: 75382
+postcode: "75382"
 city: Althengstett
 street: "Industriestraße"
 housenumber: 50

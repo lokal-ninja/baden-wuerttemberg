@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 48.4662276
 longitude: 7.8829104
-postcode: 77746
+postcode: "77746"
 city: Schutterwald
 street: "Burdastraße"
 housenumber: 

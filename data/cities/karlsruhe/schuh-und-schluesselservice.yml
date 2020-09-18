@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 49.0103444
 longitude: 8.3796658
-postcode: 76135
+postcode: "76135"
 city: Karlsruhe
 street: "Schillerstraße"
 housenumber: 2

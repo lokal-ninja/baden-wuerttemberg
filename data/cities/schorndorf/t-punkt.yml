@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 48.805041800000005
 longitude: 9.5271214
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Oberer Marktplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.8762265
 longitude: 9.400173
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Brunnenstraße"
 housenumber: 19

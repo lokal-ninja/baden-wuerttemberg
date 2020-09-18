@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.6315578
 longitude: 8.3009283
-postcode: 79787
+postcode: "79787"
 city: Lauchringen
 street: "Bundesstraße"
 housenumber: 20

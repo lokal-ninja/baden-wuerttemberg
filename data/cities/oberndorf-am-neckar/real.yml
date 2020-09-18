@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.2963807
 longitude: 8.5517696
-postcode: 78727
+postcode: "78727"
 city: Oberndorf am Neckar
 street: "Friedrich-List-Straße"
 housenumber: 10

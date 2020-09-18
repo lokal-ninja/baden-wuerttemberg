@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.4740083
 longitude: 8.9872934
-postcode: 69412
+postcode: "69412"
 city: Eberbach
 street: "Neuer Weg-Nord"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 48.982664400000004
 longitude: 8.3690763
-postcode: 76189
+postcode: "76189"
 city: Karlsruhe
 street: "Wilhelm-Leuschner-Straße"
 housenumber: 65

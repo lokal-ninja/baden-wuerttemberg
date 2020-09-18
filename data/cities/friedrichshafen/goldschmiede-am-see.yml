@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.6492385
 longitude: 9.480015400000001
-postcode: 88045
+postcode: "88045"
 city: Friedrichshafen
 street: "Seestraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.072714500000004
 longitude: 9.1457583
-postcode: 74348
+postcode: "74348"
 city: Lauffen am Neckar
 street: "Südstraße"
 housenumber: 29

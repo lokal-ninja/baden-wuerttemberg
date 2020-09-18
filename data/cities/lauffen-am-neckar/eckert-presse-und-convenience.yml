@@ -3,10 +3,10 @@ type: node
 shop: Kiosk
 latitude: 49.0763728
 longitude: 9.146483400000001
-postcode: 74348
+postcode: "74348"
 city: Lauffen am Neckar
 street: "Bahnhofstraße"
 housenumber: 50
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-17:00; Su 08:00-13:00; PH closed"
 website: ""

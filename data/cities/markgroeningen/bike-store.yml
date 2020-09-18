@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 48.904014000000004
 longitude: 9.0819141
-postcode: 71706
+postcode: "71706"
 city: Markgröningen
 street: "Wettegasse"
 housenumber: 1

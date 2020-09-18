@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 48.902618600000004
 longitude: 9.4106321
-postcode: 71397
+postcode: "71397"
 city: Leutenbach
 street: "Bahnhofstraße"
 housenumber: 54

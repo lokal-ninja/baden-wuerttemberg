@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 47.5758309
 longitude: 7.799949600000001
-postcode: 79618
+postcode: "79618"
 city: Rheinfelden (Baden)
 street: "Großfeldstraße"
 housenumber: 2

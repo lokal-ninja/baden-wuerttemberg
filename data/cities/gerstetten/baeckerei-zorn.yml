@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.605448200000005
 longitude: 10.068939
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Molkereistraße"
 housenumber: 32

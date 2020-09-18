@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 48.874536000000006
 longitude: 9.633698800000001
-postcode: 73642
+postcode: "73642"
 city: Welzheim
 street: "Kirchplatz"
 housenumber: 8

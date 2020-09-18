@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.479196300000005
 longitude: 8.486884
-postcode: 68165
+postcode: "68165"
 city: Mannheim
 street: "Carl-Reiß-Platz"
 housenumber: 13

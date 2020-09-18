@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 48.4159823
 longitude: 8.7582815
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Geniestraße"
 housenumber: 24

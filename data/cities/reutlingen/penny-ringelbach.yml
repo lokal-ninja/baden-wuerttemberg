@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4812269
 longitude: 9.205186000000001
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Ringelbachstraße"
 housenumber: 109

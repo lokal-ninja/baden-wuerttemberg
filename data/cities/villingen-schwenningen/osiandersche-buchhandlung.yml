@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.063427100000006
 longitude: 8.5340498
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
 street: "Kronenstraße"
 housenumber: 21

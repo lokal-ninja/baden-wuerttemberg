@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 49.245693
 longitude: 8.6445938
-postcode: 68789
+postcode: "68789"
 city: St. Leon-Rot
 street: "Lanzstraße"
 housenumber: 2-4

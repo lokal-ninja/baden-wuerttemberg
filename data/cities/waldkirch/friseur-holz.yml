@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 48.0934364
 longitude: 7.9604584
-postcode: 79183
+postcode: "79183"
 city: Waldkirch
 street: "Lange Straße"
 housenumber: 33

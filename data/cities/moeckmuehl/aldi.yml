@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.3188729
 longitude: 9.3629478
-postcode: 74219
+postcode: "74219"
 city: Möckmühl
 street: "Daimlerstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.0038545
 longitude: 8.420294700000001
-postcode: 76131
+postcode: "76131"
 city: Karlsruhe
 street: "Ludwig-Erhard-Allee"
 housenumber: 20

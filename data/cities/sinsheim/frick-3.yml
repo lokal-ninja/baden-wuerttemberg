@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.2544972
 longitude: 8.8941417
-postcode: 74889
+postcode: "74889"
 city: Sinsheim
 street: "Kurpfalzstraße"
 housenumber: 74

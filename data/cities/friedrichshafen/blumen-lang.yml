@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 47.6608789
 longitude: 9.4825383
-postcode: 88046
+postcode: "88046"
 city: Friedrichshafen
 street: "Ailinger Straße"
 housenumber: 62

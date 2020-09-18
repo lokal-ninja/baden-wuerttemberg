@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.024572500000005
 longitude: 9.1568433
-postcode: 74376
+postcode: "74376"
 city: Gemmrigheim
 street: "Hofgasse"
 housenumber: 13/1

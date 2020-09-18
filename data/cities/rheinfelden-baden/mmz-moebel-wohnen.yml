@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.5766457
 longitude: 7.797837800000001
-postcode: 79618
+postcode: "79618"
 city: Rheinfelden (Baden)
 street: "Großfeldstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.077746600000005
 longitude: 9.106260500000001
-postcode: 74336
+postcode: "74336"
 city: Brackenheim
 street: "Turmstraße"
 housenumber: 18

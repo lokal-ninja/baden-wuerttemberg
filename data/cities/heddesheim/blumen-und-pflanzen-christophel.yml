@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.504743500000004
 longitude: 8.6068826
-postcode: 68542
+postcode: "68542"
 city: Heddesheim
 street: "Oberdorfstraße"
 housenumber: 24

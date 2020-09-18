@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 48.5109094
 longitude: 9.0756507
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Aixer Straße"
 housenumber: 44

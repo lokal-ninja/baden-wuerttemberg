@@ -3,10 +3,10 @@ type: way
 shop: Metzgerei
 latitude: 48.6270747
 longitude: 8.921640400000001
-postcode: 71116
+postcode: "71116"
 city: Gärtringen
 street: "Gärtringer Straße"
 housenumber: 35
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-We 07:30-13:00;Th-Fr 07:30-13:00,15:00-18:00;Sa 07:30-12:30"
 website: ""

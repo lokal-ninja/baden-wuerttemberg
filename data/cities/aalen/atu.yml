@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.8319884
 longitude: 10.0973935
-postcode: 73431
+postcode: "73431"
 city: Aalen
 street: "Burgstallstraße"
 housenumber: 8

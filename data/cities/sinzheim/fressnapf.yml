@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 48.7717663
 longitude: 8.1717127
-postcode: 76547
+postcode: "76547"
 city: Sinzheim
 street: "Industriestraße"
 housenumber: 14b

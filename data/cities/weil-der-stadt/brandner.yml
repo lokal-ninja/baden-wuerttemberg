@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 48.750063000000004
 longitude: 8.871270800000001
-postcode: 71263
+postcode: "71263"
 city: Weil der Stadt
 street: "Stuttgarter Straße"
 housenumber: 1

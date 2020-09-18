@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.067953
 longitude: 8.6814858
-postcode: 75015
+postcode: "75015"
 city: Bretten
 street: "Ringstraße"
 housenumber: 2

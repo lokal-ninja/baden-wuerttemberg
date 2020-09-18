@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.4878045
 longitude: 8.473814500000001
-postcode: 68161
+postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 36

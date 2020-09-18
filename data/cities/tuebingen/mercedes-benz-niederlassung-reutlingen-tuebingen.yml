@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.519117900000005
 longitude: 9.0813944
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "August-Bebel-Straße"
 housenumber: 6

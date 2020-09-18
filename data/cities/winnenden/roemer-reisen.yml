@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 48.8761675
 longitude: 9.398082
-postcode: 71364
+postcode: "71364"
 city: Winnenden
 street: "Wagnerstraße"
 housenumber: 4

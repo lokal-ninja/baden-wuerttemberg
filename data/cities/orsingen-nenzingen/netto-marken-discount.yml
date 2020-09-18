@@ -3,9 +3,9 @@ type: way
 shop: Supermarkt
 latitude: 47.840741900000005
 longitude: 8.936275700000001
-postcode: 78359
+postcode: "78359"
 city: Orsingen-Nenzingen
-street: "Am alten Sportplatz"
+street: "Am Alten Sportplatz"
 housenumber: 1
 phone: ""
 opening_hours: ""

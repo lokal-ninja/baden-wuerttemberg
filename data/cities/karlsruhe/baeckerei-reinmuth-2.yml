@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.015011900000005
 longitude: 8.360498100000001
-postcode: 76185
+postcode: "76185"
 city: Karlsruhe
 street: "Hardtstraße"
 housenumber: 47

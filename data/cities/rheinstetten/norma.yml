@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.963324400000005
 longitude: 8.280051
-postcode: 76287
+postcode: "76287"
 city: Rheinstetten
 street: "Hertzstraße"
 housenumber: 4

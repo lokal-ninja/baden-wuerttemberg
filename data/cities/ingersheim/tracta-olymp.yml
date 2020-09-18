@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 48.958731300000004
 longitude: 9.172273800000001
-postcode: 74379
+postcode: "74379"
 city: Ingersheim
 street: "Freiberger Straße"
 housenumber: 26

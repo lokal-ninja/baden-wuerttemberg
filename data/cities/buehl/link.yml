@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 48.6939794
 longitude: 8.1352496
-postcode: 77815
+postcode: "77815"
 city: Bühl
 street: "Hauptstraße"
 housenumber: 20

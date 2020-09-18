@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.459389900000005
 longitude: 8.699769
-postcode: 72160
+postcode: "72160"
 city: Horb am Neckar
 street: "Rauher Grund"
 housenumber: 14

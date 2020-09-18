@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 48.4996352
 longitude: 9.1780895
-postcode: 72770
+postcode: "72770"
 city: Reutlingen
 street: "Steinachstraße"
 housenumber: 10

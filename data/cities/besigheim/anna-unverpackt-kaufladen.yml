@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.0000094
 longitude: 9.1406884
-postcode: 74354
+postcode: "74354"
 city: Besigheim
 street: "Hauptstraße"
 housenumber: 16

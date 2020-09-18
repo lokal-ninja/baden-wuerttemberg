@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 47.934327
 longitude: 8.4980065
-postcode: 78166
+postcode: "78166"
 city: Donaueschingen
 street: "Bregstraße"
 housenumber: 30

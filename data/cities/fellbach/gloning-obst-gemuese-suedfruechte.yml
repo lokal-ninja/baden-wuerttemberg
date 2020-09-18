@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 48.8429389
 longitude: 9.2650725
-postcode: 70736
+postcode: "70736"
 city: Fellbach
 street: "Hauptstraße"
 housenumber: 7

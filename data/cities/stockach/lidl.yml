@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 47.8497865
 longitude: 9.0102813
-postcode: 78333
+postcode: "78333"
 city: Stockach
 street: "Stadtwall"
 housenumber: 19

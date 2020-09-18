@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7018161
 longitude: 10.1688255
-postcode: 89520
+postcode: "89520"
 city: Heidenheim an der Brenz
 street: "Nattheimer Straße"
 housenumber: 100

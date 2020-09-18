@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.436146
 longitude: 8.6807085
-postcode: 69121
+postcode: "69121"
 city: Heidelberg
 street: "Fritz-Frey-Straße"
 housenumber: 15

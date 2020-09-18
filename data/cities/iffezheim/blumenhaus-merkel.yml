@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.8200815
 longitude: 8.147639
-postcode: 76473
+postcode: "76473"
 city: Iffezheim
 street: "Kapellenstraße"
 housenumber: 1

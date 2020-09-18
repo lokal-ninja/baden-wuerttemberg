@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.2313367
 longitude: 8.381587600000001
-postcode: 78713
+postcode: "78713"
 city: Schramberg
 street: "Bahnhofstraße"
 housenumber: 30

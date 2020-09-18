@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.404644700000006
 longitude: 9.389918600000001
-postcode: 74740
+postcode: "74740"
 city: Adelsheim
 street: "Marktstraße"
 housenumber: 25

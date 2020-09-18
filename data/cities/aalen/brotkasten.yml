@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.8373247
 longitude: 10.091826900000001
-postcode: 73430
+postcode: "73430"
 city: Aalen
 street: "Gmünder Torplatz"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 48.694451900000004
 longitude: 9.6634841
-postcode: 73037
+postcode: "73037"
 city: Göppingen
 street: "Heininger Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.418305700000005
 longitude: 8.7571288
-postcode: 69118
+postcode: "69118"
 city: Heidelberg
 street: "Kleingemünder Straße"
 housenumber: 1

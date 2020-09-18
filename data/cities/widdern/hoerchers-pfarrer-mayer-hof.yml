@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.345916
 longitude: 9.4383506
-postcode: 74259
+postcode: "74259"
 city: Widdern
 street: "Talstraße"
 housenumber: 33

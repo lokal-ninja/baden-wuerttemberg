@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.2142749
 longitude: 8.9873785
-postcode: 72458
+postcode: "72458"
 city: Albstadt
 street: "Keltenstraße"
 housenumber: 105

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 48.4935014
 longitude: 9.210647100000001
-postcode: 72764
+postcode: "72764"
 city: Reutlingen
 street: "Wilhelmstraße"
 housenumber: 29

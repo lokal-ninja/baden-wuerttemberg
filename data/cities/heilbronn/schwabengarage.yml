@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.1461866
 longitude: 9.2004824
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Georg-Vogel-Straße"
 housenumber: 10

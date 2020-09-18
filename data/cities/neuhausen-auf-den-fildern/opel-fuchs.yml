@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 48.6908199
 longitude: 9.2677203
-postcode: 73765
+postcode: "73765"
 city: Neuhausen auf den Fildern
 street: "Hegaustraße"
 housenumber: 15

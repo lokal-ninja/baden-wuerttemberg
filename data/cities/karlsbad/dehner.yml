@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 48.920185700000005
 longitude: 8.501435800000001
-postcode: 76307
+postcode: "76307"
 city: Karlsbad
 street: "Benzstraße"
 housenumber: 7-9

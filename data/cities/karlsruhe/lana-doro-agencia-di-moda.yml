@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.005957900000006
 longitude: 8.406310000000001
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kreuzstraße"
 housenumber: 37

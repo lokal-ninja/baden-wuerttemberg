@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.7616881
 longitude: 8.2403406
-postcode: 76530
+postcode: "76530"
 city: Baden-Baden
 street: "Gernsbacher Straße"
 housenumber: 4

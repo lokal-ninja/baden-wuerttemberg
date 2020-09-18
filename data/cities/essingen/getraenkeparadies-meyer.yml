@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 48.8165552
 longitude: 10.027932900000001
-postcode: 73457
+postcode: "73457"
 city: Essingen
 street: "Bahnhofstraße"
 housenumber: 77

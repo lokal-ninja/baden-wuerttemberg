@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.8063343
 longitude: 9.525986900000001
-postcode: 73614
+postcode: "73614"
 city: Schorndorf
 street: "Hetzelgasse"
 housenumber: 6

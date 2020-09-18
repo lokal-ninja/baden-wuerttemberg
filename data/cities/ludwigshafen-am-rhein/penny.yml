@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.482771400000004
 longitude: 8.4449965
-postcode: 67059
+postcode: "67059"
 city: Ludwigshafen am Rhein
 street: "Bahnhofstraße"
 housenumber: 12

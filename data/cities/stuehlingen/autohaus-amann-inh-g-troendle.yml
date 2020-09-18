@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 47.748866500000005
 longitude: 8.455446700000001
-postcode: 79780
+postcode: "79780"
 city: Stühlingen
 street: "Bundesstraße"
 housenumber: 14

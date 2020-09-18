@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.7277787
 longitude: 8.007869900000001
-postcode: 77839
+postcode: "77839"
 city: Lichtenau
 street: "Hauptstraße"
 housenumber: 2

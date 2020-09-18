@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.062993500000005
 longitude: 8.5340399
-postcode: 78054
+postcode: "78054"
 city: Villingen-Schwenningen
 street: "Kronenstraße"
 housenumber: 21

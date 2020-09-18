@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 48.9070052
 longitude: 9.780638900000001
-postcode: 73577
+postcode: "73577"
 city: Ruppertshofen
 street: "Gschwender Straße"
 housenumber: 34

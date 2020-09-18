@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 47.8140378
 longitude: 9.6377038
-postcode: 88250
+postcode: "88250"
 city: Weingarten
 street: "Argonnenstraße"
 housenumber: 9/3

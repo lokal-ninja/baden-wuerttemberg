@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.0077724
 longitude: 8.3867283
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Sophienstraße"
 housenumber: 68

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.4726567
 longitude: 8.6647005
-postcode: 69198
+postcode: "69198"
 city: Schriesheim
 street: "Heidelberger Straße"
 housenumber: 47

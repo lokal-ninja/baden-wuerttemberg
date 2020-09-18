@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.5457199
 longitude: 8.649629000000001
-postcode: 69469
+postcode: "69469"
 city: Weinheim
 street: "Birkenweg"
 housenumber: 3

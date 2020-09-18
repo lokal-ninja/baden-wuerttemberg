@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 48.721550400000005
 longitude: 9.2691608
-postcode: 73760
+postcode: "73760"
 city: Ostfildern
 street: "Bonhoefferstraße"
 housenumber: 4

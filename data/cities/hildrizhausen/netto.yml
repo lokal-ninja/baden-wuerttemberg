@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.6263644
 longitude: 8.9787886
-postcode: 71157
+postcode: "71157"
 city: Hildrizhausen
 street: "Auf der Höhe"
 housenumber: 1

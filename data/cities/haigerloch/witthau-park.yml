@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.3682827
 longitude: 8.7968016
-postcode: 72401
+postcode: "72401"
 city: Haigerloch
 street: "Oberstadtstraße"
 housenumber: 69

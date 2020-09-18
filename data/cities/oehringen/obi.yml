@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.189601700000004
 longitude: 9.49644
-postcode: 74613
+postcode: "74613"
 city: Öhringen
 street: "Steinsfeldle"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.1498495
 longitude: 9.1971934
-postcode: 74080
+postcode: "74080"
 city: Heilbronn
 street: "Neckargartacher Straße"
 housenumber: 110

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.1053416
 longitude: 8.481047100000001
-postcode: 76297
+postcode: "76297"
 city: Stutensee
 street: "Löwenstraße"
 housenumber: 39

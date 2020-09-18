@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 48.999716500000005
 longitude: 9.7696143
-postcode: 74405
+postcode: "74405"
 city: Gaildorf
 street: "Kanzleistraße"
 housenumber: 1

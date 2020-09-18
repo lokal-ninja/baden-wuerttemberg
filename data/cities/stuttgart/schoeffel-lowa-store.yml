@@ -1,12 +1,12 @@
 id: 4109297690
 type: node
 shop: Kleidung
-latitude: 48.7757926
-longitude: 9.1753613
-postcode: 70173
+latitude: 48.7758533
+longitude: 9.1753511
+postcode: "70173"
 city: Stuttgart
 street: "Gymnasiumstraße"
-housenumber: 
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: ""
+opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
+website: "https://schoeffel-lowa.de/store-finder/#wpsl-id-1366"

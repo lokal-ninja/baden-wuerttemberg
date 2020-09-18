@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.5403985
 longitude: 8.709360700000001
-postcode: 69517
+postcode: "69517"
 city: Gorxheimertal
 street: "Hauptstraße"
 housenumber: 15

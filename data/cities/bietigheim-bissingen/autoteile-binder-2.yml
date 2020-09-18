@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 48.941688400000004
 longitude: 9.128853900000001
-postcode: 74321
+postcode: "74321"
 city: Bietigheim-Bissingen
 street: "Carl-Benz-Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.3206378
 longitude: 9.362399700000001
-postcode: 74219
+postcode: "74219"
 city: Möckmühl
 street: "Waagerner Tal"
 housenumber: 20

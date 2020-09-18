@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 48.815802000000005
 longitude: 10.029020000000001
-postcode: 73457
+postcode: "73457"
 city: Essingen
 street: "Humboldtstraße"
 housenumber: 1

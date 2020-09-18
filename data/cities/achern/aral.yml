@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 48.628399400000006
 longitude: 8.063261
-postcode: 77855
+postcode: "77855"
 city: Achern
 street: "Fautenbacher Straße"
 housenumber: 22

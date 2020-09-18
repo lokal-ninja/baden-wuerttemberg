@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.4023052
 longitude: 8.6665425
-postcode: 69115
+postcode: "69115"
 city: Heidelberg
 street: "Langer Anger"
 housenumber: 58

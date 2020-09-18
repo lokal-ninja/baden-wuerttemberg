@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 48.831968
 longitude: 9.8806364
-postcode: 73574
+postcode: "73574"
 city: Iggingen
 street: "Gartenstraße"
 housenumber: 2/1

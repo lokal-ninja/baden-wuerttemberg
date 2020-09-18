@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.3730941
 longitude: 8.1255795
-postcode: 77784
+postcode: "77784"
 city: Oberharmersbach
 street: "Dorf"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.006374900000004
 longitude: 8.402231200000001
-postcode: 
+postcode: ""
 city: Karlsruhe
 street: "Ettlinger-Tor-Platz"
 housenumber: 1

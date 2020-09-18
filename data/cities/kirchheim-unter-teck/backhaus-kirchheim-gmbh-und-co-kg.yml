@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 48.6471796
 longitude: 9.452685200000001
-postcode: 73230
+postcode: "73230"
 city: Kirchheim unter Teck
 street: "Dreikönigstraße"
 housenumber: 11a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:30-18:15; Sa 07:30-14:00"
 website: ""

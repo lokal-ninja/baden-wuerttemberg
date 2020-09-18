@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 48.563663500000004
 longitude: 9.1694815
-postcode: 72124
+postcode: "72124"
 city: Pliezhausen
 street: "Hellestraße"
 housenumber: 26

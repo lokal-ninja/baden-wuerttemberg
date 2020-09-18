@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 48.7792608
 longitude: 9.1778603
-postcode: 70173
+postcode: "70173"
 city: Stuttgart
 street: "Königsbau-Passagen"
 housenumber: 26

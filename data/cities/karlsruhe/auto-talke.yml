@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.0262596
 longitude: 8.4739505
-postcode: 76229
+postcode: "76229"
 city: Karlsruhe
 street: "Ohmstraße"
 housenumber: 5

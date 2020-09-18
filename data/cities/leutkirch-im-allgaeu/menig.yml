@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 47.7875795
 longitude: 9.9535748
-postcode: 
+postcode: ""
 city: Leutkirch im Allgäu
 street: "Zollstraße"
 housenumber: 1

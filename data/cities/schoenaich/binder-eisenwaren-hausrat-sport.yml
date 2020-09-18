@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 48.6562436
 longitude: 9.0611548
-postcode: 71101
+postcode: "71101"
 city: Schönaich
 street: "Wettgasse"
 housenumber: 29

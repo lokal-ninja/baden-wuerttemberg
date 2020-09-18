@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 48.810679300000004
 longitude: 9.3643344
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Traubenstraße"
 housenumber: 3a

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 47.986428000000004
 longitude: 7.8067545
-postcode: 79115
+postcode: "79115"
 city: Freiburg im Breisgau
 street: "Bettackerstraße"
 housenumber: 

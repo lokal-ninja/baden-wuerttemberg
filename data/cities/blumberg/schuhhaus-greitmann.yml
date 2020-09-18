@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 47.840059600000004
 longitude: 8.5346282
-postcode: 78176
+postcode: "78176"
 city: Blumberg
 street: "Hauptstraße"
 housenumber: 40

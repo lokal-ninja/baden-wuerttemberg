@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 48.0941813
 longitude: 7.746544800000001
-postcode: 79356
+postcode: "79356"
 city: Eichstetten
 street: "Hauptstraße"
 housenumber: 30

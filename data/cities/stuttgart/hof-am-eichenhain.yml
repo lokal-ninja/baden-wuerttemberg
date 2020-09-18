@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 48.7332971
 longitude: 9.210647400000001
-postcode: 70619
+postcode: "70619"
 city: Stuttgart
 street: "Eichenparkstraße"
 housenumber: 2

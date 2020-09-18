@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 47.882057
 longitude: 7.7310208000000005
-postcode: 79219
+postcode: "79219"
 city: Staufen im Breisgau
 street: "Hauptstraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: way
 shop: Catering
 latitude: 48.5666433
 longitude: 9.1979732
-postcode: 72124
+postcode: "72124"
 city: Pliezhausen
 street: "Siemensstraße"
 housenumber: 5

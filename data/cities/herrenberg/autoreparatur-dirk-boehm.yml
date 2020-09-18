@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.60027830000001
 longitude: 8.8645596
-postcode: 71083
+postcode: "71083"
 city: Herrenberg
 street: "Zeppelinstraße"
 housenumber: 6

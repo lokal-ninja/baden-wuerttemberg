@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 48.518176600000004
 longitude: 9.0586982
-postcode: 72072
+postcode: "72072"
 city: Tübingen
 street: "Wöhrdstraße"
 housenumber: 4

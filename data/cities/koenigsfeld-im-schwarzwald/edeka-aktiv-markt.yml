@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.1360539
 longitude: 8.422026800000001
-postcode: 78126
+postcode: "78126"
 city: Königsfeld im Schwarzwald
 street: "Mönchweilerstraße"
 housenumber: 13

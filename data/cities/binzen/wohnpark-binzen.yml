@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 47.624035500000005
 longitude: 7.613009300000001
-postcode: 79589
+postcode: "79589"
 city: Binzen
 street: "Konrad-Zuse-Straße"
 housenumber: 6

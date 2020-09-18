@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 48.8060904
 longitude: 8.221509900000001
-postcode: 76532
+postcode: "76532"
 city: Baden-Baden
 street: "Karlsruher Straße"
 housenumber: 31

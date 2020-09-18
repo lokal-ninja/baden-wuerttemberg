@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 47.6844866
 longitude: 9.1370597
-postcode: 78467
+postcode: "78467"
 city: Konstanz
 street: "Byk-Gulden-Straße"
 housenumber: 24a

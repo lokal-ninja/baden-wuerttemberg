@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 48.671219
 longitude: 9.986361
-postcode: 89555
+postcode: "89555"
 city: Steinheim am Albuch
 street: "Kirchstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.2109114
 longitude: 8.528304700000001
-postcode: 68753
+postcode: "68753"
 city: Waghäusel
 street: "Hambrücker Landstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 48.520096800000005
 longitude: 9.0566691
-postcode: 72070
+postcode: "72070"
 city: Tübingen
 street: "Neckargasse"
 housenumber: 3

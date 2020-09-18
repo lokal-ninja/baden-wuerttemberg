@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.3944459
 longitude: 8.7971795
-postcode: 69151
+postcode: "69151"
 city: Neckargemünd
 street: "Mühlgasse"
 housenumber: 

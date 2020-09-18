@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.8056245
 longitude: 9.385358
-postcode: 71384
+postcode: "71384"
 city: Weinstadt
 street: "Buhlstraße"
 housenumber: 6

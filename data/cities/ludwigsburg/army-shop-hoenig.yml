@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 48.894212100000004
 longitude: 9.185319900000001
-postcode: 71638
+postcode: "71638"
 city: Ludwigsburg
 street: "Schillerstraße"
 housenumber: 14

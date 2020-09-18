@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 49.001202400000004
 longitude: 8.4108775
-postcode: 76137
+postcode: "76137"
 city: Karlsruhe
 street: "Rüppurrer Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.5973739
 longitude: 8.1134266
-postcode: 77876
+postcode: "77876"
 city: Kappelrodeck
 street: "Binzigstraße"
 housenumber: 26

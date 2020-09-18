@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 47.920552
 longitude: 8.6456099
-postcode: 78187
+postcode: "78187"
 city: Geisingen
 street: "Am Espen"
 housenumber: 16

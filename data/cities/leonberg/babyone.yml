@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 48.797217200000006
 longitude: 9.0026924
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Maybachstraße"
 housenumber: 6

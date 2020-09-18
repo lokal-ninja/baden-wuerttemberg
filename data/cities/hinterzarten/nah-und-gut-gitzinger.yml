@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 47.9115028
 longitude: 8.099759
-postcode: 79856
+postcode: "79856"
 city: Hinterzarten
 street: "Rößlehofweg"
 housenumber: 1

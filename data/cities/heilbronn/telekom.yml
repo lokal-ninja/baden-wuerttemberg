@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.1392467
 longitude: 9.218987700000001
-postcode: 74072
+postcode: "74072"
 city: Heilbronn
 street: "Am Wollhaus"
 housenumber: 2

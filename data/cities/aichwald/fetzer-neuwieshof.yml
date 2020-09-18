@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 48.764245
 longitude: 9.3928393
-postcode: 73773
+postcode: "73773"
 city: Aichwald
 street: "Neuwiesen"
 housenumber: 3

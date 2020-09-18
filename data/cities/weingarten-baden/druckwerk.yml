@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.0533566
 longitude: 8.5268546
-postcode: 76356
+postcode: "76356"
 city: Weingarten (Baden)
 street: "Bahnhofstraße"
 housenumber: 63

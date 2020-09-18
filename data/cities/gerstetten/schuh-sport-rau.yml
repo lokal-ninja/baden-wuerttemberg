@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 48.6226276
 longitude: 10.0210232
-postcode: 89547
+postcode: "89547"
 city: Gerstetten
 street: "Wilhelmstraße"
 housenumber: 25

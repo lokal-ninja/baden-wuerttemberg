@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.8903477
 longitude: 9.159089100000001
-postcode: 71636
+postcode: "71636"
 city: Ludwigsburg
 street: "Schwieberdinger Straße"
 housenumber: 140

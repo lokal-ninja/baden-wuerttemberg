@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 48.6960392
 longitude: 9.1642522
-postcode: 70771
+postcode: "70771"
 city: Leinfelden-Echterdingen
 street: "Nikolaus-Otto-Straße"
 housenumber: 9

@@ -3,10 +3,10 @@ type: node
 shop: Spirituosen
 latitude: 48.787458
 longitude: 9.193147600000001
-postcode: 70190
+postcode: "70190"
 city: Stuttgart
 street: "Neckarstraße"
 housenumber: 132
-phone: ""
-opening_hours: "Mo off; Tu-We 16:00-23:00; Th 16:00-00:00; Fr-Sa 16:00-01:00; Su 18:00-23:00"
+phone: "+49 711 50488662"
+opening_hours: "Mo-Th 16:00-23:00; Fr-Sa 16:00-24:00"
 website: "http://www.kraftpaule.de"

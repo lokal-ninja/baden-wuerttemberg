@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 48.7880538
 longitude: 9.0153355
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Glemseckstraße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.622021100000005
 longitude: 9.5290431
-postcode: 73235
+postcode: "73235"
 city: Weilheim an der Teck
 street: "Kirchheimer Straße"
 housenumber: 84/2

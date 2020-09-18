@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 48.5927273
 longitude: 9.2328334
-postcode: 72654
+postcode: "72654"
 city: Neckartenzlingen
 street: "Spenglerstraße"
 housenumber: 1

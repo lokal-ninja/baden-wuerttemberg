@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 49.010073000000006
 longitude: 8.3906264
-postcode: 76133
+postcode: "76133"
 city: Karlsruhe
 street: "Kaiserstraße"
 housenumber: 241

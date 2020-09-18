@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 48.4850785
 longitude: 9.194705
-postcode: 72762
+postcode: "72762"
 city: Reutlingen
 street: "Pestalozzistraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 48.5498491
 longitude: 10.287674800000001
-postcode: 89567
+postcode: "89567"
 city: Sontheim an der Brenz
 street: "Gartenstraße"
 housenumber: 35

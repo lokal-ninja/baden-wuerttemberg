@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 49.4977656
 longitude: 8.5003417
-postcode: 68167
+postcode: "68167"
 city: Mannheim
 street: "Alois-Senefelder-Straße"
 housenumber: 4

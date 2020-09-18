@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 48.8162864
 longitude: 9.019214100000001
-postcode: 71229
+postcode: "71229"
 city: Leonberg
 street: "Allmandweg"
 housenumber: 12
