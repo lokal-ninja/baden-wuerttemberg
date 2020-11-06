@@ -1,5 +1,5 @@
-baseURL = "https://lokal.ninja/baden-wuerttemberg"
-languageCode = "de-DE"
+baseURL = "https://de.shoogle.net/baden-wuerttemberg"
+languageCode = "de"
 title = "Baden-Württemberg"
 theme = "ln-base"
 
@@ -10,6 +10,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   section = ["HTML", "JSON"]
 
 [params]
-  site = "Lokal Ninja"
+  site = "Shoogle"
   org = "lokal-ninja"
   repo = "baden-wuerttemberg"
