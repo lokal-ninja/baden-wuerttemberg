@@ -1,4 +1,4 @@
 ---
-title: "EDEKA Notararigo"
+title: "Edeka Notararigo"
 url: /lichtenau/edeka-notararigo/
 ---

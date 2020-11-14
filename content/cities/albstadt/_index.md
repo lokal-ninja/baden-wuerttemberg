@@ -1,6 +1,6 @@
 ---
 title: Albstadt
 url: /albstadt/
-latitude: 48.2342372
-longitude: 9.010409300000001
+latitude: 48.233048000000004
+longitude: 8.9991483
 ---

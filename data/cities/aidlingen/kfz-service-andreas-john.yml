@@ -1,6 +1,6 @@
 id: 7437269794
 type: node
-shop: Autowerkstatt
+shop: Autohaus
 latitude: 48.6775146
 longitude: 8.8853457
 postcode: "71134"
@@ -8,5 +8,5 @@ city: Aidlingen
 street: "Hauptstraße"
 housenumber: 117/1
 phone: "+49 7034 993212"
-opening_hours: "Mo-Fr 08:00–12:00, 13:00–18:00"
+opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
 website: ""

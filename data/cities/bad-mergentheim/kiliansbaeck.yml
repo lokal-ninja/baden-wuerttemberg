@@ -1,12 +1,12 @@
-id: 1341738369
-type: node
+id: 516043924
+type: way
 shop: Bäckerei
-latitude: 49.4904804
-longitude: 9.7733462
+latitude: 49.490527400000005
+longitude: 9.773690700000001
 postcode: "97980"
 city: Bad Mergentheim
 street: "Marktplatz"
 housenumber: 13
-phone: ""
+phone: "+49 7931 561260"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00"
-website: ""
+website: "http://kiliansbaeck.de"

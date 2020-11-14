@@ -1,12 +1,12 @@
-id: 290690892
-type: way
+id: 8051083804
+type: node
 shop: Blumen
-latitude: 48.7862328
-longitude: 8.193288500000001
-postcode: ""
+latitude: 48.7878576
+longitude: 8.194188800000001
+postcode: "76532"
 city: Baden-Baden
-street: "Sinzheimer Straße"
-housenumber: 5
-phone: "+49 7221 17800"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+street: "Ooser Hauptstraße"
+housenumber: 3
+phone: ""
+opening_hours: "Mo-Fr 08:00-18:00; We,Sa 08:00-13:00"
 website: "https://www.lauerhass.de/"

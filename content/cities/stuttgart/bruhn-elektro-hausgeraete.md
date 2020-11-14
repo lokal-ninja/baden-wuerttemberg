@@ -1,4 +1,4 @@
 ---
-title: "Bruhn Elektro-Hausgeräte"
+title: "BRUHN Elektro-Hausgeräte"
 url: /stuttgart/bruhn-elektro-hausgeraete/
 ---

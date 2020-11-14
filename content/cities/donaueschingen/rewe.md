@@ -1,4 +1,4 @@
 ---
-title: "Rewe"
+title: "REWE"
 url: /donaueschingen/rewe/
 ---

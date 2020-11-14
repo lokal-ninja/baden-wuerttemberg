@@ -1,4 +1,4 @@
 ---
-title: "Alles Bike"
+title: "Alles-Bike"
 url: /neckartenzlingen/alles-bike/
 ---

@@ -1,12 +1,12 @@
-id: 1341738392
-type: node
+id: 516121569
+type: way
 shop: Optiker
-latitude: 49.491406000000005
-longitude: 9.7735293
+latitude: 49.49134230000001
+longitude: 9.7736474
 postcode: "97980"
 city: Bad Mergentheim
-street: ""
-housenumber: 
-phone: ""
+street: "Ledermarkt"
+housenumber: 8-10
+phone: "+49 7931 8862"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: ""
+website: "https://www.optik-werz.de"

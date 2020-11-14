@@ -1,4 +1,4 @@
 ---
-title: "Schuh Mann"
+title: "Schuh-Mann"
 url: /eppelheim/schuh-mann/
 ---

@@ -1,12 +1,12 @@
-id: 2271989177
-type: node
+id: 375732380
+type: way
 shop: Supermarkt
-latitude: 49.5934724
-longitude: 8.646952200000001
+latitude: 49.593633700000005
+longitude: 8.646954800000001
 postcode: "69502"
 city: Hemsbach
 street: "Berliner Straße"
 housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Berliner%20Stra%C3%9Fe%20569502%20Hemsbach&Mode=None#"

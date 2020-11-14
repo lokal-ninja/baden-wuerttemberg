@@ -1,6 +1,6 @@
 ---
 title: Bühlertal
 url: /buehlertal/
-latitude: 48.6851301
-longitude: 8.1894563
+latitude: 48.6868867
+longitude: 8.1872676
 ---

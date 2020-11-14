@@ -1,12 +1,12 @@
-id: 3397775967
+id: 3397775966
 type: node
 shop: Bäckerei
-latitude: 48.5219238
-longitude: 9.0580087
-postcode: "72074"
+latitude: 48.5166449
+longitude: 9.057404700000001
+postcode: "72072"
 city: Tübingen
-street: "Wilhelmstraße"
-housenumber: 8
-phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 08:00-14:00"
-website: ""
+street: "Europaplatz"
+housenumber: 2
+phone: "+49 7071 5495423"
+opening_hours: "Mo-Fr 06:30-20:00; Sa 09:00-20:00; Su 11:30-19:00"
+website: "https://www.cafelieb.de/"
