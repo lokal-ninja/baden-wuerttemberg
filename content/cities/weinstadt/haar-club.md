@@ -1,4 +1,4 @@
 ---
-title: "Haar Club"
+title: "haar club"
 url: /weinstadt/haar-club/
 ---

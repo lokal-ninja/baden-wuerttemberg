@@ -1,6 +1,6 @@
 ---
 title: Wehr
 url: /wehr/
-latitude: 47.6333361
-longitude: 7.9001508000000005
+latitude: 47.628607800000005
+longitude: 7.904641700000001
 ---

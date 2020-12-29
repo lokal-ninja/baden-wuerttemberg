@@ -1,12 +1,12 @@
-id: 231507775
-type: way
+id: 6691319613
+type: node
 shop: Supermarkt
-latitude: 48.8316522
-longitude: 9.1853973
-postcode: "70437"
+latitude: 48.770767000000006
+longitude: 9.1575206
+postcode: "70197"
 city: Stuttgart
-street: "Sontheimer Straße"
-housenumber: 10
-phone: "+49 711 1201923"
-opening_hours: "Mo-Sa 07:00-00:00"
-website: "https://www.rewe.de/marktseite/stuttgart/840309/rewe-markt-sontheimer-strasse-10/"
+street: "Schwabstraße"
+housenumber: 43
+phone: "+49 711 35144892"
+opening_hours: "Mo-Sa 07:00-24:00"
+website: "https://www.rewe.de/marktseite/stuttgart/831016/rewe-markt-schwabstrasse-43/"

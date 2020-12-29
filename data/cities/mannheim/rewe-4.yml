@@ -1,12 +1,12 @@
-id: 3444426184
+id: 6738535410
 type: node
 shop: Supermarkt
-latitude: 49.456933600000006
-longitude: 8.4807772
-postcode: "68199"
+latitude: 49.5097174
+longitude: 8.5147074
+postcode: "68309"
 city: Mannheim
-street: "Steubenstraße"
-housenumber: 76
-phone: ""
-opening_hours: "Mo-Sa 7:00-22:00"
-website: ""
+street: "Mannheimer Straße"
+housenumber: 38A
+phone: "+49 621 45181220"
+opening_hours: "Mo-Sa 07:00-24:00; Su,PH off"
+website: "https://www.rewe.de/marktseite/mannheim-universitaetsstadt/840623/rewe-markt-mannheimer-strasse-38-a/"

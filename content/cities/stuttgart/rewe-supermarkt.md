@@ -1,4 +1,4 @@
 ---
-title: "REWE Supermarkt"
+title: "Rewe Supermarkt"
 url: /stuttgart/rewe-supermarkt/
 ---

@@ -1,12 +1,12 @@
-id: 6691319613
-type: node
+id: 61755506
+type: way
 shop: Supermarkt
-latitude: 48.770767000000006
-longitude: 9.1575206
+latitude: 48.7738383
+longitude: 9.14497
 postcode: "70197"
 city: Stuttgart
-street: "Schwabstraße"
-housenumber: 43
+street: "Rückertstraße"
+housenumber: 7
 phone: ""
-opening_hours: "Mo-Sa 07:00-24:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.rewe.de/marktseite/stuttgart/830982/rewe-city-rueckertstrasse-7/"

@@ -1,4 +1,4 @@
 ---
-title: "WURZ"
+title: "Wurz"
 url: /metzingen/wurz/
 ---

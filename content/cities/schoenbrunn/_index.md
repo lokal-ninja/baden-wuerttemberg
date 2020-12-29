@@ -1,6 +1,6 @@
 ---
 title: Schönbrunn
 url: /schoenbrunn/
-latitude: 49.4115801
-longitude: 8.9302616
+latitude: 49.41076270000001
+longitude: 8.9294302
 ---

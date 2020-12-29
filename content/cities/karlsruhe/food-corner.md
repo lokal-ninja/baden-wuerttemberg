@@ -1,4 +1,4 @@
 ---
-title: "FOOD CORNER"
+title: "Food Corner"
 url: /karlsruhe/food-corner/
 ---

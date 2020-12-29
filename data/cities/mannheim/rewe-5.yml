@@ -1,12 +1,12 @@
-id: 6738535410
-type: node
+id: 164049483
+type: way
 shop: Supermarkt
-latitude: 49.5097174
-longitude: 8.5147074
+latitude: 49.517445
+longitude: 8.5108409
 postcode: "68309"
 city: Mannheim
-street: "Mannheimer Straße"
-housenumber: 38A
-phone: "+49 621 45181220"
-opening_hours: "Mo-Sa 07:00-24:00; Su,PH off"
-website: "https://www.rewe.de/marktseite/mannheim-universitaetsstadt/840623/rewe-markt-mannheimer-strasse-38-a/"
+street: "Dornheimer Ring"
+housenumber: 96
+phone: "+49 621 7185416"
+opening_hours: "Mo-Sa 07:00-24:00; PH off"
+website: "https://www.rewe.de/"

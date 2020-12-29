@@ -1,12 +1,12 @@
-id: 5570606175
-type: node
+id: 320329822
+type: way
 shop: Bäckerei
-latitude: 48.6991403
-longitude: 10.1599834
-postcode: "89520"
+latitude: 48.6749689
+longitude: 10.151623200000001
+postcode: "89522"
 city: Heidenheim an der Brenz
-street: "Heidenheimer Straße"
-housenumber: 133
+street: "Hauptstraße"
+housenumber: 79
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 05:30-12:30,14:00-18:00; We 05:30-12:30; Sa 05:30-12:30"
+opening_hours: ""
 website: ""

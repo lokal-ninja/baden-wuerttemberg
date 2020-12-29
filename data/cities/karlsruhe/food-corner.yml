@@ -1,12 +1,12 @@
-id: 8109565312
+id: 931682116
 type: node
-shop: Supermarkt
-latitude: 49.0094427
-longitude: 8.4234059
+shop: Lebensmittel
+latitude: 49.009441
+longitude: 8.423405500000001
 postcode: "76131"
 city: Karlsruhe
 street: "Ludwig-Wilhelm-Straße"
 housenumber: 20
 phone: ""
-opening_hours: "Mo-Sa 09:00-23:30"
+opening_hours: "Mo-Sa 09:00-23:30; Su,PH off"
 website: ""

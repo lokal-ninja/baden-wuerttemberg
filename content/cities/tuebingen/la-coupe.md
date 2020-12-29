@@ -1,0 +1,4 @@
+---
+title: "La Coupe"
+url: /tuebingen/la-coupe/
+---

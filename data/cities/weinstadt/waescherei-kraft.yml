@@ -8,5 +8,5 @@ city: Weinstadt
 street: "Schafgasse"
 housenumber: 5
 phone: "+49 7151 207160"
-opening_hours: "Mo-Sa 08:30-12:30, Mo, Tu, Th, Fr 14:30-18:00, Su, PH off"
+opening_hours: "Mo,Fr 09:00-12:30,14:30-18:00, Tu,Th,Sa 09:00-12:30, We,Su,PH off"
 website: ""

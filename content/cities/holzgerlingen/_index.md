@@ -1,6 +1,6 @@
 ---
 title: Holzgerlingen
 url: /holzgerlingen/
-latitude: 48.6391428
-longitude: 9.0116832
+latitude: 48.63921190000001
+longitude: 9.0115732
 ---
