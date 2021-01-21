@@ -1,6 +1,5 @@
 id: 199497827
 type: way
-shop: Bäckerei
 latitude: 47.9083145
 longitude: 9.8959738
 postcode: "88410"
@@ -8,5 +7,5 @@ city: Bad Wurzach
 street: "Marktstraße"
 housenumber: 12
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00"
 website: ""

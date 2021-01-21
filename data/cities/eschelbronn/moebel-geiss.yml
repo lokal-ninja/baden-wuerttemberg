@@ -1,6 +1,5 @@
 id: 208490482
 type: way
-shop: Möbel
 latitude: 49.320190700000005
 longitude: 8.8555914
 postcode: "74927"
@@ -8,5 +7,5 @@ city: Eschelbronn
 street: "Industriestraße"
 housenumber: 32
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
 website: ""

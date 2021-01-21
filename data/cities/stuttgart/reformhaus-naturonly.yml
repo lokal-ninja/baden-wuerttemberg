@@ -1,6 +1,5 @@
 id: 6897009996
 type: node
-shop: Lebensmittel
 latitude: 48.7765865
 longitude: 9.159822
 postcode: "70176"
@@ -8,5 +7,5 @@ city: Stuttgart
 street: "Breitscheidstraße"
 housenumber: 101
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-13:30"
 website: ""

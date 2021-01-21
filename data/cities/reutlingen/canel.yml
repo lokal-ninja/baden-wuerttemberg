@@ -1,6 +1,5 @@
 id: 5499092974
 type: node
-shop: Kosmetik
 latitude: 48.4935406
 longitude: 9.1994485
 postcode: "72762"
@@ -8,5 +7,5 @@ city: Reutlingen
 street: "Lohmühlestraße"
 housenumber: 4
 phone: "+49 174 6717484"
-opening_hours: "Su geschlossen; PH geschlossen"
+opening_hours: "Su closed; PH closed"
 website: ""

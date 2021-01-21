@@ -1,6 +1,5 @@
 id: 199488066
 type: way
-shop: Metzgerei
 latitude: 47.907027400000004
 longitude: 9.8940155
 postcode: "88410"
@@ -8,5 +7,5 @@ city: Bad Wurzach
 street: "Breiteweg"
 housenumber: 11
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30"
 website: ""

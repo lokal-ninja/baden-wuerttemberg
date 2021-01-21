@@ -1,12 +1,11 @@
-id: 436971265
-type: way
-shop: Raumausstattung
-latitude: 48.7830919
-longitude: 9.1804851
+id: 1353074392
+type: node
+latitude: 48.775081400000005
+longitude: 9.174841200000001
 postcode: "70173"
 city: Stuttgart
-street: "Klett-Passage"
-housenumber: 
+street: "Königstraße"
+housenumber: 56
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: ""
 website: ""

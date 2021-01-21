@@ -1,6 +1,5 @@
 id: 1034939473
 type: node
-shop: Drogerie
 latitude: 48.8144037
 longitude: 9.3651462
 postcode: "71384"
@@ -8,5 +7,5 @@ city: Weinstadt
 street: "Kalkofenstraße"
 housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; So, PH off"
+opening_hours: "Mo-Sa 07:30-20:00; Su,PH off"
 website: ""

@@ -1,12 +1,11 @@
-id: 3766289359
-type: node
-shop: Supermarkt
-latitude: 48.5943461
-longitude: 8.8603725
+id: 27219209
+type: way
+latitude: 48.594212600000006
+longitude: 8.8596737
 postcode: "71083"
 city: Herrenberg
 street: "Kalkofenstraße"
 housenumber: 50
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00"
+opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su off; PH off"
 website: ""

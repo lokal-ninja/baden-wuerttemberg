@@ -1,6 +1,5 @@
 id: 3086852001
 type: node
-shop: Friseur
 latitude: 48.7312707
 longitude: 9.1043676
 postcode: "70563"
@@ -8,5 +7,5 @@ city: Stuttgart
 street: "Bachstraße"
 housenumber: 39
 phone: ""
-opening_hours: "Tu,Th 08:00-18:00; Mo 12:00-20:00; We 08:00-20:00; Fr 08:00-17:00; Sa 08:00-13:00"
+opening_hours: "Tu,Th 08:00-18:00; Mo 12:00-20:00; We 08:00-20:00; Fr 08:00-18:00; Sa 08:00-13:00"
 website: ""

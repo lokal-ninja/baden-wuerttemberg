@@ -1,6 +1,5 @@
 id: 6753841475
 type: node
-shop: Bäckerei
 latitude: 48.7975761
 longitude: 8.4372147
 postcode: "76332"
@@ -8,5 +7,5 @@ city: Bad Herrenalb
 street: "Dobler Straße"
 housenumber: 4
 phone: ""
-opening_hours: "Mo-Fr: 06:00 - 18:00, Sa: 06:00 - 12:30, So: 08:00 - 17:00"
+opening_hours: "Mo-Fr 06:00-18:00, Sa 06:00-12:30, Su 08:00-17:00"
 website: ""

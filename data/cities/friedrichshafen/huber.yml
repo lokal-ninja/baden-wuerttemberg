@@ -1,12 +1,11 @@
 id: 1429334803
 type: node
-shop: Schuhe
 latitude: 47.683420700000006
 longitude: 9.467749900000001
 postcode: "88048"
 city: Friedrichshafen
 street: "Grötzelstraße"
 housenumber: 24
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 7541 51452"
+opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,14:30-18:00, We 08:30-12:30; Sa,Su,PH off"
+website: "http://huber-fn.de/"

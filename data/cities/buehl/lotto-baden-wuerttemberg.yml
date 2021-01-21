@@ -1,6 +1,5 @@
 id: 6438418685
 type: node
-shop: Lotterie
 latitude: 48.6962872
 longitude: 8.1367296
 postcode: "77815"
@@ -8,5 +7,5 @@ city: Bühl
 street: "Hauptstraße"
 housenumber: 60
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-16:00; Sa 09:00-14:00"
 website: ""

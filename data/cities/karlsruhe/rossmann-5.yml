@@ -1,12 +1,11 @@
-id: 4844351576
-type: node
-shop: Drogerie
-latitude: 48.9975074
-longitude: 8.3591352
-postcode: "76185"
+id: 890691950
+type: way
+latitude: 49.0014169
+longitude: 8.4065659
+postcode: "76137"
 city: Karlsruhe
-street: "Herrmann-Leichtlin-Straße"
-housenumber: 11
+street: "Werderstraße"
+housenumber: 36-38
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-20:00; PH off"
 website: ""

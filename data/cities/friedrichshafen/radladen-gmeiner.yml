@@ -1,6 +1,5 @@
 id: 2054016602
 type: node
-shop: Fahrrad
 latitude: 47.6541933
 longitude: 9.466092300000001
 postcode: "88045"
@@ -8,5 +7,5 @@ city: Friedrichshafen
 street: "Werastraße"
 housenumber: 29
 phone: "+49 7541 378 307 0"
-opening_hours: "Mo-Tu, Th-Fr 09:00-12:30, 14:00-18:00; We, Sa 09:00-12:30"
+opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We,Sa 09:00-12:30; Su,PH off"
 website: "http://www.radladengmeiner.de/"

@@ -1,6 +1,5 @@
 id: 6815561067
 type: node
-shop: Bäckerei
 latitude: 48.662912500000004
 longitude: 8.6921095
 postcode: "75387"
@@ -8,5 +7,5 @@ city: Neubulach
 street: "Calwer Straße"
 housenumber: 22
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:30; So 08:00-17:30"
+opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:30; Su 08:00-17:30"
 website: ""

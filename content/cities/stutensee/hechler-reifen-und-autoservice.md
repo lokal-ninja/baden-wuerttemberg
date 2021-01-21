@@ -1,4 +1,5 @@
 ---
-title: "Hechler Reifen- & Autoservice"
+title: "HECHLER Reifen- & Autoservice"
 url: /stutensee/hechler-reifen-und-autoservice/
+shop: Reifen
 ---

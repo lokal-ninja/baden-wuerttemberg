@@ -1,12 +1,11 @@
-id: 198384967
-type: way
-shop: Supermarkt
-latitude: 49.0942833
-longitude: 8.559105500000001
+id: 8287688348
+type: node
+latitude: 49.105501200000006
+longitude: 8.5302515
 postcode: "76646"
 city: Bruchsal
-street: "Im Schollengarten"
-housenumber: 1a
+street: "Neutharder Straße"
+housenumber: 7
 phone: ""
-opening_hours: ""
-website: "https://www.penny.de/startseite/"
+opening_hours: "Mo-Sa 07:30-21:00"
+website: ""

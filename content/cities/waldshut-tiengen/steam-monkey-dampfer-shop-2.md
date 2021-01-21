@@ -1,4 +1,5 @@
 ---
 title: "STEAM MONKEY Dampfer-Shop"
 url: /waldshut-tiengen/steam-monkey-dampfer-shop-2/
+shop: E-Zigaretten
 ---

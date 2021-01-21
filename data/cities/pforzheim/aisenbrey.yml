@@ -1,6 +1,5 @@
 id: 1576509876
 type: node
-shop: Bäckerei
 latitude: 48.887256300000004
 longitude: 8.6967782
 postcode: "75173"
@@ -8,5 +7,5 @@ city: Pforzheim
 street: "Jahnstraße"
 housenumber: 33
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-17:00"
 website: ""

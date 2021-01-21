@@ -1,6 +1,5 @@
 id: 3506002974
 type: node
-shop: Gebrauchtwaren
 latitude: 48.9979432
 longitude: 8.3934966
 postcode: "76137"
@@ -8,5 +7,5 @@ city: Karlsruhe
 street: "Karlstraße"
 housenumber: 124
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00;Sa 10:00-13:00;Su,PH off"
+opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; Su,PH off"
 website: ""

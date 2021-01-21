@@ -1,6 +1,5 @@
 id: 2117505323
 type: node
-shop: Getränke
 latitude: 49.4105597
 longitude: 8.6485315
 postcode: "69123"
@@ -8,5 +7,5 @@ city: Heidelberg
 street: "Wieblinger Weg"
 housenumber: 97
 phone: "+49 6221 759030"
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
 website: "http://www.bierschaaff.de"

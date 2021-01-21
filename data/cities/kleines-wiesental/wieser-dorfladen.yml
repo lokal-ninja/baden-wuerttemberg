@@ -1,6 +1,5 @@
 id: 1258710708
 type: node
-shop: Lebensmittel
 latitude: 47.749157000000004
 longitude: 7.7694808
 postcode: "79692"
@@ -8,5 +7,5 @@ city: Kleines Wiesental
 street: "Wieser Dorfstraße"
 housenumber: 10a
 phone: "+49 7629 912041"
-opening_hours: "Mo-Sa 08:00-12:30 Fr 16:00-18:00"
+opening_hours: "Mo-Sa 08:00-12:30; Fr 16:00-18:00"
 website: "https://www.facebook.com/dorfladenwies/"

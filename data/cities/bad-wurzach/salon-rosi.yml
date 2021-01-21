@@ -1,6 +1,5 @@
 id: 89503979
 type: way
-shop: Friseur
 latitude: 47.9088512
 longitude: 9.8975639
 postcode: "88410"
@@ -8,5 +7,5 @@ city: Bad Wurzach
 street: "Marktstraße"
 housenumber: 24
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-13:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 89480599
 type: way
-shop: Metzgerei
 latitude: 47.9085479
 longitude: 9.894388000000001
 postcode: "88410"
@@ -8,5 +7,5 @@ city: Bad Wurzach
 street: "Herrenstraße"
 housenumber: 7
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Tu 07:00-12:30,14:00-18:00; We 07:00-12:30; Th-Fr 07:00-12:30,14:00-18:00; Sa 06:30-12:30; PH off"
+website: "https://www.metzgerei-wegmann.de"

@@ -1,6 +1,5 @@
 id: 7241117769
 type: node
-shop: Kosmetik
 latitude: 48.672046400000006
 longitude: 9.239712500000001
 postcode: "70794"
@@ -8,5 +7,5 @@ city: Filderstadt
 street: "Lange Straße"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr:10:00-12:30 14:30-18:00"
+opening_hours: "Mo-Fr 10:00-12:30,14:30-18:00"
 website: ""

@@ -1,12 +1,11 @@
-id: 130038191
-type: way
-shop: Supermarkt
-latitude: 48.961034100000006
-longitude: 9.1303725
+id: 1654903797
+type: node
+latitude: 48.947917600000004
+longitude: 9.1335926
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Talstraße"
-housenumber: 4
+street: "Prinz-Eugen-Straße"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30; Su off"
+opening_hours: ""
 website: ""

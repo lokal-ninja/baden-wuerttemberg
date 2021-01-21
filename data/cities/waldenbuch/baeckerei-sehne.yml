@@ -1,6 +1,5 @@
 id: 7319719484
 type: node
-shop: Bäckerei
 latitude: 48.6395454
 longitude: 9.1393166
 postcode: "71111"
@@ -8,5 +7,5 @@ city: Waldenbuch
 street: "Liebenaustraße"
 housenumber: 40
 phone: ""
-opening_hours: "Mo-Sa 06:30-18:00; So 08:00-11:00"
+opening_hours: "Mo-Sa 06:30-18:00; Su 08:00-11:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 1854300762
 type: node
-shop: Bäckerei
 latitude: 48.830935800000006
 longitude: 9.793975600000001
 postcode: "73557"
@@ -8,5 +7,5 @@ city: Mutlangen
 street: "In der Breite"
 housenumber: 7
 phone: "+49 7171 9087524"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00; PH geschlossen"
+opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00; PH closed"
 website: "https://www.schmid-kuhn.de"

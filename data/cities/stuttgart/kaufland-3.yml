@@ -1,12 +1,11 @@
-id: 111326834
-type: way
-shop: Supermarkt
-latitude: 48.7750682
-longitude: 9.258095200000001
-postcode: "70327"
+id: 3607642242
+type: node
+latitude: 48.7309348
+longitude: 9.150056900000001
+postcode: "70567"
 city: Stuttgart
-street: "Augsburger Straße"
-housenumber: 460
+street: "Rembrandtstraße"
+housenumber: 47
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

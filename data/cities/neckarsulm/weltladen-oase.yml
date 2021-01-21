@@ -1,6 +1,5 @@
 id: 2478790881
 type: node
-shop: Supermarkt
 latitude: 49.196487000000005
 longitude: 9.1996643
 postcode: "74172"
@@ -8,5 +7,5 @@ city: Neckarsulm
 street: "Hauptstraße"
 housenumber: 19
 phone: "+49 7132 982728"
-opening_hours: "Mo. – Sa.:  9 – 12 Uhr, Fr. auch   15 – 18 Uhr, sonst nachmittags geschlossen"
+opening_hours: "Mo-Sa 09:00-12:00, Fr 15:00-18:00"
 website: "http://Weltladen-Neckarsulm.de"

@@ -1,12 +1,11 @@
-id: 297141238
-type: way
-shop: Supermarkt
-latitude: 49.1048838
-longitude: 9.7014615
+id: 281724484
+type: node
+latitude: 49.109676
+longitude: 9.7926818
 postcode: "74523"
 city: Schwäbisch Hall
-street: "Steinbeisweg"
-housenumber: 30
+street: "Raiffeisenstraße"
+housenumber: 22
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: ""
 website: ""

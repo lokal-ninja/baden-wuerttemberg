@@ -1,6 +1,5 @@
 id: 4091248048
 type: node
-shop: Motorrad
 latitude: 48.4920702
 longitude: 9.159427200000001
 postcode: "72770"
@@ -8,5 +7,5 @@ city: Reutlingen
 street: "Ferdinand-Lassalle-Straße"
 housenumber: 17
 phone: ""
-opening_hours: "Feb-Sep Mo-Sa 09:00-20:00; Oct-Jan Mo-Sa 09:30-19:00; Su,PH off"
+opening_hours: "Feb-Sep Mo-Sa 09:00-20:00; Oct-Jan Mo-Sa 10:00-19:00; PH,Su off"
 website: ""

@@ -1,4 +1,5 @@
 ---
-title: "le Salon"
+title: "Le Salon"
 url: /bad-wurzach/le-salon/
+shop: Friseur
 ---

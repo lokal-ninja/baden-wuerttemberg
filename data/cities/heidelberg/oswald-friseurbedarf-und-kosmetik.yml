@@ -1,6 +1,5 @@
 id: 2197557661
 type: node
-shop: Kosmetik
 latitude: 49.4058354
 longitude: 8.664506000000001
 postcode: "69115"
@@ -8,5 +7,5 @@ city: Heidelberg
 street: "Eppelheimer Straße"
 housenumber: 14
 phone: "+49 6221 755 83-0"
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-18:00"
 website: "https://www.oswald-online.de/"

@@ -1,6 +1,5 @@
 id: 2104218909
 type: node
-shop: Bäckerei
 latitude: 48.8322918
 longitude: 10.072731000000001
 postcode: "73430"
@@ -8,5 +7,5 @@ city: Aalen
 street: "Gartenstraße"
 housenumber: 160
 phone: "+49 7361 5579270"
-opening_hours: "Mo-Sa 07:00-21:00; So 07:00 - 12:00"
+opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-12:00"
 website: "http://handwerksbaeckerei-mack.de"

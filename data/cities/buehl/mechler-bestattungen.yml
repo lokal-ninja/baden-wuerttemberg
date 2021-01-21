@@ -1,6 +1,5 @@
 id: 2964024033
 type: node
-shop: Bestattungen
 latitude: 48.697056700000005
 longitude: 8.1375256
 postcode: "77815"
@@ -8,5 +7,5 @@ city: Bühl
 street: "Hauptstraße"
 housenumber: 78
 phone: "+49 7223 990860"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-12:00,13:30-17:00"
 website: "https://www.mechler-bestattungen.de/"

@@ -1,6 +1,5 @@
 id: 1797455901
 type: node
-shop: Schuhe
 latitude: 48.4923647
 longitude: 9.1602843
 postcode: "72770"
@@ -8,5 +7,5 @@ city: Reutlingen
 street: "Ferdinand-Lassalle-Straße"
 housenumber: 17
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00"
 website: ""

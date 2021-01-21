@@ -1,6 +1,5 @@
 id: 3659091237
 type: node
-shop: Wäscherei
 latitude: 47.6697453
 longitude: 9.493526600000001
 postcode: "88046"
@@ -8,5 +7,5 @@ city: Friedrichshafen
 street: "Gutenbergstraße"
 housenumber: 7
 phone: "+49 75 41 4 38 66"
-opening_hours: "Mo-Fr 07:00-15:30; Oct 1-Apr 1: We-Fr 07:00-12:00; Sa,Su,PH off"
+opening_hours: "Mo-Fr 07:00-15:30; Oct 01-Apr 01: We-Fr 07:00-12:00; Sa,Su,PH off"
 website: "https://www.reinigung-weber.de/"

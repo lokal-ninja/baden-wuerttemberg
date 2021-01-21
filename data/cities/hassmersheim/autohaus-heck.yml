@@ -1,6 +1,5 @@
 id: 5308350840
 type: node
-shop: Autowerkstatt
 latitude: 49.3005329
 longitude: 9.1447207
 postcode: "74855"
@@ -8,5 +7,5 @@ city: Haßmersheim
 street: "Theodor-Heuss-Straße"
 housenumber: 53
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30 Sa 08:00-17:00"
+opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-17:00"
 website: ""

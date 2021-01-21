@@ -1,6 +1,5 @@
 id: 2315637209
 type: node
-shop: Fahrrad
 latitude: 48.510544900000006
 longitude: 9.079178200000001
 postcode: "72072"
@@ -8,5 +7,5 @@ city: Tübingen
 street: "Mirabeauweg"
 housenumber: 4
 phone: ""
-opening_hours: "We-Fr 10:00-13:00,14:30-18:30; Sa 10:00-14:00; Mo, Tu, Su, PH off"
+opening_hours: "We-Fr 10:00-12:00,15:00-18:30; Sa 10:00-13:00"
 website: ""

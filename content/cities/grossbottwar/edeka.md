@@ -1,4 +1,5 @@
 ---
-title: "EDEKA"
+title: "Edeka"
 url: /grossbottwar/edeka/
+shop: Supermarkt
 ---

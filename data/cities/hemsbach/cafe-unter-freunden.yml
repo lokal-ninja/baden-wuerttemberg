@@ -1,6 +1,5 @@
 id: 4044709185
 type: node
-shop: Konditorei
 latitude: 49.590184400000005
 longitude: 8.6382989
 postcode: "69502"
@@ -8,5 +7,5 @@ city: Hemsbach
 street: "Giselherstraße"
 housenumber: 53
 phone: ""
-opening_hours: "Mi-Mo 13:00-20:00"
+opening_hours: "We-Mo 13:00-20:00"
 website: "https://www.hemsbach.de/index.php/freizeit-kultur-tourismus/tourismus/gastronomie/2111-cafe-unter-freunden"

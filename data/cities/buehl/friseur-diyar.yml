@@ -1,6 +1,5 @@
 id: 2964008433
 type: node
-shop: Friseur
 latitude: 48.6973527
 longitude: 8.1373773
 postcode: "77815"
@@ -8,5 +7,5 @@ city: Bühl
 street: "Hauptstraße"
 housenumber: 84
 phone: "+49 7223 8011538"
-opening_hours: ""
+opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
 website: ""

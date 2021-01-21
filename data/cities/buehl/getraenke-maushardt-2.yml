@@ -1,6 +1,5 @@
 id: 302275637
 type: node
-shop: Getränke
 latitude: 48.6965366
 longitude: 8.1304119
 postcode: "77815"
@@ -8,5 +7,5 @@ city: Bühl
 street: "Eisenbahnstraße"
 housenumber: 39
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:15; Sa 08:00-14:00"
 website: "https://www.getränke-maushardt.de/"

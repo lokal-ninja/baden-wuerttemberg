@@ -1,6 +1,5 @@
 id: 42309128
 type: way
-shop: Lebensmittel
 latitude: 48.7309531
 longitude: 9.1067572
 postcode: "70563"
@@ -8,5 +7,5 @@ city: Stuttgart
 street: "Seerosenstraße"
 housenumber: 13
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-19:30"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-19:00"
 website: ""

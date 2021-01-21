@@ -1,6 +1,5 @@
 id: 199497810
 type: way
-shop: Elektronik
 latitude: 47.907965700000005
 longitude: 9.897074100000001
 postcode: "88410"
@@ -8,5 +7,5 @@ city: Bad Wurzach
 street: "Bürgerstraße"
 housenumber: 16
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-12:00, Mo,Tu,Th 14:00-18:00"
 website: ""

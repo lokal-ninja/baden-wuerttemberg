@@ -1,6 +1,5 @@
 id: 91247928
 type: way
-shop: Hörgeräte
 latitude: 47.9089316
 longitude: 9.8977442
 postcode: "88410"
@@ -8,5 +7,5 @@ city: Bad Wurzach
 street: "Marktstraße"
 housenumber: 28
 phone: "+49 7564 9199842"
-opening_hours: ""
+opening_hours: "Mo-Tu 09:00-12:30,14:00-18:00; We 09:00-13:00; Th 09:00-12:30,14:00-18:00; Fr 09:00-13:00; Ph off"
 website: "https://www.die-hoermanufaktur.de/"
