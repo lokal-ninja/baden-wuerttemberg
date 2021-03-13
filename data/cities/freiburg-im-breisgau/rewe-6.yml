@@ -1,11 +1,11 @@
-id: 6802028127
-type: node
-latitude: 47.973754500000005
-longitude: 7.8281745
-postcode: "79100"
+id: 27605351
+type: way
+latitude: 48.0221401
+longitude: 7.8493649
+postcode: "79108"
 city: Freiburg im Breisgau
-street: "Merzhauser Straße"
-housenumber: 172
+street: "Tullastraße"
+housenumber: 50
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

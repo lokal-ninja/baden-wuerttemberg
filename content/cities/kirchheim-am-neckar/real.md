@@ -1,5 +1,5 @@
 ---
-title: "real,-"
+title: "Real"
 url: /kirchheim-am-neckar/real/
-shop: Warenhaus
+shop: Supermarkt
 ---

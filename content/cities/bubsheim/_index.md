@@ -1,6 +1,6 @@
 ---
 title: Bubsheim
 url: /bubsheim/
-latitude: 48.120172800000006
-longitude: 8.829911000000001
+latitude: 48.1201695
+longitude: 8.829933
 ---

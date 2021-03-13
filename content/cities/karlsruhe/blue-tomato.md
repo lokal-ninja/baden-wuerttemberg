@@ -1,5 +1,5 @@
 ---
-title: "Blue Tomato"
+title: "blue tomato"
 url: /karlsruhe/blue-tomato/
-shop: Kleidung
+shop: Sport
 ---

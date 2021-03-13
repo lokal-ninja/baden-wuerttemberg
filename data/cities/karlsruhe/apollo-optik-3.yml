@@ -1,11 +1,11 @@
-id: 4278714818
-type: node
-latitude: 49.004536900000005
-longitude: 8.4480008
-postcode: "76137"
+id: 24012868
+type: way
+latitude: 49.0309029
+longitude: 8.367562600000001
+postcode: "76185"
 city: Karlsruhe
-street: "Durlacher Allee"
-housenumber: 111
+street: "Landauer Straße"
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
+opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00"
 website: ""

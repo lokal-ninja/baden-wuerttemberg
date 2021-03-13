@@ -1,11 +1,11 @@
-id: 1531454889
-type: node
-latitude: 49.011421500000004
-longitude: 8.3604111
-postcode: "76185"
+id: 910237115
+type: way
+latitude: 49.0068355
+longitude: 8.4023114
+postcode: "76133"
 city: Karlsruhe
-street: "Rheinstraße"
-housenumber: 32
+street: "Ettlinger-Tor-Platz"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: "Mo-We,Fr 10:00-20:00; Sa 09:00-20:00"
 website: ""

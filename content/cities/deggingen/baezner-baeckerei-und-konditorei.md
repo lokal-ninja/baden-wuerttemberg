@@ -1,5 +1,5 @@
 ---
 title: "Bäzner Bäckerei und Konditorei"
 url: /deggingen/baezner-baeckerei-und-konditorei/
-shop: Leerstehend
+shop: Bäckerei
 ---

@@ -1,11 +1,11 @@
-id: 1667921199
-type: node
-latitude: 48.760758700000004
-longitude: 9.2714393
-postcode: "70329"
+id: 124461617
+type: way
+latitude: 48.819091
+longitude: 9.2269688
+postcode: "70376"
 city: Stuttgart
-street: "Augsburger Straße"
-housenumber: 704
+street: "Neckartalstraße"
+housenumber: 300
 phone: ""
-opening_hours: "24/7"
+opening_hours: ""
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /stuttgart/shell/
-shop: Lebensmittel
+shop: Allgemein
 ---

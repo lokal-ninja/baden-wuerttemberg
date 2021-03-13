@@ -1,5 +1,5 @@
 ---
 title: "Cindy Beck"
 url: /balingen/cindy-beck/
-shop: Friseur
+shop: Kosmetik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Schwendi
 url: /schwendi/
-latitude: 48.1755562
-longitude: 9.978283300000001
+latitude: 48.1756438
+longitude: 9.978495200000001
 ---

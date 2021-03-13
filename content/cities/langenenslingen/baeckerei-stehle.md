@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Stehle"
 url: /langenenslingen/baeckerei-stehle/
-shop: Supermarkt
+shop: Bäckerei
 ---
