@@ -1,5 +1,5 @@
 ---
 title: "Foto Becker"
 url: /heidenheim-an-der-brenz/foto-becker/
-shop: Elektronik
+shop: Foto
 ---

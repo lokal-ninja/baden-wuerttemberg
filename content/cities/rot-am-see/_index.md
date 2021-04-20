@@ -1,6 +1,6 @@
 ---
 title: Rot am See
 url: /rot-am-see/
-latitude: 49.2526163
-longitude: 10.0246224
+latitude: 49.252745000000004
+longitude: 10.024851700000001
 ---

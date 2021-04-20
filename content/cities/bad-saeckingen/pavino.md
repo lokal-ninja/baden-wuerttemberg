@@ -1,5 +1,5 @@
 ---
 title: "Pavino"
 url: /bad-saeckingen/pavino/
-shop: Allgemein
+shop: Wein
 ---

@@ -1,5 +1,5 @@
 ---
-title: "punctum"
+title: "Punctum"
 url: /stuttgart/punctum/
 shop: Bücher
 ---
