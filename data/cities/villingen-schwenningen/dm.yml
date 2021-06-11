@@ -1,11 +1,11 @@
-id: 170670596
-type: way
-latitude: 48.0634208
-longitude: 8.5579354
-postcode: "78056"
+id: 355878804
+type: node
+latitude: 48.059892600000005
+longitude: 8.4563305
+postcode: "78050"
 city: Villingen-Schwenningen
-street: "Rottweiler Straße"
-housenumber: 120
-phone: "+49 7720 9417933"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: ""
+street: "Rietstraße"
+housenumber: 40
+phone: "+49 7721 2061598"
+opening_hours: "Mo-Sa 08:00-19:00; PH off"
+website: "http://www.dm-drogeriemarkt.de"

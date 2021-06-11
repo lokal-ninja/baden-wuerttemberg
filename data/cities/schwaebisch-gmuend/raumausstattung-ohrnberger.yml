@@ -1,11 +1,11 @@
-id: 6885737160
-type: node
-latitude: 48.7880891
-longitude: 9.752803400000001
-postcode: "73529"
+id: 94014366
+type: way
+latitude: 48.8023655
+longitude: 9.799856100000001
+postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Alexander-von-Humboldt-Straße"
-housenumber: 17
+street: "Hintere Schmiedgasse"
+housenumber: 29
 phone: ""
-opening_hours: "Mo-Tu 09:30-13:00, 14:00-18:00; We 09:30-13:00; Th-Fr 09:30-13:00, 14:00-18:00"
-website: "http://ohrnberger-raumausstattung.de/"
+opening_hours: ""
+website: ""

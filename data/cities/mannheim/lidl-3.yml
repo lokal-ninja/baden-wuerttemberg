@@ -1,11 +1,11 @@
-id: 121465246
-type: way
-latitude: 49.5474383
-longitude: 8.4802791
-postcode: "68307"
+id: 7477034813
+type: node
+latitude: 49.430421100000004
+longitude: 8.533206100000001
+postcode: "68219"
 city: Mannheim
-street: "Lilienthalstraße"
-housenumber: 305
+street: "Rheinauer Ring"
+housenumber: 95
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:30-21:00; Su,PH off"
+website: "https://www.lidl.de/filialen/mannheim/rheinau-rheinauer-ring-95.html"

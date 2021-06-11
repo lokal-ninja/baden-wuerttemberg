@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
 url: /biberach-an-der-riss/rewe/
-shop: Getränke
+shop: Supermarkt
 ---

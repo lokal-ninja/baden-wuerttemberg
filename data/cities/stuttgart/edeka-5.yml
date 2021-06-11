@@ -1,11 +1,11 @@
-id: 6849506493
+id: 3219910767
 type: node
-latitude: 48.775917400000004
-longitude: 9.160282200000001
-postcode: "70176"
+latitude: 48.7296562
+longitude: 9.1118929
+postcode: "70563"
 city: Stuttgart
-street: "Schloßstraße"
-housenumber: 104
+street: "Hauptstraße"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-weckert-schlo%C3%9Fstra%C3%9Fe-104/index.jsp"
+opening_hours: "Mo-Fr 08:00-21:00; Sa 07:00-21:00"
+website: ""
