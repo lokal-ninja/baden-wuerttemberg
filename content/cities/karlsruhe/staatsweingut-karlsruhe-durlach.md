@@ -1,5 +1,0 @@
----
-title: "Staatsweingut Karlsruhe-Durlach"
-url: /karlsruhe/staatsweingut-karlsruhe-durlach/
-shop: Wein
----

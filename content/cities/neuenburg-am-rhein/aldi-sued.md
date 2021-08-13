@@ -1,5 +1,0 @@
----
-title: "Aldi Süd"
-url: /neuenburg-am-rhein/aldi-sued/
-shop: Supermarkt
----
