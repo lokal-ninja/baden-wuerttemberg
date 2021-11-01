@@ -1,5 +1,5 @@
 ---
-title: "Rossmann"
+title: "ROSSMANN"
 url: /winterbach/rossmann/
 shop: Drogerie
 ---

@@ -1,11 +1,11 @@
-id: 3534156922
-type: node
-latitude: 49.0100641
-longitude: 8.3966227
-postcode: "76133"
+id: 910156691
+type: way
+latitude: 49.006848600000005
+longitude: 8.4023567
+postcode: ""
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 126
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
+opening_hours: ""
 website: ""

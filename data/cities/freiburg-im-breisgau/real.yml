@@ -1,11 +1,11 @@
-id: 1686128486
-type: node
-latitude: 47.9867895
-longitude: 7.797526
-postcode: "79111"
+id: 26489732
+type: way
+latitude: 48.031522
+longitude: 7.8624412
+postcode: "79108"
 city: Freiburg im Breisgau
-street: "St. Georgener Straße"
-housenumber: 2
+street: "Gundelfinger Straße"
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: ""
 website: ""

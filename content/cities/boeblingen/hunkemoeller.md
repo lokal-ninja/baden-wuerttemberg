@@ -1,5 +1,5 @@
 ---
-title: "hunkemöller"
+title: "Hunkemöller"
 url: /boeblingen/hunkemoeller/
 shop: Kleidung
 ---

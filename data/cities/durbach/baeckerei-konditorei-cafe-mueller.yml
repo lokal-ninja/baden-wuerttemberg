@@ -1,11 +1,11 @@
 id: 4342835366
 type: node
-latitude: 48.494041900000006
-longitude: 8.0202579
+latitude: 48.494066800000006
+longitude: 8.0201372
 postcode: "77770"
 city: Durbach
-street: "Talstraße"
+street: "Tal"
 housenumber: 31
 phone: "+49 781 42708"
-opening_hours: "Mo,Tu,Th-Sa 07:30-18:30; Su 09:00-13:30"
-website: "https://www.suessevielfalt.de/vorstellung"
+opening_hours: "Mo,Tu,Th,Fr 06:30-18:00; Sa 06:30-17:00; Su,PH 08:00-12:00, 13:30-17:00"
+website: "https://www.suessevielfalt.de/"

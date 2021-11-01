@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /boeblingen/tk-maxx/
-shop: Kleidung
+shop: Warenhaus
 ---

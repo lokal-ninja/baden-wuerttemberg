@@ -1,6 +1,6 @@
 ---
 title: Notzingen
 url: /notzingen/
-latitude: 48.6712925
-longitude: 9.457415300000001
+latitude: 48.670279300000004
+longitude: 9.4576949
 ---

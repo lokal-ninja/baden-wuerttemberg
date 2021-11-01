@@ -1,11 +1,11 @@
-id: 910237118
-type: way
-latitude: 49.006679000000005
-longitude: 8.4024672
-postcode: ""
+id: 305533094
+type: node
+latitude: 49.0097169
+longitude: 8.4042625
+postcode: "76133"
 city: Karlsruhe
-street: "Karl-Friedrich-Straße"
-housenumber: 26
+street: "Kaiserstraße"
+housenumber: 74
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH,Su off"
 website: ""

@@ -1,5 +1,5 @@
 ---
-title: "Sidestep"
+title: "SIDESTEP"
 url: /boeblingen/sidestep/
 shop: Schuhe
 ---

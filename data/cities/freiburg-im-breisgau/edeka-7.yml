@@ -1,11 +1,11 @@
-id: 1882623188
-type: node
-latitude: 47.999494000000006
-longitude: 7.7902130000000005
-postcode: "79111"
+id: 38783638
+type: way
+latitude: 47.983369
+longitude: 7.7192774
+postcode: "79112"
 city: Freiburg im Breisgau
-street: "Maxim-Gorkij-Straße"
-housenumber: 21
-phone: ""
-opening_hours: "08:00-21:00"
-website: ""
+street: "Im Maierbrühl"
+housenumber: 4
+phone: "+49 7664 59929"
+opening_hours: "Mo-Sa 08:00-21:00; PH off"
+website: "http://www.edeka-freiburg-tiengen.de"

@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Bebion"
 url: /frickenhausen/autohaus-bebion/
-shop: Autowerkstatt
+shop: Autohaus
 ---

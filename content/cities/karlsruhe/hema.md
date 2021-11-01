@@ -1,5 +1,5 @@
 ---
 title: "HEMA"
 url: /karlsruhe/hema/
-shop: Raumausstattung
+shop: Warenhaus
 ---

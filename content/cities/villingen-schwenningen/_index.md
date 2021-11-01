@@ -1,6 +1,6 @@
 ---
 title: Villingen-Schwenningen
 url: /villingen-schwenningen/
-latitude: 48.063273900000006
-longitude: 8.494588
+latitude: 48.0632359
+longitude: 8.494502200000001
 ---

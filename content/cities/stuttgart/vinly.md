@@ -1,5 +1,5 @@
 ---
-title: "Vinly"
+title: "vinly"
 url: /stuttgart/vinly/
-shop: Raumausstattung
+shop: Kosmetik
 ---

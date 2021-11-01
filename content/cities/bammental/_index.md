@@ -1,6 +1,6 @@
 ---
 title: Bammental
 url: /bammental/
-latitude: 49.356100000000005
-longitude: 8.779440000000001
+latitude: 49.355698200000006
+longitude: 8.776065800000001
 ---

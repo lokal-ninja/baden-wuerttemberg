@@ -1,5 +1,5 @@
 ---
 title: "Stark"
 url: /tuttlingen/stark/
-shop: Baumarkt
+shop: Baustoffe
 ---

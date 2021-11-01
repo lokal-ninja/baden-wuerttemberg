@@ -1,11 +1,11 @@
 id: 3596105204
 type: node
-latitude: 48.77211500000001
-longitude: 9.153267300000001
+latitude: 48.7721481
+longitude: 9.153310900000001
 postcode: "70197"
 city: Stuttgart
 street: "Bismarckstraße"
 housenumber: 63
 phone: "+49 711 6365984"
-opening_hours: "Mo-Tu, Th-Fr 08:30-12:30, 14:30-18:00, We  08:30-12:30"
+opening_hours: "Tu,Th 08:30-12:30,14:30-18:00; We-Sa 08:30-12:30"
 website: "http://www.schuhmacher-stuttgart.de/"
