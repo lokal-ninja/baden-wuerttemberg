@@ -1,5 +1,5 @@
 ---
 title: "Härtsfeldcenter"
 url: /neresheim/haertsfeldcenter/
-shop: Supermarkt
+shop: Einkaufszentrum
 ---

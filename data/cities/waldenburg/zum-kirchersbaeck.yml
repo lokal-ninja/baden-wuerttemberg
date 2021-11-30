@@ -1,11 +1,11 @@
-id: 196981191
-type: way
-latitude: 49.185025200000005
-longitude: 9.6270834
-postcode: "74638"
+id: 771657079
+type: node
+latitude: 49.188842
+longitude: 9.6427587
+postcode: ""
 city: Waldenburg
-street: "Am Schneiderlesee"
-housenumber: 1
-phone: ""
-opening_hours: "Mo-Fr 07:00-13:00, Sa 07:00-10:30"
-website: ""
+street: "Hauptstraße"
+housenumber: 24
+phone: "07942 8264"
+opening_hours: "Mo-Su 07:00-18:30"
+website: "https://www.kirchersbaeck.de/"

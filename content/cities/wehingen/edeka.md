@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /wehingen/edeka/
 shop: Supermarkt
 ---

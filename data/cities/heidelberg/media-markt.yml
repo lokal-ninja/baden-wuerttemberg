@@ -1,11 +1,11 @@
-id: 7220794723
-type: node
-latitude: 49.367492500000004
-longitude: 8.685766300000001
-postcode: "69126"
+id: 119907114
+type: way
+latitude: 49.3961599
+longitude: 8.677784200000001
+postcode: "69115"
 city: Heidelberg
-street: "Hertzstraße"
-housenumber: 1
+street: "Hebelstraße"
+housenumber: 22
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.mediamarkt.de/markt/rohrbach"
+opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
+website: ""
