@@ -1,5 +1,5 @@
 ---
-title: "Reddy Küchen"
+title: "REDDY Küchen"
 url: /singen-hohentwiel/reddy-kuechen/
 shop: Küchen
 ---

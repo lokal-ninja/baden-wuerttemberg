@@ -1,11 +1,11 @@
-id: 6801738354
-type: node
-latitude: 49.4917947
-longitude: 8.4696569
-postcode: "68159"
+id: 29336129
+type: way
+latitude: 49.474338
+longitude: 8.5355412
+postcode: "68163"
 city: Mannheim
-street: ""
-housenumber: 2
+street: "Seckenheimer Landstraße"
+housenumber: 240
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

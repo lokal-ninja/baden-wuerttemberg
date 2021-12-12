@@ -1,5 +1,5 @@
 ---
-title: "Aldi Süd"
+title: "ALDI Süd"
 url: /sulz-am-neckar/aldi-sued/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "dm"
 url: /sandhausen/dm/
-shop: Supermarkt
+shop: Drogerie
 ---
