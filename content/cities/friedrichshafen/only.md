@@ -1,5 +1,5 @@
 ---
-title: "Only"
+title: "ONLY"
 url: /friedrichshafen/only/
 shop: Kleidung
 ---

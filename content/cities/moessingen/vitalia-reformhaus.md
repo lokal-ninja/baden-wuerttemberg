@@ -1,5 +1,5 @@
 ---
 title: "VITALIA Reformhaus"
 url: /moessingen/vitalia-reformhaus/
-shop: Lebensmittel
+shop: Bioladen
 ---
