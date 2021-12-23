@@ -1,6 +1,6 @@
 ---
 title: Bodman-Ludwigshafen
 url: /bodman-ludwigshafen/
-latitude: 
-longitude: 
+latitude: 47.817
+longitude: 9.055
 ---

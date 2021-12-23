@@ -1,6 +1,6 @@
 ---
 title: Merdingen
 url: /merdingen/
-latitude: 48.0195754
-longitude: 7.6847988
+latitude: 48.017
+longitude: 7.691
 ---

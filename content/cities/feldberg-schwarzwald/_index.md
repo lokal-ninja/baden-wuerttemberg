@@ -1,6 +1,6 @@
 ---
 title: Feldberg (Schwarzwald)
 url: /feldberg-schwarzwald/
-latitude: 
-longitude: 
+latitude: 47.869
+longitude: 8.096
 ---

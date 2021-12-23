@@ -1,6 +1,6 @@
 ---
 title: Eberhardzell
 url: /eberhardzell/
-latitude: 48.003981100000004
-longitude: 9.8233669
+latitude: 47.967
+longitude: 9.778
 ---

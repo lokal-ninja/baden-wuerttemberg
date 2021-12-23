@@ -1,6 +1,6 @@
 ---
 title: Stutensee
 url: /stutensee/
-latitude: 49.0895249
-longitude: 8.4856806
+latitude: 49.104
+longitude: 8.481
 ---

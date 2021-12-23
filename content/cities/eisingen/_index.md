@@ -1,6 +1,6 @@
 ---
 title: Eisingen
 url: /eisingen/
-latitude: 48.947891600000005
-longitude: 8.668972
+latitude: 48.94
+longitude: 8.674
 ---

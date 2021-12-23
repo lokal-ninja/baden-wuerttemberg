@@ -1,6 +1,6 @@
 ---
 title: Horgen
 url: /horgen/
-latitude: 48.147409700000004
-longitude: 8.5499744
+latitude: 48.146
+longitude: 8.551
 ---

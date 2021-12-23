@@ -1,6 +1,6 @@
 ---
 title: Heidenheim
 url: /heidenheim/
-latitude: 
-longitude: 
+latitude: 48.691
+longitude: 10.156
 ---

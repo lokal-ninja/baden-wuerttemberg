@@ -1,6 +1,6 @@
 ---
 title: Weinheim
 url: /weinheim/
-latitude: 
-longitude: 
+latitude: 49.549
+longitude: 8.672
 ---

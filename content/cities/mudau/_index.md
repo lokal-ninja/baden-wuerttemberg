@@ -1,6 +1,6 @@
 ---
 title: Mudau
 url: /mudau/
-latitude: 49.5330014
-longitude: 9.203843
+latitude: 49.53
+longitude: 9.199
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bitz
 url: /bitz/
-latitude: 48.242050500000005
-longitude: 9.090518900000001
+latitude: 48.238
+longitude: 9.083
 ---

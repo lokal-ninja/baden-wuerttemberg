@@ -1,6 +1,6 @@
 ---
 title: Au
 url: /au/
-latitude: 48.9604493
-longitude: 9.3944189
+latitude: 47.954
+longitude: 7.829
 ---

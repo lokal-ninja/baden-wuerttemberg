@@ -1,6 +1,6 @@
 ---
 title: Hemsbach
 url: /hemsbach/
-latitude: 49.5919545
-longitude: 8.6460261
+latitude: 49.592
+longitude: 8.646
 ---

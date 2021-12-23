@@ -1,6 +1,6 @@
 ---
 title: Neenstetten
 url: /neenstetten/
-latitude: 48.546576800000004
-longitude: 10.0206891
+latitude: 48.549
+longitude: 10.023
 ---

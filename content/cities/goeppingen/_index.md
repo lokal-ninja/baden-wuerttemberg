@@ -1,6 +1,6 @@
 ---
 title: Göppingen
 url: /goeppingen/
-latitude: 48.703137700000006
-longitude: 9.6541116
+latitude: 48.666
+longitude: 9.692
 ---

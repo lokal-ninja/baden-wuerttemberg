@@ -1,6 +1,6 @@
 ---
 title: Eppelheim
 url: /eppelheim/
-latitude: 49.4025
-longitude: 8.63306
+latitude: 49.401
+longitude: 8.632
 ---

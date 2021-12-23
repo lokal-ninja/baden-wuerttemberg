@@ -1,6 +1,6 @@
 ---
 title: Herrenberg
 url: /herrenberg/
-latitude: 48.595624400000005
-longitude: 8.867149600000001
+latitude: 48.589
+longitude: 8.865
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vöhrenbach
 url: /voehrenbach/
-latitude: 48.045815600000005
-longitude: 8.3039184
+latitude: 48.046
+longitude: 8.305
 ---

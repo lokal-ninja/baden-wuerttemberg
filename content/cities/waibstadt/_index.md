@@ -1,6 +1,6 @@
 ---
 title: Waibstadt
 url: /waibstadt/
-latitude: 
-longitude: 
+latitude: 49.302
+longitude: 8.914
 ---

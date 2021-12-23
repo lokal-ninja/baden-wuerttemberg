@@ -1,6 +1,6 @@
 ---
 title: Deggenhausertal
 url: /deggenhausertal/
-latitude: 
-longitude: 
+latitude: 47.782
+longitude: 9.39
 ---

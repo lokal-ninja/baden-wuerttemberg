@@ -1,6 +1,6 @@
 ---
 title: Baden-Baden
 url: /baden-baden/
-latitude: 
-longitude: 
+latitude: 48.788
+longitude: 8.194
 ---

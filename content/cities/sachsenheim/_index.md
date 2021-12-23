@@ -1,6 +1,6 @@
 ---
 title: Sachsenheim
 url: /sachsenheim/
-latitude: 
-longitude: 
+latitude: 48.963
+longitude: 9.065
 ---

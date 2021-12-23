@@ -1,6 +1,6 @@
 ---
 title: Mühlingen
 url: /muehlingen/
-latitude: 47.9122569
-longitude: 9.0165311
+latitude: 47.901
+longitude: 9.048
 ---

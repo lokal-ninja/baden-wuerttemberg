@@ -1,6 +1,6 @@
 ---
 title: Kappel-Grafenhausen
 url: /kappel-grafenhausen/
-latitude: 
-longitude: 
+latitude: 48.281
+longitude: 7.777
 ---

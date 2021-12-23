@@ -1,6 +1,6 @@
 ---
 title: Rottweil
 url: /rottweil/
-latitude: 48.238254500000004
-longitude: 8.516288600000001
+latitude: 48.168
+longitude: 8.626
 ---

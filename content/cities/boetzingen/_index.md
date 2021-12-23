@@ -1,6 +1,6 @@
 ---
 title: Bötzingen
 url: /boetzingen/
-latitude: 48.0713081
-longitude: 7.7184992
+latitude: 48.068
+longitude: 7.723
 ---

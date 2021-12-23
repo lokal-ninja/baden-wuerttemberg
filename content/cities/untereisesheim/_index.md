@@ -1,6 +1,6 @@
 ---
 title: Untereisesheim
 url: /untereisesheim/
-latitude: 
-longitude: 
+latitude: 49.21
+longitude: 9.203
 ---

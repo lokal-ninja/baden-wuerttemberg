@@ -1,6 +1,6 @@
 ---
 title: Denkendorf
 url: /denkendorf/
-latitude: 48.6956756
-longitude: 9.317070600000001
+latitude: 48.708
+longitude: 9.306
 ---

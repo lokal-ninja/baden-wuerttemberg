@@ -1,6 +1,6 @@
 ---
 title: Sontheim an der Brenz
 url: /sontheim-an-der-brenz/
-latitude: 48.5543715
-longitude: 10.290403600000001
+latitude: 48.573
+longitude: 10.275
 ---

@@ -1,6 +1,6 @@
 ---
 title: Unterkirnach
 url: /unterkirnach/
-latitude: 48.0777092
-longitude: 8.3659473
+latitude: 48.078
+longitude: 8.368
 ---

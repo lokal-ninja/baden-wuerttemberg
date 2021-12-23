@@ -1,6 +1,6 @@
 ---
 title: Seewald
 url: /seewald/
-latitude: 48.58353150000001
-longitude: 8.4664847
+latitude: 48.55
+longitude: 8.485
 ---

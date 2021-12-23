@@ -1,6 +1,6 @@
 ---
 title: Kämpfelbach
 url: /kaempfelbach/
-latitude: 
-longitude: 
+latitude: 48.944
+longitude: 8.626
 ---

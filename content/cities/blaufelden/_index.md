@@ -1,6 +1,6 @@
 ---
 title: Blaufelden
 url: /blaufelden/
-latitude: 49.297004300000005
-longitude: 9.9737329
+latitude: 49.312
+longitude: 10.093
 ---

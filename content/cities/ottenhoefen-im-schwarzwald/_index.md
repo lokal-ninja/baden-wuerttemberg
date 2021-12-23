@@ -1,6 +1,6 @@
 ---
 title: Ottenhöfen im Schwarzwald
 url: /ottenhoefen-im-schwarzwald/
-latitude: 
-longitude: 
+latitude: 48.582
+longitude: 8.133
 ---

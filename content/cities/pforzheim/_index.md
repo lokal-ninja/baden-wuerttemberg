@@ -1,6 +1,6 @@
 ---
 title: Pforzheim
 url: /pforzheim/
-latitude: 48.8908846
-longitude: 8.702953200000001
+latitude: 48.901
+longitude: 8.668
 ---

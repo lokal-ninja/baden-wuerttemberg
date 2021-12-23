@@ -1,6 +1,6 @@
 ---
 title: St. Johann
 url: /st-johann/
-latitude: 48.4552525
-longitude: 9.3430199
+latitude: 48.454
+longitude: 9.344
 ---

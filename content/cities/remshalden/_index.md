@@ -1,6 +1,6 @@
 ---
 title: Remshalden
 url: /remshalden/
-latitude: 48.8114785
-longitude: 9.4369168
+latitude: 48.817
+longitude: 9.421
 ---

@@ -1,6 +1,6 @@
 ---
 title: Amtzell
 url: /amtzell/
-latitude: 47.7062554
-longitude: 9.7470469
+latitude: 47.706
+longitude: 9.747
 ---

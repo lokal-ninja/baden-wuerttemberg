@@ -1,6 +1,6 @@
 ---
 title: Eichstetten
 url: /eichstetten/
-latitude: 
-longitude: 
+latitude: 48.094
+longitude: 7.747
 ---

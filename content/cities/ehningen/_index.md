@@ -1,6 +1,6 @@
 ---
 title: Ehningen
 url: /ehningen/
-latitude: 
-longitude: 
+latitude: 48.663
+longitude: 8.953
 ---

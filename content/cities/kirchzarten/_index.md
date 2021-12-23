@@ -1,6 +1,6 @@
 ---
 title: Kirchzarten
 url: /kirchzarten/
-latitude: 
-longitude: 
+latitude: 47.965
+longitude: 7.955
 ---

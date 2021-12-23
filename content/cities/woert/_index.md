@@ -1,6 +1,6 @@
 ---
 title: Wört
 url: /woert/
-latitude: 49.0308682
-longitude: 10.2729271
+latitude: 49.031
+longitude: 10.274
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ammerbuch
 url: /ammerbuch/
-latitude: 
-longitude: 
+latitude: 48.531
+longitude: 8.962
 ---

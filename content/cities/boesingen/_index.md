@@ -1,6 +1,6 @@
 ---
 title: Bösingen
 url: /boesingen/
-latitude: 48.5362615
-longitude: 8.5989453
+latitude: 48.239
+longitude: 8.556
 ---

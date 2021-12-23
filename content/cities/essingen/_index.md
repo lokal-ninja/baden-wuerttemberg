@@ -1,6 +1,6 @@
 ---
 title: Essingen
 url: /essingen/
-latitude: 48.810962700000005
-longitude: 10.028787600000001
+latitude: 48.808
+longitude: 10.025
 ---

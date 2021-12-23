@@ -1,6 +1,6 @@
 ---
 title: Rangendingen
 url: /rangendingen/
-latitude: 48.3789351
-longitude: 8.887786700000001
+latitude: 48.378
+longitude: 8.903
 ---

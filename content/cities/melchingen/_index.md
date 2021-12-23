@@ -1,6 +1,6 @@
 ---
 title: Melchingen
 url: /melchingen/
-latitude: 48.358718
-longitude: 9.146729200000001
+latitude: 48.357
+longitude: 9.146
 ---

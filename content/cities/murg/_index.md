@@ -1,6 +1,6 @@
 ---
 title: Murg
 url: /murg/
-latitude: 47.5565252
-longitude: 8.0251078
+latitude: 47.559
+longitude: 7.999
 ---

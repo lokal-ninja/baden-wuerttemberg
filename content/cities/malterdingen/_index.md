@@ -1,6 +1,6 @@
 ---
 title: Malterdingen
 url: /malterdingen/
-latitude: 48.162166400000004
-longitude: 7.795158700000001
+latitude: 48.153
+longitude: 7.77
 ---

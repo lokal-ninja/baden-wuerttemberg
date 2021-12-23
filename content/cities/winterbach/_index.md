@@ -1,6 +1,6 @@
 ---
 title: Winterbach
 url: /winterbach/
-latitude: 47.7951848
-longitude: 9.4814509
+latitude: 48.805
+longitude: 9.478
 ---

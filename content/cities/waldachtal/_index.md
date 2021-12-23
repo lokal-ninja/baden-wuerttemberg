@@ -1,6 +1,6 @@
 ---
 title: Waldachtal
 url: /waldachtal/
-latitude: 
-longitude: 
+latitude: 48.49
+longitude: 8.564
 ---

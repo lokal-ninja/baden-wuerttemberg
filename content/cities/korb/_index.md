@@ -1,6 +1,6 @@
 ---
 title: Korb
 url: /korb/
-latitude: 48.8428996
-longitude: 9.3613032
+latitude: 48.844
+longitude: 9.358
 ---

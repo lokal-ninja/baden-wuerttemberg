@@ -1,6 +1,6 @@
 ---
 title: Mönchsroth
 url: /moenchsroth/
-latitude: 49.0201943
-longitude: 10.3598581
+latitude: 49.019
+longitude: 10.361
 ---

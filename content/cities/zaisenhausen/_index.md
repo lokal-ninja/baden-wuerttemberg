@@ -1,6 +1,6 @@
 ---
 title: Zaisenhausen
 url: /zaisenhausen/
-latitude: 49.106738
-longitude: 8.8128458
+latitude: 49.107
+longitude: 8.817
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dunningen
 url: /dunningen/
-latitude: 48.2120995
-longitude: 8.506906800000001
+latitude: 48.243
+longitude: 8.491
 ---

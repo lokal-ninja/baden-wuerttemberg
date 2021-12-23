@@ -1,6 +1,6 @@
 ---
 title: Wagenschwend
 url: /wagenschwend/
-latitude: 49.4734161
-longitude: 9.1489873
+latitude: 49.473
+longitude: 9.15
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pliezhausen
 url: /pliezhausen/
-latitude: 48.558220600000006
-longitude: 9.205750700000001
+latitude: 48.558
+longitude: 9.205
 ---

@@ -1,6 +1,6 @@
 ---
 title: Heimsheim
 url: /heimsheim/
-latitude: 
-longitude: 
+latitude: 48.805
+longitude: 8.863
 ---

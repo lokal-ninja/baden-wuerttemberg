@@ -1,6 +1,6 @@
 ---
 title: Bonndorf im Schwarzwald
 url: /bonndorf-im-schwarzwald/
-latitude: 
-longitude: 
+latitude: 47.82
+longitude: 8.339
 ---

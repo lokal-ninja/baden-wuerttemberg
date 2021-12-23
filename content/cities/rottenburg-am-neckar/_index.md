@@ -1,6 +1,6 @@
 ---
 title: Rottenburg am Neckar
 url: /rottenburg-am-neckar/
-latitude: 
-longitude: 
+latitude: 48.502
+longitude: 8.961
 ---

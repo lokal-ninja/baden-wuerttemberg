@@ -1,6 +1,6 @@
 ---
 title: Gottmadingen
 url: /gottmadingen/
-latitude: 47.734011
-longitude: 8.776344400000001
+latitude: 47.735
+longitude: 8.776
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ettenheim
 url: /ettenheim/
-latitude: 48.2545659
-longitude: 7.808027600000001
+latitude: 48.254
+longitude: 7.822
 ---

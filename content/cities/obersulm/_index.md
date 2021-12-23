@@ -1,6 +1,6 @@
 ---
 title: Obersulm
 url: /obersulm/
-latitude: 
-longitude: 
+latitude: 49.137
+longitude: 9.382
 ---

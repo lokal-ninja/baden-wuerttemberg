@@ -1,6 +1,6 @@
 ---
 title: Riehen
 url: /riehen/
-latitude: 
-longitude: 
+latitude: 47.585
+longitude: 7.652
 ---

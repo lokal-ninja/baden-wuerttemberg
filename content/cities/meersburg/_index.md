@@ -1,6 +1,6 @@
 ---
 title: Meersburg
 url: /meersburg/
-latitude: 47.695553800000006
-longitude: 9.2719656
+latitude: 47.701
+longitude: 9.267
 ---

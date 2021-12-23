@@ -1,6 +1,6 @@
 ---
 title: Ertingen
 url: /ertingen/
-latitude: 48.099864000000004
-longitude: 9.464180200000001
+latitude: 48.101
+longitude: 9.464
 ---

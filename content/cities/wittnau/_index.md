@@ -1,6 +1,6 @@
 ---
 title: Wittnau
 url: /wittnau/
-latitude: 47.946273500000004
-longitude: 7.814375
+latitude: 47.939
+longitude: 7.82
 ---

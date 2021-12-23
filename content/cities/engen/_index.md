@@ -1,6 +1,6 @@
 ---
 title: Engen
 url: /engen/
-latitude: 47.8532383
-longitude: 8.7704457
+latitude: 47.854
+longitude: 8.791
 ---

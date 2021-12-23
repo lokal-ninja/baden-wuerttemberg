@@ -1,6 +1,6 @@
 ---
 title: Böttingen
 url: /boettingen/
-latitude: 48.462409400000006
-longitude: 9.9079928
+latitude: 48.1
+longitude: 8.806
 ---

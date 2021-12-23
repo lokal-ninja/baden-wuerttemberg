@@ -1,6 +1,6 @@
 ---
 title: Wildberg
 url: /wildberg/
-latitude: 
-longitude: 
+latitude: 48.624
+longitude: 8.717
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hockenheim
 url: /hockenheim/
-latitude: 
-longitude: 
+latitude: 49.32
+longitude: 8.553
 ---

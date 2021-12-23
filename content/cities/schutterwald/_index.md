@@ -1,6 +1,6 @@
 ---
 title: Schutterwald
 url: /schutterwald/
-latitude: 48.4563397
-longitude: 7.884018800000001
+latitude: 48.453
+longitude: 7.887
 ---

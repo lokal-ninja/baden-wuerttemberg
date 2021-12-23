@@ -1,6 +1,6 @@
 ---
 title: Königheim
 url: /koenigheim/
-latitude: 49.618267900000006
-longitude: 9.595163600000001
+latitude: 49.623
+longitude: 9.6
 ---

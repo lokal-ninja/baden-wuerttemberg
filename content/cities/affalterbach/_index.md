@@ -1,6 +1,6 @@
 ---
 title: Affalterbach
 url: /affalterbach/
-latitude: 48.9363362
-longitude: 9.4255598
+latitude: 48.923
+longitude: 9.323
 ---

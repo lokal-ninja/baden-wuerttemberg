@@ -1,6 +1,6 @@
 ---
 title: Römerstein
 url: /roemerstein/
-latitude: 48.500594400000004
-longitude: 9.534979
+latitude: 48.495
+longitude: 9.514
 ---

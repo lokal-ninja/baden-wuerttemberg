@@ -1,6 +1,6 @@
 ---
 title: Oberwolfach
 url: /oberwolfach/
-latitude: 48.3169714
-longitude: 8.217242800000001
+latitude: 48.317
+longitude: 8.217
 ---

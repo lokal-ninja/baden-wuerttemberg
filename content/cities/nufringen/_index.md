@@ -1,6 +1,6 @@
 ---
 title: Nufringen
 url: /nufringen/
-latitude: 48.622438800000005
-longitude: 8.888102100000001
+latitude: 48.623
+longitude: 8.892
 ---

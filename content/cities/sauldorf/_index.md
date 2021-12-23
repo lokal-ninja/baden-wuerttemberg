@@ -1,6 +1,6 @@
 ---
 title: Sauldorf
 url: /sauldorf/
-latitude: 
-longitude: 
+latitude: 47.939
+longitude: 9.118
 ---

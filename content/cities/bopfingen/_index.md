@@ -1,6 +1,6 @@
 ---
 title: Bopfingen
 url: /bopfingen/
-latitude: 48.8577633
-longitude: 10.3523096
+latitude: 48.858
+longitude: 10.352
 ---

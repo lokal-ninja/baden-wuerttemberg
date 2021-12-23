@@ -1,6 +1,6 @@
 ---
 title: Magstadt
 url: /magstadt/
-latitude: 48.742352000000004
-longitude: 8.962805300000001
+latitude: 48.74
+longitude: 8.963
 ---

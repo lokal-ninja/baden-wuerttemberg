@@ -1,6 +1,6 @@
 ---
 title: Illingen
 url: /illingen/
-latitude: 48.9557335
-longitude: 8.9200047
+latitude: 48.996
+longitude: 8.909
 ---

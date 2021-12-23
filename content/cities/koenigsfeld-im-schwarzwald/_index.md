@@ -1,6 +1,6 @@
 ---
 title: Königsfeld im Schwarzwald
 url: /koenigsfeld-im-schwarzwald/
-latitude: 
-longitude: 
+latitude: 48.139
+longitude: 8.421
 ---

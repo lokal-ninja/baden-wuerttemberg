@@ -1,6 +1,6 @@
 ---
 title: Altbach
 url: /altbach/
-latitude: 48.724437200000004
-longitude: 9.3807848
+latitude: 48.724
+longitude: 9.375
 ---

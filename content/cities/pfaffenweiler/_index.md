@@ -1,6 +1,6 @@
 ---
 title: Pfaffenweiler
 url: /pfaffenweiler/
-latitude: 49.2066159
-longitude: 9.6268875
+latitude: 47.943
+longitude: 7.755
 ---

@@ -1,6 +1,6 @@
 ---
 title: Oberboihingen
 url: /oberboihingen/
-latitude: 48.6475985
-longitude: 9.366894700000001
+latitude: 48.648
+longitude: 9.366
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rudersberg
 url: /rudersberg/
-latitude: 48.8831782
-longitude: 9.528413
+latitude: 48.879
+longitude: 9.528
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sindelfingen
 url: /sindelfingen/
-latitude: 
-longitude: 
+latitude: 48.728
+longitude: 8.986
 ---

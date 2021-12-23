@@ -1,6 +1,6 @@
 ---
 title: Allensbach
 url: /allensbach/
-latitude: 47.716866800000005
-longitude: 9.0687005
+latitude: 47.718
+longitude: 9.063
 ---

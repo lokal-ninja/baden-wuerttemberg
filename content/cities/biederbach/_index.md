@@ -1,6 +1,6 @@
 ---
 title: Biederbach
 url: /biederbach/
-latitude: 48.193776500000006
-longitude: 8.033987100000001
+latitude: 48.194
+longitude: 8.035
 ---

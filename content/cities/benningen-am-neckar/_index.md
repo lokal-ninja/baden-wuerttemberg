@@ -1,6 +1,6 @@
 ---
 title: Benningen am Neckar
 url: /benningen-am-neckar/
-latitude: 48.946773500000006
-longitude: 9.241718200000001
+latitude: 48.939
+longitude: 9.237
 ---

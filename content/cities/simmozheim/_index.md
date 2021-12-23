@@ -1,6 +1,6 @@
 ---
 title: Simmozheim
 url: /simmozheim/
-latitude: 48.7520389
-longitude: 8.8117029
+latitude: 48.752
+longitude: 8.811
 ---

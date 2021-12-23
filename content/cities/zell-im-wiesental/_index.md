@@ -1,6 +1,6 @@
 ---
 title: Zell im Wiesental
 url: /zell-im-wiesental/
-latitude: 47.7054471
-longitude: 7.8476208000000005
+latitude: 47.729
+longitude: 7.877
 ---

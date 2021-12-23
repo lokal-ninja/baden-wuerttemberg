@@ -1,6 +1,6 @@
 ---
 title: Neckartailfingen
 url: /neckartailfingen/
-latitude: 48.611973000000006
-longitude: 9.2641176
+latitude: 48.608
+longitude: 9.259
 ---

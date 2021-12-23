@@ -1,6 +1,6 @@
 ---
 title: Spaichingen
 url: /spaichingen/
-latitude: 
-longitude: 
+latitude: 48.073
+longitude: 8.741
 ---

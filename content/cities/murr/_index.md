@@ -1,6 +1,6 @@
 ---
 title: Murr
 url: /murr/
-latitude: 48.962129600000004
-longitude: 9.2588387
+latitude: 48.958
+longitude: 9.248
 ---

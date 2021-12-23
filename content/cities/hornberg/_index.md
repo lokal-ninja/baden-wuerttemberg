@@ -1,6 +1,6 @@
 ---
 title: Hornberg
 url: /hornberg/
-latitude: 49.2077802
-longitude: 9.996410200000001
+latitude: 48.212
+longitude: 8.23
 ---

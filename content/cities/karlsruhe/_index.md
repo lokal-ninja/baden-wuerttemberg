@@ -1,6 +1,6 @@
 ---
 title: Karlsruhe
 url: /karlsruhe/
-latitude: 
-longitude: 
+latitude: 48.997
+longitude: 8.361
 ---

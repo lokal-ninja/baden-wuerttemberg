@@ -1,6 +1,6 @@
 ---
 title: Owen
 url: /owen/
-latitude: 48.585389600000006
-longitude: 9.4514899
+latitude: 48.577
+longitude: 9.427
 ---

@@ -1,6 +1,6 @@
 ---
 title: Östringen
 url: /oestringen/
-latitude: 
-longitude: 
+latitude: 49.176
+longitude: 8.748
 ---

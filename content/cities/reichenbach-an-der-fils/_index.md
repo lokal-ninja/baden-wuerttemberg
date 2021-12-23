@@ -1,6 +1,6 @@
 ---
 title: Reichenbach an der Fils
 url: /reichenbach-an-der-fils/
-latitude: 48.7098725
-longitude: 9.4621689
+latitude: 48.71
+longitude: 9.462
 ---

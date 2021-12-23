@@ -1,6 +1,6 @@
 ---
 title: Sersheim
 url: /sersheim/
-latitude: 48.960635100000005
-longitude: 9.015577
+latitude: 48.955
+longitude: 9.008
 ---

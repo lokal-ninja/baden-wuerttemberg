@@ -1,6 +1,6 @@
 ---
 title: Horb am Neckar
 url: /horb-am-neckar/
-latitude: 
-longitude: 
+latitude: 48.444
+longitude: 8.692
 ---

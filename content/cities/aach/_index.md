@@ -1,6 +1,6 @@
 ---
 title: Aach
 url: /aach/
-latitude: 48.468032
-longitude: 8.4785099
+latitude: 47.837
+longitude: 8.863
 ---

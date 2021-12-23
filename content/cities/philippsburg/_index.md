@@ -1,6 +1,6 @@
 ---
 title: Philippsburg
 url: /philippsburg/
-latitude: 49.2367495
-longitude: 8.4546679
+latitude: 49.234
+longitude: 8.456
 ---

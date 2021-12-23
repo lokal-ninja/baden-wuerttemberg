@@ -1,6 +1,6 @@
 ---
 title: Berglen
 url: /berglen/
-latitude: 48.8677026
-longitude: 9.4708425
+latitude: 48.861
+longitude: 9.469
 ---

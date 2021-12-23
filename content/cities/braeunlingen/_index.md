@@ -1,6 +1,6 @@
 ---
 title: Bräunlingen
 url: /braeunlingen/
-latitude: 47.9299867
-longitude: 8.448264700000001
+latitude: 47.93
+longitude: 8.449
 ---

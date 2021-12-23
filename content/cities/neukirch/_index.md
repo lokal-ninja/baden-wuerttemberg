@@ -1,6 +1,6 @@
 ---
 title: Neukirch
 url: /neukirch/
-latitude: 48.0254959
-longitude: 8.1733621
+latitude: 47.657
+longitude: 9.702
 ---

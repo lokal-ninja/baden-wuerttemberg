@@ -1,6 +1,6 @@
 ---
 title: Tuttlingen
 url: /tuttlingen/
-latitude: 47.9844315
-longitude: 8.818660600000001
+latitude: 47.941
+longitude: 8.824
 ---

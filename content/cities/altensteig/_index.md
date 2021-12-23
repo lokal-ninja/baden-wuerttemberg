@@ -1,6 +1,6 @@
 ---
 title: Altensteig
 url: /altensteig/
-latitude: 48.5878287
-longitude: 8.6052271
+latitude: 48.585
+longitude: 8.607
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Würth"
 url: /balingen/wuerth/
-shop: Baumarkt
+shop: Eisenwaren
 ---

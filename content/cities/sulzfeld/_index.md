@@ -1,6 +1,6 @@
 ---
 title: Sulzfeld
 url: /sulzfeld/
-latitude: 49.1047
-longitude: 8.855830000000001
+latitude: 49.104
+longitude: 8.859
 ---

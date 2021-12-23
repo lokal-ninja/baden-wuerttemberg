@@ -1,6 +1,6 @@
 ---
 title: Albbruck
 url: /albbruck/
-latitude: 47.5943254
-longitude: 8.1336893
+latitude: 47.594
+longitude: 8.132
 ---

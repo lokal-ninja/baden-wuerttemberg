@@ -1,6 +1,6 @@
 ---
 title: Deckenpfronn
 url: /deckenpfronn/
-latitude: 48.6516401
-longitude: 8.822642
+latitude: 48.652
+longitude: 8.825
 ---

@@ -1,6 +1,6 @@
 ---
 title: Heuchlingen
 url: /heuchlingen/
-latitude: 49.2515829
-longitude: 9.2149116
+latitude: 48.852
+longitude: 9.942
 ---

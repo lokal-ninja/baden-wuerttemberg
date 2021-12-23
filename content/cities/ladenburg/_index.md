@@ -1,6 +1,6 @@
 ---
 title: Ladenburg
 url: /ladenburg/
-latitude: 
-longitude: 
+latitude: 49.472
+longitude: 8.637
 ---

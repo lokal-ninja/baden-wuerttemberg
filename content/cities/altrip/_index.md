@@ -1,6 +1,6 @@
 ---
 title: Altrip
 url: /altrip/
-latitude: 
-longitude: 
+latitude: 49.432
+longitude: 8.5
 ---

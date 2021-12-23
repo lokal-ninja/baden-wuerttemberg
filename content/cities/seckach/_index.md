@@ -1,6 +1,6 @@
 ---
 title: Seckach
 url: /seckach/
-latitude: 49.4432417
-longitude: 9.335885000000001
+latitude: 49.443
+longitude: 9.336
 ---

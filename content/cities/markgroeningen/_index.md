@@ -1,6 +1,6 @@
 ---
 title: Markgröningen
 url: /markgroeningen/
-latitude: 
-longitude: 
+latitude: 48.904
+longitude: 9.082
 ---

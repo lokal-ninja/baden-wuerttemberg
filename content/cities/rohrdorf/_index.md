@@ -1,6 +1,6 @@
 ---
 title: Rohrdorf
 url: /rohrdorf/
-latitude: 47.7259395
-longitude: 10.080100700000001
+latitude: 48.568
+longitude: 8.698
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fichtenau
 url: /fichtenau/
-latitude: 
-longitude: 
+latitude: 49.055
+longitude: 10.227
 ---

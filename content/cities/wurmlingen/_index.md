@@ -1,6 +1,6 @@
 ---
 title: Wurmlingen
 url: /wurmlingen/
-latitude: 48.0026634
-longitude: 8.7765991
+latitude: 48.005
+longitude: 8.778
 ---

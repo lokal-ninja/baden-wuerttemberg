@@ -1,6 +1,6 @@
 ---
 title: Sulzburg
 url: /sulzburg/
-latitude: 47.840512700000005
-longitude: 7.7077606
+latitude: 47.841
+longitude: 7.709
 ---

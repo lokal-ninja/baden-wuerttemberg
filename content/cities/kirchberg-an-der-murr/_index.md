@@ -1,6 +1,6 @@
 ---
 title: Kirchberg an der Murr
 url: /kirchberg-an-der-murr/
-latitude: 48.9426543
-longitude: 9.340376500000001
+latitude: 48.942
+longitude: 9.341
 ---

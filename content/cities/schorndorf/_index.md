@@ -1,6 +1,6 @@
 ---
 title: Schorndorf
 url: /schorndorf/
-latitude: 
-longitude: 
+latitude: 48.805
+longitude: 9.539
 ---

@@ -1,6 +1,6 @@
 ---
 title: Herbertingen
 url: /herbertingen/
-latitude: 48.0600681
-longitude: 9.434654400000001
+latitude: 48.063
+longitude: 9.43
 ---

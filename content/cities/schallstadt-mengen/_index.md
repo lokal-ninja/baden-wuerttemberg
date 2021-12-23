@@ -1,6 +1,6 @@
 ---
 title: Schallstadt-Mengen
 url: /schallstadt-mengen/
-latitude: 
-longitude: 
+latitude: 47.945
+longitude: 7.717
 ---

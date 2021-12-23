@@ -1,6 +1,6 @@
 ---
 title: Meckesheim
 url: /meckesheim/
-latitude: 49.3209158
-longitude: 8.8159217
+latitude: 49.323
+longitude: 8.805
 ---

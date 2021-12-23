@@ -1,6 +1,6 @@
 ---
 title: Ehingen (Donau)
 url: /ehingen-donau/
-latitude: 
-longitude: 
+latitude: 48.287
+longitude: 9.726
 ---

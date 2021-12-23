@@ -1,6 +1,6 @@
 ---
 title: Schwäbisch Hall
 url: /schwaebisch-hall/
-latitude: 49.1150626
-longitude: 9.8743052
+latitude: 49.109
+longitude: 9.793
 ---

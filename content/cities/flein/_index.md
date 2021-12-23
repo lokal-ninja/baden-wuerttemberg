@@ -1,6 +1,6 @@
 ---
 title: Flein
 url: /flein/
-latitude: 49.1005935
-longitude: 9.2138586
+latitude: 49.104
+longitude: 9.2
 ---

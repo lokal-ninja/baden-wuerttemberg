@@ -1,6 +1,6 @@
 ---
 title: Dormettingen
 url: /dormettingen/
-latitude: 48.23856910000001
-longitude: 8.773398
+latitude: 48.236
+longitude: 8.773
 ---

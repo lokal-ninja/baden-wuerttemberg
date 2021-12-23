@@ -1,6 +1,6 @@
 ---
 title: Neuenstadt am Kocher
 url: /neuenstadt-am-kocher/
-latitude: 49.2361584
-longitude: 9.3293362
+latitude: 49.238
+longitude: 9.338
 ---

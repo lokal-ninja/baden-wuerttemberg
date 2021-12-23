@@ -1,6 +1,6 @@
 ---
 title: Basel
 url: /basel/
-latitude: 
-longitude: 
+latitude: 47.58
+longitude: 7.596
 ---

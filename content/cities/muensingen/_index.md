@@ -1,6 +1,6 @@
 ---
 title: Münsingen
 url: /muensingen/
-latitude: 48.4128592
-longitude: 9.4947894
+latitude: 48.411
+longitude: 9.505
 ---

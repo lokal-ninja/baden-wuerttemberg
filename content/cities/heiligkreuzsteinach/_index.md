@@ -1,6 +1,6 @@
 ---
 title: Heiligkreuzsteinach
 url: /heiligkreuzsteinach/
-latitude: 49.4862253
-longitude: 8.7972365
+latitude: 49.485
+longitude: 8.797
 ---

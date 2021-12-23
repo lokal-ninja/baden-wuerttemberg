@@ -1,6 +1,6 @@
 ---
 title: Klettgau
 url: /klettgau/
-latitude: 
-longitude: 
+latitude: 47.659
+longitude: 8.431
 ---

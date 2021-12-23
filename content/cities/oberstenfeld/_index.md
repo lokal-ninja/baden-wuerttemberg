@@ -1,6 +1,6 @@
 ---
 title: Oberstenfeld
 url: /oberstenfeld/
-latitude: 49.024298300000005
-longitude: 9.319287800000001
+latitude: 49.034
+longitude: 9.338
 ---

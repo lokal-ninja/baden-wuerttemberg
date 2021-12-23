@@ -1,6 +1,6 @@
 ---
 title: Neuhausen
 url: /neuhausen/
-latitude: 48.358147800000005
-longitude: 8.063054000000001
+latitude: 48.793
+longitude: 8.779
 ---

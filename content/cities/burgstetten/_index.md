@@ -1,6 +1,6 @@
 ---
 title: Burgstetten
 url: /burgstetten/
-latitude: 48.9241989
-longitude: 9.3815915
+latitude: 48.93
+longitude: 9.369
 ---

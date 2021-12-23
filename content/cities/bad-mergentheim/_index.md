@@ -1,6 +1,6 @@
 ---
 title: Bad Mergentheim
 url: /bad-mergentheim/
-latitude: 
-longitude: 
+latitude: 49.474
+longitude: 9.833
 ---

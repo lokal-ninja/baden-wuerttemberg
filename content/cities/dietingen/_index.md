@@ -1,6 +1,6 @@
 ---
 title: Dietingen
 url: /dietingen/
-latitude: 48.3974485
-longitude: 9.8611913
+latitude: 48.206
+longitude: 8.651
 ---

@@ -1,6 +1,6 @@
 ---
 title: Heroldstatt
 url: /heroldstatt/
-latitude: 48.4426749
-longitude: 9.659968300000001
+latitude: 48.446
+longitude: 9.67
 ---

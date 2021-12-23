@@ -1,6 +1,6 @@
 ---
 title: Mengen
 url: /mengen/
-latitude: 47.957776700000004
-longitude: 7.709447600000001
+latitude: 48.051
+longitude: 9.331
 ---

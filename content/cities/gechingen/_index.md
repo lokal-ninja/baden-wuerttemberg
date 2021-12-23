@@ -1,6 +1,6 @@
 ---
 title: Gechingen
 url: /gechingen/
-latitude: 48.6952903
-longitude: 8.8288715
+latitude: 48.695
+longitude: 8.829
 ---

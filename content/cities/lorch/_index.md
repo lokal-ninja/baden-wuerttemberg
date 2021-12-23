@@ -1,6 +1,6 @@
 ---
 title: Lorch
 url: /lorch/
-latitude: 48.800000000000004
-longitude: 9.68333
+latitude: 48.796
+longitude: 9.689
 ---

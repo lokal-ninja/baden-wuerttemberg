@@ -1,6 +1,6 @@
 ---
 title: Mietingen
 url: /mietingen/
-latitude: 48.1826747
-longitude: 9.904107
+latitude: 48.188
+longitude: 9.924
 ---

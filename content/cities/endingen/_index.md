@@ -1,6 +1,6 @@
 ---
 title: Endingen
 url: /endingen/
-latitude: 48.2564471
-longitude: 8.836551700000001
+latitude: 48.143
+longitude: 7.698
 ---

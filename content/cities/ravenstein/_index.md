@@ -1,6 +1,6 @@
 ---
 title: Ravenstein
 url: /ravenstein/
-latitude: 48.6714913
-longitude: 9.900343900000001
+latitude: 49.385
+longitude: 9.551
 ---

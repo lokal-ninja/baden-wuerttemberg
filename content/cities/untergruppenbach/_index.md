@@ -1,6 +1,6 @@
 ---
 title: Untergruppenbach
 url: /untergruppenbach/
-latitude: 49.089717
-longitude: 9.275092
+latitude: 49.089
+longitude: 9.276
 ---

@@ -1,6 +1,6 @@
 ---
 title: St. Blasien
 url: /st-blasien/
-latitude: 
-longitude: 
+latitude: 47.762
+longitude: 8.13
 ---

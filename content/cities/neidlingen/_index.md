@@ -1,6 +1,6 @@
 ---
 title: Neidlingen
 url: /neidlingen/
-latitude: 48.579954900000004
-longitude: 9.5646888
+latitude: 48.585
+longitude: 9.56
 ---

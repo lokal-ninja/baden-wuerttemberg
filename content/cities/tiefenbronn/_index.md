@@ -1,6 +1,6 @@
 ---
 title: Tiefenbronn
 url: /tiefenbronn/
-latitude: 48.8241414
-longitude: 8.8016252
+latitude: 48.829
+longitude: 8.801
 ---

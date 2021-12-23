@@ -1,6 +1,6 @@
 ---
 title: Grünsfeld
 url: /gruensfeld/
-latitude: 49.6082782
-longitude: 9.7447803
+latitude: 49.622
+longitude: 9.729
 ---

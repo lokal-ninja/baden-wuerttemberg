@@ -1,6 +1,6 @@
 ---
 title: Plüderhausen
 url: /pluederhausen/
-latitude: 
-longitude: 
+latitude: 48.795
+longitude: 9.603
 ---

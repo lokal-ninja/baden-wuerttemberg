@@ -1,6 +1,6 @@
 ---
 title: Gomaringen
 url: /gomaringen/
-latitude: 48.453591700000004
-longitude: 9.0985587
+latitude: 48.452
+longitude: 9.105
 ---

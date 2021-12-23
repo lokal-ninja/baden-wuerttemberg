@@ -1,6 +1,6 @@
 ---
 title: Mosbach
 url: /mosbach/
-latitude: 
-longitude: 
+latitude: 49.339
+longitude: 9.121
 ---

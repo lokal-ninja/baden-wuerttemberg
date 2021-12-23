@@ -1,6 +1,6 @@
 ---
 title: Gundelfingen
 url: /gundelfingen/
-latitude: 48.0441176
-longitude: 7.868603800000001
+latitude: 48.044
+longitude: 7.878
 ---

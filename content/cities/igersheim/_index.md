@@ -1,6 +1,6 @@
 ---
 title: Igersheim
 url: /igersheim/
-latitude: 49.493567000000006
-longitude: 9.8179339
+latitude: 49.493
+longitude: 9.816
 ---

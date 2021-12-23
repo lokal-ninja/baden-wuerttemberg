@@ -1,6 +1,6 @@
 ---
 title: Oberdischingen
 url: /oberdischingen/
-latitude: 48.3025238
-longitude: 9.8329152
+latitude: 48.302
+longitude: 9.843
 ---

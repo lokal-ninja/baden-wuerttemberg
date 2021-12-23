@@ -1,6 +1,6 @@
 ---
 title: Linkenheim-Hochstetten
 url: /linkenheim-hochstetten/
-latitude: 49.1291444
-longitude: 8.4126428
+latitude: 49.122
+longitude: 8.408
 ---

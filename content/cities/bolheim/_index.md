@@ -1,6 +1,6 @@
 ---
 title: Bolheim
 url: /bolheim/
-latitude: 48.6311252
-longitude: 10.1509487
+latitude: 48.638
+longitude: 10.154
 ---

@@ -1,6 +1,6 @@
 ---
 title: Beuren
 url: /beuren/
-latitude: 48.5961082
-longitude: 8.5467568
+latitude: 48.568
+longitude: 9.397
 ---

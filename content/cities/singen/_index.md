@@ -1,6 +1,6 @@
 ---
 title: Singen
 url: /singen/
-latitude: 
-longitude: 
+latitude: 47.745
+longitude: 8.85
 ---

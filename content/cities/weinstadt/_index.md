@@ -1,6 +1,6 @@
 ---
 title: Weinstadt
 url: /weinstadt/
-latitude: 48.808556800000005
-longitude: 9.377481300000001
+latitude: 48.814
+longitude: 9.359
 ---

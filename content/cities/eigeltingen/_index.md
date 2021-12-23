@@ -1,6 +1,6 @@
 ---
 title: Eigeltingen
 url: /eigeltingen/
-latitude: 47.858214100000005
-longitude: 8.8955908
+latitude: 47.894
+longitude: 8.928
 ---

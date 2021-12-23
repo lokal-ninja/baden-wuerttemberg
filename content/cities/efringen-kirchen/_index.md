@@ -1,6 +1,6 @@
 ---
 title: Efringen-Kirchen
 url: /efringen-kirchen/
-latitude: 47.6556421
-longitude: 7.565174000000001
+latitude: 47.694
+longitude: 7.545
 ---

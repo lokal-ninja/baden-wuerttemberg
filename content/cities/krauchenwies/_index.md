@@ -1,6 +1,6 @@
 ---
 title: Krauchenwies
 url: /krauchenwies/
-latitude: 48.0184062
-longitude: 9.251099400000001
+latitude: 48.016
+longitude: 9.236
 ---

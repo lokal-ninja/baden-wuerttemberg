@@ -1,6 +1,6 @@
 ---
 title: Baltringen
 url: /baltringen/
-latitude: 48.1727446
-longitude: 9.8642949
+latitude: 48.174
+longitude: 9.858
 ---

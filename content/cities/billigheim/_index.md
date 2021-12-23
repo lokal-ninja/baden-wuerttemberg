@@ -1,6 +1,6 @@
 ---
 title: Billigheim
 url: /billigheim/
-latitude: 49.348600000000005
-longitude: 9.25389
+latitude: 49.353
+longitude: 9.217
 ---

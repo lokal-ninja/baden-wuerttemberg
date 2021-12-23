@@ -1,6 +1,6 @@
 ---
 title: Gemmrigheim
 url: /gemmrigheim/
-latitude: 49.025999600000006
-longitude: 9.156058100000001
+latitude: 49.027
+longitude: 9.155
 ---

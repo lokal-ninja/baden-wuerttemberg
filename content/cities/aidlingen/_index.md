@@ -1,6 +1,6 @@
 ---
 title: Aidlingen
 url: /aidlingen/
-latitude: 48.6785572
-longitude: 8.898334700000001
+latitude: 48.68
+longitude: 8.908
 ---

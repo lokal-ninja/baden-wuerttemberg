@@ -1,6 +1,6 @@
 ---
 title: Rastatt
 url: /rastatt/
-latitude: 
-longitude: 
+latitude: 48.85
+longitude: 8.21
 ---

@@ -1,6 +1,6 @@
 ---
 title: Schliengen
 url: /schliengen/
-latitude: 
-longitude: 
+latitude: 47.756
+longitude: 7.576
 ---

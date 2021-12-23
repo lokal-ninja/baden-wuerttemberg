@@ -1,6 +1,6 @@
 ---
 title: Wiesenbach
 url: /wiesenbach/
-latitude: 49.3614
-longitude: 8.80361
+latitude: 49.359
+longitude: 8.814
 ---

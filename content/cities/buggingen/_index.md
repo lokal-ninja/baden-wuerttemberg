@@ -1,6 +1,6 @@
 ---
 title: Buggingen
 url: /buggingen/
-latitude: 
-longitude: 
+latitude: 47.846
+longitude: 7.64
 ---

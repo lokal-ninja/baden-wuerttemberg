@@ -1,6 +1,6 @@
 ---
 title: Wendlingen
 url: /wendlingen/
-latitude: 47.74814000000001
-longitude: 9.387304
+latitude: 48.672
+longitude: 9.385
 ---

@@ -1,6 +1,6 @@
 ---
 title: Berghülen
 url: /berghuelen/
-latitude: 48.4641333
-longitude: 9.761112
+latitude: 48.465
+longitude: 9.761
 ---

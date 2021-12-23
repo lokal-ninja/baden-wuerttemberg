@@ -1,6 +1,6 @@
 ---
 title: Grafenberg
 url: /grafenberg/
-latitude: 48.5664888
-longitude: 9.3053647
+latitude: 48.566
+longitude: 9.304
 ---

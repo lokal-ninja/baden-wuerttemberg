@@ -1,6 +1,6 @@
 ---
 title: Friolzheim
 url: /friolzheim/
-latitude: 
-longitude: 
+latitude: 48.836
+longitude: 8.833
 ---

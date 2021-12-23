@@ -1,6 +1,6 @@
 ---
 title: Munderkingen
 url: /munderkingen/
-latitude: 48.235822500000005
-longitude: 9.6441788
+latitude: 48.23
+longitude: 9.645
 ---

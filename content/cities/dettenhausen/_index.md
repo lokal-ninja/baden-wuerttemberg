@@ -1,6 +1,6 @@
 ---
 title: Dettenhausen
 url: /dettenhausen/
-latitude: 48.6084636
-longitude: 9.0983623
+latitude: 48.61
+longitude: 9.11
 ---

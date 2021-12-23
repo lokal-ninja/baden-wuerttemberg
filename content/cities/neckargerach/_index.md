@@ -1,6 +1,6 @@
 ---
 title: Neckargerach
 url: /neckargerach/
-latitude: 49.400312500000005
-longitude: 9.070809200000001
+latitude: 49.401
+longitude: 9.071
 ---

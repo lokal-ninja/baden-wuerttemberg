@@ -1,6 +1,6 @@
 ---
 title: Kirchentellinsfurt
 url: /kirchentellinsfurt/
-latitude: 48.5337887
-longitude: 9.1507197
+latitude: 48.531
+longitude: 9.14
 ---

@@ -1,6 +1,6 @@
 ---
 title: Birkenau
 url: /birkenau/
-latitude: 
-longitude: 
+latitude: 49.562
+longitude: 8.7
 ---

@@ -1,6 +1,6 @@
 ---
 title: Leinfelden-Echterdingen
 url: /leinfelden-echterdingen/
-latitude: 
-longitude: 
+latitude: 48.702
+longitude: 9.14
 ---

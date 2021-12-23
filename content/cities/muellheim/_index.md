@@ -1,6 +1,6 @@
 ---
 title: Müllheim
 url: /muellheim/
-latitude: 47.809961300000005
-longitude: 7.6257276
+latitude: 47.808
+longitude: 7.628
 ---

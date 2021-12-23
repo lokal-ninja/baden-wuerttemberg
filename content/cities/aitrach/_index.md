@@ -1,6 +1,6 @@
 ---
 title: Aitrach
 url: /aitrach/
-latitude: 47.9402325
-longitude: 10.0904199
+latitude: 47.939
+longitude: 10.091
 ---

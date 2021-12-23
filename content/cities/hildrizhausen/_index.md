@@ -1,6 +1,6 @@
 ---
 title: Hildrizhausen
 url: /hildrizhausen/
-latitude: 
-longitude: 
+latitude: 48.627
+longitude: 8.964
 ---

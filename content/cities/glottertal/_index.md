@@ -1,6 +1,6 @@
 ---
 title: Glottertal
 url: /glottertal/
-latitude: 
-longitude: 
+latitude: 48.048
+longitude: 7.948
 ---

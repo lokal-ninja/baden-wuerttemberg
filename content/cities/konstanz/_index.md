@@ -1,6 +1,6 @@
 ---
 title: Konstanz
 url: /konstanz/
-latitude: 
-longitude: 
+latitude: 47.673
+longitude: 9.171
 ---

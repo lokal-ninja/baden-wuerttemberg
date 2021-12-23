@@ -1,6 +1,6 @@
 ---
 title: Unlingen
 url: /unlingen/
-latitude: 48.167134700000005
-longitude: 9.5215061
+latitude: 48.167
+longitude: 9.522
 ---

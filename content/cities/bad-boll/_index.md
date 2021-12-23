@@ -1,6 +1,6 @@
 ---
 title: Bad Boll
 url: /bad-boll/
-latitude: 
-longitude: 
+latitude: 48.639
+longitude: 9.617
 ---

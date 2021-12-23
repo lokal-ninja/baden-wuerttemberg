@@ -1,6 +1,6 @@
 ---
 title: Plochingen
 url: /plochingen/
-latitude: 48.711173
-longitude: 9.4184961
+latitude: 48.71
+longitude: 9.416
 ---

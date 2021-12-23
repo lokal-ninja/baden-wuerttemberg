@@ -1,6 +1,6 @@
 ---
 title: Wannweil
 url: /wannweil/
-latitude: 48.5144104
-longitude: 9.1540193
+latitude: 48.514
+longitude: 9.152
 ---

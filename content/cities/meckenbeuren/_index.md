@@ -1,6 +1,6 @@
 ---
 title: Meckenbeuren
 url: /meckenbeuren/
-latitude: 
-longitude: 
+latitude: 47.683
+longitude: 9.555
 ---

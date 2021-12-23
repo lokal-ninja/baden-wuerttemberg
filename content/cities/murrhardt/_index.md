@@ -1,6 +1,6 @@
 ---
 title: Murrhardt
 url: /murrhardt/
-latitude: 48.9797657
-longitude: 9.579466100000001
+latitude: 48.983
+longitude: 9.56
 ---

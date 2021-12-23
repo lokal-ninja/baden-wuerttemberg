@@ -1,6 +1,6 @@
 ---
 title: Hiilzingen
 url: /hiilzingen/
-latitude: 
-longitude: 
+latitude: 47.794
+longitude: 8.717
 ---

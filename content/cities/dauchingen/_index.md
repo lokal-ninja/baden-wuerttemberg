@@ -1,6 +1,6 @@
 ---
 title: Dauchingen
 url: /dauchingen/
-latitude: 48.0903198
-longitude: 8.5504079
+latitude: 48.088
+longitude: 8.55
 ---

@@ -1,6 +1,6 @@
 ---
 title: Endingen am Kaiserstuhl
 url: /endingen-am-kaiserstuhl/
-latitude: 48.1412922
-longitude: 7.6999031
+latitude: 48.137
+longitude: 7.658
 ---

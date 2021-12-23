@@ -1,6 +1,6 @@
 ---
 title: Hohentengen
 url: /hohentengen/
-latitude: 48.0293695
-longitude: 9.3767852
+latitude: 48.029
+longitude: 9.378
 ---

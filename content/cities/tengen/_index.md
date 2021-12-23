@@ -1,6 +1,6 @@
 ---
 title: Tengen
 url: /tengen/
-latitude: 47.8217629
-longitude: 8.662046
+latitude: 47.82
+longitude: 8.664
 ---

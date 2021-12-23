@@ -1,6 +1,6 @@
 ---
 title: Jettingen
 url: /jettingen/
-latitude: 
-longitude: 
+latitude: 48.565
+longitude: 8.783
 ---

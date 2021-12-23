@@ -1,6 +1,6 @@
 ---
 title: Wolterdingen
 url: /wolterdingen/
-latitude: 47.9687119
-longitude: 8.427094
+latitude: 47.968
+longitude: 8.427
 ---

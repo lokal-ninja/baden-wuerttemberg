@@ -1,6 +1,6 @@
 ---
 title: Mulfingen
 url: /mulfingen/
-latitude: 48.8498711
-longitude: 9.8899883
+latitude: 49.341
+longitude: 9.797
 ---

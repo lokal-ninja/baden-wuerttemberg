@@ -1,6 +1,6 @@
 ---
 title: Riegel
 url: /riegel/
-latitude: 48.6799635
-longitude: 8.152170700000001
+latitude: 48.156
+longitude: 7.75
 ---

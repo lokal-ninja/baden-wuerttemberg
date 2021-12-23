@@ -1,6 +1,6 @@
 ---
 title: Bergatreute
 url: /bergatreute/
-latitude: 47.849258000000006
-longitude: 9.7489469
+latitude: 47.852
+longitude: 9.744
 ---

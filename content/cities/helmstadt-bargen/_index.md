@@ -1,6 +1,6 @@
 ---
 title: Helmstadt-Bargen
 url: /helmstadt-bargen/
-latitude: 
-longitude: 
+latitude: 49.328
+longitude: 8.976
 ---

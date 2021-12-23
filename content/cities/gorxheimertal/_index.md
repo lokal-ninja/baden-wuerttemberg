@@ -1,6 +1,6 @@
 ---
 title: Gorxheimertal
 url: /gorxheimertal/
-latitude: 
-longitude: 
+latitude: 49.54
+longitude: 8.709
 ---

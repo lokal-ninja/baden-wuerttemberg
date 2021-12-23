@@ -1,6 +1,6 @@
 ---
 title: Teningen
 url: /teningen/
-latitude: 48.127011700000004
-longitude: 7.810164800000001
+latitude: 48.131
+longitude: 7.803
 ---

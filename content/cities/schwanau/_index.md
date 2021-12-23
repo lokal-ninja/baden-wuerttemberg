@@ -1,6 +1,6 @@
 ---
 title: Schwanau
 url: /schwanau/
-latitude: 
-longitude: 
+latitude: 48.355
+longitude: 7.752
 ---

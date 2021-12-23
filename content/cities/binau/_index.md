@@ -1,6 +1,6 @@
 ---
 title: Binau
 url: /binau/
-latitude: 49.3681375
-longitude: 9.0583418
+latitude: 49.365
+longitude: 9.058
 ---

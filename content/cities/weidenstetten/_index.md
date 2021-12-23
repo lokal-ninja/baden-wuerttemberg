@@ -1,6 +1,6 @@
 ---
 title: Weidenstetten
 url: /weidenstetten/
-latitude: 48.5525828
-longitude: 9.9930904
+latitude: 48.555
+longitude: 9.999
 ---

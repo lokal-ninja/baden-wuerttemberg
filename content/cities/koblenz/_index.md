@@ -1,6 +1,6 @@
 ---
 title: Koblenz
 url: /koblenz/
-latitude: 
-longitude: 
+latitude: 47.606
+longitude: 8.232
 ---

@@ -1,6 +1,6 @@
 ---
 title: Knittlingen
 url: /knittlingen/
-latitude: 49.024756100000005
-longitude: 8.7596985
+latitude: 49.023
+longitude: 8.766
 ---

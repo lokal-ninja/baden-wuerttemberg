@@ -1,6 +1,6 @@
 ---
 title: Süßen
 url: /suessen/
-latitude: 48.6826604
-longitude: 9.758607300000001
+latitude: 48.679
+longitude: 9.763
 ---

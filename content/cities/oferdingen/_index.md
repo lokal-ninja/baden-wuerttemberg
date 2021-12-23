@@ -1,6 +1,6 @@
 ---
 title: Oferdingen
 url: /oferdingen/
-latitude: 48.547032800000004
-longitude: 9.207323200000001
+latitude: 48.55
+longitude: 9.198
 ---

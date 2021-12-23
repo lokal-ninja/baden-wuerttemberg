@@ -1,6 +1,6 @@
 ---
 title: Großrinderfeld
 url: /grossrinderfeld/
-latitude: 49.6657707
-longitude: 9.7332965
+latitude: 49.665
+longitude: 9.734
 ---

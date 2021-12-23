@@ -1,6 +1,6 @@
 ---
 title: Massenbachhausen
 url: /massenbachhausen/
-latitude: 49.17753140000001
-longitude: 9.046756
+latitude: 49.175
+longitude: 9.048
 ---

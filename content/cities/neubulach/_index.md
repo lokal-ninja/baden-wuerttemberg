@@ -1,6 +1,6 @@
 ---
 title: Neubulach
 url: /neubulach/
-latitude: 48.6619431
-longitude: 8.6926366
+latitude: 48.662
+longitude: 8.697
 ---

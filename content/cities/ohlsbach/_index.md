@@ -1,6 +1,6 @@
 ---
 title: Ohlsbach
 url: /ohlsbach/
-latitude: 48.4316699
-longitude: 7.9939024000000005
+latitude: 48.431
+longitude: 7.983
 ---

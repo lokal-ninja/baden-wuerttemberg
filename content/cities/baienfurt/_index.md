@@ -1,6 +1,6 @@
 ---
 title: Baienfurt
 url: /baienfurt/
-latitude: 
-longitude: 
+latitude: 47.83
+longitude: 9.646
 ---

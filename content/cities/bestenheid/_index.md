@@ -1,6 +1,6 @@
 ---
 title: Bestenheid
 url: /bestenheid/
-latitude: 
-longitude: 
+latitude: 49.784
+longitude: 9.491
 ---

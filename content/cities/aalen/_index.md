@@ -1,6 +1,6 @@
 ---
 title: Aalen
 url: /aalen/
-latitude: 48.836270500000005
-longitude: 10.0931765
+latitude: 48.832
+longitude: 10.073
 ---

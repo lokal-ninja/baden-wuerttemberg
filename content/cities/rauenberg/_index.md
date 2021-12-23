@@ -1,6 +1,6 @@
 ---
 title: Rauenberg
 url: /rauenberg/
-latitude: 49.267245700000004
-longitude: 8.7036146
+latitude: 49.268
+longitude: 8.703
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Longchamps"
 url: /stuttgart/longchamps/
-shop: Allgemein
+shop: Taschen & Koffer
 ---

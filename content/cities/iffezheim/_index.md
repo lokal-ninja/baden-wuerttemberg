@@ -1,6 +1,6 @@
 ---
 title: Iffezheim
 url: /iffezheim/
-latitude: 48.8209175
-longitude: 8.1421337
+latitude: 48.824
+longitude: 8.14
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Telekom Shop"
 url: /waiblingen/telekom-shop/
-shop: Allgemein
+shop: Handy
 ---

@@ -1,6 +1,6 @@
 ---
 title: Langenargen
 url: /langenargen/
-latitude: 
-longitude: 
+latitude: 47.597
+longitude: 9.542
 ---

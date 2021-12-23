@@ -1,6 +1,6 @@
 ---
 title: Leibertingen
 url: /leibertingen/
-latitude: 48.042881300000005
-longitude: 9.014547700000001
+latitude: 48.054
+longitude: 9.055
 ---

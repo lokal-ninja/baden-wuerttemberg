@@ -1,6 +1,6 @@
 ---
 title: Ludwigsburg
 url: /ludwigsburg/
-latitude: 48.8953937
-longitude: 9.1895147
+latitude: 48.91
+longitude: 9.206
 ---

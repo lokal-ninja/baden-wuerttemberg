@@ -1,6 +1,6 @@
 ---
 title: Oberkirch
 url: /oberkirch/
-latitude: 48.5307122
-longitude: 8.0783998
+latitude: 48.534
+longitude: 8.071
 ---

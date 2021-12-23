@@ -1,6 +1,6 @@
 ---
 title: Langenenslingen
 url: /langenenslingen/
-latitude: 48.1480101
-longitude: 9.3770185
+latitude: 48.148
+longitude: 9.38
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ketsch
 url: /ketsch/
-latitude: 49.367538
-longitude: 8.5237178
+latitude: 49.369
+longitude: 8.531
 ---

@@ -1,6 +1,6 @@
 ---
 title: Neuenburg am Rhein
 url: /neuenburg-am-rhein/
-latitude: 
-longitude: 
+latitude: 47.814
+longitude: 7.559
 ---

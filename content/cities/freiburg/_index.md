@@ -1,6 +1,6 @@
 ---
 title: Freiburg
 url: /freiburg/
-latitude: 
-longitude: 
+latitude: 47.999
+longitude: 7.838
 ---

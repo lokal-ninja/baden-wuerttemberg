@@ -1,6 +1,6 @@
 ---
 title: Ingersheim
 url: /ingersheim/
-latitude: 
-longitude: 
+latitude: 48.96
+longitude: 9.182
 ---

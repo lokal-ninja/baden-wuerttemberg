@@ -1,6 +1,6 @@
 ---
 title: Heddesheim
 url: /heddesheim/
-latitude: 49.5054905
-longitude: 8.6024574
+latitude: 49.507
+longitude: 8.604
 ---

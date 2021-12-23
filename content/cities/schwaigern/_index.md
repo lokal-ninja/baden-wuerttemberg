@@ -1,6 +1,6 @@
 ---
 title: Schwaigern
 url: /schwaigern/
-latitude: 49.1414205
-longitude: 9.0571085
+latitude: 49.138
+longitude: 9.065
 ---

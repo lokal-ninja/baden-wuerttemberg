@@ -1,6 +1,6 @@
 ---
 title: Elchesheim-Illingen
 url: /elchesheim-illingen/
-latitude: 
-longitude: 
+latitude: 48.929
+longitude: 8.212
 ---

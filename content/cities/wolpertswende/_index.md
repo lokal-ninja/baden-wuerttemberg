@@ -1,6 +1,6 @@
 ---
 title: Wolpertswende
 url: /wolpertswende/
-latitude: 
-longitude: 
+latitude: 47.886
+longitude: 9.574
 ---

@@ -1,6 +1,6 @@
 ---
 title: Waldstetten
 url: /waldstetten/
-latitude: 48.767209400000006
-longitude: 9.8213931
+latitude: 48.755
+longitude: 9.841
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dossenheim
 url: /dossenheim/
-latitude: 
-longitude: 
+latitude: 49.45
+longitude: 8.672
 ---

@@ -1,6 +1,6 @@
 ---
 title: Altdorf
 url: /altdorf/
-latitude: 48.5950276
-longitude: 9.2712933
+latitude: 48.629
+longitude: 8.994
 ---

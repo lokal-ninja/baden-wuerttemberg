@@ -1,6 +1,6 @@
 ---
 title: Sulzbach-Laufen
 url: /sulzbach-laufen/
-latitude: 
-longitude: 
+latitude: 48.962
+longitude: 9.847
 ---

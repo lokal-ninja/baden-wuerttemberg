@@ -1,6 +1,6 @@
 ---
 title: Häusern
 url: /haeusern/
-latitude: 49.5779031
-longitude: 9.4455889
+latitude: 47.752
+longitude: 8.168
 ---

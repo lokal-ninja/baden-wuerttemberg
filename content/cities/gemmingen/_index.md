@@ -1,6 +1,6 @@
 ---
 title: Gemmingen
 url: /gemmingen/
-latitude: 49.1566963
-longitude: 8.9840589
+latitude: 49.152
+longitude: 8.986
 ---

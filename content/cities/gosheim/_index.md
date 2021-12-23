@@ -1,6 +1,6 @@
 ---
 title: Gosheim
 url: /gosheim/
-latitude: 
-longitude: 
+latitude: 48.139
+longitude: 8.765
 ---

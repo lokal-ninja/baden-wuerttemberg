@@ -1,6 +1,6 @@
 ---
 title: Attenweiler
 url: /attenweiler/
-latitude: 48.137704500000005
-longitude: 9.699120500000001
+latitude: 48.139
+longitude: 9.695
 ---

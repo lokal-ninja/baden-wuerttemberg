@@ -1,6 +1,6 @@
 ---
 title: Hardheim
 url: /hardheim/
-latitude: 49.6101843
-longitude: 9.4732442
+latitude: 49.609
+longitude: 9.476
 ---

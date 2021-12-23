@@ -1,6 +1,6 @@
 ---
 title: Wüstenrot
 url: /wuestenrot/
-latitude: 49.0808
-longitude: 9.460560000000001
+latitude: 49.085
+longitude: 9.462
 ---

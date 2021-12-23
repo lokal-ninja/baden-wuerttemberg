@@ -1,6 +1,6 @@
 ---
 title: Burgrieden
 url: /burgrieden/
-latitude: 48.23838000000001
-longitude: 9.9342711
+latitude: 48.242
+longitude: 9.928
 ---

@@ -1,6 +1,6 @@
 ---
 title: Höchenschwand
 url: /hoechenschwand/
-latitude: 47.7354379
-longitude: 8.165994300000001
+latitude: 47.705
+longitude: 8.144
 ---

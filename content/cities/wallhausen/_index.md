@@ -1,6 +1,6 @@
 ---
 title: Wallhausen
 url: /wallhausen/
-latitude: 49.211128800000004
-longitude: 10.062741
+latitude: 49.215
+longitude: 10.063
 ---

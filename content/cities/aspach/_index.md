@@ -1,6 +1,6 @@
 ---
 title: Aspach
 url: /aspach/
-latitude: 49.0785202
-longitude: 9.7604728
+latitude: 48.968
+longitude: 9.394
 ---

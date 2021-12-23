@@ -1,6 +1,6 @@
 ---
 title: Korntal-Münchingen
 url: /korntal-muenchingen/
-latitude: 
-longitude: 
+latitude: 48.829
+longitude: 9.122
 ---

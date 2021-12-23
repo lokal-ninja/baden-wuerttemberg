@@ -1,6 +1,6 @@
 ---
 title: Dotternhausen
 url: /dotternhausen/
-latitude: 48.227696900000005
-longitude: 8.7920689
+latitude: 48.234
+longitude: 8.795
 ---

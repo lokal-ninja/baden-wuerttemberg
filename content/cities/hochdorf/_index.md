@@ -1,6 +1,6 @@
 ---
 title: Hochdorf
 url: /hochdorf/
-latitude: 48.587495800000006
-longitude: 8.5079519
+latitude: 48.693
+longitude: 9.467
 ---

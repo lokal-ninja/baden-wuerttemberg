@@ -1,6 +1,6 @@
 ---
 title: Rheinheim
 url: /rheinheim/
-latitude: 
-longitude: 
+latitude: 47.588
+longitude: 8.305
 ---

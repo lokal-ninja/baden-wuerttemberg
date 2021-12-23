@@ -1,6 +1,6 @@
 ---
 title: Abtsgmünd
 url: /abtsgmuend/
-latitude: 48.8936471
-longitude: 10.0027636
+latitude: 48.896
+longitude: 10.011
 ---

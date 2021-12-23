@@ -1,6 +1,6 @@
 ---
 title: Hohenstein
 url: /hohenstein/
-latitude: 48.3472808
-longitude: 9.3548059
+latitude: 48.332
+longitude: 9.331
 ---

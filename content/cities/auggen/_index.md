@@ -1,6 +1,6 @@
 ---
 title: Auggen
 url: /auggen/
-latitude: 47.7864318
-longitude: 7.597049500000001
+latitude: 47.791
+longitude: 7.59
 ---

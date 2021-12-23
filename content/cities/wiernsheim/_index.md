@@ -1,6 +1,6 @@
 ---
 title: Wiernsheim
 url: /wiernsheim/
-latitude: 
-longitude: 
+latitude: 48.891
+longitude: 8.85
 ---

@@ -1,6 +1,6 @@
 ---
 title: Niedereschach
 url: /niedereschach/
-latitude: 48.1322546
-longitude: 8.5281173
+latitude: 48.124
+longitude: 8.531
 ---

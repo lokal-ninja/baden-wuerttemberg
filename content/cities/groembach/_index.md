@@ -1,6 +1,6 @@
 ---
 title: Grömbach
 url: /groembach/
-latitude: 48.5712332
-longitude: 8.545439
+latitude: 48.571
+longitude: 8.545
 ---

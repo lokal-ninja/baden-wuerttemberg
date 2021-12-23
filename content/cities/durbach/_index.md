@@ -1,6 +1,6 @@
 ---
 title: Durbach
 url: /durbach/
-latitude: 48.4946385
-longitude: 8.0182635
+latitude: 48.494
+longitude: 8.022
 ---

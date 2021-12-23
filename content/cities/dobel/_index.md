@@ -1,6 +1,6 @@
 ---
 title: Dobel
 url: /dobel/
-latitude: 48.7969905
-longitude: 8.4936307
+latitude: 48.799
+longitude: 8.496
 ---

@@ -1,6 +1,6 @@
 ---
 title: Uttenweiler
 url: /uttenweiler/
-latitude: 48.1484158
-longitude: 9.6137932
+latitude: 48.146
+longitude: 9.618
 ---

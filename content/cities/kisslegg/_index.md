@@ -1,6 +1,6 @@
 ---
 title: Kißlegg
 url: /kisslegg/
-latitude: 
-longitude: 
+latitude: 47.795
+longitude: 9.877
 ---

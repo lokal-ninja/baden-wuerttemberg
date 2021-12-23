@@ -1,6 +1,6 @@
 ---
 title: Ehrenkirchen
 url: /ehrenkirchen/
-latitude: 47.9094053
-longitude: 7.7562414
+latitude: 47.92
+longitude: 7.727
 ---

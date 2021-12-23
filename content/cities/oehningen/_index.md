@@ -1,6 +1,6 @@
 ---
 title: Öhningen
 url: /oehningen/
-latitude: 
-longitude: 
+latitude: 47.662
+longitude: 8.886
 ---

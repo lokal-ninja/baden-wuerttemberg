@@ -1,6 +1,6 @@
 ---
 title: Beimerstetten
 url: /beimerstetten/
-latitude: 48.4840643
-longitude: 9.9836241
+latitude: 48.482
+longitude: 9.984
 ---

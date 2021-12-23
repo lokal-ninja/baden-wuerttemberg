@@ -1,6 +1,6 @@
 ---
 title: Laufenburg (Baden)
 url: /laufenburg-baden/
-latitude: 
-longitude: 
+latitude: 47.565
+longitude: 8.065
 ---

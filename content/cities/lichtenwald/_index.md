@@ -1,6 +1,6 @@
 ---
 title: Lichtenwald
 url: /lichtenwald/
-latitude: 48.9898394
-longitude: 8.707508800000001
+latitude: 48.755
+longitude: 9.486
 ---

@@ -1,6 +1,6 @@
 ---
 title: Beuron
 url: /beuron/
-latitude: 48.0511727
-longitude: 8.9703207
+latitude: 48.073
+longitude: 9.016
 ---

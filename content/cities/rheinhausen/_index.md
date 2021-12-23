@@ -1,6 +1,6 @@
 ---
 title: Rheinhausen
 url: /rheinhausen/
-latitude: 49.278276700000006
-longitude: 8.4723614
+latitude: 48.233
+longitude: 7.712
 ---

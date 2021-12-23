@@ -1,6 +1,6 @@
 ---
 title: Ilsfeld
 url: /ilsfeld/
-latitude: 49.055399200000004
-longitude: 9.245832700000001
+latitude: 49.056
+longitude: 9.257
 ---

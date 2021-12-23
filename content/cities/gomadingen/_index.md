@@ -1,6 +1,6 @@
 ---
 title: Gomadingen
 url: /gomadingen/
-latitude: 48.399243600000005
-longitude: 9.3908141
+latitude: 48.4
+longitude: 9.391
 ---

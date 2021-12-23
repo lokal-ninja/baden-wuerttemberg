@@ -1,6 +1,6 @@
 ---
 title: Schwetzingen
 url: /schwetzingen/
-latitude: 
-longitude: 
+latitude: 49.38
+longitude: 8.579
 ---

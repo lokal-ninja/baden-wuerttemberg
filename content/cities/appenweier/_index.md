@@ -1,6 +1,6 @@
 ---
 title: Appenweier
 url: /appenweier/
-latitude: 48.5387171
-longitude: 7.9802666
+latitude: 48.563
+longitude: 7.97
 ---

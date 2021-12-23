@@ -1,6 +1,6 @@
 ---
 title: Remchingen
 url: /remchingen/
-latitude: 
-longitude: 
+latitude: 48.944
+longitude: 8.575
 ---

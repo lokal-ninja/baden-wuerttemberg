@@ -1,6 +1,6 @@
 ---
 title: Gaienhofen
 url: /gaienhofen/
-latitude: 
-longitude: 
+latitude: 47.681
+longitude: 8.982
 ---

@@ -1,6 +1,6 @@
 ---
 title: Friedrichshafen
 url: /friedrichshafen/
-latitude: 
-longitude: 
+latitude: 47.657
+longitude: 9.493
 ---

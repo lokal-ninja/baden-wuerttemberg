@@ -1,6 +1,6 @@
 ---
 title: Bettingen
 url: /bettingen/
-latitude: 47.5714149
-longitude: 7.6639831
+latitude: 47.571
+longitude: 7.664
 ---

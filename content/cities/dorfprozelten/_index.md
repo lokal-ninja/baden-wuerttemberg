@@ -1,6 +1,6 @@
 ---
 title: Dorfprozelten
 url: /dorfprozelten/
-latitude: 49.7787121
-longitude: 9.3836016
+latitude: 49.778
+longitude: 9.381
 ---

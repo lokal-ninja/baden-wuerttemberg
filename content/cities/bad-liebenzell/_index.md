@@ -1,6 +1,6 @@
 ---
 title: Bad Liebenzell
 url: /bad-liebenzell/
-latitude: 48.771271600000006
-longitude: 8.7321279
+latitude: 48.781
+longitude: 8.732
 ---

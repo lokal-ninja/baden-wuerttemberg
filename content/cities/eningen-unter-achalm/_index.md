@@ -1,6 +1,6 @@
 ---
 title: Eningen unter Achalm
 url: /eningen-unter-achalm/
-latitude: 48.4862289
-longitude: 9.256763900000001
+latitude: 48.482
+longitude: 9.254
 ---

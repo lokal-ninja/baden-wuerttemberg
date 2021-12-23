@@ -1,6 +1,6 @@
 ---
 title: Lottstetten
 url: /lottstetten/
-latitude: 
-longitude: 
+latitude: 47.627
+longitude: 8.573
 ---

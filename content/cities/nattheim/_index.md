@@ -1,6 +1,6 @@
 ---
 title: Nattheim
 url: /nattheim/
-latitude: 48.699511400000006
-longitude: 10.2418583
+latitude: 48.702
+longitude: 10.236
 ---

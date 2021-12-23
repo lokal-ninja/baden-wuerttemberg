@@ -1,6 +1,6 @@
 ---
 title: Lenningen
 url: /lenningen/
-latitude: 48.552602300000004
-longitude: 9.4693273
+latitude: 48.55
+longitude: 9.474
 ---

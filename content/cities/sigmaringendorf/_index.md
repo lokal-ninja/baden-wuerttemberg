@@ -1,6 +1,6 @@
 ---
 title: Sigmaringendorf
 url: /sigmaringendorf/
-latitude: 48.066879300000004
-longitude: 9.263197400000001
+latitude: 48.068
+longitude: 9.262
 ---

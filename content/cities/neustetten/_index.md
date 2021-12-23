@@ -1,6 +1,6 @@
 ---
 title: Neustetten
 url: /neustetten/
-latitude: 48.477678600000004
-longitude: 8.8659297
+latitude: 48.483
+longitude: 8.882
 ---

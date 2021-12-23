@@ -1,6 +1,6 @@
 ---
 title: Weissach im Tal
 url: /weissach-im-tal/
-latitude: 
-longitude: 
+latitude: 48.929
+longitude: 9.479
 ---

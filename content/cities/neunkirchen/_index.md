@@ -1,6 +1,6 @@
 ---
 title: Neunkirchen
 url: /neunkirchen/
-latitude: 49.7072584
-longitude: 9.4012075
+latitude: 49.388
+longitude: 9.008
 ---

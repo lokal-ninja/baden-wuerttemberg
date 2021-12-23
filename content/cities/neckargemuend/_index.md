@@ -1,6 +1,6 @@
 ---
 title: Neckargemünd
 url: /neckargemuend/
-latitude: 
-longitude: 
+latitude: 49.389
+longitude: 8.804
 ---

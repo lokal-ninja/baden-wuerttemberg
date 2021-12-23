@@ -1,6 +1,6 @@
 ---
 title: Durmersheim
 url: /durmersheim/
-latitude: 48.932826600000006
-longitude: 8.2704865
+latitude: 48.931
+longitude: 8.268
 ---

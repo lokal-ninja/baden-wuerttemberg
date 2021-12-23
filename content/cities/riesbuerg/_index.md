@@ -1,6 +1,6 @@
 ---
 title: Riesbürg
 url: /riesbuerg/
-latitude: 
-longitude: 
+latitude: 48.828
+longitude: 10.432
 ---

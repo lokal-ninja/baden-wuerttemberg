@@ -1,6 +1,6 @@
 ---
 title: Breitnau
 url: /breitnau/
-latitude: 47.9398612
-longitude: 8.0770221
+latitude: 47.916
+longitude: 8.073
 ---

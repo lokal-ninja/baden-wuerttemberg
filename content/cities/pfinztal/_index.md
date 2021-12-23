@@ -1,6 +1,6 @@
 ---
 title: Pfinztal
 url: /pfinztal/
-latitude: 
-longitude: 
+latitude: 48.966
+longitude: 8.554
 ---

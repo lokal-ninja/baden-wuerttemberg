@@ -1,6 +1,6 @@
 ---
 title: Esslingen
 url: /esslingen/
-latitude: 
-longitude: 
+latitude: 48.718
+longitude: 9.346
 ---

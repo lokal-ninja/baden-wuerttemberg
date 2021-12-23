@@ -1,6 +1,6 @@
 ---
 title: Bad Rappenau
 url: /bad-rappenau/
-latitude: 49.2393031
-longitude: 9.101268000000001
+latitude: 49.24
+longitude: 9.096
 ---

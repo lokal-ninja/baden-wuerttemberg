@@ -1,6 +1,6 @@
 ---
 title: Immendingen
 url: /immendingen/
-latitude: 47.9391577
-longitude: 8.734422
+latitude: 47.935
+longitude: 8.722
 ---

@@ -1,6 +1,6 @@
 ---
 title: Schönwald im Schwarzwald
 url: /schoenwald-im-schwarzwald/
-latitude: 
-longitude: 
+latitude: 48.102
+longitude: 8.201
 ---

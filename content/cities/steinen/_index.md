@@ -1,6 +1,6 @@
 ---
 title: Steinen
 url: /steinen/
-latitude: 47.6435624
-longitude: 7.7395193
+latitude: 47.642
+longitude: 7.748
 ---

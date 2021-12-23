@@ -1,6 +1,6 @@
 ---
 title: Dürmentingen
 url: /duermentingen/
-latitude: 48.113468700000006
-longitude: 9.535160600000001
+latitude: 48.113
+longitude: 9.535
 ---

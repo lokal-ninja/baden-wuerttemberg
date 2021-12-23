@@ -1,6 +1,6 @@
 ---
 title: Weingarten
 url: /weingarten/
-latitude: 49.053290600000004
-longitude: 8.5245089
+latitude: 47.808
+longitude: 9.631
 ---

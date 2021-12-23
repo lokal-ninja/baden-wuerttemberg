@@ -1,6 +1,6 @@
 ---
 title: Kappelrodeck
 url: /kappelrodeck/
-latitude: 48.591285000000006
-longitude: 8.1177267
+latitude: 48.593
+longitude: 8.112
 ---

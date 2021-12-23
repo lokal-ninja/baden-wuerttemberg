@@ -1,6 +1,6 @@
 ---
 title: Renningen
 url: /renningen/
-latitude: 
-longitude: 
+latitude: 48.767
+longitude: 8.936
 ---

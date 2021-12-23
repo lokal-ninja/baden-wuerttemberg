@@ -1,6 +1,6 @@
 ---
 title: Allmendingen
 url: /allmendingen/
-latitude: 48.3277262
-longitude: 9.725546900000001
+latitude: 48.328
+longitude: 9.727
 ---

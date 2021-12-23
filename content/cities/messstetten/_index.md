@@ -1,6 +1,6 @@
 ---
 title: Meßstetten
 url: /messstetten/
-latitude: 
-longitude: 
+latitude: 48.189
+longitude: 8.919
 ---

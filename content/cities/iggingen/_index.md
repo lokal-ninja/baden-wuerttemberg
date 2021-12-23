@@ -1,6 +1,6 @@
 ---
 title: Iggingen
 url: /iggingen/
-latitude: 48.832737300000005
-longitude: 9.877207400000001
+latitude: 48.843
+longitude: 9.865
 ---

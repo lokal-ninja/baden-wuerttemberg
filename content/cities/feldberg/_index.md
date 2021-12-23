@@ -1,6 +1,6 @@
 ---
 title: Feldberg
 url: /feldberg/
-latitude: 
-longitude: 
+latitude: 47.859
+longitude: 8.037
 ---

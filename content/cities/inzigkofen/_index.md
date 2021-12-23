@@ -1,6 +1,6 @@
 ---
 title: Inzigkofen
 url: /inzigkofen/
-latitude: 48.071603200000006
-longitude: 9.1759679
+latitude: 48.079
+longitude: 9.14
 ---

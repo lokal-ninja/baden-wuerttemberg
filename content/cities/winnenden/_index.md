@@ -1,6 +1,6 @@
 ---
 title: Winnenden
 url: /winnenden/
-latitude: 47.9843727
-longitude: 9.592204
+latitude: 48.876
+longitude: 9.401
 ---

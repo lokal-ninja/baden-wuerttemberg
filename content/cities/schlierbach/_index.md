@@ -1,6 +1,6 @@
 ---
 title: Schlierbach
 url: /schlierbach/
-latitude: 49.4138674
-longitude: 8.745792
+latitude: 48.674
+longitude: 9.518
 ---

@@ -1,6 +1,6 @@
 ---
 title: Walldürn
 url: /wallduern/
-latitude: 49.5833
-longitude: 9.366670000000001
+latitude: 49.584
+longitude: 9.368
 ---

@@ -1,6 +1,6 @@
 ---
 title: Emmendingen
 url: /emmendingen/
-latitude: 
-longitude: 
+latitude: 48.129
+longitude: 7.827
 ---

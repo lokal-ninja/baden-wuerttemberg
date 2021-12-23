@@ -1,6 +1,6 @@
 ---
 title: Hechingen
 url: /hechingen/
-latitude: 48.352552900000006
-longitude: 8.9642047
+latitude: 48.353
+longitude: 8.964
 ---

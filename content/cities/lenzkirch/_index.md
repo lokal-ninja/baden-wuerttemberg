@@ -1,6 +1,6 @@
 ---
 title: Lenzkirch
 url: /lenzkirch/
-latitude: 47.8682042
-longitude: 8.2022783
+latitude: 47.87
+longitude: 8.203
 ---

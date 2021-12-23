@@ -1,6 +1,6 @@
 ---
 title: Neudenau
 url: /neudenau/
-latitude: 49.294085700000004
-longitude: 9.2731888
+latitude: 49.292
+longitude: 9.271
 ---

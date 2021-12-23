@@ -1,6 +1,6 @@
 ---
 title: Neuenbürg
 url: /neuenbuerg/
-latitude: 48.8491256
-longitude: 8.587156
+latitude: 48.846
+longitude: 8.589
 ---

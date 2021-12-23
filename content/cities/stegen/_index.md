@@ -1,6 +1,6 @@
 ---
 title: Stegen
 url: /stegen/
-latitude: 47.982038700000004
-longitude: 7.9642464
+latitude: 47.982
+longitude: 7.964
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rheinfelden
 url: /rheinfelden/
-latitude: 47.5543859
-longitude: 7.792290500000001
+latitude: 47.549
+longitude: 7.771
 ---

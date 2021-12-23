@@ -1,6 +1,6 @@
 ---
 title: Aichwald
 url: /aichwald/
-latitude: 
-longitude: 
+latitude: 48.779
+longitude: 9.393
 ---

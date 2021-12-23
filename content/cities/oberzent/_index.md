@@ -1,6 +1,6 @@
 ---
 title: Oberzent
 url: /oberzent/
-latitude: 
-longitude: 
+latitude: 49.541
+longitude: 9.08
 ---

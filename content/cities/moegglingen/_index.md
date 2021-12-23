@@ -1,6 +1,6 @@
 ---
 title: Mögglingen
 url: /moegglingen/
-latitude: 48.8233478
-longitude: 9.9620753
+latitude: 48.823
+longitude: 9.958
 ---

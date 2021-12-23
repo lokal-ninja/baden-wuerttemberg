@@ -1,6 +1,6 @@
 ---
 title: Ölbronn-Dürrn
 url: /oelbronn-duerrn/
-latitude: 
-longitude: 
+latitude: 48.954
+longitude: 8.747
 ---

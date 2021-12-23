@@ -1,6 +1,6 @@
 ---
 title: Reute
 url: /reute/
-latitude: 47.8904317
-longitude: 9.220452400000001
+latitude: 48.086
+longitude: 7.809
 ---

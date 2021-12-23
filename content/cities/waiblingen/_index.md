@@ -1,6 +1,6 @@
 ---
 title: Waiblingen
 url: /waiblingen/
-latitude: 
-longitude: 
+latitude: 48.83
+longitude: 9.31
 ---

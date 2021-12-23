@@ -1,6 +1,6 @@
 ---
 title: Breisach am Rhein
 url: /breisach-am-rhein/
-latitude: 48.0291415
-longitude: 7.5806123
+latitude: 48.033
+longitude: 7.593
 ---

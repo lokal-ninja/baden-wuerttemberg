@@ -1,6 +1,6 @@
 ---
 title: Stödtlen
 url: /stoedtlen/
-latitude: 49.002033700000005
-longitude: 10.2994535
+latitude: 49.001
+longitude: 10.299
 ---

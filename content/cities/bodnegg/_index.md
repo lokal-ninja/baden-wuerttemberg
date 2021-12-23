@@ -1,6 +1,6 @@
 ---
 title: Bodnegg
 url: /bodnegg/
-latitude: 47.709843600000006
-longitude: 9.690188000000001
+latitude: 47.712
+longitude: 9.692
 ---

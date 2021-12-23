@@ -1,6 +1,6 @@
 ---
 title: Neckarsteinach
 url: /neckarsteinach/
-latitude: 
-longitude: 
+latitude: 49.408
+longitude: 8.837
 ---

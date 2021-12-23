@@ -1,6 +1,6 @@
 ---
 title: Grafenhausen
 url: /grafenhausen/
-latitude: 47.7749844
-longitude: 8.2544945
+latitude: 47.775
+longitude: 8.255
 ---

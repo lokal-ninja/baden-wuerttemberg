@@ -1,6 +1,6 @@
 ---
 title: Zimmern ob Rottweil
 url: /zimmern-ob-rottweil/
-latitude: 
-longitude: 
+latitude: 48.172
+longitude: 8.577
 ---

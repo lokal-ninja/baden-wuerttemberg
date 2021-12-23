@@ -1,6 +1,6 @@
 ---
 title: Schluchsee
 url: /schluchsee/
-latitude: 47.818592800000005
-longitude: 8.177035
+latitude: 47.818
+longitude: 8.177
 ---

@@ -1,6 +1,6 @@
 ---
 title: Blaubeuren-Gerhausen
 url: /blaubeuren-gerhausen/
-latitude: 
-longitude: 
+latitude: 48.399
+longitude: 9.809
 ---

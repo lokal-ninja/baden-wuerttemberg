@@ -1,6 +1,6 @@
 ---
 title: Waldbrunn
 url: /waldbrunn/
-latitude: 49.4625399
-longitude: 9.087632900000001
+latitude: 49.465
+longitude: 9.058
 ---

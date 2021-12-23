@@ -1,6 +1,6 @@
 ---
 title: Walddorfhäslach
 url: /walddorfhaeslach/
-latitude: 48.592075900000005
-longitude: 9.1876315
+latitude: 48.587
+longitude: 9.188
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rheinstette
 url: /rheinstette/
-latitude: 
-longitude: 
+latitude: 48.963
+longitude: 8.281
 ---

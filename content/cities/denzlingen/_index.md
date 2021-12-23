@@ -1,6 +1,6 @@
 ---
 title: Denzlingen
 url: /denzlingen/
-latitude: 48.0669167
-longitude: 7.886270400000001
+latitude: 48.064
+longitude: 7.9
 ---

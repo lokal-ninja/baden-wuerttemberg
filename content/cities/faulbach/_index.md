@@ -1,6 +1,6 @@
 ---
 title: Faulbach
 url: /faulbach/
-latitude: 49.7847518
-longitude: 9.4410898
+latitude: 49.785
+longitude: 9.451
 ---

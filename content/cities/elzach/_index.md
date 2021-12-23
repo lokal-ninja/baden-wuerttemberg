@@ -1,6 +1,6 @@
 ---
 title: Elzach
 url: /elzach/
-latitude: 48.1757263
-longitude: 8.071847400000001
+latitude: 48.174
+longitude: 8.071
 ---

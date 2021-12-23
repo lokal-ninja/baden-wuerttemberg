@@ -1,6 +1,6 @@
 ---
 title: Engelsbrand
 url: /engelsbrand/
-latitude: 48.8310071
-longitude: 8.6445599
+latitude: 48.832
+longitude: 8.643
 ---

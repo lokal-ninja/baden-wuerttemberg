@@ -1,6 +1,6 @@
 ---
 title: Deißlingen
 url: /deisslingen/
-latitude: 48.1121476
-longitude: 8.6048933
+latitude: 48.107
+longitude: 8.607
 ---

@@ -1,6 +1,6 @@
 ---
 title: Winden im Elztal
 url: /winden-im-elztal/
-latitude: 48.149194800000004
-longitude: 8.031778300000001
+latitude: 48.152
+longitude: 8.039
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ellhofen
 url: /ellhofen/
-latitude: 49.1467
-longitude: 9.321940000000001
+latitude: 49.147
+longitude: 9.321
 ---

@@ -1,6 +1,6 @@
 ---
 title: Untermünkheim
 url: /untermuenkheim/
-latitude: 49.152821900000006
-longitude: 9.7338441
+latitude: 49.155
+longitude: 9.732
 ---

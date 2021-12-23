@@ -1,6 +1,6 @@
 ---
 title: Bahlingen am Kaiserstuhl
 url: /bahlingen-am-kaiserstuhl/
-latitude: 48.1236206
-longitude: 7.735779900000001
+latitude: 48.12
+longitude: 7.749
 ---

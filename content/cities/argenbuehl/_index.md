@@ -1,6 +1,6 @@
 ---
 title: Argenbühl
 url: /argenbuehl/
-latitude: 
-longitude: 
+latitude: 47.688
+longitude: 9.959
 ---

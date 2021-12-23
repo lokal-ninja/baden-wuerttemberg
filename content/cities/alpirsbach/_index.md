@@ -1,6 +1,6 @@
 ---
 title: Alpirsbach
 url: /alpirsbach/
-latitude: 48.3456021
-longitude: 8.4033079
+latitude: 48.343
+longitude: 8.398
 ---

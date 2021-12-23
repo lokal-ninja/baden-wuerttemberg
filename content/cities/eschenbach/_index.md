@@ -1,6 +1,6 @@
 ---
 title: Eschenbach
 url: /eschenbach/
-latitude: 48.252869600000004
-longitude: 8.948257
+latitude: 48.658
+longitude: 9.674
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wolpertshausen
 url: /wolpertshausen/
-latitude: 49.167419200000005
-longitude: 9.846298800000001
+latitude: 49.17
+longitude: 9.86
 ---

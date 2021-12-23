@@ -1,6 +1,6 @@
 ---
 title: Mühlacker
 url: /muehlacker/
-latitude: 48.9487272
-longitude: 8.8492931
+latitude: 48.953
+longitude: 8.852
 ---
