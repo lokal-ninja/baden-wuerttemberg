@@ -1,5 +1,5 @@
 ---
-title: "Ara"
+title: "ara"
 url: /konstanz/ara/
 shop: Schuhe
 ---

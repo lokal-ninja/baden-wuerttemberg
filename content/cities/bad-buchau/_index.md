@@ -1,6 +1,6 @@
 ---
 title: Bad Buchau
 url: /bad-buchau/
-latitude: 48.066
-longitude: 9.61
+latitude: 48.064
+longitude: 9.611
 ---
