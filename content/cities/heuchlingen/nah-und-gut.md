@@ -1,5 +1,5 @@
 ---
-title: "Nah und Gut"
+title: "nah und gut"
 url: /heuchlingen/nah-und-gut/
 shop: Supermarkt
 ---

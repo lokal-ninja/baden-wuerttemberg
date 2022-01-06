@@ -1,5 +1,5 @@
 ---
-title: "Tredy"
+title: "tredy"
 url: /aalen/tredy/
-shop: Modehaus
+shop: Kleidung
 ---

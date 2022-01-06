@@ -1,11 +1,11 @@
-id: 99174124
-type: way
-latitude: 48.84937
-longitude: 10.09417
-postcode: "73430"
+id: 4522144690
+type: node
+latitude: 48.83642
+longitude: 10.06479
+postcode: "73434"
 city: Aalen
-street: "Heinrich-Rieger-Straße"
-housenumber: 22/1
-phone: "+49 7361 524910"
-opening_hours: "Mo-We 08:00-21:00; Th-Sa 08:00-22:00; Su, PH off"
-website: "https://www.edeka.de/"
+street: "Hofherrnstraße"
+housenumber: 66
+phone: "+49 7361 943023"
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
+website: ""
