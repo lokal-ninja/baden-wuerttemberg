@@ -1,6 +1,6 @@
 ---
 title: Backnang
 url: /backnang/
-latitude: 48.952
-longitude: 9.447
+latitude: 48.936
+longitude: 9.438
 ---

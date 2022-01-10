@@ -1,11 +1,11 @@
-id: 2972524966
-type: node
-latitude: 48.78309
-longitude: 9.20763
-postcode: "70188"
+id: 61755506
+type: way
+latitude: 48.77385
+longitude: 9.14496
+postcode: "70197"
 city: Stuttgart
-street: "Ostendstraße"
-housenumber: 90
+street: "Rückertstraße"
+housenumber: 7
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.rewe.de/marktseite/stuttgart/830982/rewe-city-rueckertstrasse-7/"
