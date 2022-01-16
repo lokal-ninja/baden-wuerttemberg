@@ -1,5 +1,5 @@
 ---
 title: "Kuschelwerk"
 url: /ravensburg/kuschelwerk/
-shop: Modehaus
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speidel GmbH"
 url: /kisslegg/speidel-gmbh/
-shop: Modehaus
+shop: Kleidung
 ---

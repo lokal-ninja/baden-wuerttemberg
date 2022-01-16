@@ -1,5 +1,5 @@
 ---
 title: "Bottega da Giulia"
 url: /stuttgart/bottega-da-giulia/
-shop: Allgemein
+shop: Feinkost
 ---

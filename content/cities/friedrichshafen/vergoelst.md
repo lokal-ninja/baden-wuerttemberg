@@ -1,5 +1,5 @@
 ---
 title: "Vergölst"
 url: /friedrichshafen/vergoelst/
-shop: Autowerkstatt
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tedox"
+title: "tedox"
 url: /heidenheim-an-der-brenz/tedox/
 shop: Baumarkt
 ---

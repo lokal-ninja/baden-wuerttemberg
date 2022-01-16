@@ -1,5 +1,5 @@
 ---
 title: "Latosa"
 url: /ravensburg/latosa/
-shop: Modehaus
+shop: Kleidung
 ---
