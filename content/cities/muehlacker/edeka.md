@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /muehlacker/edeka/
 shop: Supermarkt
 ---

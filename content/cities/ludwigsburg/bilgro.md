@@ -1,5 +1,5 @@
 ---
-title: "Bilgro"
+title: "bilgro"
 url: /ludwigsburg/bilgro/
 shop: Getränke
 ---
