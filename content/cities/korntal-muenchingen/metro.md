@@ -1,5 +1,5 @@
 ---
-title: "Metro"
+title: "METRO"
 url: /korntal-muenchingen/metro/
-shop: Supermarkt
+shop: Großhandel
 ---

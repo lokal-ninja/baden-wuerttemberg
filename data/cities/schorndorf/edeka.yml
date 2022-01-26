@@ -1,11 +1,11 @@
-id: 88251688
-type: way
-latitude: 48.81784
-longitude: 9.53817
+id: 1371455241
+type: node
+latitude: 48.80807
+longitude: 9.51057
 postcode: "73614"
 city: Schorndorf
-street: "Wiesenstraße"
+street: "Steinbeisstraße"
 housenumber: 35
-phone: "+49 7181 939230"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://edeka.de"
+phone: ""
+opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-16:00; Su, PH off"
+website: ""
