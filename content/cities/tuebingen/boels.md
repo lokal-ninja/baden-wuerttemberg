@@ -1,5 +1,5 @@
 ---
 title: "Boels"
 url: /tuebingen/boels/
-shop: Allgemein
+shop: Werkzeuge
 ---

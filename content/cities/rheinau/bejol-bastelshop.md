@@ -1,5 +1,5 @@
 ---
 title: "Bejol Bastelshop"
 url: /rheinau/bejol-bastelshop/
-shop: Allgemein
+shop: Katalog
 ---

@@ -1,11 +1,11 @@
-id: 47003461
-type: way
-latitude: 47.65943
-longitude: 9.17738
-postcode: "78462"
+id: 4370322000
+type: node
+latitude: 47.71157
+longitude: 9.17324
+postcode: "78465"
 city: Konstanz
-street: "Bahnhofplatz"
-housenumber: 41
-phone: ""
-opening_hours: "Mo-Fr 05:45-20:00; Sa,Su 06:00-18:00"
-website: ""
+street: "Martin-Schleyer-Straße"
+housenumber: 4
+phone: "+49 7531 9227671"
+opening_hours: "Mo-Fr 06:30-19:00; Sa,Su 07:00-18:00"
+website: "https://meisterbaeckerei.de/"

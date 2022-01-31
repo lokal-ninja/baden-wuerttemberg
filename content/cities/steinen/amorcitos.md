@@ -1,5 +1,5 @@
 ---
 title: "Amorcitos"
 url: /steinen/amorcitos/
-shop: Allgemein
+shop: Modehaus
 ---

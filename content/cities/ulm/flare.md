@@ -1,5 +1,5 @@
 ---
 title: "Flare"
 url: /ulm/flare/
-shop: Allgemein
+shop: Katalog
 ---
