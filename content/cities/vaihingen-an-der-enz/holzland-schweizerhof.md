@@ -1,5 +1,5 @@
 ---
-title: "Holzland Schweizerhof"
+title: "HolzLand Schweizerhof"
 url: /vaihingen-an-der-enz/holzland-schweizerhof/
-shop: Baumarkt
+shop: Baustoffe
 ---
