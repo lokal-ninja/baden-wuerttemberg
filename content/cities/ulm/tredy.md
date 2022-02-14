@@ -1,5 +1,5 @@
 ---
-title: "Tredy"
+title: "tredy"
 url: /ulm/tredy/
 shop: Kleidung
 ---

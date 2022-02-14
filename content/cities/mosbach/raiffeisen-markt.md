@@ -1,5 +1,5 @@
 ---
-title: "Raiffeisen Markt"
+title: "Raiffeisen-Markt"
 url: /mosbach/raiffeisen-markt/
-shop: Garten-Center
+shop: Baumarkt
 ---

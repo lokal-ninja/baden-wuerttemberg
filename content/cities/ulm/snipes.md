@@ -1,5 +1,5 @@
 ---
 title: "Snipes"
 url: /ulm/snipes/
-shop: Kleidung
+shop: Schuhe
 ---

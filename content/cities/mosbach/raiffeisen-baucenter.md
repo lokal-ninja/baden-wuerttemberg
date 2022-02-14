@@ -1,5 +1,5 @@
 ---
-title: "Raiffeisen- Baucenter"
+title: "Raiffeisen Baucenter"
 url: /mosbach/raiffeisen-baucenter/
-shop: Baumarkt
+shop: Baustoffe
 ---

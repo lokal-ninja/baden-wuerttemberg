@@ -1,5 +1,5 @@
 ---
-title: "AWG Modecenter"
+title: "AWG-Modecenter"
 url: /mosbach/awg-modecenter/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EQUIVA"
 url: /mannheim/equiva/
-shop: Outdoor
+shop: Sport
 ---

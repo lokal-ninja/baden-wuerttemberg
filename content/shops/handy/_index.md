@@ -1,5 +1,5 @@
 ---
 title: Handy
 url: /handy/
-icon: other
+icon: mobile_phone
 ---

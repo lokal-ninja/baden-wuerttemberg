@@ -1,6 +1,6 @@
 ---
 title: Tamm
 url: /tamm/
-latitude: 48.916
-longitude: 9.126
+latitude: 48.921
+longitude: 9.122
 ---
