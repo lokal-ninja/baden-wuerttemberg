@@ -1,11 +1,11 @@
-id: 4886164473
-type: node
-latitude: 49.36823
-longitude: 8.57571
+id: 414575475
+type: way
+latitude: 49.36807
+longitude: 8.57559
 postcode: "68723"
 city: Oftersheim
 street: "Eichendorffstraße"
 housenumber: 42
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; PH off"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; PH off"
+website: "https://www.rossmann.de/de/filialen/baden-wuerttemberg/oftersheim/index.html"

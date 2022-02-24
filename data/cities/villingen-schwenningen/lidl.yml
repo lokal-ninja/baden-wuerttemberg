@@ -1,11 +1,11 @@
-id: 2956396920
-type: node
-latitude: 48.05857
-longitude: 8.43524
-postcode: "78050"
+id: 88700053
+type: way
+latitude: 48.06345
+longitude: 8.54235
+postcode: "78056"
 city: Villingen-Schwenningen
-street: "Beim Enggäßle"
-housenumber: 1
+street: "Schützenstraße"
+housenumber: 42
 phone: ""
-opening_hours: "Mo-Sa 7:00-21:00; PH off"
-website: "https://www.lidl.de/filialen/villingen-schwenningen/beim-enggaessle-1.html"
+opening_hours: "Mo-Sa 07:00-21:00; PH off"
+website: "https://www.lidl.de/filialen/villingen-schwenningen/schuetzenstr-42.html"

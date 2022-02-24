@@ -1,5 +1,5 @@
 ---
-title: "Aldi Süd"
+title: "ALDI Süd"
 url: /rielasingen-worblingen/aldi-sued/
 shop: Supermarkt
 ---

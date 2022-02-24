@@ -1,5 +1,5 @@
 ---
 title: "Fundus"
 url: /buehl/fundus/
-shop: Kleidung
+shop: Gebrauchtwaren
 ---
