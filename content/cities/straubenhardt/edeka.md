@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /straubenhardt/edeka/
-shop: Bäckerei
+shop: Supermarkt
 ---
