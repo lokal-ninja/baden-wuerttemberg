@@ -1,5 +1,5 @@
 ---
-title: "BRAUN Möbel-Center"
+title: "Braun Möbel Center"
 url: /singen-hohentwiel/braun-moebel-center/
 shop: Möbel
 ---

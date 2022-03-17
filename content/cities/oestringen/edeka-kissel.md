@@ -1,5 +1,5 @@
 ---
-title: "Edeka Kissel"
+title: "EDEKA Kissel"
 url: /oestringen/edeka-kissel/
 shop: Supermarkt
 ---
