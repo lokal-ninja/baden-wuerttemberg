@@ -1,6 +1,6 @@
 ---
 title: Starzach
 url: /starzach/
-latitude: 48.433
-longitude: 8.807
+latitude: 48.432
+longitude: 8.814
 ---
