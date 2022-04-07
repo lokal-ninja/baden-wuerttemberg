@@ -1,5 +1,5 @@
 ---
 title: "Grethermühle"
 url: /maulburg/grethermuehle/
-shop: Landwirtschaftlich
+shop: Hofladen
 ---

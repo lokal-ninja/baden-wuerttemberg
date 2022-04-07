@@ -1,5 +1,5 @@
 ---
-title: "Street Shoes"
+title: "street shoes"
 url: /karlsruhe/street-shoes/
 shop: Schuhe
 ---

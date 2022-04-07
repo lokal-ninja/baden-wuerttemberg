@@ -1,11 +1,11 @@
-id: 5781453908
-type: node
-latitude: 48.83221
-longitude: 9.16976
-postcode: "70435"
+id: 210508633
+type: way
+latitude: 48.80316
+longitude: 9.21564
+postcode: "70372"
 city: Stuttgart
-street: "Unterländer Straße"
-housenumber: 57
-phone: "+49 711 3419839"
-opening_hours: "Mo-Su 06:00-18:00"
-website: "www.sternenbäck.de"
+street: "Badstraße"
+housenumber: 9
+phone: ""
+opening_hours: "Mo-Fr 05:30-19:00; Sa 06:30-17:30; Su, Ph off"
+website: ""

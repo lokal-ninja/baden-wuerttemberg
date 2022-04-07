@@ -1,5 +1,5 @@
 ---
-title: "TK maxx"
+title: "TK Maxx"
 url: /ulm/tk-maxx/
-shop: Kleidung
+shop: Warenhaus
 ---
