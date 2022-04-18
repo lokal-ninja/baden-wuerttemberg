@@ -1,6 +1,6 @@
 ---
 title: Bad Dürrheim
 url: /bad-duerrheim/
-latitude: 48.031
-longitude: 8.525
+latitude: 48.035
+longitude: 8.532
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Penny"
+title: "PENNY"
 url: /neuhausen-auf-den-fildern/penny/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tegut"
+title: "tegut"
 url: /waiblingen/tegut/
 shop: Supermarkt
 ---

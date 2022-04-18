@@ -1,5 +1,5 @@
 ---
 title: "La Brillantina"
 url: /neuhausen-auf-den-fildern/la-brillantina/
-shop: Modehaus
+shop: Kleidung
 ---

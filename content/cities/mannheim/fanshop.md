@@ -1,5 +1,5 @@
 ---
 title: "Fanshop"
 url: /mannheim/fanshop/
-shop: Allgemein
+shop: Kleidung
 ---
