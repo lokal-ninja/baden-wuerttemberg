@@ -1,5 +1,5 @@
 ---
-title: "Norma"
+title: "NORMA"
 url: /villingen-schwenningen/norma/
 shop: Supermarkt
 ---

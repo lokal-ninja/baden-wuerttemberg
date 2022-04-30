@@ -1,6 +1,6 @@
 ---
 title: Todtnau
 url: /todtnau/
-latitude: 47.831
+latitude: 47.83
 longitude: 7.946
 ---

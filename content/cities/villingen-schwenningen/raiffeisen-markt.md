@@ -1,5 +1,5 @@
 ---
-title: "Raiffeisen Markt"
+title: "Raiffeisen-Markt"
 url: /villingen-schwenningen/raiffeisen-markt/
-shop: Landwirtschaftlich
+shop: Baumarkt
 ---
