@@ -1,5 +1,5 @@
 ---
 title: "die RENNWESTE"
 url: /rohrdorf/die-rennweste/
-shop: Allgemein
+shop: Kleidung
 ---

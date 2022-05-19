@@ -1,5 +1,5 @@
 ---
 title: "Bohn's"
 url: /bruchsal/bohns/
-shop: Feinkost
+shop: Metzgerei
 ---

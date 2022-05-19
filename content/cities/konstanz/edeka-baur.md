@@ -1,5 +1,5 @@
 ---
-title: "Edeka Baur"
+title: "Edeka-Baur"
 url: /konstanz/edeka-baur/
 shop: Supermarkt
 ---

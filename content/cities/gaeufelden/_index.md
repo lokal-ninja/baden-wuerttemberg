@@ -1,6 +1,6 @@
 ---
 title: Gäufelden
 url: /gaeufelden/
-latitude: 48.556
-longitude: 8.849
+latitude: 48.558
+longitude: 8.851
 ---
