@@ -1,11 +1,11 @@
-id: 2844118761
-type: node
-latitude: 48.83683
-longitude: 10.09085
-postcode: "73430"
+id: 243021259
+type: way
+latitude: 48.80421
+longitude: 10.19075
+postcode: "73432"
 city: Aalen
-street: "Gartenstraße"
-housenumber: 2
+street: "Thurn-und-Taxis-Straße"
+housenumber: 44
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su, PH off"
+opening_hours: ""
 website: ""

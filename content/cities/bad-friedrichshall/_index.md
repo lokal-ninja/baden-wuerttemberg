@@ -1,6 +1,6 @@
 ---
 title: Bad Friedrichshall
 url: /bad-friedrichshall/
-latitude: 49.229
-longitude: 9.217
+latitude: 49.213
+longitude: 9.244
 ---
