@@ -1,5 +1,5 @@
 ---
-title: "NETTO"
+title: "Netto"
 url: /dunningen/netto/
 shop: Supermarkt
 ---
