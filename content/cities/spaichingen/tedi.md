@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /spaichingen/tedi/
-shop: Lebensmittel
+shop: Kramladen
 ---

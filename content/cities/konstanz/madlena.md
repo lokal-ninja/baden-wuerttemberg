@@ -1,5 +1,5 @@
 ---
 title: "MadLena"
 url: /konstanz/madlena/
-shop: Modehaus
+shop: Kleidung
 ---
