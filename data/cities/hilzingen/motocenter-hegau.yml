@@ -7,5 +7,5 @@ city: Hilzingen
 street: "Weidgang"
 housenumber: 3
 phone: "+49 7731 955620"
-opening_hours: "Mo 13:30-18:00; Tu-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: "Mo,Tu,Th,Fr 13:30-18:00, Tu-Fr 09:00-12:30, Sa 09:00-13:00; PH,Su off, We 13:00-19:00"
 website: "https://www.motocenter-hegau.com/"
