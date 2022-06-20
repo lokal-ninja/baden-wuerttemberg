@@ -1,5 +1,5 @@
 ---
-title: "Brax"
+title: "BRAX"
 url: /stuttgart/brax/
 shop: Kleidung
 ---

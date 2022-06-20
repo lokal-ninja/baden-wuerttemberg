@@ -1,6 +1,6 @@
 ---
 title: Kreuzwertheim
 url: /kreuzwertheim/
-latitude: 49.78
-longitude: 9.542
+latitude: 49.765
+longitude: 9.52
 ---

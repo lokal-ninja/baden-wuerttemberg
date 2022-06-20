@@ -1,6 +1,6 @@
 ---
 title: Lörrach
 url: /loerrach/
-latitude: 47.636
-longitude: 7.676
+latitude: 47.603
+longitude: 7.655
 ---

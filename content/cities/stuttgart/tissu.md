@@ -1,5 +1,5 @@
 ---
 title: "TISSU"
 url: /stuttgart/tissu/
-shop: Modehaus
+shop: Kleidung
 ---

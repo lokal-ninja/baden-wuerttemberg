@@ -1,5 +1,5 @@
 ---
 title: "vomFASS"
 url: /stuttgart/vomfass/
-shop: Spirituosen
+shop: Feinkost
 ---

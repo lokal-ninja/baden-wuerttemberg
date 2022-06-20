@@ -1,5 +1,5 @@
 ---
 title: "abseits"
 url: /stuttgart/abseits/
-shop: Modehaus
+shop: Kleidung
 ---
