@@ -1,6 +1,6 @@
 ---
 title: Albershausen
 url: /albershausen/
-latitude: 48.687
-longitude: 9.552
+latitude: 48.692
+longitude: 9.566
 ---

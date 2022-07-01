@@ -1,6 +1,6 @@
 ---
 title: Wolfegg
 url: /wolfegg/
-latitude: 47.82
-longitude: 9.793
+latitude: 47.821
+longitude: 9.789
 ---
