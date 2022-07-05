@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /sigmaringen/edeka/
+url: /boehmenkirch/edeka/
 shop: Supermarkt
 ---
