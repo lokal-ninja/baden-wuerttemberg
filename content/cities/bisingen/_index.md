@@ -1,6 +1,6 @@
 ---
 title: Bisingen
 url: /bisingen/
-latitude: 48.324
-longitude: 8.907
+latitude: 48.314
+longitude: 8.898
 ---

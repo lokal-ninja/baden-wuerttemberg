@@ -1,5 +1,5 @@
 ---
-title: "sehne"
+title: "Sehne"
 url: /neustetten/sehne/
 shop: Bäckerei
 ---
