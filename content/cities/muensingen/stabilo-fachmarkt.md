@@ -1,5 +1,5 @@
 ---
 title: "Stabilo Fachmarkt"
 url: /muensingen/stabilo-fachmarkt/
-shop: Baumarkt
+shop: Garten-Center
 ---
