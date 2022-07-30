@@ -1,5 +1,5 @@
 ---
-title: "Edeka Rentschler"
+title: "EDEKA Rentschler"
 url: /dornhan/edeka-rentschler/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Edeka Notararigo"
+title: "EDEKA Notararigo"
 url: /lichtenau/edeka-notararigo/
 shop: Supermarkt
 ---

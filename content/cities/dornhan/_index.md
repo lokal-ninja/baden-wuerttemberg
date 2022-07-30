@@ -1,6 +1,6 @@
 ---
 title: Dornhan
 url: /dornhan/
-latitude: 48.351
-longitude: 8.502
+latitude: 48.352
+longitude: 8.501
 ---

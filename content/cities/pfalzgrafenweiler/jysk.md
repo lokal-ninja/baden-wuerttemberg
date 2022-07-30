@@ -1,5 +1,5 @@
 ---
-title: "Jysk"
+title: "JYSK"
 url: /pfalzgrafenweiler/jysk/
-shop: Betten
+shop: Möbel
 ---

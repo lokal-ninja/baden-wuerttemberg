@@ -1,5 +1,5 @@
 ---
 title: "Müller"
 url: /schramberg/mueller/
-shop: Lebensmittel
+shop: Drogerie
 ---
