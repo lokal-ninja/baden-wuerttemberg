@@ -1,6 +1,6 @@
 ---
 title: Plankstadt
 url: /plankstadt/
-latitude: 49.392
-longitude: 8.587
+latitude: 49.393
+longitude: 8.588
 ---

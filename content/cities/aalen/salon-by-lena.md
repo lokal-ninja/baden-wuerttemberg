@@ -1,5 +1,5 @@
 ---
-title: "salon by. lena"
+title: "salon by lena"
 url: /aalen/salon-by-lena/
 shop: Friseur
 ---
