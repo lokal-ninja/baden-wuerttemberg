@@ -1,6 +1,6 @@
 ---
 title: Ditzingen
 url: /ditzingen/
-latitude: 48.827
-longitude: 9.067
+latitude: 48.853
+longitude: 8.983
 ---

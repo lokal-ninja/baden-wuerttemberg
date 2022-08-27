@@ -1,6 +1,6 @@
 ---
 title: Haslach im Kinzigtal
 url: /haslach-im-kinzigtal/
-latitude: 48.278
-longitude: 8.087
+latitude: 48.289
+longitude: 8.076
 ---
