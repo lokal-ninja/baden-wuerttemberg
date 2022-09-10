@@ -1,5 +1,5 @@
 ---
-title: "cigo"
+title: "Cigo"
 url: /giengen-an-der-brenz/cigo/
-shop: Kiosk
+shop: Zeitungen
 ---
