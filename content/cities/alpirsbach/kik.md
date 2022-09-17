@@ -1,5 +1,5 @@
 ---
-title: "KIK"
+title: "KiK"
 url: /alpirsbach/kik/
 shop: Kleidung
 ---
