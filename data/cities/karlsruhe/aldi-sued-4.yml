@@ -7,5 +7,5 @@ city: Karlsruhe
 street: "Borsigstraße"
 housenumber: 11
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
 website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=%20Borsigstra%C3%9Fe%2011%2076185%20Karlsruhe-M%C3%BChlburg&Mode=None"
