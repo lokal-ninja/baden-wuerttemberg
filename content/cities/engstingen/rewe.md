@@ -1,5 +1,5 @@
 ---
-title: "Rewe"
+title: "REWE"
 url: /engstingen/rewe/
 shop: Supermarkt
 ---

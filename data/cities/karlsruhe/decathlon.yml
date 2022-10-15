@@ -1,11 +1,11 @@
-id: 4186977966
-type: node
-latitude: 49.00942
-longitude: 8.39417
-postcode: "76133"
+id: 831973701
+type: way
+latitude: 49.00453
+longitude: 8.45119
+postcode: "76137"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 217
-phone: "+49 721 91545510"
-opening_hours: "Mo-Sa 10:00-20:00; Su, PH off"
-website: "https://www.decathlon.de/store-view/filiale-karlsruhe-0070156201562"
+street: "Durlacher Allee"
+housenumber: 111
+phone: "+49 721 62885610"
+opening_hours: "Mo-Sa 09:00-20:00 ;Su,PH off"
+website: "https://www.decathlon.de/store-view/filiale-karlsruhe-0070205602056"

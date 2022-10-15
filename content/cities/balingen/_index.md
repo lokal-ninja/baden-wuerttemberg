@@ -1,6 +1,6 @@
 ---
 title: Balingen
 url: /balingen/
-latitude: 48.239
-longitude: 8.86
+latitude: 48.256
+longitude: 8.84
 ---
