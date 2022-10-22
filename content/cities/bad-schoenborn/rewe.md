@@ -1,5 +1,5 @@
 ---
-title: "Rewe"
+title: "REWE"
 url: /bad-schoenborn/rewe/
 shop: Supermarkt
 ---

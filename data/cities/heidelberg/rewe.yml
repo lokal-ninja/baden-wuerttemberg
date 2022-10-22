@@ -1,11 +1,11 @@
-id: 101778353
-type: way
-latitude: 49.42531
-longitude: 8.64201
-postcode: "69123"
+id: 6052328989
+type: node
+latitude: 49.41388
+longitude: 8.7687
+postcode: "69118"
 city: Heidelberg
-street: "Grenzhöfer Weg"
-housenumber: 17
+street: "Am Grünen Hag"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
+website: ""

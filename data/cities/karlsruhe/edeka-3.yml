@@ -1,11 +1,11 @@
-id: 5555231589
-type: node
-latitude: 49.03665
-longitude: 8.35229
-postcode: "76187"
+id: 100149809
+type: way
+latitude: 48.94716
+longitude: 8.47789
+postcode: "76228"
 city: Karlsruhe
-street: "Grünhutstraße"
-housenumber: 1
+street: "Talstraße"
+housenumber: 67
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
 website: ""

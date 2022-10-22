@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Weeber"
 url: /weil-der-stadt/autohaus-weeber/
-shop: Autowerkstatt
+shop: Autohaus
 ---

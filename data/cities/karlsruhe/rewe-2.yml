@@ -1,11 +1,11 @@
-id: 90627364
-type: way
-latitude: 49.008
-longitude: 8.38594
-postcode: "76133"
+id: 60133921
+type: node
+latitude: 49.05387
+longitude: 8.39233
+postcode: "76149"
 city: Karlsruhe
-street: "Hans-Sachs-Straße"
-housenumber: 8
+street: "Hermann-Höpker-Aschoff-Straße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+website: ""
