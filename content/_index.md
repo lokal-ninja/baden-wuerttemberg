@@ -1,0 +1,2 @@
+Baden-Württemberg ist eine parlamentarische Republik und ein teilsouveräner Gliedstaat (Land) im Südwesten der Bundesrepublik Deutschland. Er wurde 1952 durch Zusammenschluss der Länder Württemberg-Baden, Baden und Württemberg-Hohenzollern gegründet. Sowohl nach Einwohnerzahl als auch bezüglich der Fläche steht Baden-Württemberg an dritter Stelle der deutschen Länder. Bevölkerungsreichste Stadt Baden-Württembergs ist die Landeshauptstadt Stuttgart, gefolgt von Karlsruhe und Mannheim. (Wikipedia)
+
