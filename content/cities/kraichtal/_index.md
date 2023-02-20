@@ -1,6 +1,6 @@
 ---
 title: Kraichtal
 url: /kraichtal/
-latitude: 49.145
-longitude: 8.664
+latitude: 49.146
+longitude: 8.742
 ---

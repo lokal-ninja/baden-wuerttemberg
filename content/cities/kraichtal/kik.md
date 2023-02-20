@@ -1,5 +1,5 @@
 ---
-title: "KIK"
+title: "KiK"
 url: /kraichtal/kik/
 shop: Kleidung
 ---
