@@ -1,6 +1,6 @@
 ---
 title: Oberrot
 url: /oberrot/
-latitude: 49.007
-longitude: 9.696
+latitude: 49.012
+longitude: 9.675
 ---

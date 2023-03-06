@@ -1,6 +1,6 @@
 ---
 title: Amstetten
 url: /amstetten/
-latitude: 48.585
-longitude: 9.867
+latitude: 48.574
+longitude: 9.877
 ---

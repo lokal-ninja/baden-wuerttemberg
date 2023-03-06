@@ -1,6 +1,6 @@
 ---
 title: Nusplingen
 url: /nusplingen/
-latitude: 48.126
-longitude: 8.894
+latitude: 48.134
+longitude: 8.892
 ---

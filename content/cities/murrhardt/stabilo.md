@@ -1,5 +1,5 @@
 ---
 title: "Stabilo"
 url: /murrhardt/stabilo/
-shop: Allgemein
+shop: Baustoffe
 ---
