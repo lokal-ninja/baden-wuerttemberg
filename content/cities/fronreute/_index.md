@@ -1,6 +1,6 @@
 ---
 title: Fronreute
 url: /fronreute/
-latitude: 47.861
-longitude: 9.591
+latitude: 47.862
+longitude: 9.5
 ---

@@ -1,6 +1,6 @@
 ---
 title: Reichenau
 url: /reichenau/
-latitude: 47.691
-longitude: 9.08
+latitude: 47.69
+longitude: 9.054
 ---

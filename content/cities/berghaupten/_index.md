@@ -1,6 +1,6 @@
 ---
 title: Berghaupten
 url: /berghaupten/
-latitude: 48.406
-longitude: 7.997
+latitude: 48.405
+longitude: 8
 ---
