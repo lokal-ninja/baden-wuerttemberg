@@ -1,6 +1,6 @@
 ---
 title: Bad Schönborn
 url: /bad-schoenborn/
-latitude: 49.22
-longitude: 8.661
+latitude: 49.221
+longitude: 8.656
 ---

@@ -1,6 +1,6 @@
 ---
 title: Frickingen
 url: /frickingen/
-latitude: 47.813
-longitude: 9.272
+latitude: 47.811
+longitude: 9.271
 ---
