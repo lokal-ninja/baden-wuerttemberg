@@ -1,6 +1,6 @@
 ---
 title: Dogern
 url: /dogern/
-latitude: 47.604
-longitude: 8.159
+latitude: 47.605
+longitude: 8.175
 ---

@@ -1,6 +1,6 @@
 ---
 title: Grabenstetten
 url: /grabenstetten/
-latitude: 48.525
-longitude: 9.455
+latitude: 48.524
+longitude: 9.461
 ---
