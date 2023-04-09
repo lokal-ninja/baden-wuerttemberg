@@ -7,5 +7,5 @@ city: Karlsruhe
 street: "Pfinztalstraße"
 housenumber: 62
 phone: "+49 721 1836925"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su,PH off"
 website: "https://www.cap-markt.de/nc/cap-maerkte/cap-marktdetails.html?tx_hgcapmarkt_pi1[user]=161&tx_hgcapmarkt_pi1[action]=show&tx_hgcapmarkt_pi1[controller]=User"
