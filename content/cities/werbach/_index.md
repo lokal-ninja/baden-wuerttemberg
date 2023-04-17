@@ -1,6 +1,6 @@
 ---
 title: Werbach
 url: /werbach/
-latitude: 49.7
-longitude: 9.702
+latitude: 49.699
+longitude: 9.706
 ---

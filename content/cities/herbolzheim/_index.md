@@ -1,6 +1,6 @@
 ---
 title: Herbolzheim
 url: /herbolzheim/
-latitude: 48.22
-longitude: 7.778
+latitude: 48.225
+longitude: 7.765
 ---
