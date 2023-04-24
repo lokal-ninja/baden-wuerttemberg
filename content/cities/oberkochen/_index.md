@@ -1,6 +1,6 @@
 ---
 title: Oberkochen
 url: /oberkochen/
-latitude: 48.786
-longitude: 10.107
+latitude: 48.784
+longitude: 10.101
 ---
