@@ -1,5 +1,5 @@
 ---
-title: "Euromaster"
+title: "EUROMASTER"
 url: /stuttgart/euromaster/
-shop: Reifen
+shop: Autowerkstatt
 ---
