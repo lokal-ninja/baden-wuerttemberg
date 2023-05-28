@@ -1,6 +1,6 @@
 ---
 title: Limbach
 url: /limbach/
-latitude: 49.463
-longitude: 9.213
+latitude: 49.455
+longitude: 9.182
 ---

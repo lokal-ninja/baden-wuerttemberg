@@ -1,11 +1,11 @@
-id: 436971267
-type: way
-latitude: 48.78328
-longitude: 9.18148
-postcode: "70173"
+id: 3978337998
+type: node
+latitude: 48.7796
+longitude: 9.25016
+postcode: "70327"
 city: Stuttgart
-street: "Klett-Passage"
-housenumber: 
-phone: ""
-opening_hours: "Mo-Fr 06:00-22:30; Sa 06:30-22:30; PH,Su off"
+street: "Karl-Benz-Platz"
+housenumber: 15
+phone: "+49 711 3654742"
+opening_hours: "Mo-Fr 04:30-21:00; Sa 08:00-21:00, Su 08:30-20:00"
 website: ""

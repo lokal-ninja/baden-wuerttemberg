@@ -1,5 +1,5 @@
 ---
-title: "intimissimi"
+title: "Intimissimi"
 url: /stuttgart/intimissimi/
 shop: Kleidung
 ---

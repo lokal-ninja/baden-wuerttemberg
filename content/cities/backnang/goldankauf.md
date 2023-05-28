@@ -1,5 +1,5 @@
 ---
 title: "Goldankauf"
 url: /backnang/goldankauf/
-shop: Allgemein
+shop: Schmuck
 ---
