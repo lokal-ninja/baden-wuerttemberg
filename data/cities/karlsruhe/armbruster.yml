@@ -1,11 +1,11 @@
-id: 609213526
+id: 609169729
 type: node
-latitude: 48.99793
-longitude: 8.47301
+latitude: 49.00186
+longitude: 8.46258
 postcode: "76227"
 city: Karlsruhe
-street: "Marstallstraße"
-housenumber: 18
+street: "Hauptbahnstraße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-11:00"
-website: ""
+opening_hours: "Mo-Fr 05:00-18:30; Sa 06:30-17:30; PH,Su 07:30-17:00"
+website: "http://www.armbruster-backshop.de"
