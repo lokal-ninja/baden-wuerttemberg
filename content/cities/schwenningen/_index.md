@@ -1,6 +1,6 @@
 ---
 title: Schwenningen
 url: /schwenningen/
-latitude: 48.106
-longitude: 9.006
+latitude: 48.105
+longitude: 8.997
 ---

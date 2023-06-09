@@ -7,5 +7,5 @@ city: Gernsbach
 street: "Austraße"
 housenumber: 23a
 phone: "+49 7224 990897"
-opening_hours: "Mo-Fr 08:30-12:00; Mo+Tu+Th 13:30-16:30"
+opening_hours: "Mo-Fr 08:30-12:00; Mo,Tu,Th 13:30-16:30"
 website: "https://bender-elektrotechnik.de"
