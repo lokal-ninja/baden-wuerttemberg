@@ -1,5 +1,5 @@
 ---
-title: "Haarmonie"
+title: "HAARMONIE"
 url: /weinheim/haarmonie/
 shop: Friseur
 ---

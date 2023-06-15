@@ -1,6 +1,6 @@
 ---
 title: Erolzheim
 url: /erolzheim/
-latitude: 48.09
-longitude: 10.072
+latitude: 48.088
+longitude: 10.076
 ---

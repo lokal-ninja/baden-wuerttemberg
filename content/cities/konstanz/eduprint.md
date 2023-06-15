@@ -1,5 +1,5 @@
 ---
 title: "EduPrint"
 url: /konstanz/eduprint/
-shop: Allgemein
+shop: Kopieren
 ---

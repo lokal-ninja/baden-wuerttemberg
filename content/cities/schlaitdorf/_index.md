@@ -1,6 +1,6 @@
 ---
 title: Schlaitdorf
 url: /schlaitdorf/
-latitude: 48.603
-longitude: 9.219
+latitude: 48.608
+longitude: 9.225
 ---

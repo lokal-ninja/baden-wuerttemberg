@@ -7,5 +7,5 @@ city: Heidelberg
 street: "Turnerstraße"
 housenumber: 35
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:30,15:00-18:00; Sa 09:00-13:00"
+opening_hours: "Mo,Th,Fr 09:00-13:30,15:00-18:00; Sa 09:00-13:00"
 website: ""
