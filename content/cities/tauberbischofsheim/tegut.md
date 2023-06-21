@@ -1,5 +1,5 @@
 ---
-title: "Tegut"
+title: "tegut"
 url: /tauberbischofsheim/tegut/
 shop: Supermarkt
 ---

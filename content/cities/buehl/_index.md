@@ -1,6 +1,6 @@
 ---
 title: Bühl
 url: /buehl/
-latitude: 48.688
-longitude: 8.117
+latitude: 48.697
+longitude: 8.13
 ---
