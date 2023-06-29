@@ -1,5 +1,5 @@
 ---
-title: "HUSSEL Confiserie"
+title: "Hussel Confiserie"
 url: /ravensburg/hussel-confiserie/
-shop: Kiosk
+shop: Süßwaren
 ---

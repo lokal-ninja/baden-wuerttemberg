@@ -1,6 +1,6 @@
 ---
 title: Lauterstein
 url: /lauterstein/
-latitude: 48.709
-longitude: 9.859
+latitude: 48.711
+longitude: 9.885
 ---
