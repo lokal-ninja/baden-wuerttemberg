@@ -1,6 +1,6 @@
 ---
 title: Besigheim
 url: /besigheim/
-latitude: 49.002
-longitude: 9.14
+latitude: 49
+longitude: 9.141
 ---
