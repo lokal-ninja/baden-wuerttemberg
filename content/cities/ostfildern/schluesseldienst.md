@@ -1,5 +1,5 @@
 ---
 title: "Schlüsseldienst"
 url: /ostfildern/schluesseldienst/
-shop: Baumarkt
+shop: Schlüsseldienst
 ---
