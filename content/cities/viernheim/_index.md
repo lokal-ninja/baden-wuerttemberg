@@ -1,6 +1,6 @@
 ---
 title: Viernheim
 url: /viernheim/
-latitude: 49.528
-longitude: 8.573
+latitude: 49.526
+longitude: 8.565
 ---
