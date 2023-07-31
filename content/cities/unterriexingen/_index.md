@@ -1,6 +1,6 @@
 ---
 title: Unterriexingen
 url: /unterriexingen/
-latitude: 48.939
-longitude: 9.055
+latitude: 48.936
+longitude: 9.053
 ---

@@ -1,11 +1,11 @@
-id: 155436073
-type: way
-latitude: 47.98915
-longitude: 7.83948
-postcode: "79100"
+id: 2571690021
+type: node
+latitude: 48.01067
+longitude: 7.85426
+postcode: "79104"
 city: Freiburg im Breisgau
-street: "Kronenmattenstraße"
-housenumber: 6
-phone: ""
-opening_hours: "Tu-Th 14:00-19:00; Fr 13:00-19:00; Sa 10:00-16:00"
-website: ""
+street: "Habsburgerstraße"
+housenumber: 4
+phone: "+49 761 5565785"
+opening_hours: "Mo-Fr 14:00-19:00; Sa 10:00-16:00"
+website: "https://www.jacques.de/depot/172/freiburg-herdern/#"

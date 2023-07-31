@@ -1,5 +1,5 @@
 ---
-title: "Rad-Service Zipfel"
+title: "Rad-Service-Zipfel"
 url: /biberach-an-der-riss/rad-service-zipfel/
 shop: Fahrrad
 ---
