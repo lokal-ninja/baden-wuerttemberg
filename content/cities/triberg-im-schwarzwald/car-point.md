@@ -1,5 +1,5 @@
 ---
-title: "CAR-POINT"
+title: "Car-Point"
 url: /triberg-im-schwarzwald/car-point/
-shop: Reifen
+shop: Autowerkstatt
 ---

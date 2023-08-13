@@ -1,5 +1,5 @@
 ---
-title: "Kölle-Zoo"
+title: "Kölle Zoo"
 url: /stuttgart/koelle-zoo/
 shop: Tiere
 ---
