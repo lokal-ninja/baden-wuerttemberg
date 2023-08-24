@@ -7,5 +7,5 @@ city: Gaggenau
 street: "Hauptstraße"
 housenumber: 36
 phone: "+49 7225 3411"
-opening_hours: "Mo, Tu, Th, Fr 09:00 - 18:00; We 08.30 - 18:00; Sa 08:30 - 13:00"
+opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We 08:30-18:00; Sa 08:30-13:00"
 website: ""
