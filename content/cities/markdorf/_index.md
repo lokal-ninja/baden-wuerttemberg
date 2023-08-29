@@ -1,6 +1,6 @@
 ---
 title: Markdorf
 url: /markdorf/
-latitude: 47.707
-longitude: 9.405
+latitude: 47.722
+longitude: 9.386
 ---
