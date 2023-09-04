@@ -7,5 +7,5 @@ city: Karlsruhe
 street: "Ahaweg"
 housenumber: 6-8
 phone: ""
-opening_hours: "Th-Su 11:30-17:00"
+opening_hours: "Th,Fr 11:30-17:00"
 website: ""
