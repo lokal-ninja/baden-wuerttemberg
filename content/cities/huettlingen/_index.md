@@ -1,6 +1,6 @@
 ---
 title: Hüttlingen
 url: /huettlingen/
-latitude: 48.892
-longitude: 10.099
+latitude: 48.896
+longitude: 10.041
 ---

@@ -7,5 +7,5 @@ city: Tübingen
 street: "Eisenbahnstraße"
 housenumber: 47
 phone: "+49 7071 977587"
-opening_hours: "Mo-Tu 09:00-18:00; We 09:00-13:00; Th-Fr 09:00-18:00; Sa 10:00-14:00; Su,PH off"
+opening_hours: "Mo,Tu,Fr 09:00-13:00,14:00-17:00; We 09:00-13:00; Th 09:00-13:00,14:00-18:00; Sa 09:30-12:30"
 website: "https://www.elektroservice-tuebingen.de/"

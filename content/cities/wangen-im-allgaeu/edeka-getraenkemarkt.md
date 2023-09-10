@@ -1,5 +1,5 @@
 ---
-title: "Edeka Getränkemarkt"
+title: "EDEKA Getränkemarkt"
 url: /wangen-im-allgaeu/edeka-getraenkemarkt/
-shop: Supermarkt
+shop: Getränke
 ---
