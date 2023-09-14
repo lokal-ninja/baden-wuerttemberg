@@ -1,5 +1,5 @@
 ---
 title: "Lotter"
-url: /ludwigsburg/lotter/
+url: /ludwigsburg/lotter-waldaecker/
 shop: Baumarkt
 ---

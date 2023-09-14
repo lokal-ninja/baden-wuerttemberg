@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /bretten/kaufland/
+url: /bretten/kaufland-diedelsheimer-hoehe/
 shop: Getränke
 ---

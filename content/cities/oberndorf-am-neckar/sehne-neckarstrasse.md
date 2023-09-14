@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /oberndorf-am-neckar/sehne/
+url: /oberndorf-am-neckar/sehne-neckarstrasse/
 shop: Bäckerei
 ---

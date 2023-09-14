@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /fellbach/rewe/
+url: /fellbach/rewe-daimlerstrasse/
 shop: Supermarkt
 ---

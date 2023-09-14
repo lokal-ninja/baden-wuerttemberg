@@ -1,5 +1,5 @@
 ---
 title: "Siegel Backkultur"
-url: /stuttgart/siegel-backkultur/
+url: /stuttgart/siegel-backkultur-silberburgstrasse/
 shop: Bäckerei
 ---

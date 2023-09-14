@@ -1,5 +1,5 @@
 ---
 title: "Bott"
-url: /bad-wildbad/bott/
+url: /bad-wildbad/bott-wilhelmstrasse/
 shop: Optiker
 ---

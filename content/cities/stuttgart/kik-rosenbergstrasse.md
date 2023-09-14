@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /stuttgart/kik/
+url: /stuttgart/kik-rosenbergstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Padeffke"
-url: /tuebingen/padeffke/
+url: /tuebingen/padeffke-neckargasse/
 shop: Bäckerei
 ---

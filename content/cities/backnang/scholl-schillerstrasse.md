@@ -1,5 +1,5 @@
 ---
 title: "Scholl"
-url: /backnang/scholl/
+url: /backnang/scholl-schillerstrasse/
 shop: Bäckerei
 ---

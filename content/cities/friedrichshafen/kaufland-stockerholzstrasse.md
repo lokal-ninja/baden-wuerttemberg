@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /friedrichshafen/kaufland/
+url: /friedrichshafen/kaufland-stockerholzstrasse/
 shop: Supermarkt
 ---

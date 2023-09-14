@@ -1,5 +1,5 @@
 ---
 title: "Zachert"
-url: /leonberg/zachert/
+url: /leonberg/zachert-roemerstrasse/
 shop: Bäckerei
 ---

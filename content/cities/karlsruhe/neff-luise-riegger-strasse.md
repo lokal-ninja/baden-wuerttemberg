@@ -1,5 +1,5 @@
 ---
 title: "Neff"
-url: /karlsruhe/neff/
+url: /karlsruhe/neff-luise-riegger-strasse/
 shop: Bäckerei
 ---

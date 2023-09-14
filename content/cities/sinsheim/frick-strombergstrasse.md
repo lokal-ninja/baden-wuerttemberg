@@ -1,5 +1,5 @@
 ---
 title: "Frick"
-url: /sinsheim/frick/
+url: /sinsheim/frick-strombergstrasse/
 shop: Bäckerei
 ---

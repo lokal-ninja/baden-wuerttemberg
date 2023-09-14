@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /fellbach/kaufland/
+url: /fellbach/kaufland-merowingerstrasse/
 shop: Supermarkt
 ---

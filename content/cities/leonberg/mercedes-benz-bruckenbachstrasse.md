@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz"
-url: /leonberg/mercedes-benz/
+url: /leonberg/mercedes-benz-bruckenbachstrasse/
 shop: Autohaus
 ---

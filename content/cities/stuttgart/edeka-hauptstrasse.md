@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /stuttgart/edeka/
+url: /stuttgart/edeka-hauptstrasse/
 shop: Blumen
 ---

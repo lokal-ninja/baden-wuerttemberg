@@ -1,5 +1,5 @@
 ---
 title: "Finkbeiner"
-url: /ulm/finkbeiner/
+url: /ulm/finkbeiner-beim-bscheid/
 shop: Getränke
 ---

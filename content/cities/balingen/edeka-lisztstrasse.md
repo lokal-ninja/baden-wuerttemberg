@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /balingen/edeka/
+url: /balingen/edeka-lisztstrasse/
 shop: Supermarkt
 ---

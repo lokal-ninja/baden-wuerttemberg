@@ -1,5 +1,5 @@
 ---
 title: "Padeffke"
-url: /balingen/padeffke/
+url: /balingen/padeffke-friedrichstrasse/
 shop: Bäckerei
 ---

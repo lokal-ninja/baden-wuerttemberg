@@ -1,5 +1,5 @@
 ---
 title: "Diefenbach"
-url: /ditzingen/diefenbach/
+url: /ditzingen/diefenbach-rathausplatz/
 shop: Bäckerei
 ---

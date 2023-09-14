@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /bruchsal/lidl/
+url: /bruchsal/lidl-eisenbahnstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /ammerbuch/sehne/
+url: /ammerbuch/sehne-hagenring/
 shop: Bäckerei
 ---

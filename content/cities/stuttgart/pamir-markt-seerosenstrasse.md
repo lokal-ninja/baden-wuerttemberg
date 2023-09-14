@@ -1,5 +1,5 @@
 ---
 title: "Pamir Markt"
-url: /stuttgart/pamir-markt/
+url: /stuttgart/pamir-markt-seerosenstrasse/
 shop: Supermarkt
 ---

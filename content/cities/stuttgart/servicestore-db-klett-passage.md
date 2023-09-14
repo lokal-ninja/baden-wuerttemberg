@@ -1,5 +1,5 @@
 ---
 title: "ServiceStore DB"
-url: /stuttgart/servicestore-db/
+url: /stuttgart/servicestore-db-klett-passage/
 shop: Lebensmittel
 ---

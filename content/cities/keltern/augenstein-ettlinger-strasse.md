@@ -1,5 +1,5 @@
 ---
 title: "Augenstein"
-url: /keltern/augenstein/
+url: /keltern/augenstein-ettlinger-strasse/
 shop: Bäckerei
 ---

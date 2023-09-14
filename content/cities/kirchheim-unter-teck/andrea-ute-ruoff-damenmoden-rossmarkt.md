@@ -1,5 +1,5 @@
 ---
 title: "Andrea Ute Ruoff Damenmoden"
-url: /kirchheim-unter-teck/andrea-ute-ruoff-damenmoden/
+url: /kirchheim-unter-teck/andrea-ute-ruoff-damenmoden-rossmarkt/
 shop: Kleidung
 ---

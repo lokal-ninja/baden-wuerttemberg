@@ -1,5 +1,5 @@
 ---
 title: "Aral"
-url: /karlsruhe/aral/
+url: /karlsruhe/aral-linkenheimer-landstrasse/
 shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Katz"
-url: /pforzheim/katz/
+url: /pforzheim/katz-westliche-karl-friedrich-strasse/
 shop: Bäckerei
 ---

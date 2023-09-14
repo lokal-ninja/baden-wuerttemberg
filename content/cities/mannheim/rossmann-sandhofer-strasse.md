@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /mannheim/rossmann/
+url: /mannheim/rossmann-sandhofer-strasse/
 shop: Drogerie
 ---

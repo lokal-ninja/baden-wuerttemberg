@@ -1,5 +1,5 @@
 ---
 title: "Wunderlich"
-url: /heimsheim/wunderlich/
+url: /heimsheim/wunderlich-pforzheimer-strasse/
 shop: Spielzeug
 ---

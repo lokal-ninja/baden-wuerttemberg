@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /heilbronn/kaufland/
+url: /heilbronn/kaufland-neckargartacher-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Härdtner"
-url: /neckarsulm/haerdtner/
+url: /neckarsulm/haerdtner-gottlob-banzhaf-strasse/
 shop: Bäckerei
 ---

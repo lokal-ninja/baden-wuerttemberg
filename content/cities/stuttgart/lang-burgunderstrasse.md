@@ -1,5 +1,5 @@
 ---
 title: "Lang"
-url: /stuttgart/lang/
+url: /stuttgart/lang-burgunderstrasse/
 shop: Bäckerei
 ---

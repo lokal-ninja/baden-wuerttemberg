@@ -1,5 +1,5 @@
 ---
 title: "Luckscheiter"
-url: /ludwigsburg/luckscheiter/
+url: /ludwigsburg/luckscheiter-rosenackerweg/
 shop: Bäckerei
 ---

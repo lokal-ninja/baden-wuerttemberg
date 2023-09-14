@@ -1,5 +1,5 @@
 ---
 title: "Levante"
-url: /grenzach-wyhlen/levante/
+url: /grenzach-wyhlen/levante-hauptstrasse/
 shop: Spielzeug
 ---

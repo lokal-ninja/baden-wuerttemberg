@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Raisch"
-url: /calw/baeckerei-raisch/
+url: /calw/baeckerei-raisch-raiffeisenstrasse/
 shop: Bäckerei
 ---

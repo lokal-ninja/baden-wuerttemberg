@@ -1,5 +1,5 @@
 ---
 title: "RAN"
-url: /schorndorf/ran/
+url: /schorndorf/ran-gmuender-strasse/
 shop: Allgemein
 ---

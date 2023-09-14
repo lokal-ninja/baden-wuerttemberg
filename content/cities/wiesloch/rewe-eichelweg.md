@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /wiesloch/rewe/
+url: /wiesloch/rewe-eichelweg/
 shop: Supermarkt
 ---

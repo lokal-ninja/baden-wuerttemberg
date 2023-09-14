@@ -1,5 +1,5 @@
 ---
 title: "Backzeit"
-url: /stuttgart/backzeit/
+url: /stuttgart/backzeit-marienplatz/
 shop: Bäckerei
 ---

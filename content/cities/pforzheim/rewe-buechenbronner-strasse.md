@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /pforzheim/rewe/
+url: /pforzheim/rewe-buechenbronner-strasse/
 shop: Supermarkt
 ---

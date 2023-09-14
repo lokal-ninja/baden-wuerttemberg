@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Kopp"
-url: /konstanz/baeckerei-kopp/
+url: /konstanz/baeckerei-kopp-kapitaen-romer-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /heidelberg/kaufland/
+url: /heidelberg/kaufland-eppelheimer-strasse/
 shop: Supermarkt
 ---

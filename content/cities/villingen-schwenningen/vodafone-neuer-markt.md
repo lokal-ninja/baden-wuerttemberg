@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /villingen-schwenningen/vodafone/
+url: /villingen-schwenningen/vodafone-neuer-markt/
 shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /albstadt/rossmann/
+url: /albstadt/rossmann-obere-bachstrasse/
 shop: Drogerie
 ---

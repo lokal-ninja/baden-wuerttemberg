@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /ulm/mueller/
+url: /ulm/mueller-hirschstrasse/
 shop: Drogerie
 ---

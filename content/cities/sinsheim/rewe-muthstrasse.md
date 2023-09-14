@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /sinsheim/rewe/
+url: /sinsheim/rewe-muthstrasse/
 shop: Supermarkt
 ---

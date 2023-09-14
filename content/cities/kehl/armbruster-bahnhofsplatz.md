@@ -1,5 +1,5 @@
 ---
 title: "Armbruster"
-url: /kehl/armbruster/
+url: /kehl/armbruster-bahnhofsplatz/
 shop: Bäckerei
 ---

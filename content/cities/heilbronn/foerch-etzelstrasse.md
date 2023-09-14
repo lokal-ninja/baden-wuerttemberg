@@ -1,5 +1,5 @@
 ---
 title: "Förch"
-url: /heilbronn/foerch/
+url: /heilbronn/foerch-etzelstrasse/
 shop: Bäckerei
 ---

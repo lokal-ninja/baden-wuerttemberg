@@ -1,5 +1,5 @@
 ---
 title: "Maurer"
-url: /schorndorf/maurer/
+url: /schorndorf/maurer-marktplatz/
 shop: Bäckerei
 ---

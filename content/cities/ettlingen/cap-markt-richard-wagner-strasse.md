@@ -1,5 +1,5 @@
 ---
 title: "CAP-Markt"
-url: /ettlingen/cap-markt/
+url: /ettlingen/cap-markt-richard-wagner-strasse/
 shop: Supermarkt
 ---

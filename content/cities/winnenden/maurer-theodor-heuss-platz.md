@@ -1,5 +1,5 @@
 ---
 title: "Maurer"
-url: /winnenden/maurer/
+url: /winnenden/maurer-theodor-heuss-platz/
 shop: Bäckerei
 ---

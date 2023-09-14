@@ -1,5 +1,5 @@
 ---
 title: "Keim & Brecht"
-url: /biberach-an-der-riss/keim-und-brecht/
+url: /biberach-an-der-riss/keim-und-brecht-nickeleshalde/
 shop: Bäckerei
 ---

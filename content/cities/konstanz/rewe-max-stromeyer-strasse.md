@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /konstanz/rewe/
+url: /konstanz/rewe-max-stromeyer-strasse/
 shop: Supermarkt
 ---

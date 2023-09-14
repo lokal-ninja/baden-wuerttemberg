@@ -1,5 +1,5 @@
 ---
 title: "Betz"
-url: /ulm/betz/
+url: /ulm/betz-westerlinger-strasse/
 shop: Bäckerei
 ---

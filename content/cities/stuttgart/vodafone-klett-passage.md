@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /stuttgart/vodafone/
+url: /stuttgart/vodafone-klett-passage/
 shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Armbruster"
-url: /achern/armbruster/
+url: /achern/armbruster-karl-bold-strasse/
 shop: Bäckerei
 ---

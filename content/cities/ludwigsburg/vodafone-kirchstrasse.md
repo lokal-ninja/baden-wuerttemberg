@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /ludwigsburg/vodafone/
+url: /ludwigsburg/vodafone-kirchstrasse/
 shop: Handy
 ---

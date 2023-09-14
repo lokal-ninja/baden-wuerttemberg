@@ -1,5 +1,5 @@
 ---
 title: "Katz"
-url: /ludwigsburg/katz/
+url: /ludwigsburg/katz-hirschbergstrasse/
 shop: Bäckerei
 ---

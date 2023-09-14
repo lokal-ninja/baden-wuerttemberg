@@ -1,5 +1,5 @@
 ---
 title: "Discher"
-url: /oehringen/discher/
+url: /oehringen/discher-wollreffenweg/
 shop: Bäckerei
 ---

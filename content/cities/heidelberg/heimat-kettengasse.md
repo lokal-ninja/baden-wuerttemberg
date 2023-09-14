@@ -1,5 +1,5 @@
 ---
 title: "Heimat"
-url: /heidelberg/heimat/
+url: /heidelberg/heimat-kettengasse/
 shop: Andenken
 ---

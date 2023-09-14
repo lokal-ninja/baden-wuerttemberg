@@ -1,5 +1,5 @@
 ---
 title: "Maurer"
-url: /waiblingen/maurer/
+url: /waiblingen/maurer-danziger-platz/
 shop: Bäckerei
 ---

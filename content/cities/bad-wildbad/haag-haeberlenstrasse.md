@@ -1,5 +1,5 @@
 ---
 title: "Haag"
-url: /bad-wildbad/haag/
+url: /bad-wildbad/haag-haeberlenstrasse/
 shop: Autohaus
 ---

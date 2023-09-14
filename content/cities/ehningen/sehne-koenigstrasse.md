@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /ehningen/sehne/
+url: /ehningen/sehne-koenigstrasse/
 shop: Bäckerei
 ---

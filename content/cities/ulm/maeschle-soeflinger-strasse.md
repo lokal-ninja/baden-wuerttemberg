@@ -1,5 +1,5 @@
 ---
 title: "Mäschle"
-url: /ulm/maeschle/
+url: /ulm/maeschle-soeflinger-strasse/
 shop: Bäckerei
 ---

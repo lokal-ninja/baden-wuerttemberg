@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Glocker"
-url: /muensingen/baeckerei-glocker/
+url: /muensingen/baeckerei-glocker-lichtensteinstrasse/
 shop: Bäckerei
 ---

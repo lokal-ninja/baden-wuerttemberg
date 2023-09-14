@@ -1,5 +1,5 @@
 ---
 title: "Geuder"
-url: /sigmaringen/geuder/
+url: /sigmaringen/geuder-fuerst-wilhelm-strasse/
 shop: Friseur
 ---

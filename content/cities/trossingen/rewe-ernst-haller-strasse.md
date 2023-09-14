@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /trossingen/rewe/
+url: /trossingen/rewe-ernst-haller-strasse/
 shop: Supermarkt
 ---

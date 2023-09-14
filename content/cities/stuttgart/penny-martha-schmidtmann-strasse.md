@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /stuttgart/penny/
+url: /stuttgart/penny-martha-schmidtmann-strasse/
 shop: Supermarkt
 ---

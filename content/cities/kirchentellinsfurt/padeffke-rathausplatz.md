@@ -1,5 +1,5 @@
 ---
 title: "Padeffke"
-url: /kirchentellinsfurt/padeffke/
+url: /kirchentellinsfurt/padeffke-rathausplatz/
 shop: Bäckerei
 ---

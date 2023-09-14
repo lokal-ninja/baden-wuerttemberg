@@ -1,5 +1,5 @@
 ---
 title: "Fröhner"
-url: /neckargemuend/froehner/
+url: /neckargemuend/froehner-wiesenbacher-strasse/
 shop: Hörgeräte
 ---

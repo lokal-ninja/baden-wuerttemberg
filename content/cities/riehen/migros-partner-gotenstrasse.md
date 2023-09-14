@@ -1,5 +1,5 @@
 ---
 title: "Migros Partner"
-url: /riehen/migros-partner/
+url: /riehen/migros-partner-gotenstrasse/
 shop: Supermarkt
 ---

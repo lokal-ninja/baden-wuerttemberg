@@ -1,5 +1,5 @@
 ---
 title: "Sauter"
-url: /stuttgart/sauter/
+url: /stuttgart/sauter-holderaeckerstrasse/
 shop: Bäckerei
 ---

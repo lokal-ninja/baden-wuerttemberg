@@ -1,5 +1,5 @@
 ---
 title: "Menton Automobilcenter"
-url: /tuebingen/menton-automobilcenter/
+url: /tuebingen/menton-automobilcenter-eisenbahnstrasse/
 shop: Autoteile
 ---

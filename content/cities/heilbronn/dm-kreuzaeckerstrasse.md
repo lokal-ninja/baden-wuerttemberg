@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /heilbronn/dm/
+url: /heilbronn/dm-kreuzaeckerstrasse/
 shop: Drogerie
 ---

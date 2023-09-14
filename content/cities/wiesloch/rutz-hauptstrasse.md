@@ -1,5 +1,5 @@
 ---
 title: "Rutz"
-url: /wiesloch/rutz/
+url: /wiesloch/rutz-hauptstrasse/
 shop: Bäckerei
 ---

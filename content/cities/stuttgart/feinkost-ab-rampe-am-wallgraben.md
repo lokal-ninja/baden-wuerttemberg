@@ -1,5 +1,5 @@
 ---
 title: "Feinkost ab Rampe"
-url: /stuttgart/feinkost-ab-rampe/
+url: /stuttgart/feinkost-ab-rampe-am-wallgraben/
 shop: Feinkost
 ---

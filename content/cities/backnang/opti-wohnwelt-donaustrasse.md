@@ -1,5 +1,5 @@
 ---
 title: "Opti-Wohnwelt"
-url: /backnang/opti-wohnwelt/
+url: /backnang/opti-wohnwelt-donaustrasse/
 shop: Möbel
 ---

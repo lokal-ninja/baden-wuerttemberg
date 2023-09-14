@@ -1,5 +1,5 @@
 ---
 title: "Heart & Sole"
-url: /stuttgart/heart-und-sole/
+url: /stuttgart/heart-und-sole-jahnstrasse/
 shop: Sport
 ---

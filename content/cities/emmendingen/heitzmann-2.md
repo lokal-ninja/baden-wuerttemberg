@@ -1,5 +1,5 @@
 ---
 title: "Heitzmann"
-url: /emmendingen/heitzmann/
+url: /emmendingen/heitzmann-2/
 shop: Bäckerei
 ---

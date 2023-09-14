@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /leimen/penny/
+url: /leimen/penny-in-der-heidelslach/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /weinstadt/edeka/
+url: /weinstadt/edeka-kalkofenstrasse/
 shop: Supermarkt
 ---

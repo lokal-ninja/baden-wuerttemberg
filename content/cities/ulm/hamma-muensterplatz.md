@@ -1,5 +1,5 @@
 ---
 title: "Hamma"
-url: /ulm/hamma/
+url: /ulm/hamma-muensterplatz/
 shop: Bäckerei
 ---

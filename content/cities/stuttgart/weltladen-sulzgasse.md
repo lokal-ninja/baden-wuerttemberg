@@ -1,5 +1,5 @@
 ---
 title: "Weltladen"
-url: /stuttgart/weltladen/
+url: /stuttgart/weltladen-sulzgasse/
 shop: Lebensmittel
 ---

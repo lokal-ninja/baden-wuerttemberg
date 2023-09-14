@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Trunk"
-url: /heilbronn/backhaus-trunk/
+url: /heilbronn/backhaus-trunk-charlottenstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /boeblingen/penny/
+url: /boeblingen/penny-schoenaicher-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wälder: Genuss"
-url: /feldberg-schwarzwald/waelder-genuss/
+url: /feldberg-schwarzwald/waelder-genuss-feldbergstrasse/
 shop: Bäckerei
 ---

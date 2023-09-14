@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Weller"
-url: /weinstadt/baeckerei-weller/
+url: /weinstadt/baeckerei-weller-schafgasse/
 shop: Bäckerei
 ---

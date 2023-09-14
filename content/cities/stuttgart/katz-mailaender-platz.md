@@ -1,5 +1,5 @@
 ---
 title: "Katz"
-url: /stuttgart/katz/
+url: /stuttgart/katz-mailaender-platz/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /freiburg-im-breisgau/edeka/
+url: /freiburg-im-breisgau/edeka-im-maierbruehl/
 shop: Supermarkt
 ---

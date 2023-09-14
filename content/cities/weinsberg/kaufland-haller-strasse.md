@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /weinsberg/kaufland/
+url: /weinsberg/kaufland-haller-strasse/
 shop: Supermarkt
 ---

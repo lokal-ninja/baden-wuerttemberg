@@ -1,5 +1,5 @@
 ---
 title: "Angleitner"
-url: /hechingen/angleitner/
+url: /hechingen/angleitner-zinkenstrasse/
 shop: Kamine & Öfen
 ---

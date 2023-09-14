@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /sindelfingen/kaufland/
+url: /sindelfingen/kaufland-calwer-strasse/
 shop: Supermarkt
 ---

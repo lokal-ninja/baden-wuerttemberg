@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Maurer"
-url: /winnenden/baeckerei-maurer/
+url: /winnenden/baeckerei-maurer-linsenhalde/
 shop: Bäckerei
 ---

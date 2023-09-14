@@ -1,5 +1,5 @@
 ---
 title: "Gehr"
-url: /ammerbuch/gehr/
+url: /ammerbuch/gehr-herrenberger-strasse/
 shop: Bäckerei
 ---

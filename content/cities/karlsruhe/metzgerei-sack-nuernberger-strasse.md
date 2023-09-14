@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Sack"
-url: /karlsruhe/metzgerei-sack/
+url: /karlsruhe/metzgerei-sack-nuernberger-strasse/
 shop: Metzgerei
 ---

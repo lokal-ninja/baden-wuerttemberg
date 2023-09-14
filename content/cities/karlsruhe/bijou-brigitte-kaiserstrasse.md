@@ -1,5 +1,5 @@
 ---
 title: "Bijou Brigitte"
-url: /karlsruhe/bijou-brigitte/
+url: /karlsruhe/bijou-brigitte-kaiserstrasse/
 shop: Schmuck
 ---

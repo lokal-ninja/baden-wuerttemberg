@@ -1,5 +1,5 @@
 ---
 title: "Sarah"
-url: /stuttgart/sarah/
+url: /stuttgart/sarah-schulstrasse/
 shop: Kleidung
 ---

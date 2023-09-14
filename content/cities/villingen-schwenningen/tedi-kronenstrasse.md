@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /villingen-schwenningen/tedi/
+url: /villingen-schwenningen/tedi-kronenstrasse/
 shop: Kramladen
 ---

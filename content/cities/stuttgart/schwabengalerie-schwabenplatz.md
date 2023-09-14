@@ -1,5 +1,5 @@
 ---
 title: "SchwabenGalerie"
-url: /stuttgart/schwabengalerie/
+url: /stuttgart/schwabengalerie-schwabenplatz/
 shop: Einkaufszentrum
 ---

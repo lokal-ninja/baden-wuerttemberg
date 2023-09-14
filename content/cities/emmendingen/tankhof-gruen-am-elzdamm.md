@@ -1,5 +1,5 @@
 ---
 title: "Tankhof Grün"
-url: /emmendingen/tankhof-gruen/
+url: /emmendingen/tankhof-gruen-am-elzdamm/
 shop: Lebensmittel
 ---

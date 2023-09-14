@@ -1,5 +1,5 @@
 ---
 title: "Maurer"
-url: /fellbach/maurer/
+url: /fellbach/maurer-cannstatter-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Armbruster"
-url: /oberkirch/armbruster/
+url: /oberkirch/armbruster-korberger-matt/
 shop: Bäckerei
 ---

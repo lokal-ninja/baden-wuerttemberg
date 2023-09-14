@@ -1,5 +1,5 @@
 ---
 title: "Holzofenbäckerei Weber"
-url: /burladingen/holzofenbaeckerei-weber/
+url: /burladingen/holzofenbaeckerei-weber-haeuslerwasen/
 shop: Bäckerei
 ---

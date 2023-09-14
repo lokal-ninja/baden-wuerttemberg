@@ -1,5 +1,5 @@
 ---
 title: "EuroShop"
-url: /ludwigsburg/euroshop/
+url: /ludwigsburg/euroshop-bahnhofstrasse/
 shop: Kramladen
 ---

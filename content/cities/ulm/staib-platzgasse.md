@@ -1,5 +1,5 @@
 ---
 title: "Staib"
-url: /ulm/staib/
+url: /ulm/staib-platzgasse/
 shop: Bäckerei
 ---

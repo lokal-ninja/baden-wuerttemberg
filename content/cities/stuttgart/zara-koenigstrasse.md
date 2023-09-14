@@ -1,5 +1,5 @@
 ---
 title: "Zara"
-url: /stuttgart/zara/
+url: /stuttgart/zara-koenigstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hallhuber"
-url: /stuttgart/hallhuber/
+url: /stuttgart/hallhuber-eduard-breuninger-strasse/
 shop: Kleidung
 ---

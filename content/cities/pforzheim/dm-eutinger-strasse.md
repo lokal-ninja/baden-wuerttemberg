@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /pforzheim/dm/
+url: /pforzheim/dm-eutinger-strasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /rottenburg-am-neckar/kik/
+url: /rottenburg-am-neckar/kik-graf-wolfegg-strasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maurer"
-url: /winnenden/maurer/
+url: /winnenden/maurer-wiesentalstrasse/
 shop: Bäckerei
 ---

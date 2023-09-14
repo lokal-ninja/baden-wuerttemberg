@@ -1,5 +1,5 @@
 ---
 title: "Gehr"
-url: /tuebingen/gehr/
+url: /tuebingen/gehr-sindelfinger-strasse/
 shop: Bäckerei
 ---

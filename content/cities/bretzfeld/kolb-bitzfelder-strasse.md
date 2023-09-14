@@ -1,5 +1,5 @@
 ---
 title: "Kolb"
-url: /bretzfeld/kolb/
+url: /bretzfeld/kolb-bitzfelder-strasse/
 shop: Bäckerei
 ---

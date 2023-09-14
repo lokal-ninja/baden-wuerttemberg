@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Breiler"
-url: /bodman-ludwigshafen/baeckerei-breiler/
+url: /bodman-ludwigshafen/baeckerei-breiler-kaiserpfalzstrasse/
 shop: Bäckerei
 ---

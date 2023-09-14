@@ -1,5 +1,5 @@
 ---
 title: "Kern"
-url: /brackenheim/kern/
+url: /brackenheim/kern-marktstrasse/
 shop: Bäckerei
 ---

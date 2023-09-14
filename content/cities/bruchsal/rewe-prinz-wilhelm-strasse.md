@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /bruchsal/rewe/
+url: /bruchsal/rewe-prinz-wilhelm-strasse/
 shop: Supermarkt
 ---

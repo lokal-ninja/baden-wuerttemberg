@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /tuebingen/dm/
+url: /tuebingen/dm-huegelstrasse/
 shop: Drogerie
 ---

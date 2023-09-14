@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /jestetten/dm/
+url: /jestetten/dm-saarstrasse/
 shop: Drogerie
 ---

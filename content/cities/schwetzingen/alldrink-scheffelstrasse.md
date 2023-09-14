@@ -1,5 +1,5 @@
 ---
 title: "alldrink"
-url: /schwetzingen/alldrink/
+url: /schwetzingen/alldrink-scheffelstrasse/
 shop: Getränke
 ---

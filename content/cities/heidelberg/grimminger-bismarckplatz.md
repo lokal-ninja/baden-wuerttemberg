@@ -1,5 +1,5 @@
 ---
 title: "Grimminger"
-url: /heidelberg/grimminger/
+url: /heidelberg/grimminger-bismarckplatz/
 shop: Bäckerei
 ---

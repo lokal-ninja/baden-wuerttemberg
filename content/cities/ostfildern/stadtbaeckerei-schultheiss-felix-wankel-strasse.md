@@ -1,5 +1,5 @@
 ---
 title: "Stadtbäckerei Schultheiss"
-url: /ostfildern/stadtbaeckerei-schultheiss/
+url: /ostfildern/stadtbaeckerei-schultheiss-felix-wankel-strasse/
 shop: Bäckerei
 ---

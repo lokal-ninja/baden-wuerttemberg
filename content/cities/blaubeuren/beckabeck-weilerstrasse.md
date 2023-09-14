@@ -1,5 +1,5 @@
 ---
 title: "BeckaBeck"
-url: /blaubeuren/beckabeck/
+url: /blaubeuren/beckabeck-weilerstrasse/
 shop: Bäckerei
 ---

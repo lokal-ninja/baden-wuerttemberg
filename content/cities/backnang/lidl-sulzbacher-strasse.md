@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /backnang/lidl/
+url: /backnang/lidl-sulzbacher-strasse/
 shop: Supermarkt
 ---

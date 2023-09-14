@@ -1,5 +1,5 @@
 ---
 title: "Reinmuth"
-url: /karlsruhe/reinmuth/
+url: /karlsruhe/reinmuth-striederstrasse/
 shop: Bäckerei
 ---

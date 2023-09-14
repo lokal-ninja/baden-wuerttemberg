@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /karlsruhe/netto-marken-discount/
+url: /karlsruhe/netto-marken-discount-rommelstrasse/
 shop: Supermarkt
 ---

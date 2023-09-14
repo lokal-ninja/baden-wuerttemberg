@@ -1,5 +1,5 @@
 ---
 title: "Treiber"
-url: /stuttgart/treiber/
+url: /stuttgart/treiber-kirchheimer-strasse/
 shop: Bäckerei
 ---

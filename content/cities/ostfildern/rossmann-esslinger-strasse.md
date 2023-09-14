@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /ostfildern/rossmann/
+url: /ostfildern/rossmann-esslinger-strasse/
 shop: Drogerie
 ---

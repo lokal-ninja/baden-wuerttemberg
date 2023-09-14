@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /reutlingen/edeka/
+url: /reutlingen/edeka-friedrich-naumann-strasse/
 shop: Supermarkt
 ---

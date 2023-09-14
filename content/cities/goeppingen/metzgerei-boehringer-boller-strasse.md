@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Böhringer"
-url: /goeppingen/metzgerei-boehringer/
+url: /goeppingen/metzgerei-boehringer-boller-strasse/
 shop: Metzgerei
 ---

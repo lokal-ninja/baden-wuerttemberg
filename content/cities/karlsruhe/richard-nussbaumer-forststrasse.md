@@ -1,5 +1,5 @@
 ---
 title: "Richard Nussbaumer"
-url: /karlsruhe/richard-nussbaumer/
+url: /karlsruhe/richard-nussbaumer-forststrasse/
 shop: Bäckerei
 ---

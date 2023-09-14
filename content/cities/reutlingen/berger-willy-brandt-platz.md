@@ -1,5 +1,5 @@
 ---
 title: "Berger"
-url: /reutlingen/berger/
+url: /reutlingen/berger-willy-brandt-platz/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Keim"
-url: /reutlingen/keim/
+url: /reutlingen/keim-metzgerstrasse/
 shop: Bäckerei
 ---

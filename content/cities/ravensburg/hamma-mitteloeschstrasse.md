@@ -1,5 +1,5 @@
 ---
 title: "Hamma"
-url: /ravensburg/hamma/
+url: /ravensburg/hamma-mitteloeschstrasse/
 shop: Bäckerei
 ---

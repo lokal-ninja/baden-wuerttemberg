@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /winnenden/kik/
+url: /winnenden/kik-wallstrasse/
 shop: Kleidung
 ---

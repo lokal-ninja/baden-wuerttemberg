@@ -1,5 +1,5 @@
 ---
 title: "Döringer's Backhaus"
-url: /mannheim/doeringers-backhaus/
+url: /mannheim/doeringers-backhaus-lameystrasse/
 shop: Bäckerei
 ---

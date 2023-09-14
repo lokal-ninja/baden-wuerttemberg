@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /stuttgart/hunkemoeller/
+url: /stuttgart/hunkemoeller-koenigstrasse/
 shop: Kleidung
 ---

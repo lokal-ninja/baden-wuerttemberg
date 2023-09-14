@@ -1,5 +1,5 @@
 ---
 title: "Alexandros"
-url: /esslingen-am-neckar/alexandros/
+url: /esslingen-am-neckar/alexandros-weilstrasse/
 shop: Feinkost
 ---

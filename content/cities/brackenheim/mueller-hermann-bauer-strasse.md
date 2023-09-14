@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /brackenheim/mueller/
+url: /brackenheim/mueller-hermann-bauer-strasse/
 shop: Drogerie
 ---

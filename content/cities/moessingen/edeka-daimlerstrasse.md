@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /moessingen/edeka/
+url: /moessingen/edeka-daimlerstrasse/
 shop: Supermarkt
 ---

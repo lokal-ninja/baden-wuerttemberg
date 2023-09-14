@@ -1,5 +1,5 @@
 ---
 title: "Alnatura"
-url: /heidelberg/alnatura/
+url: /heidelberg/alnatura-langer-anger/
 shop: Supermarkt
 ---

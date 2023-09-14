@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /mannheim/mediamarkt/
+url: /mannheim/mediamarkt-flosswoerthstrasse/
 shop: Elektronik
 ---

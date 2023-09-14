@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /heidelberg/aldi-sued/
+url: /heidelberg/aldi-sued-pleikartsfoerster-strasse/
 shop: Supermarkt
 ---

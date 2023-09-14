@@ -1,5 +1,5 @@
 ---
 title: "DB Reisezentrum"
-url: /karlsruhe/db-reisezentrum/
+url: /karlsruhe/db-reisezentrum-bahnhofplatz/
 shop: Reisebüro
 ---

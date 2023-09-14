@@ -1,5 +1,5 @@
 ---
 title: "Gerweck"
-url: /bretten/gerweck/
+url: /bretten/gerweck-pforzheimer-strasse/
 shop: Bäckerei
 ---

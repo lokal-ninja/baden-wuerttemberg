@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /heidelberg/mediamarkt/
+url: /heidelberg/mediamarkt-hebelstrasse/
 shop: Elektronik
 ---

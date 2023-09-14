@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /mannheim/bauhaus/
+url: /mannheim/bauhaus-2/
 shop: Baumarkt
 ---

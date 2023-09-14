@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /villingen-schwenningen/klier/
+url: /villingen-schwenningen/klier-neuer-markt/
 shop: Friseur
 ---

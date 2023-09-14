@@ -1,5 +1,5 @@
 ---
 title: "Monkos"
-url: /simmozheim/monkos/
+url: /simmozheim/monkos-im-moenchgraben/
 shop: Autowerkstatt
 ---

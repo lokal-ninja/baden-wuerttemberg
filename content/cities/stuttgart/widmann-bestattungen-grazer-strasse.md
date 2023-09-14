@@ -1,5 +1,5 @@
 ---
 title: "Widmann Bestattungen"
-url: /stuttgart/widmann-bestattungen/
+url: /stuttgart/widmann-bestattungen-grazer-strasse/
 shop: Bestattungen
 ---

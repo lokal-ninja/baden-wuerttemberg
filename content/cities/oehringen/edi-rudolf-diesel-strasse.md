@@ -1,5 +1,5 @@
 ---
 title: "EDi"
-url: /oehringen/edi/
+url: /oehringen/edi-rudolf-diesel-strasse/
 shop: Allgemein
 ---

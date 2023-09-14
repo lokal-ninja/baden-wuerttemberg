@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /schwaebisch-gmuend/deichmann/
+url: /schwaebisch-gmuend/deichmann-lorcher-strasse/
 shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alnatura"
-url: /freiburg-im-breisgau/alnatura/
+url: /freiburg-im-breisgau/alnatura-zaehringer-strasse/
 shop: Supermarkt
 ---

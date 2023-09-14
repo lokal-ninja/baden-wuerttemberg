@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /stuttgart/nkd/
+url: /stuttgart/nkd-pforzheimer-strasse/
 shop: Kleidung
 ---

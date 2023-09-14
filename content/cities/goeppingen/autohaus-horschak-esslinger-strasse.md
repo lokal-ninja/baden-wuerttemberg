@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Horschak"
-url: /goeppingen/autohaus-horschak/
+url: /goeppingen/autohaus-horschak-esslinger-strasse/
 shop: Autohaus
 ---

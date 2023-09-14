@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /renningen/sehne/
+url: /renningen/sehne-alemannenstrasse/
 shop: Bäckerei
 ---

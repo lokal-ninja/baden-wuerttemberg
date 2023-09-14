@@ -1,5 +1,5 @@
 ---
 title: "Armbruster"
-url: /offenburg/armbruster/
+url: /offenburg/armbruster-ebertplatz/
 shop: Bäckerei
 ---

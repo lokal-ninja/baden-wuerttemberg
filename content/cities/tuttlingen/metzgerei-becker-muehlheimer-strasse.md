@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Becker"
-url: /tuttlingen/metzgerei-becker/
+url: /tuttlingen/metzgerei-becker-muehlheimer-strasse/
 shop: Metzgerei
 ---

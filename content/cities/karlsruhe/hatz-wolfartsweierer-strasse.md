@@ -1,5 +1,5 @@
 ---
 title: "Hatz"
-url: /karlsruhe/hatz/
+url: /karlsruhe/hatz-wolfartsweierer-strasse/
 shop: Bäckerei
 ---

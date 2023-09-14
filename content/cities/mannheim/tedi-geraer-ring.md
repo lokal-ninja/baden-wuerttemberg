@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /mannheim/tedi/
+url: /mannheim/tedi-geraer-ring/
 shop: Kramladen
 ---

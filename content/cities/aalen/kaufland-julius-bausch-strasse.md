@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /aalen/kaufland/
+url: /aalen/kaufland-julius-bausch-strasse/
 shop: Supermarkt
 ---

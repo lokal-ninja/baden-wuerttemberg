@@ -1,5 +1,5 @@
 ---
 title: "Inge's Lädle"
-url: /bruchsal/inges-laedle/
+url: /bruchsal/inges-laedle-hauptstrasse/
 shop: Lebensmittel
 ---

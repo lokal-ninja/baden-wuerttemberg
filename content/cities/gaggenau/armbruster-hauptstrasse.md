@@ -1,5 +1,5 @@
 ---
 title: "Armbruster"
-url: /gaggenau/armbruster/
+url: /gaggenau/armbruster-hauptstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anders"
-url: /ludwigsburg/anders/
+url: /ludwigsburg/anders-austrasse/
 shop: Bäckerei
 ---

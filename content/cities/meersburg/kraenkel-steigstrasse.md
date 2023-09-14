@@ -1,5 +1,5 @@
 ---
 title: "Kränkel"
-url: /meersburg/kraenkel/
+url: /meersburg/kraenkel-steigstrasse/
 shop: Bäckerei
 ---

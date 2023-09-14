@@ -1,5 +1,5 @@
 ---
 title: "Kögel"
-url: /esslingen-am-neckar/koegel/
+url: /esslingen-am-neckar/koegel-rathausplatz/
 shop: Kleidung
 ---

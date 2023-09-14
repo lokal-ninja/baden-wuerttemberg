@@ -1,5 +1,5 @@
 ---
 title: "Maurer"
-url: /backnang/maurer/
+url: /backnang/maurer-gerberstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /schwaebisch-hall/rewe/
+url: /schwaebisch-hall/rewe-salinenstrasse/
 shop: Einkaufszentrum
 ---

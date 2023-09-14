@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /schwaebisch-hall/kaufland/
+url: /schwaebisch-hall/kaufland-steinbeisweg/
 shop: Supermarkt
 ---

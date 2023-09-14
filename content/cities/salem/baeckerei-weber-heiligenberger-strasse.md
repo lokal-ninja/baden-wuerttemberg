@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Weber"
-url: /salem/baeckerei-weber/
+url: /salem/baeckerei-weber-heiligenberger-strasse/
 shop: Bäckerei
 ---

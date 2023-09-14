@@ -1,5 +1,5 @@
 ---
 title: "Treiber"
-url: /filderstadt/treiber/
+url: /filderstadt/treiber-rathausplatz/
 shop: Bäckerei
 ---

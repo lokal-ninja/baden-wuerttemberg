@@ -1,5 +1,5 @@
 ---
 title: "Beil"
-url: /neckarsulm/beil/
+url: /neckarsulm/beil-gottfried-leibniz-strasse/
 shop: Getränke
 ---

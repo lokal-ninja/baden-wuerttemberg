@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /goeppingen/mueller/
+url: /goeppingen/mueller-esslinger-strasse/
 shop: Drogerie
 ---

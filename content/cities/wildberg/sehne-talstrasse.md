@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /wildberg/sehne/
+url: /wildberg/sehne-talstrasse/
 shop: Bäckerei
 ---

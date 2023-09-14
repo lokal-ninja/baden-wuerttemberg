@@ -1,5 +1,5 @@
 ---
 title: "Zum Kirchersbäck"
-url: /waldenburg/zum-kirchersbaeck/
+url: /waldenburg/zum-kirchersbaeck-am-schneiderlesee/
 shop: Bäckerei
 ---

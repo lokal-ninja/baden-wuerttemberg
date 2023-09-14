@@ -1,5 +1,5 @@
 ---
 title: "Leerstand"
-url: /metzingen/leerstand/
+url: /metzingen/leerstand-wilhelmstrasse-2/
 shop: Allgemein
 ---

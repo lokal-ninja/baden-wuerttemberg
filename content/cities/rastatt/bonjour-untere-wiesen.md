@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
-url: /rastatt/bonjour/
+url: /rastatt/bonjour-untere-wiesen/
 shop: Lebensmittel
 ---

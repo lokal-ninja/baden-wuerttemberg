@@ -1,5 +1,5 @@
 ---
 title: "CAP-Markt"
-url: /stuttgart/cap-markt/
+url: /stuttgart/cap-markt-hoelderlinplatz/
 shop: Supermarkt
 ---

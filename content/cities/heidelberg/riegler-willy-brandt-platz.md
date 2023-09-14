@@ -1,5 +1,5 @@
 ---
 title: "Riegler"
-url: /heidelberg/riegler/
+url: /heidelberg/riegler-willy-brandt-platz/
 shop: Bäckerei
 ---

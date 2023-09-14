@@ -1,5 +1,5 @@
 ---
 title: "Padeffke"
-url: /rottenburg-am-neckar/padeffke/
+url: /rottenburg-am-neckar/padeffke-sprollstrasse/
 shop: Bäckerei
 ---

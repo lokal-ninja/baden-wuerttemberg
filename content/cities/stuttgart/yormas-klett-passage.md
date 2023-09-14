@@ -1,5 +1,5 @@
 ---
 title: "Yorma’s"
-url: /stuttgart/yormas/
+url: /stuttgart/yormas-klett-passage/
 shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /karlsruhe/woolworth/
+url: /karlsruhe/woolworth-rheinstrasse/
 shop: Warenhaus
 ---

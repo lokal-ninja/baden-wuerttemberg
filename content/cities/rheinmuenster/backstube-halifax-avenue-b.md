@@ -1,5 +1,5 @@
 ---
 title: "BackStube"
-url: /rheinmuenster/backstube/
+url: /rheinmuenster/backstube-halifax-avenue-b/
 shop: Bäckerei
 ---

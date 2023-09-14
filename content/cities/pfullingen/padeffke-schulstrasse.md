@@ -1,5 +1,5 @@
 ---
 title: "Padeffke"
-url: /pfullingen/padeffke/
+url: /pfullingen/padeffke-schulstrasse/
 shop: Bäckerei
 ---

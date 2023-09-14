@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /karlsruhe/nahkauf/
+url: /karlsruhe/nahkauf-gellertstrasse/
 shop: Supermarkt
 ---

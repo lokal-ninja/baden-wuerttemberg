@@ -1,5 +1,5 @@
 ---
 title: "Maurer"
-url: /leutenbach/maurer/
+url: /leutenbach/maurer-stuttgarter-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Köhler's Landbäckerei"
-url: /stutensee/koehlers-landbaeckerei/
+url: /stutensee/koehlers-landbaeckerei-hauptstrasse/
 shop: Bäckerei
 ---

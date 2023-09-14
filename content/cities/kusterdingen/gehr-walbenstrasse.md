@@ -1,5 +1,5 @@
 ---
 title: "Gehr"
-url: /kusterdingen/gehr/
+url: /kusterdingen/gehr-walbenstrasse/
 shop: Bäckerei
 ---

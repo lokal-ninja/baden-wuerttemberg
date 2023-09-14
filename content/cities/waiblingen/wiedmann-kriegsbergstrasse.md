@@ -1,5 +1,5 @@
 ---
 title: "Wiedmann"
-url: /waiblingen/wiedmann/
+url: /waiblingen/wiedmann-kriegsbergstrasse/
 shop: Autohaus
 ---

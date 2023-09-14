@@ -1,5 +1,5 @@
 ---
 title: "Klaus Sperling"
-url: /kornwestheim/klaus-sperling/
+url: /kornwestheim/klaus-sperling-weimarstrasse/
 shop: Spielzeug
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /heilbronn/fressnapf/
+url: /heilbronn/fressnapf-david-friedrich-strauss-strasse/
 shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Veit"
-url: /leinfelden-echterdingen/veit/
+url: /leinfelden-echterdingen/veit-musberger-strasse/
 shop: Bäckerei
 ---

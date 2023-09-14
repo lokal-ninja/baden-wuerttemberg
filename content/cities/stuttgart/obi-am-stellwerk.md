@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /stuttgart/obi/
+url: /stuttgart/obi-am-stellwerk/
 shop: Baumarkt
 ---

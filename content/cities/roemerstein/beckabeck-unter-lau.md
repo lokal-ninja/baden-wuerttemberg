@@ -1,5 +1,5 @@
 ---
 title: "BeckaBeck"
-url: /roemerstein/beckabeck/
+url: /roemerstein/beckabeck-unter-lau/
 shop: Bäckerei
 ---

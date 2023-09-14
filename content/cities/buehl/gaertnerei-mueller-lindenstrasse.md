@@ -1,5 +1,5 @@
 ---
 title: "Gärtnerei Müller"
-url: /buehl/gaertnerei-mueller/
+url: /buehl/gaertnerei-mueller-lindenstrasse/
 shop: Garten-Center
 ---

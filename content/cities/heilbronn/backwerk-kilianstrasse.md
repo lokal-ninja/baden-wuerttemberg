@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /heilbronn/backwerk/
+url: /heilbronn/backwerk-kilianstrasse/
 shop: Bäckerei
 ---

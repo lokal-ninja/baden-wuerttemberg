@@ -1,5 +1,5 @@
 ---
 title: "Mühlhäuser"
-url: /schwaebisch-gmuend/muehlhaeuser/
+url: /schwaebisch-gmuend/muehlhaeuser-bocksgasse/
 shop: Bäckerei
 ---

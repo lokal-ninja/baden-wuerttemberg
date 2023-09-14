@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
-url: /muehlacker/tchibo/
+url: /muehlacker/tchibo-2/
 shop: Kaffee
 ---

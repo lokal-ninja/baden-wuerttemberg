@@ -1,5 +1,5 @@
 ---
 title: "Reiß-Beck"
-url: /kirchzarten/reiss-beck/
+url: /kirchzarten/reiss-beck-bahnhofstrasse/
 shop: Bäckerei
 ---

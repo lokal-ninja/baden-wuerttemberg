@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /karlsruhe/fressnapf/
+url: /karlsruhe/fressnapf-kaeppelestrasse/
 shop: Tiere
 ---

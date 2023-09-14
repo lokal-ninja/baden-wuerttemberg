@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /heilbronn/rossmann/
+url: /heilbronn/rossmann-berliner-platz/
 shop: Drogerie
 ---

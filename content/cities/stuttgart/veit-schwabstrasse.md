@@ -1,5 +1,5 @@
 ---
 title: "Veit"
-url: /stuttgart/veit/
+url: /stuttgart/veit-schwabstrasse/
 shop: Bäckerei
 ---

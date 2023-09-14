@@ -1,5 +1,5 @@
 ---
 title: "Mayer"
-url: /kirchheim-unter-teck/mayer/
+url: /kirchheim-unter-teck/mayer-wangerhaldenweg/
 shop: Bäckerei
 ---

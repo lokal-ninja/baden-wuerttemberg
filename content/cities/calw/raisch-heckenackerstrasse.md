@@ -1,5 +1,5 @@
 ---
 title: "Raisch"
-url: /calw/raisch/
+url: /calw/raisch-heckenackerstrasse/
 shop: Bäckerei
 ---

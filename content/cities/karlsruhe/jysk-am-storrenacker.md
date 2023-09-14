@@ -1,5 +1,5 @@
 ---
 title: "Jysk"
-url: /karlsruhe/jysk/
+url: /karlsruhe/jysk-am-storrenacker/
 shop: Möbel
 ---

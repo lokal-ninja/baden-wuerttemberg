@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Weeber"
-url: /herrenberg/autohaus-weeber/
+url: /herrenberg/autohaus-weeber-daimlerstrasse/
 shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betten-Jundt"
-url: /emmendingen/betten-jundt/
+url: /emmendingen/betten-jundt-hebelstrasse/
 shop: Betten
 ---

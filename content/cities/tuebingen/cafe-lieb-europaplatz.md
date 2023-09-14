@@ -1,5 +1,5 @@
 ---
 title: "Café Lieb"
-url: /tuebingen/cafe-lieb/
+url: /tuebingen/cafe-lieb-europaplatz/
 shop: Bäckerei
 ---

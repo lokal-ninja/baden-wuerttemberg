@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Gerdes"
-url: /oberkirch/baeckerei-gerdes/
+url: /oberkirch/baeckerei-gerdes-nussbacher-strasse/
 shop: Bäckerei
 ---

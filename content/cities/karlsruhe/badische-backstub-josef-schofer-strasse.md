@@ -1,5 +1,5 @@
 ---
 title: "Badische Backstub'"
-url: /karlsruhe/badische-backstub/
+url: /karlsruhe/badische-backstub-josef-schofer-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /konstanz/edeka/
+url: /konstanz/edeka-staader-strasse/
 shop: Supermarkt
 ---

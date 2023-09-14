@@ -1,5 +1,5 @@
 ---
 title: "Vogt"
-url: /baden-baden/vogt/
+url: /baden-baden/vogt-2/
 shop: Metzgerei
 ---

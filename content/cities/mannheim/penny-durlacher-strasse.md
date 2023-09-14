@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /mannheim/penny/
+url: /mannheim/penny-durlacher-strasse/
 shop: Supermarkt
 ---

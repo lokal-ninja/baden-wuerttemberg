@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /boeblingen/sehne/
+url: /boeblingen/sehne-koenigsberger-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Agip"
-url: /mannheim/agip/
+url: /mannheim/agip-magdeburger-strasse/
 shop: Lebensmittel
 ---

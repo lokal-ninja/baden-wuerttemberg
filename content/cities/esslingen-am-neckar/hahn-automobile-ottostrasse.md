@@ -1,5 +1,5 @@
 ---
 title: "Hahn Automobile"
-url: /esslingen-am-neckar/hahn-automobile/
-shop: Autohaus
+url: /esslingen-am-neckar/hahn-automobile-ottostrasse/
+shop: Autowerkstatt
 ---

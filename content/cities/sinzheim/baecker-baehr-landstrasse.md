@@ -1,5 +1,5 @@
 ---
 title: "Bäcker Bähr"
-url: /sinzheim/baecker-baehr/
+url: /sinzheim/baecker-baehr-landstrasse/
 shop: Bäckerei
 ---

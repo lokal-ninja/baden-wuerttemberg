@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /ludwigsburg/sehne/
+url: /ludwigsburg/sehne-teinacher-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clement"
-url: /bietigheim-bissingen/clement/
+url: /bietigheim-bissingen/clement-jahnstrasse/
 shop: Bäckerei
 ---

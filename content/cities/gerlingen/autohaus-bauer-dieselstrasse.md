@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Bauer"
-url: /gerlingen/autohaus-bauer/
+url: /gerlingen/autohaus-bauer-dieselstrasse/
 shop: Autohaus
 ---

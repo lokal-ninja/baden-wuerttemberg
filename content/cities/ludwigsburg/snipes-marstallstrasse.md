@@ -1,5 +1,5 @@
 ---
 title: "Snipes"
-url: /ludwigsburg/snipes/
+url: /ludwigsburg/snipes-marstallstrasse/
 shop: Schuhe
 ---

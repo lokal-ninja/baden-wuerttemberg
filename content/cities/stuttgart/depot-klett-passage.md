@@ -1,5 +1,5 @@
 ---
 title: "Depot"
-url: /stuttgart/depot/
+url: /stuttgart/depot-klett-passage/
 shop: Raumausstattung
 ---

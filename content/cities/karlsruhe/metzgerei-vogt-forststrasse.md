@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Vogt"
-url: /karlsruhe/metzgerei-vogt/
+url: /karlsruhe/metzgerei-vogt-forststrasse/
 shop: Metzgerei
 ---

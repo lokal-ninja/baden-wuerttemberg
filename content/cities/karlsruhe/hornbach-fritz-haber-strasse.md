@@ -1,5 +1,5 @@
 ---
 title: "Hornbach"
-url: /karlsruhe/hornbach/
+url: /karlsruhe/hornbach-fritz-haber-strasse/
 shop: Baumarkt
 ---

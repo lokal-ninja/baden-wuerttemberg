@@ -1,5 +1,5 @@
 ---
 title: "Leerstand"
-url: /metzingen/leerstand/
+url: /metzingen/leerstand-wilhelmstrasse/
 shop: Kleidung
 ---

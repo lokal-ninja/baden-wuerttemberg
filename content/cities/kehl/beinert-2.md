@@ -1,5 +1,5 @@
 ---
 title: "Beinert"
-url: /kehl/beinert/
+url: /kehl/beinert-2/
 shop: Blumen
 ---

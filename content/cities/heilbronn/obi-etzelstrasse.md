@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /heilbronn/obi/
+url: /heilbronn/obi-etzelstrasse/
 shop: Baumarkt
 ---

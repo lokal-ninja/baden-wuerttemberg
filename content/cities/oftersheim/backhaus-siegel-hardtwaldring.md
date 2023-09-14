@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Siegel"
-url: /oftersheim/backhaus-siegel/
+url: /oftersheim/backhaus-siegel-hardtwaldring/
 shop: Bäckerei
 ---

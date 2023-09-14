@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /konstanz/sternenbaeck/
+url: /konstanz/sternenbaeck-max-stromeyer-strasse/
 shop: Bäckerei
 ---

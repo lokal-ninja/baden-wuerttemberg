@@ -1,5 +1,5 @@
 ---
 title: "Brillen Meyer"
-url: /bruehl/brillen-meyer/
+url: /bruehl/brillen-meyer-rheinauer-strasse/
 shop: Optiker
 ---

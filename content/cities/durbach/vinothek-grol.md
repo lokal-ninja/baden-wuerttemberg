@@ -1,5 +1,5 @@
 ---
 title: "Vinothek"
-url: /durbach/vinothek/
+url: /durbach/vinothek-grol/
 shop: Spirituosen
 ---

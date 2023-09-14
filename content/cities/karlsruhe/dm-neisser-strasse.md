@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /karlsruhe/dm/
+url: /karlsruhe/dm-neisser-strasse/
 shop: Drogerie
 ---

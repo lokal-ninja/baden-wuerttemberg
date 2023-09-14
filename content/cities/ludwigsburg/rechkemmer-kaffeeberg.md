@@ -1,5 +1,5 @@
 ---
 title: "Rechkemmer"
-url: /ludwigsburg/rechkemmer/
+url: /ludwigsburg/rechkemmer-kaffeeberg/
 shop: Bäckerei
 ---

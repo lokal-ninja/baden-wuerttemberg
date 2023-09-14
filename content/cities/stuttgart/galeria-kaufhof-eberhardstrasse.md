@@ -1,5 +1,5 @@
 ---
 title: "Galeria Kaufhof"
-url: /stuttgart/galeria-kaufhof/
+url: /stuttgart/galeria-kaufhof-eberhardstrasse/
 shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /crailsheim/kaufland/
+url: /crailsheim/kaufland-schoenebuergstrasse/
 shop: Supermarkt
 ---

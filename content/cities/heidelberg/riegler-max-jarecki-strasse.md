@@ -1,5 +1,5 @@
 ---
 title: "Riegler"
-url: /heidelberg/riegler/
+url: /heidelberg/riegler-max-jarecki-strasse/
 shop: Bäckerei
 ---

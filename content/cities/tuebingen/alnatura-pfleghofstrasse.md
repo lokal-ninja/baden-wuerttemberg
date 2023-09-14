@@ -1,5 +1,5 @@
 ---
 title: "Alnatura"
-url: /tuebingen/alnatura/
+url: /tuebingen/alnatura-pfleghofstrasse/
 shop: Supermarkt
 ---

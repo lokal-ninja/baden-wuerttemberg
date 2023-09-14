@@ -1,5 +1,5 @@
 ---
 title: "Cosmo"
-url: /stuttgart/cosmo/
+url: /stuttgart/cosmo-schulstrasse/
 shop: Friseurbedarf
 ---

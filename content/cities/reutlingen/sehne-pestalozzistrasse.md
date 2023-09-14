@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /reutlingen/sehne/
+url: /reutlingen/sehne-pestalozzistrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fidelisbäck"
-url: /wangen-im-allgaeu/fidelisbaeck/
+url: /wangen-im-allgaeu/fidelisbaeck-paradiesstrasse/
 shop: Bäckerei
 ---

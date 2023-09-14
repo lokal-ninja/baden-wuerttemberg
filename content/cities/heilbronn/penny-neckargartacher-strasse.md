@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /heilbronn/penny/
+url: /heilbronn/penny-neckargartacher-strasse/
 shop: Supermarkt
 ---

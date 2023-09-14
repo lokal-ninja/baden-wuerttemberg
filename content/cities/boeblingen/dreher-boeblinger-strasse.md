@@ -1,5 +1,5 @@
 ---
 title: "Dreher"
-url: /boeblingen/dreher/
+url: /boeblingen/dreher-boeblinger-strasse/
 shop: Landwirtschaftlich
 ---

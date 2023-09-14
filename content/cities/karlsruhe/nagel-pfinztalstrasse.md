@@ -1,5 +1,5 @@
 ---
 title: "Nagel"
-url: /karlsruhe/nagel/
+url: /karlsruhe/nagel-pfinztalstrasse/
 shop: Kleidung
 ---

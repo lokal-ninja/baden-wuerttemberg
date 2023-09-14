@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Daiber"
-url: /goeppingen/baeckerei-daiber/
+url: /goeppingen/baeckerei-daiber-boller-strasse/
 shop: Bäckerei
 ---

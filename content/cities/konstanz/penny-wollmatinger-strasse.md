@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /konstanz/penny/
+url: /konstanz/penny-wollmatinger-strasse/
 shop: Supermarkt
 ---

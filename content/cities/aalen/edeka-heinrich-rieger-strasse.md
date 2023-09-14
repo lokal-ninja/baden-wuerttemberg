@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /aalen/edeka/
+url: /aalen/edeka-heinrich-rieger-strasse/
 shop: Supermarkt
 ---

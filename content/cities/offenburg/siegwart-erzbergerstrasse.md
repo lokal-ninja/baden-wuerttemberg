@@ -1,5 +1,5 @@
 ---
 title: "Siegwart"
-url: /offenburg/siegwart/
+url: /offenburg/siegwart-erzbergerstrasse/
 shop: Bäckerei
 ---

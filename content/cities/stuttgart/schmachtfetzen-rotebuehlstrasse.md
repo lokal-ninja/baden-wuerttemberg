@@ -1,5 +1,5 @@
 ---
 title: "Schmachtfetzen"
-url: /stuttgart/schmachtfetzen/
+url: /stuttgart/schmachtfetzen-rotebuehlstrasse/
 shop: Kleidung
 ---

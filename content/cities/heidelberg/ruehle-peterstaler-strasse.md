@@ -1,5 +1,5 @@
 ---
 title: "Rühle"
-url: /heidelberg/ruehle/
+url: /heidelberg/ruehle-peterstaler-strasse/
 shop: Bäckerei
 ---

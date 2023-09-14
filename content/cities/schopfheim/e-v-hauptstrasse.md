@@ -1,5 +1,5 @@
 ---
 title: "E.+V."
-url: /schopfheim/e-v/
+url: /schopfheim/e-v-hauptstrasse/
 shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sanitätshaus Glotz"
-url: /stuttgart/sanitaetshaus-glotz/
+url: /stuttgart/sanitaetshaus-glotz-ludwigsburger-strasse/
 shop: Sanitätshaus
 ---

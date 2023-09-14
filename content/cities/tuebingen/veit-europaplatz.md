@@ -1,5 +1,5 @@
 ---
 title: "Veit"
-url: /tuebingen/veit/
+url: /tuebingen/veit-europaplatz/
 shop: Bäckerei
 ---

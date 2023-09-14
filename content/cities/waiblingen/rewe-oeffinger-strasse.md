@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /waiblingen/rewe/
+url: /waiblingen/rewe-oeffinger-strasse/
 shop: Supermarkt
 ---

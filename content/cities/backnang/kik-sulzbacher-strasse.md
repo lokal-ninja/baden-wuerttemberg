@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /backnang/kik/
+url: /backnang/kik-sulzbacher-strasse/
 shop: Kleidung
 ---

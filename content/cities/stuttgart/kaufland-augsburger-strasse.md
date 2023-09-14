@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /stuttgart/kaufland/
+url: /stuttgart/kaufland-augsburger-strasse/
 shop: Supermarkt
 ---

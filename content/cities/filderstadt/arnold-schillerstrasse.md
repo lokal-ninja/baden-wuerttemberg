@@ -1,5 +1,5 @@
 ---
 title: "Arnold"
-url: /filderstadt/arnold/
+url: /filderstadt/arnold-schillerstrasse/
 shop: Autowerkstatt
 ---

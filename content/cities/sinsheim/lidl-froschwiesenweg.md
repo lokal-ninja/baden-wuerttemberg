@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /sinsheim/lidl/
+url: /sinsheim/lidl-froschwiesenweg/
 shop: Supermarkt
 ---

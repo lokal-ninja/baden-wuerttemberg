@@ -1,5 +1,5 @@
 ---
 title: "Louise"
-url: /friedrichshafen/louise/
+url: /friedrichshafen/louise-karlstrasse/
 shop: Raumausstattung
 ---

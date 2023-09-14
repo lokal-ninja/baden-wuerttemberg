@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /leinfelden-echterdingen/lidl/
+url: /leinfelden-echterdingen/lidl-hoefer-aecker/
 shop: Supermarkt
 ---

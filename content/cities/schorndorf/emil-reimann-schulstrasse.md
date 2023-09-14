@@ -1,5 +1,5 @@
 ---
 title: "Emil Reimann"
-url: /schorndorf/emil-reimann/
+url: /schorndorf/emil-reimann-schulstrasse/
 shop: Bäckerei
 ---

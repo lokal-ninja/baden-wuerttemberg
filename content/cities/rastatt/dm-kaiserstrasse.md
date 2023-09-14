@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /rastatt/dm/
+url: /rastatt/dm-kaiserstrasse/
 shop: Drogerie
 ---

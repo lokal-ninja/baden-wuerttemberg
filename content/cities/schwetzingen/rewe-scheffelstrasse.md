@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /schwetzingen/rewe/
+url: /schwetzingen/rewe-scheffelstrasse/
 shop: Supermarkt
 ---

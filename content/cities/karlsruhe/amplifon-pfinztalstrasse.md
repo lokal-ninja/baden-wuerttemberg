@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /karlsruhe/amplifon/
+url: /karlsruhe/amplifon-pfinztalstrasse/
 shop: Hörgeräte
 ---

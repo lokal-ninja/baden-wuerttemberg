@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /aalen/rossmann/
+url: /aalen/rossmann-marktplatz/
 shop: Drogerie
 ---

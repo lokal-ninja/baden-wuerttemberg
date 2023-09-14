@@ -1,5 +1,5 @@
 ---
 title: "Trunk"
-url: /obersulm/trunk/
+url: /obersulm/trunk-muehlstrasse/
 shop: Bäckerei
 ---

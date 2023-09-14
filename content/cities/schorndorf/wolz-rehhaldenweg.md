@@ -1,5 +1,5 @@
 ---
 title: "Wolz"
-url: /schorndorf/wolz/
+url: /schorndorf/wolz-rehhaldenweg/
 shop: Metzgerei
 ---

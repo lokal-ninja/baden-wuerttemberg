@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /tuebingen/rewe/
+url: /tuebingen/rewe-schleifmuehleweg/
 shop: Supermarkt
 ---

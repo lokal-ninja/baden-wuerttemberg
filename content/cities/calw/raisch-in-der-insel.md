@@ -1,5 +1,5 @@
 ---
 title: "Raisch"
-url: /calw/raisch/
+url: /calw/raisch-in-der-insel/
 shop: Bäckerei
 ---

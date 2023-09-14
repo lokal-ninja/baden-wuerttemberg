@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /konstanz/norma/
+url: /konstanz/norma-radolfzeller-strasse/
 shop: Supermarkt
 ---

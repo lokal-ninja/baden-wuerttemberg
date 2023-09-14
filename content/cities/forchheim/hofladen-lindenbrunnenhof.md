@@ -1,5 +1,5 @@
 ---
 title: "Hofladen"
-url: /forchheim/hofladen/
+url: /forchheim/hofladen-lindenbrunnenhof/
 shop: Hofladen
 ---

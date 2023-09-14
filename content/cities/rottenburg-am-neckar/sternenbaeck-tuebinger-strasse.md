@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /rottenburg-am-neckar/sternenbaeck/
+url: /rottenburg-am-neckar/sternenbaeck-tuebinger-strasse/
 shop: Bäckerei
 ---

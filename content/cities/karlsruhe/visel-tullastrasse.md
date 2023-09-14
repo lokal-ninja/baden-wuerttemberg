@@ -1,5 +1,5 @@
 ---
 title: "Visel"
-url: /karlsruhe/visel/
+url: /karlsruhe/visel-tullastrasse/
 shop: Bäckerei
 ---

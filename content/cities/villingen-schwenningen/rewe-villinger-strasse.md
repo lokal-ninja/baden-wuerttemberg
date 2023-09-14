@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /villingen-schwenningen/rewe/
+url: /villingen-schwenningen/rewe-villinger-strasse/
 shop: Supermarkt
 ---

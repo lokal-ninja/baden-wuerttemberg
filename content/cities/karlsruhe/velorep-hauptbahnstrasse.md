@@ -1,5 +1,5 @@
 ---
 title: "VELOREP"
-url: /karlsruhe/velorep/
+url: /karlsruhe/velorep-hauptbahnstrasse/
 shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Schäfer"
-url: /weinstadt/metzgerei-schaefer/
+url: /weinstadt/metzgerei-schaefer-struempfelbacher-strasse/
 shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /mosbach/lidl/
+url: /mosbach/lidl-hauptstrasse/
 shop: Supermarkt
 ---

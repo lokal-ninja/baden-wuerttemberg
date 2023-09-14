@@ -1,5 +1,5 @@
 ---
 title: "Maurer"
-url: /stuttgart/maurer/
+url: /stuttgart/maurer-naststrasse/
 shop: Bäckerei
 ---

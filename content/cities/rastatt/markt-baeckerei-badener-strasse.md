@@ -1,5 +1,5 @@
 ---
 title: "Markt-Bäckerei"
-url: /rastatt/markt-baeckerei/
+url: /rastatt/markt-baeckerei-badener-strasse/
 shop: Bäckerei
 ---

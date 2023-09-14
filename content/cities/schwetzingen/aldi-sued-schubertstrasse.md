@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /schwetzingen/aldi-sued/
+url: /schwetzingen/aldi-sued-schubertstrasse/
 shop: Supermarkt
 ---

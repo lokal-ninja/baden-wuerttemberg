@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /karlsruhe/tipico/
+url: /karlsruhe/tipico-kaiserstrasse/
 shop: Wettbüro
 ---

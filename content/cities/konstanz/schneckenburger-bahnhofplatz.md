@@ -1,5 +1,5 @@
 ---
 title: "Schneckenburger"
-url: /konstanz/schneckenburger/
+url: /konstanz/schneckenburger-bahnhofplatz/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /reutlingen/intersport/
+url: /reutlingen/intersport-ferdinand-lassalle-strasse/
 shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reinold"
-url: /schwieberdingen/reinold/
+url: /schwieberdingen/reinold-bahnhofstrasse/
 shop: Lotterie
 ---

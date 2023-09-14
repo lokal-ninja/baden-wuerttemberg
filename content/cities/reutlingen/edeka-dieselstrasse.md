@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /reutlingen/edeka/
+url: /reutlingen/edeka-dieselstrasse/
 shop: Supermarkt
 ---

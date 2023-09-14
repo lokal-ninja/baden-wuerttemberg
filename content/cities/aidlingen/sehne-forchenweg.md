@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /aidlingen/sehne/
+url: /aidlingen/sehne-forchenweg/
 shop: Bäckerei
 ---

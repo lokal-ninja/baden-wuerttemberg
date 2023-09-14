@@ -1,5 +1,5 @@
 ---
 title: "Bonus"
-url: /stuttgart/bonus/
+url: /stuttgart/bonus-buesnauer-platz/
 shop: Supermarkt
 ---

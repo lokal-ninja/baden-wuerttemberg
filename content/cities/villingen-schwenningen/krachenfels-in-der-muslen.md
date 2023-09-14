@@ -1,5 +1,5 @@
 ---
 title: "Krachenfels"
-url: /villingen-schwenningen/krachenfels/
+url: /villingen-schwenningen/krachenfels-in-der-muslen/
 shop: Bäckerei
 ---

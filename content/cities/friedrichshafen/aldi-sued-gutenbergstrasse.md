@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /friedrichshafen/aldi-sued/
+url: /friedrichshafen/aldi-sued-gutenbergstrasse/
 shop: Supermarkt
 ---

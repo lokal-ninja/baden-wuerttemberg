@@ -1,5 +1,5 @@
 ---
 title: "Treiber"
-url: /boeblingen/treiber/
+url: /boeblingen/treiber-herdweg/
 shop: Bäckerei
 ---

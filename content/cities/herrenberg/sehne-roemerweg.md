@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /herrenberg/sehne/
+url: /herrenberg/sehne-roemerweg/
 shop: Bäckerei
 ---

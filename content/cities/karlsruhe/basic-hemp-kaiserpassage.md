@@ -1,5 +1,5 @@
 ---
 title: "Basic Hemp"
-url: /karlsruhe/basic-hemp/
+url: /karlsruhe/basic-hemp-kaiserpassage/
 shop: Hanf
 ---

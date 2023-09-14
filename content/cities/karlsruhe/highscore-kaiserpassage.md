@@ -1,5 +1,5 @@
 ---
 title: "Highscore"
-url: /karlsruhe/highscore/
+url: /karlsruhe/highscore-kaiserpassage/
 shop: Schuhe
 ---

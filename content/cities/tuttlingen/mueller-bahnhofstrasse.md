@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /tuttlingen/mueller/
+url: /tuttlingen/mueller-bahnhofstrasse/
 shop: Warenhaus
 ---

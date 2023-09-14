@@ -1,5 +1,5 @@
 ---
 title: "BeckaBeck"
-url: /muensingen/beckabeck/
+url: /muensingen/beckabeck-graf-zeppelin-strasse/
 shop: Bäckerei
 ---

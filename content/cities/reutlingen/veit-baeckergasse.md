@@ -1,5 +1,5 @@
 ---
 title: "Veit"
-url: /reutlingen/veit/
+url: /reutlingen/veit-baeckergasse/
 shop: Bäckerei
 ---

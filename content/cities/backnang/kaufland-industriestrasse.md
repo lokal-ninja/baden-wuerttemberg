@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /backnang/kaufland/
+url: /backnang/kaufland-industriestrasse/
 shop: Supermarkt
 ---

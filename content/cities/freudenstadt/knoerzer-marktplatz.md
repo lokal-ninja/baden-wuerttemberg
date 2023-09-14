@@ -1,5 +1,5 @@
 ---
 title: "Knörzer"
-url: /freudenstadt/knoerzer/
+url: /freudenstadt/knoerzer-marktplatz/
 shop: Bäckerei
 ---

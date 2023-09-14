@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /bietigheim-bissingen/vodafone/
+url: /bietigheim-bissingen/vodafone-hauptstrasse/
 shop: Handy
 ---

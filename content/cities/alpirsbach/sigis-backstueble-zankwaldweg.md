@@ -1,5 +1,5 @@
 ---
 title: "Sigis Backstüble"
-url: /alpirsbach/sigis-backstueble/
+url: /alpirsbach/sigis-backstueble-zankwaldweg/
 shop: Bäckerei
 ---

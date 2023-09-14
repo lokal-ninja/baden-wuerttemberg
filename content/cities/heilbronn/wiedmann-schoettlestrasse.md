@@ -1,5 +1,5 @@
 ---
 title: "Wiedmann"
-url: /heilbronn/wiedmann/
+url: /heilbronn/wiedmann-schoettlestrasse/
 shop: Bäckerei
 ---

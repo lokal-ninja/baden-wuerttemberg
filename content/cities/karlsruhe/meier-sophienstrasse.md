@@ -1,5 +1,5 @@
 ---
 title: "Meier"
-url: /karlsruhe/meier/
+url: /karlsruhe/meier-sophienstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Voß"
-url: /stuttgart/voss/
+url: /stuttgart/voss-franz-wachter-strasse/
 shop: Bäckerei
 ---

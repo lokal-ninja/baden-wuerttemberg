@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Ulmer"
-url: /friedrichshafen/baeckerei-ulmer/
+url: /friedrichshafen/baeckerei-ulmer-dornierstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coop"
-url: /riehen/coop/
+url: /riehen/coop-rauracherstrasse/
 shop: Supermarkt
 ---

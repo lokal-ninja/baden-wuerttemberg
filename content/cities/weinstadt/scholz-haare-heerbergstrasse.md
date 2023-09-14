@@ -1,5 +1,5 @@
 ---
 title: "Scholz Haare"
-url: /weinstadt/scholz-haare/
+url: /weinstadt/scholz-haare-heerbergstrasse/
 shop: Friseur
 ---

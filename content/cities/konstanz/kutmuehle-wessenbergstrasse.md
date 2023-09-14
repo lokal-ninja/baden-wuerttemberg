@@ -1,5 +1,5 @@
 ---
 title: "Kutmühle"
-url: /konstanz/kutmuehle/
+url: /konstanz/kutmuehle-wessenbergstrasse/
 shop: Bäckerei
 ---

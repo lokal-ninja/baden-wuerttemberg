@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /filderstadt/rewe/
+url: /filderstadt/rewe-metzinger-strasse/
 shop: Supermarkt
 ---

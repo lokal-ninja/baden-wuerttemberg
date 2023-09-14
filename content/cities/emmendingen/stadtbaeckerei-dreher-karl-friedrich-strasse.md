@@ -1,5 +1,5 @@
 ---
 title: "Stadtbäckerei Dreher"
-url: /emmendingen/stadtbaeckerei-dreher/
+url: /emmendingen/stadtbaeckerei-dreher-karl-friedrich-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dörrich"
-url: /elztal/doerrich/
+url: /elztal/doerrich-schefflenzer-strasse/
 shop: Metzgerei
 ---

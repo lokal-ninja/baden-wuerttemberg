@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Wirth"
-url: /heilbronn/metzgerei-wirth/
+url: /heilbronn/metzgerei-wirth-neckargartacher-strasse/
 shop: Metzgerei
 ---

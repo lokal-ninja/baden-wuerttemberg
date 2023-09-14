@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /stuttgart/shell/
+url: /stuttgart/shell-neckartalstrasse/
 shop: Lebensmittel
 ---

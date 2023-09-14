@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /schwetzingen/lidl/
+url: /schwetzingen/lidl-hockenheimer-landstrasse/
 shop: Supermarkt
 ---

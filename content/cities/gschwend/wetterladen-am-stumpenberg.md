@@ -1,5 +1,5 @@
 ---
 title: "Wetterladen"
-url: /gschwend/wetterladen/
+url: /gschwend/wetterladen-am-stumpenberg/
 shop: Allgemein
 ---

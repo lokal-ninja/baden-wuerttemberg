@@ -1,5 +1,5 @@
 ---
 title: "E-Center"
-url: /pfullingen/e-center/
+url: /pfullingen/e-center-roemerstrasse/
 shop: Supermarkt
 ---

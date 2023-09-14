@@ -1,5 +1,5 @@
 ---
 title: "Nussbaumer"
-url: /karlsruhe/nussbaumer/
+url: /karlsruhe/nussbaumer-allmendstrasse/
 shop: Bäckerei
 ---

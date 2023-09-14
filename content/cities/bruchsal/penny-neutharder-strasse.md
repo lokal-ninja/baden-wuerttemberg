@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /bruchsal/penny/
+url: /bruchsal/penny-neutharder-strasse/
 shop: Supermarkt
 ---

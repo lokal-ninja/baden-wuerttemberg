@@ -1,5 +1,5 @@
 ---
 title: "Benz Getränkemarkt"
-url: /stuttgart/benz-getraenkemarkt/
+url: /stuttgart/benz-getraenkemarkt-industriestrasse/
 shop: Getränke
 ---

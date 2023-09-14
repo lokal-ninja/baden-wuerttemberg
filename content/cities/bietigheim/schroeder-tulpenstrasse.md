@@ -1,5 +1,5 @@
 ---
 title: "Schröder"
-url: /bietigheim/schroeder/
+url: /bietigheim/schroeder-tulpenstrasse/
 shop: Bäckerei
 ---

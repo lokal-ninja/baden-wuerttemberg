@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /karlsruhe/deichmann/
+url: /karlsruhe/deichmann-durlacher-allee/
 shop: Schuhe
 ---

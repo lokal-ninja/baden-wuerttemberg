@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /freiburg-im-breisgau/dm/
+url: /freiburg-im-breisgau/dm-bismarckallee/
 shop: Drogerie
 ---

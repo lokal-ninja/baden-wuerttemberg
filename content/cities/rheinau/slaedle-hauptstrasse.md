@@ -1,5 +1,5 @@
 ---
 title: "s'Lädle"
-url: /rheinau/slaedle/
+url: /rheinau/slaedle-hauptstrasse/
 shop: Dorfladen
 ---

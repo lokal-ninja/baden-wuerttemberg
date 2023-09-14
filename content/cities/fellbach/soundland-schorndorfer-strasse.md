@@ -1,5 +1,5 @@
 ---
 title: "Soundland"
-url: /fellbach/soundland/
+url: /fellbach/soundland-schorndorfer-strasse/
 shop: Instrumente
 ---

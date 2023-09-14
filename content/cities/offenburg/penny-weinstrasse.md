@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /offenburg/penny/
+url: /offenburg/penny-weinstrasse/
 shop: Supermarkt
 ---

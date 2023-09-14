@@ -1,5 +1,5 @@
 ---
 title: "Zweirad Enz"
-url: /seelbach/zweirad-enz/
+url: /seelbach/zweirad-enz-schuttertalstrasse/
 shop: Fahrrad
 ---

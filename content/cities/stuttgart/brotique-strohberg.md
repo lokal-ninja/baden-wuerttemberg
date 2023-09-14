@@ -1,5 +1,5 @@
 ---
 title: "Brotique"
-url: /stuttgart/brotique/
+url: /stuttgart/brotique-strohberg/
 shop: Bäckerei
 ---

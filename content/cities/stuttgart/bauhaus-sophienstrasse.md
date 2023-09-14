@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /stuttgart/bauhaus/
+url: /stuttgart/bauhaus-sophienstrasse/
 shop: Baumarkt
 ---

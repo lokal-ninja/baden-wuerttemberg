@@ -1,5 +1,5 @@
 ---
 title: "Radschopf"
-url: /offenburg/radschopf/
+url: /offenburg/radschopf-bellenwaldstrasse/
 shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mildenberger"
-url: /fellbach/mildenberger/
+url: /fellbach/mildenberger-fellbacher-strasse/
 shop: Bäckerei
 ---

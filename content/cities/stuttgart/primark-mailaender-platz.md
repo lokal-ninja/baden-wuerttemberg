@@ -1,5 +1,5 @@
 ---
 title: "Primark"
-url: /stuttgart/primark/
+url: /stuttgart/primark-mailaender-platz/
 shop: Kleidung
 ---

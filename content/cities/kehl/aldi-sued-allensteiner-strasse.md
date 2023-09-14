@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /kehl/aldi-sued/
+url: /kehl/aldi-sued-allensteiner-strasse/
 shop: Supermarkt
 ---

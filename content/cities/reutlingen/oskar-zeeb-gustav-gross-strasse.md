@@ -1,5 +1,5 @@
 ---
 title: "Oskar Zeeb"
-url: /reutlingen/oskar-zeeb/
+url: /reutlingen/oskar-zeeb-gustav-gross-strasse/
 shop: Metzgerei
 ---

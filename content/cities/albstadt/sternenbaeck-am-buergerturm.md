@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /albstadt/sternenbaeck/
+url: /albstadt/sternenbaeck-am-buergerturm/
 shop: Bäckerei
 ---

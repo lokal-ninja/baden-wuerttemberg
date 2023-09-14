@@ -1,5 +1,5 @@
 ---
 title: "Kettinger"
-url: /leinfelden-echterdingen/kettinger/
+url: /leinfelden-echterdingen/kettinger-bernhaeuser-strasse/
 shop: Bäckerei
 ---

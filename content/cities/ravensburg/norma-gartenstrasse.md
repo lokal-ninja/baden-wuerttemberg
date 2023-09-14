@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /ravensburg/norma/
+url: /ravensburg/norma-gartenstrasse/
 shop: Supermarkt
 ---

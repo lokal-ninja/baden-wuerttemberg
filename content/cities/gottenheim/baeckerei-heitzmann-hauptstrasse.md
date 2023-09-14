@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Heitzmann"
-url: /gottenheim/baeckerei-heitzmann/
+url: /gottenheim/baeckerei-heitzmann-hauptstrasse/
 shop: Bäckerei
 ---

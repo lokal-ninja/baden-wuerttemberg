@@ -1,5 +1,5 @@
 ---
 title: "K&U Bäckerei"
-url: /kehl/kundu-baeckerei/
+url: /kehl/kundu-baeckerei-roemerstrasse/
 shop: Bäckerei
 ---

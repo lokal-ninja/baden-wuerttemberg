@@ -1,5 +1,5 @@
 ---
 title: "Optikus"
-url: /reutlingen/optikus/
+url: /reutlingen/optikus-im-dorf/
 shop: Hörgeräte
 ---

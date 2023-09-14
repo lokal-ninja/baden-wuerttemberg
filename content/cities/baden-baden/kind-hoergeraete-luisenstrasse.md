@@ -1,5 +1,5 @@
 ---
 title: "Kind Hörgeräte"
-url: /baden-baden/kind-hoergeraete/
+url: /baden-baden/kind-hoergeraete-luisenstrasse/
 shop: Hörgeräte
 ---

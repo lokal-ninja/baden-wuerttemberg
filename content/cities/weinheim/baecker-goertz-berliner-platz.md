@@ -1,5 +1,5 @@
 ---
 title: "Bäcker Görtz"
-url: /weinheim/baecker-goertz/
+url: /weinheim/baecker-goertz-berliner-platz/
 shop: Bäckerei
 ---

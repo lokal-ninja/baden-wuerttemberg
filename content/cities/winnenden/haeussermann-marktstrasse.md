@@ -1,5 +1,5 @@
 ---
 title: "Häussermann"
-url: /winnenden/haeussermann/
+url: /winnenden/haeussermann-marktstrasse/
 shop: Haushaltsartikel
 ---

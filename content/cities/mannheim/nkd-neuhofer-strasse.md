@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /mannheim/nkd/
+url: /mannheim/nkd-neuhofer-strasse/
 shop: Kleidung
 ---

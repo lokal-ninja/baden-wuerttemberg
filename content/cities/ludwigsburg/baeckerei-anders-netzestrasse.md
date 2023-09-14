@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Anders"
-url: /ludwigsburg/baeckerei-anders/
+url: /ludwigsburg/baeckerei-anders-netzestrasse/
 shop: Bäckerei
 ---

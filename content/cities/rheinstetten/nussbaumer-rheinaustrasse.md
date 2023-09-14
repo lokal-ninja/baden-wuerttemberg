@@ -1,5 +1,5 @@
 ---
 title: "Nussbaumer"
-url: /rheinstetten/nussbaumer/
+url: /rheinstetten/nussbaumer-rheinaustrasse/
 shop: Bäckerei
 ---

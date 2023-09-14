@@ -1,5 +1,5 @@
 ---
 title: "Bilharz"
-url: /kenzingen/bilharz/
+url: /kenzingen/bilharz-hauptstrasse/
 shop: Bäckerei
 ---

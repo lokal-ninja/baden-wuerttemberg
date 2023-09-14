@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /bad-wimpfen/rewe/
+url: /bad-wimpfen/rewe-bruehlstrasse/
 shop: Einkaufszentrum
 ---

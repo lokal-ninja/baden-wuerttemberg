@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /aalen/dm/
+url: /aalen/dm-daimlerstrasse/
 shop: Drogerie
 ---

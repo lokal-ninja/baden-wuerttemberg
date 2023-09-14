@@ -1,5 +1,5 @@
 ---
 title: "Heitzmann"
-url: /loerrach/heitzmann/
+url: /loerrach/heitzmann-basler-strasse/
 shop: Bäckerei
 ---

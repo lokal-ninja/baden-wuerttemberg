@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /jettingen/sehne/
+url: /jettingen/sehne-heilbergstrasse/
 shop: Bäckerei
 ---

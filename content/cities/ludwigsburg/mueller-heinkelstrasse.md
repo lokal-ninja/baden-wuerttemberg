@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /ludwigsburg/mueller/
+url: /ludwigsburg/mueller-heinkelstrasse/
 shop: Drogerie
 ---

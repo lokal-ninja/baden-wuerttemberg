@@ -1,5 +1,5 @@
 ---
 title: "Sailer"
-url: /stuttgart/sailer/
+url: /stuttgart/sailer-wildunger-strasse/
 shop: Bäckerei
 ---

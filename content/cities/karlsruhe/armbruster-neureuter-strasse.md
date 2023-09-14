@@ -1,5 +1,5 @@
 ---
 title: "Armbruster"
-url: /karlsruhe/armbruster/
+url: /karlsruhe/armbruster-neureuter-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Übele"
-url: /aspach/uebele/
+url: /aspach/uebele-boschstrasse/
 shop: Bäckerei
 ---

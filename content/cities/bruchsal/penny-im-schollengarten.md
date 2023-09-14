@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /bruchsal/penny/
+url: /bruchsal/penny-im-schollengarten/
 shop: Supermarkt
 ---

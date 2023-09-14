@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /freiburg-im-breisgau/aldi-sued/
+url: /freiburg-im-breisgau/aldi-sued-schiffstrasse/
 shop: Supermarkt
 ---

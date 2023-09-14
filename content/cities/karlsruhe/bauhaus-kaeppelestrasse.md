@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /karlsruhe/bauhaus/
+url: /karlsruhe/bauhaus-kaeppelestrasse/
 shop: Baumarkt
 ---

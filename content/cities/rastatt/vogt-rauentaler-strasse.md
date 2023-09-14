@@ -1,5 +1,5 @@
 ---
 title: "Vogt"
-url: /rastatt/vogt/
+url: /rastatt/vogt-rauentaler-strasse/
 shop: Metzgerei
 ---

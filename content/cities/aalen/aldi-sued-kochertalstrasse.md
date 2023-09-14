@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /aalen/aldi-sued/
+url: /aalen/aldi-sued-kochertalstrasse/
 shop: Supermarkt
 ---

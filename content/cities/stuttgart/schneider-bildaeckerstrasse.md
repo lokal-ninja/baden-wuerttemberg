@@ -1,5 +1,5 @@
 ---
 title: "Schneider"
-url: /stuttgart/schneider/
+url: /stuttgart/schneider-bildaeckerstrasse/
 shop: Metzgerei
 ---

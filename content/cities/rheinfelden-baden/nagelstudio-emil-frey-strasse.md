@@ -1,5 +1,5 @@
 ---
 title: "Nagelstudio"
-url: /rheinfelden-baden/nagelstudio/
+url: /rheinfelden-baden/nagelstudio-emil-frey-strasse/
 shop: Kosmetik
 ---

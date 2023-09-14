@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /ostfildern/sehne/
+url: /ostfildern/sehne-2/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /mannheim/kik/
+url: /mannheim/kik-freiberger-ring/
 shop: Kleidung
 ---

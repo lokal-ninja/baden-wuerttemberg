@@ -1,5 +1,5 @@
 ---
 title: "sehne"
-url: /ditzingen/sehne/
+url: /ditzingen/sehne-marktstrasse/
 shop: Bäckerei
 ---

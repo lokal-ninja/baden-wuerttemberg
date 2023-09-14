@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /tuebingen/aldi-sued/
+url: /tuebingen/aldi-sued-josef-wochenmark-weg/
 shop: Supermarkt
 ---

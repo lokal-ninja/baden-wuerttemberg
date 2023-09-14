@@ -1,5 +1,5 @@
 ---
 title: "Mildenberger"
-url: /backnang/mildenberger/
+url: /backnang/mildenberger-sulzbacher-strasse-2/
 shop: Bäckerei
 ---

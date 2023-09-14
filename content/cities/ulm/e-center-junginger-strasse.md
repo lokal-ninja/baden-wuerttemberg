@@ -1,5 +1,5 @@
 ---
 title: "E-Center"
-url: /ulm/e-center/
+url: /ulm/e-center-junginger-strasse/
 shop: Supermarkt
 ---

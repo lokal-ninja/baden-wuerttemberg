@@ -1,5 +1,5 @@
 ---
 title: "Albietz"
-url: /wehr/albietz/
+url: /wehr/albietz-hauptstrasse/
 shop: Bäckerei
 ---

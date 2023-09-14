@@ -1,5 +1,5 @@
 ---
 title: "Trölsch"
-url: /stuttgart/troelsch/
+url: /stuttgart/troelsch-koestlinstrasse/
 shop: Bäckerei
 ---

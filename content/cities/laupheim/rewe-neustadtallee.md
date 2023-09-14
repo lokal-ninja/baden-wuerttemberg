@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /laupheim/rewe/
+url: /laupheim/rewe-neustadtallee/
 shop: Supermarkt
 ---

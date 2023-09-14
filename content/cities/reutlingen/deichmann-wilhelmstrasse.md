@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /reutlingen/deichmann/
+url: /reutlingen/deichmann-wilhelmstrasse/
 shop: Schuhe
 ---

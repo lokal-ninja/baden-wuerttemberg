@@ -1,5 +1,5 @@
 ---
 title: "smilhus"
-url: /stuttgart/smilhus/
+url: /stuttgart/smilhus-calwer-passage/
 shop: Raumausstattung
 ---

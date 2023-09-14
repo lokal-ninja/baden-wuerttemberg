@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Gebert"
-url: /bad-mergentheim/metzgerei-gebert/
+url: /bad-mergentheim/metzgerei-gebert-kirchstrasse/
 shop: Metzgerei
 ---

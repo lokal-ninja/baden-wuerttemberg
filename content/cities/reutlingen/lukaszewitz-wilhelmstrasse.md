@@ -1,5 +1,5 @@
 ---
 title: "Lukaszewitz"
-url: /reutlingen/lukaszewitz/
+url: /reutlingen/lukaszewitz-wilhelmstrasse/
 shop: Möbel
 ---

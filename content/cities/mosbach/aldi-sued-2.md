@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /mosbach/aldi-sued/
+url: /mosbach/aldi-sued-2/
 shop: Supermarkt
 ---

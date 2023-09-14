@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /mannheim/bauhaus/
+url: /mannheim/bauhaus-spreewaldallee/
 shop: Baumarkt
 ---

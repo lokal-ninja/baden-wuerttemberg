@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /stuttgart/hundm/
+url: /stuttgart/hundm-wildunger-strasse/
 shop: Kleidung
 ---

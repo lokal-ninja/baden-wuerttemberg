@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /stuttgart/sehne/
+url: /stuttgart/sehne-schemppstrasse/
 shop: Bäckerei
 ---

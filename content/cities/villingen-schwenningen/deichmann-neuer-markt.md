@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /villingen-schwenningen/deichmann/
+url: /villingen-schwenningen/deichmann-neuer-markt/
 shop: Schuhe
 ---

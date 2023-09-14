@@ -1,5 +1,5 @@
 ---
 title: "Bonilla Pralinenmanufaktur"
-url: /herrenberg/bonilla-pralinenmanufaktur/
+url: /herrenberg/bonilla-pralinenmanufaktur-seestrasse/
 shop: Schokolade
 ---

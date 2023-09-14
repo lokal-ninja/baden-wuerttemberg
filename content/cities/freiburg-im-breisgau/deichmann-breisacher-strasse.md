@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /freiburg-im-breisgau/deichmann/
+url: /freiburg-im-breisgau/deichmann-breisacher-strasse/
 shop: Schuhe
 ---

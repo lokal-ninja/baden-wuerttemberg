@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /ludwigsburg/tedi/
+url: /ludwigsburg/tedi-marstallstrasse/
 shop: Kramladen
 ---

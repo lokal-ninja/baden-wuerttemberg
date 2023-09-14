@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /mannheim/woolworth/
+url: /mannheim/woolworth-2/
 shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Utz"
-url: /schwetzingen/utz/
+url: /schwetzingen/utz-hockenheimer-landstrasse/
 shop: Bäckerei
 ---

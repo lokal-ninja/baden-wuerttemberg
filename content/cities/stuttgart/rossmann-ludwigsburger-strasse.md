@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /stuttgart/rossmann/
+url: /stuttgart/rossmann-ludwigsburger-strasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /weinsberg/deichmann/
+url: /weinsberg/deichmann-heilbronner-strasse/
 shop: Schuhe
 ---

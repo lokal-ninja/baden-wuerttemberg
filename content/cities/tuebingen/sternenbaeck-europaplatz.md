@@ -1,5 +1,5 @@
 ---
 title: "Sternenbäck"
-url: /tuebingen/sternenbaeck/
+url: /tuebingen/sternenbaeck-europaplatz/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
-url: /ludwigsburg/rituals/
+url: /ludwigsburg/rituals-heinkelstrasse/
 shop: Kosmetik
 ---

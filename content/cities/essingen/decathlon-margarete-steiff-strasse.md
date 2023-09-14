@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
-url: /essingen/decathlon/
+url: /essingen/decathlon-margarete-steiff-strasse/
 shop: Sport
 ---

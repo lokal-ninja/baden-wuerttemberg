@@ -1,5 +1,5 @@
 ---
 title: "Osiander"
-url: /stuttgart/osiander/
+url: /stuttgart/osiander-marktplatz/
 shop: Bücher
 ---

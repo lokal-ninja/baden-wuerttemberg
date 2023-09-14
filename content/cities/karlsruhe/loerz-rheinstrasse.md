@@ -1,5 +1,5 @@
 ---
 title: "Lörz"
-url: /karlsruhe/loerz/
+url: /karlsruhe/loerz-rheinstrasse/
 shop: Bäckerei
 ---

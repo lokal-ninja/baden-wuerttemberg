@@ -1,5 +1,5 @@
 ---
 title: "Ena Gold"
-url: /karlsruhe/ena-gold/
+url: /karlsruhe/ena-gold-kaiserstrasse/
 shop: Schmuck
 ---

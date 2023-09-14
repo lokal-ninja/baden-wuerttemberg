@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /rastatt/netto-marken-discount/
+url: /rastatt/netto-marken-discount-murgtalstrasse/
 shop: Supermarkt
 ---

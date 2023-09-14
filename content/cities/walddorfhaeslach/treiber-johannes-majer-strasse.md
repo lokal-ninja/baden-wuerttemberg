@@ -1,5 +1,5 @@
 ---
 title: "Treiber"
-url: /walddorfhaeslach/treiber/
+url: /walddorfhaeslach/treiber-johannes-majer-strasse/
 shop: Bäckerei
 ---

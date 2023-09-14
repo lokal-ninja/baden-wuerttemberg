@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /stuttgart/fressnapf/
+url: /stuttgart/fressnapf-zabergaeustrasse/
 shop: Tiere
 ---

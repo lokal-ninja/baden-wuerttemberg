@@ -1,5 +1,5 @@
 ---
 title: "Schmälzle"
-url: /tuebingen/schmaelzle/
+url: /tuebingen/schmaelzle-eisenbahnstrasse/
 shop: Metzgerei
 ---

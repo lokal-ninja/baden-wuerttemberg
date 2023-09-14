@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Graf"
-url: /laupheim/metzgerei-graf/
+url: /laupheim/metzgerei-graf-radstrasse/
 shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /heidelberg/nahkauf/
+url: /heidelberg/nahkauf-breslauer-strasse/
 shop: Supermarkt
 ---

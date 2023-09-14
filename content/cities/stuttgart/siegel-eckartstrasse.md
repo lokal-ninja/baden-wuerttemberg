@@ -1,5 +1,5 @@
 ---
 title: "Siegel"
-url: /stuttgart/siegel/
+url: /stuttgart/siegel-eckartstrasse/
 shop: Bäckerei
 ---

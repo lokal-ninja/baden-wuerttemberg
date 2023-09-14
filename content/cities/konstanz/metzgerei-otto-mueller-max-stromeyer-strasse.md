@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Otto Müller"
-url: /konstanz/metzgerei-otto-mueller/
+url: /konstanz/metzgerei-otto-mueller-max-stromeyer-strasse/
 shop: Metzgerei
 ---

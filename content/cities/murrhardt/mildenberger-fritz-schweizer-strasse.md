@@ -1,5 +1,5 @@
 ---
 title: "Mildenberger"
-url: /murrhardt/mildenberger/
+url: /murrhardt/mildenberger-fritz-schweizer-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /pforzheim/kaufland/
+url: /pforzheim/kaufland-hohwiesenweg/
 shop: Supermarkt
 ---

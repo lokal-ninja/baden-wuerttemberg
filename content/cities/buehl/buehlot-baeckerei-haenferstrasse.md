@@ -1,5 +1,5 @@
 ---
 title: "Bühlot Bäckerei"
-url: /buehl/buehlot-baeckerei/
+url: /buehl/buehlot-baeckerei-haenferstrasse/
 shop: Bäckerei
 ---

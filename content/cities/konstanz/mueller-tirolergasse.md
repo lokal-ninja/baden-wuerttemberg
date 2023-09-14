@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /konstanz/mueller/
+url: /konstanz/mueller-tirolergasse/
 shop: Spielzeug
 ---

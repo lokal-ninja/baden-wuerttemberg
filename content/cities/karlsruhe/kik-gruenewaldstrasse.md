@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /karlsruhe/kik/
+url: /karlsruhe/kik-gruenewaldstrasse/
 shop: Kleidung
 ---

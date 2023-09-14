@@ -1,5 +1,5 @@
 ---
 title: "Baier"
-url: /herrenberg/baier/
+url: /herrenberg/baier-hewlett-packard-strasse/
 shop: Bäckerei
 ---

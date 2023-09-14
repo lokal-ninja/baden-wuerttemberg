@@ -1,5 +1,5 @@
 ---
 title: "ZWO Baumaschinen-Service"
-url: /oberhausen-rheinhausen/zwo-baumaschinen-service/
+url: /oberhausen-rheinhausen/zwo-baumaschinen-service-hoeber-und-mandelbaum-strasse/
 shop: Maschinen
 ---

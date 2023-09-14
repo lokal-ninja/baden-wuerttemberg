@@ -1,5 +1,5 @@
 ---
 title: "Trölsch"
-url: /gerlingen/troelsch/
+url: /gerlingen/troelsch-hauptstrasse/
 shop: Bäckerei
 ---

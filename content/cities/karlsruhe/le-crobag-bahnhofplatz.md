@@ -1,5 +1,5 @@
 ---
 title: "Le Crobag"
-url: /karlsruhe/le-crobag/
+url: /karlsruhe/le-crobag-bahnhofplatz/
 shop: Bäckerei
 ---

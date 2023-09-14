@@ -1,5 +1,5 @@
 ---
 title: "Padeffke"
-url: /reutlingen/padeffke/
+url: /reutlingen/padeffke-albtorplatz/
 shop: Bäckerei
 ---

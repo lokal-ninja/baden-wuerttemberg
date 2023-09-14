@@ -1,5 +1,5 @@
 ---
 title: "Scholz Modelleisenbahnen"
-url: /heidenheim-an-der-brenz/scholz-modelleisenbahnen/
+url: /heidenheim-an-der-brenz/scholz-modelleisenbahnen-clichystrasse/
 shop: Spielzeug
 ---

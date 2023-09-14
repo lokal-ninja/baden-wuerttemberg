@@ -1,5 +1,5 @@
 ---
 title: "IPF-Treff"
-url: /bopfingen/ipf-treff/
+url: /bopfingen/ipf-treff-ipftreff/
 shop: Einkaufszentrum
 ---

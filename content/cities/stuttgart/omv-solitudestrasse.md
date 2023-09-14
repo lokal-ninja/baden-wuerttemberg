@@ -1,5 +1,5 @@
 ---
 title: "OMV"
-url: /stuttgart/omv/
+url: /stuttgart/omv-solitudestrasse/
 shop: Kiosk
 ---

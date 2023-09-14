@@ -1,5 +1,5 @@
 ---
 title: "Keim"
-url: /tuebingen/keim/
+url: /tuebingen/keim-mohlstrasse/
 shop: Bäckerei
 ---

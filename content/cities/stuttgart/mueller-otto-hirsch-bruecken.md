@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /stuttgart/mueller/
+url: /stuttgart/mueller-otto-hirsch-bruecken/
 shop: Drogerie
 ---

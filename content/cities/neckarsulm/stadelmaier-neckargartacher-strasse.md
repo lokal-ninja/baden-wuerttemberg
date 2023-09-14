@@ -1,5 +1,5 @@
 ---
 title: "Stadelmaier"
-url: /neckarsulm/stadelmaier/
+url: /neckarsulm/stadelmaier-neckargartacher-strasse/
 shop: Autohaus
 ---

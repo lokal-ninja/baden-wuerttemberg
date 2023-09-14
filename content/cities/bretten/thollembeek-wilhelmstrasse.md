@@ -1,5 +1,5 @@
 ---
 title: "Thollembeek"
-url: /bretten/thollembeek/
+url: /bretten/thollembeek-wilhelmstrasse/
 shop: Bäckerei
 ---

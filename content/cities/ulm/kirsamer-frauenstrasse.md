@@ -1,5 +1,5 @@
 ---
 title: "Kirsamer"
-url: /ulm/kirsamer/
+url: /ulm/kirsamer-frauenstrasse/
 shop: Bäckerei
 ---

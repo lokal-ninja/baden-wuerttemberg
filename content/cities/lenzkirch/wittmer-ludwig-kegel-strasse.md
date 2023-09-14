@@ -1,5 +1,5 @@
 ---
 title: "Wittmer"
-url: /lenzkirch/wittmer/
+url: /lenzkirch/wittmer-ludwig-kegel-strasse/
 shop: Autohaus
 ---

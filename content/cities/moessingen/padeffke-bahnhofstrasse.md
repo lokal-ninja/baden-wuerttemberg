@@ -1,5 +1,5 @@
 ---
 title: "Padeffke"
-url: /moessingen/padeffke/
+url: /moessingen/padeffke-bahnhofstrasse/
 shop: Bäckerei
 ---

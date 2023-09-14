@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /bruchsal/dm/
+url: /bruchsal/dm-kammerforststrasse/
 shop: Drogerie
 ---

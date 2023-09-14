@@ -1,5 +1,5 @@
 ---
 title: "Kettinger"
-url: /filderstadt/kettinger/
+url: /filderstadt/kettinger-harthaeuser-hauptstrasse/
 shop: Bäckerei
 ---

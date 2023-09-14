@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /pforzheim/penny/
+url: /pforzheim/penny-holzgartenstrasse/
 shop: Supermarkt
 ---

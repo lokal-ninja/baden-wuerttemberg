@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /konstanz/dm/
+url: /konstanz/dm-wollmatinger-strasse/
 shop: Drogerie
 ---

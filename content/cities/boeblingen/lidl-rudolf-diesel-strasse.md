@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /boeblingen/lidl/
+url: /boeblingen/lidl-rudolf-diesel-strasse/
 shop: Supermarkt
 ---

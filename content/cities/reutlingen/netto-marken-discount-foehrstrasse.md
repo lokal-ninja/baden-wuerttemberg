@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /reutlingen/netto-marken-discount/
+url: /reutlingen/netto-marken-discount-foehrstrasse/
 shop: Supermarkt
 ---

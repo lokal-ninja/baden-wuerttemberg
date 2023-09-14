@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /kornwestheim/rewe/
+url: /kornwestheim/rewe-neckarstrasse/
 shop: Supermarkt
 ---

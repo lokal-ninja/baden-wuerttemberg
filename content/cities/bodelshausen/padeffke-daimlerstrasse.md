@@ -1,5 +1,5 @@
 ---
 title: "Padeffke"
-url: /bodelshausen/padeffke/
+url: /bodelshausen/padeffke-daimlerstrasse/
 shop: Bäckerei
 ---

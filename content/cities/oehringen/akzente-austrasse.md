@@ -1,5 +1,5 @@
 ---
 title: "akzente"
-url: /oehringen/akzente/
+url: /oehringen/akzente-austrasse/
 shop: Kosmetik
 ---

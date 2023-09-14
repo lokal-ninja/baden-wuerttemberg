@@ -1,5 +1,5 @@
 ---
 title: "Lutz Automobile"
-url: /wilhelmsdorf/lutz-automobile/
+url: /wilhelmsdorf/lutz-automobile-rotaecker/
 shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sehne"
-url: /sindelfingen/sehne/
+url: /sindelfingen/sehne-bachstrasse/
 shop: Bäckerei
 ---

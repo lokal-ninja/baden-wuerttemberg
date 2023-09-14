@@ -1,5 +1,5 @@
 ---
 title: "Kottmann"
-url: /ottenbach/kottmann/
+url: /ottenbach/kottmann-kirchbuehlstrasse/
 shop: Getränke
 ---

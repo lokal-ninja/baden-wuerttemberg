@@ -1,5 +1,5 @@
 ---
 title: "Fahrradtreff"
-url: /denkendorf/fahrradtreff/
+url: /denkendorf/fahrradtreff-rechbergstrasse/
 shop: Fahrrad
 ---

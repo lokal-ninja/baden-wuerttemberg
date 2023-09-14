@@ -1,5 +1,5 @@
 ---
 title: "Wursthorn"
-url: /kirchzarten/wursthorn/
+url: /kirchzarten/wursthorn-wilhelm-schauenberg-strasse/
 shop: Autowerkstatt
 ---

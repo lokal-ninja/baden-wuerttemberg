@@ -1,5 +1,5 @@
 ---
 title: "Neff"
-url: /karlsruhe/neff/
+url: /karlsruhe/neff-werderstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wechselspiel"
-url: /neckarsulm/wechselspiel/
+url: /neckarsulm/wechselspiel-schindlerstrasse/
 shop: Schmuck
 ---

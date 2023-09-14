@@ -1,5 +1,5 @@
 ---
 title: "Cult"
-url: /offenburg/cult/
+url: /offenburg/cult-steinstrasse/
 shop: Kleidung
 ---

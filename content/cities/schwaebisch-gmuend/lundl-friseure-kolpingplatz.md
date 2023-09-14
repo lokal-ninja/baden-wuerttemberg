@@ -1,5 +1,5 @@
 ---
 title: "L&L Friseure"
-url: /schwaebisch-gmuend/lundl-friseure/
+url: /schwaebisch-gmuend/lundl-friseure-kolpingplatz/
 shop: Friseur
 ---

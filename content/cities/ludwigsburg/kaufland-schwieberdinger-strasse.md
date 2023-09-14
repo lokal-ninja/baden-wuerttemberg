@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /ludwigsburg/kaufland/
+url: /ludwigsburg/kaufland-schwieberdinger-strasse/
 shop: Supermarkt
 ---

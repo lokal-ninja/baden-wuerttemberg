@@ -1,5 +1,5 @@
 ---
 title: "Theurer"
-url: /mannheim/theurer/
+url: /mannheim/theurer-spinnereistrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mitterer"
-url: /heilbronn/mitterer/
+url: /heilbronn/mitterer-grossgartacher-strasse/
 shop: Bäckerei
 ---

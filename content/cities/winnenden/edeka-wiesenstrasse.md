@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /winnenden/edeka/
+url: /winnenden/edeka-wiesenstrasse/
 shop: Supermarkt
 ---

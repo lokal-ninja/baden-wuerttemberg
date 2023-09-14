@@ -1,5 +1,5 @@
 ---
 title: "Saturn"
-url: /karlsruhe/saturn/
+url: /karlsruhe/saturn-durlacher-allee/
 shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Friseur Style"
-url: /karlsruhe/friseur-style/
+url: /karlsruhe/friseur-style-karlstrasse/
 shop: Friseur
 ---

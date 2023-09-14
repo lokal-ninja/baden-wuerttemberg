@@ -1,5 +1,5 @@
 ---
 title: "Armbruster"
-url: /hausach/armbruster/
+url: /hausach/armbruster-eisenbahnstrasse/
 shop: Bäckerei
 ---

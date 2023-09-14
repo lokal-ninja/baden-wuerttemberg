@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /freiburg-im-breisgau/rewe/
+url: /freiburg-im-breisgau/rewe-schwarzwaldstrasse/
 shop: Supermarkt
 ---

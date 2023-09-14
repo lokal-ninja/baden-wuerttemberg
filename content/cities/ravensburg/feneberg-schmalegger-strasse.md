@@ -1,5 +1,5 @@
 ---
 title: "Feneberg"
-url: /ravensburg/feneberg/
+url: /ravensburg/feneberg-schmalegger-strasse/
 shop: Supermarkt
 ---

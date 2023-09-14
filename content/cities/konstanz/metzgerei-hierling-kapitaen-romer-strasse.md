@@ -1,5 +1,5 @@
 ---
 title: "Metzgerei Hierling"
-url: /konstanz/metzgerei-hierling/
+url: /konstanz/metzgerei-hierling-kapitaen-romer-strasse/
 shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /schorndorf/edeka/
+url: /schorndorf/edeka-wiesenstrasse/
 shop: Supermarkt
 ---

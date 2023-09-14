@@ -1,5 +1,5 @@
 ---
 title: "Alnatura"
-url: /ulm/alnatura/
+url: /ulm/alnatura-blaubeurer-strasse/
 shop: Supermarkt
 ---
