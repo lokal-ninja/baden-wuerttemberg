@@ -7,5 +7,5 @@ city: Stuttgart
 street: "Stuttgarter Straße"
 housenumber: 103
 phone: "+49 711 69970593"
-opening_hours: "Di-Mi 9:00-13:00,13:30-18:00; Do 10:00-14:00,15:00-20:00; Fr 9:00-13:00, 14:00-18:00; Sa 9:00-14:00; So,Mo off"
+opening_hours: "Tu-We 09:00-13:00,13:30-18:00; Th 10:00-14:00,15:00-20:00; Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00; Su,Mo off"
 website: "https://www.raupp-friseure.de/"

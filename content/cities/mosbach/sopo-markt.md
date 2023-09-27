@@ -1,5 +1,5 @@
 ---
-title: "SOPO Markt"
+title: "Sopo Markt"
 url: /mosbach/sopo-markt/
-shop: Lebensmittel
+shop: Kramladen
 ---

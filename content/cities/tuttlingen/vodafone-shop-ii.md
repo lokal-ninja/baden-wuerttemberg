@@ -1,5 +1,5 @@
 ---
-title: "vodafone shop II"
+title: "Vodafone shop II"
 url: /tuttlingen/vodafone-shop-ii/
-shop: Elektronik
+shop: Handy
 ---
