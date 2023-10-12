@@ -1,6 +1,6 @@
 ---
 title: Ringsheim
 url: /ringsheim/
-latitude: 48.249
-longitude: 7.769
+latitude: 48.247
+longitude: 7.778
 ---

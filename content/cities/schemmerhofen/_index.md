@@ -1,6 +1,6 @@
 ---
 title: Schemmerhofen
 url: /schemmerhofen/
-latitude: 48.167
+latitude: 48.168
 longitude: 9.789
 ---

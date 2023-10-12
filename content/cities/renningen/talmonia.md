@@ -1,5 +1,5 @@
 ---
 title: "Talmonia"
 url: /renningen/talmonia/
-shop: Allgemein
+shop: Kleidung
 ---
