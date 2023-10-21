@@ -1,6 +1,6 @@
 ---
 title: Grosselfingen
 url: /grosselfingen/
-latitude: 48.329
+latitude: 48.327
 longitude: 8.893
 ---

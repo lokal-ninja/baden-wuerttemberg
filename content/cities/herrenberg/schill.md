@@ -1,5 +1,5 @@
 ---
 title: "Schill"
 url: /herrenberg/schill/
-shop: Metzgerei
+shop: Leerstehend
 ---

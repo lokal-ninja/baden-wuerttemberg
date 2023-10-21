@@ -1,5 +1,5 @@
 ---
 title: "Weltladen"
 url: /bad-wimpfen/weltladen/
-shop: Supermarkt
+shop: Gebrauchtwaren
 ---
