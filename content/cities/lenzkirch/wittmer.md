@@ -1,5 +1,5 @@
 ---
 title: "Wittmer"
 url: /lenzkirch/wittmer/
-shop: Eisenwaren
+shop: Autohaus
 ---
