@@ -1,6 +1,6 @@
 ---
 title: Bietigheim
 url: /bietigheim/
-latitude: 48.914
-longitude: 8.25
+latitude: 48.913
+longitude: 8.249
 ---

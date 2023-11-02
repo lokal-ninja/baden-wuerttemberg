@@ -1,5 +1,5 @@
 ---
 title: "Butlers"
 url: /tuebingen/butlers/
-shop: Haushaltsartikel
+shop: Raumausstattung
 ---

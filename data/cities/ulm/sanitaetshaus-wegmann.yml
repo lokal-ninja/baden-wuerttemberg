@@ -7,5 +7,5 @@ city: Ulm
 street: "Frauenstraße"
 housenumber: 4
 phone: "+49 731 40388058"
-opening_hours: "Mo-Th 09:00-13:00,13:30-18:00; Fr 09:00-15:00"
+opening_hours: "Mo-Tu,Th 09:00-13:00,13:30-18:00; We,Fr 09:00-14:00; Sa-Su off"
 website: "http://www.sanitaetshaus-wegmann.de/"
