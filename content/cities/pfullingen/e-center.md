@@ -1,5 +1,5 @@
 ---
-title: "E center"
+title: "E-Center"
 url: /pfullingen/e-center/
-shop: Getränke
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Schrozberg
 url: /schrozberg/
-latitude: 49.345
-longitude: 9.98
+latitude: 49.338
+longitude: 9.978
 ---

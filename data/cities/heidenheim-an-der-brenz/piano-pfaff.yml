@@ -7,5 +7,5 @@ city: Heidenheim an der Brenz
 street: "Wilhelmstraße"
 housenumber: 28b
 phone: "+49 7321 45663"
-opening_hours: "Mo-Fr 14:00-18:00; Sa 10:00-13:00; PH off"
+opening_hours: "Mo,Tu,Th,Fr 14:00-18:00; Sa 10:00-13:00; PH,We off"
 website: "https://www.piano-pfaff.de/"
