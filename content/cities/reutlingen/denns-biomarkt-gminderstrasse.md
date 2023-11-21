@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denns BioMarkt"
 url: /reutlingen/denns-biomarkt-gminderstrasse/
 shop: Supermarkt
 ---

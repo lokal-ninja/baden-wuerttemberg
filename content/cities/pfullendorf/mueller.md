@@ -1,5 +1,5 @@
 ---
 title: "Müller"
 url: /pfullendorf/mueller/
-shop: Supermarkt
+shop: Drogerie
 ---

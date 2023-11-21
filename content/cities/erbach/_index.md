@@ -1,6 +1,6 @@
 ---
 title: Erbach
 url: /erbach/
-latitude: 48.325
-longitude: 9.892
+latitude: 48.329
+longitude: 9.901
 ---
