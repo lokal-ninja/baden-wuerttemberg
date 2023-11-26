@@ -7,5 +7,5 @@ city: Konstanz
 street: "Brauneggerstraße"
 housenumber: 60
 phone: "+49 7531 36 84 77"
-opening_hours: "Mo-Th 09:00-18:00"
+opening_hours: "Mo,Sa-Su off; Tu-Fr 16:00-18:00"
 website: "https://stahlross-kn.de/"
