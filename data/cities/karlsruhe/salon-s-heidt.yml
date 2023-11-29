@@ -7,5 +7,5 @@ city: Karlsruhe
 street: "Bernsteinstraße"
 housenumber: 6
 phone: "+49 721 573124"
-opening_hours: "Mo-Fr 08:30-12:00; 13:30-18:00; Sa 08:30-13:00"
+opening_hours: "Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:30-13:00"
 website: "https://friseur-heidt-karlsruhe.alcina.de/"

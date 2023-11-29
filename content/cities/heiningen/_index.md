@@ -1,6 +1,6 @@
 ---
 title: Heiningen
 url: /heiningen/
-latitude: 48.661
-longitude: 9.651
+latitude: 48.66
+longitude: 9.645
 ---
