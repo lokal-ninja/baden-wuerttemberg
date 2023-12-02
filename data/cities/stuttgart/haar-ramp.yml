@@ -1,11 +1,11 @@
-id: 1496010289
-type: node
-latitude: 48.78305
-longitude: 9.18052
+id: 436971269
+type: way
+latitude: 48.78318
+longitude: 9.18054
 postcode: "70173"
 city: Stuttgart
-street: "Arnulf-Klett-Platz"
-housenumber: 3
+street: "Klett-Passage"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.haarramp.de/"
+opening_hours: "Mo-Fr 09:00-21:00, Sa 09:00-19:00"
+website: "http://www.haarramp.de/"
