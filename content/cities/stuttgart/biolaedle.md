@@ -1,5 +1,5 @@
 ---
 title: "Biolädle"
 url: /stuttgart/biolaedle/
-shop: Bioladen
+shop: Lebensmittel
 ---
