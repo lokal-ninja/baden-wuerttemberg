@@ -1,5 +1,5 @@
 ---
 title: "Werner Agrar- u. Gartentechnik"
 url: /durbach/werner-agrar-u-gartentechnik/
-shop: Autowerkstatt
+shop: Landwirtschaftlich
 ---
