@@ -1,6 +1,6 @@
 ---
 title: Bad Wildbad
 url: /bad-wildbad/
-latitude: 48.757
-longitude: 8.552
+latitude: 48.751
+longitude: 8.55
 ---

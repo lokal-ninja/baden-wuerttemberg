@@ -1,5 +1,5 @@
 ---
-title: "Kik"
+title: "KiK"
 url: /gaertringen/kik/
 shop: Kleidung
 ---
