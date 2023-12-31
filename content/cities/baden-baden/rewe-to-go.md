@@ -1,5 +1,5 @@
 ---
-title: "Rewe To Go"
+title: "REWE To Go"
 url: /baden-baden/rewe-to-go/
-shop: Supermarkt
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adler"
 url: /emmendingen/adler/
-shop: Schuhe
+shop: Kleidung
 ---

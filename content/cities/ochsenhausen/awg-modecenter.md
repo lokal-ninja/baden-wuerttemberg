@@ -1,5 +1,5 @@
 ---
-title: "AWG Modecenter"
+title: "AWG-Modecenter"
 url: /ochsenhausen/awg-modecenter/
 shop: Kleidung
 ---

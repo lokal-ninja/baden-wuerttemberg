@@ -1,6 +1,6 @@
 ---
 title: Denkingen
 url: /denkingen/
-latitude: 48.107
-longitude: 8.737
+latitude: 47.896
+longitude: 9.306
 ---
