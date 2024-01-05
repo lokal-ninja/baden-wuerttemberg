@@ -1,6 +1,6 @@
 ---
 title: Überlingen
 url: /ueberlingen/
-latitude: 47.795
-longitude: 9.198
+latitude: 47.776
+longitude: 9.19
 ---

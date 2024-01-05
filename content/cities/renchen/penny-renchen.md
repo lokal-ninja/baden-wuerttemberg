@@ -1,5 +1,5 @@
 ---
-title: "Penny Renchen"
+title: "PENNY Renchen"
 url: /renchen/penny-renchen/
 shop: Supermarkt
 ---
