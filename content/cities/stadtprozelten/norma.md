@@ -1,5 +1,5 @@
 ---
-title: "Norma"
+title: "NORMA"
 url: /stadtprozelten/norma/
 shop: Supermarkt
 ---
