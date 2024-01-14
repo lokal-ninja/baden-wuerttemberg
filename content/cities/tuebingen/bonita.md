@@ -1,5 +1,5 @@
 ---
-title: "Bonita"
+title: "BONITA"
 url: /tuebingen/bonita/
 shop: Kleidung
 ---

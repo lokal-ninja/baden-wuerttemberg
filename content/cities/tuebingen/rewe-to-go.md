@@ -1,5 +1,5 @@
 ---
-title: "Rewe To Go"
+title: "REWE To Go"
 url: /tuebingen/rewe-to-go/
 shop: Lebensmittel
 ---

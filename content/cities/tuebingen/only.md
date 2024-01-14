@@ -1,5 +1,5 @@
 ---
-title: "Only"
+title: "ONLY"
 url: /tuebingen/only/
 shop: Kleidung
 ---
