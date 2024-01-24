@@ -1,6 +1,6 @@
 ---
 title: Hinterzarten
 url: /hinterzarten/
-latitude: 47.907
-longitude: 8.103
+latitude: 47.905
+longitude: 8.106
 ---

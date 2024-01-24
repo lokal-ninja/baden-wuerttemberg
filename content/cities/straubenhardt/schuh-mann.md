@@ -1,5 +1,5 @@
 ---
-title: "Schuh Mann"
+title: "Schuh-Mann"
 url: /straubenhardt/schuh-mann/
 shop: Schuhe
 ---
