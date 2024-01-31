@@ -1,5 +1,5 @@
 ---
-title: "Tante-m"
+title: "Tante-M"
 url: /gruibingen/tante-m/
-shop: Supermarkt
+shop: Lebensmittel
 ---

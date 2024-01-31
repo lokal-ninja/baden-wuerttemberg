@@ -1,5 +1,5 @@
 ---
-title: "Kohlers E Center"
+title: "Kohlers E-Center"
 url: /kehl/kohlers-e-center/
 shop: Supermarkt
 ---
