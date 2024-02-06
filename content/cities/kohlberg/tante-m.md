@@ -1,5 +1,5 @@
 ---
-title: "Tante M"
+title: "Tante-M"
 url: /kohlberg/tante-m/
-shop: Lebensmittel
+shop: Supermarkt
 ---

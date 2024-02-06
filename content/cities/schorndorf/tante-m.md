@@ -1,5 +1,5 @@
 ---
-title: "Tante-m"
+title: "Tante-M"
 url: /schorndorf/tante-m/
-shop: Lebensmittel
+shop: Supermarkt
 ---

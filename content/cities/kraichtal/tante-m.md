@@ -1,5 +1,5 @@
 ---
-title: "Tante M"
+title: "Tante-M"
 url: /kraichtal/tante-m/
-shop: Lebensmittel
+shop: Supermarkt
 ---
