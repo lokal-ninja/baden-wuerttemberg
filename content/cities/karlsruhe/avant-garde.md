@@ -1,5 +1,5 @@
 ---
 title: "Avant Garde"
 url: /karlsruhe/avant-garde/
-shop: Modehaus
+shop: Kleidung
 ---

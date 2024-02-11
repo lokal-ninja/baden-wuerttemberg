@@ -1,6 +1,6 @@
 ---
 title: Wutöschingen
 url: /wutoeschingen/
-latitude: 47.642
-longitude: 8.356
+latitude: 47.637
+longitude: 8.342
 ---
