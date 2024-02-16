@@ -1,6 +1,6 @@
 ---
 title: Schönaich
 url: /schoenaich/
-latitude: 48.659
-longitude: 9.063
+latitude: 48.665
+longitude: 9.057
 ---
