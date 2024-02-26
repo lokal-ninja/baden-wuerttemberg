@@ -1,6 +1,6 @@
 ---
 title: Hilzingen
 url: /hilzingen/
-latitude: 47.766
-longitude: 8.784
+latitude: 47.765
+longitude: 8.78
 ---

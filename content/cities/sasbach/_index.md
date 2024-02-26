@@ -2,5 +2,5 @@
 title: Sasbach
 url: /sasbach/
 latitude: 48.647
-longitude: 8.087
+longitude: 8.088
 ---
