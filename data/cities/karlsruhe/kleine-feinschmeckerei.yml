@@ -7,5 +7,5 @@ city: Karlsruhe
 street: "Amthausstraße"
 housenumber: 5
 phone: "+49 157 88475257"
-opening_hours: "Mo 10:30-14:00; Tu-Fr 09:30-18:00; Sa 09:00-14:00; PH,Su off"
+opening_hours: "Mo,We,Sa 09:30-14:00; Tu,Th,Fr 09:30-18:00"
 website: "http://www.kleinefeinschmeckerei.de/"

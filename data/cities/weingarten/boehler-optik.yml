@@ -7,5 +7,5 @@ city: Weingarten
 street: "Karlstraße"
 housenumber: 25
 phone: "+49 751 43654"
-opening_hours: "We 08:30-12:30; Sa 09:00-13:00; Mo,Tu,Fr 09:00-13:00,14:00-18:00; Th 09:00-13:00,14:00-19:00"
+opening_hours: "We 08:30-12:30; Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; PH,Sa,Su off"
 website: ""
