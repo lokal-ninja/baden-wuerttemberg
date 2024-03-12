@@ -1,5 +1,5 @@
 ---
-title: "WITT Weiden"
+title: "Witt Weiden"
 url: /rastatt/witt-weiden/
 shop: Kleidung
 ---

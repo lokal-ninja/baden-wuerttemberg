@@ -1,6 +1,6 @@
 ---
 title: Freudenstadt
 url: /freudenstadt/
-latitude: 48.452
-longitude: 8.473
+latitude: 48.462
+longitude: 8.413
 ---

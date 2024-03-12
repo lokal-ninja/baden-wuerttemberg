@@ -7,5 +7,5 @@ city: Schorndorf
 street: "Schulstraße"
 housenumber: 37
 phone: "+49 7181 5458"
-opening_hours: "Mo,Tu,Sa 09:00-14:00; We-Fr 09:00-18:00"
+opening_hours: "Mo,Tu,We, Sa 09:00-14:00; Th-Fr 09:00-18:00"
 website: "https://www.greiner-gaertnerei.de"
