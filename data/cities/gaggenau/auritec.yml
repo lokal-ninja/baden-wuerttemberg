@@ -7,5 +7,5 @@ city: Gaggenau
 street: "Hauptstraße"
 housenumber: 30b
 phone: "+49 7225 2274"
-opening_hours: "Mo-Fr 09:00-13:00 + 14:00-18:00"
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
 website: "https://www.auritec-gaggenau.de/"
