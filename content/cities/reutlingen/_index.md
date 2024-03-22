@@ -1,6 +1,6 @@
 ---
 title: Reutlingen
 url: /reutlingen/
-latitude: 48.493
-longitude: 9.217
+latitude: 48.519
+longitude: 9.228
 ---

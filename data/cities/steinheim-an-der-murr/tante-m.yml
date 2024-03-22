@@ -1,11 +1,11 @@
-id: 195632053
-type: way
-latitude: 48.98093
-longitude: 9.24207
+id: 1586592192
+type: node
+latitude: 48.98044
+longitude: 9.28894
 postcode: "71711"
 city: Steinheim an der Murr
-street: "Hauptstraße"
-housenumber: 60
+street: "Kirchstraße"
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://tante-m.shop"
+opening_hours: "Mo-Su,PH 06:00-22:00"
+website: ""
