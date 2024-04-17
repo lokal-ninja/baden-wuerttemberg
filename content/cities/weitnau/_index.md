@@ -1,6 +1,6 @@
 ---
 title: Weitnau
 url: /weitnau/
-latitude: 47.651
+latitude: 47.652
 longitude: 10.084
 ---
