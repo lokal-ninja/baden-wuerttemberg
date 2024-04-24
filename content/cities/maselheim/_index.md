@@ -1,6 +1,6 @@
 ---
 title: Maselheim
 url: /maselheim/
-latitude: 48.153
-longitude: 9.851
+latitude: 48.136
+longitude: 9.882
 ---

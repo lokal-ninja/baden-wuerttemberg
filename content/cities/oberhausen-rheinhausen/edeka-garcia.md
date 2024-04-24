@@ -1,5 +1,5 @@
 ---
-title: "Edeka Garcia"
+title: "EDEKA Garcia"
 url: /oberhausen-rheinhausen/edeka-garcia/
-shop: Bäckerei
+shop: Supermarkt
 ---

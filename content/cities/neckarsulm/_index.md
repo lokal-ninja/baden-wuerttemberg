@@ -1,6 +1,6 @@
 ---
 title: Neckarsulm
 url: /neckarsulm/
-latitude: 49.211
-longitude: 9.254
+latitude: 49.197
+longitude: 9.2
 ---

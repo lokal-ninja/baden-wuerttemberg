@@ -1,5 +1,5 @@
 ---
 title: "Zweirad Reinwald"
 url: /salem/zweirad-reinwald/
-shop: Sport
+shop: Fahrrad
 ---

@@ -7,5 +7,5 @@ city: Mannheim
 street: "Meerfeldstraße"
 housenumber: 67
 phone: "+49 621 82838583"
-opening_hours: "Mo-Sa 10:00-13:00; Mo-Fr 15:00-18:00"
+opening_hours: "Mo-Sa 10:00-13:00; Mo-Tu 15:00-18:00; Th-Fr 15:00-18:00"
 website: "https://www.amata-lana.de/"

@@ -1,6 +1,6 @@
 ---
 title: Gerstetten
 url: /gerstetten/
-latitude: 48.623
-longitude: 10.017
+latitude: 48.624
+longitude: 10.02
 ---
