@@ -1,11 +1,11 @@
-id: 4886415505
+id: 4886415500
 type: node
-latitude: 48.77548
-longitude: 9.18111
+latitude: 48.77555
+longitude: 9.18086
 postcode: "70173"
 city: Stuttgart
 street: "Karlstraße"
-housenumber: 3
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.steiff.com"
+opening_hours: "Mo-We 10:00-19:00; Th-Sa 10:00-20:00"
+website: ""
