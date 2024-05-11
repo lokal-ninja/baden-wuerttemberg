@@ -1,5 +1,5 @@
 ---
 title: "MAevent"
 url: /mannheim/maevent/
-shop: Allgemein
+shop: Anime
 ---

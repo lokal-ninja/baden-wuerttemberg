@@ -1,6 +1,6 @@
 ---
 title: Kaisersbach
 url: /kaisersbach/
-latitude: 48.911
-longitude: 9.652
+latitude: 48.9
+longitude: 9.694
 ---
