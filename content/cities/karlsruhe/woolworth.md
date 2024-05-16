@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
 url: /karlsruhe/woolworth/
-shop: Kramladen
+shop: Warenhaus
 ---

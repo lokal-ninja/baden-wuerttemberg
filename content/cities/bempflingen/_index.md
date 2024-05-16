@@ -1,6 +1,6 @@
 ---
 title: Bempflingen
 url: /bempflingen/
-latitude: 48.571
-longitude: 9.268
+latitude: 48.573
+longitude: 9.266
 ---
