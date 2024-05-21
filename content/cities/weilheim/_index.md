@@ -1,6 +1,6 @@
 ---
 title: Weilheim
 url: /weilheim/
-latitude: 47.659
-longitude: 8.242
+latitude: 48.615
+longitude: 9.538
 ---
