@@ -1,6 +1,6 @@
 ---
 title: Osterburken
 url: /osterburken/
-latitude: 49.429
-longitude: 9.42
+latitude: 49.431
+longitude: 9.427
 ---
