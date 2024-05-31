@@ -1,5 +1,5 @@
 ---
 title: "ropesolutions"
 url: /friedrichshafen/ropesolutions/
-shop: Allgemein
+shop: Großhandel
 ---

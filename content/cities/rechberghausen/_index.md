@@ -1,6 +1,6 @@
 ---
 title: Rechberghausen
 url: /rechberghausen/
-latitude: 48.728
-longitude: 9.643
+latitude: 48.733
+longitude: 9.647
 ---

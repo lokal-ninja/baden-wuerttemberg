@@ -1,5 +1,5 @@
 ---
-title: "Sportsfreund Schlegel"
+title: "SportsFreund Schlegel"
 url: /calw/sportsfreund-schlegel/
 shop: Sport
 ---

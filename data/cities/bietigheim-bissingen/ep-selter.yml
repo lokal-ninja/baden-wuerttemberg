@@ -7,5 +7,5 @@ city: Bietigheim-Bissingen
 street: "Buchstraße"
 housenumber: 42
 phone: ""
-opening_hours: "Mo-Tu 09:00-12:30,15:00-18:00; Th-Fr 09:00-12:30,15:00-18:00; We,Sa 09:00-12:30"
+opening_hours: "Tu,Th,Fr 09:00-12:30,15:00-18:00; We 09:00-14:00 || nach Vereinbarung; Mo,Sa off"
 website: "https://www.tv-selter.de/"
