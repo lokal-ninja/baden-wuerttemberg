@@ -1,6 +1,6 @@
 ---
 title: Frankenhardt
 url: /frankenhardt/
-latitude: 49.07
-longitude: 10.045
+latitude: 49.071
+longitude: 10.038
 ---

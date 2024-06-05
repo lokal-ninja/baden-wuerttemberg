@@ -1,6 +1,6 @@
 ---
 title: Löffingen
 url: /loeffingen/
-latitude: 47.884
+latitude: 47.883
 longitude: 8.344
 ---

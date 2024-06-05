@@ -7,5 +7,5 @@ city: Konstanz
 street: "Bahnhofplatz"
 housenumber: 29
 phone: "+49 7531 27310"
-opening_hours: "Mo-Tu,Th-Fr 09:00-12:30,14:30-18:00; We 09:00-12:30; Sa 10:00-16:00; Su off"
+opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; We 09:00-12:30; Sa 10:00-16:00; Su,PH 10:00-12:30"
 website: "http://www.kultur-raedle.de/"

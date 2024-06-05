@@ -1,5 +1,5 @@
 ---
-title: "Wiko Reisen"
+title: "wiko REISEN"
 url: /renchen/wiko-reisen/
-shop: Reisebüro
+shop: Lotterie
 ---
