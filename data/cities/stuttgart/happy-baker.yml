@@ -1,11 +1,11 @@
-id: 3885555542
-type: node
-latitude: 48.76247
-longitude: 9.15885
-postcode: "70199"
+id: 42626344
+type: way
+latitude: 48.76435
+longitude: 9.167
+postcode: "70178"
 city: Stuttgart
-street: "Böblinger Straße"
-housenumber: 77
+street: "Marienplatz"
+housenumber: 5B
 phone: ""
 opening_hours: ""
 website: ""

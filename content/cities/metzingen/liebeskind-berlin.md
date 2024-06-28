@@ -1,5 +1,5 @@
 ---
-title: "Liebeskind Berlin"
+title: "LIEBESKIND Berlin"
 url: /metzingen/liebeskind-berlin/
-shop: Kleidung
+shop: Taschen & Koffer
 ---

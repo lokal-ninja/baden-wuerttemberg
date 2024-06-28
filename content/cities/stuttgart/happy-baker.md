@@ -1,5 +1,5 @@
 ---
-title: "Happy Baker"
+title: "happy baker"
 url: /stuttgart/happy-baker/
 shop: Bäckerei
 ---

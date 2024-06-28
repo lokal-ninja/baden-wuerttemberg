@@ -1,5 +1,5 @@
 ---
-title: "Ecco"
+title: "ecco"
 url: /karlsruhe/ecco/
-shop: Schuhe
+shop: Raumausstattung
 ---

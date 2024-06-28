@@ -1,5 +1,5 @@
 ---
 title: "Lilly Käfer"
 url: /moessingen/lilly-kaefer/
-shop: Spielzeug
+shop: Andenken
 ---

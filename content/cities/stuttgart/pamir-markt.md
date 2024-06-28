@@ -1,5 +1,5 @@
 ---
-title: "Pamir-Markt"
+title: "Pamir Markt"
 url: /stuttgart/pamir-markt/
-shop: Feinkost
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Converse"
 url: /metzingen/converse/
-shop: Kleidung
+shop: Schuhe
 ---

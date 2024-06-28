@@ -1,6 +1,6 @@
 ---
 title: Schiltach
 url: /schiltach/
-latitude: 48.29
-longitude: 8.342
+latitude: 48.291
+longitude: 8.352
 ---
