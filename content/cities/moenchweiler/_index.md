@@ -1,6 +1,6 @@
 ---
 title: Mönchweiler
 url: /moenchweiler/
-latitude: 48.108
-longitude: 8.42
+latitude: 48.098
+longitude: 8.425
 ---

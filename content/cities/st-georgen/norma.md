@@ -1,5 +1,5 @@
 ---
-title: "Norma"
+title: "NORMA"
 url: /st-georgen/norma/
 shop: Supermarkt
 ---
