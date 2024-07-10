@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denns BioMarkt"
 url: /karlsruhe/denns-biomarkt-durmersheimer-strasse/
 shop: Supermarkt
 ---

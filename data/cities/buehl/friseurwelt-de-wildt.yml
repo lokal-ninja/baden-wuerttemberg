@@ -7,5 +7,5 @@ city: Bühl
 street: "Hauptstraße"
 housenumber: 75
 phone: "+49 7223 24136"
-opening_hours: "Mo-Th 08:30-19:00; Fr 08:30-20:00; Sa 08:00-16:00"
+opening_hours: "Mo,Sa-Su off; Tu-Fr 09:00-18:00"
 website: "https://www.diefriseurwelt-dewildt.de/"

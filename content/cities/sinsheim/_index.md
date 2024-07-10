@@ -1,6 +1,6 @@
 ---
 title: Sinsheim
 url: /sinsheim/
-latitude: 49.246
-longitude: 8.884
+latitude: 49.271
+longitude: 8.841
 ---
