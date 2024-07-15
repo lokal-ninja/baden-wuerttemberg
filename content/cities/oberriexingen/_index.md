@@ -1,6 +1,6 @@
 ---
 title: Oberriexingen
 url: /oberriexingen/
-latitude: 48.927
-longitude: 9.029
+latitude: 48.926
+longitude: 9.028
 ---

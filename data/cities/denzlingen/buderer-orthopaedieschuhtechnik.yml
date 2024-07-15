@@ -7,5 +7,5 @@ city: Denzlingen
 street: "Hauptstraße"
 housenumber: 161
 phone: "+49 7666 2434"
-opening_hours: "Mo-Sa 09:00-12:30; Mo-Tu 14:30-18:00; Th-Fr 14:30-18:00"
+opening_hours: "Mo,Tu,Th,Fr 09:30-12:30, Sa 09:00-12:30; Su,PH off, Mo,Tu,Th,Fr 14:30-18:00, We 09:00-12:30"
 website: "https://www.buderer.de/"

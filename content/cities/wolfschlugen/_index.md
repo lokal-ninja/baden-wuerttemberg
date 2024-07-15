@@ -1,6 +1,6 @@
 ---
 title: Wolfschlugen
 url: /wolfschlugen/
-latitude: 48.652
-longitude: 9.287
+latitude: 48.649
+longitude: 9.3
 ---
