@@ -1,6 +1,6 @@
 ---
 title: Hausach
 url: /hausach/
-latitude: 48.286
-longitude: 8.178
+latitude: 48.284
+longitude: 8.17
 ---

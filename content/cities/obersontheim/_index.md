@@ -1,6 +1,6 @@
 ---
 title: Obersontheim
 url: /obersontheim/
-latitude: 49.055
-longitude: 9.884
+latitude: 49.056
+longitude: 9.898
 ---
