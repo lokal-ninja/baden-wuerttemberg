@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denns Biomarkt"
 url: /ludwigsburg/denns-biomarkt/
 shop: Supermarkt
 ---
