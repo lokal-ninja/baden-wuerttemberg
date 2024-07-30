@@ -1,6 +1,6 @@
 ---
 title: Ettlingen
 url: /ettlingen/
-latitude: 48.946
-longitude: 8.397
+latitude: 48.942
+longitude: 8.409
 ---

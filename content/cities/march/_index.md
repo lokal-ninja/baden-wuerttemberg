@@ -1,6 +1,6 @@
 ---
 title: March
 url: /march/
-latitude: 48.063
-longitude: 7.779
+latitude: 48.059
+longitude: 7.778
 ---

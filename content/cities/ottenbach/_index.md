@@ -1,6 +1,6 @@
 ---
 title: Ottenbach
 url: /ottenbach/
-latitude: 48.735
-longitude: 9.748
+latitude: 48.723
+longitude: 9.743
 ---
