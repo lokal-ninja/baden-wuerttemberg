@@ -1,6 +1,6 @@
 ---
 title: Straubenhardt
 url: /straubenhardt/
-latitude: 48.854
-longitude: 8.516
+latitude: 48.845
+longitude: 8.541
 ---
