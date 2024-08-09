@@ -7,5 +7,5 @@ city: Tübingen
 street: "Kingersheimer Straße"
 housenumber: 36
 phone: "+49 7071 72057"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-13:00; PH off"
+opening_hours: "Tu,We,Fr 09:00-18:30; Th 09:00-20:00"
 website: "https://visel-frisuren.de/"
