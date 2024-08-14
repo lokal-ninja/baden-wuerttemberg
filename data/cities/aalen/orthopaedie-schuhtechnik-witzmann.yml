@@ -7,5 +7,5 @@ city: Aalen
 street: "Stuttgarter Straße"
 housenumber: 27
 phone: "+49 7361 61910"
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:00; We, Sa 08:00-12:00; Su, PH off"
+opening_hours: "Mo-Sa 08:00-12:00, Mo,Tu,Th,Fr 14:00-18:00; Su,PH off"
 website: "https://der-orthopaedieschuhmacher.de"
