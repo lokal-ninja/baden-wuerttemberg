@@ -1,5 +1,5 @@
 ---
 title: "ZEG"
 url: /kornwestheim/zeg/
-shop: Warenhaus
+shop: Baustoffe
 ---
