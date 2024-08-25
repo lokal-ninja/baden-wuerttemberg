@@ -1,6 +1,6 @@
 ---
 title: Oppenweiler
 url: /oppenweiler/
-latitude: 48.987
-longitude: 9.461
+latitude: 48.985
+longitude: 9.46
 ---
