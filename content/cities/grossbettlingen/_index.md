@@ -1,6 +1,6 @@
 ---
 title: Großbettlingen
 url: /grossbettlingen/
-latitude: 48.597
-longitude: 9.314
+latitude: 48.594
+longitude: 9.308
 ---

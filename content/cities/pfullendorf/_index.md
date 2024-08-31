@@ -1,6 +1,6 @@
 ---
 title: Pfullendorf
 url: /pfullendorf/
-latitude: 47.933
-longitude: 9.241
+latitude: 47.927
+longitude: 9.246
 ---

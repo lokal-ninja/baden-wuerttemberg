@@ -1,6 +1,6 @@
 ---
 title: Niederstotzingen
 url: /niederstotzingen/
-latitude: 48.54
-longitude: 10.236
+latitude: 48.536
+longitude: 10.237
 ---
