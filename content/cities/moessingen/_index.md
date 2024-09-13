@@ -1,6 +1,6 @@
 ---
 title: Mössingen
 url: /moessingen/
-latitude: 48.405
-longitude: 9.058
+latitude: 48.407
+longitude: 9.055
 ---

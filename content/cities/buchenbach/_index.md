@@ -1,6 +1,6 @@
 ---
 title: Buchenbach
 url: /buchenbach/
-latitude: 47.982
-longitude: 8.043
+latitude: 47.944
+longitude: 8.002
 ---
