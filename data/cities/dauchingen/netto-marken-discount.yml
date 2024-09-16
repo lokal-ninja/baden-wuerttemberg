@@ -1,11 +1,11 @@
 id: 361717919
-type: way
+type: node
 latitude: 48.08418
 longitude: 8.54477
 postcode: "78083"
 city: Dauchingen
-street: "Pfeilstraße"
-housenumber: 2
+street: Pfeilstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

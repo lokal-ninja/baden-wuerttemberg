@@ -1,11 +1,11 @@
 id: 245837521
-type: way
+type: node
 latitude: 49.5472
 longitude: 8.45835
 postcode: ""
 city: Mannheim
-street: "Amselstraße"
-housenumber: 31
+street: Amselstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

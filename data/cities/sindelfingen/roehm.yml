@@ -4,8 +4,8 @@ latitude: 48.70816
 longitude: 9.00216
 postcode: "71063"
 city: Sindelfingen
-street: "Marktplatz"
-housenumber: 9
+street: Marktplatz
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-14:00"
-website: "https://www.roehm-buch.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:30-14:00
+website: https://www.roehm-buch.de/

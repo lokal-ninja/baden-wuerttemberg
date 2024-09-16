@@ -1,11 +1,11 @@
 id: 158694393
-type: way
+type: node
 latitude: 48.94705
 longitude: 8.38194
 postcode: "76275"
 city: Ettlingen
-street: "Hertzstraße"
-housenumber: 4
+street: Hertzstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

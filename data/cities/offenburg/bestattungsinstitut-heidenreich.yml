@@ -1,11 +1,11 @@
 id: 625337506
-type: way
+type: node
 latitude: 48.46977
 longitude: 7.96701
 postcode: "77654"
 city: Offenburg
-street: "Weingartenstraße"
-housenumber: 74
+street: Weingartenstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-16:30; Sa 10:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-16:30; Sa 10:00-12:00
 website: ""

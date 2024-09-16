@@ -1,11 +1,11 @@
 id: 90553363
-type: way
+type: node
 latitude: 48.85931
 longitude: 8.23214
 postcode: "76437"
 city: Rastatt
-street: "Woogseestraße"
-housenumber: 10
-phone: "+49 7222 966783"
+street: Woogseestraße
+housenumber: "10"
+phone: +49 7222 966783
 opening_hours: ""
-website: "https://www.derler-autolackierung.de/"
+website: https://www.derler-autolackierung.de/

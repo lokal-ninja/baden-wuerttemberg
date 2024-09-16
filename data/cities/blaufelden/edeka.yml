@@ -1,11 +1,11 @@
 id: 477371389
-type: way
+type: node
 latitude: 49.31268
 longitude: 10.09394
 postcode: "74572"
 city: Blaufelden
-street: "Birkenstraße"
-housenumber: 4
+street: Birkenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

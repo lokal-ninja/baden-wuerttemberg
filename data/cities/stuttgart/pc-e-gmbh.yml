@@ -4,8 +4,8 @@ latitude: 48.81347
 longitude: 9.11231
 postcode: "70499"
 city: Stuttgart
-street: "Pforzheimer Straße"
-housenumber: 379
-phone: "+49 711 88025915"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.pc-e.de/"
+street: Pforzheimer Straße
+housenumber: "379"
+phone: +49 711 88025915
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.pc-e.de/

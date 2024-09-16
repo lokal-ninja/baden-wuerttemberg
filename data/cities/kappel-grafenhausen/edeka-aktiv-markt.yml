@@ -1,11 +1,11 @@
 id: 209764551
-type: way
+type: node
 latitude: 48.28741
 longitude: 7.76135
 postcode: "77966"
 city: Kappel-Grafenhausen
-street: "Hauptstraße"
-housenumber: 23
-phone: "+49 7822 7890560"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/"
+street: Hauptstraße
+housenumber: "23"
+phone: +49 7822 7890560
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/

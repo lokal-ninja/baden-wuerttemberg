@@ -4,8 +4,8 @@ latitude: 48.63118
 longitude: 8.0738
 postcode: "77855"
 city: Achern
-street: "Kirchstraße"
-housenumber: 20
-phone: "+49 7841 684297"
-opening_hours: "Tu-Fr 10:00-13:00, 14:00-18:00; Sa 10:00-13:00"
-website: "http://darinas-secondhand.de"
+street: Kirchstraße
+housenumber: "20"
+phone: +49 7841 684297
+opening_hours: Tu-Fr 10:00-13:00, 14:00-18:00; Sa 10:00-13:00
+website: http://darinas-secondhand.de

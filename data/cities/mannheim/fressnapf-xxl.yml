@@ -4,8 +4,8 @@ latitude: 49.448
 longitude: 8.50276
 postcode: "68199"
 city: Mannheim
-street: "Casterfeldstraße"
-housenumber: 60
-phone: "+49 621 8762643"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.fressnapf.de/"
+street: Casterfeldstraße
+housenumber: "60"
+phone: +49 621 8762643
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.fressnapf.de/

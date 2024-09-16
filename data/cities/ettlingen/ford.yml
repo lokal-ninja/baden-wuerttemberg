@@ -1,11 +1,11 @@
 id: 293075334
-type: way
+type: node
 latitude: 48.93929
 longitude: 8.37546
 postcode: "76275"
 city: Ettlingen
-street: "Siemensstraße"
-housenumber: 19
+street: Siemensstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

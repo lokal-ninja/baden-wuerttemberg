@@ -1,11 +1,11 @@
 id: 24033010
-type: way
+type: node
 latitude: 48.70301
 longitude: 9.02942
 postcode: ""
 city: Sindelfingen
-street: "Tilsiter Straße"
-housenumber: 5
+street: Tilsiter Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 08:00-21:00"
+opening_hours: Mo-Fr 07:00-21:00; Sa 08:00-21:00
 website: ""

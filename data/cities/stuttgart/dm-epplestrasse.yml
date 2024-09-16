@@ -4,8 +4,8 @@ latitude: 48.7485
 longitude: 9.1697
 postcode: "70597"
 city: Stuttgart
-street: "Epplestraße"
-housenumber: 6
-phone: "+49 711 6747441"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+street: Epplestraße
+housenumber: "6"
+phone: +49 711 6747441
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

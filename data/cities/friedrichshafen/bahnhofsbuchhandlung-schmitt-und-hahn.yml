@@ -4,8 +4,8 @@ latitude: 47.65289
 longitude: 9.47399
 postcode: "88045"
 city: Friedrichshafen
-street: "Stadtbahnhof"
-housenumber: 1
-phone: "+49 7541 3786518"
-opening_hours: "Mo-Fr 05:30-20:00; Sa 07:00-20:00; Su 08:00-20:00"
-website: "https://www.schmitt-hahn.de"
+street: Stadtbahnhof
+housenumber: "1"
+phone: +49 7541 3786518
+opening_hours: Mo-Fr 05:30-20:00; Sa 07:00-20:00; Su 08:00-20:00
+website: https://www.schmitt-hahn.de

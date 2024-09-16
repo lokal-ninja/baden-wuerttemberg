@@ -1,11 +1,11 @@
 id: 251445785
-type: way
+type: node
 latitude: 48.65398
 longitude: 9.57069
 postcode: "73119"
 city: Zell unter Aichelberg
-street: "Boschstraße"
-housenumber: 17
+street: Boschstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:00-17:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 09:30-12:30,14:00-17:00; Sa 10:00-13:00
 website: ""

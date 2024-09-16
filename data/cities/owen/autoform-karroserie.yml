@@ -1,11 +1,11 @@
 id: 228367334
-type: way
+type: node
 latitude: 48.58123
 longitude: 9.44715
 postcode: "73277"
 city: Owen
-street: "In der Braike"
-housenumber: 26
+street: In der Braike
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 310932218
-type: way
+type: node
 latitude: 48.02766
 longitude: 8.60126
 postcode: "78609"
 city: Tuningen
-street: "Friedhofstraße"
-housenumber: 8
+street: Friedhofstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

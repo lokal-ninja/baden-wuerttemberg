@@ -1,11 +1,11 @@
 id: 205383603
-type: way
+type: node
 latitude: 48.77952
 longitude: 9.85431
 postcode: "73529"
 city: Schwäbisch Gmünd
-street: "Lindenhofstraße"
-housenumber: 39
+street: Lindenhofstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-12:30"
-website: "https://www.getraenke-rupp.de/"
+opening_hours: Tu-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-12:30
+website: https://www.getraenke-rupp.de/

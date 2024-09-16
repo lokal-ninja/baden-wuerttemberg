@@ -1,11 +1,11 @@
 id: 491941016
-type: way
+type: node
 latitude: 48.68898
 longitude: 9.72407
 postcode: "73054"
 city: Eislingen/Fils
-street: "Ulmer Straße"
-housenumber: 132
+street: Ulmer Straße
+housenumber: "132"
 phone: ""
 opening_hours: ""
-website: "https://www.wahl-landhandel.de/"
+website: https://www.wahl-landhandel.de/

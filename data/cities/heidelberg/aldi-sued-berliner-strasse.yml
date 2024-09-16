@@ -1,11 +1,11 @@
 id: 456112466
-type: way
+type: node
 latitude: 49.41867
 longitude: 8.67555
 postcode: "69120"
 city: Heidelberg
-street: "Berliner Straße"
-housenumber: 49
+street: Berliner Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

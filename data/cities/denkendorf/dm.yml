@@ -1,11 +1,11 @@
 id: 207209459
-type: way
+type: node
 latitude: 48.70334
 longitude: 9.31266
 postcode: "73770"
 city: Denkendorf
-street: "Rechbergstraße"
-housenumber: 5
+street: Rechbergstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

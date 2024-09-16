@@ -1,11 +1,11 @@
 id: 114469374
-type: way
+type: node
 latitude: 49.0868
 longitude: 9.27545
 postcode: "74199"
 city: Untergruppenbach
-street: "Entenstraße"
-housenumber: 18
+street: Entenstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

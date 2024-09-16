@@ -1,11 +1,11 @@
 id: 165769547
-type: way
+type: node
 latitude: 48.09147
 longitude: 7.62596
 postcode: "79235"
 city: Vogtsburg im Kaiserstuhl
-street: "Eichbergstraße"
-housenumber: 4
-phone: "+49 7662 947060"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Eichbergstraße
+housenumber: "4"
+phone: +49 7662 947060
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

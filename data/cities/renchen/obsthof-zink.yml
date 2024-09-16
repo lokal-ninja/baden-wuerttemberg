@@ -4,8 +4,8 @@ latitude: 48.58752
 longitude: 8.0133
 postcode: "77871"
 city: Renchen
-street: "Hauptstraße"
-housenumber: 29
-phone: "+49 7843 2751"
-opening_hours: "Mo,Tu,Th,Fr 07:00-12:30, 14:30-18:15; Sa 07:00-18:00"
-website: "http://www.obsthof-zink.de/obstladen/"
+street: Hauptstraße
+housenumber: "29"
+phone: +49 7843 2751
+opening_hours: Mo,Tu,Th,Fr 07:00-12:30, 14:30-18:15; Sa 07:00-18:00
+website: http://www.obsthof-zink.de/obstladen/

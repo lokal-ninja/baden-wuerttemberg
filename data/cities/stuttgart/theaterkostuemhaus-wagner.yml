@@ -4,8 +4,8 @@ latitude: 48.78323
 longitude: 9.25029
 postcode: "70327"
 city: Stuttgart
-street: "Stubaier Straße"
-housenumber: 39
-phone: "+49 711 331089"
-opening_hours: "Mo-Fr 10:00-12:00, 15:00-18:00"
-website: "http://www.kostuemverleih-wagner.de"
+street: Stubaier Straße
+housenumber: "39"
+phone: +49 711 331089
+opening_hours: Mo-Fr 10:00-12:00, 15:00-18:00
+website: http://www.kostuemverleih-wagner.de

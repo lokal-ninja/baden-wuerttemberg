@@ -1,11 +1,11 @@
 id: 572698854
-type: way
+type: node
 latitude: 48.13397
 longitude: 8.7543
 postcode: "78559"
 city: Gosheim
-street: "Zinkenstraße"
-housenumber: 1
+street: Zinkenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

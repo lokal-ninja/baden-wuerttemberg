@@ -1,11 +1,11 @@
 id: 559460194
-type: way
+type: node
 latitude: 48.91602
 longitude: 9.37034
 postcode: "71576"
 city: Burgstetten
-street: "Untere Hofstraße"
-housenumber: 22
-phone: "+49 7191 64618"
+street: Untere Hofstraße
+housenumber: "22"
+phone: +49 7191 64618
 opening_hours: ""
-website: "https://www.baeuerle-landtechnik.de/"
+website: https://www.baeuerle-landtechnik.de/

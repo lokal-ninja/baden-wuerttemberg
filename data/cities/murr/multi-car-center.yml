@@ -1,11 +1,11 @@
 id: 215289908
-type: way
+type: node
 latitude: 48.95948
 longitude: 9.25292
 postcode: "71711"
 city: Murr
-street: "Hindenburgstraße"
-housenumber: 110
+street: Hindenburgstraße
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

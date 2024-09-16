@@ -1,11 +1,11 @@
 id: 132527386
-type: way
+type: node
 latitude: 48.64872
 longitude: 7.88847
 postcode: "77866"
 city: Rheinau
-street: "Rheinwaldstraße"
-housenumber: 2
-phone: "+49 7844 7092"
+street: Rheinwaldstraße
+housenumber: "2"
+phone: +49 7844 7092
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 168551409
-type: way
+type: node
 latitude: 48.07304
 longitude: 8.63052
 postcode: "78647"
 city: Trossingen
-street: "Christian-Messner-Straße"
-housenumber: 8
+street: Christian-Messner-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

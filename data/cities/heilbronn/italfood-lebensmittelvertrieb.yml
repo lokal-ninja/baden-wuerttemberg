@@ -1,11 +1,11 @@
 id: 90577213
-type: way
+type: node
 latitude: 49.15891
 longitude: 9.21661
 postcode: "74076"
 city: Heilbronn
-street: "Salzstraße"
-housenumber: 110
+street: Salzstraße
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Fr 9:00-19:00; Sa 9:00-16:00; PH off"
+opening_hours: Mo-Fr 9:00-19:00; Sa 9:00-16:00; PH off
 website: ""

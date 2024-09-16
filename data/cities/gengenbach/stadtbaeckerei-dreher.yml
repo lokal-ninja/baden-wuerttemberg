@@ -1,11 +1,11 @@
 id: 345744818
-type: way
+type: node
 latitude: 48.39589
 longitude: 8.02369
 postcode: "77723"
 city: Gengenbach
-street: "Flößerstraße"
-housenumber: 12
+street: Flößerstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

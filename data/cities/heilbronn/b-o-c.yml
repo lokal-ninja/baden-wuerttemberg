@@ -1,11 +1,11 @@
 id: 34428484
-type: way
+type: node
 latitude: 49.13422
 longitude: 9.21951
 postcode: "74072"
 city: Heilbronn
-street: "Südstraße"
-housenumber: 90
+street: Südstraße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
-website: "https://www.boc24.de/"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00
+website: https://www.boc24.de/

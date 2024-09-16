@@ -4,8 +4,8 @@ latitude: 48.66847
 longitude: 7.94137
 postcode: "77866"
 city: Rheinau
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

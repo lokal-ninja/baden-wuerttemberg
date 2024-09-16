@@ -1,11 +1,11 @@
 id: 110018745
-type: way
+type: node
 latitude: 48.70047
 longitude: 8.13261
 postcode: "77815"
 city: Bühl
-street: "Rheinstraße"
-housenumber: 48
+street: Rheinstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

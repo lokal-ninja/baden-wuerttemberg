@@ -1,11 +1,11 @@
 id: 121850717
-type: way
+type: node
 latitude: 48.87637
 longitude: 9.39742
 postcode: "71364"
 city: Winnenden
-street: "Turmstraße"
-housenumber: 7
+street: Turmstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

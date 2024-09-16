@@ -1,11 +1,11 @@
 id: 38767154
-type: way
+type: node
 latitude: 48.33946
 longitude: 7.86022
 postcode: "77933"
 city: Lahr/Schwarzwald
-street: "Lotzbeckstraße"
-housenumber: 47
+street: Lotzbeckstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

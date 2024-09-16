@@ -1,11 +1,11 @@
 id: 227361915
-type: way
+type: node
 latitude: 48.12127
 longitude: 7.84879
 postcode: "79312"
 city: Emmendingen
-street: "Lammstraße"
-housenumber: 12
+street: Lammstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-14:00; PH off"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-14:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 122936766
-type: way
+type: node
 latitude: 48.77057
 longitude: 9.18653
 postcode: "70184"
 city: Stuttgart
-street: "Hohenheimer Straße"
-housenumber: 38
+street: Hohenheimer Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.chaplins.bar/apotheke"
+website: https://www.chaplins.bar/apotheke

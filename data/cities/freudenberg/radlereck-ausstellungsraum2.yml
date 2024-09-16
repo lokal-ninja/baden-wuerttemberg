@@ -1,11 +1,11 @@
 id: 204317241
-type: way
+type: node
 latitude: 49.74261
 longitude: 9.32434
 postcode: "97896"
 city: Freudenberg
-street: "Hauptstraße"
-housenumber: 180
+street: Hauptstraße
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 105025292
-type: way
+type: node
 latitude: 47.96663
 longitude: 7.69419
 postcode: "79112"
 city: Freiburg im Breisgau
-street: "St.-Erentrudis-Straße"
+street: St.-Erentrudis-Straße
 housenumber: 1a
-phone: "+49 7664 5056311"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/"
+phone: +49 7664 5056311
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/

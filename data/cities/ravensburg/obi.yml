@@ -1,11 +1,11 @@
 id: 108735414
-type: way
+type: node
 latitude: 47.79483
 longitude: 9.61186
 postcode: "88212"
 city: Ravensburg
-street: "Bleicherstraße"
-housenumber: 45
+street: Bleicherstraße
+housenumber: "45"
 phone: "+49751362270"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00
 website: ""

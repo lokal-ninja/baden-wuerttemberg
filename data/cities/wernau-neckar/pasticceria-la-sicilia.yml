@@ -1,11 +1,11 @@
 id: 118859656
-type: way
+type: node
 latitude: 48.693
 longitude: 9.41572
 postcode: "73249"
 city: Wernau (Neckar)
-street: "Eulenberg"
-housenumber: 29
+street: Eulenberg
+housenumber: "29"
 phone: ""
-opening_hours: "Sa,Su 08:30-12:30"
+opening_hours: Sa,Su 08:30-12:30
 website: ""

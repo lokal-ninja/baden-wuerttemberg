@@ -4,8 +4,8 @@ latitude: 48.80517
 longitude: 9.18912
 postcode: "70191"
 city: Stuttgart
-street: "Störzbachstraße"
-housenumber: 1
-phone: "+49 711 858955"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-14:00"
+street: Störzbachstraße
+housenumber: "1"
+phone: +49 711 858955
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-14:00
 website: ""

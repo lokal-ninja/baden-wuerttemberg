@@ -1,11 +1,11 @@
 id: 90553360
-type: way
+type: node
 latitude: 48.8591
 longitude: 8.2309
 postcode: "76437"
 city: Rastatt
-street: "Woogseestraße"
-housenumber: 6
+street: Woogseestraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

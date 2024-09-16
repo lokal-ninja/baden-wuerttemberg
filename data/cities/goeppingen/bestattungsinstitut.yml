@@ -1,11 +1,11 @@
 id: 262476201
-type: way
+type: node
 latitude: 48.70945
 longitude: 9.61711
 postcode: "73035"
 city: Göppingen
-street: "Bismarckstraße"
-housenumber: 2
+street: Bismarckstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://schmid-bestattungsinstitut.de/kontakt/"
+website: https://schmid-bestattungsinstitut.de/kontakt/

@@ -1,11 +1,11 @@
 id: 140371336
-type: way
+type: node
 latitude: 48.23818
 longitude: 9.09778
 postcode: "72475"
 city: Bitz
-street: "Hülbenstraße"
-housenumber: 1
+street: Hülbenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

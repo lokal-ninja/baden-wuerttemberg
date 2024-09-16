@@ -4,8 +4,8 @@ latitude: 48.08125
 longitude: 7.71045
 postcode: "79268"
 city: Bötzingen
-street: "Schambachhof"
-housenumber: 4
-phone: "+49 76631474"
-opening_hours: "Mo-We 08:30-12:00;Th-Fr 14:00-17:00;Sa 10:00-16:00;Su,PH off"
-website: "https://www.weingut-hoefflin.de/"
+street: Schambachhof
+housenumber: "4"
+phone: +49 76631474
+opening_hours: Mo-We 08:30-12:00;Th-Fr 14:00-17:00;Sa 10:00-16:00;Su,PH off
+website: https://www.weingut-hoefflin.de/

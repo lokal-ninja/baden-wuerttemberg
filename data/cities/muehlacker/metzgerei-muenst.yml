@@ -1,11 +1,11 @@
 id: 135171346
-type: way
+type: node
 latitude: 48.91232
 longitude: 8.89631
 postcode: "75417"
 city: Mühlacker
-street: "Iptinger Weg"
-housenumber: 7
+street: Iptinger Weg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 09:00-12:30; Mo[1] off; Tu-Fr 07:30-12:30,15:00-18:15; Sa 07:00-12:30"
+opening_hours: Mo 09:00-12:30; Mo[1] off; Tu-Fr 07:30-12:30,15:00-18:15; Sa 07:00-12:30
 website: ""

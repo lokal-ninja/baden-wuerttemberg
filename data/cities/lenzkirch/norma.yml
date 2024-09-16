@@ -1,11 +1,11 @@
 id: 194160703
-type: way
+type: node
 latitude: 47.87007
 longitude: 8.20276
 postcode: "79853"
 city: Lenzkirch
-street: "Schulstraße"
-housenumber: 3
+street: Schulstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

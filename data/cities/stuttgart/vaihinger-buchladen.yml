@@ -1,11 +1,11 @@
 id: 43302984
-type: way
+type: node
 latitude: 48.73329
 longitude: 9.10866
 postcode: "70563"
 city: Stuttgart
-street: "Robert-Leicht-Straße"
+street: Robert-Leicht-Straße
 housenumber: 30b
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.vaihingerbuchladen.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.vaihingerbuchladen.de/

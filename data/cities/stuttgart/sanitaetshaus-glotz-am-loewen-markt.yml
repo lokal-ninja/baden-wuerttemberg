@@ -4,8 +4,8 @@ latitude: 48.81347
 longitude: 9.11126
 postcode: "70499"
 city: Stuttgart
-street: "Solitudestraße"
-housenumber: 213
-phone: "+49 711 865391"
+street: Solitudestraße
+housenumber: "213"
+phone: +49 711 865391
 opening_hours: ""
-website: "https://www.glotz.de/"
+website: https://www.glotz.de/

@@ -4,8 +4,8 @@ latitude: 49.34605
 longitude: 9.43833
 postcode: "74259"
 city: Widdern
-street: "Talstraße"
-housenumber: 33
-phone: "+49 7943 562"
-opening_hours: "Tu 09:00-12:00; We,Fr 09:00-18:00"
-website: "https://www.hoerchers-bauernhof.de"
+street: Talstraße
+housenumber: "33"
+phone: +49 7943 562
+opening_hours: Tu 09:00-12:00; We,Fr 09:00-18:00
+website: https://www.hoerchers-bauernhof.de

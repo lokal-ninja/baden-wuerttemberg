@@ -4,8 +4,8 @@ latitude: 48.59796
 longitude: 8.06563
 postcode: "77855"
 city: Achern
-street: "Renchtalstraße"
-housenumber: 19
+street: Renchtalstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 07:30-11:00"
-website: "https://www.huber-baeckerei.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 07:30-11:00
+website: https://www.huber-baeckerei.de/

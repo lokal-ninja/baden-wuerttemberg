@@ -1,11 +1,11 @@
 id: 516043934
-type: way
+type: node
 latitude: 49.49087
 longitude: 9.77487
 postcode: "97980"
 city: Bad Mergentheim
-street: "Burgstraße"
-housenumber: 22
+street: Burgstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

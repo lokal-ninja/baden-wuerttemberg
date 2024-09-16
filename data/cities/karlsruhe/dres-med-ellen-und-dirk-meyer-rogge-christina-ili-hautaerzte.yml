@@ -4,8 +4,9 @@ latitude: 49.00995
 longitude: 8.39147
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
+street: Kaiserstraße
 housenumber: 231-233
-phone: "+49 721 831410"
-opening_hours: "Mo-Fr 08:00-12:30, Mo-Tu 14:00-17:00, Th 15:00-18:30 Praxis; Mo-Fr 08:00-12:30, Mo-We,Fr 14:00-17:30, Th 14:30-18:30 Cosmetic center; PH off"
-website: "https://www.meyer-rogge.de"
+phone: +49 721 831410
+opening_hours: Mo-Fr 08:00-12:30, Mo-Tu 14:00-17:00, Th 15:00-18:30 "Praxis"; Mo-Fr
+    08:00-12:30, Mo-We,Fr 14:00-17:30, Th 14:30-18:30 "Cosmetic center"; PH off
+website: https://www.meyer-rogge.de

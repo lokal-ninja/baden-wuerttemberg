@@ -4,8 +4,8 @@ latitude: 48.75769
 longitude: 8.24173
 postcode: "76530"
 city: Baden-Baden
-street: "Lichtentaler Straße"
-housenumber: 30
-phone: "+49 7221 3989338"
-opening_hours: "Mo-Fr 09:00-13:00; Sa 09:00-12:00"
-website: "https://www.schwimmbadfriedrich.de/"
+street: Lichtentaler Straße
+housenumber: "30"
+phone: +49 7221 3989338
+opening_hours: Mo-Fr 09:00-13:00; Sa 09:00-12:00
+website: https://www.schwimmbadfriedrich.de/

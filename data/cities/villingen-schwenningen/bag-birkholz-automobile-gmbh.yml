@@ -1,11 +1,11 @@
 id: 79120948
-type: way
+type: node
 latitude: 48.08162
 longitude: 8.44747
 postcode: "78052"
 city: Villingen-Schwenningen
-street: "Max-Planck-Straße"
-housenumber: 21
+street: Max-Planck-Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.bag-automobile.de/"
+website: https://www.bag-automobile.de/

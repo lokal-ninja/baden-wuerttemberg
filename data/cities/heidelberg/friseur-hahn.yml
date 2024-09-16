@@ -4,8 +4,8 @@ latitude: 49.41458
 longitude: 8.69138
 postcode: ""
 city: Heidelberg
-street: "Ladenburger Straße"
-housenumber: 9
-phone: "+49 6221 413161"
-opening_hours: "Tu-Fr 08:00-20:15; Sa 07:00-17:15"
+street: Ladenburger Straße
+housenumber: "9"
+phone: +49 6221 413161
+opening_hours: Tu-Fr 08:00-20:15; Sa 07:00-17:15
 website: ""

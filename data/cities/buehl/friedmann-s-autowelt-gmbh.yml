@@ -1,11 +1,11 @@
 id: 57678482
-type: way
+type: node
 latitude: 48.70936
 longitude: 8.11771
 postcode: "77815"
 city: Bühl
-street: "Liechtersmatten"
-housenumber: 12
-phone: "+49 7223 93870"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-14:00"
-website: "https://www.friedmanns-autowelt.de/"
+street: Liechtersmatten
+housenumber: "12"
+phone: +49 7223 93870
+opening_hours: Mo-Fr 08:00-18:00;Sa 09:00-14:00
+website: https://www.friedmanns-autowelt.de/

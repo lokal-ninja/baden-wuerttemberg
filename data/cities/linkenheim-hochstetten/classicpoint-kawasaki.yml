@@ -1,11 +1,11 @@
 id: 161947232
-type: way
+type: node
 latitude: 49.12373
 longitude: 8.40189
 postcode: "76351"
 city: Linkenheim-Hochstetten
-street: "Im Gründel"
-housenumber: 12
+street: Im Gründel
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "http://www.classicpoint.de/"
+website: http://www.classicpoint.de/

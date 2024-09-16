@@ -4,8 +4,8 @@ latitude: 49.3442
 longitude: 8.65812
 postcode: "69207"
 city: Sandhausen
-street: "Heidelberger Straße"
-housenumber: 1
+street: Heidelberger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Nach Vereinbarung"
-website: "http://www.dasfotomobil.de"
+opening_hours: '"Nach Vereinbarung"'
+website: http://www.dasfotomobil.de

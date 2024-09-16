@@ -1,11 +1,11 @@
 id: 404025018
-type: way
+type: node
 latitude: 48.12552
 longitude: 8.89351
 postcode: "72362"
 city: Nusplingen
-street: "Kirchwiesenstraße"
-housenumber: 58
+street: Kirchwiesenstraße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

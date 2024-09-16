@@ -1,11 +1,11 @@
 id: 320899413
-type: way
+type: node
 latitude: 48.65498
 longitude: 8.02559
 postcode: "77855"
 city: Achern
-street: "Industriestraße"
-housenumber: 4
+street: Industriestraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

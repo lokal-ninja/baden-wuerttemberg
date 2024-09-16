@@ -4,8 +4,8 @@ latitude: 49.40151
 longitude: 8.68571
 postcode: "69115"
 city: Heidelberg
-street: "Schillerstraße"
-housenumber: 1
-phone: "+49 170 3431135"
-opening_hours: "Mo,We 09:00-15:00; Fr 10:00-15:00"
-website: "https://yellowgreen.de/"
+street: Schillerstraße
+housenumber: "1"
+phone: +49 170 3431135
+opening_hours: Mo,We 09:00-15:00; Fr 10:00-15:00
+website: https://yellowgreen.de/

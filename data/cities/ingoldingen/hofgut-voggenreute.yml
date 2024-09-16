@@ -5,7 +5,7 @@ longitude: 9.75485
 postcode: "88456"
 city: Ingoldingen
 street: ""
-housenumber: 1
-phone: "+49 7355 92068"
+housenumber: "1"
+phone: +49 7355 92068
 opening_hours: ""
-website: "https://www.hofgut-voggenreute.de/"
+website: https://www.hofgut-voggenreute.de/

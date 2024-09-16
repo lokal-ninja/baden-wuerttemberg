@@ -1,11 +1,11 @@
 id: 320940341
-type: way
+type: node
 latitude: 49.28111
 longitude: 8.47322
 postcode: "68794"
 city: Oberhausen-Rheinhausen
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 06:00-14:00; Sa 06:00-13:00; Mo,Su,PH off"
+opening_hours: Tu-Fr 06:00-14:00; Sa 06:00-13:00; Mo,Su,PH off
 website: ""

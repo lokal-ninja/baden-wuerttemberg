@@ -4,8 +4,8 @@ latitude: 48.90317
 longitude: 9.16802
 postcode: "71634"
 city: Ludwigsburg
-street: "Teinacher Straße"
-housenumber: 45
-phone: "+49 7141 221400"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-14:00"
-website: "http://www.autohaus-sturany.de/cms/"
+street: Teinacher Straße
+housenumber: "45"
+phone: +49 7141 221400
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-14:00
+website: http://www.autohaus-sturany.de/cms/

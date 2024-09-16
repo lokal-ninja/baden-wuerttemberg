@@ -4,8 +4,8 @@ latitude: 48.78575
 longitude: 9.21275
 postcode: "70188"
 city: Stuttgart
-street: "Abelsbergstraße"
-housenumber: 69
+street: Abelsbergstraße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 06:00-13:00"
-website: "https://voss-baeckerei.de/"
+opening_hours: Mo-Sa 06:00-13:00
+website: https://voss-baeckerei.de/

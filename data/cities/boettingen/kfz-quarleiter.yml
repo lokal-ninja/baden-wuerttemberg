@@ -1,11 +1,11 @@
 id: 558896358
-type: way
+type: node
 latitude: 48.09951
 longitude: 8.8112
 postcode: "78583"
 city: Böttingen
-street: "Riedersteinweg"
+street: Riedersteinweg
 housenumber: 7/1
-phone: "+49 7429 940992"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:30"
-website: "https://www.kfz-quarleiter.de/"
+phone: +49 7429 940992
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:30
+website: https://www.kfz-quarleiter.de/

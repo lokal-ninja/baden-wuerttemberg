@@ -4,8 +4,8 @@ latitude: 48.36258
 longitude: 8.63325
 postcode: "72172"
 city: Sulz am Neckar
-street: "Untere Hauptstraße"
-housenumber: 19
-phone: "+49 7454 920804"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.schaible-gmbh.de/"
+street: Untere Hauptstraße
+housenumber: "19"
+phone: +49 7454 920804
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.schaible-gmbh.de/

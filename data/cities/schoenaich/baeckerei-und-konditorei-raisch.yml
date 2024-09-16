@@ -1,11 +1,11 @@
 id: 122604586
-type: way
+type: node
 latitude: 48.66172
 longitude: 9.05673
 postcode: "71101"
 city: Schönaich
-street: "Böblinger Straße"
-housenumber: 67
-phone: "+49 7031 4385552"
+street: Böblinger Straße
+housenumber: "67"
+phone: +49 7031 4385552
 opening_hours: ""
-website: "https://www.baeckerei-raisch.de"
+website: https://www.baeckerei-raisch.de

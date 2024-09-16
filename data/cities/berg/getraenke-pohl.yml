@@ -1,11 +1,11 @@
 id: 207910400
-type: way
+type: node
 latitude: 47.81894
 longitude: 9.60718
 postcode: "88276"
 city: Berg
-street: "Ziegelwiese"
-housenumber: 4
+street: Ziegelwiese
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,15:00-18:00; Sa 08:00-13:00"
-website: "https://www.pohl-getraenke.de/"
+opening_hours: Mo-Fr 09:00-12:00,15:00-18:00; Sa 08:00-13:00
+website: https://www.pohl-getraenke.de/

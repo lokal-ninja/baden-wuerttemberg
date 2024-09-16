@@ -4,8 +4,8 @@ latitude: 48.80433
 longitude: 8.31882
 postcode: "76571"
 city: Gaggenau
-street: "Hauptstraße"
-housenumber: 24
+street: Hauptstraße
+housenumber: "24"
 phone: ""
-opening_hours: "We 09:00-18:00; Th+Fr 13:00-18:00; Sa 10:00-16:00"
-website: "https://www.rollladentaller.de/"
+opening_hours: We 09:00-18:00; Th+Fr 13:00-18:00; Sa 10:00-16:00
+website: https://www.rollladentaller.de/

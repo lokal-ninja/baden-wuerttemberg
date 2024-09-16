@@ -4,8 +4,8 @@ latitude: 48.77543
 longitude: 9.18071
 postcode: "70173"
 city: Stuttgart
-street: "Karlstraße"
-housenumber: 4
+street: Karlstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.richandroyal.de"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.richandroyal.de

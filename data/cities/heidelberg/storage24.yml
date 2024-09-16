@@ -1,11 +1,11 @@
 id: 1031009237
-type: way
+type: node
 latitude: 49.36392
 longitude: 8.68295
 postcode: "69126"
 city: Heidelberg
-street: "Hatschekstraße"
-housenumber: 14
+street: Hatschekstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.storage24.com"
+website: https://www.storage24.com

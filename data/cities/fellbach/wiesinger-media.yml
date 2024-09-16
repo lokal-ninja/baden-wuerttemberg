@@ -4,8 +4,8 @@ latitude: 48.81419
 longitude: 9.27333
 postcode: "70736"
 city: Fellbach
-street: "Stuttgarter Straße"
-housenumber: 10
-phone: "+49 711 50443936"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.wiesingermedia.de/index.php/fellbach.html"
+street: Stuttgarter Straße
+housenumber: "10"
+phone: +49 711 50443936
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.wiesingermedia.de/index.php/fellbach.html

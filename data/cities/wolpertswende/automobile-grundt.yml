@@ -1,11 +1,11 @@
 id: 482068967
-type: way
+type: node
 latitude: 47.87908
 longitude: 9.63578
 postcode: "88284"
 city: Wolpertswende
-street: "Robert-Stolz-Straße"
-housenumber: 6
-phone: "+49 7502 921854"
+street: Robert-Stolz-Straße
+housenumber: "6"
+phone: +49 7502 921854
 opening_hours: ""
 website: ""

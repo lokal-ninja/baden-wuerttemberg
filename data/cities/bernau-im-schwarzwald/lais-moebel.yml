@@ -1,11 +1,11 @@
 id: 256856509
-type: way
+type: node
 latitude: 47.80298
 longitude: 8.03349
 postcode: "79872"
 city: Bernau im Schwarzwald
-street: "Rathausstraße"
-housenumber: 9
+street: Rathausstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.lais-moebel.de/"
+website: https://www.lais-moebel.de/

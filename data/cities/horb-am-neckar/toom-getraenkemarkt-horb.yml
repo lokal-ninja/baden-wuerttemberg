@@ -4,8 +4,8 @@ latitude: 48.45635
 longitude: 8.69944
 postcode: "72160"
 city: Horb am Neckar
-street: "Hahnerstraße"
-housenumber: 8
-phone: "+49 7451 620620"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://toom.de/"
+street: Hahnerstraße
+housenumber: "8"
+phone: +49 7451 620620
+opening_hours: Mo-Sa 08:00-20:00
+website: https://toom.de/

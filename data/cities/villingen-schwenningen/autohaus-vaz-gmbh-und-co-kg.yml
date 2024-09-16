@@ -1,11 +1,11 @@
 id: 79120925
-type: way
+type: node
 latitude: 48.08026
 longitude: 8.44863
 postcode: "78052"
 city: Villingen-Schwenningen
-street: "Max-Planck-Straße"
-housenumber: 14
-phone: "+49 7721 8839 0"
-opening_hours: "Mo-Fr 07:15-12:00,13:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.vaz-autohaus.de/"
+street: Max-Planck-Straße
+housenumber: "14"
+phone: +49 7721 8839 0
+opening_hours: Mo-Fr 07:15-12:00,13:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.vaz-autohaus.de/

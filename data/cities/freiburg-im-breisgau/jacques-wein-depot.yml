@@ -4,8 +4,8 @@ latitude: 48.01067
 longitude: 7.85426
 postcode: "79104"
 city: Freiburg im Breisgau
-street: "Habsburgerstraße"
-housenumber: 4
-phone: "+49 761 5565785"
-opening_hours: "Mo-Fr 14:00-19:00; Sa 10:00-16:00"
-website: "https://www.jacques.de/depot/172/freiburg-herdern/#"
+street: Habsburgerstraße
+housenumber: "4"
+phone: +49 761 5565785
+opening_hours: Mo-Fr 14:00-19:00; Sa 10:00-16:00
+website: https://www.jacques.de/depot/172/freiburg-herdern/#

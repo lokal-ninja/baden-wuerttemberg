@@ -1,11 +1,11 @@
 id: 90221395
-type: way
+type: node
 latitude: 47.95444
 longitude: 8.49214
 postcode: "78166"
 city: Donaueschingen
-street: "Mühlenstraße"
-housenumber: 28
-phone: "+49 771 1751081"
+street: Mühlenstraße
+housenumber: "28"
+phone: +49 771 1751081
 opening_hours: ""
-website: "http://www.maier-stickerei.de/"
+website: http://www.maier-stickerei.de/

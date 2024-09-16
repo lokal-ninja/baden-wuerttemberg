@@ -4,8 +4,8 @@ latitude: 49.38989
 longitude: 8.68723
 postcode: "69126"
 city: Heidelberg
-street: "Rheinstraße"
-housenumber: 29
-phone: "https://www.fennobed.de"
-opening_hours: "Tu-Sa 10:00-18:00"
+street: Rheinstraße
+housenumber: "29"
+phone: https://www.fennobed.de
+opening_hours: Tu-Sa 10:00-18:00
 website: ""

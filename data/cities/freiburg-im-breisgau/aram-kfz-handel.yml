@@ -4,8 +4,8 @@ latitude: 47.98544
 longitude: 7.80351
 postcode: "79111"
 city: Freiburg im Breisgau
-street: "St. Georgener Straße"
-housenumber: 23
-phone: "+49 (0)179 / 4824330"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-20:00"
+street: St. Georgener Straße
+housenumber: "23"
+phone: +49 (0)179 / 4824330
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-20:00
 website: ""

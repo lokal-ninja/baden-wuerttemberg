@@ -4,8 +4,8 @@ latitude: 48.90831
 longitude: 9.1641
 postcode: "71634"
 city: Ludwigsburg
-street: "Hirschbergstraße"
-housenumber: 44
-phone: "+49 7141 6439747"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/ludwigsburg-eglosheim/840202/rewe-markt-hirschbergstr-44/"
+street: Hirschbergstraße
+housenumber: "44"
+phone: +49 7141 6439747
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/ludwigsburg-eglosheim/840202/rewe-markt-hirschbergstr-44/

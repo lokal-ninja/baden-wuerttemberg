@@ -1,11 +1,11 @@
 id: 193229938
-type: way
+type: node
 latitude: 49.07
 longitude: 9.29112
 postcode: "74232"
 city: Abstatt
-street: "Heinrieter Straße"
-housenumber: 10
+street: Heinrieter Straße
+housenumber: "10"
 phone: ""
-opening_hours: "We-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00; Su,Mo off"
+opening_hours: We-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00; Su,Mo off
 website: ""

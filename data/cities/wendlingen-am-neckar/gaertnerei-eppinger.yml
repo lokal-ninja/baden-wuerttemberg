@@ -1,11 +1,11 @@
 id: 223136164
-type: way
+type: node
 latitude: 48.67505
 longitude: 9.38819
 postcode: "73240"
 city: Wendlingen am Neckar
-street: "Im Städtle"
-housenumber: 31
+street: Im Städtle
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

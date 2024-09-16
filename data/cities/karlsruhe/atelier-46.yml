@@ -1,11 +1,11 @@
 id: 98635736
-type: way
+type: node
 latitude: 48.95747
 longitude: 8.46694
 postcode: "76228"
 city: Karlsruhe
-street: "Am Wetterbach"
-housenumber: 46
+street: Am Wetterbach
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.12374
 longitude: 8.59508
 postcode: "76646"
 city: Bruchsal
-street: "Friedrichstraße"
-housenumber: 80
+street: Friedrichstraße
+housenumber: "80"
 phone: ""
-opening_hours: "Tu-Fr 13:00-19:30, Sa 11:00-15:00"
-website: "https://www.gecko-tattoo.com"
+opening_hours: Tu-Fr 13:00-19:30, Sa 11:00-15:00
+website: https://www.gecko-tattoo.com

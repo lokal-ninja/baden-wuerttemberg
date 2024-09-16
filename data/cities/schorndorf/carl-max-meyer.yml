@@ -4,8 +4,8 @@ latitude: 48.80528
 longitude: 9.52702
 postcode: "73614"
 city: Schorndorf
-street: "Marktplatz"
-housenumber: 3
+street: Marktplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.carl-max-meyer.de/"
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.carl-max-meyer.de/

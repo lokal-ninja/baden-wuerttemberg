@@ -4,8 +4,8 @@ latitude: 47.85544
 longitude: 8.77335
 postcode: "78234"
 city: Engen
-street: "Breitestraße"
-housenumber: 6
-phone: "+49 7733 9776914"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:30"
-website: "https://www.kutmuehle.de"
+street: Breitestraße
+housenumber: "6"
+phone: +49 7733 9776914
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:30
+website: https://www.kutmuehle.de

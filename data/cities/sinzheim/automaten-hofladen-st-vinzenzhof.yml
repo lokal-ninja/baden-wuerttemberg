@@ -1,11 +1,11 @@
 id: 224683671
-type: way
+type: node
 latitude: 48.75795
 longitude: 8.14884
 postcode: "76547"
 city: Sinzheim
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.vinzenzhof.de/"
+opening_hours: 24/7
+website: https://www.vinzenzhof.de/

@@ -1,11 +1,11 @@
 id: 445313176
-type: way
+type: node
 latitude: 48.82542
 longitude: 9.16495
 postcode: "70435"
 city: Stuttgart
-street: "Grenzstraße"
-housenumber: 20
+street: Grenzstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

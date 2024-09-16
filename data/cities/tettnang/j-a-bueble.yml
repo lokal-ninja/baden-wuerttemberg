@@ -1,11 +1,11 @@
 id: 122768807
-type: way
+type: node
 latitude: 47.67063
 longitude: 9.58734
 postcode: "88069"
 city: Tettnang
-street: "Grabenstraße"
-housenumber: 13
+street: Grabenstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

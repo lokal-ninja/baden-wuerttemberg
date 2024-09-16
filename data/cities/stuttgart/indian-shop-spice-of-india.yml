@@ -4,8 +4,8 @@ latitude: 48.81173
 longitude: 9.17058
 postcode: "70469"
 city: Stuttgart
-street: "Tunnelstraße"
-housenumber: 12
+street: Tunnelstraße
+housenumber: "12"
 phone: "+4971121740605"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-17:00"
-website: "http://www.indianshopstuttgart.com"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-17:00
+website: http://www.indianshopstuttgart.com

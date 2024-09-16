@@ -4,8 +4,8 @@ latitude: 49.45421
 longitude: 8.59346
 postcode: "68535"
 city: Edingen-Neckarhausen
-street: "Mannheimer Straße"
-housenumber: 80
-phone: "+49 6203 402104"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "http://www.biriabikecenter.de/html/edingen.html"
+street: Mannheimer Straße
+housenumber: "80"
+phone: +49 6203 402104
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: http://www.biriabikecenter.de/html/edingen.html

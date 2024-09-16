@@ -1,11 +1,11 @@
 id: 51787108
-type: way
+type: node
 latitude: 47.59937
 longitude: 7.59938
 postcode: "79576"
 city: Weil am Rhein
-street: "Alte Straße"
-housenumber: 46
+street: Alte Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de

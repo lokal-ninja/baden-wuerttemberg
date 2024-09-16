@@ -1,11 +1,11 @@
 id: 87979709
-type: way
+type: node
 latitude: 47.82854
 longitude: 7.94271
 postcode: "79674"
 city: Todtnau
-street: "Am Busbahnhof"
-housenumber: 4
+street: Am Busbahnhof
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

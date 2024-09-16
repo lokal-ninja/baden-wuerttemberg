@@ -1,11 +1,11 @@
 id: 110995845
-type: way
+type: node
 latitude: 48.77929
 longitude: 8.05417
 postcode: "77836"
 city: Rheinmünster
-street: "Wacholderstraße"
-housenumber: 12
+street: Wacholderstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

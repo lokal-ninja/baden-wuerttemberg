@@ -1,11 +1,11 @@
 id: 168909495
-type: way
+type: node
 latitude: 48.0228
 longitude: 7.83821
 postcode: "79108"
 city: Freiburg im Breisgau
-street: "Hermann-Mitsch-Straße"
-housenumber: 15
+street: Hermann-Mitsch-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

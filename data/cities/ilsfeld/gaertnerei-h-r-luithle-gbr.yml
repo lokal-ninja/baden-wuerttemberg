@@ -1,11 +1,11 @@
 id: 88566232
-type: way
+type: node
 latitude: 49.06007
 longitude: 9.28834
 postcode: "74360"
 city: Ilsfeld
-street: "Helfenberger Straße"
-housenumber: 50
+street: Helfenberger Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

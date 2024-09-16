@@ -1,11 +1,11 @@
 id: 136096006
-type: way
+type: node
 latitude: 48.53435
 longitude: 8.56576
 postcode: "72285"
 city: Pfalzgrafenweiler
-street: "Edelweilerstraße"
-housenumber: 24
+street: Edelweilerstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

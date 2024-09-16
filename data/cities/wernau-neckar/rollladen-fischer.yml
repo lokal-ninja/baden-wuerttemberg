@@ -4,8 +4,8 @@ latitude: 48.68955
 longitude: 9.42269
 postcode: "73249"
 city: Wernau (Neckar)
-street: "Kirchheimer Straße"
-housenumber: 107
-phone: "+49 7153 9240260"
-opening_hours: "Nach Vereinbarung"
-website: "https://www.rollladenfischer.de"
+street: Kirchheimer Straße
+housenumber: "107"
+phone: +49 7153 9240260
+opening_hours: '"Nach Vereinbarung"'
+website: https://www.rollladenfischer.de

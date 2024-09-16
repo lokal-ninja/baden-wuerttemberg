@@ -1,11 +1,11 @@
 id: 143090652
-type: way
+type: node
 latitude: 47.79247
 longitude: 9.61751
 postcode: "88212"
 city: Ravensburg
-street: "Eywiesenstraße"
-housenumber: 5
-phone: "+49 751 8889-0"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
-website: "https://www.ahwald.de"
+street: Eywiesenstraße
+housenumber: "5"
+phone: +49 751 8889-0
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00
+website: https://www.ahwald.de

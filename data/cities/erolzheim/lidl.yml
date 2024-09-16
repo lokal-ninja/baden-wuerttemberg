@@ -1,11 +1,11 @@
 id: 205652188
-type: way
+type: node
 latitude: 48.08706
 longitude: 10.08086
 postcode: "88453"
 city: Erolzheim
-street: "Keplerstraße"
-housenumber: 17
+street: Keplerstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.65005
 longitude: 9.44455
 postcode: "73230"
 city: Kirchheim unter Teck
-street: "Stuttgarter Straße"
-housenumber: 
+street: Stuttgarter Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 49.14513
 longitude: 8.68912
 postcode: "76703"
 city: Kraichtal
-street: "Neuenwegstraße"
-housenumber: 63
+street: Neuenwegstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00; Sa 09:00-12:00"
-website: "https://www.kleinegalerie-kraichtal.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00; Sa 09:00-12:00
+website: https://www.kleinegalerie-kraichtal.de/

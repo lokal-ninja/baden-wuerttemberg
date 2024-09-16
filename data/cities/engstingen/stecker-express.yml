@@ -1,11 +1,11 @@
 id: 35694462
-type: way
+type: node
 latitude: 48.40208
 longitude: 9.33033
 postcode: "72829"
 city: Engstingen
-street: "Sandweg"
-housenumber: 2
+street: Sandweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00, PH off"
+opening_hours: Mo-Fr 08:00-17:00, PH off
 website: ""

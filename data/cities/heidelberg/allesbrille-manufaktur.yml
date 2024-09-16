@@ -4,8 +4,8 @@ latitude: 49.40568
 longitude: 8.68777
 postcode: "69115"
 city: Heidelberg
-street: "Bahnhofstraße"
-housenumber: 32
+street: Bahnhofstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://allesbrille-heidelberg.com/"
+opening_hours: Mo-Fr 09:30-18:00
+website: https://allesbrille-heidelberg.com/

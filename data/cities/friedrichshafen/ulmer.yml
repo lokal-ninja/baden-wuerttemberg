@@ -4,8 +4,8 @@ latitude: 47.65174
 longitude: 9.47879
 postcode: "88045"
 city: Friedrichshafen
-street: "Friedrichstraße"
-housenumber: 34
-phone: "+49 7541 2869991"
-opening_hours: "Mo-Fr 07:30-18:30; Sa,Su 08:00-17:00"
-website: "https://www.baeckerei-ulmer.de"
+street: Friedrichstraße
+housenumber: "34"
+phone: +49 7541 2869991
+opening_hours: Mo-Fr 07:30-18:30; Sa,Su 08:00-17:00
+website: https://www.baeckerei-ulmer.de

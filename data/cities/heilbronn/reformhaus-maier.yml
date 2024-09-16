@@ -4,8 +4,8 @@ latitude: 49.14124
 longitude: 9.22177
 postcode: "74072"
 city: Heilbronn
-street: "Allee"
-housenumber: 9
+street: Allee
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:15-19:00; Sa 08:00-16:00"
-website: "https://www.reformhaus-heilbronn.de/"
+opening_hours: Mo-Fr 08:15-19:00; Sa 08:00-16:00
+website: https://www.reformhaus-heilbronn.de/

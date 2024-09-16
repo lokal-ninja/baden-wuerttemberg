@@ -1,11 +1,11 @@
 id: 842217638
-type: way
+type: node
 latitude: 48.96374
 longitude: 8.81217
 postcode: "75443"
 city: Ötisheim
-street: "Schlattstraße"
-housenumber: 8
+street: Schlattstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

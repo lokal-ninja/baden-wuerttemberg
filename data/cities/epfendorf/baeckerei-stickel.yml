@@ -1,11 +1,11 @@
 id: 1137632967
-type: way
+type: node
 latitude: 48.24855
 longitude: 8.59801
 postcode: "78736"
 city: Epfendorf
-street: "Adenauerstraße"
-housenumber: 5
-phone: "+49 7404 602"
+street: Adenauerstraße
+housenumber: "5"
+phone: +49 7404 602
 opening_hours: ""
 website: ""

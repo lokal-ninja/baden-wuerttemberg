@@ -1,11 +1,11 @@
 id: 234924612
-type: way
+type: node
 latitude: 48.91086
 longitude: 8.5609
 postcode: "75210"
 city: Keltern
-street: "Bunsenstraße"
-housenumber: 15
+street: Bunsenstraße
+housenumber: "15"
 phone: "+4972366355"
 opening_hours: ""
 website: ""

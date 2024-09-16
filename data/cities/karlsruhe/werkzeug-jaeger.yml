@@ -1,11 +1,11 @@
 id: 110553500
-type: way
+type: node
 latitude: 49.00817
 longitude: 8.32017
 postcode: "76189"
 city: Karlsruhe
-street: "Industriestraße"
-housenumber: 17
+street: Industriestraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-14:00; PH closed"
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-14:00; PH closed
 website: ""

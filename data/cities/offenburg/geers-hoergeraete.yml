@@ -4,8 +4,8 @@ latitude: 48.46926
 longitude: 7.94549
 postcode: "77652"
 city: Offenburg
-street: "Steinstraße"
-housenumber: 30
-phone: "+49 781 91906802"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00"
-website: "https://standorte.geers.de/offenburg/steinstrasse-30.html"
+street: Steinstraße
+housenumber: "30"
+phone: +49 781 91906802
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00
+website: https://standorte.geers.de/offenburg/steinstrasse-30.html

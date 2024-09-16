@@ -1,11 +1,11 @@
 id: 197939828
-type: way
+type: node
 latitude: 48.95049
 longitude: 9.14711
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Gustav-Rau-Straße"
-housenumber: 11
+street: Gustav-Rau-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"
-website: "https://www.fritz-bietigheim-bissingen.audi/de.html"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00
+website: https://www.fritz-bietigheim-bissingen.audi/de.html

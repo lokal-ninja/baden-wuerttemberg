@@ -4,8 +4,8 @@ latitude: 48.50576
 longitude: 9.05188
 postcode: "72072"
 city: Tübingen
-street: "Heinlenstraße"
-housenumber: 10
-phone: "+49 7071 1355033"
-opening_hours: "Tu,Fr 09:00-19:00; We,Th 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.meisterwerk-friseur.de/"
+street: Heinlenstraße
+housenumber: "10"
+phone: +49 7071 1355033
+opening_hours: Tu,Fr 09:00-19:00; We,Th 09:00-18:00; Sa 09:00-14:00
+website: https://www.meisterwerk-friseur.de/

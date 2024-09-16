@@ -1,11 +1,11 @@
 id: 53275701
-type: way
+type: node
 latitude: 47.77967
 longitude: 9.39355
 postcode: "88693"
 city: Deggenhausertal
-street: "Birklestraße"
-housenumber: 2
+street: Birklestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

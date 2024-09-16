@@ -1,11 +1,11 @@
 id: 93473502
-type: way
+type: node
 latitude: 48.85898
 longitude: 8.22966
 postcode: "76437"
 city: Rastatt
-street: "Berliner Ring"
-housenumber: 44
+street: Berliner Ring
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 05:00-20:00; Sa,Su 08:00-20:00"
-website: "https://www.baeckerei-anatolia.de/"
+opening_hours: Mo-Fr 05:00-20:00; Sa,Su 08:00-20:00
+website: https://www.baeckerei-anatolia.de/

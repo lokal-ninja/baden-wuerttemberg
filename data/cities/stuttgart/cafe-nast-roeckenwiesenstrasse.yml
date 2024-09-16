@@ -4,8 +4,8 @@ latitude: 48.76824
 longitude: 9.14872
 postcode: "70197"
 city: Stuttgart
-street: "Röckenwiesenstraße"
-housenumber: 28
+street: Röckenwiesenstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-13:00"
-website: "https://www.cafenast.de/"
+opening_hours: Mo-Sa 07:00-13:00
+website: https://www.cafenast.de/

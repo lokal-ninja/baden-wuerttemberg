@@ -1,11 +1,11 @@
 id: 416320969
-type: way
+type: node
 latitude: 49.31193
 longitude: 8.55673
 postcode: "68766"
 city: Hockenheim
-street: "Heinrich-von-Kleist-Straße"
-housenumber: 16
-phone: "+49 6205 3050978"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "http://www.meinehem.de/tankstellen-finder/details/gasstation/hockenheim-heinrich-von-kleist-str-16/"
+street: Heinrich-von-Kleist-Straße
+housenumber: "16"
+phone: +49 6205 3050978
+opening_hours: Mo-Su 06:00-22:00
+website: http://www.meinehem.de/tankstellen-finder/details/gasstation/hockenheim-heinrich-von-kleist-str-16/

@@ -4,8 +4,8 @@ latitude: 47.65919
 longitude: 9.17141
 postcode: "78462"
 city: Konstanz
-street: "Hussenstraße"
-housenumber: 46
+street: Hussenstraße
+housenumber: "46"
 phone: "+497531919990"
-opening_hours: "Mo,Fr 11:00-18:00; Tu-Th 11:00-16:00; Sa 09:00-13:00"
-website: "https://www.ltur.com/de/index"
+opening_hours: Mo,Fr 11:00-18:00; Tu-Th 11:00-16:00; Sa 09:00-13:00
+website: https://www.ltur.com/de/index

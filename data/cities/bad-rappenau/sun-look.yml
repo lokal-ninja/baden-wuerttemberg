@@ -1,11 +1,11 @@
 id: 997235287
-type: way
+type: node
 latitude: 49.2374
 longitude: 9.09273
 postcode: "74906"
 city: Bad Rappenau
-street: "Riemenstraße"
+street: Riemenstraße
 housenumber: 5/3
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-20:00; We 13:00-20:00; Sa 09:00-16:00; Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 09:00-20:00; We 13:00-20:00; Sa 09:00-16:00; Su,PH off
 website: ""

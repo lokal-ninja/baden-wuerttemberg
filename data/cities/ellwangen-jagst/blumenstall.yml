@@ -1,11 +1,11 @@
 id: 335896063
-type: way
+type: node
 latitude: 48.98549
 longitude: 10.12219
 postcode: "73479"
 city: Ellwangen (Jagst)
-street: "Kübelesbuck"
-housenumber: 28
-phone: "+49 7961 52804"
+street: Kübelesbuck
+housenumber: "28"
+phone: +49 7961 52804
 opening_hours: ""
 website: ""

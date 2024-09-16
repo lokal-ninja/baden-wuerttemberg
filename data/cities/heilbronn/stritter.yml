@@ -4,8 +4,8 @@ latitude: 49.14034
 longitude: 9.22403
 postcode: "74072"
 city: Heilbronn
-street: "Gymnasiumstraße"
-housenumber: 37
+street: Gymnasiumstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.stritter.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.stritter.de

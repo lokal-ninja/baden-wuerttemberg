@@ -1,11 +1,11 @@
 id: 239202955
-type: way
+type: node
 latitude: 48.98107
 longitude: 9.58079
 postcode: "71540"
 city: Murrhardt
-street: "Fritz-Schweizer-Straße"
-housenumber: 6
+street: Fritz-Schweizer-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

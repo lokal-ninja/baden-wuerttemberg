@@ -4,8 +4,9 @@ latitude: 47.67679
 longitude: 9.49247
 postcode: "88048"
 city: Friedrichshafen
-street: "Bodenseestraße"
-housenumber: 119
+street: Bodenseestraße
+housenumber: "119"
 phone: ""
-opening_hours: "Mo 09:00-18:00; Tu 09:00-12:00,13:00-19:00; We 12:00-19:30; Th,Sa 09:00-13:30; Fr 09:00-12:00,13:30-19:30; Su,PH off"
+opening_hours: Mo 09:00-18:00; Tu 09:00-12:00,13:00-19:00; We 12:00-19:30; Th,Sa 09:00-13:30;
+    Fr 09:00-12:00,13:30-19:30; Su,PH off
 website: ""

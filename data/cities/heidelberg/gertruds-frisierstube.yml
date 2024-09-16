@@ -4,8 +4,8 @@ latitude: 49.42361
 longitude: 8.65064
 postcode: "69123"
 city: Heidelberg
-street: "Wundtstraße"
-housenumber: 5
-phone: "+49 6221 834835"
-opening_hours: "Mo-Sa 08:30-18:00; Sa 08:00-13:00"
-website: "https://web.archive.org/web/20120719182202/http://www.frisierstube.de/"
+street: Wundtstraße
+housenumber: "5"
+phone: +49 6221 834835
+opening_hours: Mo-Sa 08:30-18:00; Sa 08:00-13:00
+website: https://web.archive.org/web/20120719182202/http://www.frisierstube.de/

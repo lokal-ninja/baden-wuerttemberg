@@ -1,11 +1,11 @@
 id: 226419598
-type: way
+type: node
 latitude: 48.80004
 longitude: 9.80115
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Rinderbacher Gasse"
-housenumber: 24
+street: Rinderbacher Gasse
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

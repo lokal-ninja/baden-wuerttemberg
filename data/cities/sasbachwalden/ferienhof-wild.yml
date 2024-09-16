@@ -1,11 +1,11 @@
 id: 302822541
-type: way
+type: node
 latitude: 48.61068
 longitude: 8.13835
 postcode: "77887"
 city: Sasbachwalden
-street: "Bergstraße"
-housenumber: 7
+street: Bergstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.schlafen-im-weinfass.de/"
+website: https://www.schlafen-im-weinfass.de/

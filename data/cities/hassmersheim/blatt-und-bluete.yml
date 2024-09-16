@@ -4,8 +4,8 @@ latitude: 49.30142
 longitude: 9.14859
 postcode: "74855"
 city: Haßmersheim
-street: "Theodor-Heuss-Straße"
-housenumber: 32
-phone: "+49 6266 561"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,15:00-18:00;We,Sa 09:00-12:30;Su,PH off"
+street: Theodor-Heuss-Straße
+housenumber: "32"
+phone: +49 6266 561
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,15:00-18:00;We,Sa 09:00-12:30;Su,PH off
 website: ""

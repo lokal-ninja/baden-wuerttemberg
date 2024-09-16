@@ -4,8 +4,8 @@ latitude: 48.79783
 longitude: 8.49565
 postcode: "75335"
 city: Dobel
-street: "Hauptstraße"
-housenumber: 18
-phone: "+49 7083 9359403"
-opening_hours: "Mo-Fr 08:00-12:30; Mo,We-Fr 15:00-18:00; Sa 07:00-12:30"
+street: Hauptstraße
+housenumber: "18"
+phone: +49 7083 9359403
+opening_hours: Mo-Fr 08:00-12:30; Mo,We-Fr 15:00-18:00; Sa 07:00-12:30
 website: ""

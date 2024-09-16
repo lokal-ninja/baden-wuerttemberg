@@ -4,8 +4,8 @@ latitude: 48.41278
 longitude: 9.05441
 postcode: "72116"
 city: Mössingen
-street: "Wilhelmstraße"
-housenumber: 16
-phone: "+49 7473 95160"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00"
-website: "https://www.jungviehweide.de"
+street: Wilhelmstraße
+housenumber: "16"
+phone: +49 7473 95160
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-14:00
+website: https://www.jungviehweide.de

@@ -4,8 +4,8 @@ latitude: 48.80465
 longitude: 9.21444
 postcode: "70372"
 city: Stuttgart
-street: "Sulzgasse"
-housenumber: 4
+street: Sulzgasse
+housenumber: "4"
 phone: "+4971123100505"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://weltlaeden.de/badcannstatt/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://weltlaeden.de/badcannstatt/

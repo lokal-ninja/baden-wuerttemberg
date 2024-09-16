@@ -1,11 +1,11 @@
 id: 291143195
-type: way
+type: node
 latitude: 48.77922
 longitude: 8.18525
 postcode: "76532"
 city: Baden-Baden
-street: "Sinzheimer Straße"
-housenumber: 83
+street: Sinzheimer Straße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

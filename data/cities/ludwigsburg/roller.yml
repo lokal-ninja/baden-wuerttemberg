@@ -1,11 +1,11 @@
 id: 292276646
-type: way
+type: node
 latitude: 48.92235
 longitude: 9.14455
 postcode: "71634"
 city: Ludwigsburg
-street: "Maybachstraße"
-housenumber: 14
+street: Maybachstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

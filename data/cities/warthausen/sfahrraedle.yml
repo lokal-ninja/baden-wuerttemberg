@@ -1,11 +1,11 @@
 id: 136719962
-type: way
+type: node
 latitude: 48.11719
 longitude: 9.76717
 postcode: "88447"
 city: Warthausen
-street: "Im Schachen"
-housenumber: 12
+street: Im Schachen
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

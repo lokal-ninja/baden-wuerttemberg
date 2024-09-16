@@ -4,8 +4,8 @@ latitude: 48.80991
 longitude: 9.27733
 postcode: "70734"
 city: Fellbach
-street: "Cannstatter Straße"
-housenumber: 60
-phone: "+49 711 3055098"
-opening_hours: "Mo-Fr 06:30-18:30, Sa 06:00-15:00, So 08:00-17:00"
-website: "https://baecker-maurer.de/"
+street: Cannstatter Straße
+housenumber: "60"
+phone: +49 711 3055098
+opening_hours: Mo-Fr 06:30-18:30, Sa 06:00-15:00, So 08:00-17:00
+website: https://baecker-maurer.de/

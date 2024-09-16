@@ -4,8 +4,8 @@ latitude: 48.73915
 longitude: 9.3118
 postcode: "73728"
 city: Esslingen am Neckar
-street: "Kiesstraße"
-housenumber: 8
+street: Kiesstraße
+housenumber: "8"
 phone: "+4917610305824"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00"
-website: "https://www.dsl-city-shop.de"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00
+website: https://www.dsl-city-shop.de

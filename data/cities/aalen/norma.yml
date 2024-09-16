@@ -1,11 +1,11 @@
 id: 232344622
-type: way
+type: node
 latitude: 48.84797
 longitude: 10.09446
 postcode: "73430"
 city: Aalen
-street: "Eduard-Pfeiffer-Straße"
-housenumber: 17
+street: Eduard-Pfeiffer-Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

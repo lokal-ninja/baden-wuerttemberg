@@ -1,11 +1,11 @@
 id: 336347744
-type: way
+type: node
 latitude: 48.85777
 longitude: 8.20722
 postcode: "76437"
 city: Rastatt
-street: "Kapellenstraße"
-housenumber: 36
+street: Kapellenstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-20:00; Su,PH off
 website: ""

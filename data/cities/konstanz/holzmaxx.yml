@@ -1,11 +1,11 @@
 id: 711036628
-type: way
+type: node
 latitude: 47.67147
 longitude: 9.17071
 postcode: "78467"
 city: Konstanz
-street: "Reichenaustraße"
-housenumber: 34
+street: Reichenaustraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

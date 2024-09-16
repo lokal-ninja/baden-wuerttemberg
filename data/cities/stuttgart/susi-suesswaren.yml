@@ -4,8 +4,8 @@ latitude: 48.8095
 longitude: 9.16098
 postcode: "70469"
 city: Stuttgart
-street: "Stuttgarter Straße"
-housenumber: 53
-phone: "+49 711 857604"
-opening_hours: "Mo-Fr 09:30-13:00,14:30-18:00; Sa 09:30-14:00; Su off"
+street: Stuttgarter Straße
+housenumber: "53"
+phone: +49 711 857604
+opening_hours: Mo-Fr 09:30-13:00,14:30-18:00; Sa 09:30-14:00; Su off
 website: ""

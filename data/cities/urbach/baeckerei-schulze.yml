@@ -1,11 +1,11 @@
 id: 960166578
-type: way
+type: node
 latitude: 48.81053
 longitude: 9.56971
 postcode: "73660"
 city: Urbach
-street: "Mühlwiesen"
-housenumber: 15
-phone: "+49 7181 4749060"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-16:00"
-website: "http://bäckerei-schulze.de"
+street: Mühlwiesen
+housenumber: "15"
+phone: +49 7181 4749060
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-16:00
+website: http://bäckerei-schulze.de

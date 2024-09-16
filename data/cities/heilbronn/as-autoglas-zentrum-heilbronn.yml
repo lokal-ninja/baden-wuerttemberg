@@ -4,8 +4,8 @@ latitude: 49.15819
 longitude: 9.21649
 postcode: "74076"
 city: Heilbronn
-street: "Salzstraße"
-housenumber: 100
-phone: "+49 7131 8988155"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://autoglas-heilbronn.com"
+street: Salzstraße
+housenumber: "100"
+phone: +49 7131 8988155
+opening_hours: Mo-Fr 08:00-17:00
+website: https://autoglas-heilbronn.com

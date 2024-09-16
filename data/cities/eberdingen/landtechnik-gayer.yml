@@ -1,11 +1,11 @@
 id: 151095870
-type: way
+type: node
 latitude: 48.89898
 longitude: 8.94012
 postcode: "71735"
 city: Eberdingen
-street: "Siemensstraße"
-housenumber: 35
-phone: "+49 7042 5619"
+street: Siemensstraße
+housenumber: "35"
+phone: +49 7042 5619
 opening_hours: ""
 website: ""

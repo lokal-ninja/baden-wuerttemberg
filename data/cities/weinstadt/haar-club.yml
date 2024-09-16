@@ -1,11 +1,11 @@
 id: 130743860
-type: way
+type: node
 latitude: 48.81068
 longitude: 9.36433
 postcode: "71384"
 city: Weinstadt
-street: "Traubenstraße"
+street: Traubenstraße
 housenumber: 3a
 phone: ""
-opening_hours: "Tu-Fr 09:00-20:00; Sa 08:00-13:30; PH,Mo,Su closed"
+opening_hours: Tu-Fr 09:00-20:00; Sa 08:00-13:30; PH,Mo,Su closed
 website: ""

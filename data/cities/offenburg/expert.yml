@@ -1,11 +1,11 @@
 id: 190804188
-type: way
+type: node
 latitude: 48.49614
 longitude: 7.93213
 postcode: "77652"
 city: Offenburg
-street: "Bohlsbacher Straße"
-housenumber: 2
+street: Bohlsbacher Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

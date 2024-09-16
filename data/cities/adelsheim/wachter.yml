@@ -1,11 +1,11 @@
 id: 1064921284
-type: way
+type: node
 latitude: 49.40395
 longitude: 9.38967
 postcode: "74740"
 city: Adelsheim
-street: "Marktstraße"
-housenumber: 17
+street: Marktstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 15:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-12:30, 15:00-18:00; Sa 09:00-13:00
 website: ""

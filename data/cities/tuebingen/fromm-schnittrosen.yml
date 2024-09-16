@@ -4,8 +4,8 @@ latitude: 48.54671
 longitude: 9.09083
 postcode: "72074"
 city: Tübingen
-street: "Neufeld"
-housenumber: 2
-phone: "+49 7071 81319"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-17:30; Sa 09:00-12:00; Su,PH off"
+street: Neufeld
+housenumber: "2"
+phone: +49 7071 81319
+opening_hours: Mo-Fr 08:00-12:00, 14:00-17:30; Sa 09:00-12:00; Su,PH off
 website: ""

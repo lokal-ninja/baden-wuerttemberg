@@ -4,8 +4,8 @@ latitude: 48.01841
 longitude: 9.24861
 postcode: "72505"
 city: Krauchenwies
-street: "Hauptstraße"
-housenumber: 15
+street: Hauptstraße
+housenumber: "15"
 phone: ""
-opening_hours: "24/7"
-website: "https://enzenross-krauchenwies.de/hoflaedele"
+opening_hours: 24/7
+website: https://enzenross-krauchenwies.de/hoflaedele

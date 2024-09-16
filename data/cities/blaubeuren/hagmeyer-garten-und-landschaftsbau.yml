@@ -1,11 +1,11 @@
 id: 120201613
-type: way
+type: node
 latitude: 48.4253
 longitude: 9.77517
 postcode: "89143"
 city: Blaubeuren
-street: "Hessenhöfe"
-housenumber: 15
+street: Hessenhöfe
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 110448331
-type: way
+type: node
 latitude: 49.13584
 longitude: 9.37687
 postcode: "74182"
 city: Obersulm
-street: "Maybachstraße"
-housenumber: 5
+street: Maybachstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

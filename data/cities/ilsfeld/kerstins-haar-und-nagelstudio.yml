@@ -1,11 +1,11 @@
 id: 83732744
-type: way
+type: node
 latitude: 49.05618
 longitude: 9.25158
 postcode: "74360"
 city: Ilsfeld
-street: "Auensteiner Straße"
-housenumber: 12
-phone: "+49 7062 674064"
+street: Auensteiner Straße
+housenumber: "12"
+phone: +49 7062 674064
 opening_hours: ""
-website: "https://www.kerstins-haarstudio.de/"
+website: https://www.kerstins-haarstudio.de/

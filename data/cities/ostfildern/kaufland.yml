@@ -4,8 +4,8 @@ latitude: 48.7212
 longitude: 9.27133
 postcode: "73760"
 city: Ostfildern
-street: "Bonhoefferstraße"
-housenumber: 1
-phone: "+49 711 9829540"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Bonhoefferstraße
+housenumber: "1"
+phone: +49 711 9829540
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

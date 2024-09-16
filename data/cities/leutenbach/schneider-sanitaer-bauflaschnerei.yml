@@ -1,11 +1,11 @@
 id: 125007588
-type: way
+type: node
 latitude: 48.88596
 longitude: 9.39164
 postcode: "71397"
 city: Leutenbach
-street: "Winnender Straße"
-housenumber: 26
-phone: "+49 7195 3239"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.schneidersanitaer.de/"
+street: Winnender Straße
+housenumber: "26"
+phone: +49 7195 3239
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.schneidersanitaer.de/

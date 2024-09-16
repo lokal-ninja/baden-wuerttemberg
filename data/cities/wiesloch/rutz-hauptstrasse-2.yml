@@ -4,8 +4,8 @@ latitude: 49.29317
 longitude: 8.69731
 postcode: "69168"
 city: Wiesloch
-street: "Hauptstraße"
-housenumber: 128
-phone: "+49 6222 6639777"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-16:00; Su 07:00-17:00"
-website: "https://www.rutz.de/"
+street: Hauptstraße
+housenumber: "128"
+phone: +49 6222 6639777
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-16:00; Su 07:00-17:00
+website: https://www.rutz.de/

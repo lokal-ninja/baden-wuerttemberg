@@ -4,8 +4,8 @@ latitude: 48.3997
 longitude: 9.99648
 postcode: "89073"
 city: Ulm
-street: "Frauenstraße"
-housenumber: 25
-phone: "+49 731 65478"
-opening_hours: "Mo-Sa 06:00-18:00"
-website: "https://www.bayers.de/"
+street: Frauenstraße
+housenumber: "25"
+phone: +49 731 65478
+opening_hours: Mo-Sa 06:00-18:00
+website: https://www.bayers.de/

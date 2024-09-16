@@ -4,8 +4,8 @@ latitude: 47.83168
 longitude: 9.66614
 postcode: "88255"
 city: Baienfurt
-street: "Kartonstraße"
-housenumber: 4
-phone: "+49 751 41061"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-15:30; Sa 09:00-12:00"
-website: "https://www.lindel-zeller.de/"
+street: Kartonstraße
+housenumber: "4"
+phone: +49 751 41061
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-15:30; Sa 09:00-12:00
+website: https://www.lindel-zeller.de/

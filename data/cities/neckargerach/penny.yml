@@ -1,11 +1,11 @@
 id: 1059600837
-type: way
+type: node
 latitude: 49.40068
 longitude: 9.06793
 postcode: "69437"
 city: Neckargerach
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

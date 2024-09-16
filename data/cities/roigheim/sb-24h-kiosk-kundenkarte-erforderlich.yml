@@ -1,11 +1,11 @@
 id: 293012281
-type: way
+type: node
 latitude: 49.36554
 longitude: 9.34329
 postcode: "74255"
 city: Roigheim
-street: "Zeilstraße"
-housenumber: 33
-phone: "06298 9372302"
-opening_hours: "24/7"
+street: Zeilstraße
+housenumber: "33"
+phone: 06298 9372302
+opening_hours: 24/7
 website: ""

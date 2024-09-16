@@ -4,8 +4,8 @@ latitude: 48.94208
 longitude: 8.40748
 postcode: "76275"
 city: Ettlingen
-street: "Albstraße"
-housenumber: 19
+street: Albstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://www.schuhhaus-rissel.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://www.schuhhaus-rissel.de/

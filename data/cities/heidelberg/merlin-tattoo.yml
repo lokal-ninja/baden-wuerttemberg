@@ -4,8 +4,8 @@ latitude: 49.39934
 longitude: 8.68809
 postcode: "69115"
 city: Heidelberg
-street: "Schillerstraße"
-housenumber: 32
-phone: "+49 162 6668222"
-opening_hours: "Tu-Fr 12:00-18:30; Sa 10:00-14:00"
-website: "https://www.merlintattoo.com/"
+street: Schillerstraße
+housenumber: "32"
+phone: +49 162 6668222
+opening_hours: Tu-Fr 12:00-18:30; Sa 10:00-14:00
+website: https://www.merlintattoo.com/

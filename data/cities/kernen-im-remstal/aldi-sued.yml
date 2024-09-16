@@ -1,11 +1,11 @@
 id: 338663379
-type: way
+type: node
 latitude: 48.80947
 longitude: 9.32702
 postcode: "71394"
 city: Kernen im Remstal
-street: "Karlstraße"
-housenumber: 59
+street: Karlstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

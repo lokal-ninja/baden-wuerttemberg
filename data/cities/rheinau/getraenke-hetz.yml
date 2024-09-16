@@ -1,11 +1,11 @@
 id: 59228643
-type: way
+type: node
 latitude: 48.67422
 longitude: 7.92285
 postcode: "77866"
 city: Rheinau
-street: "Im Kirchkopf"
-housenumber: 1
-phone: "+49 7844 91899-0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.getraenke-hetz.de/"
+street: Im Kirchkopf
+housenumber: "1"
+phone: +49 7844 91899-0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.getraenke-hetz.de/

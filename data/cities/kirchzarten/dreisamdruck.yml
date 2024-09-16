@@ -1,11 +1,11 @@
 id: 193757211
-type: way
+type: node
 latitude: 47.96709
 longitude: 7.95209
 postcode: "79199"
 city: Kirchzarten
-street: "Albert-Schweitzer-Straße"
-housenumber: 2
+street: Albert-Schweitzer-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "www.dreisamdruck.de/"
+website: www.dreisamdruck.de/

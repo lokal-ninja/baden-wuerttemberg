@@ -1,11 +1,11 @@
 id: 1024147799
-type: way
+type: node
 latitude: 48.69482
 longitude: 10.07443
 postcode: "89555"
 city: Steinheim am Albuch
-street: "Maybachstraße"
-housenumber: 5
+street: Maybachstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

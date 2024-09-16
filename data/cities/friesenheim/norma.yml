@@ -1,11 +1,11 @@
 id: 583181761
-type: way
+type: node
 latitude: 48.36745
 longitude: 7.89361
 postcode: "77948"
 city: Friesenheim
-street: "Allmendstraße"
-housenumber: 16
+street: Allmendstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

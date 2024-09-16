@@ -1,11 +1,11 @@
 id: 138325101
-type: way
+type: node
 latitude: 49.59
 longitude: 9.38034
 postcode: "74731"
 city: Walldürn
-street: "Heidingsfelder Weg"
-housenumber: 2
+street: Heidingsfelder Weg
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://autohaus-golderer.de/"
+website: https://autohaus-golderer.de/

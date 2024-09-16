@@ -1,11 +1,11 @@
 id: 325922986
-type: way
+type: node
 latitude: 48.48253
 longitude: 7.94253
 postcode: "77652"
 city: Offenburg
-street: "Helmholtzstraße"
-housenumber: 19
+street: Helmholtzstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://basler-karosseriebau.de/"
+website: https://basler-karosseriebau.de/

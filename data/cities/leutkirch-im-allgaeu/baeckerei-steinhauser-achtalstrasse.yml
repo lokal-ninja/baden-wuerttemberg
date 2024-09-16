@@ -1,11 +1,11 @@
 id: 293710195
-type: way
+type: node
 latitude: 47.84498
 longitude: 9.94569
 postcode: "88299"
 city: Leutkirch im Allgäu
-street: "Achtalstraße"
-housenumber: 11
+street: Achtalstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

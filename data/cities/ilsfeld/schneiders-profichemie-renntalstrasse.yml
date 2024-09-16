@@ -1,11 +1,11 @@
 id: 193154876
-type: way
+type: node
 latitude: 49.06581
 longitude: 9.26302
 postcode: "74360"
 city: Ilsfeld
-street: "Renntalstraße"
-housenumber: 8
+street: Renntalstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.profichemie.de"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.profichemie.de

@@ -1,11 +1,11 @@
 id: 198826087
-type: way
+type: node
 latitude: 48.22758
 longitude: 8.42111
 postcode: ""
 city: Schramberg
-street: "Vier-Häuser-Straße"
-housenumber: 1
+street: Vier-Häuser-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

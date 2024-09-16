@@ -1,11 +1,11 @@
 id: 576415825
-type: way
+type: node
 latitude: 48.34573
 longitude: 8.40576
 postcode: "72275"
 city: Alpirsbach
-street: "Karlstraße"
-housenumber: 29
+street: Karlstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 133404596
-type: way
+type: node
 latitude: 48.14748
 longitude: 8.36103
 postcode: "78112"
 city: St. Georgen im Schwarzwald
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Sa 15:00-17:00"
+opening_hours: Sa 15:00-17:00
 website: ""

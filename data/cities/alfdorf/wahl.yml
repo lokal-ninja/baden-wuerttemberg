@@ -1,11 +1,11 @@
 id: 191919503
-type: way
+type: node
 latitude: 48.84604
 longitude: 9.73502
 postcode: "73553"
 city: Alfdorf
-street: "Albuchstraße"
-housenumber: 2
+street: Albuchstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

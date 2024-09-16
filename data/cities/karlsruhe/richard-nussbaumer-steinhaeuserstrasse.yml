@@ -4,8 +4,8 @@ latitude: 49.00054
 longitude: 8.37869
 postcode: "76135"
 city: Karlsruhe
-street: "Steinhäuserstraße"
-housenumber: 18
-phone: "+49 721 96604044"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-18:00; Su 08:00-17:00"
-website: "https://baeckerei-nussbaumer.de/"
+street: Steinhäuserstraße
+housenumber: "18"
+phone: +49 721 96604044
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-18:00; Su 08:00-17:00
+website: https://baeckerei-nussbaumer.de/

@@ -4,8 +4,8 @@ latitude: 49.50719
 longitude: 8.63535
 postcode: "69493"
 city: Hirschberg an der Bergstraße
-street: "Im Rott"
-housenumber: 2
+street: Im Rott
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.schmidt-ambiente.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.schmidt-ambiente.de/

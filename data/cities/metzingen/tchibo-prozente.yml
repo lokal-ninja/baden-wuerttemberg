@@ -1,11 +1,11 @@
 id: 457120110
-type: way
+type: node
 latitude: 48.53821
 longitude: 9.28328
 postcode: "72555"
 city: Metzingen
-street: "Reutlinger Straße"
-housenumber: 22
+street: Reutlinger Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

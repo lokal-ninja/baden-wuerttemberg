@@ -1,11 +1,11 @@
 id: 42098971
-type: way
+type: node
 latitude: 48.70255
 longitude: 10.23574
 postcode: "89564"
 city: Nattheim
-street: "Daimlerstraße"
-housenumber: 4
+street: Daimlerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

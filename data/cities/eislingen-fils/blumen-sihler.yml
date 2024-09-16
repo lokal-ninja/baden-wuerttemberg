@@ -4,8 +4,9 @@ latitude: 48.69745
 longitude: 9.711
 postcode: "73054"
 city: Eislingen/Fils
-street: "Salacher Straße"
-housenumber: 40
+street: Salacher Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo 08:00-12:30,14:00-18:30; Tu off; We-Fr 08:00-12:30,14:00-18:30; Sa 08:00-14:00; Su 11:15-12:15"
-website: "http://www.blumen-sihler.de"
+opening_hours: Mo 08:00-12:30,14:00-18:30; Tu off; We-Fr 08:00-12:30,14:00-18:30;
+    Sa 08:00-14:00; Su 11:15-12:15
+website: http://www.blumen-sihler.de

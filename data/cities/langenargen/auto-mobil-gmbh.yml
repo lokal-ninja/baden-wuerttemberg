@@ -1,11 +1,11 @@
 id: 316214148
-type: way
+type: node
 latitude: 47.60072
 longitude: 9.55377
 postcode: "88085"
 city: Langenargen
-street: "Mühlesch"
-housenumber: 21
-phone: "+49 7543 939730"
+street: Mühlesch
+housenumber: "21"
+phone: +49 7543 939730
 opening_hours: ""
 website: ""

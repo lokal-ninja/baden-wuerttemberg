@@ -4,8 +4,8 @@ latitude: 48.69563
 longitude: 8.77312
 postcode: "75365"
 city: Calw
-street: "Hauptstraße"
-housenumber: 17
+street: Hauptstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://shop.calwerkaffee.de"
+website: https://shop.calwerkaffee.de

@@ -4,8 +4,9 @@ latitude: 48.52106
 longitude: 9.05341
 postcode: "72070"
 city: Tübingen
-street: "Marktgasse"
-housenumber: 14
-phone: "+49 7071 5498967"
-opening_hours: "Oct-Mar: Mo-Fr 10:30-18:30; Oct-Mar: Sa 10:30-16:00; Apr-Sep: Mo-Fr 09:30-19:00; Apr-Sep: Sa 09:30-17:30; Su,PH off"
-website: "https://contigo.de/contigo-fairtrade-shops/tuebingen/"
+street: Marktgasse
+housenumber: "14"
+phone: +49 7071 5498967
+opening_hours: 'Oct-Mar: Mo-Fr 10:30-18:30; Oct-Mar: Sa 10:30-16:00; Apr-Sep: Mo-Fr
+    09:30-19:00; Apr-Sep: Sa 09:30-17:30; Su,PH off'
+website: https://contigo.de/contigo-fairtrade-shops/tuebingen/

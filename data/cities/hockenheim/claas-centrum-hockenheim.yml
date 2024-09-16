@@ -1,11 +1,11 @@
 id: 339438127
-type: way
+type: node
 latitude: 49.32996
 longitude: 8.53842
 postcode: "68766"
 city: Hockenheim
-street: "Talhausstraße"
-housenumber: 8
+street: Talhausstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

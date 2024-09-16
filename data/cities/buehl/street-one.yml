@@ -4,8 +4,8 @@ latitude: 48.69578
 longitude: 8.13602
 postcode: "77815"
 city: Bühl
-street: "Hauptstraße"
-housenumber: 49
+street: Hauptstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:00; Sa 09:30-16:00"
-website: "https://www.street-one.de/shopfinder/Buehl"
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:00; Sa 09:30-16:00
+website: https://www.street-one.de/shopfinder/Buehl

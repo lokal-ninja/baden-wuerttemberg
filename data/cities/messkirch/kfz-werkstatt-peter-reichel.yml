@@ -1,11 +1,11 @@
 id: 379457359
-type: way
+type: node
 latitude: 47.99319
 longitude: 9.16716
 postcode: "88605"
 city: Meßkirch
-street: "Schlehenstraße"
-housenumber: 5
+street: Schlehenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

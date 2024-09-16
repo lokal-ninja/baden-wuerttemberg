@@ -1,11 +1,11 @@
 id: 80273867
-type: way
+type: node
 latitude: 48.08025
 longitude: 8.45088
 postcode: "78052"
 city: Villingen-Schwenningen
-street: "Werner-von-Siemens-Straße"
-housenumber: 8
+street: Werner-von-Siemens-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.wein-whisky-shop.de/"
+website: https://www.wein-whisky-shop.de/

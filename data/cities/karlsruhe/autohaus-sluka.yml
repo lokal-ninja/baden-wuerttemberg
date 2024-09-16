@@ -1,11 +1,11 @@
 id: 93600295
-type: way
+type: node
 latitude: 49.02492
 longitude: 8.35611
 postcode: "76185"
 city: Karlsruhe
-street: "Daimlerstraße"
+street: Daimlerstraße
 housenumber: 1a
 phone: ""
 opening_hours: ""
-website: "https://www.auto-sluka.de/"
+website: https://www.auto-sluka.de/

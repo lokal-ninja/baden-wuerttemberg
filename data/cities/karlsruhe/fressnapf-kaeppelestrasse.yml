@@ -4,8 +4,8 @@ latitude: 49.00859
 longitude: 8.43855
 postcode: "76131"
 city: Karlsruhe
-street: "Käppelestraße"
-housenumber: 5
+street: Käppelestraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://www.fressnapf.de/maerkte/fressnapf-karlsruhe"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://www.fressnapf.de/maerkte/fressnapf-karlsruhe

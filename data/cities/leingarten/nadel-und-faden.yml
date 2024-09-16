@@ -1,11 +1,11 @@
 id: 99028976
-type: way
+type: node
 latitude: 49.14362
 longitude: 9.12224
 postcode: "74211"
 city: Leingarten
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "www.nadelfaden.de"
+website: www.nadelfaden.de

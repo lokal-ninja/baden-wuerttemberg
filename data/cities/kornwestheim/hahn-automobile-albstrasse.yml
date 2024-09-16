@@ -1,11 +1,11 @@
 id: 124407727
-type: way
+type: node
 latitude: 48.85112
 longitude: 9.18712
 postcode: "70806"
 city: Kornwestheim
-street: "Albstraße"
-housenumber: 18
+street: Albstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-13:00"
-website: "www.auto-blank.de"
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-13:00
+website: www.auto-blank.de

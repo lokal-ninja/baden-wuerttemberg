@@ -1,11 +1,11 @@
 id: 102715976
-type: way
+type: node
 latitude: 49.07589
 longitude: 9.14927
 postcode: "74348"
 city: Lauffen am Neckar
-street: "Bahnhofstraße"
-housenumber: 21
-phone: "+49-7133-965811"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-18:30; We 09:30-12:30; Sa 09:00-13:00"
-website: "https://www.mocos.de/"
+street: Bahnhofstraße
+housenumber: "21"
+phone: +49-7133-965811
+opening_hours: Mo-Fr 09:30-12:30,14:00-18:30; We 09:30-12:30; Sa 09:00-13:00
+website: https://www.mocos.de/

@@ -4,8 +4,8 @@ latitude: 48.60003
 longitude: 10.25335
 postcode: "89568"
 city: Hermaringen
-street: "Friedrichstraße"
-housenumber: 46
-phone: "+49 179 4735404"
-opening_hours: "Th,Fr 09:00-12:00,14:00-17:30; Sa 09:00-12:30; PH off"
+street: Friedrichstraße
+housenumber: "46"
+phone: +49 179 4735404
+opening_hours: Th,Fr 09:00-12:00,14:00-17:30; Sa 09:00-12:30; PH off
 website: ""

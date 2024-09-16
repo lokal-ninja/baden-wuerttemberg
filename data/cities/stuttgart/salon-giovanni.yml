@@ -1,11 +1,11 @@
 id: 149742804
-type: way
+type: node
 latitude: 48.83257
 longitude: 9.17621
 postcode: "70435"
 city: Stuttgart
-street: "Marbacher Straße"
-housenumber: 31
+street: Marbacher Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

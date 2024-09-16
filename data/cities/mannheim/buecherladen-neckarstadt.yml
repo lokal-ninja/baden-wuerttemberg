@@ -4,8 +4,8 @@ latitude: 49.49628
 longitude: 8.48057
 postcode: "68167"
 city: Mannheim
-street: "Uhlandstraße"
-housenumber: 16
+street: Uhlandstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-13:00"
-website: "https://www.buecherladen-neckarstadt.de/"
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-13:00
+website: https://www.buecherladen-neckarstadt.de/

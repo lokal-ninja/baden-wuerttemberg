@@ -1,11 +1,11 @@
 id: 381815570
-type: way
+type: node
 latitude: 48.90415
 longitude: 9.14295
 postcode: "71679"
 city: Asperg
-street: "Eglosheimer Straße"
-housenumber: 72
+street: Eglosheimer Straße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

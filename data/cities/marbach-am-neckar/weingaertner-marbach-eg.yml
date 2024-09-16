@@ -1,11 +1,11 @@
 id: 154116183
-type: way
+type: node
 latitude: 48.93564
 longitude: 9.27255
 postcode: "71672"
 city: Marbach am Neckar
-street: "Affalterbacher Straße"
-housenumber: 65
+street: Affalterbacher Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "www.wg-marbach.de"
+website: www.wg-marbach.de

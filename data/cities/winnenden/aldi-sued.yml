@@ -1,11 +1,11 @@
 id: 668607615
-type: way
+type: node
 latitude: 48.8716
 longitude: 9.41108
 postcode: "71364"
 city: Winnenden
-street: "Schorndorfer Straße"
-housenumber: 78
+street: Schorndorfer Straße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

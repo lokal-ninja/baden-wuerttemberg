@@ -4,8 +4,8 @@ latitude: 47.77961
 longitude: 9.61284
 postcode: "88214"
 city: Ravensburg
-street: "Seestraße"
-housenumber: 2
+street: Seestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:30"
-website: "http://www.baeckerei-heinrichs.de"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:30
+website: http://www.baeckerei-heinrichs.de

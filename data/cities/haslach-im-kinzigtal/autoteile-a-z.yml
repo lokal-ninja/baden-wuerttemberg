@@ -1,11 +1,11 @@
 id: 257355512
-type: way
+type: node
 latitude: 48.27555
 longitude: 8.08607
 postcode: "77716"
 city: Haslach im Kinzigtal
-street: "Hofstetter Straße"
-housenumber: 5
+street: Hofstetter Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

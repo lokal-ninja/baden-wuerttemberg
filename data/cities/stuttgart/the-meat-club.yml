@@ -4,8 +4,8 @@ latitude: 48.77401
 longitude: 9.17928
 postcode: "70173"
 city: Stuttgart
-street: "Eberhardstraße"
-housenumber: 31
+street: Eberhardstraße
+housenumber: "31"
 phone: ""
-opening_hours: "We,Th 10:00-19:00; Fr,Sa 10:00-20:00"
-website: "https://www.the-meat-club.com/"
+opening_hours: We,Th 10:00-19:00; Fr,Sa 10:00-20:00
+website: https://www.the-meat-club.com/

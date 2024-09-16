@@ -1,11 +1,11 @@
 id: 711492512
-type: way
+type: node
 latitude: 47.67518
 longitude: 9.15787
 postcode: "78467"
 city: Konstanz
-street: "Reichenaustraße"
-housenumber: 208
-phone: "+49 7531 361911-0"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://toom.de/m/konstanz/"
+street: Reichenaustraße
+housenumber: "208"
+phone: +49 7531 361911-0
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://toom.de/m/konstanz/

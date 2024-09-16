@@ -1,11 +1,11 @@
 id: 119755932
-type: way
+type: node
 latitude: 48.13013
 longitude: 7.81106
 postcode: "79331"
 city: Teningen
-street: "Tscheulinstraße"
-housenumber: 2
+street: Tscheulinstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

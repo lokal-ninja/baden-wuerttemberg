@@ -1,11 +1,11 @@
 id: 35930208
-type: way
+type: node
 latitude: 48.70118
 longitude: 9.15831
 postcode: "70771"
 city: Leinfelden-Echterdingen
-street: "Friedrich-List-Straße"
-housenumber: 75
+street: Friedrich-List-Straße
+housenumber: "75"
 phone: ""
-opening_hours: "Fr 15:00-18:00"
+opening_hours: Fr 15:00-18:00
 website: ""

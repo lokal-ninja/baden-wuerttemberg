@@ -4,8 +4,8 @@ latitude: 48.78165
 longitude: 9.15858
 postcode: "70176"
 city: Stuttgart
-street: "Johannesstraße"
-housenumber: 96
+street: Johannesstraße
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.schoko-paradies-stuttgart.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.schoko-paradies-stuttgart.de/

@@ -4,8 +4,8 @@ latitude: 49.24196
 longitude: 8.89346
 postcode: "74889"
 city: Sinsheim
-street: "Neulandstraße"
-housenumber: 38
+street: Neulandstraße
+housenumber: "38"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.autohof-kolb.de/rasthof/casino/"
+opening_hours: 24/7
+website: https://www.autohof-kolb.de/rasthof/casino/

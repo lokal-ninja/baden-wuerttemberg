@@ -4,8 +4,8 @@ latitude: 47.63216
 longitude: 8.2996
 postcode: "79787"
 city: Lauchringen
-street: "Bundesstraße"
-housenumber: 14
-phone: "+49 7741 3289"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-14:00"
-website: "https://www.hupfer-fahrradladen.de/"
+street: Bundesstraße
+housenumber: "14"
+phone: +49 7741 3289
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-14:00
+website: https://www.hupfer-fahrradladen.de/

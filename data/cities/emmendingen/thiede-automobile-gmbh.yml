@@ -1,11 +1,11 @@
 id: 119803096
-type: way
+type: node
 latitude: 48.11317
 longitude: 7.84819
 postcode: "79312"
 city: Emmendingen
-street: "Im Hausgrün"
-housenumber: 2
+street: Im Hausgrün
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
-website: "https://www.thiede-automobile.de"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
+website: https://www.thiede-automobile.de

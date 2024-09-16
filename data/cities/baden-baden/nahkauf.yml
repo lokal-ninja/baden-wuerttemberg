@@ -4,8 +4,8 @@ latitude: 48.77477
 longitude: 8.22269
 postcode: "76532"
 city: Baden-Baden
-street: "Rheinstraße"
-housenumber: 20
-phone: "+49 7221 967007"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.nahkauf.de/maerkte/baden-baden-45611048-acikkol-gmbh-rheinstrasse-20"
+street: Rheinstraße
+housenumber: "20"
+phone: +49 7221 967007
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.nahkauf.de/maerkte/baden-baden-45611048-acikkol-gmbh-rheinstrasse-20

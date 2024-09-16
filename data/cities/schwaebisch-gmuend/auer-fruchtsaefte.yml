@@ -1,11 +1,11 @@
 id: 219026602
-type: way
+type: node
 latitude: 48.79576
 longitude: 9.77953
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Lorcher Straße"
-housenumber: 101
+street: Lorcher Straße
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.auer-fruchtsaefte.de/"
+website: https://www.auer-fruchtsaefte.de/

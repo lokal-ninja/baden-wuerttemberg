@@ -4,8 +4,8 @@ latitude: 48.48206
 longitude: 9.20678
 postcode: "72762"
 city: Reutlingen
-street: "Ringelbachstraße"
-housenumber: 91
+street: Ringelbachstraße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo,We-Fr 14:00-18:00; Sa 09:00-13:00"
-website: "https://www.florales.florist/"
+opening_hours: Mo,We-Fr 14:00-18:00; Sa 09:00-13:00
+website: https://www.florales.florist/

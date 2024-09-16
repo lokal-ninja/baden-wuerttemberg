@@ -4,8 +4,8 @@ latitude: 47.98299
 longitude: 7.85375
 postcode: "79102"
 city: Freiburg im Breisgau
-street: "Gerwigplatz"
+street: Gerwigplatz
 housenumber: 3a
-phone: "+49 761 88142448"
-opening_hours: "Mo, Tu, Th, Fr 08:00-12:30, 14:30-18:00; We 08:00-12:30; Sa 07:30-12:00"
-website: "http://schmidts-wurstlaedele.de"
+phone: +49 761 88142448
+opening_hours: Mo, Tu, Th, Fr 08:00-12:30, 14:30-18:00; We 08:00-12:30; Sa 07:30-12:00
+website: http://schmidts-wurstlaedele.de

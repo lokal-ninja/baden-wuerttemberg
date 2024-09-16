@@ -1,11 +1,11 @@
 id: 84235025
-type: way
+type: node
 latitude: 48.63629
 longitude: 9.00656
 postcode: "71088"
 city: Holzgerlingen
-street: "Altdorfer Straße"
-housenumber: 26
+street: Altdorfer Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 136990808
-type: way
+type: node
 latitude: 48.16793
 longitude: 8.62232
 postcode: "78628"
 city: Rottweil
-street: "Oberndorfer Straße"
-housenumber: 2
+street: Oberndorfer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

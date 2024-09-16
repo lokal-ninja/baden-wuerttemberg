@@ -1,11 +1,11 @@
 id: 176663935
-type: way
+type: node
 latitude: 48.80055
 longitude: 9.59226
 postcode: "73655"
 city: Plüderhausen
-street: "Jakob-Schüle-Straße"
-housenumber: 47
+street: Jakob-Schüle-Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su, PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su, PH off
 website: ""

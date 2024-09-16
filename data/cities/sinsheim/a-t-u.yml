@@ -1,11 +1,11 @@
 id: 192001314
-type: way
+type: node
 latitude: 49.24342
 longitude: 8.89105
 postcode: "74889"
 city: Sinsheim
-street: "Neulandstraße"
+street: Neulandstraße
 housenumber: 33a
-phone: "+49 180 5 2727368"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-16:00"
-website: "https://www.atu.de/"
+phone: +49 180 5 2727368
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-16:00
+website: https://www.atu.de/

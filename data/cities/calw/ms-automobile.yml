@@ -1,11 +1,11 @@
 id: 194834360
-type: way
+type: node
 latitude: 48.70413
 longitude: 8.7574
 postcode: "75365"
 city: Calw
-street: "Rudolf-Diesel-Straße"
-housenumber: 4
+street: Rudolf-Diesel-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://home.mobile.de/MSAUTOMOBILECALW#about"
+website: https://home.mobile.de/MSAUTOMOBILECALW#about

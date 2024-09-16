@@ -4,8 +4,8 @@ latitude: 48.47029
 longitude: 7.94168
 postcode: "77652"
 city: Offenburg
-street: "Marktplatz"
-housenumber: 19
-phone: "+49 781 96645190"
-opening_hours: "Tu,Th,Fr 09:00-18:00; We 09:00-16:00; Sa 08:00-16:00"
-website: "https://einmachglas-offenburg.de"
+street: Marktplatz
+housenumber: "19"
+phone: +49 781 96645190
+opening_hours: Tu,Th,Fr 09:00-18:00; We 09:00-16:00; Sa 08:00-16:00
+website: https://einmachglas-offenburg.de

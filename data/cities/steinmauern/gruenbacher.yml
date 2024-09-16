@@ -1,11 +1,11 @@
 id: 303533245
-type: way
+type: node
 latitude: 48.90065
 longitude: 8.19219
 postcode: "76479"
 city: Steinmauern
-street: "Spichstraße"
-housenumber: 1
+street: Spichstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

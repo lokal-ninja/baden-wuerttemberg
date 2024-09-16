@@ -4,8 +4,8 @@ latitude: 48.02838
 longitude: 7.58369
 postcode: "79206"
 city: Breisach am Rhein
-street: "Neutorstraße"
-housenumber: 10
-phone: "+49 7667 6667"
-opening_hours: "Mo-Fr 09:30-13:00, 14:30-18:30; Sa 09:30-14:00"
-website: "https://modebox-shop.de/das-modehaus/"
+street: Neutorstraße
+housenumber: "10"
+phone: +49 7667 6667
+opening_hours: Mo-Fr 09:30-13:00, 14:30-18:30; Sa 09:30-14:00
+website: https://modebox-shop.de/das-modehaus/

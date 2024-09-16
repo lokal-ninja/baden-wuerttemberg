@@ -1,11 +1,11 @@
 id: 121850783
-type: way
+type: node
 latitude: 48.87663
 longitude: 9.39753
 postcode: "71364"
 city: Winnenden
-street: "Marktstraße"
-housenumber: 12
-phone: "+49 7195 5886112"
-opening_hours: "Mo-Fr 9:00-19:00; Sa 9:00 - 14:00"
-website: "https://www.optik-stroh.de/"
+street: Marktstraße
+housenumber: "12"
+phone: +49 7195 5886112
+opening_hours: Mo-Fr 9:00-19:00; Sa 9:00 - 14:00
+website: https://www.optik-stroh.de/

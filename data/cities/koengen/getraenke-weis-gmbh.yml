@@ -1,11 +1,11 @@
 id: 98423577
-type: way
+type: node
 latitude: 48.68296
 longitude: 9.35935
 postcode: "73257"
 city: Köngen
-street: "Obere Neue Straße"
-housenumber: 32
+street: Obere Neue Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,14:00-18:30; Sa 08:00-13:30"
+opening_hours: Mo-Fr 08:00-12:30,14:00-18:30; Sa 08:00-13:30
 website: ""

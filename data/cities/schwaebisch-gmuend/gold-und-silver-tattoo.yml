@@ -4,8 +4,8 @@ latitude: 48.80139
 longitude: 9.79748
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Nikolausgasse"
-housenumber: 1
+street: Nikolausgasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:00"
-website: "https://www.goldandsilvertattoo.de/"
+opening_hours: Mo-Fr 12:00-18:00
+website: https://www.goldandsilvertattoo.de/

@@ -1,11 +1,11 @@
 id: 167842103
-type: way
+type: node
 latitude: 48.40288
 longitude: 9.78981
 postcode: "89143"
 city: Blaubeuren
-street: "Württemberger Straße"
-housenumber: 8
+street: Württemberger Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

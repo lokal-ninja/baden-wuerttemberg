@@ -1,11 +1,11 @@
 id: 195025006
-type: way
+type: node
 latitude: 48.4428
 longitude: 9.25385
 postcode: "72805"
 city: Lichtenstein
-street: "Siemensstraße"
-housenumber: 5
+street: Siemensstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

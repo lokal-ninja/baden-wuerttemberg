@@ -1,11 +1,11 @@
 id: 195291612
-type: way
+type: node
 latitude: 48.18319
 longitude: 7.76714
 postcode: "79341"
 city: Kenzingen
-street: "Franzosenstraße"
-housenumber: 13
+street: Franzosenstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

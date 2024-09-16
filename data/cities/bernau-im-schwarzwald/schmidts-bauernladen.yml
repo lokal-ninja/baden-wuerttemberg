@@ -1,11 +1,11 @@
 id: 205004493
-type: way
+type: node
 latitude: 47.81015
 longitude: 8.03001
 postcode: "79872"
 city: Bernau im Schwarzwald
-street: "Dorf-Hauptstraße"
-housenumber: 10
+street: Dorf-Hauptstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

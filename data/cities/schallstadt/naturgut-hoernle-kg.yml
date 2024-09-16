@@ -4,8 +4,8 @@ latitude: 47.94487
 longitude: 7.7166
 postcode: "79227"
 city: Schallstadt
-street: "Horner"
-housenumber: 3
-phone: "+49 7664 6132380"
-opening_hours: "Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.naturgut-hoernle-kg.de"
+street: Horner
+housenumber: "3"
+phone: +49 7664 6132380
+opening_hours: Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.naturgut-hoernle-kg.de

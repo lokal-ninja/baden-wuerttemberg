@@ -4,8 +4,8 @@ latitude: 47.67446
 longitude: 9.58449
 postcode: "88069"
 city: Tettnang
-street: "Moosstraße"
-housenumber: 15
+street: Moosstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Th 11:40-13:30, Tu-Su 17:00-20:30"
-website: "http://www.kreative-reisrollen.de/"
+opening_hours: Tu-Th 11:40-13:30, Tu-Su 17:00-20:30
+website: http://www.kreative-reisrollen.de/

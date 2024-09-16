@@ -4,8 +4,8 @@ latitude: 47.98422
 longitude: 8.8181
 postcode: "78532"
 city: Tuttlingen
-street: "Bahnhofstraße"
-housenumber: 3
-phone: "+49 7461 93460"
+street: Bahnhofstraße
+housenumber: "3"
+phone: +49 7461 93460
 opening_hours: ""
-website: "https://www.mueller.de/"
+website: https://www.mueller.de/

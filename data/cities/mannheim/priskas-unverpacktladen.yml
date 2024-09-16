@@ -4,8 +4,8 @@ latitude: 49.48023
 longitude: 8.48005
 postcode: "68165"
 city: Mannheim
-street: "Seckenheimer Straße"
-housenumber: 21
-phone: "+49 621 43718844"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"
-website: "https://www.priskas-unverpackt.de/"
+street: Seckenheimer Straße
+housenumber: "21"
+phone: +49 621 43718844
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-16:00
+website: https://www.priskas-unverpackt.de/

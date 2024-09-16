@@ -4,8 +4,8 @@ latitude: 47.6868
 longitude: 9.83468
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Spitalstraße"
-housenumber: 13
+street: Spitalstraße
+housenumber: "13"
 phone: ""
-opening_hours: "nach Vereinbarung (by appointment)"
+opening_hours: '"nach Vereinbarung (by appointment)"'
 website: ""

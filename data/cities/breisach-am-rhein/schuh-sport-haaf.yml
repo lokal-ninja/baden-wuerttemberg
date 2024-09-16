@@ -4,8 +4,8 @@ latitude: 48.02815
 longitude: 7.58503
 postcode: "79206"
 city: Breisach am Rhein
-street: "Neutorstraße"
-housenumber: 33
-phone: "+49 7667 940570"
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:30; Sa 10:00-14:00"
-website: "https://schuh-sport-haaf.de/filialen/schuhhaus-haaf-breisach/"
+street: Neutorstraße
+housenumber: "33"
+phone: +49 7667 940570
+opening_hours: Mo-Fr 10:00-13:00, 14:00-18:30; Sa 10:00-14:00
+website: https://schuh-sport-haaf.de/filialen/schuhhaus-haaf-breisach/

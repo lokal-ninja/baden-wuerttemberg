@@ -4,8 +4,8 @@ latitude: 49.23603
 longitude: 8.90808
 postcode: "74889"
 city: Sinsheim
-street: "Ansbachstraße"
-housenumber: 33
-phone: "+49 7261 63979"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "http://www.hacker-touristik.de/"
+street: Ansbachstraße
+housenumber: "33"
+phone: +49 7261 63979
+opening_hours: Mo-Fr 09:00-17:00
+website: http://www.hacker-touristik.de/

@@ -1,11 +1,11 @@
 id: 124750371
-type: way
+type: node
 latitude: 48.08164
 longitude: 9.2369
 postcode: "72488"
 city: Sigmaringen
-street: "Friedrich-List-Straße"
-housenumber: 7
+street: Friedrich-List-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

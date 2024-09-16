@@ -4,8 +4,8 @@ latitude: 48.2724
 longitude: 8.8509
 postcode: "72336"
 city: Balingen
-street: "Friedrichstraße"
-housenumber: 47
-phone: "+49 7433 9557896"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:1300"
-website: "https://www.schwaebische-landmetzgerei.de"
+street: Friedrichstraße
+housenumber: "47"
+phone: +49 7433 9557896
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:1300
+website: https://www.schwaebische-landmetzgerei.de

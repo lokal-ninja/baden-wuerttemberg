@@ -1,11 +1,11 @@
 id: 121850719
-type: way
+type: node
 latitude: 48.8766
 longitude: 9.39901
 postcode: "71364"
 city: Winnenden
-street: "Marktstraße"
-housenumber: 41
-phone: "+49 7195 940043"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-18:00"
+street: Marktstraße
+housenumber: "41"
+phone: +49 7195 940043
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.93783
 longitude: 9.12451
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Adolf-Heim-Straße"
-housenumber: 14
+street: Adolf-Heim-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 07:00-16:00"
-website: "https://www.stapler-rent.de/"
+opening_hours: Mo-Th 08:00-17:00; Fr 07:00-16:00
+website: https://www.stapler-rent.de/

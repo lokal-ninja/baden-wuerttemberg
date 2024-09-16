@@ -1,11 +1,11 @@
 id: 169083691
-type: way
+type: node
 latitude: 49.27899
 longitude: 9.68889
 postcode: "74653"
 city: Künzelsau
-street: "Keltergasse"
-housenumber: 39
+street: Keltergasse
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

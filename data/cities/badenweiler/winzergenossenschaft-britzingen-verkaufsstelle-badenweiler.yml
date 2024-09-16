@@ -4,8 +4,8 @@ latitude: 47.80139
 longitude: 7.67197
 postcode: "79410"
 city: Badenweiler
-street: "Sofienstraße"
-housenumber: 4
+street: Sofienstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:00-12:00"
-website: "https://www.britzinger-wein.de/"
+opening_hours: Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:00-12:00
+website: https://www.britzinger-wein.de/

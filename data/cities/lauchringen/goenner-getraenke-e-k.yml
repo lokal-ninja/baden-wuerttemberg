@@ -1,11 +1,11 @@
 id: 83054986
-type: way
+type: node
 latitude: 47.6328
 longitude: 8.32002
 postcode: "79787"
 city: Lauchringen
-street: "Industriestraße"
-housenumber: 15
-phone: "+49 7741 917 99 0"
-opening_hours: "Mo-Fr 07:00-12:00,13:00-17:00; Sa 09:00-12:00"
+street: Industriestraße
+housenumber: "15"
+phone: +49 7741 917 99 0
+opening_hours: Mo-Fr 07:00-12:00,13:00-17:00; Sa 09:00-12:00
 website: ""

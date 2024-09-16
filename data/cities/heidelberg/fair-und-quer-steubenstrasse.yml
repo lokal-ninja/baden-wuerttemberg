@@ -4,8 +4,8 @@ latitude: 49.42508
 longitude: 8.68784
 postcode: "69121"
 city: Heidelberg
-street: "Steubenstraße"
-housenumber: 52
+street: Steubenstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-We 08:00-19:00; Th-Fr 08:00-20:00; Sa 08:00-14:00"
+opening_hours: Mo-We 08:00-19:00; Th-Fr 08:00-20:00; Sa 08:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 316262771
-type: way
+type: node
 latitude: 49.02366
 longitude: 9.87408
 postcode: "74423"
 city: Obersontheim
-street: "Weilerbachstraße"
-housenumber: 48
+street: Weilerbachstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

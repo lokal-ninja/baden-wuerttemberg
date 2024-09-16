@@ -1,11 +1,11 @@
 id: 103665543
-type: way
+type: node
 latitude: 49.19888
 longitude: 9.52916
 postcode: "74613"
 city: Öhringen
-street: "Haller Straße"
-housenumber: 128
+street: Haller Straße
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

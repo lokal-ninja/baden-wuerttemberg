@@ -4,8 +4,8 @@ latitude: 49.55651
 longitude: 8.65095
 postcode: "69469"
 city: Weinheim
-street: "Viernheimer Straße"
-housenumber: 59
-phone: "+49 6201 60200"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.globus-baumarkt.de/info/markt/weinheim/"
+street: Viernheimer Straße
+housenumber: "59"
+phone: +49 6201 60200
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.globus-baumarkt.de/info/markt/weinheim/

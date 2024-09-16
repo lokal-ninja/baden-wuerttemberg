@@ -1,11 +1,11 @@
 id: 376405756
-type: way
+type: node
 latitude: 48.94887
 longitude: 8.83972
 postcode: "75417"
 city: Mühlacker
-street: "Bahnhofstraße"
-housenumber: 33
+street: Bahnhofstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Tu-Fr 06:30-18:00; Sa 06:30-13:00; Su,Mo off"
+opening_hours: Tu-Fr 06:30-18:00; Sa 06:30-13:00; Su,Mo off
 website: ""

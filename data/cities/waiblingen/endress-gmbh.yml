@@ -1,11 +1,11 @@
 id: 211226146
-type: way
+type: node
 latitude: 48.85486
 longitude: 9.29395
 postcode: "71334"
 city: Waiblingen
-street: "Neckarstraße"
-housenumber: 20
+street: Neckarstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

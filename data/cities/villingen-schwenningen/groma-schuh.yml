@@ -1,11 +1,11 @@
 id: 404992113
-type: way
+type: node
 latitude: 48.09176
 longitude: 8.50411
 postcode: "78052"
 city: Villingen-Schwenningen
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

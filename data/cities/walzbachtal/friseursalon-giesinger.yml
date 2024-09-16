@@ -1,11 +1,11 @@
 id: 319637858
-type: way
+type: node
 latitude: 49.0134
 longitude: 8.60687
 postcode: "75045"
 city: Walzbachtal
-street: "Bruchstraße"
-housenumber: 4
+street: Bruchstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:00"
+opening_hours: Tu-Fr 08:00-12:00
 website: ""

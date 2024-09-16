@@ -1,11 +1,11 @@
 id: 205187500
-type: way
+type: node
 latitude: 48.88817
 longitude: 9.41969
 postcode: "71364"
 city: Winnenden
-street: "Stuttgarter Straße"
-housenumber: 10
-phone: "+49 7195 2059"
+street: Stuttgarter Straße
+housenumber: "10"
+phone: +49 7195 2059
 opening_hours: ""
 website: ""

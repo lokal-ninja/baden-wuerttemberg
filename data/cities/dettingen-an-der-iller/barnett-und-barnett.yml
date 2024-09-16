@@ -1,11 +1,11 @@
 id: 403434638
-type: way
+type: node
 latitude: 48.10982
 longitude: 10.11057
 postcode: "88451"
 city: Dettingen an der Iller
-street: "Kellmünzer Straße"
-housenumber: 9
-phone: "07354 6819404"
+street: Kellmünzer Straße
+housenumber: "9"
+phone: 07354 6819404
 opening_hours: ""
-website: "http://www.barnett-und-barnett.de/kontakt.php"
+website: http://www.barnett-und-barnett.de/kontakt.php

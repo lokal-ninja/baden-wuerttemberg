@@ -1,11 +1,11 @@
 id: 437150733
-type: way
+type: node
 latitude: 49.2537
 longitude: 9.84951
 postcode: "74595"
 city: Langenburg
-street: "Regenbacher Straße"
-housenumber: 3
-phone: "+49 7905 712"
+street: Regenbacher Straße
+housenumber: "3"
+phone: +49 7905 712
 opening_hours: ""
-website: "https://www.wolz-raumausstattung.de/"
+website: https://www.wolz-raumausstattung.de/

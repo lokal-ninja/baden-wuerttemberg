@@ -1,11 +1,11 @@
 id: 516091961
-type: way
+type: node
 latitude: 49.49254
 longitude: 9.77358
 postcode: "97980"
 city: Bad Mergentheim
-street: "Härterichstraße"
-housenumber: 8
+street: Härterichstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.95385
 longitude: 9.6374
 postcode: "88326"
 city: Aulendorf
-street: "Hauptstraße"
-housenumber: 38
+street: Hauptstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.marco-moden.de"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.marco-moden.de

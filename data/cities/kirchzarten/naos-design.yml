@@ -4,8 +4,8 @@ latitude: 47.96377
 longitude: 7.95133
 postcode: "79199"
 city: Kirchzarten
-street: "Freiburger Straße"
-housenumber: 6
+street: Freiburger Straße
+housenumber: "6"
 phone: "+49766191928600"
-opening_hours: "09:30-13:00,15:00-18:30"
-website: "https://www.naos-design.de/"
+opening_hours: 09:30-13:00,15:00-18:30
+website: https://www.naos-design.de/

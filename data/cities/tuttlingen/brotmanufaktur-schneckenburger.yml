@@ -4,8 +4,8 @@ latitude: 47.98387
 longitude: 8.81545
 postcode: "78532"
 city: Tuttlingen
-street: "Bahnhofstraße"
-housenumber: 32
+street: Bahnhofstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-17:00; Su 07:30-17:00"
-website: "https://www.meisterbaeckerei.de/meisterproduktion"
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-17:00; Su 07:30-17:00
+website: https://www.meisterbaeckerei.de/meisterproduktion

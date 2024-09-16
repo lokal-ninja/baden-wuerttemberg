@@ -1,11 +1,11 @@
 id: 100611842
-type: way
+type: node
 latitude: 47.97502
 longitude: 8.6029
 postcode: "78073"
 city: Bad Dürrheim
-street: "Dorfstraße"
-housenumber: 25
+street: Dorfstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

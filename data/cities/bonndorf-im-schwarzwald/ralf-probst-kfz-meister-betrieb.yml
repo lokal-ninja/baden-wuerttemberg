@@ -1,11 +1,11 @@
 id: 226615104
-type: way
+type: node
 latitude: 47.80995
 longitude: 8.33087
 postcode: "79848"
 city: Bonndorf im Schwarzwald
-street: "Allmendstraße"
-housenumber: 32
+street: Allmendstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.51116
 longitude: 9.07383
 postcode: "72072"
 city: Tübingen
-street: "Aixer Straße"
-housenumber: 12
-phone: "+49 7071 856721"
-opening_hours: "Nach Vereinbarung"
-website: "https://www.bestattungsdienst-felden.de/"
+street: Aixer Straße
+housenumber: "12"
+phone: +49 7071 856721
+opening_hours: '"Nach Vereinbarung"'
+website: https://www.bestattungsdienst-felden.de/

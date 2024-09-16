@@ -4,8 +4,8 @@ latitude: 47.72052
 longitude: 9.39079
 postcode: "88677"
 city: Markdorf
-street: "Marktstraße"
-housenumber: 5
-phone: "+49 7544 913551"
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:00;Sa 08:30-13:00"
-website: "http://ichmagbio.de/01/?p=2338"
+street: Marktstraße
+housenumber: "5"
+phone: +49 7544 913551
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:00;Sa 08:30-13:00
+website: http://ichmagbio.de/01/?p=2338

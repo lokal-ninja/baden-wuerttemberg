@@ -1,11 +1,11 @@
 id: 97237989
-type: way
+type: node
 latitude: 48.12704
 longitude: 8.33273
 postcode: "78112"
 city: St. Georgen
-street: "Schramberger Straße"
-housenumber: 4
+street: Schramberger Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

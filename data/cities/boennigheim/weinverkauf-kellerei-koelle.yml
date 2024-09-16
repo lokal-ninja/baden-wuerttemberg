@@ -1,11 +1,11 @@
 id: 89890659
-type: way
+type: node
 latitude: 49.04304
 longitude: 9.092
 postcode: "74357"
 city: Bönnigheim
-street: "Karlstraße"
-housenumber: 28
-phone: "+49 714321072"
-opening_hours: "Mo-Fr 08:00-12:30,13:30-18:30, Sa 09:00-14:00"
+street: Karlstraße
+housenumber: "28"
+phone: +49 714321072
+opening_hours: Mo-Fr 08:00-12:30,13:30-18:30, Sa 09:00-14:00
 website: ""

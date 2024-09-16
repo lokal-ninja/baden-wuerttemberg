@@ -4,8 +4,8 @@ latitude: 48.5327
 longitude: 9.18101
 postcode: "72768"
 city: Reutlingen
-street: "Eichgartenstraße"
-housenumber: 1
-phone: "+49 7121 600333"
-opening_hours: "Tu-Fr 08:30-18:00; Th 08:30-19:00; Sa 08:00-13:00"
+street: Eichgartenstraße
+housenumber: "1"
+phone: +49 7121 600333
+opening_hours: Tu-Fr 08:30-18:00; Th 08:30-19:00; Sa 08:00-13:00
 website: ""

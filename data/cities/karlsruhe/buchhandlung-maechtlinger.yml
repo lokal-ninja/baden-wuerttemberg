@@ -4,8 +4,8 @@ latitude: 48.99925
 longitude: 8.47271
 postcode: "76227"
 city: Karlsruhe
-street: "Pfinztalstraße"
-housenumber: 36
-phone: "+49 721 943630"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "http://www.maechtlingerbuch.de/"
+street: Pfinztalstraße
+housenumber: "36"
+phone: +49 721 943630
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: http://www.maechtlingerbuch.de/

@@ -1,11 +1,11 @@
 id: 151837048
-type: way
+type: node
 latitude: 49.10526
 longitude: 9.71573
 postcode: "74523"
 city: Schwäbisch Hall
-street: "Aschenhausweg"
-housenumber: 5
+street: Aschenhausweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://kochautomobile.skoda-auto.de/"
+website: https://kochautomobile.skoda-auto.de/

@@ -4,8 +4,9 @@ latitude: 48.39936
 longitude: 9.9953
 postcode: "89073"
 city: Ulm
-street: "Breite Gasse"
-housenumber: 6
+street: Breite Gasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Tue & Fr 09:00-18:00; Wed 08:00-18:00; Th 10:00-19:00; Sa 08:00-14:00; PH off"
-website: "https://www.oradoro.bio/"
+opening_hours: Mo-Tue & Fr 09:00-18:00; Wed 08:00-18:00; Th 10:00-19:00; Sa 08:00-14:00;
+    PH off
+website: https://www.oradoro.bio/

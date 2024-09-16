@@ -1,11 +1,11 @@
 id: 98740746
-type: way
+type: node
 latitude: 48.72435
 longitude: 8.11245
 postcode: "77815"
 city: Bühl
-street: "Vimbucher Straße"
-housenumber: 84
+street: Vimbucher Straße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:00-12:00"
-website: "https://www.bhg-mobile.de/de/vw-buehl"
+opening_hours: Mo-Fr 07:00-18:00, Sa 08:00-12:00
+website: https://www.bhg-mobile.de/de/vw-buehl

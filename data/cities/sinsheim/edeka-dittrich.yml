@@ -4,8 +4,8 @@ latitude: 49.25457
 longitude: 8.89413
 postcode: "74889"
 city: Sinsheim
-street: "Kurpfalzstraße"
-housenumber: 76
-phone: "+49 7261 913330"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-dittrich-kurpfalzstra%C3%9Fe-76/index.jsp"
+street: Kurpfalzstraße
+housenumber: "76"
+phone: +49 7261 913330
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-dittrich-kurpfalzstra%C3%9Fe-76/index.jsp

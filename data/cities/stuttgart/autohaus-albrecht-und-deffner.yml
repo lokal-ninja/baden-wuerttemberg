@@ -1,11 +1,11 @@
 id: 137615074
-type: way
+type: node
 latitude: 48.77389
 longitude: 9.18726
 postcode: "70184"
 city: Stuttgart
-street: "Alexanderstraße"
-housenumber: 36
+street: Alexanderstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://www.albrecht-deffner.de/"
+website: https://www.albrecht-deffner.de/

@@ -4,8 +4,8 @@ latitude: 48.99838
 longitude: 8.47475
 postcode: "76227"
 city: Karlsruhe
-street: "Karlsburgstraße"
-housenumber: 4
-phone: "+49 721 4009359"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:30"
-website: "http://haarstudio-farny.de/"
+street: Karlsburgstraße
+housenumber: "4"
+phone: +49 721 4009359
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:30
+website: http://haarstudio-farny.de/

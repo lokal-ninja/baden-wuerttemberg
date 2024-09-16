@@ -1,11 +1,11 @@
 id: 247070044
-type: way
+type: node
 latitude: 48.07307
 longitude: 9.01599
 postcode: "88631"
 city: Beuron
-street: "Ringstraße"
-housenumber: 15
+street: Ringstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "http://www.wollwirkstatt.de/"
+website: http://www.wollwirkstatt.de/

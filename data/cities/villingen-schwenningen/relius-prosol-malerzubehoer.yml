@@ -4,8 +4,8 @@ latitude: 48.07096
 longitude: 8.45827
 postcode: "78048"
 city: Villingen-Schwenningen
-street: "Vockenhauser Straße"
-housenumber: 26
-phone: "+49 7721 886 490"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 09:00-13:00"
-website: "https://www.prosol-farben.de/standort/villingen"
+street: Vockenhauser Straße
+housenumber: "26"
+phone: +49 7721 886 490
+opening_hours: Mo-Fr 07:00-17:00; Sa 09:00-13:00
+website: https://www.prosol-farben.de/standort/villingen

@@ -4,8 +4,8 @@ latitude: 48.80784
 longitude: 8.94663
 postcode: "71277"
 city: Rutesheim
-street: "Moltkestraße"
-housenumber: 1
+street: Moltkestraße
+housenumber: "1"
 phone: "+497152997830"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.onewelt.com"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.onewelt.com

@@ -1,11 +1,11 @@
 id: 200516873
-type: way
+type: node
 latitude: 48.80464
 longitude: 9.80636
 postcode: "73527"
 city: Schwäbisch Gmünd
-street: "Graf-von-Soden-Straße"
-housenumber: 9
+street: Graf-von-Soden-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
-website: "https://toom.de"
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
+website: https://toom.de

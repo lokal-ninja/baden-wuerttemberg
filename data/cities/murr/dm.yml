@@ -1,11 +1,11 @@
 id: 177980335
-type: way
+type: node
 latitude: 48.9578
 longitude: 9.24814
 postcode: "71711"
 city: Murr
-street: "Im Langen Feld"
-housenumber: 3
-phone: "+49 7144 8060922"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.dm.de/store/de-2022/murr/im-langen-feld-3"
+street: Im Langen Feld
+housenumber: "3"
+phone: +49 7144 8060922
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.dm.de/store/de-2022/murr/im-langen-feld-3

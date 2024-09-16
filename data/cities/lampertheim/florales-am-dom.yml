@@ -1,11 +1,11 @@
 id: 582387702
-type: way
+type: node
 latitude: 49.59543
 longitude: 8.46811
 postcode: "68623"
 city: Lampertheim
-street: "Wilhelmstraße"
-housenumber: 63
+street: Wilhelmstraße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

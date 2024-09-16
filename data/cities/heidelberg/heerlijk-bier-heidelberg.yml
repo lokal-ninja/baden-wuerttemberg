@@ -4,8 +4,8 @@ latitude: 49.42989
 longitude: 8.68266
 postcode: "69121"
 city: Heidelberg
-street: "Dossenheimer Landstraße"
-housenumber: 60
-phone: "+49 6221 6510829"
-opening_hours: "Fr-Sa"
-website: "https://www.heerlijk-bier.de/"
+street: Dossenheimer Landstraße
+housenumber: "60"
+phone: +49 6221 6510829
+opening_hours: Fr-Sa
+website: https://www.heerlijk-bier.de/

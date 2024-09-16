@@ -4,8 +4,8 @@ latitude: 47.85432
 longitude: 9.89773
 postcode: "88410"
 city: Bad Wurzach
-street: "St.-Ulrich-Straße"
-housenumber: 1
-phone: "+49 7564 931711"
-opening_hours: "Mo-Fr 9:00-12:00,14:00-18:00; Sa 9:00-13:00"
-website: "https://finkhof.de/"
+street: St.-Ulrich-Straße
+housenumber: "1"
+phone: +49 7564 931711
+opening_hours: Mo-Fr 9:00-12:00,14:00-18:00; Sa 9:00-13:00
+website: https://finkhof.de/

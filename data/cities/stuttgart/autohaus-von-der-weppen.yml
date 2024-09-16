@@ -1,11 +1,11 @@
 id: 685729682
-type: way
+type: node
 latitude: 48.81449
 longitude: 9.17713
 postcode: "70469"
 city: Stuttgart
-street: "Heilbronner Straße"
-housenumber: 305
+street: Heilbronner Straße
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

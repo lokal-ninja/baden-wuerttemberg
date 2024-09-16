@@ -1,11 +1,11 @@
 id: 110553521
-type: way
+type: node
 latitude: 49.0078
 longitude: 8.32083
 postcode: "76189"
 city: Karlsruhe
-street: "Industriestraße"
-housenumber: 15
+street: Industriestraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-13:00; PH closed"
-website: "http://www.schrauben-jaeger.de"
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-13:00; PH closed
+website: http://www.schrauben-jaeger.de

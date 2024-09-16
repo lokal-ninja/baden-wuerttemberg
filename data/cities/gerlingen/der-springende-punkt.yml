@@ -4,8 +4,8 @@ latitude: 48.79897
 longitude: 9.06281
 postcode: "70839"
 city: Gerlingen
-street: "Kirchstraße"
+street: Kirchstraße
 housenumber: 1/1
 phone: "+4971569669133"
-opening_hours: "nach Vereinbarung"
-website: "https://www.springender-punkt.com"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.springender-punkt.com

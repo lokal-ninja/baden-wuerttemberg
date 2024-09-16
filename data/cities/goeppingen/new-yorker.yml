@@ -4,8 +4,8 @@ latitude: 48.7029
 longitude: 9.65452
 postcode: "73033"
 city: Göppingen
-street: "Poststraße"
-housenumber: 52
+street: Poststraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://www.newyorker.de"
+opening_hours: Mo-Sa 10:00-20:00
+website: http://www.newyorker.de

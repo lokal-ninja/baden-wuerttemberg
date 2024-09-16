@@ -1,11 +1,11 @@
 id: 28390567
-type: way
+type: node
 latitude: 48.0631
 longitude: 8.44333
 postcode: "78050"
 city: Villingen-Schwenningen
-street: "Kirnacher Straße"
-housenumber: 75
+street: Kirnacher Straße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

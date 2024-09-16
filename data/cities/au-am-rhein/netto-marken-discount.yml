@@ -1,11 +1,11 @@
 id: 779707890
-type: way
+type: node
 latitude: 48.94885
 longitude: 8.24163
 postcode: "76474"
 city: Au am Rhein
-street: "Würmersheimer Straße"
-housenumber: 25
+street: Würmersheimer Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de/filialen/au-am-rhein/wuermersheimer-str-25/3649"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de/filialen/au-am-rhein/wuermersheimer-str-25/3649

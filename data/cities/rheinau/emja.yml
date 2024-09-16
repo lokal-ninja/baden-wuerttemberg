@@ -4,8 +4,8 @@ latitude: 48.66691
 longitude: 7.93579
 postcode: "77866"
 city: Rheinau
-street: "Rheinstraße"
-housenumber: 36
+street: Rheinstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo,We,Fr 10:00-13:00; Tu,Th 10:00-13:00, 14:30-18:00"
-website: "https://www.emja.de/"
+opening_hours: Mo,We,Fr 10:00-13:00; Tu,Th 10:00-13:00, 14:30-18:00
+website: https://www.emja.de/

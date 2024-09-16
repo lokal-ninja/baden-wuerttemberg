@@ -1,11 +1,11 @@
 id: 193003133
-type: way
+type: node
 latitude: 49.7711
 longitude: 9.33389
 postcode: "97903"
 city: Collenberg
-street: "Hauptstraße"
-housenumber: 39
+street: Hauptstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

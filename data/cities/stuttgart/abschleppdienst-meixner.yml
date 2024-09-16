@@ -1,11 +1,11 @@
 id: 109650872
-type: way
+type: node
 latitude: 48.79946
 longitude: 9.21662
 postcode: "70372"
 city: Stuttgart
-street: "Elwertstraße"
-housenumber: 8
+street: Elwertstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "http://www.meixner24.de/"
+website: http://www.meixner24.de/

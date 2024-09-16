@@ -4,8 +4,8 @@ latitude: 49.4825
 longitude: 8.47351
 postcode: "68165"
 city: Mannheim
-street: "Moltkestraße"
-housenumber: 2
-phone: "+49 228 4333112"
-opening_hours: "Mo-Fr 9:00-19:00; Sa 9:00-13:00"
-website: "https://www.deutschepost.de/de/s/standorte.html?objectid=4325543"
+street: Moltkestraße
+housenumber: "2"
+phone: +49 228 4333112
+opening_hours: Mo-Fr 9:00-19:00; Sa 9:00-13:00
+website: https://www.deutschepost.de/de/s/standorte.html?objectid=4325543

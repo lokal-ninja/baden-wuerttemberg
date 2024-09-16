@@ -1,11 +1,11 @@
 id: 255811039
-type: way
+type: node
 latitude: 47.82761
 longitude: 10.01541
 postcode: "88299"
 city: Leutkirch im Allgäu
-street: "Nadlerstraße"
-housenumber: 3
+street: Nadlerstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

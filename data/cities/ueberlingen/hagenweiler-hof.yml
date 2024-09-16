@@ -4,8 +4,8 @@ latitude: 47.7955
 longitude: 9.22451
 postcode: "88662"
 city: Überlingen
-street: "Hagenweiler"
-housenumber: 1
-phone: "+49 7553 7529"
-opening_hours: "Mo-Th 17:00-19:30; Fr 14:00-19:00"
-website: "https://www.hagenweilerhof.de/"
+street: Hagenweiler
+housenumber: "1"
+phone: +49 7553 7529
+opening_hours: Mo-Th 17:00-19:30; Fr 14:00-19:00
+website: https://www.hagenweilerhof.de/

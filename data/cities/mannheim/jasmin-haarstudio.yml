@@ -4,8 +4,8 @@ latitude: 49.50057
 longitude: 8.46804
 postcode: "68169"
 city: Mannheim
-street: "Riedfeldstraße"
-housenumber: 38
-phone: "+49 621 30683630"
-opening_hours: "09:00-19:00"
+street: Riedfeldstraße
+housenumber: "38"
+phone: +49 621 30683630
+opening_hours: 09:00-19:00
 website: ""

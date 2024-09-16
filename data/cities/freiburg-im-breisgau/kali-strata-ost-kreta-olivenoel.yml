@@ -4,8 +4,8 @@ latitude: 48.04076
 longitude: 7.80948
 postcode: "79108"
 city: Freiburg im Breisgau
-street: "Weißerlenstraße"
-housenumber: 19
-phone: "+49 761 4889 5874"
-opening_hours: "Mo 14:00-18:00; PH, SH off; "
-website: "https://www.kali-strata.de"
+street: Weißerlenstraße
+housenumber: "19"
+phone: +49 761 4889 5874
+opening_hours: 'Mo 14:00-18:00; PH, SH off; '
+website: https://www.kali-strata.de

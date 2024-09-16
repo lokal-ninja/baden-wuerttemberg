@@ -1,11 +1,11 @@
 id: 121263129
-type: way
+type: node
 latitude: 47.71568
 longitude: 9.39479
 postcode: "88677"
 city: Markdorf
-street: "Schießstattweg"
-housenumber: 17
+street: Schießstattweg
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

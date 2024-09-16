@@ -1,11 +1,11 @@
 id: 460906355
-type: way
+type: node
 latitude: 49.23702
 longitude: 9.33772
 postcode: "74196"
 city: Neuenstadt am Kocher
-street: "Öhringer Straße"
-housenumber: 38
+street: Öhringer Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 206358475
-type: way
+type: node
 latitude: 48.85858
 longitude: 9.46536
 postcode: "73663"
 city: Berglen
-street: "Georg-Friedrich-Händel-Straße"
-housenumber: 27
+street: Georg-Friedrich-Händel-Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

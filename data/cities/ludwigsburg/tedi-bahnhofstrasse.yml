@@ -1,11 +1,11 @@
 id: 1259766009
-type: way
+type: node
 latitude: 48.89257
 longitude: 9.18545
 postcode: "71638"
 city: Ludwigsburg
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 10-18
 phone: ""
 opening_hours: ""
-website: "https://www.tedi.com/"
+website: https://www.tedi.com/

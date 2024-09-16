@@ -4,8 +4,8 @@ latitude: 49.16874
 longitude: 9.27182
 postcode: "74235"
 city: Erlenbach
-street: "Weißenhofstraße"
-housenumber: 37
-phone: "+49 7132 2861"
-opening_hours: "Mo-Sa 07:30-12:00, Fr 13:00-17:00"
-website: "https://www.raiffeisenbank-erlenbach.de"
+street: Weißenhofstraße
+housenumber: "37"
+phone: +49 7132 2861
+opening_hours: Mo-Sa 07:30-12:00, Fr 13:00-17:00
+website: https://www.raiffeisenbank-erlenbach.de

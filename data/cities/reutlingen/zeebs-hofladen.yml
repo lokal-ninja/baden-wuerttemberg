@@ -4,8 +4,8 @@ latitude: 48.53449
 longitude: 9.18153
 postcode: "72768"
 city: Reutlingen
-street: "Am Gassenbrunnen"
-housenumber: 9
-phone: "+49 7121 670518"
-opening_hours: "We-Sa 09:00-12:00; Fr 09:00-12:00,14:30-18:00; Su,PH off"
-website: "https://www.gefluegelhof-zeeb.de/"
+street: Am Gassenbrunnen
+housenumber: "9"
+phone: +49 7121 670518
+opening_hours: We-Sa 09:00-12:00; Fr 09:00-12:00,14:30-18:00; Su,PH off
+website: https://www.gefluegelhof-zeeb.de/

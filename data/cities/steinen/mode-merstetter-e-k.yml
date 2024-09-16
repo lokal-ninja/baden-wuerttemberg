@@ -4,8 +4,8 @@ latitude: 47.64321
 longitude: 7.74009
 postcode: "79585"
 city: Steinen
-street: "Eisenbahnstraße"
-housenumber: 5
+street: Eisenbahnstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,02:30-18:00; Sa 09:00-12:30"
-website: "https://www.mode-merstetter.de/"
+opening_hours: Mo-Fr 09:00-12:30,02:30-18:00; Sa 09:00-12:30
+website: https://www.mode-merstetter.de/

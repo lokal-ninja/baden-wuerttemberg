@@ -1,11 +1,11 @@
 id: 683408481
-type: way
+type: node
 latitude: 49.11775
 longitude: 9.17216
 postcode: "74081"
 city: Heilbronn
-street: "Amsterdamer Straße"
+street: Amsterdamer Straße
 housenumber: 11/1
-phone: "+49 7131 8878860"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-19:00; Sa 10:00-16:00"
-website: "https://sites.google.com/prod/view/lt-garage"
+phone: +49 7131 8878860
+opening_hours: Mo-Fr 10:00-13:00,14:00-19:00; Sa 10:00-16:00
+website: https://sites.google.com/prod/view/lt-garage

@@ -1,11 +1,11 @@
 id: 121850672
-type: way
+type: node
 latitude: 48.87639
 longitude: 9.39798
 postcode: "71364"
 city: Winnenden
-street: "Marktstraße"
-housenumber: 18
-phone: "+49 7195 585062"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00"
-website: "http://scholz-haare.de/"
+street: Marktstraße
+housenumber: "18"
+phone: +49 7195 585062
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00
+website: http://scholz-haare.de/

@@ -1,11 +1,11 @@
 id: 30811565
-type: way
+type: node
 latitude: 48.60348
 longitude: 8.87257
 postcode: "71083"
 city: Herrenberg
-street: "Maybachstraße"
-housenumber: 6
+street: Maybachstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://schechinger-renault.de/"
+website: https://schechinger-renault.de/

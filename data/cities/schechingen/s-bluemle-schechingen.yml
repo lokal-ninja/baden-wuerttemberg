@@ -4,8 +4,9 @@ latitude: 48.87545
 longitude: 9.91682
 postcode: "73579"
 city: Schechingen
-street: "Kronenstraße"
-housenumber: 27
+street: Kronenstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Tu,Th,Fr 08:30-12:30,14:00-18:00; We 08:30-12:30; Sa 08:30-13:00; Mo off"
+opening_hours: Tu,Th,Fr 08:30-12:30,14:00-18:00; We 08:30-12:30; Sa 08:30-13:00; Mo
+    off
 website: ""

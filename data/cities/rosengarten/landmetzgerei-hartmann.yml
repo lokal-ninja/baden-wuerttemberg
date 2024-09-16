@@ -4,8 +4,8 @@ latitude: 49.06874
 longitude: 9.72841
 postcode: "74538"
 city: Rosengarten
-street: "Unterdorfstraße"
-housenumber: 19
-phone: "+49 791 51336"
-opening_hours: "Th,Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:00"
-website: "https://www.landmetzgerei-hartmann.de/"
+street: Unterdorfstraße
+housenumber: "19"
+phone: +49 791 51336
+opening_hours: Th,Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:00
+website: https://www.landmetzgerei-hartmann.de/

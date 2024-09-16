@@ -4,8 +4,8 @@ latitude: 49.11901
 longitude: 9.19046
 postcode: "74081"
 city: Heilbronn
-street: "Hauptstraße"
-housenumber: 16
-phone: "+49 7131 259120"
-opening_hours: "nach telefonischer Vereinbarung"
-website: "https://flug-reisecenter.de"
+street: Hauptstraße
+housenumber: "16"
+phone: +49 7131 259120
+opening_hours: '"nach telefonischer Vereinbarung"'
+website: https://flug-reisecenter.de

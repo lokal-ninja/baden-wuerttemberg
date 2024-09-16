@@ -1,11 +1,11 @@
 id: 96599341
-type: way
+type: node
 latitude: 47.58818
 longitude: 7.69867
 postcode: "79594"
 city: Inzlingen
-street: "Schloßstraße"
-housenumber: 16
+street: Schloßstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

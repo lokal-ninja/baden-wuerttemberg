@@ -1,11 +1,11 @@
 id: 113745101
-type: way
+type: node
 latitude: 49.45475
 longitude: 9.18207
 postcode: "74838"
 city: Limbach
-street: "Lindenstraße"
-housenumber: 12
+street: Lindenstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://landmetzgerei-rausch.de/"
+website: https://landmetzgerei-rausch.de/

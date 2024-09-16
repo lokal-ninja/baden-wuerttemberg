@@ -1,11 +1,11 @@
 id: 148726230
-type: way
+type: node
 latitude: 48.13847
 longitude: 8.24002
 postcode: "78098"
 city: Triberg
-street: "Hornberger Straße"
-housenumber: 3
+street: Hornberger Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

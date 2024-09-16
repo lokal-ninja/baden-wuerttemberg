@@ -1,11 +1,11 @@
 id: 56246880
-type: way
+type: node
 latitude: 48.73906
 longitude: 8.13028
 postcode: "77815"
 city: Bühl
-street: "Fremersbergstraße"
-housenumber: 5
-phone: "+49 7223 5530"
+street: Fremersbergstraße
+housenumber: "5"
+phone: +49 7223 5530
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 104082436
-type: way
+type: node
 latitude: 48.09988
 longitude: 9.78686
 postcode: "88400"
 city: Biberach an der Riß
-street: "Wielandstraße"
-housenumber: 8
+street: Wielandstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:45,14:00-18:00; Tu,Th 14:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-12:45,14:00-18:00; Tu,Th 14:00-18:00; Sa 10:00-13:00
 website: ""

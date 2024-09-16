@@ -1,11 +1,11 @@
 id: 166125306
-type: way
+type: node
 latitude: 47.9869
 longitude: 7.83821
 postcode: "79100"
 city: Freiburg im Breisgau
-street: "Basler Straße"
-housenumber: 57
+street: Basler Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00; PH 08:00-22:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00; PH 08:00-22:00
 website: ""

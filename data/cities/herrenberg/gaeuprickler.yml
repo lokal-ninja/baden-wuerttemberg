@@ -1,11 +1,11 @@
 id: 30726960
-type: way
+type: node
 latitude: 48.58191
 longitude: 8.90994
 postcode: "71083"
 city: Herrenberg
-street: "Granitweg"
-housenumber: 4
-phone: "+49 7032 74109"
-opening_hours: "nach Vereinbarung"
-website: "http://gäuprickler.de"
+street: Granitweg
+housenumber: "4"
+phone: +49 7032 74109
+opening_hours: '"nach Vereinbarung"'
+website: http://gäuprickler.de

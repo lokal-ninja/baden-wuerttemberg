@@ -1,11 +1,11 @@
 id: 227938865
-type: way
+type: node
 latitude: 48.88262
 longitude: 10.1874
 postcode: "73463"
 city: Westhausen
-street: "Deutschordenstraße"
-housenumber: 14
+street: Deutschordenstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

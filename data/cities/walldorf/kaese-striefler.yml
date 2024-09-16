@@ -1,11 +1,11 @@
 id: 297263560
-type: way
+type: node
 latitude: 49.2913
 longitude: 8.64881
 postcode: "69190"
 city: Walldorf
-street: "Ohmstraße"
-housenumber: 6
+street: Ohmstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

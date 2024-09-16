@@ -1,11 +1,11 @@
 id: 262920059
-type: way
+type: node
 latitude: 48.74544
 longitude: 9.32848
 postcode: "73732"
 city: Esslingen am Neckar
-street: "Kennenburger Straße"
-housenumber: 43
+street: Kennenburger Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "http://www.gaertnerei-heubach.de/"
+website: http://www.gaertnerei-heubach.de/

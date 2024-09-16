@@ -1,11 +1,11 @@
 id: 784387077
-type: way
+type: node
 latitude: 48.48842
 longitude: 7.94367
 postcode: "77652"
 city: Offenburg
-street: "Lise-Meitner-Straße"
-housenumber: 16
+street: Lise-Meitner-Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

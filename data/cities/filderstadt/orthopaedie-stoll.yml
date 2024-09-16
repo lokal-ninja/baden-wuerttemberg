@@ -4,8 +4,8 @@ latitude: 48.66041
 longitude: 9.22195
 postcode: "70794"
 city: Filderstadt
-street: "Bonländer Hauptstraße"
-housenumber: 123
-phone: "+49 711 440 85790"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa 09:00-12:30"
-website: "https://www.ost-stoll.de/"
+street: Bonländer Hauptstraße
+housenumber: "123"
+phone: +49 711 440 85790
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:00; Sa 09:00-12:30
+website: https://www.ost-stoll.de/

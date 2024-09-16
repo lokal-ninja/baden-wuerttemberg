@@ -4,8 +4,8 @@ latitude: 48.52085
 longitude: 9.05091
 postcode: "72070"
 city: Tübingen
-street: "Ammergasse"
-housenumber: 11
+street: Ammergasse
+housenumber: "11"
 phone: ""
-opening_hours: "Tu,Th 11:00-17:00; We,Fr 14:30-18:00; Sa 14:00-17:00"
+opening_hours: Tu,Th 11:00-17:00; We,Fr 14:30-18:00; Sa 14:00-17:00
 website: ""

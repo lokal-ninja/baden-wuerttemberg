@@ -1,11 +1,11 @@
 id: 272988231
-type: way
+type: node
 latitude: 49.45696
 longitude: 9.47489
 postcode: "74749"
 city: Rosenberg
-street: "Hauptstraße"
-housenumber: 37
-phone: "+49 6295 240"
+street: Hauptstraße
+housenumber: "37"
+phone: +49 6295 240
 opening_hours: ""
 website: ""

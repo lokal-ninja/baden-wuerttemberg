@@ -1,11 +1,11 @@
 id: 396668138
-type: way
+type: node
 latitude: 49.07081
 longitude: 8.68481
 postcode: "75015"
 city: Bretten
-street: "Talbachstraße"
-housenumber: 32
+street: Talbachstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Tu-We 08:00-13:00; Th-Fr 08:00-16:00; Sa 07:00-13:00"
-website: "https://www.dein-karcher.de"
+opening_hours: Tu-We 08:00-13:00; Th-Fr 08:00-16:00; Sa 07:00-13:00
+website: https://www.dein-karcher.de

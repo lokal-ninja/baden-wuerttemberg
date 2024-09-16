@@ -1,11 +1,11 @@
 id: 317161444
-type: way
+type: node
 latitude: 48.30293
 longitude: 8.05623
 postcode: "77790"
 city: Steinach
-street: "Badener Straße"
-housenumber: 4
+street: Badener Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

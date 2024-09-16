@@ -1,11 +1,11 @@
 id: 404025030
-type: way
+type: node
 latitude: 48.13282
 longitude: 8.89016
 postcode: "72362"
 city: Nusplingen
-street: "Kapellentorstraße"
-housenumber: 7
+street: Kapellentorstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

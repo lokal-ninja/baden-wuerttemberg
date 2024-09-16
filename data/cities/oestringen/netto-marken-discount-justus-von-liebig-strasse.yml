@@ -1,11 +1,11 @@
 id: 193055357
-type: way
+type: node
 latitude: 49.21598
 longitude: 8.69778
 postcode: "76684"
 city: Östringen
-street: "Justus-von-Liebig-Straße"
-housenumber: 2
+street: Justus-von-Liebig-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

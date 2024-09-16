@@ -4,8 +4,8 @@ latitude: 49.12525
 longitude: 8.59666
 postcode: "76646"
 city: Bruchsal
-street: "Friedrichstraße"
-housenumber: 44
-phone: "+49 7251 3032077"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.prooptik.de/"
+street: Friedrichstraße
+housenumber: "44"
+phone: +49 7251 3032077
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.prooptik.de/

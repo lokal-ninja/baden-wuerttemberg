@@ -1,11 +1,11 @@
 id: 163957897
-type: way
+type: node
 latitude: 48.83373
 longitude: 9.17623
 postcode: "70435"
 city: Stuttgart
-street: "Beilsteiner Straße"
-housenumber: 10
+street: Beilsteiner Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

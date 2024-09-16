@@ -4,8 +4,8 @@ latitude: 47.98155
 longitude: 7.80372
 postcode: "79111"
 city: Freiburg im Breisgau
-street: "Blumenstraße"
-housenumber: 34
-phone: "+49 761 88860633"
-opening_hours: "Mo-Th 09:00-12:45,14:00-18:00, Fr 09:00-12:45"
-website: "https://holz-hoerakustik.de/"
+street: Blumenstraße
+housenumber: "34"
+phone: +49 761 88860633
+opening_hours: Mo-Th 09:00-12:45,14:00-18:00, Fr 09:00-12:45
+website: https://holz-hoerakustik.de/

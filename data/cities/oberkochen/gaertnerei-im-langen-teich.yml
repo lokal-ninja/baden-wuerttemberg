@@ -5,7 +5,7 @@ longitude: 10.12857
 postcode: "73447"
 city: Oberkochen
 street: ""
-housenumber: 2
-phone: "+49 7364 8533"
-opening_hours: "Mo-Fr 09:30-12:00,13:30-17:00; We off; Sa 09:00-12:00"
-website: "https://imlangenteich.de/"
+housenumber: "2"
+phone: +49 7364 8533
+opening_hours: Mo-Fr 09:30-12:00,13:30-17:00; We off; Sa 09:00-12:00
+website: https://imlangenteich.de/

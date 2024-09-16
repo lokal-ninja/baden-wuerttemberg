@@ -4,8 +4,8 @@ latitude: 48.34427
 longitude: 9.81251
 postcode: "89155"
 city: Erbach
-street: "Schelklinger Straße"
-housenumber: 8
-phone: "+49 7344 5428"
-opening_hours: "Tu-Fr 07:00-12:00,14:30-18:00; Sa 06:30-12:00; Mo,Su,PH off"
+street: Schelklinger Straße
+housenumber: "8"
+phone: +49 7344 5428
+opening_hours: Tu-Fr 07:00-12:00,14:30-18:00; Sa 06:30-12:00; Mo,Su,PH off
 website: ""

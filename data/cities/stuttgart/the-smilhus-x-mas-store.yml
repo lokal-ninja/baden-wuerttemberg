@@ -1,11 +1,11 @@
 id: 1112593490
-type: way
+type: node
 latitude: 48.77561
 longitude: 9.17289
 postcode: "70173"
 city: Stuttgart
-street: "Rotebühlplatz"
-housenumber: 20
+street: Rotebühlplatz
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

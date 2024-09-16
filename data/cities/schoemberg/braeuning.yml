@@ -1,11 +1,11 @@
 id: 319448545
-type: way
+type: node
 latitude: 48.78751
 longitude: 8.64796
 postcode: "75328"
 city: Schömberg
-street: "Liebenzeller Straße"
-housenumber: 14
+street: Liebenzeller Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

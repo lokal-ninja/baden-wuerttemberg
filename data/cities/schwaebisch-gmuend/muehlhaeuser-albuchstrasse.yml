@@ -1,11 +1,11 @@
 id: 200957789
-type: way
+type: node
 latitude: 48.78733
 longitude: 9.88794
 postcode: "73529"
 city: Schwäbisch Gmünd
-street: "Albuchstraße"
-housenumber: 2
+street: Albuchstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

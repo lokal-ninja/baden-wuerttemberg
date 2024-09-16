@@ -1,11 +1,11 @@
 id: 799796918
-type: way
+type: node
 latitude: 49.06591
 longitude: 9.26298
 postcode: "74360"
 city: Ilsfeld
-street: "Renntalstraße"
+street: Renntalstraße
 housenumber: 8/1
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.bactodes.de"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.bactodes.de

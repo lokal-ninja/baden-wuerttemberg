@@ -4,8 +4,8 @@ latitude: 49.01054
 longitude: 8.39829
 postcode: "76133"
 city: Karlsruhe
-street: "Waldstraße"
-housenumber: 20
-phone: "+49 721 18056375"
-opening_hours: "Tu-Th 11:00-19:00; Fr,Sa 10:00-20:00; PH,Su,Mo off"
-website: "https://www.kinnaree-massage.de/"
+street: Waldstraße
+housenumber: "20"
+phone: +49 721 18056375
+opening_hours: Tu-Th 11:00-19:00; Fr,Sa 10:00-20:00; PH,Su,Mo off
+website: https://www.kinnaree-massage.de/

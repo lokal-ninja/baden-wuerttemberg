@@ -1,11 +1,12 @@
 id: 237815511
-type: way
+type: node
 latitude: 48.80633
 longitude: 9.52686
 postcode: "73614"
 city: Schorndorf
-street: "Marktplatz"
-housenumber: 21
-phone: "+49 7181 62932"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00; We 08:30-13:00; Sa 08:30-14:00; Su,PH off"
-website: "http://www.blumenwalter.de/"
+street: Marktplatz
+housenumber: "21"
+phone: +49 7181 62932
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:00; We 08:30-13:00; Sa 08:30-14:00; Su,PH
+    off
+website: http://www.blumenwalter.de/

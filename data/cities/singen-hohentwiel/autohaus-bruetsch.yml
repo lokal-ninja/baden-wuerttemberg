@@ -1,11 +1,11 @@
 id: 252976505
-type: way
+type: node
 latitude: 47.75402
 longitude: 8.88251
 postcode: "78224"
 city: Singen (Hohentwiel)
-street: "Gottlieb-Daimler-Straße"
-housenumber: 19
-phone: "+49 7731 9098-110"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00; Su,PH off"
-website: "https://bruetsch.de/"
+street: Gottlieb-Daimler-Straße
+housenumber: "19"
+phone: +49 7731 9098-110
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00; Su,PH off
+website: https://bruetsch.de/

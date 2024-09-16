@@ -1,11 +1,11 @@
 id: 510283689
-type: way
+type: node
 latitude: 48.68126
 longitude: 10.13197
 postcode: "89518"
 city: Heidenheim an der Brenz
-street: "Liststraße"
-housenumber: 45
-phone: "+49 7321 9873-0"
-opening_hours: "Mo-Fr  08:00-12:00, 13:30 -18:00; Sa 09:00-12:00; ph off"
-website: "https://www.hoplak.de/"
+street: Liststraße
+housenumber: "45"
+phone: +49 7321 9873-0
+opening_hours: Mo-Fr  08:00-12:00, 13:30 -18:00; Sa 09:00-12:00; ph off
+website: https://www.hoplak.de/

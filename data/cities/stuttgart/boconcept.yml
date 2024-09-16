@@ -4,8 +4,8 @@ latitude: 48.77589
 longitude: 9.18099
 postcode: "70173"
 city: Stuttgart
-street: "Dorotheenstraße"
-housenumber: 8
+street: Dorotheenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.boconcept.com"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.boconcept.com

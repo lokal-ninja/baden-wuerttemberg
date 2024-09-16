@@ -1,11 +1,11 @@
 id: 190919611
-type: way
+type: node
 latitude: 48.99473
 longitude: 9.77452
 postcode: "74405"
 city: Gaildorf
-street: "Karlstraße"
-housenumber: 113
+street: Karlstraße
+housenumber: "113"
 phone: ""
 opening_hours: ""
-website: "https://www.assenheimer-mulfinger.de/ueber-uns/standorte.html"
+website: https://www.assenheimer-mulfinger.de/ueber-uns/standorte.html

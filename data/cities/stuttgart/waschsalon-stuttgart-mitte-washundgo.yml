@@ -4,8 +4,8 @@ latitude: 48.77037
 longitude: 9.18069
 postcode: "70182"
 city: Stuttgart
-street: "Wilhelmstraße"
-housenumber: 11
-phone: "+49 (0)711 96893785"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.waschsalon-stuttgart.com/"
+street: Wilhelmstraße
+housenumber: "11"
+phone: +49 (0)711 96893785
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.waschsalon-stuttgart.com/

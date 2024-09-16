@@ -1,11 +1,11 @@
 id: 232235192
-type: way
+type: node
 latitude: 48.0092
 longitude: 9.50877
 postcode: "88348"
 city: Bad Saulgau
-street: "Platzstraße"
-housenumber: 20
+street: Platzstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

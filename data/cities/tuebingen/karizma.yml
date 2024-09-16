@@ -4,8 +4,8 @@ latitude: 48.51684
 longitude: 9.05877
 postcode: "72072"
 city: Tübingen
-street: "Karlstraße"
-housenumber: 11
-phone: "+49 7071 3072984"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: "http://www.karizma-tuebingen.de"
+street: Karlstraße
+housenumber: "11"
+phone: +49 7071 3072984
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00
+website: http://www.karizma-tuebingen.de

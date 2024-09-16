@@ -1,11 +1,11 @@
 id: 88407589
-type: way
+type: node
 latitude: 49.05722
 longitude: 9.28155
 postcode: "74360"
 city: Ilsfeld
-street: "Beilsteiner Straße"
-housenumber: 24
+street: Beilsteiner Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

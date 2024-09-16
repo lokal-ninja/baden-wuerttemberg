@@ -1,11 +1,11 @@
-id: 96993554
-type: way
-latitude: 49.07707
-longitude: 9.15289
+id: 96746104
+type: node
+latitude: 49.07722
+longitude: 9.15356
 postcode: "74348"
 city: Lauffen am Neckar
-street: "Kiesstraße"
-housenumber: 35
-phone: "+49-7133-7261"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 06:30-19:00; Su 08:00-19:00"
+street: Kiesstraße
+housenumber: "2"
+phone: +49-7133-7261
+opening_hours: Mo-Fr 06:00-21:00; Sa 06:30-19:00; Su 08:00-19:00
 website: ""

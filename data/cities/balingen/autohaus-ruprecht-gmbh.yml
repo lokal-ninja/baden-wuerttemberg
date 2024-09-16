@@ -1,11 +1,11 @@
 id: 167630421
-type: way
+type: node
 latitude: 48.28991
 longitude: 8.8486
 postcode: "72336"
 city: Balingen
-street: "Menzelstraße"
-housenumber: 2
+street: Menzelstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-13:00
 website: ""

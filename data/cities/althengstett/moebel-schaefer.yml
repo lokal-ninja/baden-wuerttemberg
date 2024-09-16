@@ -1,11 +1,11 @@
 id: 61338028
-type: way
+type: node
 latitude: 48.72279
 longitude: 8.77988
 postcode: "75382"
 city: Althengstett
-street: "Industriestraße"
-housenumber: 54
+street: Industriestraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 10:00-15:00"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30; Sa 10:00-15:00
 website: ""

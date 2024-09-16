@@ -1,11 +1,11 @@
 id: 285050452
-type: way
+type: node
 latitude: 48.07306
 longitude: 8.54055
 postcode: "78056"
 city: Villingen-Schwenningen
-street: "Auf Rinelen"
-housenumber: 24
+street: Auf Rinelen
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

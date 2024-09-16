@@ -1,11 +1,11 @@
 id: 336299571
-type: way
+type: node
 latitude: 48.81749
 longitude: 9.25601
 postcode: "70736"
 city: Fellbach
-street: "Schaflandstraße"
-housenumber: 58
-phone: "+49 711 213 00500"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.autohaus-kloz.net/"
+street: Schaflandstraße
+housenumber: "58"
+phone: +49 711 213 00500
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.autohaus-kloz.net/

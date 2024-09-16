@@ -1,11 +1,11 @@
 id: 238358255
-type: way
+type: node
 latitude: 48.8378
 longitude: 8.22116
 postcode: "76437"
 city: Rastatt
-street: "Am Krebsbach"
-housenumber: 26
-phone: "+49 7222 52324"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-16:00"
-website: "https://www.fishermans-partner.eu/fachmaerkte/de/rastatt/start/"
+street: Am Krebsbach
+housenumber: "26"
+phone: +49 7222 52324
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-16:00
+website: https://www.fishermans-partner.eu/fachmaerkte/de/rastatt/start/

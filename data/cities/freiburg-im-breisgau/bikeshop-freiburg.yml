@@ -4,8 +4,8 @@ latitude: 47.98694
 longitude: 7.87909
 postcode: "79117"
 city: Freiburg im Breisgau
-street: "Hansjakobstraße"
-housenumber: 58
+street: Hansjakobstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00, Sa 10:00-14:00; PH,Su off"
+opening_hours: Tu-Fr 11:00-19:00, Sa 10:00-14:00; PH,Mo,Su off
 website: ""

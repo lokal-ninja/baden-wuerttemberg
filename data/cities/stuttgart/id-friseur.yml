@@ -4,8 +4,8 @@ latitude: 48.76213
 longitude: 9.172
 postcode: "70180"
 city: Stuttgart
-street: "Tulpenstraße"
-housenumber: 49
+street: Tulpenstraße
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "http://id-friseur.de/"
+website: http://id-friseur.de/

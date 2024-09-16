@@ -1,11 +1,11 @@
 id: 144769249
-type: way
+type: node
 latitude: 49.23526
 longitude: 9.32657
 postcode: "74196"
 city: Neuenstadt am Kocher
-street: "Neckarsulmer Straße"
-housenumber: 15
+street: Neckarsulmer Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

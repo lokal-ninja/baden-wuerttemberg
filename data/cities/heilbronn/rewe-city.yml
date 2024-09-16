@@ -1,11 +1,11 @@
 id: 35919974
-type: way
+type: node
 latitude: 49.14062
 longitude: 9.21908
 postcode: "74072"
 city: Heilbronn
-street: "Fleiner Straße"
-housenumber: 26
+street: Fleiner Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

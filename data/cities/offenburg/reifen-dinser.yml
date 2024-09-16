@@ -1,11 +1,11 @@
 id: 89373569
-type: way
+type: node
 latitude: 48.49161
 longitude: 7.95126
 postcode: "77652"
 city: Offenburg
-street: "Gewerbestraße"
-housenumber: 16
+street: Gewerbestraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

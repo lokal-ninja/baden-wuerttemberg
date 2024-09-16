@@ -4,8 +4,8 @@ latitude: 48.83843
 longitude: 10.09199
 postcode: "73430"
 city: Aalen
-street: "Stadelgasse"
-housenumber: 29
+street: Stadelgasse
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 14:00-17:30; Su,PH off"
+opening_hours: Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 14:00-17:30; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.80574
 longitude: 9.53095
 postcode: "73614"
 city: Schorndorf
-street: "Schulstraße"
-housenumber: 37
-phone: "+49 7181 5458"
-opening_hours: "Mo,Tu,We, Sa 09:00-14:00; Th-Fr 09:00-18:00"
-website: "https://www.greiner-gaertnerei.de"
+street: Schulstraße
+housenumber: "37"
+phone: +49 7181 5458
+opening_hours: Mo,Tu,We, Sa 09:00-14:00; Th-Fr 09:00-18:00
+website: https://www.greiner-gaertnerei.de

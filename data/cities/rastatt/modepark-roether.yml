@@ -1,11 +1,11 @@
 id: 182570012
-type: way
+type: node
 latitude: 48.85993
 longitude: 8.19897
 postcode: "76437"
 city: Rastatt
-street: "Kaiserstraße"
-housenumber: 75
+street: Kaiserstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 26833494
-type: way
+type: node
 latitude: 48.79872
 longitude: 9.00269
 postcode: "71229"
 city: Leonberg
-street: "Römerstraße"
+street: Römerstraße
 housenumber: 7-9
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.obi.de/baumarkt/leonberg/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.obi.de/baumarkt/leonberg/

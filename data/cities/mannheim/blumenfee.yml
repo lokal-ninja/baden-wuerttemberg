@@ -5,7 +5,7 @@ longitude: 8.46962
 postcode: ""
 city: Mannheim
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "PH,Mo-Su 08:00-19:00"
-website: "https://blumenfee.net/"
+opening_hours: PH,Mo-Su 08:00-19:00
+website: https://blumenfee.net/

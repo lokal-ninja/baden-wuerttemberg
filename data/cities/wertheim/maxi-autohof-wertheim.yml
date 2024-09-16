@@ -1,11 +1,11 @@
 id: 350832428
-type: way
+type: node
 latitude: 49.77251
 longitude: 9.57534
 postcode: "97877"
 city: Wertheim
-street: "Blättleinsäcker"
-housenumber: 1
+street: Blättleinsäcker
+housenumber: "1"
 phone: ""
-opening_hours: "PH,Mo-Su 00:00-24:00"
+opening_hours: PH,Mo-Su 00:00-24:00
 website: ""

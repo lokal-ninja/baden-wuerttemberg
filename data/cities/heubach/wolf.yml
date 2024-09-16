@@ -1,11 +1,11 @@
 id: 246497464
-type: way
+type: node
 latitude: 48.79922
 longitude: 9.93553
 postcode: "73540"
 city: Heubach
-street: "Böbinger Straße"
-housenumber: 52
+street: Böbinger Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00"
+opening_hours: Mo-Fr 07:00-12:00
 website: ""

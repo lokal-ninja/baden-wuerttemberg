@@ -4,8 +4,8 @@ latitude: 48.40776
 longitude: 9.05558
 postcode: "72116"
 city: Mössingen
-street: "Stegstraße"
-housenumber: 8
-phone: "+49 7473 94110"
-opening_hours: "Mo-Fr 09:00-12:30, 14:30-18:30; Sa 09:00-14:00"
-website: "http://www.spezcom.de"
+street: Stegstraße
+housenumber: "8"
+phone: +49 7473 94110
+opening_hours: Mo-Fr 09:00-12:30, 14:30-18:30; Sa 09:00-14:00
+website: http://www.spezcom.de

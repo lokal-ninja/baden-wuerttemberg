@@ -1,11 +1,11 @@
 id: 92194453
-type: way
+type: node
 latitude: 48.78207
 longitude: 9.25526
 postcode: "70327"
 city: Stuttgart
-street: "Strümpfelbacher Straße"
-housenumber: 47
+street: Strümpfelbacher Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-We 08:00-18:00; Th 08:00-19:00; Fr 08:00-18:00; Sa 09:00-14:00"
-website: "https://www.weinmanufaktur.de/"
+opening_hours: Mo-We 08:00-18:00; Th 08:00-19:00; Fr 08:00-18:00; Sa 09:00-14:00
+website: https://www.weinmanufaktur.de/

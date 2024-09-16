@@ -1,11 +1,11 @@
 id: 249645655
-type: way
+type: node
 latitude: 48.97355
 longitude: 9.07398
 postcode: "74343"
 city: Sachsenheim
-street: "Karl-Drais-Straße"
-housenumber: 1
+street: Karl-Drais-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

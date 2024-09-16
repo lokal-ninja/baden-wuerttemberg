@@ -1,11 +1,11 @@
 id: 121620053
-type: way
+type: node
 latitude: 47.75384
 longitude: 8.85891
 postcode: "78224"
 city: Singen (Hohentwiel)
-street: "Stockholzstraße"
-housenumber: 17
+street: Stockholzstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

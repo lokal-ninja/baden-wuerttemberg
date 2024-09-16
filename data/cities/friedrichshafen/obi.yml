@@ -4,8 +4,8 @@ latitude: 47.66516
 longitude: 9.48436
 postcode: "88046"
 city: Friedrichshafen
-street: "Ailinger Straße"
-housenumber: 107
-phone: "+49 7541 385840"
-opening_hours: "08:30-20:00; Su,PH off"
-website: "https://www.obi.de"
+street: Ailinger Straße
+housenumber: "107"
+phone: +49 7541 385840
+opening_hours: 08:30-20:00; Su,PH off
+website: https://www.obi.de

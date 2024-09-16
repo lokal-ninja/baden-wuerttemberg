@@ -1,11 +1,11 @@
 id: 52876693
-type: way
+type: node
 latitude: 48.69698
 longitude: 9.68714
 postcode: "73054"
 city: Eislingen/Fils
-street: "Steinbeisstraße"
-housenumber: 2
+street: Steinbeisstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/eislingen-532"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/eislingen-532

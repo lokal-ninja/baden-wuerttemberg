@@ -1,10 +1,10 @@
 id: 123206896
-type: way
+type: node
 latitude: 48.99383
 longitude: 8.33684
 postcode: "76189"
 city: Karlsruhe
-street: "Am Anger"
+street: Am Anger
 housenumber: 27a
 phone: ""
 opening_hours: ""

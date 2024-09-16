@@ -1,11 +1,11 @@
 id: 80621366
-type: way
+type: node
 latitude: 48.70761
 longitude: 9.25391
 postcode: "73760"
 city: Ostfildern
-street: "Liststraße"
-housenumber: 2
-phone: "+49 7158 985985"
+street: Liststraße
+housenumber: "2"
+phone: +49 7158 985985
 opening_hours: ""
 website: ""

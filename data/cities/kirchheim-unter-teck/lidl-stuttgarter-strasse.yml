@@ -1,11 +1,11 @@
 id: 138711648
-type: way
+type: node
 latitude: 48.65592
 longitude: 9.42964
 postcode: "73230"
 city: Kirchheim unter Teck
-street: "Stuttgarter Straße"
-housenumber: 134
+street: Stuttgarter Straße
+housenumber: "134"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/kirchheim-teck/kirchheim-stuttgarter-str-134.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/kirchheim-teck/kirchheim-stuttgarter-str-134.html

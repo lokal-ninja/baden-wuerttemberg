@@ -1,11 +1,11 @@
 id: 145108972
-type: way
+type: node
 latitude: 47.98957
 longitude: 7.79989
 postcode: "79114"
 city: Freiburg im Breisgau
-street: "Heckerstraße"
-housenumber: 4
+street: Heckerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/freiburg/heckerstrasse-4"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/freiburg/heckerstrasse-4

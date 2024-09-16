@@ -1,11 +1,11 @@
 id: 324341448
-type: way
+type: node
 latitude: 49.36526
 longitude: 9.48792
 postcode: "74214"
 city: Schöntal
-street: "Schneidersgasse"
-housenumber: 2
-phone: "+49 7943 568"
+street: Schneidersgasse
+housenumber: "2"
+phone: +49 7943 568
 opening_hours: ""
 website: ""

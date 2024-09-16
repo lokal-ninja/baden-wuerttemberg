@@ -4,8 +4,8 @@ latitude: 48.81462
 longitude: 9.11393
 postcode: "70499"
 city: Stuttgart
-street: "Staigerstraße"
-housenumber: 12
-phone: "+49 711 5779145"
-opening_hours: "Tu-Th 09:30-12:30, Tu,Th 14:30-18:00, Sa 09:30-13:00"
-website: "https://www.sisis-naehstueble.de/"
+street: Staigerstraße
+housenumber: "12"
+phone: +49 711 5779145
+opening_hours: Tu-Th 09:30-12:30, Tu,Th 14:30-18:00, Sa 09:30-13:00
+website: https://www.sisis-naehstueble.de/

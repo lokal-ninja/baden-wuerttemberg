@@ -4,8 +4,8 @@ latitude: 48.77267
 longitude: 8.72982
 postcode: "75378"
 city: Bad Liebenzell
-street: "Liobastraße"
-housenumber: 8
+street: Liobastraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00, Mo-Fr 14:30-18:00; Sa 10:00-14:00"
-website: "https://www.buchhandlung-liebenzell.de/"
+opening_hours: Mo-Fr 08:00-13:00, Mo-Fr 14:30-18:00; Sa 10:00-14:00
+website: https://www.buchhandlung-liebenzell.de/

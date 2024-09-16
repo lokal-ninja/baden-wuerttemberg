@@ -4,8 +4,8 @@ latitude: 48.77294
 longitude: 9.13024
 postcode: "70195"
 city: Stuttgart
-street: "Lindpaintnerstraße"
-housenumber: 21
+street: Lindpaintnerstraße
+housenumber: "21"
 phone: "+49711697640"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "https://www.schoettle.mercedes-benz.de/de/desktop/home.html"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: https://www.schoettle.mercedes-benz.de/de/desktop/home.html

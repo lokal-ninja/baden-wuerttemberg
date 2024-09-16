@@ -1,11 +1,11 @@
 id: 491940994
-type: way
+type: node
 latitude: 49.07629
 longitude: 8.46115
 postcode: "76297"
 city: Stutensee
-street: "Von-Behring-Straße"
-housenumber: 2
+street: Von-Behring-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

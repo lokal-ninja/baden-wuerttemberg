@@ -1,11 +1,11 @@
 id: 109578071
-type: way
+type: node
 latitude: 48.05036
 longitude: 7.72894
 postcode: "79288"
 city: Gottenheim
-street: "Rathausstraße"
-housenumber: 2
+street: Rathausstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.weingut-hunn.de/"
+website: https://www.weingut-hunn.de/

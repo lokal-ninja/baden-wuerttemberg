@@ -1,11 +1,11 @@
 id: 182341851
-type: way
+type: node
 latitude: 49.49183
 longitude: 8.44669
 postcode: "68159"
 city: Mannheim
-street: "Rheinkaistraße"
-housenumber: 18
+street: Rheinkaistraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.80591
 longitude: 9.49817
 postcode: "88263"
 city: Horgenzell
-street: "Kornstraße"
-housenumber: 17
+street: Kornstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Sa 06:30-12:30; Mo 07:00-14:00; Tu-Fr 07:00-18:00"
-website: "http://www.metzgerei-eberle.de"
+opening_hours: Sa 06:30-12:30; Mo 07:00-14:00; Tu-Fr 07:00-18:00
+website: http://www.metzgerei-eberle.de

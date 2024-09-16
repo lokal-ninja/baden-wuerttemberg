@@ -4,8 +4,8 @@ latitude: 47.77094
 longitude: 9.62084
 postcode: "88212"
 city: Ravensburg
-street: "Wangener Straße"
-housenumber: 82
-phone: "+49 751 3542500"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-15:00"
-website: "https://hamma.de/"
+street: Wangener Straße
+housenumber: "82"
+phone: +49 751 3542500
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-15:00
+website: https://hamma.de/

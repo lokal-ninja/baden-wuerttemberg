@@ -1,11 +1,11 @@
 id: 42687297
-type: way
+type: node
 latitude: 48.49477
 longitude: 9.20484
 postcode: "72762"
 city: Reutlingen
-street: "Gminderstraße"
-housenumber: 7
-phone: "+49 7121 9613242"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.biomarkt.de/reutlingen-gminderstr-7/marktseite"
+street: Gminderstraße
+housenumber: "7"
+phone: +49 7121 9613242
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.biomarkt.de/reutlingen-gminderstr-7/marktseite

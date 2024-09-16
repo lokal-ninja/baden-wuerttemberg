@@ -1,11 +1,11 @@
 id: 104515084
-type: way
+type: node
 latitude: 49.13674
 longitude: 9.22944
 postcode: "74072"
 city: Heilbronn
-street: "Oststraße"
-housenumber: 20
+street: Oststraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

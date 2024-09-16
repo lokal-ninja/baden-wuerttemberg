@@ -1,11 +1,11 @@
 id: 33040450
-type: way
+type: node
 latitude: 49.13139
 longitude: 9.20922
 postcode: "74074"
 city: Heilbronn
-street: "Liebigstraße"
-housenumber: 49
+street: Liebigstraße
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "https://www.weingut-stutz.de/"
+website: https://www.weingut-stutz.de/

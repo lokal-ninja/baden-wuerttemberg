@@ -4,8 +4,8 @@ latitude: 48.7501
 longitude: 9.44439
 postcode: "73666"
 city: Baltmannsweiler
-street: "Silcherstraße"
-housenumber: 72
-phone: "+49 7153 6199998"
-opening_hours: "Mo-Fr 10:00-12:00,13:00-18:00; Sa 10:00-13:00; Su,PH off"
-website: "https://www.hs-zweiradsport-baltmannsweiler.de"
+street: Silcherstraße
+housenumber: "72"
+phone: +49 7153 6199998
+opening_hours: Mo-Fr 10:00-12:00,13:00-18:00; Sa 10:00-13:00; Su,PH off
+website: https://www.hs-zweiradsport-baltmannsweiler.de

@@ -1,11 +1,11 @@
 id: 152238072
-type: way
+type: node
 latitude: 49.45079
 longitude: 8.4969
 postcode: "68199"
 city: Mannheim
-street: "Angelstraße"
-housenumber: 7
+street: Angelstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://seilwolffcenter.de/"
+website: https://seilwolffcenter.de/

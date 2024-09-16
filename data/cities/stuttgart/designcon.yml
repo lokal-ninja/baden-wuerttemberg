@@ -4,8 +4,8 @@ latitude: 48.77104
 longitude: 9.17071
 postcode: "70178"
 city: Stuttgart
-street: "Marienstraße"
-housenumber: 33
+street: Marienstraße
+housenumber: "33"
 phone: ""
-opening_hours: "by appointment"
-website: "https://designcon.de/"
+opening_hours: '"by appointment"'
+website: https://designcon.de/

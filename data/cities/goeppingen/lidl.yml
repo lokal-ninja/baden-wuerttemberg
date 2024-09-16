@@ -1,11 +1,11 @@
 id: 220299984
-type: way
+type: node
 latitude: 48.70123
 longitude: 9.66281
 postcode: "73033"
 city: Göppingen
-street: "Großeislinger Straße"
-housenumber: 2
+street: Großeislinger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
+opening_hours: Mo-Sa 08:00-20:00; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 309095842
-type: way
+type: node
 latitude: 48.82573
 longitude: 10.07349
 postcode: "73431"
 city: Aalen
-street: "Carl-Zeiss-Straße"
-housenumber: 19
+street: Carl-Zeiss-Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00
 website: ""

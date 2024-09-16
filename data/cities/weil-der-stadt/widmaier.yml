@@ -1,11 +1,11 @@
 id: 71711921
-type: way
+type: node
 latitude: 48.74993
 longitude: 8.86964
 postcode: "71263"
 city: Weil der Stadt
-street: "Marktplatz"
-housenumber: 19
+street: Marktplatz
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,15:00-18:30; Sa 09:00-13:00"
-website: "https://www.widmaier-wds.de/"
+opening_hours: Mo-Fr 09:00-12:30,15:00-18:30; Sa 09:00-13:00
+website: https://www.widmaier-wds.de/

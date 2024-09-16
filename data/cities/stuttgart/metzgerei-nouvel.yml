@@ -4,8 +4,8 @@ latitude: 48.81343
 longitude: 9.11309
 postcode: "70499"
 city: Stuttgart
-street: "Köstlinstraße"
-housenumber: 2
-phone: "+49 711 8873220"
-opening_hours: "Mo,We 07:00-13:30; Tu,Fr 07:00-18:30; Sa 07:00-13:00; Th 07:00-18:00"
-website: "https://www.nouvel.de/"
+street: Köstlinstraße
+housenumber: "2"
+phone: +49 711 8873220
+opening_hours: Mo,We 07:00-13:30; Tu,Fr 07:00-18:30; Sa 07:00-13:00; Th 07:00-18:00
+website: https://www.nouvel.de/

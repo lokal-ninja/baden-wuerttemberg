@@ -1,11 +1,11 @@
 id: 402477001
-type: way
+type: node
 latitude: 48.67587
 longitude: 9.19873
 postcode: "70794"
 city: Filderstadt
-street: "Karl-Benz-Straße"
-housenumber: 9
-phone: "+49 711 709880"
+street: Karl-Benz-Straße
+housenumber: "9"
+phone: +49 711 709880
 opening_hours: ""
-website: "www.autohaus-jesinger.de"
+website: www.autohaus-jesinger.de

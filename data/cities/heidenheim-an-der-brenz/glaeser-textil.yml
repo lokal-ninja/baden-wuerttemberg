@@ -1,11 +1,11 @@
 id: 227400375
-type: way
+type: node
 latitude: 48.71425
 longitude: 10.16225
 postcode: "89520"
 city: Heidenheim an der Brenz
-street: "Riedstraße"
-housenumber: 8
+street: Riedstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

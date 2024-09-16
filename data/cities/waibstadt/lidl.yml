@@ -1,11 +1,11 @@
 id: 239847423
-type: way
+type: node
 latitude: 49.30241
 longitude: 8.90888
 postcode: "74915"
 city: Waibstadt
-street: "Neidensteiner Straße"
-housenumber: 30
+street: Neidensteiner Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su off"
-website: "https://www.lidl.de/f/waibstadt/neidensteiner-str-30.html"
+opening_hours: Mo-Sa 08:00-21:00; Su off
+website: https://www.lidl.de/f/waibstadt/neidensteiner-str-30.html

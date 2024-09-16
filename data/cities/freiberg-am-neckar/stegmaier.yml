@@ -1,11 +1,11 @@
 id: 320977747
-type: way
+type: node
 latitude: 48.92835
 longitude: 9.18591
 postcode: "71691"
 city: Freiberg am Neckar
-street: "Siemensstraße"
-housenumber: 1
+street: Siemensstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-14:00; PH off"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-14:00; PH off
 website: ""

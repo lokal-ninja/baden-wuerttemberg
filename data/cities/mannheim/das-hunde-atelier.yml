@@ -1,11 +1,11 @@
 id: 154656273
-type: way
+type: node
 latitude: 49.48036
 longitude: 8.47444
 postcode: "68165"
 city: Mannheim
-street: "Heinrich-Lanz-Straße"
-housenumber: 29
+street: Heinrich-Lanz-Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

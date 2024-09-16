@@ -1,11 +1,11 @@
 id: 134141619
-type: way
+type: node
 latitude: 49.10152
 longitude: 9.69261
 postcode: "74545"
 city: Michelfeld
-street: "In der Kerz"
-housenumber: 4
-phone: "+49 791 56833"
-opening_hours: "Mo-Sa 07:30-18:00"
-website: "https://www.schaefer-hohenlohe.de/fil-michel"
+street: In der Kerz
+housenumber: "4"
+phone: +49 791 56833
+opening_hours: Mo-Sa 07:30-18:00
+website: https://www.schaefer-hohenlohe.de/fil-michel

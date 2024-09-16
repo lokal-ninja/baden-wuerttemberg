@@ -4,8 +4,8 @@ latitude: 49.37985
 longitude: 8.68079
 postcode: "69126"
 city: Heidelberg
-street: "Franz-Kruckenberg-Straße"
-housenumber: 2
+street: Franz-Kruckenberg-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:00-15:00"
-website: "https://www.friseur-koko.de/"
+opening_hours: Tu-Fr 09:00-15:00
+website: https://www.friseur-koko.de/

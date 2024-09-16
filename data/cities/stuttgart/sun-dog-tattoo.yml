@@ -4,8 +4,8 @@ latitude: 48.7603
 longitude: 9.16117
 postcode: "70199"
 city: Stuttgart
-street: "Schreiberstraße"
-housenumber: 25
+street: Schreiberstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

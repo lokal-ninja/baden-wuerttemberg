@@ -4,8 +4,8 @@ latitude: 49.00947
 longitude: 8.42056
 postcode: "76131"
 city: Karlsruhe
-street: "Bernhardstraße"
-housenumber: 8
+street: Bernhardstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00"
-website: "http://www.duerr-florist.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-13:00
+website: http://www.duerr-florist.de

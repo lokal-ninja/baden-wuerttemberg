@@ -4,8 +4,8 @@ latitude: 49.03793
 longitude: 8.72037
 postcode: "75015"
 city: Bretten
-street: "Anne-Frank-Straße"
-housenumber: 27
+street: Anne-Frank-Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 06:00-13:00,14:30-18:00; Sa 06:00-12:30; Su 08:00-11:00"
-website: "https://www.instagram.com/prinz_bretten/"
+opening_hours: Mo-Fr 06:00-13:00,14:30-18:00; Sa 06:00-12:30; Su 08:00-11:00
+website: https://www.instagram.com/prinz_bretten/

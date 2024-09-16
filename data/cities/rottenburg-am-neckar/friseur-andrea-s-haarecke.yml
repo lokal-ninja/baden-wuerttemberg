@@ -4,8 +4,8 @@ latitude: 48.4725
 longitude: 8.94085
 postcode: "72108"
 city: Rottenburg am Neckar
-street: "Ziegelhütte"
-housenumber: 46
-phone: "+49 7472 41041"
-opening_hours: "Nach Vereinbarung"
-website: "http://www.andreas-haarecke.de/index.html"
+street: Ziegelhütte
+housenumber: "46"
+phone: +49 7472 41041
+opening_hours: '"Nach Vereinbarung"'
+website: http://www.andreas-haarecke.de/index.html

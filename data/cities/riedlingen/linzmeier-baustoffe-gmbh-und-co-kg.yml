@@ -1,11 +1,11 @@
 id: 196639021
-type: way
+type: node
 latitude: 48.1547
 longitude: 9.49613
 postcode: "88499"
 city: Riedlingen
-street: "Siemensstraße"
-housenumber: 8
+street: Siemensstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

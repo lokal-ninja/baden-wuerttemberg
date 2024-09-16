@@ -1,11 +1,11 @@
 id: 284316486
-type: way
+type: node
 latitude: 48.72827
 longitude: 9.14464
 postcode: "70567"
 city: Stuttgart
-street: "Balinger Straße"
-housenumber: 6
+street: Balinger Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-13:00; PH,Su closed"
-website: "https://www.thrixbar.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-13:00; PH,Su closed
+website: https://www.thrixbar.de/

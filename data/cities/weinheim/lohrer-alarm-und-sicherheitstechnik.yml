@@ -4,8 +4,8 @@ latitude: 49.54161
 longitude: 8.65601
 postcode: "69469"
 city: Weinheim
-street: "Thaddenstraße"
-housenumber: 2
+street: Thaddenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://lohrer.de/"
+website: https://lohrer.de/

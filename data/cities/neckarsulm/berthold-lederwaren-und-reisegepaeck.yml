@@ -4,8 +4,8 @@ latitude: 49.19206
 longitude: 9.22459
 postcode: "74172"
 city: Neckarsulm
-street: "Marktstraße"
-housenumber: 31
-phone: "+49 7132 2162"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
-website: "http://www.berthold-lederwaren.de"
+street: Marktstraße
+housenumber: "31"
+phone: +49 7132 2162
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
+website: http://www.berthold-lederwaren.de

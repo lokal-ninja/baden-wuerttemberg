@@ -1,11 +1,11 @@
 id: 622958096
-type: way
+type: node
 latitude: 48.81309
 longitude: 9.11046
 postcode: "70499"
 city: Stuttgart
-street: "Solitudestraße"
-housenumber: 207
+street: Solitudestraße
+housenumber: "207"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

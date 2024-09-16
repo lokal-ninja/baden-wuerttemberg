@@ -4,8 +4,8 @@ latitude: 49.41275
 longitude: 8.71058
 postcode: "69117"
 city: Heidelberg
-street: "Fischergasse"
-housenumber: 14
-phone: "+49 176 23883073"
-opening_hours: "Tu 10:00-20:00; We,Sa 10:00-13:00; Th,Fr 10:00-18:00"
-website: "http://naehcafe-heidelberg.de/"
+street: Fischergasse
+housenumber: "14"
+phone: +49 176 23883073
+opening_hours: Tu 10:00-20:00; We,Sa 10:00-13:00; Th,Fr 10:00-18:00
+website: http://naehcafe-heidelberg.de/

@@ -1,11 +1,11 @@
 id: 205497216
-type: way
+type: node
 latitude: 48.80544
 longitude: 9.5258
 postcode: "73614"
 city: Schorndorf
-street: "Gottlieb-Daimler-Straße"
-housenumber: 14
+street: Gottlieb-Daimler-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-We 09:30-15:00;Th-Fr 08:30-18:30; Sa 08:30-14:30"
+opening_hours: Mo-We 09:30-15:00;Th-Fr 08:30-18:30; Sa 08:30-14:30
 website: ""

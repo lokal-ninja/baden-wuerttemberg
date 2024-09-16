@@ -1,11 +1,11 @@
 id: 307800604
-type: way
+type: node
 latitude: 49.62409
 longitude: 9.6621
 postcode: ""
 city: Tauberbischofsheim
-street: "Blumenstraße"
-housenumber: 9
+street: Blumenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

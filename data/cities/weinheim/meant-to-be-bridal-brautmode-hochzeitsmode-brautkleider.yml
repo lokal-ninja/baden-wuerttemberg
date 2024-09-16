@@ -4,8 +4,8 @@ latitude: 49.54635
 longitude: 8.6729
 postcode: "69469"
 city: Weinheim
-street: "Hauptstraße"
-housenumber: 123
-phone: "+49 6201 4887303"
-opening_hours: "Di-Fr 11:00-16:30,Sa 10:00-16:00"
-website: "https://www.meanttobe-bridal.de/"
+street: Hauptstraße
+housenumber: "123"
+phone: +49 6201 4887303
+opening_hours: Di-Fr 11:00-16:30,Sa 10:00-16:00
+website: https://www.meanttobe-bridal.de/

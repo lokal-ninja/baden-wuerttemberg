@@ -1,11 +1,11 @@
 id: 24799388
-type: way
+type: node
 latitude: 48.6247
 longitude: 10.02814
 postcode: "89547"
 city: Gerstetten
-street: "Karlstraße"
-housenumber: 67
+street: Karlstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "http://www.norma-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: http://www.norma-online.de

@@ -4,8 +4,8 @@ latitude: 48.52072
 longitude: 9.05681
 postcode: "72070"
 city: Tübingen
-street: "Pfleghofstraße"
-housenumber: 7
-phone: "+49 7071 7936335"
-opening_hours: "Tu-Sa || nach Vereinbarung"
-website: "https://schmuckwerkstatt-susannewilhelm.de/"
+street: Pfleghofstraße
+housenumber: "7"
+phone: +49 7071 7936335
+opening_hours: Tu-Sa || "nach Vereinbarung"
+website: https://schmuckwerkstatt-susannewilhelm.de/

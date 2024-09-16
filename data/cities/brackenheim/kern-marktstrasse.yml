@@ -1,11 +1,11 @@
 id: 96831074
-type: way
+type: node
 latitude: 49.07877
 longitude: 9.0647
 postcode: "74336"
 city: Brackenheim
-street: "Marktstraße"
-housenumber: 13
+street: Marktstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 06:30-18:30; Sa 06:30-12:00; PH,Su 06:30-11:00"
-website: "http://www.baecker-kern.de"
+opening_hours: Mo-Tu,Th-Fr 06:30-18:30; Sa 06:30-12:00; PH,Su 06:30-11:00
+website: http://www.baecker-kern.de

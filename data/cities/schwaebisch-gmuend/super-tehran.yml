@@ -1,11 +1,11 @@
 id: 93903805
-type: way
+type: node
 latitude: 48.80139
 longitude: 9.79768
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Nikolausgasse"
-housenumber: 5
+street: Nikolausgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-21:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 915193766
-type: way
+type: node
 latitude: 48.80681
 longitude: 8.44599
 postcode: "76332"
 city: Bad Herrenalb
-street: "Ettlinger Straße"
-housenumber: 52
+street: Ettlinger Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

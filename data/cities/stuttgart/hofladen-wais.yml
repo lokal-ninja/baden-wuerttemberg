@@ -1,11 +1,11 @@
 id: 96146156
-type: way
+type: node
 latitude: 48.74498
 longitude: 9.16877
 postcode: "70597"
 city: Stuttgart
-street: "Epplestraße"
-housenumber: 52
+street: Epplestraße
+housenumber: "52"
 phone: ""
-opening_hours: "We 10:00-12:00; Sa 08:00-12:00"
-website: "http://www.gans-degerloch.de/hofladen/"
+opening_hours: We 10:00-12:00; Sa 08:00-12:00
+website: http://www.gans-degerloch.de/hofladen/

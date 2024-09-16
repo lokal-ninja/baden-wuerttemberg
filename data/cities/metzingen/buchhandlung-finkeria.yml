@@ -4,8 +4,8 @@ latitude: 48.5394
 longitude: 9.28592
 postcode: "72555"
 city: Metzingen
-street: "Hindenburgstraße"
-housenumber: 20
-phone: "+49 7123 96160"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-13:00"
-website: "https://www.finkeria.com/"
+street: Hindenburgstraße
+housenumber: "20"
+phone: +49 7123 96160
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-13:00
+website: https://www.finkeria.com/

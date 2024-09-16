@@ -1,11 +1,11 @@
 id: 193319822
-type: way
+type: node
 latitude: 48.87706
 longitude: 9.53092
 postcode: "73635"
 city: Rudersberg
-street: "Jakob-Dautel-Platz"
-housenumber: 11
+street: Jakob-Dautel-Platz
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 44532133
-type: way
+type: node
 latitude: 48.77302
 longitude: 8.85409
 postcode: "71263"
 city: Weil der Stadt
-street: "Industriestraße"
-housenumber: 5
+street: Industriestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

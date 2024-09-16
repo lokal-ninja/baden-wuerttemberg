@@ -1,11 +1,11 @@
 id: 480530256
-type: way
+type: node
 latitude: 48.70927
 longitude: 9.54428
 postcode: "73061"
 city: Ebersbach an der Fils
-street: "Ebersbacher Straße"
-housenumber: 1
+street: Ebersbacher Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

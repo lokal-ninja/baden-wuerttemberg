@@ -1,11 +1,11 @@
 id: 105737825
-type: way
+type: node
 latitude: 49.07611
 longitude: 9.15027
 postcode: "74348"
 city: Lauffen am Neckar
-street: "Bahnhofstraße"
-housenumber: 14
+street: Bahnhofstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

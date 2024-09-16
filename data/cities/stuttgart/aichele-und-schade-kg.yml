@@ -4,8 +4,8 @@ latitude: 48.77313
 longitude: 9.18662
 postcode: "70182"
 city: Stuttgart
-street: "Alexanderstraße"
-housenumber: 42
+street: Alexanderstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://www.aicheleundschade.de/"
+website: https://www.aicheleundschade.de/

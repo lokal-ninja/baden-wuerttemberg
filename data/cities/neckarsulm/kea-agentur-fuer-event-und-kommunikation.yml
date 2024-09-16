@@ -4,8 +4,8 @@ latitude: 49.19348
 longitude: 9.22534
 postcode: "74172"
 city: Neckarsulm
-street: "Felix-Wankel-Straße"
-housenumber: 9
+street: Felix-Wankel-Straße
+housenumber: "9"
 phone: "+497132387660"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://k-e-a.de/kontakt/"
+opening_hours: Mo-Fr 08:00-16:00
+website: https://k-e-a.de/kontakt/

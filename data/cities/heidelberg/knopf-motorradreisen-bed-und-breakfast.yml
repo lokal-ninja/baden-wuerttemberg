@@ -1,11 +1,11 @@
 id: 255922130
-type: way
+type: node
 latitude: 49.37668
 longitude: 8.67445
 postcode: "69124"
 city: Heidelberg
-street: "Hardtstraße"
-housenumber: 78
-phone: "+49 6221 7272308"
+street: Hardtstraße
+housenumber: "78"
+phone: +49 6221 7272308
 opening_hours: ""
-website: "https://www.knopftours.com/"
+website: https://www.knopftours.com/

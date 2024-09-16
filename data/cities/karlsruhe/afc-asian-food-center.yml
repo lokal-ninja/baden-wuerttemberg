@@ -1,11 +1,11 @@
 id: 323310147
-type: way
+type: node
 latitude: 48.99768
 longitude: 8.41043
 postcode: "76137"
 city: Karlsruhe
-street: "Rüppurrer Straße"
-housenumber: 92
+street: Rüppurrer Straße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

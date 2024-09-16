@@ -4,8 +4,8 @@ latitude: 48.78201
 longitude: 9.17947
 postcode: "70173"
 city: Stuttgart
-street: "Kronenstraße"
-housenumber: 7
-phone: "+49 711 72230363"
-opening_hours: "Mo-Sa 07:00-23:00"
-website: "https://www.rewe.de/marktseite/stuttgart/831033/rewe-markt-kronenstr-7/"
+street: Kronenstraße
+housenumber: "7"
+phone: +49 711 72230363
+opening_hours: Mo-Sa 07:00-23:00
+website: https://www.rewe.de/marktseite/stuttgart/831033/rewe-markt-kronenstr-7/

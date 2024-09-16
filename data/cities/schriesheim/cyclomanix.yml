@@ -4,8 +4,8 @@ latitude: 49.4778
 longitude: 8.66394
 postcode: "69198"
 city: Schriesheim
-street: "Leutershäuser Straße"
-housenumber: 28
-phone: "+49 6203 68574"
-opening_hours: "Mo,Tu,Fr 09:00-12:00,15:00-18:00; Sa 10:00-13:00"
-website: "https://www.cyclomanix.de/"
+street: Leutershäuser Straße
+housenumber: "28"
+phone: +49 6203 68574
+opening_hours: Mo,Tu,Fr 09:00-12:00,15:00-18:00; Sa 10:00-13:00
+website: https://www.cyclomanix.de/

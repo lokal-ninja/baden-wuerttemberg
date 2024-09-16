@@ -4,8 +4,8 @@ latitude: 48.55679
 longitude: 10.28595
 postcode: "89567"
 city: Sontheim an der Brenz
-street: "Bergstraße"
-housenumber: 3
+street: Bergstraße
+housenumber: "3"
 phone: ""
-opening_hours: "mo, th 09:00-12:00,16:00-18:30; fr 09:00-12:00; ph off"
+opening_hours: mo, th 09:00-12:00,16:00-18:30; fr 09:00-12:00; ph off
 website: ""

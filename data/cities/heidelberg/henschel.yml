@@ -4,8 +4,8 @@ latitude: 49.41041
 longitude: 8.69695
 postcode: "69117"
 city: Heidelberg
-street: "Hauptstraße"
-housenumber: 43
+street: Hauptstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://henschel-heidelberg.de"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://henschel-heidelberg.de

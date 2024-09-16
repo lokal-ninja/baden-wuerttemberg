@@ -1,11 +1,11 @@
 id: 150522673
-type: way
+type: node
 latitude: 48.90782
 longitude: 9.21698
 postcode: "71642"
 city: Ludwigsburg
-street: "Marbacher Straße"
-housenumber: 193
+street: Marbacher Straße
+housenumber: "193"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

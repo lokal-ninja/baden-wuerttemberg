@@ -4,8 +4,8 @@ latitude: 49.06292
 longitude: 8.79859
 postcode: "75038"
 city: Oberderdingen
-street: "Dr.-Friedrich-Schmitt-Straße"
-housenumber: 13
+street: Dr.-Friedrich-Schmitt-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,15:00-17:00; We,Sa 08:30-12:30"
-website: "http://gaertnereiamamthof.de/"
+opening_hours: Mo,Tu,Th,Fr 08:30-12:30,15:00-17:00; We,Sa 08:30-12:30
+website: http://gaertnereiamamthof.de/

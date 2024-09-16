@@ -1,11 +1,11 @@
 id: 420304188
-type: way
+type: node
 latitude: 48.80835
 longitude: 9.23351
 postcode: "70374"
 city: Stuttgart
-street: "Martha-Schmidtmann-Straße"
-housenumber: 9
+street: Martha-Schmidtmann-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su,PH off"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:30-22:00; Su,PH off
+website: https://www.penny.de/

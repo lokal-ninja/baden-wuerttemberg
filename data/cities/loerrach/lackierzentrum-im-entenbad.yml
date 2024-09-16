@@ -1,11 +1,11 @@
 id: 92025115
-type: way
+type: node
 latitude: 47.64215
 longitude: 7.70296
 postcode: "79541"
 city: Lörrach
-street: "Im Entenbad"
+street: Im Entenbad
 housenumber: 12a
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 09:00-12:00"
-website: "https://www.lz-entenbad.de/"
+opening_hours: Mo-Fr 06:30-19:00; Sa 09:00-12:00
+website: https://www.lz-entenbad.de/

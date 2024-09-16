@@ -1,11 +1,11 @@
 id: 315432321
-type: way
+type: node
 latitude: 47.57967
 longitude: 7.59646
 postcode: "4057"
 city: Basel
-street: "Hochbergerstrasse"
-housenumber: 70
-phone: "+41 61 633 33 00"
+street: Hochbergerstrasse
+housenumber: "70"
+phone: +41 61 633 33 00
 opening_hours: ""
-website: "https://www.stueckipark.ch/"
+website: https://www.stueckipark.ch/

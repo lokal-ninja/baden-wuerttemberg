@@ -1,11 +1,11 @@
 id: 227143572
-type: way
+type: node
 latitude: 48.04831
 longitude: 8.21462
 postcode: "78120"
 city: Furtwangen im Schwarzwald
-street: "Joseph-Koepfer-Straße"
-housenumber: 2
-phone: "+49 800 43 53 361"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://www.lidl.de"
+street: Joseph-Koepfer-Straße
+housenumber: "2"
+phone: +49 800 43 53 361
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.lidl.de

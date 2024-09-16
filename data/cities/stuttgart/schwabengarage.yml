@@ -1,11 +1,11 @@
 id: 36695330
-type: way
+type: node
 latitude: 48.72656
 longitude: 9.11752
 postcode: "70565"
 city: Stuttgart
-street: "Ruppmannstraße"
-housenumber: 25
+street: Ruppmannstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-13:00
 website: ""

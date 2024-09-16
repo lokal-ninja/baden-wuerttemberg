@@ -4,8 +4,8 @@ latitude: 49.03119
 longitude: 8.3395
 postcode: "76187"
 city: Karlsruhe
-street: "Neufeldstraße"
-housenumber: 6
-phone: "+49 721 562678"
-opening_hours: "We-Fr 08:00-12:00,14:00-17:30; Sa 08:00-12:00; PH closed"
+street: Neufeldstraße
+housenumber: "6"
+phone: +49 721 562678
+opening_hours: We-Fr 08:00-12:00,14:00-17:30; Sa 08:00-12:00; PH closed
 website: ""

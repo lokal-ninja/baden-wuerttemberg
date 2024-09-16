@@ -1,11 +1,11 @@
 id: 360607165
-type: way
+type: node
 latitude: 49.67405
 longitude: 9.64041
 postcode: "97956"
 city: Werbach
-street: "In der Strut"
-housenumber: 1
+street: In der Strut
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

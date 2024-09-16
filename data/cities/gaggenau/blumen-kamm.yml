@@ -4,8 +4,8 @@ latitude: 48.79238
 longitude: 8.32942
 postcode: "76571"
 city: Gaggenau
-street: "Ebersteinstraße"
-housenumber: 2
-phone: "+49 7225 1705"
-opening_hours: "Mo-Sa 08:00-12:30, Mo,Tu,Th,Fr 14:30-18:00"
-website: "https://www.1a-blumen-kamm.de/"
+street: Ebersteinstraße
+housenumber: "2"
+phone: +49 7225 1705
+opening_hours: Mo-Sa 08:00-12:30, Mo,Tu,Th,Fr 14:30-18:00
+website: https://www.1a-blumen-kamm.de/

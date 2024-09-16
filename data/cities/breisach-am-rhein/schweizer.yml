@@ -4,8 +4,8 @@ latitude: 48.0285
 longitude: 7.58514
 postcode: "79206"
 city: Breisach am Rhein
-street: "Richard-Müller-Straße"
-housenumber: 22
-phone: "+49 7667 7601"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 10:00-13:00"
-website: "https://www.schweizer-breisach.de"
+street: Richard-Müller-Straße
+housenumber: "22"
+phone: +49 7667 7601
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 10:00-13:00
+website: https://www.schweizer-breisach.de

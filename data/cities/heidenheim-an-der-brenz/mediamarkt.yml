@@ -4,8 +4,8 @@ latitude: 48.68058
 longitude: 10.15342
 postcode: "89518"
 city: Heidenheim an der Brenz
-street: "Karlstraße"
-housenumber: 12
+street: Karlstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.mediamarkt.de/de/store/heidenheim-254"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.mediamarkt.de/de/store/heidenheim-254

@@ -4,8 +4,8 @@ latitude: 48.70915
 longitude: 9.00278
 postcode: "71063"
 city: Sindelfingen
-street: "Ziegelstraße"
-housenumber: 12
-phone: "+49 7031 875365"
-opening_hours: "Mo-We 08:00-14:00; Sa 07:00-13:00; PH,Su off; Th,Fr 08:00-18:00"
-website: "https://www.metzgerei-mornhinweg.de/"
+street: Ziegelstraße
+housenumber: "12"
+phone: +49 7031 875365
+opening_hours: Mo-We 08:00-14:00; Sa 07:00-13:00; PH,Su off; Th,Fr 08:00-18:00
+website: https://www.metzgerei-mornhinweg.de/

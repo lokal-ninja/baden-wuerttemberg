@@ -4,8 +4,8 @@ latitude: 48.06928
 longitude: 8.44893
 postcode: "78048"
 city: Villingen-Schwenningen
-street: "Berliner Straße"
-housenumber: 1
-phone: "+49 7721 502922"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00; PH off"
-website: "https://www.atu.de/filiale-villingen-schwenningen-105.html"
+street: Berliner Straße
+housenumber: "1"
+phone: +49 7721 502922
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00; PH off
+website: https://www.atu.de/filiale-villingen-schwenningen-105.html

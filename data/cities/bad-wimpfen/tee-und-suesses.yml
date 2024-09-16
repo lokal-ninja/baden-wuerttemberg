@@ -4,8 +4,8 @@ latitude: 49.22943
 longitude: 9.1635
 postcode: "74206"
 city: Bad Wimpfen
-street: "Hauptstraße"
-housenumber: 25
-phone: "+49 7063 7653"
-opening_hours: "Tu-Sa 10:00-13:00, 15:00-18:00; Mo off"
-website: "https://www.teeundsuesses.de"
+street: Hauptstraße
+housenumber: "25"
+phone: +49 7063 7653
+opening_hours: Tu-Sa 10:00-13:00, 15:00-18:00; Mo off
+website: https://www.teeundsuesses.de

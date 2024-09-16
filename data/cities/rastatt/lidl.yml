@@ -1,11 +1,11 @@
 id: 44839421
-type: way
+type: node
 latitude: 48.86519
 longitude: 8.22244
 postcode: "76437"
 city: Rastatt
-street: "Ettlinger Straße"
-housenumber: 1
+street: Ettlinger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

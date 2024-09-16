@@ -1,11 +1,11 @@
 id: 201266440
-type: way
+type: node
 latitude: 48.86272
 longitude: 10.1017
 postcode: "73433"
 city: Aalen
-street: "Wilhelmstraße"
-housenumber: 50
+street: Wilhelmstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

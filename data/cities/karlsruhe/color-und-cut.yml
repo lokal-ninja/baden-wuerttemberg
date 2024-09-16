@@ -4,8 +4,8 @@ latitude: 49.0132
 longitude: 8.37449
 postcode: "76185"
 city: Karlsruhe
-street: "Ludwig-Marum-Straße"
-housenumber: 1
-phone: "+49 721 8307886"
-opening_hours: "Tu-Fr 08:00-18:30; Sa 08:00-14:00; PH,Su off"
-website: "http://www.colorundcut.de"
+street: Ludwig-Marum-Straße
+housenumber: "1"
+phone: +49 721 8307886
+opening_hours: Tu-Fr 08:00-18:30; Sa 08:00-14:00; PH,Su off
+website: http://www.colorundcut.de

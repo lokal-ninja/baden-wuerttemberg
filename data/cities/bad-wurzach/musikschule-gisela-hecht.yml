@@ -4,8 +4,8 @@ latitude: 47.90438
 longitude: 9.89224
 postcode: "88410"
 city: Bad Wurzach
-street: "Alte Straße"
-housenumber: 30
+street: Alte Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Termin nach Vereinbarung"
-website: "http://www.musikschule-hecht.de"
+opening_hours: '"Termin nach Vereinbarung"'
+website: http://www.musikschule-hecht.de

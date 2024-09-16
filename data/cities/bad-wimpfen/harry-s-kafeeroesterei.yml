@@ -4,8 +4,8 @@ latitude: 49.23012
 longitude: 9.1608
 postcode: "74206"
 city: Bad Wimpfen
-street: "Salzgasse"
-housenumber: 2
+street: Salzgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Tu,Th,Fr 10:00-13:00,14:30-18:00; Sa 10:00-16:00"
+opening_hours: Tu,Th,Fr 10:00-13:00,14:30-18:00; Sa 10:00-16:00
 website: ""

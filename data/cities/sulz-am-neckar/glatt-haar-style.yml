@@ -1,11 +1,11 @@
 id: 113662960
-type: way
+type: node
 latitude: 48.38667
 longitude: 8.62751
 postcode: "72172"
 city: Sulz am Neckar
-street: "Unterdorfstraße"
-housenumber: 24
+street: Unterdorfstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

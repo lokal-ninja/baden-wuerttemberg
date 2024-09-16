@@ -1,11 +1,11 @@
 id: 105700273
-type: way
+type: node
 latitude: 49.0804
 longitude: 8.46513
 postcode: "76297"
 city: Stutensee
-street: "Am Hasenbiel"
-housenumber: 8
+street: Am Hasenbiel
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://boxen-gasse.de/"
+website: https://boxen-gasse.de/

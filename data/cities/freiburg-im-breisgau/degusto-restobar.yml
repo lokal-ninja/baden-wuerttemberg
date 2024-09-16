@@ -4,8 +4,8 @@ latitude: 47.99332
 longitude: 7.84862
 postcode: "79098"
 city: Freiburg im Breisgau
-street: "Humboldtstraße"
-housenumber: 2
+street: Humboldtstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-23:00; Sa-Su 09:00-24:00"
-website: "https://www.degusto-feinkost.de/"
+opening_hours: Mo-Fr 09:00-23:00; Sa-Su 09:00-24:00
+website: https://www.degusto-feinkost.de/

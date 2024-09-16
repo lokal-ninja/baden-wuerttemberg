@@ -1,11 +1,11 @@
 id: 212503217
-type: way
+type: node
 latitude: 48.55594
 longitude: 9.25825
 postcode: "72585"
 city: Riederich
-street: "Rudolf-Diesel-Straße"
-housenumber: 2
-phone: "+49 7123 32917"
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-18:00; Sa 09:00-12:00"
-website: "https://www.autohaus-penker.de"
+street: Rudolf-Diesel-Straße
+housenumber: "2"
+phone: +49 7123 32917
+opening_hours: Mo-Fr 07:30-12:00, 13:00-18:00; Sa 09:00-12:00
+website: https://www.autohaus-penker.de

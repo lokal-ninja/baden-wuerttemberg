@@ -1,11 +1,11 @@
 id: 25959167
-type: way
+type: node
 latitude: 49.42079
 longitude: 8.66311
 postcode: "69120"
 city: Heidelberg
-street: "Im Neuenheimer Feld"
-housenumber: 706
+street: Im Neuenheimer Feld
+housenumber: "706"
 phone: ""
-opening_hours: "Th 16:00-20:00; Tu 16:00-20:00"
-website: "http://urrmel.de/"
+opening_hours: Th 16:00-20:00; Tu 16:00-20:00
+website: http://urrmel.de/

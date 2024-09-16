@@ -1,11 +1,11 @@
 id: 109327817
-type: way
+type: node
 latitude: 48.56541
 longitude: 8.78255
 postcode: "71131"
 city: Jettingen
-street: "Hauptstraße"
-housenumber: 30
+street: Hauptstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

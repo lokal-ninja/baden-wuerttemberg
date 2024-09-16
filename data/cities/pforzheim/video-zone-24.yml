@@ -4,8 +4,8 @@ latitude: 48.88816
 longitude: 8.69585
 postcode: "75173"
 city: Pforzheim
-street: "Jahnstraße"
-housenumber: 23
-phone: "+49 7231 1337038"
+street: Jahnstraße
+housenumber: "23"
+phone: +49 7231 1337038
 opening_hours: ""
-website: "https://www.videozone24.de/"
+website: https://www.videozone24.de/

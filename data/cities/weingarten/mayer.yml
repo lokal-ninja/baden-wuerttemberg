@@ -4,8 +4,8 @@ latitude: 47.81607
 longitude: 9.62935
 postcode: "88250"
 city: Weingarten
-street: "Maybachstraße"
-housenumber: 15
-phone: "+49 751 54705"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 07:00-13:00; Su 07:00-17:00; PH 07:00-13:00"
-website: "https://der-baecker-mayer.de/"
+street: Maybachstraße
+housenumber: "15"
+phone: +49 751 54705
+opening_hours: Mo-Fr 06:00-18:30; Sa 07:00-13:00; Su 07:00-17:00; PH 07:00-13:00
+website: https://der-baecker-mayer.de/

@@ -4,8 +4,8 @@ latitude: 48.8055
 longitude: 9.21374
 postcode: "70372"
 city: Stuttgart
-street: "Brunnenstraße"
-housenumber: 1
+street: Brunnenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
 website: ""

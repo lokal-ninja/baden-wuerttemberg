@@ -4,8 +4,8 @@ latitude: 49.24584
 longitude: 8.88394
 postcode: "74889"
 city: Sinsheim
-street: "Neulandstraße"
-housenumber: 21
-phone: "+49 7261 945250"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: Neulandstraße
+housenumber: "21"
+phone: +49 7261 945250
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

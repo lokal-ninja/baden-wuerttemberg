@@ -1,11 +1,11 @@
 id: 882861691
-type: way
+type: node
 latitude: 47.79232
 longitude: 9.87989
 postcode: "88353"
 city: Kißlegg
-street: "Schloßstraße"
-housenumber: 55
-phone: "+49 7563-920200"
+street: Schloßstraße
+housenumber: "55"
+phone: +49 7563-920200
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 392727838
-type: way
+type: node
 latitude: 49.49803
 longitude: 9.75901
 postcode: "97980"
 city: Bad Mergentheim
-street: "Wilhelm-Frank-Straße"
-housenumber: 82
+street: Wilhelm-Frank-Straße
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 208331425
-type: way
+type: node
 latitude: 48.76636
 longitude: 9.82121
 postcode: "73550"
 city: Waldstetten
-street: "Gmünder Straße"
-housenumber: 1
+street: Gmünder Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

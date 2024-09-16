@@ -1,11 +1,11 @@
 id: 390645685
-type: way
+type: node
 latitude: 48.00391
 longitude: 8.77884
 postcode: "78573"
 city: Wurmlingen
-street: "Rosenstraße"
-housenumber: 4
+street: Rosenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

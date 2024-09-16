@@ -1,11 +1,11 @@
 id: 101563809
-type: way
+type: node
 latitude: 47.66068
 longitude: 9.57326
 postcode: "88069"
 city: Tettnang
-street: "Prinz-Eugen-Straße"
-housenumber: 59
+street: Prinz-Eugen-Straße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.opti-megastore.de/moebelhaus/tettnang.html"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.opti-megastore.de/moebelhaus/tettnang.html

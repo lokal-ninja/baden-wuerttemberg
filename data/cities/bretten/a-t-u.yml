@@ -1,11 +1,11 @@
 id: 217329781
-type: way
+type: node
 latitude: 49.04187
 longitude: 8.69461
 postcode: "75015"
 city: Bretten
-street: "Diedelsheimer Höhe"
-housenumber: 11
+street: Diedelsheimer Höhe
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

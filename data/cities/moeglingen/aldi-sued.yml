@@ -1,11 +1,11 @@
 id: 98505759
-type: way
+type: node
 latitude: 48.88859
 longitude: 9.14139
 postcode: "71696"
 city: Möglingen
-street: "Robert-Bosch-Straße"
-housenumber: 1
+street: Robert-Bosch-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/moeglingen/robert-bosch-strasse-1"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/moeglingen/robert-bosch-strasse-1

@@ -1,11 +1,11 @@
 id: 243021259
-type: way
+type: node
 latitude: 48.80421
 longitude: 10.19075
 postcode: "73432"
 city: Aalen
-street: "Thurn-und-Taxis-Straße"
-housenumber: 44
+street: Thurn-und-Taxis-Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

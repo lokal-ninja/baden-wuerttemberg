@@ -1,11 +1,11 @@
 id: 381732126
-type: way
+type: node
 latitude: 48.90183
 longitude: 9.10166
 postcode: "71706"
 city: Markgröningen
-street: "Raiffeisenstraße"
-housenumber: 13
+street: Raiffeisenstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "http://miki-automobile.de/"
+website: http://miki-automobile.de/

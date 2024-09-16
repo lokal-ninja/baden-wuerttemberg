@@ -4,8 +4,8 @@ latitude: 48.53775
 longitude: 9.28243
 postcode: "72555"
 city: Metzingen
-street: "Krumme Straße"
-housenumber: 10
-phone: "+49 7123 164823"
-opening_hours: "Mo-Sa 10:00-19:00; PH closed"
+street: Krumme Straße
+housenumber: "10"
+phone: +49 7123 164823
+opening_hours: Mo-Sa 10:00-19:00; PH closed
 website: ""

@@ -1,11 +1,11 @@
 id: 239231385
-type: way
+type: node
 latitude: 48.62018
 longitude: 9.5411
 postcode: "73235"
 city: Weilheim an der Teck
-street: "Zeller Straße"
-housenumber: 16
+street: Zeller Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 124261016
-type: way
+type: node
 latitude: 48.82248
 longitude: 9.34679
 postcode: "71334"
 city: Waiblingen
-street: "Rathausstraße"
-housenumber: 28
+street: Rathausstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

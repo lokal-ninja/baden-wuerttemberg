@@ -4,8 +4,8 @@ latitude: 49.00874
 longitude: 8.39801
 postcode: "76133"
 city: Karlsruhe
-street: "Erbprinzenstraße"
-housenumber: 20
-phone: "+49 721 120 39 40"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://www.designerteppiche.de/"
+street: Erbprinzenstraße
+housenumber: "20"
+phone: +49 721 120 39 40
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://www.designerteppiche.de/

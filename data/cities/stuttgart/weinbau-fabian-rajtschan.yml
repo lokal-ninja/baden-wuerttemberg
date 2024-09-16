@@ -4,8 +4,8 @@ latitude: 48.80708
 longitude: 9.1547
 postcode: "70469"
 city: Stuttgart
-street: "Schenkensteinstraße"
-housenumber: 20
-phone: "+49 711 815650"
-opening_hours: "Sa 09:00-12:00; PH off"
-website: "https://www.70469r.de/"
+street: Schenkensteinstraße
+housenumber: "20"
+phone: +49 711 815650
+opening_hours: Sa 09:00-12:00; PH off
+website: https://www.70469r.de/

@@ -1,11 +1,11 @@
 id: 31957303
-type: way
+type: node
 latitude: 47.62058
 longitude: 8.22135
 postcode: "79761"
 city: Waldshut-Tiengen
-street: "Robert-Gerwig-Straße"
-housenumber: 11
+street: Robert-Gerwig-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

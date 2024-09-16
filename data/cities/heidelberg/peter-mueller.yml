@@ -1,11 +1,11 @@
 id: 277619925
-type: way
+type: node
 latitude: 49.36216
 longitude: 8.67703
 postcode: "69126"
 city: Heidelberg
-street: "Hatschekstraße"
-housenumber: 19
+street: Hatschekstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

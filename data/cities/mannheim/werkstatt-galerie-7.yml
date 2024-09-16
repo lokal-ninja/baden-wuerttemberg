@@ -1,11 +1,11 @@
 id: 155609655
-type: way
+type: node
 latitude: 49.45508
 longitude: 8.50734
 postcode: "68199"
 city: Mannheim
-street: "Ziegelhüttenweg"
-housenumber: 7
+street: Ziegelhüttenweg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

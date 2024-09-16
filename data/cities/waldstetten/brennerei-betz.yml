@@ -1,11 +1,11 @@
 id: 207227156
-type: way
+type: node
 latitude: 48.76555
 longitude: 9.82139
 postcode: "73550"
 city: Waldstetten
-street: "Breitestraße"
-housenumber: 4
+street: Breitestraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.brennereibetz.de/"
+website: https://www.brennereibetz.de/

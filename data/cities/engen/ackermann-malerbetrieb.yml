@@ -1,11 +1,11 @@
 id: 89132450
-type: way
+type: node
 latitude: 47.8554
 longitude: 8.78788
 postcode: "78234"
 city: Engen
-street: "Jahnstraße"
-housenumber: 31
+street: Jahnstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

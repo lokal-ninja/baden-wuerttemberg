@@ -4,8 +4,9 @@ latitude: 49.11164
 longitude: 8.51296
 postcode: "76297"
 city: Stutensee
-street: "Adlerstraße"
-housenumber: 2
+street: Adlerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th 07:00-13:00,15:00-18:00; We 07:00-13:00; Fr 07:00-18:00; Sa 06:30-13:00"
+opening_hours: Mo,Tu,Th 07:00-13:00,15:00-18:00; We 07:00-13:00; Fr 07:00-18:00; Sa
+    06:30-13:00
 website: ""

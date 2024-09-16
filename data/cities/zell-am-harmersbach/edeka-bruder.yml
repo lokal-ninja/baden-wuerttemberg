@@ -1,11 +1,11 @@
 id: 1205592664
-type: way
+type: node
 latitude: 48.34523
 longitude: 8.05857
 postcode: "77736"
 city: Zell am Harmersbach
-street: "Hauptstraße"
-housenumber: 4
-phone: "+49 7835 635790"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://bruder-lebensmittel.de/zell/"
+street: Hauptstraße
+housenumber: "4"
+phone: +49 7835 635790
+opening_hours: Mo-Sa 07:00-20:00
+website: https://bruder-lebensmittel.de/zell/

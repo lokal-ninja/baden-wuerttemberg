@@ -1,11 +1,11 @@
 id: 114129095
-type: way
+type: node
 latitude: 47.84483
 longitude: 8.99905
 postcode: "78333"
 city: Stockach
-street: "Radolfzeller Straße"
-housenumber: 37
+street: Radolfzeller Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

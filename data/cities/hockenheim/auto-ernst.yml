@@ -1,11 +1,11 @@
 id: 310918254
-type: way
+type: node
 latitude: 49.33874
 longitude: 8.53413
 postcode: "68766"
 city: Hockenheim
-street: "2. Industriestraße"
-housenumber: 2
+street: 2. Industriestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.595
 longitude: 8.46824
 postcode: "68623"
 city: Lampertheim
-street: "Wilhelmstraße"
-housenumber: 48
-phone: "+49 6206 7028557"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-16:00; Su 07:30-17:00"
-website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"
+street: Wilhelmstraße
+housenumber: "48"
+phone: +49 6206 7028557
+opening_hours: Mo-Fr 05:30-18:00; Sa 06:00-16:00; Su 07:30-17:00
+website: https://www.baeckergoertz.de/#filialenstart/filialfinder

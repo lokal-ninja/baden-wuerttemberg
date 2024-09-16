@@ -1,11 +1,11 @@
 id: 541385223
-type: way
+type: node
 latitude: 49.24834
 longitude: 8.73491
 postcode: "69242"
 city: Mühlhausen
-street: "Hauptstraße"
-housenumber: 155
-phone: "+49 6222 63273"
-opening_hours: "Mo-Fr 06:00-22:00, Sa 07:00-22:00, Su 07:30-22:00"
-website: "http://www.avia.de/privatkunden/avia-tankstellen/tankstellen-suche/tankstellen-details.html?facilityID=1474&dataType=Tankstelle"
+street: Hauptstraße
+housenumber: "155"
+phone: +49 6222 63273
+opening_hours: Mo-Fr 06:00-22:00, Sa 07:00-22:00, Su 07:30-22:00
+website: http://www.avia.de/privatkunden/avia-tankstellen/tankstellen-suche/tankstellen-details.html?facilityID=1474&dataType=Tankstelle

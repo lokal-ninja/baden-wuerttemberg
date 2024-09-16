@@ -1,11 +1,11 @@
 id: 132220832
-type: way
+type: node
 latitude: 48.84201
 longitude: 9.23182
 postcode: "70378"
 city: Stuttgart
-street: "Aldinger Straße"
-housenumber: 96
-phone: "+49 711 5058370"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.fressnapf.de/maerkte/fressnapf-stuttgart-muehlhausen"
+street: Aldinger Straße
+housenumber: "96"
+phone: +49 711 5058370
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.fressnapf.de/maerkte/fressnapf-stuttgart-muehlhausen

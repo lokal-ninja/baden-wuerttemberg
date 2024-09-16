@@ -4,8 +4,8 @@ latitude: 48.86125
 longitude: 9.18913
 postcode: "70806"
 city: Kornwestheim
-street: "Zeppelinstraße"
-housenumber: 27
-phone: "+49 7154 39 84"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00,15:00-18:00; We 09:00-12:00; Sa 08:00-12:00"
+street: Zeppelinstraße
+housenumber: "27"
+phone: +49 7154 39 84
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00,15:00-18:00; We 09:00-12:00; Sa 08:00-12:00
 website: ""

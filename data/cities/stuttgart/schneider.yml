@@ -4,8 +4,8 @@ latitude: 48.80917
 longitude: 9.1585
 postcode: "70469"
 city: Stuttgart
-street: "Stuttgarter Straße"
-housenumber: 102
+street: Stuttgarter Straße
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Th 07:45-18:15; Fr 07:45-18:45; Sa 07:00-13:00"
+opening_hours: Mo-Th 07:45-18:15; Fr 07:45-18:45; Sa 07:00-13:00
 website: ""

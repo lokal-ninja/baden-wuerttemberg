@@ -1,11 +1,11 @@
 id: 215325024
-type: way
+type: node
 latitude: 48.00331
 longitude: 9.32423
 postcode: "88512"
 city: Mengen
-street: "Weiherhaldenstraße"
-housenumber: 2
+street: Weiherhaldenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.68669
 longitude: 9.83306
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Braugasse"
-housenumber: 19
-phone: "+49 7522 971230"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su closed"
-website: "https://www.rupp-spielwaren.de/"
+street: Braugasse
+housenumber: "19"
+phone: +49 7522 971230
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su closed
+website: https://www.rupp-spielwaren.de/

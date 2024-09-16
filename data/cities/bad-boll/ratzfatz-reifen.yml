@@ -1,11 +1,11 @@
 id: 473025927
-type: way
+type: node
 latitude: 48.63894
 longitude: 9.62396
 postcode: "73087"
 city: Bad Boll
-street: "Dürnauer Straße"
-housenumber: 42
+street: Dürnauer Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

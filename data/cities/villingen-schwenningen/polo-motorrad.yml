@@ -1,11 +1,11 @@
 id: 30335448
-type: way
+type: node
 latitude: 48.06884
 longitude: 8.44957
 postcode: "78048"
 city: Villingen-Schwenningen
-street: "Berliner Straße"
-housenumber: 2
-phone: "+49 7721 2065552"
-opening_hours: "Mo-We,Sa 09:00-20:00; Th,Fr 09:00-21:00; Su,PH off"
-website: "https://www.polo-motorrad.de/cms/store/details/polo-store-villingen-schwenningen/"
+street: Berliner Straße
+housenumber: "2"
+phone: +49 7721 2065552
+opening_hours: Mo-We,Sa 09:00-20:00; Th,Fr 09:00-21:00; Su,PH off
+website: https://www.polo-motorrad.de/cms/store/details/polo-store-villingen-schwenningen/

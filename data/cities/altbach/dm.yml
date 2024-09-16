@@ -1,11 +1,11 @@
 id: 148234559
-type: way
+type: node
 latitude: 48.71816
 longitude: 9.38205
 postcode: "73776"
 city: Altbach
-street: "Kieswiesen"
-housenumber: 20
-phone: "+49 7153 6149339"
-opening_hours: "Mo-Sa 08:00-20:30"
+street: Kieswiesen
+housenumber: "20"
+phone: +49 7153 6149339
+opening_hours: Mo-Sa 08:00-20:30
 website: ""

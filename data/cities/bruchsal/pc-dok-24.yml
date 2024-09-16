@@ -4,8 +4,8 @@ latitude: 49.10354
 longitude: 8.533
 postcode: "76646"
 city: Bruchsal
-street: "In der Gründ"
-housenumber: 5
-phone: "+49 7257 6477605"
-opening_hours: "Mo-Su 00:00-24:00"
-website: "https://pc-dok24.de/kontakt.html"
+street: In der Gründ
+housenumber: "5"
+phone: +49 7257 6477605
+opening_hours: Mo-Su 00:00-24:00
+website: https://pc-dok24.de/kontakt.html

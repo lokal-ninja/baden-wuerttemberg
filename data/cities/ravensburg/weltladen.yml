@@ -4,8 +4,8 @@ latitude: 47.78183
 longitude: 9.6154
 postcode: "88212"
 city: Ravensburg
-street: "Gespinstmarkt"
-housenumber: 25
-phone: "+49 751 33132"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-15:00; PH off"
-website: "https://www.weltladen-ravensburg.de/"
+street: Gespinstmarkt
+housenumber: "25"
+phone: +49 751 33132
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-15:00; PH off
+website: https://www.weltladen-ravensburg.de/

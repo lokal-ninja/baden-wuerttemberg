@@ -4,8 +4,8 @@ latitude: 48.85206
 longitude: 9.15325
 postcode: "70439"
 city: Stuttgart
-street: "Glühwürmchenweg"
-housenumber: 31
+street: Glühwürmchenweg
+housenumber: "31"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

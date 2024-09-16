@@ -1,11 +1,11 @@
 id: 236899570
-type: way
+type: node
 latitude: 49.25092
 longitude: 8.87107
 postcode: "74889"
 city: Sinsheim
-street: "Jahnstraße"
-housenumber: 16
-phone: "+49 7261 73510"
+street: Jahnstraße
+housenumber: "16"
+phone: +49 7261 73510
 opening_hours: ""
-website: "https://berollka.de/"
+website: https://berollka.de/

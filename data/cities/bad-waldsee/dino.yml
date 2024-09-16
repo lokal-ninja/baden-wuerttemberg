@@ -1,11 +1,11 @@
 id: 787665838
-type: way
+type: node
 latitude: 47.90251
 longitude: 9.72447
 postcode: "88339"
 city: Bad Waldsee
-street: "Stauferring"
-housenumber: 5
+street: Stauferring
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

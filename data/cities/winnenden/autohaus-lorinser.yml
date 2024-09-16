@@ -1,11 +1,11 @@
 id: 45063343
-type: way
+type: node
 latitude: 48.87066
 longitude: 9.38463
 postcode: "71364"
 city: Winnenden
-street: "Linsenhalde"
-housenumber: 3
-phone: "+49 7195 181 0"
+street: Linsenhalde
+housenumber: "3"
+phone: +49 7195 181 0
 opening_hours: ""
-website: "https://www.mercedes-benz-lorinser.de/"
+website: https://www.mercedes-benz-lorinser.de/

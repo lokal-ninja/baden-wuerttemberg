@@ -4,8 +4,8 @@ latitude: 47.68565
 longitude: 9.83503
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Saumarkt"
-housenumber: 2
+street: Saumarkt
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-18:00; We 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.gruen-und-form.de/laeden/wangen-im-allgaeu/"
+opening_hours: Mo,Tu,Th,Fr 10:00-18:00; We 09:00-18:00; Sa 09:00-16:00
+website: https://www.gruen-und-form.de/laeden/wangen-im-allgaeu/

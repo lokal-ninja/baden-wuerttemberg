@@ -1,11 +1,11 @@
 id: 194156799
-type: way
+type: node
 latitude: 49.54267
 longitude: 8.63621
 postcode: "69469"
 city: Weinheim
-street: "Theodor-Heuss-Straße"
-housenumber: 11
+street: Theodor-Heuss-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:00-13:00"
-website: "https://radsport-wagner.de/"
+opening_hours: Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:00-13:00
+website: https://radsport-wagner.de/

@@ -4,8 +4,9 @@ latitude: 47.80862
 longitude: 9.64268
 postcode: "88250"
 city: Weingarten
-street: "Münsterplatz"
-housenumber: 4
+street: Münsterplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,We-Fr 10:00-13:00, Tu 09:00-13:00; PH,Sa,Su off, Mo,We-Fr 14:00-18:00, Tu 14:00-19:00"
+opening_hours: Mo,We-Fr 10:00-13:00, Tu 09:00-13:00; PH,Sa,Su off, Mo,We-Fr 14:00-18:00,
+    Tu 14:00-19:00
 website: ""

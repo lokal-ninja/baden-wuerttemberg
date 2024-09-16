@@ -4,8 +4,8 @@ latitude: 48.07142
 longitude: 8.45589
 postcode: "78048"
 city: Villingen-Schwenningen
-street: "Vockenhauser Straße"
-housenumber: 15
-phone: "+49 7721 998120"
-opening_hours: "Mo-Sa 08:00-22:00; PH off"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/e-center-villingen-vockenhauser-stra%C3%9Fe-15/index.jsp"
+street: Vockenhauser Straße
+housenumber: "15"
+phone: +49 7721 998120
+opening_hours: Mo-Sa 08:00-22:00; PH off
+website: https://www.edeka.de/eh/s%C3%BCdwest/e-center-villingen-vockenhauser-stra%C3%9Fe-15/index.jsp

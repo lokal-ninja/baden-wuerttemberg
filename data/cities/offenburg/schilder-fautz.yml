@@ -4,8 +4,9 @@ latitude: 48.46562
 longitude: 7.94081
 postcode: "77652"
 city: Offenburg
-street: "Am Kronenbach"
-housenumber: 7
+street: Am Kronenbach
+housenumber: "7"
 phone: "+4978177880"
-opening_hours: "Mo,We,Fr 08:00-12:00; Tu 08:00-12:00,13:00-16:00; Th 08:00-12:00,13:00-18:00; PH off"
+opening_hours: Mo,We,Fr 08:00-12:00; Tu 08:00-12:00,13:00-16:00; Th 08:00-12:00,13:00-18:00;
+    PH off
 website: ""

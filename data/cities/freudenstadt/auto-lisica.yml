@@ -1,11 +1,11 @@
 id: 303997694
-type: way
+type: node
 latitude: 48.50374
 longitude: 8.46854
 postcode: "72250"
 city: Freudenstadt
-street: "Klosterstraße"
-housenumber: 23
+street: Klosterstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.9813
 longitude: 7.82329
 postcode: "79115"
 city: Freiburg im Breisgau
-street: "Schopfheimer Straße"
-housenumber: 3
-phone: "+49 7612855659"
-opening_hours: "Mo-Sa 14:00-19:00"
-website: "https://www.layback-freiburg.de/"
+street: Schopfheimer Straße
+housenumber: "3"
+phone: +49 7612855659
+opening_hours: Mo-Sa 14:00-19:00
+website: https://www.layback-freiburg.de/

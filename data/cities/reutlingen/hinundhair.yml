@@ -4,8 +4,8 @@ latitude: 48.4775
 longitude: 9.13994
 postcode: "72770"
 city: Reutlingen
-street: "Gomaringer Straße"
-housenumber: 4
-phone: "+49 7121 5109685"
-opening_hours: "Mo 09:00-13:00; Tu-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-13:00"
-website: "https://www.friseur-hinundhair.de/"
+street: Gomaringer Straße
+housenumber: "4"
+phone: +49 7121 5109685
+opening_hours: Mo 09:00-13:00; Tu-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-13:00
+website: https://www.friseur-hinundhair.de/

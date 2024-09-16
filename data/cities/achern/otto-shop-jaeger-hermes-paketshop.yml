@@ -1,11 +1,11 @@
 id: 222630870
-type: way
+type: node
 latitude: 48.61696
 longitude: 8.08377
 postcode: "77855"
 city: Achern
-street: "Oberacherner Straße"
-housenumber: 37
+street: Oberacherner Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

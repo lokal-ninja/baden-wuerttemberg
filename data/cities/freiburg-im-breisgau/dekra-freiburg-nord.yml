@@ -4,8 +4,8 @@ latitude: 48.02426
 longitude: 7.84951
 postcode: "79108"
 city: Freiburg im Breisgau
-street: "Tullastraße"
-housenumber: 57
-phone: "+49 761 55797860"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:30"
-website: "https://www.dekra.de/freiburg-nord"
+street: Tullastraße
+housenumber: "57"
+phone: +49 761 55797860
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:30
+website: https://www.dekra.de/freiburg-nord

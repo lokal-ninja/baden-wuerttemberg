@@ -1,11 +1,11 @@
 id: 55468485
-type: way
+type: node
 latitude: 49.36181
 longitude: 8.68607
 postcode: "69126"
 city: Heidelberg
-street: "Im Breitspiel"
-housenumber: 18
-phone: "+49 6221 316960"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://obi.de/"
+street: Im Breitspiel
+housenumber: "18"
+phone: +49 6221 316960
+opening_hours: Mo-Sa 07:00-20:00
+website: https://obi.de/

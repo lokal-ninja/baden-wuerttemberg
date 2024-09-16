@@ -1,11 +1,11 @@
 id: 195824764
-type: way
+type: node
 latitude: 48.6906
 longitude: 9.81519
 postcode: "73072"
 city: Donzdorf
-street: "Hauptstraße"
-housenumber: 114
+street: Hauptstraße
+housenumber: "114"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

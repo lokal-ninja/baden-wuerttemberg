@@ -1,11 +1,11 @@
 id: 107488999
-type: way
+type: node
 latitude: 48.40043
 longitude: 9.95739
 postcode: "89077"
 city: Ulm
-street: "Magirus-Deutz-Straße"
-housenumber: 17
+street: Magirus-Deutz-Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

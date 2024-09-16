@@ -1,11 +1,11 @@
 id: 143885129
-type: way
+type: node
 latitude: 48.28828
 longitude: 8.81476
 postcode: "72351"
 city: Geislingen
-street: "Vorstadtstraße"
-housenumber: 23
-phone: "+49 7433 9678120"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-16:00; Su 08:00-17:00"
-website: "https://cafe-baecker-mayer.de/"
+street: Vorstadtstraße
+housenumber: "23"
+phone: +49 7433 9678120
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-16:00; Su 08:00-17:00
+website: https://cafe-baecker-mayer.de/

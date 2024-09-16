@@ -1,11 +1,11 @@
 id: 192138725
-type: way
+type: node
 latitude: 48.1352
 longitude: 7.81019
 postcode: "79331"
 city: Teningen
-street: "Blochmattenstraße"
-housenumber: 7
+street: Blochmattenstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

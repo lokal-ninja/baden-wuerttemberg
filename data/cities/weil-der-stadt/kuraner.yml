@@ -1,11 +1,11 @@
 id: 35882798
-type: way
+type: node
 latitude: 48.75606
 longitude: 8.86991
 postcode: "71263"
 city: Weil der Stadt
-street: "Josef-Beyerle-Straße"
-housenumber: 6
+street: Josef-Beyerle-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.reifen-lacke-kuraner.de"
+website: https://www.reifen-lacke-kuraner.de

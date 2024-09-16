@@ -4,8 +4,9 @@ latitude: 48.62853
 longitude: 8.06938
 postcode: "77855"
 city: Achern
-street: "Kapellenstraße"
-housenumber: 3
-phone: "+49 7841 21959"
-opening_hours: "Mo-We,Fr 09:00-12:30, 14:00-18:30; Th 09:00-12:30, 14:00-19:00; Sa 09:00-16:00"
-website: "https://zeller-modewelt.de/"
+street: Kapellenstraße
+housenumber: "3"
+phone: +49 7841 21959
+opening_hours: Mo-We,Fr 09:00-12:30, 14:00-18:30; Th 09:00-12:30, 14:00-19:00; Sa
+    09:00-16:00
+website: https://zeller-modewelt.de/

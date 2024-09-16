@@ -1,11 +1,11 @@
 id: 422832585
-type: way
+type: node
 latitude: 48.47152
 longitude: 8.45091
 postcode: "72250"
 city: Freudenstadt
-street: "Aacher Straße"
-housenumber: 6
+street: Aacher Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

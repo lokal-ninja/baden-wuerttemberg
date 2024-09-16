@@ -1,11 +1,11 @@
 id: 49423526
-type: way
+type: node
 latitude: 48.72476
 longitude: 8.11142
 postcode: "77815"
 city: Bühl
-street: "Vimbucher Straße"
-housenumber: 75
-phone: "+49 7223 83542"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-21:00"
+street: Vimbucher Straße
+housenumber: "75"
+phone: +49 7223 83542
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 204731131
-type: way
+type: node
 latitude: 48.7618
 longitude: 9.3163
 postcode: "73732"
 city: Esslingen am Neckar
-street: "Stettener Straße"
-housenumber: 133
+street: Stettener Straße
+housenumber: "133"
 phone: ""
 opening_hours: ""
-website: "https://www.schlienz-omnibus.de/"
+website: https://www.schlienz-omnibus.de/

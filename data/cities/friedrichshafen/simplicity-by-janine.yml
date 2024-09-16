@@ -4,8 +4,8 @@ latitude: 47.65059
 longitude: 9.47843
 postcode: "88045"
 city: Friedrichshafen
-street: "Karlstraße"
-housenumber: 17
+street: Karlstraße
+housenumber: "17"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://www.simplicitybyjanine.de/"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.simplicitybyjanine.de/

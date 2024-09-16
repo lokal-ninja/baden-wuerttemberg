@@ -1,11 +1,11 @@
 id: 132220825
-type: way
+type: node
 latitude: 48.84292
 longitude: 9.23078
 postcode: "70378"
 city: Stuttgart
-street: "Veitstraße"
-housenumber: 13
+street: Veitstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

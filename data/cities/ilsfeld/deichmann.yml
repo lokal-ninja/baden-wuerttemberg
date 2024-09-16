@@ -1,11 +1,11 @@
 id: 62142818
-type: way
+type: node
 latitude: 49.05791
 longitude: 9.26652
 postcode: "74360"
 city: Ilsfeld
-street: "Porschestraße"
-housenumber: 2
+street: Porschestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 9:00-20:00"
+opening_hours: Mo-Sa 9:00-20:00
 website: ""

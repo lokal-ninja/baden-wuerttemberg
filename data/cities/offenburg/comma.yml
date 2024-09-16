@@ -4,8 +4,8 @@ latitude: 48.47127
 longitude: 7.94276
 postcode: "77652"
 city: Offenburg
-street: "Hauptstraße"
-housenumber: 66
-phone: "+49 781 23629"
-opening_hours: "Mo-We,Fr,Sa 09:00-19:00; Th 09:00-20:00"
-website: "https://stores.comma-fashion.com/offenburg/hauptstraße-66"
+street: Hauptstraße
+housenumber: "66"
+phone: +49 781 23629
+opening_hours: Mo-We,Fr,Sa 09:00-19:00; Th 09:00-20:00
+website: https://stores.comma-fashion.com/offenburg/hauptstraße-66

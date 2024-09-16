@@ -4,8 +4,8 @@ latitude: 48.85337
 longitude: 9.09414
 postcode: "70825"
 city: Korntal-Münchingen
-street: "Stuttgarter Straße"
-housenumber: 54
-phone: "+49 7150 95660"
-opening_hours: "Tu-Fr 07:00-18:30; Sa 06:30-12:30; Mo off Ruhetag; PH off"
-website: "https://marktschwaermer.de/de-DE/producers/24526"
+street: Stuttgarter Straße
+housenumber: "54"
+phone: +49 7150 95660
+opening_hours: Tu-Fr 07:00-18:30; Sa 06:30-12:30; Mo off "Ruhetag"; PH off
+website: https://marktschwaermer.de/de-DE/producers/24526

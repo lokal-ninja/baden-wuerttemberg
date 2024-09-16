@@ -1,11 +1,11 @@
 id: 28525635
-type: way
+type: node
 latitude: 48.92405
 longitude: 8.37219
 postcode: "76275"
 city: Ettlingen
-street: "Neue Bruchstraße"
-housenumber: 2
-phone: "+49 7243 526710"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Neue Bruchstraße
+housenumber: "2"
+phone: +49 7243 526710
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

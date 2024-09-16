@@ -1,11 +1,11 @@
 id: 199205234
-type: way
+type: node
 latitude: 47.91053
 longitude: 9.8848
 postcode: "88410"
 city: Bad Wurzach
-street: "Oberriedstraße"
-housenumber: 31
-phone: "+49 7564-93260"
-opening_hours: "Mo-Fr 07:45-12:00,13:00-17:30; Sa 09:00-12:00; PH off"
-website: "https://www.autohaus-am-ried.de/"
+street: Oberriedstraße
+housenumber: "31"
+phone: +49 7564-93260
+opening_hours: Mo-Fr 07:45-12:00,13:00-17:30; Sa 09:00-12:00; PH off
+website: https://www.autohaus-am-ried.de/

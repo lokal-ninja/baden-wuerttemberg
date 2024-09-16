@@ -1,11 +1,11 @@
 id: 478155290
-type: way
+type: node
 latitude: 48.07488
 longitude: 8.6348
 postcode: "78647"
 city: Trossingen
-street: "Hauptstraße"
-housenumber: 37
+street: Hauptstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1274071698
-type: way
+type: node
 latitude: 47.73529
 longitude: 9.34257
 postcode: "88697"
 city: Bermatingen
-street: "Salemer Straße"
-housenumber: 42
+street: Salemer Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

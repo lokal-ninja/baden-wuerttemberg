@@ -1,11 +1,11 @@
 id: 175154746
-type: way
+type: node
 latitude: 47.59836
 longitude: 8.14704
 postcode: "79774"
 city: Albbruck
-street: "Am Mühlebach"
-housenumber: 5
+street: Am Mühlebach
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://autohausebner.de/"
+website: https://autohausebner.de/

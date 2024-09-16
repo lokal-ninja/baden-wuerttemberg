@@ -1,11 +1,11 @@
 id: 386775630
-type: way
+type: node
 latitude: 48.87197
 longitude: 9.1864
 postcode: "70806"
 city: Kornwestheim
-street: "Ludwigsburger Straße"
-housenumber: 82
+street: Ludwigsburger Straße
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

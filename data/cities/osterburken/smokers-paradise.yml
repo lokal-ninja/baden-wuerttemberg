@@ -1,11 +1,11 @@
 id: 326488428
-type: way
+type: node
 latitude: 49.43089
 longitude: 9.42647
 postcode: "74706"
 city: Osterburken
-street: "Turmstraße"
-housenumber: 1
+street: Turmstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 14:00-19:00"
+opening_hours: Mo-Fr 14:00-19:00
 website: ""

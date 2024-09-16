@@ -1,11 +1,11 @@
 id: 426803565
-type: way
+type: node
 latitude: 49.20068
 longitude: 9.79288
 postcode: "74542"
 city: Braunsbach
-street: "Panoramastraße"
-housenumber: 10
+street: Panoramastraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

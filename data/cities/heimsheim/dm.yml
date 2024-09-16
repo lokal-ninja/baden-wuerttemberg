@@ -1,11 +1,11 @@
 id: 363014902
-type: way
+type: node
 latitude: 48.809
 longitude: 8.86101
 postcode: "71296"
 city: Heimsheim
-street: "Mönsheimer Straße"
-housenumber: 61
+street: Mönsheimer Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

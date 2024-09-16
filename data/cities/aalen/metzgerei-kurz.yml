@@ -4,8 +4,8 @@ latitude: 48.83165
 longitude: 10.05836
 postcode: "73434"
 city: Aalen
-street: "Weilerstraße"
-housenumber: 98
-phone: "+49 7361 42332"
-opening_hours: "Mo-Fr 08:00-12:15, Mo,Tu,Th,Fr 14:15-18:00, Sa 07:30-12:15"
-website: "http://www.metzgerei-kurz.de/filialen.html"
+street: Weilerstraße
+housenumber: "98"
+phone: +49 7361 42332
+opening_hours: Mo-Fr 08:00-12:15, Mo,Tu,Th,Fr 14:15-18:00, Sa 07:30-12:15
+website: http://www.metzgerei-kurz.de/filialen.html

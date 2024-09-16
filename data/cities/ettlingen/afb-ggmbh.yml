@@ -1,11 +1,11 @@
 id: 145261654
-type: way
+type: node
 latitude: 48.93725
 longitude: 8.38423
 postcode: "76275"
 city: Ettlingen
-street: "Ferdinand-Porsche-Straße"
-housenumber: 9
-phone: "+49 7243 200000"
+street: Ferdinand-Porsche-Straße
+housenumber: "9"
+phone: +49 7243 200000
 opening_hours: ""
-website: "https://www.afb-group.de/shop/shops/"
+website: https://www.afb-group.de/shop/shops/

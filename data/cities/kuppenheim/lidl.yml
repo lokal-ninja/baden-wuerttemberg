@@ -1,11 +1,11 @@
 id: 192646829
-type: way
+type: node
 latitude: 48.82802
 longitude: 8.26577
 postcode: "76456"
 city: Kuppenheim
-street: "Im Siegen"
-housenumber: 1
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+street: Im Siegen
+housenumber: "1"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

@@ -1,11 +1,11 @@
 id: 163553301
-type: way
+type: node
 latitude: 47.96222
 longitude: 8.78472
 postcode: "78532"
 city: Tuttlingen
-street: "Gänsäcker"
-housenumber: 62
+street: Gänsäcker
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

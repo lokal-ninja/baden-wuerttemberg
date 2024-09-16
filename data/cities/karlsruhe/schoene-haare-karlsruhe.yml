@@ -4,8 +4,8 @@ latitude: 49.00746
 longitude: 8.39567
 postcode: "76133"
 city: Karlsruhe
-street: "Amalienstraße"
-housenumber: 9
+street: Amalienstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-14:30"
-website: "http://www.schoene-haare-karlsruhe.de/"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-14:30
+website: http://www.schoene-haare-karlsruhe.de/

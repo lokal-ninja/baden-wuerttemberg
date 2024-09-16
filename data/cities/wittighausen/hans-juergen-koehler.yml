@@ -1,11 +1,11 @@
 id: 140362655
-type: way
+type: node
 latitude: 49.61148
 longitude: 9.83377
 postcode: ""
 city: Wittighausen
-street: "Quellwiesen"
-housenumber: 6
+street: Quellwiesen
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 130425542
-type: way
+type: node
 latitude: 48.90004
 longitude: 8.66675
 postcode: "75179"
 city: Pforzheim
-street: "Rastatter Straße"
-housenumber: 5
-phone: "+49 7231 1544568"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+street: Rastatter Straße
+housenumber: "5"
+phone: +49 7231 1544568
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

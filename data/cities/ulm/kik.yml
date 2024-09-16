@@ -1,11 +1,11 @@
 id: 89972223
-type: way
+type: node
 latitude: 48.40382
 longitude: 9.97377
 postcode: "89077"
 city: Ulm
-street: "Blaubeurer Straße"
-housenumber: 
+street: Blaubeurer Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "http://www.kik-textilien.com/"
+opening_hours: Mo-Sa 09:00-20:00
+website: http://www.kik-textilien.com/

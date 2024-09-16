@@ -4,8 +4,8 @@ latitude: 49.51201
 longitude: 8.52995
 postcode: "68309"
 city: Mannheim
-street: "Brandenburger Straße"
-housenumber: 13
+street: Brandenburger Straße
+housenumber: "13"
 phone: ""
-opening_hours: "0:00-24:00"
+opening_hours: 0:00-24:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.03563
 longitude: 8.70115
 postcode: "75015"
 city: Bretten
-street: "Wilhelmstraße"
-housenumber: 37
+street: Wilhelmstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-13:00; Su 08:00-17:00"
-website: "https://www.thollembeek.de/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-13:00; Su 08:00-17:00
+website: https://www.thollembeek.de/

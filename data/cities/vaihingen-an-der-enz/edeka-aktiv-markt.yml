@@ -1,11 +1,11 @@
 id: 96708009
-type: way
+type: node
 latitude: 48.95058
 longitude: 8.96568
 postcode: "71665"
 city: Vaihingen an der Enz
-street: "Wilhelmstraße"
-housenumber: 9
-phone: "+49 7042 966055"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/e-aktiv-markt-arlt-wilhelmstra%C3%9Fe-9/index.jsp"
+street: Wilhelmstraße
+housenumber: "9"
+phone: +49 7042 966055
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdwest/e-aktiv-markt-arlt-wilhelmstra%C3%9Fe-9/index.jsp

@@ -4,8 +4,8 @@ latitude: 48.7853
 longitude: 9.63814
 postcode: "73547"
 city: Lorch
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.4418
 longitude: 8.6882
 postcode: "72160"
 city: Horb am Neckar
-street: "Bahnhofplatz"
-housenumber: 15
-phone: "+49 7451 621125"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://baecker-saur.de/"
+street: Bahnhofplatz
+housenumber: "15"
+phone: +49 7451 621125
+opening_hours: Mo-Sa 07:00-20:00
+website: https://baecker-saur.de/

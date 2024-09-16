@@ -1,11 +1,11 @@
 id: 244297290
-type: way
+type: node
 latitude: 48.78784
 longitude: 9.74472
 postcode: "73529"
 city: Schwäbisch Gmünd
-street: "Krähe"
-housenumber: 9
+street: Krähe
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su, PH off"
+opening_hours: Mo-Sa 09:00-19:00; Su, PH off
 website: ""

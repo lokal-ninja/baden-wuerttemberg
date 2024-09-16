@@ -1,11 +1,11 @@
 id: 351522688
-type: way
+type: node
 latitude: 48.2971
 longitude: 9.99262
 postcode: "89195"
 city: Staig
-street: "Moosweg"
-housenumber: 25
+street: Moosweg
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

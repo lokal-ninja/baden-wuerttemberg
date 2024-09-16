@@ -1,11 +1,11 @@
 id: 108956778
-type: way
+type: node
 latitude: 49.33026
 longitude: 8.44374
 postcode: "67346"
 city: Speyer
-street: "Hasenpfühlerweide"
-housenumber: 11
+street: Hasenpfühlerweide
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.theile-buerosysteme.de/"
+website: https://www.theile-buerosysteme.de/

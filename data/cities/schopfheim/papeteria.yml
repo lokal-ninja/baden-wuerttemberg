@@ -4,8 +4,8 @@ latitude: 47.64571
 longitude: 7.81418
 postcode: "79650"
 city: Schopfheim
-street: "Belchenstraße"
-housenumber: 63
-phone: "+49 7622 688886"
-opening_hours: "Sa 10:00-13:00"
-website: "https://papeteria-verlag.de"
+street: Belchenstraße
+housenumber: "63"
+phone: +49 7622 688886
+opening_hours: Sa 10:00-13:00
+website: https://papeteria-verlag.de

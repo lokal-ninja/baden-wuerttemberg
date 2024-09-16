@@ -1,11 +1,11 @@
 id: 208907753
-type: way
+type: node
 latitude: 49.38878
 longitude: 9.01307
 postcode: "74867"
 city: Neunkirchen
-street: "Industriestraße"
-housenumber: 7
+street: Industriestraße
+housenumber: "7"
 phone: "062622077"
 opening_hours: ""
-website: "http://www.autohaus-weishaupt.net/"
+website: http://www.autohaus-weishaupt.net/

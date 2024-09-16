@@ -4,8 +4,8 @@ latitude: 49.40931
 longitude: 8.63051
 postcode: "69214"
 city: Eppelheim
-street: "Handelsstraße"
-housenumber: 5
-phone: "+49 6221 3387565"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-17:00"
-website: "https://www.shisha-nil.de/"
+street: Handelsstraße
+housenumber: "5"
+phone: +49 6221 3387565
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-17:00
+website: https://www.shisha-nil.de/

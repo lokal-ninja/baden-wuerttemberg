@@ -4,8 +4,8 @@ latitude: 47.68623
 longitude: 9.83534
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Bindstraße"
-housenumber: 27
+street: Bindstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:30-14:00; Su,PH off"
-website: "https://der-baecker-mayer.de/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:30-14:00; Su,PH off
+website: https://der-baecker-mayer.de/

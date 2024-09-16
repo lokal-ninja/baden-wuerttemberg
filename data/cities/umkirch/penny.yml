@@ -1,11 +1,11 @@
 id: 373702176
-type: way
+type: node
 latitude: 48.02841
 longitude: 7.77642
 postcode: "79224"
 city: Umkirch
-street: "Brugesstraße"
-housenumber: 47
+street: Brugesstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

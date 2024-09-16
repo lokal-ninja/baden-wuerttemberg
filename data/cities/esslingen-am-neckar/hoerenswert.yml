@@ -4,8 +4,8 @@ latitude: 48.74275
 longitude: 9.31257
 postcode: "73728"
 city: Esslingen am Neckar
-street: "Ebershaldenstraße"
-housenumber: 7
+street: Ebershaldenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00"
-website: "https://www.hoerenswert-esslingen.de/"
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00
+website: https://www.hoerenswert-esslingen.de/

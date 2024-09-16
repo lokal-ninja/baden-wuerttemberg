@@ -1,11 +1,11 @@
 id: 319037856
-type: way
+type: node
 latitude: 47.64449
 longitude: 7.80431
 postcode: "79650"
 city: Schopfheim
-street: "Lusweg"
-housenumber: 4
+street: Lusweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

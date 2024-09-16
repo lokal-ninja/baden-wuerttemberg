@@ -1,11 +1,11 @@
 id: 235902039
-type: way
+type: node
 latitude: 48.0818
 longitude: 9.8034
 postcode: "88400"
 city: Biberach an der Riß
-street: "Waldseer Straße"
-housenumber: 143
+street: Waldseer Straße
+housenumber: "143"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 143669989
-type: way
+type: node
 latitude: 48.73792
 longitude: 9.74948
 postcode: "73113"
 city: Ottenbach
-street: "Rechbergstraße"
-housenumber: 18
+street: Rechbergstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 230206343
-type: way
+type: node
 latitude: 48.06923
 longitude: 7.86717
 postcode: "79211"
 city: Denzlingen
-street: "Markgrafenstraße"
+street: Markgrafenstraße
 housenumber: 139-145
 phone: ""
 opening_hours: ""
-website: "https://www.metzgerei-linder.de/"
+website: https://www.metzgerei-linder.de/

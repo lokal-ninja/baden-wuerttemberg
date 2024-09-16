@@ -4,8 +4,8 @@ latitude: 48.56449
 longitude: 9.23138
 postcode: "72766"
 city: Reutlingen
-street: "Mönchstraße"
-housenumber: 25
+street: Mönchstraße
+housenumber: "25"
 phone: "+49712770740"
-opening_hours: "nach Vereinbarung"
-website: "https://www.felden-holzspielwaren.de/"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.felden-holzspielwaren.de/

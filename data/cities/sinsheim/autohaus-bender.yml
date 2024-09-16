@@ -1,11 +1,11 @@
 id: 232078189
-type: way
+type: node
 latitude: 49.24983
 longitude: 8.86261
 postcode: "74889"
 city: Sinsheim
-street: "Carl-Benz-Straße"
-housenumber: 3
-phone: "+49 7261 945080"
+street: Carl-Benz-Straße
+housenumber: "3"
+phone: +49 7261 945080
 opening_hours: ""
-website: "http://benderautos.de/cms/"
+website: http://benderautos.de/cms/

@@ -5,7 +5,7 @@ longitude: 9.17036
 postcode: "70174"
 city: Stuttgart
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 11:30-19:00; Sa 11:00-18:00"
-website: "http://pappe-la-papp.com"
+opening_hours: Mo-Fr 11:30-19:00; Sa 11:00-18:00
+website: http://pappe-la-papp.com

@@ -1,11 +1,11 @@
 id: 197146181
-type: way
+type: node
 latitude: 49.48939
 longitude: 8.46671
 postcode: "68159"
 city: Mannheim
 street: ""
 housenumber: 5e
-phone: "+49 621 3750179"
-opening_hours: "Tu,Th 09:30-13:00,14:30-17:30; Sa 09:30-13:00"
+phone: +49 621 3750179
+opening_hours: Tu,Th 09:30-13:00,14:30-17:30; Sa 09:30-13:00
 website: ""

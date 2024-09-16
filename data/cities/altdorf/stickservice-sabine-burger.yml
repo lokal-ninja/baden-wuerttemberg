@@ -1,11 +1,11 @@
 id: 252824787
-type: way
+type: node
 latitude: 48.59608
 longitude: 9.27319
 postcode: "72655"
 city: Altdorf
-street: "Weinbergweg"
-housenumber: 11
+street: Weinbergweg
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

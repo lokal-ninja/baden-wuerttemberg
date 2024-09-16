@@ -1,11 +1,11 @@
 id: 417790337
-type: way
+type: node
 latitude: 49.30034
 longitude: 9.97513
 postcode: "74572"
 city: Blaufelden
-street: "Rothenburger Straße"
-housenumber: 23
+street: Rothenburger Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
 website: ""

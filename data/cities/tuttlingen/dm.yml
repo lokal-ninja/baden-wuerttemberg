@@ -1,11 +1,11 @@
 id: 257801440
-type: way
+type: node
 latitude: 47.99572
 longitude: 8.82861
 postcode: "78532"
 city: Tuttlingen
-street: "Rudolf-Diesel-Straße"
-housenumber: 35
+street: Rudolf-Diesel-Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

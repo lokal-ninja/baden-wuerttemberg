@@ -1,11 +1,11 @@
 id: 96794603
-type: way
+type: node
 latitude: 48.99821
 longitude: 8.43718
 postcode: "76227"
 city: Karlsruhe
-street: "Ottostraße"
-housenumber: 22
+street: Ottostraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

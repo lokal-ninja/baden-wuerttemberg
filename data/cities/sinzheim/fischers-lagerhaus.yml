@@ -1,11 +1,11 @@
 id: 108312227
-type: way
+type: node
 latitude: 48.76858
 longitude: 8.16791
 postcode: "76547"
 city: Sinzheim
-street: "Industriestraße"
-housenumber: 7
+street: Industriestraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
-website: "https://www.fischers-lagerhaus.de/unsere-standorte/sinzheim/"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00
+website: https://www.fischers-lagerhaus.de/unsere-standorte/sinzheim/

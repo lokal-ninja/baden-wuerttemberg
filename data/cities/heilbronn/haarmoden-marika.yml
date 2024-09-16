@@ -1,11 +1,11 @@
 id: 82932667
-type: way
+type: node
 latitude: 49.11599
 longitude: 9.17144
 postcode: "74081"
 city: Heilbronn
-street: "Hohenloher Straße"
-housenumber: 20
-phone: "+49 7131 575585"
-opening_hours: "Tu,Th,Fr 09:00-18:00; We 09:00-14:00"
+street: Hohenloher Straße
+housenumber: "20"
+phone: +49 7131 575585
+opening_hours: Tu,Th,Fr 09:00-18:00; We 09:00-14:00
 website: ""

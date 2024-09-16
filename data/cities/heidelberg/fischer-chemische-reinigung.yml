@@ -4,8 +4,8 @@ latitude: 49.37998
 longitude: 8.68789
 postcode: "69126"
 city: Heidelberg
-street: "Rathausstraße"
-housenumber: 2
-phone: "+49 6221 393837"
-opening_hours: "Mo 08:00-18:30; Tu-Fr 08:00-14:00; Sa 08:00-13:00"
-website: "https://www.fischer-diereinigung.de/"
+street: Rathausstraße
+housenumber: "2"
+phone: +49 6221 393837
+opening_hours: Mo 08:00-18:30; Tu-Fr 08:00-14:00; Sa 08:00-13:00
+website: https://www.fischer-diereinigung.de/

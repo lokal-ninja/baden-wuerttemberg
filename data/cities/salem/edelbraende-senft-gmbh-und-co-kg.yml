@@ -4,8 +4,8 @@ latitude: 47.79595
 longitude: 9.26172
 postcode: "88682"
 city: Salem
-street: "Dorfbachstraße"
-housenumber: 10
-phone: "+49 7553 8831"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.senft-destillerie.de"
+street: Dorfbachstraße
+housenumber: "10"
+phone: +49 7553 8831
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.senft-destillerie.de

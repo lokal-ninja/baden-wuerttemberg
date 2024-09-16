@@ -4,8 +4,8 @@ latitude: 47.85164
 longitude: 9.00969
 postcode: "78333"
 city: Stockach
-street: "Aachenstraße"
-housenumber: 5
-phone: "+49 7771 7113"
-opening_hours: "Mo-Th 08:30-12:30,14:00-18:00; Fr 08:30-18:00"
+street: Aachenstraße
+housenumber: "5"
+phone: +49 7771 7113
+opening_hours: Mo-Th 08:30-12:30,14:00-18:00; Fr 08:30-18:00
 website: ""

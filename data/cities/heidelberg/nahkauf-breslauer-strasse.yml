@@ -1,11 +1,11 @@
 id: 90065299
-type: way
+type: node
 latitude: 49.38412
 longitude: 8.66654
 postcode: "69124"
 city: Heidelberg
-street: "Breslauer Straße"
-housenumber: 26
+street: Breslauer Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://nahkauf.de/maerkte/heidelberg-45611099-aqb-arbeit-u-qualif-f-menschen-m-beh-breslauer-strasse-26"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://nahkauf.de/maerkte/heidelberg-45611099-aqb-arbeit-u-qualif-f-menschen-m-beh-breslauer-strasse-26

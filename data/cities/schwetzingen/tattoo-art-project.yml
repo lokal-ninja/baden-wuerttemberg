@@ -4,8 +4,8 @@ latitude: 49.38642
 longitude: 8.56964
 postcode: "68723"
 city: Schwetzingen
-street: "Wildemannstraße"
-housenumber: 1
+street: Wildemannstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://orphe.de/"
+website: https://orphe.de/

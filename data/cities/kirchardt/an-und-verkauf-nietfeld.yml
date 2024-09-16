@@ -1,11 +1,11 @@
 id: 548991966
-type: way
+type: node
 latitude: 49.20662
 longitude: 8.99201
 postcode: "74912"
 city: Kirchardt
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

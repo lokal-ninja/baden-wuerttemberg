@@ -1,11 +1,11 @@
 id: 172262426
-type: way
+type: node
 latitude: 48.99025
 longitude: 9.54943
 postcode: "71560"
 city: Sulzbach an der Murr
-street: "Euro-Straße"
-housenumber: 12
+street: Euro-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

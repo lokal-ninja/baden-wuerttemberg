@@ -1,11 +1,11 @@
 id: 313476371
-type: way
+type: node
 latitude: 48.75692
 longitude: 8.24805
 postcode: "76530"
 city: Baden-Baden
-street: "Friedhofstraße"
-housenumber: 38
-phone: "+49 7221 60099"
+street: Friedhofstraße
+housenumber: "38"
+phone: +49 7221 60099
 opening_hours: ""
 website: ""

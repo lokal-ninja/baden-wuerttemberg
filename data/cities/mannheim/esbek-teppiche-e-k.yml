@@ -1,11 +1,11 @@
 id: 158187038
-type: way
+type: node
 latitude: 49.49117
 longitude: 8.45627
 postcode: "68159"
 city: Mannheim
-street: "Rheinstraße"
-housenumber: 11
+street: Rheinstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

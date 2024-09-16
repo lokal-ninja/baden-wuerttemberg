@@ -1,11 +1,11 @@
 id: 107948134
-type: way
+type: node
 latitude: 48.01508
 longitude: 8.02935
 postcode: "79271"
 city: St. Peter
-street: "Bürgerschaft"
-housenumber: 19
+street: Bürgerschaft
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

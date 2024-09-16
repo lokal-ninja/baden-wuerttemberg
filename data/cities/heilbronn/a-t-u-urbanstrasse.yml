@@ -1,11 +1,11 @@
 id: 107473855
-type: way
+type: node
 latitude: 49.13444
 longitude: 9.22109
 postcode: "74072"
 city: Heilbronn
-street: "Urbanstraße"
-housenumber: 25
+street: Urbanstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00
 website: ""

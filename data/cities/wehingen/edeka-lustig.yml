@@ -1,11 +1,11 @@
 id: 172652059
-type: way
+type: node
 latitude: 48.14489
 longitude: 8.78783
 postcode: "78564"
 city: Wehingen
-street: "Gosheimer Straße"
-housenumber: 26
+street: Gosheimer Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.60555
 longitude: 8.03314
 postcode: "77855"
 city: Achern
-street: "Offenburger Straße"
-housenumber: 36
-phone: "+49 7841 21364"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:30; Sa 08:30-12:00"
-website: "https://www.autohaus-baer.de/"
+street: Offenburger Straße
+housenumber: "36"
+phone: +49 7841 21364
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:30; Sa 08:30-12:00
+website: https://www.autohaus-baer.de/

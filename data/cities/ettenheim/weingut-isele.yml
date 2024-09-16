@@ -4,8 +4,8 @@ latitude: 48.24826
 longitude: 7.85522
 postcode: "77955"
 city: Ettenheim
-street: "Hauptstraße"
-housenumber: 46
+street: Hauptstraße
+housenumber: "46"
 phone: ""
-opening_hours: "We-Sa 17:00-24:00; Su,Ph 16:00-24:00"
-website: "https://www.weingut-isele.de/weingut/"
+opening_hours: We-Sa 17:00-24:00; Su,Ph 16:00-24:00
+website: https://www.weingut-isele.de/weingut/

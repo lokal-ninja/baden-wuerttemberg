@@ -4,8 +4,8 @@ latitude: 48.81746
 longitude: 8.1585
 postcode: "76473"
 city: Iffezheim
-street: "Südring"
-housenumber: 12
-phone: "+49 7229 187860"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-15:00"
-website: "https://www.graessle.de/"
+street: Südring
+housenumber: "12"
+phone: +49 7229 187860
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-15:00
+website: https://www.graessle.de/

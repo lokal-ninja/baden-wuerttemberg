@@ -1,11 +1,11 @@
 id: 36328736
-type: way
+type: node
 latitude: 47.69469
 longitude: 9.27288
 postcode: "88709"
 city: Meersburg
-street: "Marktplatz"
-housenumber: 6
+street: Marktplatz
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

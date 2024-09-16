@@ -1,11 +1,11 @@
 id: 210561056
-type: way
+type: node
 latitude: 49.10704
 longitude: 8.85417
 postcode: "75056"
 city: Sulzfeld
-street: "Hauptstraße"
-housenumber: 101
+street: Hauptstraße
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

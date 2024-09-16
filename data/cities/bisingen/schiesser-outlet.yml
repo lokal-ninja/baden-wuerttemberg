@@ -1,11 +1,11 @@
 id: 194553585
-type: way
+type: node
 latitude: 48.31919
 longitude: 8.9123
 postcode: "72406"
 city: Bisingen
-street: "Heidelbergstraße"
-housenumber: 61
-phone: "+49 7476 9145422"
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://www.schiesser.com/"
+street: Heidelbergstraße
+housenumber: "61"
+phone: +49 7476 9145422
+opening_hours: Mo-Sa 09:30-18:00
+website: https://www.schiesser.com/

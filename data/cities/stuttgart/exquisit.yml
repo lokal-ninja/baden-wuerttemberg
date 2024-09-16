@@ -4,8 +4,8 @@ latitude: 48.78225
 longitude: 9.15811
 postcode: "70176"
 city: Stuttgart
-street: "Johannesstraße"
-housenumber: 102
-phone: "+49 711 2294864"
-opening_hours: "Mo-Fr 07:30-13:00,14:00-18:00; Sa 08:00-14:00"
-website: "https://www.exquisit-die-reinigung.de/"
+street: Johannesstraße
+housenumber: "102"
+phone: +49 711 2294864
+opening_hours: Mo-Fr 07:30-13:00,14:00-18:00; Sa 08:00-14:00
+website: https://www.exquisit-die-reinigung.de/

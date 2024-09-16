@@ -1,11 +1,11 @@
 id: 189533473
-type: way
+type: node
 latitude: 48.94313
 longitude: 9.55012
 postcode: "71566"
 city: Althütte
-street: "Martin-Luther-Straße"
-housenumber: 19
+street: Martin-Luther-Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

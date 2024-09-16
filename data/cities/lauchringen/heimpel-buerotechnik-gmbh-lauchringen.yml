@@ -1,11 +1,11 @@
 id: 158449952
-type: way
+type: node
 latitude: 47.62159
 longitude: 8.32551
 postcode: "79787"
 city: Lauchringen
-street: "Alte Rathausstraße"
-housenumber: 2
-phone: "+49 7741 92290"
+street: Alte Rathausstraße
+housenumber: "2"
+phone: +49 7741 92290
 opening_hours: ""
 website: ""

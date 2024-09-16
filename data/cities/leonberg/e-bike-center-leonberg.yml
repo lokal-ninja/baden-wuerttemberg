@@ -1,11 +1,11 @@
 id: 49188972
-type: way
+type: node
 latitude: 48.79112
 longitude: 9.01845
 postcode: "71229"
 city: Leonberg
-street: "Berliner Straße"
+street: Berliner Straße
 housenumber: 39/1
-phone: "+49 7152 45675"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"
-website: "https://www.ebikecenter-leonberg.de/"
+phone: +49 7152 45675
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-16:00
+website: https://www.ebikecenter-leonberg.de/

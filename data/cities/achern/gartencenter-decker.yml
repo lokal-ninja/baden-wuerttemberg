@@ -1,11 +1,11 @@
 id: 121389406
-type: way
+type: node
 latitude: 48.66679
 longitude: 8.05764
 postcode: "77855"
 city: Achern
-street: "Im Hesselbach"
-housenumber: 95
-phone: "+49 7841 674860"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-16:00; Su 10:00-12:00"
-website: "https://www.gartencenter-decker.de/"
+street: Im Hesselbach
+housenumber: "95"
+phone: +49 7841 674860
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-16:00; Su 10:00-12:00
+website: https://www.gartencenter-decker.de/

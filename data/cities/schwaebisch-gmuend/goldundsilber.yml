@@ -1,11 +1,11 @@
 id: 225907990
-type: way
+type: node
 latitude: 48.80037
 longitude: 9.79878
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Franziskanergasse"
-housenumber: 6
+street: Franziskanergasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

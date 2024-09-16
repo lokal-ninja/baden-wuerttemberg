@@ -4,8 +4,8 @@ latitude: 48.83699
 longitude: 10.09294
 postcode: "73430"
 city: Aalen
-street: "Marktplatz"
-housenumber: 16
-phone: "+49 7361 7806175"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.prooptik.de/optik-zentrum/aalen"
+street: Marktplatz
+housenumber: "16"
+phone: +49 7361 7806175
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.prooptik.de/optik-zentrum/aalen

@@ -4,8 +4,8 @@ latitude: 48.43096
 longitude: 7.81211
 postcode: "77743"
 city: Neuried
-street: "Hauptstraße"
-housenumber: 40
+street: Hauptstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Th 15:30-18:30; Sa 09:30-12:30"
-website: "http://www.globus-weltladen.de/"
+opening_hours: Th 15:30-18:30; Sa 09:30-12:30
+website: http://www.globus-weltladen.de/

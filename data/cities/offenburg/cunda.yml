@@ -1,11 +1,11 @@
 id: 91737003
-type: way
+type: node
 latitude: 48.47404
 longitude: 7.94461
 postcode: "77652"
 city: Offenburg
-street: "Hauptstraße"
-housenumber: 7
+street: Hauptstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-19:00
 website: ""

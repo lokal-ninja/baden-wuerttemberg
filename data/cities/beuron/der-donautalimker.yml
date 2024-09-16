@@ -1,11 +1,11 @@
 id: 314726540
-type: way
+type: node
 latitude: 48.07347
 longitude: 9.01853
 postcode: "88631"
 city: Beuron
-street: "Ringstraße"
-housenumber: 6
+street: Ringstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.donautalimker.de"
+website: http://www.donautalimker.de

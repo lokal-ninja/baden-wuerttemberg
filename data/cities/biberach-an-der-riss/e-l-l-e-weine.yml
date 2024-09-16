@@ -1,11 +1,11 @@
 id: 174969792
-type: way
+type: node
 latitude: 48.10141
 longitude: 9.80507
 postcode: "88400"
 city: Biberach an der Riß
-street: "Bergerhauser Straße"
-housenumber: 71
+street: Bergerhauser Straße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

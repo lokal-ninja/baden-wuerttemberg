@@ -4,8 +4,8 @@ latitude: 49.49752
 longitude: 8.47131
 postcode: "68169"
 city: Mannheim
-street: "Mittelstraße"
-housenumber: 11
-phone: "+49 621 333886"
-opening_hours: "Tu-Su 11:00-18:00"
-website: "https://www.neckarstadt-west.de/kunst-kultur-und-gastronomie/gastronomie/cafe-mohrenkoepfle-konditorei"
+street: Mittelstraße
+housenumber: "11"
+phone: +49 621 333886
+opening_hours: Tu-Su 11:00-18:00
+website: https://www.neckarstadt-west.de/kunst-kultur-und-gastronomie/gastronomie/cafe-mohrenkoepfle-konditorei

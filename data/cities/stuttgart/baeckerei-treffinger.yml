@@ -4,8 +4,8 @@ latitude: 48.80339
 longitude: 9.23619
 postcode: "70374"
 city: Stuttgart
-street: "Winterhaldenstraße"
-housenumber: 1
-phone: "+49 711 523765"
-opening_hours: "Mo 06:30-14:00; Tu-Fr 06:30-18:00; Sa 06:30-13:00"
+street: Winterhaldenstraße
+housenumber: "1"
+phone: +49 711 523765
+opening_hours: Mo 06:30-14:00; Tu-Fr 06:30-18:00; Sa 06:30-13:00
 website: ""

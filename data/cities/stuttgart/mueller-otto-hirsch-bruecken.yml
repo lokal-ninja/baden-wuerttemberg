@@ -4,8 +4,8 @@ latitude: 48.76077
 longitude: 9.25541
 postcode: "70329"
 city: Stuttgart
-street: "Otto-Hirsch-Brücken"
-housenumber: 17
-phone: "+49 711 7071270-0"
-opening_hours: "Mo-Sa 09:00-20:00; Su off"
-website: "https://www.mueller.de/"
+street: Otto-Hirsch-Brücken
+housenumber: "17"
+phone: +49 711 7071270-0
+opening_hours: Mo-Sa 09:00-20:00; Su off
+website: https://www.mueller.de/

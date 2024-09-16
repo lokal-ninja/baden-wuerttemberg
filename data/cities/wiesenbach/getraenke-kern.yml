@@ -1,11 +1,11 @@
 id: 198496536
-type: way
+type: node
 latitude: 49.35907
 longitude: 8.79701
 postcode: "69257"
 city: Wiesenbach
-street: "In der Au"
-housenumber: 8
+street: In der Au
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00;Sa 08:00-15:00"
+opening_hours: Mo-Fr 09:00-19:00;Sa 08:00-15:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.77104
 longitude: 9.24368
 postcode: "70327"
 city: Stuttgart
-street: "Ravensburger Straße"
-housenumber: 24
-phone: "+49 711 421081"
-opening_hours: "Mo,Tu,Th,Fr 08:30-18:00;We 08:30-13:00;PH off"
-website: "https://radio-bayer.de/"
+street: Ravensburger Straße
+housenumber: "24"
+phone: +49 711 421081
+opening_hours: Mo,Tu,Th,Fr 08:30-18:00;We 08:30-13:00;PH off
+website: https://radio-bayer.de/

@@ -4,8 +4,8 @@ latitude: 48.69541
 longitude: 9.68789
 postcode: "73054"
 city: Eislingen/Fils
-street: "Steinbeisstraße"
-housenumber: 8
+street: Steinbeisstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.telekom.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.telekom.de/

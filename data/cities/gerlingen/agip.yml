@@ -1,11 +1,11 @@
 id: 51272338
-type: way
+type: node
 latitude: 48.78909
 longitude: 9.04941
 postcode: "70839"
 city: Gerlingen
-street: "Stuttgarter Straße"
-housenumber: 24
+street: Stuttgarter Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

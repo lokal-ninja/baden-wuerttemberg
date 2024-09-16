@@ -4,8 +4,8 @@ latitude: 48.76874
 longitude: 9.17503
 postcode: "70180"
 city: Stuttgart
-street: "Schlosserstraße"
-housenumber: 23
+street: Schlosserstraße
+housenumber: "23"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

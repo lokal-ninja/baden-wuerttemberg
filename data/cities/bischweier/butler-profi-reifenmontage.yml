@@ -1,11 +1,11 @@
 id: 177195826
-type: way
+type: node
 latitude: 48.83746
 longitude: 8.27324
 postcode: "76476"
 city: Bischweier
-street: "Nassenackerstraße"
-housenumber: 9
+street: Nassenackerstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

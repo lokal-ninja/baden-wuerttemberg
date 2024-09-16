@@ -1,11 +1,11 @@
 id: 606337070
-type: way
+type: node
 latitude: 49.18107
 longitude: 10.07339
 postcode: "74589"
 city: Satteldorf
-street: "Industriestraße"
-housenumber: 12
+street: Industriestraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

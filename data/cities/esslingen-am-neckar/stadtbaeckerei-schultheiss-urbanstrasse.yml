@@ -1,11 +1,11 @@
 id: 90739964
-type: way
+type: node
 latitude: 48.74062
 longitude: 9.316
 postcode: "73728"
 city: Esslingen am Neckar
-street: "Urbanstraße"
-housenumber: 24
+street: Urbanstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-12:00; Su 08:00-11:00"
-website: "https://www.stadtbaeckerei-schultheiss.de"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-12:00; Su 08:00-11:00
+website: https://www.stadtbaeckerei-schultheiss.de

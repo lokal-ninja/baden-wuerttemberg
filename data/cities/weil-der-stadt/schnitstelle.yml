@@ -4,8 +4,8 @@ latitude: 48.76704
 longitude: 8.85245
 postcode: "71263"
 city: Weil der Stadt
-street: "Hauptstraße"
-housenumber: 18
-phone: "+49 7033 391635"
-opening_hours: "Mo-Sa 09:30-12:30, Mo-Fr 14:30-18:30"
-website: "https://www.hm-netzwerke.de"
+street: Hauptstraße
+housenumber: "18"
+phone: +49 7033 391635
+opening_hours: Mo-Sa 09:30-12:30, Mo-Fr 14:30-18:30
+website: https://www.hm-netzwerke.de

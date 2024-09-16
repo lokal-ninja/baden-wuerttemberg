@@ -4,8 +4,8 @@ latitude: 48.63772
 longitude: 9.61225
 postcode: "73087"
 city: Bad Boll
-street: "Badstraße"
-housenumber: 32
-phone: "+49 7164 5360"
-opening_hours: "Mo-Th 09:00-12:00; Fr 09:00-12:00, 15:00-18:00; Sa-Su 09:00-12:00"
+street: Badstraße
+housenumber: "32"
+phone: +49 7164 5360
+opening_hours: Mo-Th 09:00-12:00; Fr 09:00-12:00, 15:00-18:00; Sa-Su 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 30406082
-type: way
+type: node
 latitude: 48.65442
 longitude: 9.43247
 postcode: "73230"
 city: Kirchheim unter Teck
-street: "Stuttgarter Straße"
-housenumber: 110
+street: Stuttgarter Straße
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

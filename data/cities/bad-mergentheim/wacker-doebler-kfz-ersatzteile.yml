@@ -1,11 +1,11 @@
 id: 488505047
-type: way
+type: node
 latitude: 49.49625
 longitude: 9.76579
 postcode: "97980"
 city: Bad Mergentheim
-street: "Dieselstraße"
-housenumber: 7
+street: Dieselstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 187650374
-type: way
+type: node
 latitude: 48.65975
 longitude: 9.12414
 postcode: "71144"
 city: Steinenbronn
-street: "Zeppelinstraße"
-housenumber: 3
+street: Zeppelinstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

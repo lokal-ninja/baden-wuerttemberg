@@ -4,8 +4,8 @@ latitude: 49.10799
 longitude: 8.63977
 postcode: "76646"
 city: Bruchsal
-street: "Markgrafenstraße"
-housenumber: 78
-phone: "+49 7251 44020"
-opening_hours: "Mo-Fr 08:30-17:30; Sa,Su,PH off || Samstags nach Absprache"
-website: "https://www.gasgas.de/"
+street: Markgrafenstraße
+housenumber: "78"
+phone: +49 7251 44020
+opening_hours: Mo-Fr 08:30-17:30; Sa,Su,PH off || "Samstags nach Absprache"
+website: https://www.gasgas.de/

@@ -1,11 +1,11 @@
 id: 152195548
-type: way
+type: node
 latitude: 47.61307
 longitude: 7.60799
 postcode: "79576"
 city: Weil am Rhein
-street: "Heldelinger Straße"
-housenumber: 12
+street: Heldelinger Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

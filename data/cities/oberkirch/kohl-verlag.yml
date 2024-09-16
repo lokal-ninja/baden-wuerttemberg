@@ -4,8 +4,8 @@ latitude: 48.53115
 longitude: 8.07852
 postcode: "77704"
 city: Oberkirch
-street: "Hauptstraße"
-housenumber: 57
+street: Hauptstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://www.kohlverlag.de/"
+website: https://www.kohlverlag.de/

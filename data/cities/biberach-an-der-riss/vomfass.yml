@@ -4,8 +4,8 @@ latitude: 48.098
 longitude: 9.78766
 postcode: "88400"
 city: Biberach an der Riß
-street: "Marktplatz"
-housenumber: 22
+street: Marktplatz
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; We 09:00-18:30; Sa 09:00-16:00; PH off"
-website: "https://www.vomfass.de/biberach/"
+opening_hours: Mo-Fr 09:30-18:30; We 09:00-18:30; Sa 09:00-16:00; PH off
+website: https://www.vomfass.de/biberach/

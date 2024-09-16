@@ -4,8 +4,8 @@ latitude: 49.24039
 longitude: 8.67445
 postcode: "69254"
 city: Malsch
-street: "Wiesenäcker"
-housenumber: 2
-phone: "+49 2532 78818"
-opening_hours: "Tu,Th 17:00-19:00; Fr 15:00-19:00; Sa 10:00-13:00"
-website: "http://weingut-boes.de/"
+street: Wiesenäcker
+housenumber: "2"
+phone: +49 2532 78818
+opening_hours: Tu,Th 17:00-19:00; Fr 15:00-19:00; Sa 10:00-13:00
+website: http://weingut-boes.de/

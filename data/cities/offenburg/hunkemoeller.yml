@@ -4,8 +4,8 @@ latitude: 48.47165
 longitude: 7.94321
 postcode: "77652"
 city: Offenburg
-street: "Hauptstraße"
-housenumber: 35
-phone: "+49 781 12287277"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.hunkemoller.de/filiale/offenburg/hauptstrasse-35"
+street: Hauptstraße
+housenumber: "35"
+phone: +49 781 12287277
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.hunkemoller.de/filiale/offenburg/hauptstrasse-35

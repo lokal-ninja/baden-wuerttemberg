@@ -4,8 +4,8 @@ latitude: 48.85469
 longitude: 9.09295
 postcode: "70825"
 city: Korntal-Münchingen
-street: "Christophstraße"
-housenumber: 7
+street: Christophstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,15:00-18:00; Sa 08:00-12:30; PH off"
-website: "http://www.spickzettel-lichte.de/"
+opening_hours: Mo-Fr 08:00-12:30,15:00-18:00; Sa 08:00-12:30; PH off
+website: http://www.spickzettel-lichte.de/

@@ -4,8 +4,8 @@ latitude: 48.80385
 longitude: 9.21621
 postcode: "70372"
 city: Stuttgart
-street: "Marktstraße"
-housenumber: 6
+street: Marktstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.stuttgarter-nagelstudio.de/"
+website: http://www.stuttgarter-nagelstudio.de/

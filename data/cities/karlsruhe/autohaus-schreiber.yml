@@ -1,11 +1,11 @@
 id: 92279878
-type: way
+type: node
 latitude: 49.03397
 longitude: 8.35713
 postcode: "76187"
 city: Karlsruhe
-street: "Im Husarenlager"
-housenumber: 12
+street: Im Husarenlager
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

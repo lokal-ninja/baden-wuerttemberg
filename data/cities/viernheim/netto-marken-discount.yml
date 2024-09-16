@@ -1,11 +1,11 @@
 id: 37427010
-type: way
+type: node
 latitude: 49.52795
 longitude: 8.5606
 postcode: ""
 city: Viernheim
-street: "Mannheimer Straße"
-housenumber: 127
+street: Mannheimer Straße
+housenumber: "127"
 phone: ""
-opening_hours: "Mo-Sa 7:00-21:00"
+opening_hours: Mo-Sa 7:00-21:00
 website: ""

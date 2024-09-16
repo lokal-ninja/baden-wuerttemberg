@@ -1,11 +1,11 @@
 id: 33712617
-type: way
+type: node
 latitude: 48.47178
 longitude: 7.92821
 postcode: "77656"
 city: Offenburg
-street: "Max-Planck-Straße"
-housenumber: 2
-phone: "+49 781 919448 0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.bauhaus.info/fachcentren/fachcentrum-offenburg/fc/621"
+street: Max-Planck-Straße
+housenumber: "2"
+phone: +49 781 919448 0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.bauhaus.info/fachcentren/fachcentrum-offenburg/fc/621

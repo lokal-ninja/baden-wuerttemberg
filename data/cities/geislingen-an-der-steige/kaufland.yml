@@ -1,11 +1,11 @@
 id: 24989901
-type: way
+type: node
 latitude: 48.60954
 longitude: 9.80644
 postcode: "73312"
 city: Geislingen an der Steige
-street: "Neuwiesenstraße"
-housenumber: 25
+street: Neuwiesenstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.53534
 longitude: 8.49348
 postcode: "68305"
 city: Mannheim
-street: "Kirchwaldstraße"
-housenumber: 6
-phone: "+49 621 758044"
-opening_hours: "Mo,Tu,Th,Fr 08:30-13:00,14:30-18:00; We,Sa 08:30-13:00; PH off"
-website: "https://poesie-blumen.de/"
+street: Kirchwaldstraße
+housenumber: "6"
+phone: +49 621 758044
+opening_hours: Mo,Tu,Th,Fr 08:30-13:00,14:30-18:00; We,Sa 08:30-13:00; PH off
+website: https://poesie-blumen.de/

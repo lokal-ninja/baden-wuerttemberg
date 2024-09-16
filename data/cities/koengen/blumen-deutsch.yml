@@ -1,11 +1,11 @@
 id: 100051413
-type: way
+type: node
 latitude: 48.68412
 longitude: 9.36321
 postcode: "73257"
 city: Köngen
-street: "Unterdorfstraße"
-housenumber: 16
+street: Unterdorfstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

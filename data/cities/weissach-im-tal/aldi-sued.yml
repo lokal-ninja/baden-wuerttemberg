@@ -1,11 +1,11 @@
 id: 55688864
-type: way
+type: node
 latitude: 48.92716
 longitude: 9.48088
 postcode: "71554"
 city: Weissach im Tal
-street: "Welzheimer Straße"
-housenumber: 35
+street: Welzheimer Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

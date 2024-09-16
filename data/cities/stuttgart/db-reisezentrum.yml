@@ -4,8 +4,8 @@ latitude: 48.80172
 longitude: 9.21802
 postcode: "70372"
 city: Stuttgart
-street: "Bahnhofstraße"
-housenumber: 30
+street: Bahnhofstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30, Sa 08:30-14:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-18:30, Sa 08:30-14:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.62423
 longitude: 10.02622
 postcode: "89547"
 city: Gerstetten
-street: "Karlstraße"
-housenumber: 60
-phone: "+49 7323 96090"
-opening_hours: "Mo-Fr 10:00-12:30,14:30-17:00; PH off"
-website: "https://www.grueninger-reisen.de/"
+street: Karlstraße
+housenumber: "60"
+phone: +49 7323 96090
+opening_hours: Mo-Fr 10:00-12:30,14:30-17:00; PH off
+website: https://www.grueninger-reisen.de/

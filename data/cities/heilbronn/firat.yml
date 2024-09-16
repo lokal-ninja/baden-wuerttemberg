@@ -1,11 +1,11 @@
 id: 1254543575
-type: way
+type: node
 latitude: 49.12843
 longitude: 9.22497
 postcode: "74074"
 city: Heilbronn
-street: "Stuttgarter Straße"
-housenumber: 47
+street: Stuttgarter Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

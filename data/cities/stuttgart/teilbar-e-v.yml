@@ -4,8 +4,8 @@ latitude: 48.78142
 longitude: 9.1619
 postcode: ""
 city: Stuttgart
-street: "Lerchenstraße"
-housenumber: 37
+street: Lerchenstraße
+housenumber: "37"
 phone: ""
-opening_hours: "nur für Mitglieder nach Absprache"
-website: "https://teilbar.eu"
+opening_hours: '"nur für Mitglieder nach Absprache"'
+website: https://teilbar.eu

@@ -1,11 +1,11 @@
 id: 190074734
-type: way
+type: node
 latitude: 48.90618
 longitude: 9.69342
 postcode: "73553"
 city: Alfdorf
-street: "Gschwender Straße"
-housenumber: 22
+street: Gschwender Straße
+housenumber: "22"
 phone: "+4971826381"
-opening_hours: "Tu 08:00-18:00; Th 08:00-18:00; Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://kartoffelhof.sandland.de/"
+opening_hours: Tu 08:00-18:00; Th 08:00-18:00; Fr 08:00-18:00; Sa 08:00-16:00
+website: https://kartoffelhof.sandland.de/

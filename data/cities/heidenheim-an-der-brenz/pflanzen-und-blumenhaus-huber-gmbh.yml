@@ -1,11 +1,11 @@
 id: 254427948
-type: way
+type: node
 latitude: 48.69404
 longitude: 10.15775
 postcode: "89520"
 city: Heidenheim an der Brenz
-street: "Heidenheimer Straße"
-housenumber: 194
+street: Heidenheimer Straße
+housenumber: "194"
 phone: ""
 opening_hours: ""
-website: "https://www.huber-blumen.de/"
+website: https://www.huber-blumen.de/

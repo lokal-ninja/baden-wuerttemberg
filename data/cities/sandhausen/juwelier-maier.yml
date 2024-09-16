@@ -1,11 +1,11 @@
 id: 217823358
-type: way
+type: node
 latitude: 49.3428
 longitude: 8.65833
 postcode: "69207"
 city: Sandhausen
-street: "Hauptstraße"
-housenumber: 103
-phone: "+49 6224 2731"
-opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,14:30-18:30; Sa 09:00-13:00"
-website: "https://www.juwelier-maier.com/"
+street: Hauptstraße
+housenumber: "103"
+phone: +49 6224 2731
+opening_hours: Mo,Tu,Th,Fr 08:30-12:30,14:30-18:30; Sa 09:00-13:00
+website: https://www.juwelier-maier.com/

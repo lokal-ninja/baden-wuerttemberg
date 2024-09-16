@@ -1,11 +1,11 @@
 id: 600412011
-type: way
+type: node
 latitude: 48.71699
 longitude: 9.34257
 postcode: "73730"
 city: Esslingen
-street: "Dornierstraße"
-housenumber: 8
+street: Dornierstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

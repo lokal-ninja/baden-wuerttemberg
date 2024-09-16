@@ -1,11 +1,11 @@
 id: 370427609
-type: way
+type: node
 latitude: 48.30085
 longitude: 8.57652
 postcode: "78727"
 city: Oberndorf am Neckar
-street: "Neckarstraße"
-housenumber: 29
+street: Neckarstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

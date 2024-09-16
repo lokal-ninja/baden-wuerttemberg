@@ -1,11 +1,11 @@
 id: 311635400
-type: way
+type: node
 latitude: 48.28678
 longitude: 8.7333
 postcode: "72348"
 city: Rosenfeld
-street: "Balinger Straße"
-housenumber: 92
+street: Balinger Straße
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

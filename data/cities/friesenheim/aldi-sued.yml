@@ -1,11 +1,11 @@
 id: 50917869
-type: way
+type: node
 latitude: 48.37126
 longitude: 7.8726
 postcode: "77948"
 city: Friesenheim
-street: "Adlerstraße"
-housenumber: 26
+street: Adlerstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/friesenheim/adlerstrasse-26-b-3"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/friesenheim/adlerstrasse-26-b-3

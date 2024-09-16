@@ -1,11 +1,11 @@
 id: 1043082276
-type: way
+type: node
 latitude: 49.13528
 longitude: 8.52429
 postcode: "76689"
 city: Karlsdorf-Neuthard
-street: "Im Klein Feld"
-housenumber: 41
-phone: "+49 7251 91300"
+street: Im Klein Feld
+housenumber: "41"
+phone: +49 7251 91300
 opening_hours: ""
 website: ""

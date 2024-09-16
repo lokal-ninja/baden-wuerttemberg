@@ -1,11 +1,11 @@
 id: 35591022
-type: way
+type: node
 latitude: 48.35291
 longitude: 9.91354
 postcode: "89079"
 city: Ulm
-street: "Rötelbachstraße"
-housenumber: 97
+street: Rötelbachstraße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.finkbeiner.biz/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.finkbeiner.biz/

@@ -4,8 +4,8 @@ latitude: 47.98394
 longitude: 8.81658
 postcode: "78532"
 city: Tuttlingen
-street: "Bahnhofstraße"
-housenumber: 17
-phone: "+49 7461 14750"
+street: Bahnhofstraße
+housenumber: "17"
+phone: +49 7461 14750
 opening_hours: ""
-website: "https://www.fielmann.de/"
+website: https://www.fielmann.de/

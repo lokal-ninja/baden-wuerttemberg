@@ -1,11 +1,11 @@
 id: 174266147
-type: way
+type: node
 latitude: 48.90917
 longitude: 9.22679
 postcode: "71642"
 city: Ludwigsburg
-street: "Buchnerstraße"
-housenumber: 6
+street: Buchnerstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

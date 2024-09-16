@@ -4,8 +4,8 @@ latitude: 47.782
 longitude: 9.6111
 postcode: "88212"
 city: Ravensburg
-street: "Adlerstraße"
-housenumber: 15
+street: Adlerstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.sonnenbild.de/fotofachgeschaefte/ravensburg.html"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.sonnenbild.de/fotofachgeschaefte/ravensburg.html

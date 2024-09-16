@@ -4,8 +4,8 @@ latitude: 48.84774
 longitude: 9.15974
 postcode: "70439"
 city: Stuttgart
-street: "Korntaler Straße"
-housenumber: 8
-phone: "+49 711 8 041676"
-opening_hours: "Mo,We 09:00-13:00,15:00-19:00; Tu,Th,Sa closed; Fr 08:00-13:00,15:00-19:00"
+street: Korntaler Straße
+housenumber: "8"
+phone: +49 711 8 041676
+opening_hours: Mo,We 09:00-13:00,15:00-19:00; Tu,Th,Sa closed; Fr 08:00-13:00,15:00-19:00
 website: ""

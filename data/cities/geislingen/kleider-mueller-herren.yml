@@ -1,11 +1,11 @@
 id: 144548884
-type: way
+type: node
 latitude: 48.28832
 longitude: 8.81961
 postcode: "72351"
 city: Geislingen
-street: "Vorstadtstraße"
-housenumber: 65
+street: Vorstadtstraße
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://www.kleider-mueller.de/"
+website: https://www.kleider-mueller.de/

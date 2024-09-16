@@ -1,11 +1,11 @@
 id: 182546167
-type: way
+type: node
 latitude: 49.47891
 longitude: 8.65624
 postcode: "69198"
 city: Schriesheim
-street: "Säulenweg"
-housenumber: 1
+street: Säulenweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

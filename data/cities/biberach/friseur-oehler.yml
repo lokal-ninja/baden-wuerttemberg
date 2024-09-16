@@ -1,11 +1,11 @@
 id: 318260874
-type: way
+type: node
 latitude: 48.34019
 longitude: 8.02987
 postcode: "77781"
 city: Biberach
-street: "Friedenstraße"
-housenumber: 6
+street: Friedenstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

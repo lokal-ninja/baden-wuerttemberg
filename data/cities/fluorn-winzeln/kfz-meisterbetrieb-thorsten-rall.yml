@@ -1,11 +1,11 @@
 id: 523461390
-type: way
+type: node
 latitude: 48.29607
 longitude: 8.49258
 postcode: "78737"
 city: Fluorn-Winzeln
-street: "Hafnerweg"
-housenumber: 21
-phone: "+49 7402 904898"
+street: Hafnerweg
+housenumber: "21"
+phone: +49 7402 904898
 opening_hours: ""
-website: "https://www.kfz-rall.de"
+website: https://www.kfz-rall.de

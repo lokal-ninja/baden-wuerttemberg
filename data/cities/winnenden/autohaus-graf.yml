@@ -1,11 +1,11 @@
 id: 100977074
-type: way
+type: node
 latitude: 48.85889
 longitude: 9.43726
 postcode: "71364"
 city: Winnenden
-street: "Industriestraße"
-housenumber: 15
-phone: "+49 7195 9754-0"
+street: Industriestraße
+housenumber: "15"
+phone: +49 7195 9754-0
 opening_hours: ""
-website: "https://www.autohaus-graf-winnenden.de/"
+website: https://www.autohaus-graf-winnenden.de/

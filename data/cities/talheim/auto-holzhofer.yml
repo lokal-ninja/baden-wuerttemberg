@@ -1,11 +1,11 @@
 id: 99401698
-type: way
+type: node
 latitude: 49.08534
 longitude: 9.18805
 postcode: "74388"
 city: Talheim
-street: "Sturmfederstraße"
-housenumber: 13
+street: Sturmfederstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

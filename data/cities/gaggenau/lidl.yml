@@ -1,11 +1,11 @@
 id: 232675655
-type: way
+type: node
 latitude: 48.7988
 longitude: 8.31704
 postcode: "76571"
 city: Gaggenau
-street: "Berliner Straße"
-housenumber: 2
+street: Berliner Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

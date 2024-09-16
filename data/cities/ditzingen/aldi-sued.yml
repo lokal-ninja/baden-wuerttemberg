@@ -1,11 +1,11 @@
 id: 23847416
-type: way
+type: node
 latitude: 48.82155
 longitude: 9.08294
 postcode: "71254"
 city: Ditzingen
-street: "Porschestraße"
-housenumber: 2
+street: Porschestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

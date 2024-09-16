@@ -1,11 +1,11 @@
 id: 438626159
-type: way
+type: node
 latitude: 48.2561
 longitude: 9.01578
 postcode: "72461"
 city: Albstadt
-street: "Adlerstraße"
-housenumber: 30
+street: Adlerstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.backhausmahl.de/"
+website: https://www.backhausmahl.de/

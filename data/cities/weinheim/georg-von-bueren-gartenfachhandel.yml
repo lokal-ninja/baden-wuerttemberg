@@ -1,11 +1,11 @@
 id: 181139103
-type: way
+type: node
 latitude: 49.5474
 longitude: 8.65144
 postcode: "69469"
 city: Weinheim
-street: "Stahlbadstraße"
-housenumber: 96
-phone: "+49 6201 12691"
-opening_hours: "Mo-Sa 08:00-12:00"
+street: Stahlbadstraße
+housenumber: "96"
+phone: +49 6201 12691
+opening_hours: Mo-Sa 08:00-12:00
 website: ""

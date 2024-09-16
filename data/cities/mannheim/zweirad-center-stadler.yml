@@ -1,11 +1,11 @@
 id: 161276948
-type: way
+type: node
 latitude: 49.44874
 longitude: 8.50097
 postcode: "68199"
 city: Mannheim
-street: "Casterfeldstraße"
+street: Casterfeldstraße
 housenumber: 40, 42, 44
-phone: "+49 621 8755390"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://zweirad-stadler.de/"
+phone: +49 621 8755390
+opening_hours: Mo-Sa 10:00-19:00
+website: https://zweirad-stadler.de/

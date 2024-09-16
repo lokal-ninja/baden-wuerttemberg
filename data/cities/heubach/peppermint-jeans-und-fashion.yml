@@ -1,11 +1,11 @@
 id: 230560186
-type: way
+type: node
 latitude: 48.78932
 longitude: 9.93455
 postcode: "73540"
 city: Heubach
-street: "Hauptstraße"
-housenumber: 34
+street: Hauptstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

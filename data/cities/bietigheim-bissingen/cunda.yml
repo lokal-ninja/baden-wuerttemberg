@@ -4,8 +4,8 @@ latitude: 48.95991
 longitude: 9.1304
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Kronenbergstraße"
-housenumber: 
+street: Kronenbergstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "http://www.cunda.de"
+opening_hours: Mo-Sa 09:30-19:00
+website: http://www.cunda.de

@@ -4,8 +4,8 @@ latitude: 48.74688
 longitude: 9.17112
 postcode: "70597"
 city: Stuttgart
-street: "Mittlere Straße"
-housenumber: 3
+street: Mittlere Straße
+housenumber: "3"
 phone: ""
-opening_hours: "We 11:00-18:30; Th-Fr 14:30-18:30; Sa 09:30-13:00"
-website: "http://www.lamaison-stuttgart.de/"
+opening_hours: We 11:00-18:30; Th-Fr 14:30-18:30; Sa 09:30-13:00
+website: http://www.lamaison-stuttgart.de/

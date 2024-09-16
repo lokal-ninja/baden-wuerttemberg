@@ -4,8 +4,8 @@ latitude: 47.65448
 longitude: 9.47276
 postcode: "88045"
 city: Friedrichshafen
-street: "Eugenstraße"
-housenumber: 55
+street: Eugenstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Fr-Sa 10:00-13:00, Fr 14:00-18:00"
-website: "https://naehzeit.jetzt"
+opening_hours: Fr-Sa 10:00-13:00, Fr 14:00-18:00
+website: https://naehzeit.jetzt

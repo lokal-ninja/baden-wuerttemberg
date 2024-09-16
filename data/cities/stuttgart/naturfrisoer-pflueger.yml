@@ -1,11 +1,11 @@
 id: 43043165
-type: way
+type: node
 latitude: 48.72982
 longitude: 9.14835
 postcode: "70567"
 city: Stuttgart
-street: "Holdermannstraße"
-housenumber: 30
+street: Holdermannstraße
+housenumber: "30"
 phone: ""
-opening_hours: "by_appointment"
+opening_hours: '"by_appointment"'
 website: ""

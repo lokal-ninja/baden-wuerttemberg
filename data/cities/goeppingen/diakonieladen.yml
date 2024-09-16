@@ -4,8 +4,8 @@ latitude: 48.70428
 longitude: 9.65072
 postcode: "73033"
 city: Göppingen
-street: "Hauptstraße"
-housenumber: 31
-phone: "+49 7161 96367 56"
-opening_hours: "Mo-Tu, Th-Fr 09:00-12:00, 14:00-17:00; We 09:00-12:00"
-website: "https://www.diakonie-goeppingen.de/diakonie-laeden/diakonie-laden-goeppingen/"
+street: Hauptstraße
+housenumber: "31"
+phone: +49 7161 96367 56
+opening_hours: Mo-Tu, Th-Fr 09:00-12:00, 14:00-17:00; We 09:00-12:00
+website: https://www.diakonie-goeppingen.de/diakonie-laeden/diakonie-laden-goeppingen/

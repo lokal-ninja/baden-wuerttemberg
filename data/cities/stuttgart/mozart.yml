@@ -1,11 +1,11 @@
 id: 41925412
-type: way
+type: node
 latitude: 48.76773
 longitude: 9.1768
 postcode: "70180"
 city: Stuttgart
-street: "Mozartstraße"
-housenumber: 33
+street: Mozartstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

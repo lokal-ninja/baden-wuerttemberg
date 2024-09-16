@@ -4,8 +4,9 @@ latitude: 48.76444
 longitude: 9.8204
 postcode: "73550"
 city: Waldstetten
-street: "Hauptstraße"
-housenumber: 19
-phone: "+49 7171 9038538"
-opening_hours: "Mo 10:00-17:00, Tu-We 09:00-18:30, Th 08:00-16:00, Fr 08:00-18:30, Sa 08:00-13:00; PH off"
+street: Hauptstraße
+housenumber: "19"
+phone: +49 7171 9038538
+opening_hours: Mo 10:00-17:00, Tu-We 09:00-18:30, Th 08:00-16:00, Fr 08:00-18:30,
+    Sa 08:00-13:00; PH off
 website: ""

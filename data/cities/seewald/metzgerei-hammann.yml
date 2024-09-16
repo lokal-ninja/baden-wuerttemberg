@@ -1,11 +1,11 @@
 id: 90649820
-type: way
+type: node
 latitude: 48.57823
 longitude: 8.46693
 postcode: "72297"
 city: Seewald
-street: "Altensteiger Straße"
-housenumber: 52
+street: Altensteiger Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 24621247
-type: way
+type: node
 latitude: 48.73968
 longitude: 9.30088
 postcode: "73728"
 city: Esslingen am Neckar
-street: "Berliner Straße"
-housenumber: 2
+street: Berliner Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00, Sa 09:00-20:00"
-website: "https://das-es.de/home"
+opening_hours: Mo-Fr 09:30-20:00, Sa 09:00-20:00
+website: https://das-es.de/home

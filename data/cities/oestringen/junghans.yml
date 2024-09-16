@@ -1,11 +1,11 @@
 id: 201356903
-type: way
+type: node
 latitude: 49.21882
 longitude: 8.70711
 postcode: "76684"
 city: Östringen
-street: "Hebelstraße"
-housenumber: 4
+street: Hebelstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

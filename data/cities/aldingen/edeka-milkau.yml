@@ -1,11 +1,11 @@
 id: 35954384
-type: way
+type: node
 latitude: 48.09162
 longitude: 8.68432
 postcode: "78554"
 city: Aldingen
-street: "Zotterangen"
-housenumber: 4
+street: Zotterangen
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

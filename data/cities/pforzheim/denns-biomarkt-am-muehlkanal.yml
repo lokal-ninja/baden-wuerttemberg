@@ -1,11 +1,11 @@
 id: 141826115
-type: way
+type: node
 latitude: 48.88658
 longitude: 8.66949
 postcode: "75172"
 city: Pforzheim
-street: "Am Mühlkanal"
-housenumber: 1
-phone: "+49 7231 4195670"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denns-biomarkt.de/"
+street: Am Mühlkanal
+housenumber: "1"
+phone: +49 7231 4195670
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.denns-biomarkt.de/

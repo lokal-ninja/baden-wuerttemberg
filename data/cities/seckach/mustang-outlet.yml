@@ -1,11 +1,11 @@
 id: 93573503
-type: way
+type: node
 latitude: 49.44018
 longitude: 9.33662
 postcode: "74743"
 city: Seckach
-street: "Waidachshofer Straße"
-housenumber: 25
+street: Waidachshofer Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

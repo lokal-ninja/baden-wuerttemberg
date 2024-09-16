@@ -1,11 +1,11 @@
 id: 244284943
-type: way
+type: node
 latitude: 48.93388
 longitude: 9.99159
 postcode: "73453"
 city: Abtsgmünd
-street: "Alte Schulstraße"
-housenumber: 18
+street: Alte Schulstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

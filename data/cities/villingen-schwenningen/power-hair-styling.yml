@@ -4,8 +4,8 @@ latitude: 48.06534
 longitude: 8.4611
 postcode: "78048"
 city: Villingen-Schwenningen
-street: "Mönchweilerstraße"
-housenumber: 22
+street: Mönchweilerstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30;Sa 09:00-14:00"
-website: "https://www.powerhairstyling.de/"
+opening_hours: Mo-Fr 09:00-18:30;Sa 09:00-14:00
+website: https://www.powerhairstyling.de/

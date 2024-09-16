@@ -1,11 +1,11 @@
 id: 367617439
-type: way
+type: node
 latitude: 48.59148
 longitude: 9.23505
 postcode: "72654"
 city: Neckartenzlingen
-street: "Inselstraße"
-housenumber: 10
+street: Inselstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

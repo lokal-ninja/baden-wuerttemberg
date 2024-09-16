@@ -1,11 +1,11 @@
 id: 81304829
-type: way
+type: node
 latitude: 48.87321
 longitude: 9.38584
 postcode: "71364"
 city: Winnenden
-street: "Daimlerstraße"
-housenumber: 1
-phone: "+49 7195 580750"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.fressnapf.de/maerkte/fressnapf-winnenden"
+street: Daimlerstraße
+housenumber: "1"
+phone: +49 7195 580750
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.fressnapf.de/maerkte/fressnapf-winnenden

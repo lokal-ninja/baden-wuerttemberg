@@ -4,8 +4,8 @@ latitude: 47.59846
 longitude: 7.5954
 postcode: "79576"
 city: Weil am Rhein
-street: "Schiffstraße"
-housenumber: 43
+street: Schiffstraße
+housenumber: "43"
 phone: "+49761459900"
-opening_hours: "24/7"
-website: "https://www.zapf.de/lagerung/selfstorage/18-weil-am-rhein"
+opening_hours: 24/7
+website: https://www.zapf.de/lagerung/selfstorage/18-weil-am-rhein

@@ -1,11 +1,11 @@
 id: 154511741
-type: way
+type: node
 latitude: 47.61646
 longitude: 7.6132
 postcode: "79576"
 city: Weil am Rhein
-street: "Freiburger Straße"
-housenumber: 95
+street: Freiburger Straße
+housenumber: "95"
 phone: "+4976219353546"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-14:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 43733688
-type: way
+type: node
 latitude: 48.78539
 longitude: 9.19318
 postcode: "70190"
 city: Stuttgart
-street: "Landhausstraße"
-housenumber: 45
+street: Landhausstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Tu-Fr 08:00-19:00; Sa 08:00-13:00"
+opening_hours: Tu-Fr 08:00-19:00; Sa 08:00-13:00
 website: ""

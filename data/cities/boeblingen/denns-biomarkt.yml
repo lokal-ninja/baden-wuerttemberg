@@ -1,11 +1,11 @@
 id: 1201656220
-type: way
+type: node
 latitude: 48.672
 longitude: 9.01441
 postcode: "71032"
 city: Böblingen
-street: "Röhrer Weg"
-housenumber: 15
+street: Röhrer Weg
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

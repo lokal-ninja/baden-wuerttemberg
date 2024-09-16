@@ -1,11 +1,11 @@
 id: 663533471
-type: way
+type: node
 latitude: 48.48918
 longitude: 9.68643
 postcode: ""
 city: Laichingen
-street: "Marktplatz"
-housenumber: 14
+street: Marktplatz
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

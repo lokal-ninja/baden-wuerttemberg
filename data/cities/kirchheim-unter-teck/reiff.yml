@@ -1,11 +1,11 @@
 id: 291407695
-type: way
+type: node
 latitude: 48.63936
 longitude: 9.47136
 postcode: "73230"
 city: Kirchheim unter Teck
-street: "Heinkelstraße"
-housenumber: 6
+street: Heinkelstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

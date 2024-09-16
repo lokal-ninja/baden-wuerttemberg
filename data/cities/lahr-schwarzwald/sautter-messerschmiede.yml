@@ -4,8 +4,8 @@ latitude: 48.34129
 longitude: 7.87286
 postcode: "77933"
 city: Lahr/Schwarzwald
-street: "Marktstraße"
-housenumber: 13
-phone: "+49 7821 22670"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:30-16:00; Su,PH off"
-website: "https://sautter-lahr.de/"
+street: Marktstraße
+housenumber: "13"
+phone: +49 7821 22670
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:30; Sa 09:30-16:00; Su,PH off
+website: https://sautter-lahr.de/

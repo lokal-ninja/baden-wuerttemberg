@@ -1,11 +1,11 @@
 id: 186609101
-type: way
+type: node
 latitude: 48.38331
 longitude: 8.14434
 postcode: "77784"
 city: Oberharmersbach
-street: "Riersbach"
-housenumber: 2
+street: Riersbach
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

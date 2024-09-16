@@ -1,11 +1,11 @@
 id: 353062910
-type: way
+type: node
 latitude: 48.99412
 longitude: 8.39707
 postcode: "76137"
 city: Karlsruhe
-street: "Ebertstraße"
-housenumber: 7
+street: Ebertstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-16:00
 website: ""

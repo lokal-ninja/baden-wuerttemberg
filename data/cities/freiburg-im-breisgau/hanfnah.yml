@@ -4,8 +4,8 @@ latitude: 47.9885
 longitude: 7.86214
 postcode: "79102"
 city: Freiburg im Breisgau
-street: "Schützenallee"
-housenumber: 3
-phone: "+49 761 59 51 36 96"
-opening_hours: "MO - FR: 11.00 - 18.30 DO: 11.00 - 20.00 SA: 10:00 - 15.30"
-website: "https://www.hanfnah.de/"
+street: Schützenallee
+housenumber: "3"
+phone: +49 761 59 51 36 96
+opening_hours: 'MO - FR: 11.00 - 18.30 DO: 11.00 - 20.00 SA: 10:00 - 15.30'
+website: https://www.hanfnah.de/

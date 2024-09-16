@@ -1,11 +1,11 @@
 id: 30055681
-type: way
+type: node
 latitude: 48.60189
 longitude: 8.86981
 postcode: "71083"
 city: Herrenberg
-street: "Daimlerstraße"
-housenumber: 16
+street: Daimlerstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://gack-wohnen.de/"
+website: https://gack-wohnen.de/

@@ -1,11 +1,11 @@
 id: 189657086
-type: way
+type: node
 latitude: 48.84202
 longitude: 9.70682
 postcode: "73553"
 city: Alfdorf
-street: "Hauptstraße"
-housenumber: 122
+street: Hauptstraße
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

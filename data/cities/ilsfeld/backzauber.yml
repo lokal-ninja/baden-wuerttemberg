@@ -1,11 +1,11 @@
 id: 88697499
-type: way
+type: node
 latitude: 49.05792
 longitude: 9.28548
 postcode: "74360"
 city: Ilsfeld
-street: "Ludwig-Thoma-Straße"
-housenumber: 8
+street: Ludwig-Thoma-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

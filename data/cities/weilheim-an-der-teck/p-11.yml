@@ -4,8 +4,8 @@ latitude: 48.61666
 longitude: 9.53369
 postcode: "73235"
 city: Weilheim an der Teck
-street: "Untere Rainstraße"
-housenumber: 11
+street: Untere Rainstraße
+housenumber: "11"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

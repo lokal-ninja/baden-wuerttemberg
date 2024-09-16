@@ -1,11 +1,11 @@
 id: 315525699
-type: way
+type: node
 latitude: 48.35895
 longitude: 8.96708
 postcode: "72379"
 city: Hechingen
-street: "Ermelesstraße"
-housenumber: 20
+street: Ermelesstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.90097
 longitude: 8.66282
 postcode: "75179"
 city: Pforzheim
-street: "Karlsruher Straße"
-housenumber: 57
+street: Karlsruher Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.saturn.de/de/store/pforzheim-22"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.saturn.de/de/store/pforzheim-22

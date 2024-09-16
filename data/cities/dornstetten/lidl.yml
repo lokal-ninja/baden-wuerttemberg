@@ -1,11 +1,11 @@
 id: 317702366
-type: way
+type: node
 latitude: 48.47347
 longitude: 8.48883
 postcode: "72280"
 city: Dornstetten
-street: "Hochgerichtstraße"
-housenumber: 10
+street: Hochgerichtstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/dornstetten/hochgerichtstr-10.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/dornstetten/hochgerichtstr-10.html

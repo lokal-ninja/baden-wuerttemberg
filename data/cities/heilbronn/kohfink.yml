@@ -1,11 +1,11 @@
 id: 67801377
-type: way
+type: node
 latitude: 49.15039
 longitude: 9.19755
 postcode: "74080"
 city: Heilbronn
-street: "Neckargartacher Straße"
-housenumber: 116
+street: Neckargartacher Straße
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 39120874
-type: way
+type: node
 latitude: 48.96093
 longitude: 8.2801
 postcode: "76287"
 city: Rheinstetten
-street: "Boschstraße"
-housenumber: 12
-phone: "+49 7242 93720"
-opening_hours: "Tu,Th,Fr 10:00-12:30, Tu-Fr 15:00-18:00, We,Sa 10:00-12:30"
-website: "http://www.fitterer.net/"
+street: Boschstraße
+housenumber: "12"
+phone: +49 7242 93720
+opening_hours: Tu,Th,Fr 10:00-12:30, Tu-Fr 15:00-18:00, We,Sa 10:00-12:30
+website: http://www.fitterer.net/

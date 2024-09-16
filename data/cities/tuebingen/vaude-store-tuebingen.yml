@@ -4,8 +4,8 @@ latitude: 48.52146
 longitude: 9.05675
 postcode: "72070"
 city: Tübingen
-street: "Neue Straße"
-housenumber: 13
+street: Neue Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

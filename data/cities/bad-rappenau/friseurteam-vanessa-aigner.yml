@@ -4,8 +4,8 @@ latitude: 49.23828
 longitude: 9.1036
 postcode: "74906"
 city: Bad Rappenau
-street: "Kirchenstraße"
-housenumber: 19
-phone: "+49 7264 7523"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00"
-website: "http://friseurteam-vkraemer.de/"
+street: Kirchenstraße
+housenumber: "19"
+phone: +49 7264 7523
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00
+website: http://friseurteam-vkraemer.de/

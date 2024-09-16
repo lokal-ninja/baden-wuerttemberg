@@ -4,8 +4,9 @@ latitude: 47.90919
 longitude: 9.89804
 postcode: "88410"
 city: Bad Wurzach
-street: "Marktstraße"
-housenumber: 31
-phone: "+49 7564 2788"
-opening_hours: "Mo-Tu 09:00-18:00; We 09:00-13:00; Th-Fr 09:00-18:00; Sa 09:00-12:00; Ph off"
-website: "http://www.kosmetikinstitut-roberta.de/"
+street: Marktstraße
+housenumber: "31"
+phone: +49 7564 2788
+opening_hours: Mo-Tu 09:00-18:00; We 09:00-13:00; Th-Fr 09:00-18:00; Sa 09:00-12:00;
+    Ph off
+website: http://www.kosmetikinstitut-roberta.de/

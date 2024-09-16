@@ -1,11 +1,11 @@
 id: 186110395
-type: way
+type: node
 latitude: 47.93334
 longitude: 9.24147
 postcode: "88630"
 city: Pfullendorf
-street: "Otterswanger Straße"
+street: Otterswanger Straße
 housenumber: 5/6
-phone: "+49 7552 9389877"
-opening_hours: "Mo-Sa 06:00-20:00; Su 06:45-18:00"
+phone: +49 7552 9389877
+opening_hours: Mo-Sa 06:00-20:00; Su 06:45-18:00
 website: ""

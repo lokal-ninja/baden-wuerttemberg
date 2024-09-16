@@ -4,8 +4,8 @@ latitude: 47.671
 longitude: 9.17079
 postcode: "78467"
 city: Konstanz
-street: "Reichenaustraße"
-housenumber: 7
+street: Reichenaustraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:45-13:00,13:45-20:00"
-website: "http://www.salt-z.com"
+opening_hours: Mo-Sa 09:45-13:00,13:45-20:00
+website: http://www.salt-z.com

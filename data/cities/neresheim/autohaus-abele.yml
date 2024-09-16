@@ -1,11 +1,11 @@
 id: 112881975
-type: way
+type: node
 latitude: 48.75459
 longitude: 10.33643
 postcode: "73450"
 city: Neresheim
-street: "Nördlinger Straße"
-housenumber: 18
+street: Nördlinger Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

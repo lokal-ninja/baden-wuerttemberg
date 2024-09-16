@@ -1,11 +1,11 @@
 id: 110522036
-type: way
+type: node
 latitude: 47.68089
 longitude: 9.82398
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Spinnereistraße"
-housenumber: 10
+street: Spinnereistraße
+housenumber: "10"
 phone: ""
-opening_hours: ""
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/wangen/spinnereistrasse-10"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/wangen/spinnereistrasse-10

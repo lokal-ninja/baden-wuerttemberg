@@ -4,8 +4,8 @@ latitude: 48.79947
 longitude: 9.06213
 postcode: "70839"
 city: Gerlingen
-street: "Hauptstraße"
-housenumber: 21
+street: Hauptstraße
+housenumber: "21"
 phone: "+49715694460"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:00-13:00"
-website: "https://www.stirnersinn.de"
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:00-13:00
+website: https://www.stirnersinn.de

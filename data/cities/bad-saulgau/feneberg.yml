@@ -1,11 +1,11 @@
 id: 484982911
-type: way
+type: node
 latitude: 48.01295
 longitude: 9.50022
 postcode: "88348"
 city: Bad Saulgau
-street: "Paradiesstraße"
-housenumber: 31
+street: Paradiesstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

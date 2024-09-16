@@ -4,8 +4,8 @@ latitude: 48.99835
 longitude: 8.3469
 postcode: "76189"
 city: Karlsruhe
-street: "Rudolf-Freytag-Straße"
-housenumber: 1
+street: Rudolf-Freytag-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:30-12:30,14:30-17:30; We,Fr 09:30-12:30"
+opening_hours: Mo,Tu,Th 09:30-12:30,14:30-17:30; We,Fr 09:30-12:30
 website: ""

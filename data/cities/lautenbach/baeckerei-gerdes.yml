@@ -4,8 +4,8 @@ latitude: 48.52052
 longitude: 8.11523
 postcode: "77794"
 city: Lautenbach
-street: "Hauptstraße"
-housenumber: 52
-phone: "+49 7802 7011464"
-opening_hours: "Mo-Sa 06:30-11:45"
-website: "https://baeckerei-gerdes.de/"
+street: Hauptstraße
+housenumber: "52"
+phone: +49 7802 7011464
+opening_hours: Mo-Sa 06:30-11:45
+website: https://baeckerei-gerdes.de/

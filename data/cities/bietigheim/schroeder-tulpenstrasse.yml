@@ -1,11 +1,11 @@
 id: 37593026
-type: way
+type: node
 latitude: 48.90878
 longitude: 8.24913
 postcode: "76467"
 city: Bietigheim
-street: "Tulpenstraße"
-housenumber: 10
+street: Tulpenstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:00; Sa 06:00-12:00; Su off"
+opening_hours: Mo-Fr 06:00-12:00; Sa 06:00-12:00; Su off
 website: ""

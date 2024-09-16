@@ -1,11 +1,11 @@
 id: 240159417
-type: way
+type: node
 latitude: 47.75164
 longitude: 8.88262
 postcode: "78224"
 city: Singen (Hohentwiel)
-street: "Marie-Curie-Straße"
-housenumber: 2
+street: Marie-Curie-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

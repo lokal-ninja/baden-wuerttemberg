@@ -4,8 +4,8 @@ latitude: 48.90167
 longitude: 8.57805
 postcode: "75210"
 city: Keltern
-street: "Lindenstraße"
-housenumber: 5
-phone: "+49 7236 98 03 66"
-opening_hours: "Mo-Sa 09:00-13:00; Th,Fr 09:00-13:00,15:00-18:00"
+street: Lindenstraße
+housenumber: "5"
+phone: +49 7236 98 03 66
+opening_hours: Mo-Sa 09:00-13:00; Th,Fr 09:00-13:00,15:00-18:00
 website: ""

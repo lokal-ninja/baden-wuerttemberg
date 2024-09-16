@@ -4,8 +4,9 @@ latitude: 48.54332
 longitude: 9.91848
 postcode: "89173"
 city: Lonsee
-street: "Hauptstraße"
-housenumber: 31
+street: Hauptstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo,Su,PH off; Tu,We 08:15-13:30; Th,Fr 08:15-13:30,14:30-18:00; Sa 07:30-12:30"
+opening_hours: Mo,Su,PH off; Tu,We 08:15-13:30; Th,Fr 08:15-13:30,14:30-18:00; Sa
+    07:30-12:30
 website: ""

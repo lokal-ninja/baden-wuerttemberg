@@ -1,11 +1,11 @@
 id: 327135533
-type: way
+type: node
 latitude: 49.4769
 longitude: 9.31435
 postcode: "74722"
 city: Buchen (Odenwald)
-street: "Hauptstraße"
-housenumber: 32
-phone: "+49 6292 359"
+street: Hauptstraße
+housenumber: "32"
+phone: +49 6292 359
 opening_hours: ""
-website: "http://www.schlosserei-nohe.de/"
+website: http://www.schlosserei-nohe.de/

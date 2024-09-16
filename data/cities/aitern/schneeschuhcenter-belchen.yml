@@ -4,8 +4,8 @@ latitude: 47.82171
 longitude: 7.85057
 postcode: "79677"
 city: Aitern
-street: "Belchen"
-housenumber: 1
-phone: "+49 761 88793110"
-opening_hours: "Nov-Mar: Mo-Su 09:00-17:00"
-website: "https://www.original-landreisen.de/"
+street: Belchen
+housenumber: "1"
+phone: +49 761 88793110
+opening_hours: 'Nov-Mar: Mo-Su 09:00-17:00'
+website: https://www.original-landreisen.de/

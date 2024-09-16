@@ -4,8 +4,8 @@ latitude: 48.59567
 longitude: 8.06879
 postcode: "77855"
 city: Achern
-street: "Waldulmer Straße"
-housenumber: 32
-phone: "+49 7841 270 530"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00"
-website: "https://www.autoservice-haberle.de/"
+street: Waldulmer Straße
+housenumber: "32"
+phone: +49 7841 270 530
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00
+website: https://www.autoservice-haberle.de/

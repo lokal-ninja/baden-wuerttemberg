@@ -1,11 +1,11 @@
 id: 104762653
-type: way
+type: node
 latitude: 48.47204
 longitude: 9.19772
 postcode: "72762"
 city: Reutlingen
-street: "Gaisbühl Hofgut"
-housenumber: 12
+street: Gaisbühl Hofgut
+housenumber: "12"
 phone: ""
-opening_hours: "Tu,Fr 13:30-17:30"
+opening_hours: Tu,Fr 13:30-17:30
 website: ""

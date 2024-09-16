@@ -1,11 +1,11 @@
 id: 289362620
-type: way
+type: node
 latitude: 48.58881
 longitude: 9.80752
 postcode: "73312"
 city: Geislingen an der Steige
-street: "Geislinger Straße"
-housenumber: 70
+street: Geislinger Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su,PH off
 website: ""

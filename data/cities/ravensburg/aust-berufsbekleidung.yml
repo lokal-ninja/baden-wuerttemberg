@@ -4,8 +4,9 @@ latitude: 47.78728
 longitude: 9.60842
 postcode: "88212"
 city: Ravensburg
-street: "Am Alten Gaswerk"
-housenumber: 7
-phone: "+49 751 370694-0"
-opening_hours: "Mo-We 09:00-12:30,14:00-18:00; Th 09:00-12:30,14:00-19:00; Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.aust-berufsbekleidung.de/"
+street: Am Alten Gaswerk
+housenumber: "7"
+phone: +49 751 370694-0
+opening_hours: Mo-We 09:00-12:30,14:00-18:00; Th 09:00-12:30,14:00-19:00; Fr 09:00-18:00;
+    Sa 09:00-13:00
+website: https://www.aust-berufsbekleidung.de/

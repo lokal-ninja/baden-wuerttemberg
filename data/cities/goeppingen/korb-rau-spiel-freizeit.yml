@@ -4,8 +4,8 @@ latitude: 48.70282
 longitude: 9.65473
 postcode: "73033"
 city: Göppingen
-street: "Poststraße"
-housenumber: 50
+street: Poststraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 08:45-18:30; Sa 08:45-17:00"
-website: "https://www.korb-rau.vedes.de/"
+opening_hours: Mo-Fr 08:45-18:30; Sa 08:45-17:00
+website: https://www.korb-rau.vedes.de/

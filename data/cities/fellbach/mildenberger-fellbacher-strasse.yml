@@ -4,8 +4,8 @@ latitude: 48.83332
 longitude: 9.26315
 postcode: "70736"
 city: Fellbach
-street: "Fellbacher Straße"
-housenumber: 12
-phone: "+49 711 5108923"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:00-16:00; Su 07:30-17:00"
-website: "https://www.backhaus-mildenberger.de"
+street: Fellbacher Straße
+housenumber: "12"
+phone: +49 711 5108923
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:00-16:00; Su 07:30-17:00
+website: https://www.backhaus-mildenberger.de

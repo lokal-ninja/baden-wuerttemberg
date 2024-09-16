@@ -1,11 +1,11 @@
 id: 499015290
-type: way
+type: node
 latitude: 49.52791
 longitude: 9.74618
 postcode: "97922"
 city: Lauda-Königshofen
-street: "Bürgermeister-Kolb-Straße"
-housenumber: 19
+street: Bürgermeister-Kolb-Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://unterbalbach.de/gewerbe/metzgerei/"
+website: https://unterbalbach.de/gewerbe/metzgerei/

@@ -4,8 +4,8 @@ latitude: 48.16762
 longitude: 8.68933
 postcode: "78628"
 city: Rottweil
-street: "Habsburgerstraße"
-housenumber: 9
+street: Habsburgerstraße
+housenumber: "9"
 phone: "+4974157383"
-opening_hours: "Mo, Tu, Su off; We-Fr 17:00-20:00; Sa 10:00-16:00"
-website: "http://www.mopedecke.de"
+opening_hours: Mo, Tu, Su off; We-Fr 17:00-20:00; Sa 10:00-16:00
+website: http://www.mopedecke.de

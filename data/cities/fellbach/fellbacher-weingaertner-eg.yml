@@ -4,8 +4,8 @@ latitude: 48.80226
 longitude: 9.28056
 postcode: "70734"
 city: Fellbach
-street: "Kappelbergstraße"
-housenumber: 48
+street: Kappelbergstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:30"
-website: "https://www.fellbacher-weine.de/"
+opening_hours: Mo-Sa 09:00-18:30
+website: https://www.fellbacher-weine.de/

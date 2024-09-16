@@ -1,11 +1,11 @@
 id: 435273577
-type: way
+type: node
 latitude: 49.05854
 longitude: 9.26139
 postcode: "74360"
 city: Ilsfeld
-street: "Robert-Mayer-Straße"
-housenumber: 19
+street: Robert-Mayer-Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

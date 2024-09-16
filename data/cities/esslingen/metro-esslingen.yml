@@ -1,11 +1,11 @@
 id: 207287618
-type: way
+type: node
 latitude: 48.71738
 longitude: 9.34274
 postcode: "73730"
 city: Esslingen
-street: "Dornierstraße"
-housenumber: 9
-phone: "+49 711 93140"
+street: Dornierstraße
+housenumber: "9"
+phone: +49 711 93140
 opening_hours: ""
-website: "https://www.metro24.de/pages/DE/Standorte/067_METROEsslingen"
+website: https://www.metro24.de/pages/DE/Standorte/067_METROEsslingen

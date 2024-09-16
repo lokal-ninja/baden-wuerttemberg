@@ -1,11 +1,11 @@
 id: 413430239
-type: way
+type: node
 latitude: 48.96315
 longitude: 8.3075
 postcode: "76287"
 city: Rheinstetten
-street: "Gewerbering"
-housenumber: 35
+street: Gewerbering
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

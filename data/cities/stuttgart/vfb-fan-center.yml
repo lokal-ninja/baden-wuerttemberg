@@ -1,11 +1,11 @@
 id: 438908089
-type: way
+type: node
 latitude: 48.79243
 longitude: 9.22945
 postcode: "70372"
 city: Stuttgart
-street: "Mercedesstraße"
+street: Mercedesstraße
 housenumber: 73a
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-15:00; Dec 24,Dec 31, PH off"
-website: "https://shop.vfb.de/fanshops"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-15:00; Dec 24,Dec 31, PH off
+website: https://shop.vfb.de/fanshops

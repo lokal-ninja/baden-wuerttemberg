@@ -5,7 +5,7 @@ longitude: 8.47118
 postcode: "68161"
 city: Mannheim
 street: ""
-housenumber: 25
-phone: "+49 621 71898943"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.brotundsalz-ma.de/"
+housenumber: "25"
+phone: +49 621 71898943
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.brotundsalz-ma.de/

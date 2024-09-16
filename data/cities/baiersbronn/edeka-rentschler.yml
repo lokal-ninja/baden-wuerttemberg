@@ -1,11 +1,11 @@
 id: 251793309
-type: way
+type: node
 latitude: 48.51746
 longitude: 8.38207
 postcode: "72270"
 city: Baiersbronn
-street: "Tonbachstraße"
-housenumber: 30
+street: Tonbachstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka-rentschler.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka-rentschler.de

@@ -1,11 +1,11 @@
 id: 89751274
-type: way
+type: node
 latitude: 49.00145
 longitude: 8.47566
 postcode: "76227"
 city: Karlsruhe
-street: "Pfinzstraße"
-housenumber: 40
+street: Pfinzstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00; Sa 08:30-16:00"
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:00; Sa 08:30-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 96724060
-type: way
+type: node
 latitude: 49.14787
 longitude: 9.13541
 postcode: "74211"
 city: Leingarten
-street: "Liebigstraße"
-housenumber: 37
-phone: "+49 7131 40640"
+street: Liebigstraße
+housenumber: "37"
+phone: +49 7131 40640
 opening_hours: ""
-website: "https://www.decowoerner.com/"
+website: https://www.decowoerner.com/

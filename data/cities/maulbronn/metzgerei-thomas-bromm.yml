@@ -1,11 +1,11 @@
 id: 380284754
-type: way
+type: node
 latitude: 49.00022
 longitude: 8.81632
 postcode: "75433"
 city: Maulbronn
-street: "Stuttgarter Straße"
-housenumber: 54
+street: Stuttgarter Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

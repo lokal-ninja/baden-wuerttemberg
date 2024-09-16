@@ -1,11 +1,11 @@
 id: 330811673
-type: way
+type: node
 latitude: 49.28086
 longitude: 8.47348
 postcode: "68794"
 city: Oberhausen-Rheinhausen
-street: "Hauptstraße"
-housenumber: 15
-phone: "+49 7254 4040146"
-opening_hours: "Mo-Th 10:00-13:00; Fr,Sa,Su,PH off"
-website: "https://www.kirschbaeumchen.de"
+street: Hauptstraße
+housenumber: "15"
+phone: +49 7254 4040146
+opening_hours: Mo-Th 10:00-13:00; Fr,Sa,Su,PH off
+website: https://www.kirschbaeumchen.de

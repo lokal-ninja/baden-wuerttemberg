@@ -1,11 +1,11 @@
 id: 428746921
-type: way
-latitude: 47.99753
-longitude: 9.11693
+type: node
+latitude: 47.99759
+longitude: 9.11703
 postcode: "88605"
 city: Meßkirch
-street: "Bahnhofstraße"
-housenumber: 25
+street: Bahnhofstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

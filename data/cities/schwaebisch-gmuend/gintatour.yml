@@ -1,11 +1,11 @@
 id: 202710063
-type: way
+type: node
 latitude: 48.80031
 longitude: 9.79446
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Türlensteg"
-housenumber: 18
+street: Türlensteg
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "http://www.gintatour.de/"
+website: http://www.gintatour.de/

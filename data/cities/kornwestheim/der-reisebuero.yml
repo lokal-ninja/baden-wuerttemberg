@@ -4,8 +4,8 @@ latitude: 48.8646
 longitude: 9.18248
 postcode: "70806"
 city: Kornwestheim
-street: "Bahnhofstraße"
-housenumber: 26
-phone: "+49 7154 80000"
-opening_hours: "Mo - Fr 9:30 -18:00, Sa 9:30 -13:00"
-website: "https://www.der.com/reisebuero/Kornwestheim-Bahnhofstrasse-26"
+street: Bahnhofstraße
+housenumber: "26"
+phone: +49 7154 80000
+opening_hours: Mo - Fr 9:30 -18:00, Sa 9:30 -13:00
+website: https://www.der.com/reisebuero/Kornwestheim-Bahnhofstrasse-26

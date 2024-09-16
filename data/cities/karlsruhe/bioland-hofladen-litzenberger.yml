@@ -4,8 +4,8 @@ latitude: 49.03941
 longitude: 8.33449
 postcode: "76187"
 city: Karlsruhe
-street: "Jakob-Dörr-Straße"
-housenumber: 17
-phone: "+49 721 561591"
-opening_hours: "Th 17:00-18:30; Sa 10:00-12:00"
-website: "http://www.biokaufladen.de/"
+street: Jakob-Dörr-Straße
+housenumber: "17"
+phone: +49 721 561591
+opening_hours: Th 17:00-18:30; Sa 10:00-12:00
+website: http://www.biokaufladen.de/

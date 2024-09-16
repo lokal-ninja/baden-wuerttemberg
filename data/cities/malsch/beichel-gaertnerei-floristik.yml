@@ -1,11 +1,11 @@
 id: 287709480
-type: way
+type: node
 latitude: 49.24322
 longitude: 8.67332
 postcode: "69254"
 city: Malsch
-street: "Kolpingstraße"
-housenumber: 19
+street: Kolpingstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

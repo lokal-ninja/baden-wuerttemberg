@@ -1,11 +1,11 @@
 id: 362539264
-type: way
+type: node
 latitude: 48.23217
 longitude: 8.79278
 postcode: "72359"
 city: Dotternhausen
-street: "Robert-Koch-Straße"
-housenumber: 7
+street: Robert-Koch-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 136109348
-type: way
+type: node
 latitude: 47.93149
 longitude: 8.45168
 postcode: "78199"
 city: Bräunlingen
-street: "Hüfinger Straße"
-housenumber: 13
+street: Hüfinger Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.automeister-hofheinz.de/"
+website: https://www.automeister-hofheinz.de/

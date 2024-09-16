@@ -4,8 +4,8 @@ latitude: 48.08706
 longitude: 9.21719
 postcode: "72488"
 city: Sigmaringen
-street: "Schwabstraße"
-housenumber: 2
+street: Schwabstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://schuh-schweizer.de"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://schuh-schweizer.de

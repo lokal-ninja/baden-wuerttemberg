@@ -1,11 +1,11 @@
 id: 217313651
-type: way
+type: node
 latitude: 48.6304
 longitude: 8.0712
 postcode: "77855"
 city: Achern
-street: "Adlerplatz"
-housenumber: 12
-phone: "+49 7841 6039808"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.depot-online.com/"
+street: Adlerplatz
+housenumber: "12"
+phone: +49 7841 6039808
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.depot-online.com/

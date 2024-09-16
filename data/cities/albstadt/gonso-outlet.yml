@@ -1,11 +1,11 @@
 id: 126604375
-type: way
+type: node
 latitude: 48.27882
 longitude: 8.99952
 postcode: "72461"
 city: Albstadt
-street: "Hauptstraße"
-housenumber: 70
+street: Hauptstraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://gonso.de/de/gonso-outlet/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://gonso.de/de/gonso-outlet/

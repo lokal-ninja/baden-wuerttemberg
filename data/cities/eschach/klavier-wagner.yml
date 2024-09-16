@@ -1,11 +1,11 @@
 id: 212473551
-type: way
+type: node
 latitude: 48.88903
 longitude: 9.87188
 postcode: "73569"
 city: Eschach
-street: "Batschenhofer Straße"
-housenumber: 13
+street: Batschenhofer Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://klavier-wagner.de"
+website: https://klavier-wagner.de

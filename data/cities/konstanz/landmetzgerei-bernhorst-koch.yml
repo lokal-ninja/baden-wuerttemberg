@@ -1,11 +1,11 @@
 id: 30643439
-type: way
+type: node
 latitude: 47.68253
 longitude: 9.20304
 postcode: "78464"
 city: Konstanz
-street: "Mainaustraße"
-housenumber: 158
-phone: "+49 7531 9423031"
-opening_hours: "Tu-Sa 08:00-13:00; Th,Fr 08:00-13:00,14:00-18:00"
-website: "https://www.landmetzgerei-bernhorst-koch.de/"
+street: Mainaustraße
+housenumber: "158"
+phone: +49 7531 9423031
+opening_hours: Tu-Sa 08:00-13:00; Th,Fr 08:00-13:00,14:00-18:00
+website: https://www.landmetzgerei-bernhorst-koch.de/

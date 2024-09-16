@@ -1,11 +1,11 @@
 id: 201297218
-type: way
+type: node
 latitude: 48.62963
 longitude: 8.0698
 postcode: "77855"
 city: Achern
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-18:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-18:00
 website: ""

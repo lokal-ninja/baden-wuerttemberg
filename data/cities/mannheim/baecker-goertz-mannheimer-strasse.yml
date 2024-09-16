@@ -4,8 +4,8 @@ latitude: 49.50985
 longitude: 8.51525
 postcode: "68309"
 city: Mannheim
-street: "Mannheimer Straße"
-housenumber: 38
-phone: "+49 621 76444777"
-opening_hours: "Mo-Sa 06:00-19:00; Su 07:30-12:00"
-website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"
+street: Mannheimer Straße
+housenumber: "38"
+phone: +49 621 76444777
+opening_hours: Mo-Sa 06:00-19:00; Su 07:30-12:00
+website: https://www.baeckergoertz.de/#filialenstart/filialfinder

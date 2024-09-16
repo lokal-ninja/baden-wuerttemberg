@@ -1,11 +1,11 @@
 id: 143232451
-type: way
+type: node
 latitude: 48.27219
 longitude: 8.85081
 postcode: "72336"
 city: Balingen
-street: "Friedrichstraße"
-housenumber: 53
+street: Friedrichstraße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

@@ -5,7 +5,7 @@ longitude: 9.58389
 postcode: "88074"
 city: Meckenbeuren
 street: ""
-housenumber: 5
-phone: "+49 7542 4440"
+housenumber: "5"
+phone: +49 7542 4440
 opening_hours: ""
-website: "https://www.biohof-hund.de"
+website: https://www.biohof-hund.de

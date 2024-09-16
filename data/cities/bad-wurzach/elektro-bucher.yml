@@ -1,11 +1,11 @@
 id: 199497810
-type: way
+type: node
 latitude: 47.90797
 longitude: 9.89707
 postcode: "88410"
 city: Bad Wurzach
-street: "Bürgerstraße"
-housenumber: 16
+street: Bürgerstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, Mo,Tu,Th 14:00-18:00"
+opening_hours: Mo-Fr 09:00-12:00, Mo,Tu,Th 14:00-18:00
 website: ""

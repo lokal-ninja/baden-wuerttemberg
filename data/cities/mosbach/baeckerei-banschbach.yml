@@ -1,11 +1,11 @@
 id: 353591593
-type: way
+type: node
 latitude: 49.34081
 longitude: 9.11155
 postcode: "74821"
 city: Mosbach
-street: "Mosbacher Straße"
-housenumber: 52
+street: Mosbacher Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

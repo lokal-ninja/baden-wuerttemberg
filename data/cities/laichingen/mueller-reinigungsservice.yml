@@ -1,11 +1,12 @@
 id: 122049473
-type: way
+type: node
 latitude: 48.492
 longitude: 9.70113
 postcode: "89150"
 city: Laichingen
-street: "Geislinger Straße"
-housenumber: 50
-phone: "+49 7333 924287"
-opening_hours: "Mo 8:30-12:00, 16:00-18:00; WE 8:30-12:00,15:00-18:00; Tu,Th,Fr 8:30-12:00; Sa 10:00-12:00; PH off"
-website: "https://www.reinigungsservice-mueller.de/"
+street: Geislinger Straße
+housenumber: "50"
+phone: +49 7333 924287
+opening_hours: Mo 8:30-12:00, 16:00-18:00; WE 8:30-12:00,15:00-18:00; Tu,Th,Fr 8:30-12:00;
+    Sa 10:00-12:00; PH off
+website: https://www.reinigungsservice-mueller.de/

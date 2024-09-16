@@ -1,11 +1,11 @@
 id: 105942657
-type: way
+type: node
 latitude: 48.0436
 longitude: 7.76847
 postcode: "79224"
 city: Umkirch
-street: "Am Gansacker"
-housenumber: 38
+street: Am Gansacker
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

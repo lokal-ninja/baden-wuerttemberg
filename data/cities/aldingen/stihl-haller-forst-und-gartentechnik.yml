@@ -1,11 +1,11 @@
 id: 830370676
-type: way
+type: node
 latitude: 48.07842
 longitude: 8.68575
 postcode: "78554"
 city: Aldingen
-street: "Laubbühl"
-housenumber: 1
+street: Laubbühl
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

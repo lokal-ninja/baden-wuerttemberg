@@ -4,8 +4,8 @@ latitude: 47.67179
 longitude: 9.48046
 postcode: "88045"
 city: Friedrichshafen
-street: "Teuringer Straße"
-housenumber: 22
-phone: "+49 7541 53081"
-opening_hours: "08:00-12:00,15:00-18:30; Sa 08:00-12:00; Su,PH off"
-website: "https://www.bauer-baur.de/baursladen"
+street: Teuringer Straße
+housenumber: "22"
+phone: +49 7541 53081
+opening_hours: 08:00-12:00,15:00-18:30; Sa 08:00-12:00; Su,PH off
+website: https://www.bauer-baur.de/baursladen

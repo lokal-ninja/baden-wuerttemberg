@@ -1,11 +1,11 @@
 id: 119297285
-type: way
+type: node
 latitude: 47.67502
 longitude: 9.18254
 postcode: "78467"
 city: Konstanz
-street: "Wollmatinger Straße"
-housenumber: 6
-phone: "+49 7531 8161 0"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:30; Sa 09:00-13:00"
-website: "https://langenbach-konstanz.de"
+street: Wollmatinger Straße
+housenumber: "6"
+phone: +49 7531 8161 0
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:30; Sa 09:00-13:00
+website: https://langenbach-konstanz.de

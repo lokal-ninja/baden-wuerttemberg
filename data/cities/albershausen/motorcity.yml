@@ -1,11 +1,11 @@
 id: 135975976
-type: way
+type: node
 latitude: 48.69921
 longitude: 9.56982
 postcode: "73095"
 city: Albershausen
-street: "Staufenstraße"
-housenumber: 18
-phone: "+49 7161 93 95 95"
+street: Staufenstraße
+housenumber: "18"
+phone: +49 7161 93 95 95
 opening_hours: ""
-website: "http://www.motorcity.de"
+website: http://www.motorcity.de

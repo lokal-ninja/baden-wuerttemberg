@@ -1,11 +1,11 @@
 id: 497465822
-type: way
+type: node
 latitude: 48.068
 longitude: 8.7313
 postcode: "78549"
 city: Spaichingen
-street: "Gutenbergstraße"
-housenumber: 35
+street: Gutenbergstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

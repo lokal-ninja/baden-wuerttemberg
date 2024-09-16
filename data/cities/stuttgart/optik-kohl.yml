@@ -4,8 +4,8 @@ latitude: 48.80295
 longitude: 9.09053
 postcode: "70499"
 city: Stuttgart
-street: "Engelbergstraße"
-housenumber: 108
-phone: "+49 711 865621"
+street: Engelbergstraße
+housenumber: "108"
+phone: +49 711 865621
 opening_hours: ""
-website: "http://www.optik-kohl.de"
+website: http://www.optik-kohl.de

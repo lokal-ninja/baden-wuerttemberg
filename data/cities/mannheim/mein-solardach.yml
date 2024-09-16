@@ -4,8 +4,8 @@ latitude: 49.51879
 longitude: 8.55552
 postcode: "68309"
 city: Mannheim
-street: "Spreewaldallee"
+street: Spreewaldallee
 housenumber: 44-50
-phone: "+49 69 299145910"
-opening_hours: "Montag bis Freitag: 09.30 Uhr - 19.00 Uhr"
-website: "https://meinsolardach.de"
+phone: +49 69 299145910
+opening_hours: 'Montag bis Freitag: 09.30 Uhr - 19.00 Uhr'
+website: https://meinsolardach.de

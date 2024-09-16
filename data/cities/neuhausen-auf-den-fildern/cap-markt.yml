@@ -4,8 +4,8 @@ latitude: 48.68391
 longitude: 9.27932
 postcode: "73765"
 city: Neuhausen auf den Fildern
-street: "Marktstraße"
-housenumber: 11
+street: Marktstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; Su,PH off"
-website: "https://www.cap-markt.de/maerkte/neuhausen"
+opening_hours: Mo-Sa 07:30-20:00; Su,PH off
+website: https://www.cap-markt.de/maerkte/neuhausen

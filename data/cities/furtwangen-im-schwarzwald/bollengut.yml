@@ -4,8 +4,8 @@ latitude: 48.05088
 longitude: 8.20712
 postcode: "78120"
 city: Furtwangen im Schwarzwald
-street: "Lindenstraße"
-housenumber: 1
+street: Lindenstraße
+housenumber: "1"
 phone: "+4977239293685"
-opening_hours: "PH,easter off; Sa 10:00-13:00"
-website: "https://www.bollengut.de/"
+opening_hours: PH,easter off; Sa 10:00-13:00
+website: https://www.bollengut.de/

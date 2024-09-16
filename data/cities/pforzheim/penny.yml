@@ -4,8 +4,8 @@ latitude: 48.89166
 longitude: 8.69505
 postcode: "75173"
 city: Pforzheim
-street: "Goethestraße"
-housenumber: 19
+street: Goethestraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:30"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 08:00-21:30
+website: https://www.penny.de/

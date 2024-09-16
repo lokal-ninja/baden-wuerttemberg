@@ -1,11 +1,11 @@
 id: 317155853
-type: way
+type: node
 latitude: 48.10879
 longitude: 8.73515
 postcode: "78588"
 city: Denkingen
-street: "Alfons-Debler-Weg"
-housenumber: 2
-phone: "+49 7424 87326"
+street: Alfons-Debler-Weg
+housenumber: "2"
+phone: +49 7424 87326
 opening_hours: ""
 website: ""

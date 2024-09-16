@@ -1,11 +1,11 @@
 id: 170578976
-type: way
+type: node
 latitude: 49.23894
 longitude: 9.09433
 postcode: "74906"
 city: Bad Rappenau
-street: "Riemenstraße"
-housenumber: 2
+street: Riemenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: https://www.aldi-sued.de/

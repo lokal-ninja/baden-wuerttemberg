@@ -1,11 +1,11 @@
 id: 24884421
-type: way
+type: node
 latitude: 48.92751
 longitude: 8.96635
 postcode: "71665"
 city: Vaihingen an der Enz
-street: "Hans-Krieg-Straße"
-housenumber: 49
-phone: "+49 7042 960638"
-opening_hours: "Mo-Sa 07:00-24:00"
-website: "https://www.rewe.de/"
+street: Hans-Krieg-Straße
+housenumber: "49"
+phone: +49 7042 960638
+opening_hours: Mo-Sa 07:00-24:00
+website: https://www.rewe.de/

@@ -1,11 +1,11 @@
 id: 62323124
-type: way
+type: node
 latitude: 48.92516
 longitude: 9.4177
 postcode: "71522"
 city: Backnang
-street: "Wiener Straße"
-housenumber: 101
-phone: "+49 7191 970570"
+street: Wiener Straße
+housenumber: "101"
+phone: +49 7191 970570
 opening_hours: ""
-website: "https://www.michael-haan-unternehmensgruppe.de/"
+website: https://www.michael-haan-unternehmensgruppe.de/

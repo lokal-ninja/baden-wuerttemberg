@@ -1,11 +1,11 @@
 id: 744116849
-type: way
+type: node
 latitude: 48.96153
 longitude: 9.10256
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Rathausstraße"
-housenumber: 32
-phone: "+49 7142 45109"
+street: Rathausstraße
+housenumber: "32"
+phone: +49 7142 45109
 opening_hours: ""
 website: ""

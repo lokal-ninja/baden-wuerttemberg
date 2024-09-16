@@ -1,11 +1,11 @@
 id: 93880478
-type: way
+type: node
 latitude: 49.36758
 longitude: 8.68504
 postcode: "69126"
 city: Heidelberg
-street: "Hertzstraße"
-housenumber: 1
+street: Hertzstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

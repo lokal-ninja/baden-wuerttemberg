@@ -4,8 +4,8 @@ latitude: 48.05843
 longitude: 7.76677
 postcode: "79232"
 city: March
-street: "Kalloweg"
-housenumber: 5
+street: Kalloweg
+housenumber: "5"
 phone: ""
-opening_hours: "Tu 17:00-19:00; We,Sa 09:00-13:00; Th 16:00-19:00; Su-Mo,PH off"
-website: "https://www.billys-farm.de/"
+opening_hours: Tu 17:00-19:00; We,Sa 09:00-13:00; Th 16:00-19:00; Su-Mo,PH off
+website: https://www.billys-farm.de/

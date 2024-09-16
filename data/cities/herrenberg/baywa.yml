@@ -1,11 +1,11 @@
 id: 27219212
-type: way
+type: node
 latitude: 48.59464
 longitude: 8.86218
 postcode: "71083"
 city: Herrenberg
-street: "Kalkofenstraße"
-housenumber: 41
+street: Kalkofenstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-16:00"
-website: "https://www.baywa-baumarkt.de/cms/de/Standorte/Herrenberg/Herrenberg.htm"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-16:00
+website: https://www.baywa-baumarkt.de/cms/de/Standorte/Herrenberg/Herrenberg.htm

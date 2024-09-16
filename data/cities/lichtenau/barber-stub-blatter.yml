@@ -4,8 +4,8 @@ latitude: 48.72578
 longitude: 8.00862
 postcode: "77839"
 city: Lichtenau
-street: "Pfarrstraße"
-housenumber: 2
-phone: "+49 7227 2311"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
-website: "https://www.barberstub.de"
+street: Pfarrstraße
+housenumber: "2"
+phone: +49 7227 2311
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00
+website: https://www.barberstub.de

@@ -4,8 +4,8 @@ latitude: 48.70604
 longitude: 8.76667
 postcode: "75365"
 city: Calw
-street: "Gottlob-Bauknecht-Straße"
-housenumber: 40
+street: Gottlob-Bauknecht-Straße
+housenumber: "40"
 phone: "+49705193100"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-12:00"
-website: "http://www.wackenhut.org/wackenhut/standorte-oeffnungszeiten/calw/autohaus-wackenhut/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:30-12:00
+website: http://www.wackenhut.org/wackenhut/standorte-oeffnungszeiten/calw/autohaus-wackenhut/

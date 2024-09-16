@@ -4,8 +4,8 @@ latitude: 48.89244
 longitude: 8.69435
 postcode: "75172"
 city: Pforzheim
-street: "Durlacher Straße"
-housenumber: 2
-phone: "+49 7231 91950"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.tronser-elektro.de/"
+street: Durlacher Straße
+housenumber: "2"
+phone: +49 7231 91950
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.tronser-elektro.de/

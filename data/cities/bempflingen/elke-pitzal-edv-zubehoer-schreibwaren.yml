@@ -1,11 +1,11 @@
 id: 385683568
-type: way
+type: node
 latitude: 48.57003
 longitude: 9.26727
 postcode: "72658"
 city: Bempflingen
-street: "Asternweg"
-housenumber: 3
+street: Asternweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

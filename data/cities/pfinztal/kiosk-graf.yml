@@ -1,11 +1,11 @@
 id: 368360710
-type: way
+type: node
 latitude: 48.9879
 longitude: 8.54275
 postcode: "76327"
 city: Pfinztal
-street: "Reetzstraße"
-housenumber: 1
+street: Reetzstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:00-15:00; Su 09:00-12:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:00-15:00; Su 09:00-12:00
 website: ""

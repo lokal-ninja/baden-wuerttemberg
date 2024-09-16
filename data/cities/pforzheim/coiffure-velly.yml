@@ -4,8 +4,8 @@ latitude: 48.86143
 longitude: 8.66223
 postcode: "75180"
 city: Pforzheim
-street: "Amselstraße"
-housenumber: 48
-phone: "+49 7231 440 87 60"
-opening_hours: "Tu-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 08:00-14:00"
+street: Amselstraße
+housenumber: "48"
+phone: +49 7231 440 87 60
+opening_hours: Tu-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 08:00-14:00
 website: ""

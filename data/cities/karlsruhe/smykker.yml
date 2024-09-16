@@ -1,11 +1,11 @@
 id: 288535412
-type: way
+type: node
 latitude: 49.00965
 longitude: 8.39853
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 187
-phone: "+49 721 66773130"
-opening_hours: "Mo-Sa 10:00-18:30"
-website: "https://www.smykker.de/"
+street: Kaiserstraße
+housenumber: "187"
+phone: +49 721 66773130
+opening_hours: Mo-Sa 10:00-18:30
+website: https://www.smykker.de/

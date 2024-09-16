@@ -1,11 +1,11 @@
 id: 99275431
-type: way
+type: node
 latitude: 47.57561
 longitude: 7.79609
 postcode: "79618"
 city: Rheinfelden (Baden)
-street: "Großmattstraße"
-housenumber: 1
+street: Großmattstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

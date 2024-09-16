@@ -4,8 +4,8 @@ latitude: 48.23158
 longitude: 9.88292
 postcode: "88471"
 city: Laupheim
-street: "Radstraße"
-housenumber: 3
-phone: "+49 7392 2269"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-12:30"
-website: "https://metzgereigraf.de/"
+street: Radstraße
+housenumber: "3"
+phone: +49 7392 2269
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-12:30
+website: https://metzgereigraf.de/

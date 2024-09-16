@@ -4,8 +4,8 @@ latitude: 48.80347
 longitude: 9.09163
 postcode: "70499"
 city: Stuttgart
-street: "Ernst-Reuter-Platz"
-housenumber: 4
-phone: "+49 711 80638730"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/166/"
+street: Ernst-Reuter-Platz
+housenumber: "4"
+phone: +49 711 80638730
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/166/

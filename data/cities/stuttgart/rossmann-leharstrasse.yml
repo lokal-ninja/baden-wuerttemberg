@@ -4,8 +4,8 @@ latitude: 48.78138
 longitude: 9.13192
 postcode: "70195"
 city: Stuttgart
-street: "Leharstraße"
-housenumber: 5
+street: Leharstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

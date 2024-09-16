@@ -4,8 +4,8 @@ latitude: 48.47337
 longitude: 7.94932
 postcode: "77654"
 city: Offenburg
-street: "Zeller Straße"
-housenumber: 28
+street: Zeller Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Tu-Fr 11:00-16:30; Sa 09:30-13:00"
-website: "https://www.drkoffenburg.de/angebote/existenzsichernde-hilfe/kleiderlaedele.html"
+opening_hours: Tu-Fr 11:00-16:30; Sa 09:30-13:00
+website: https://www.drkoffenburg.de/angebote/existenzsichernde-hilfe/kleiderlaedele.html

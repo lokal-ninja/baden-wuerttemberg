@@ -1,11 +1,11 @@
 id: 44860490
-type: way
+type: node
 latitude: 49.45291
 longitude: 8.58714
 postcode: "68535"
 city: Edingen-Neckarhausen
-street: "Rosenstraße"
-housenumber: 70
+street: Rosenstraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-22:00; Su,PH off
 website: ""

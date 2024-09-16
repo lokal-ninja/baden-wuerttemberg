@@ -1,11 +1,11 @@
 id: 303041059
-type: way
+type: node
 latitude: 47.92722
 longitude: 8.46897
 postcode: "78199"
 city: Bräunlingen
-street: "Niederwiesen"
-housenumber: 2
+street: Niederwiesen
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.41071
 longitude: 9.0571
 postcode: "72116"
 city: Mössingen
-street: "Karl-Jaggy-Straße"
-housenumber: 45
-phone: "+49 7473 6676"
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:00; Sa 08:00-12:00"
-website: "https://www.speidel-gartengeraete.de/"
+street: Karl-Jaggy-Straße
+housenumber: "45"
+phone: +49 7473 6676
+opening_hours: Mo-Fr 08:00-12:00, 13:30-18:00; Sa 08:00-12:00
+website: https://www.speidel-gartengeraete.de/

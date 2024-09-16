@@ -1,11 +1,11 @@
 id: 491736073
-type: way
+type: node
 latitude: 48.52238
 longitude: 9.0456
 postcode: "72070"
 city: Tübingen
-street: "Westbahnhofstraße"
-housenumber: 18
+street: Westbahnhofstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-14:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-14:00
 website: ""

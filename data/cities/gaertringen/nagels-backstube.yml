@@ -4,8 +4,8 @@ latitude: 48.64193
 longitude: 8.89981
 postcode: "71116"
 city: Gärtringen
-street: "Hauptstraße"
-housenumber: 8
+street: Hauptstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00;Sa 06:30-13:00;Sa 07:30-10:30"
-website: "https://www.nagels-backstube.de/"
+opening_hours: Mo-Fr 06:30-18:00;Sa 06:30-13:00;Sa 07:30-10:30
+website: https://www.nagels-backstube.de/

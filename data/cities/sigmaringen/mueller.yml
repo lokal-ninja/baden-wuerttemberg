@@ -4,8 +4,8 @@ latitude: 48.08626
 longitude: 9.21564
 postcode: "72488"
 city: Sigmaringen
-street: "Fidelisstraße"
-housenumber: 8
-phone: "+49 7571 74210"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "https://www.mueller.de/meine-filiale/"
+street: Fidelisstraße
+housenumber: "8"
+phone: +49 7571 74210
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: https://www.mueller.de/meine-filiale/

@@ -1,11 +1,11 @@
 id: 244168773
-type: way
+type: node
 latitude: 48.41482
 longitude: 8.00022
 postcode: "77723"
 city: Gengenbach
-street: "Allmend"
-housenumber: 3
+street: Allmend
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/gengenbach/allmend-3.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/gengenbach/allmend-3.html

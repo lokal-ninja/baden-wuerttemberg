@@ -4,8 +4,8 @@ latitude: 49.40991
 longitude: 8.69985
 postcode: "69117"
 city: Heidelberg
-street: "Märzgasse"
-housenumber: 16
+street: Märzgasse
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 10:30-18:30"
-website: "http://www.holgersons.de"
+opening_hours: Mo-Sa 10:30-18:30
+website: http://www.holgersons.de

@@ -4,8 +4,9 @@ latitude: 49.32276
 longitude: 9.35984
 postcode: "74219"
 city: Möckmühl
-street: "Untere Gasse"
-housenumber: 12
+street: Untere Gasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo, Tu, We, Fr 09:00-12:30, 14:30-18:00; Tu 08:30-12:30, 14:30-18:00; Sa 09:00-12:30"
-website: "https://www.beerenbauer.de/moeckmuehl"
+opening_hours: Mo, Tu, We, Fr 09:00-12:30, 14:30-18:00; Tu 08:30-12:30, 14:30-18:00;
+    Sa 09:00-12:30
+website: https://www.beerenbauer.de/moeckmuehl

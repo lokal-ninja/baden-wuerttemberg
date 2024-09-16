@@ -1,11 +1,11 @@
 id: 136096083
-type: way
+type: node
 latitude: 48.53039
 longitude: 8.56934
 postcode: "72285"
 city: Pfalzgrafenweiler
-street: "Boschstraße"
-housenumber: 2
+street: Boschstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

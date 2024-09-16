@@ -1,11 +1,11 @@
 id: 328258115
-type: way
+type: node
 latitude: 49.49576
 longitude: 8.49998
 postcode: "68167"
 city: Mannheim
-street: "Christian-Friedrich-Schwan-Straße"
-housenumber: 2
+street: Christian-Friedrich-Schwan-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

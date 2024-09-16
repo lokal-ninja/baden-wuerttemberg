@@ -1,11 +1,11 @@
 id: 203104128
-type: way
+type: node
 latitude: 48.33772
 longitude: 7.86743
 postcode: "77933"
 city: Lahr/Schwarzwald
-street: "Alte Bahnhofstraße"
-housenumber: 3
+street: Alte Bahnhofstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.badische-zeitung.de/wenn-das-haus-geschichte-atmet--85229310.html"
+website: https://www.badische-zeitung.de/wenn-das-haus-geschichte-atmet--85229310.html

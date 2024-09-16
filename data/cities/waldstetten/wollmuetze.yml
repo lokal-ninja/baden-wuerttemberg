@@ -1,11 +1,11 @@
 id: 207227127
-type: way
+type: node
 latitude: 48.76592
 longitude: 9.82037
 postcode: "73550"
 city: Waldstetten
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.99921
 longitude: 8.47363
 postcode: "76227"
 city: Karlsruhe
-street: "Pfinztalstraße"
-housenumber: 26
-phone: "+49 721 46472856"
-opening_hours: "Mo-Sa 06:30-18:00; Su,PH 08:00-18:00"
-website: "https://www.baeckerei-neff.de/"
+street: Pfinztalstraße
+housenumber: "26"
+phone: +49 721 46472856
+opening_hours: Mo-Sa 06:30-18:00; Su,PH 08:00-18:00
+website: https://www.baeckerei-neff.de/

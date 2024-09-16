@@ -4,8 +4,8 @@ latitude: 48.39997
 longitude: 9.95104
 postcode: "89081"
 city: Ulm
-street: "Ackerstraße"
-housenumber: 2
+street: Ackerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "nach Voranmeldung"
+opening_hours: '"nach Voranmeldung"'
 website: ""

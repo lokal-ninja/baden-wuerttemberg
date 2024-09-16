@@ -4,8 +4,8 @@ latitude: 49.07783
 longitude: 8.38802
 postcode: "76344"
 city: Eggenstein-Leopoldshafen
-street: "Hauptstraße"
-housenumber: 53
-phone: "+49-721-6281003"
-opening_hours: "Mo,Tu,Th-Sa 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00"
-website: "http://www.ziser-optik.de"
+street: Hauptstraße
+housenumber: "53"
+phone: +49-721-6281003
+opening_hours: Mo,Tu,Th-Sa 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00
+website: http://www.ziser-optik.de

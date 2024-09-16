@@ -1,11 +1,11 @@
 id: 396979555
-type: way
+type: node
 latitude: 48.02355
 longitude: 8.88955
 postcode: "78570"
 city: Mühlheim an der Donau
-street: "Bergstraße"
-housenumber: 18
-phone: "+49 7463 2063636"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://idverpackt.de/"
+street: Bergstraße
+housenumber: "18"
+phone: +49 7463 2063636
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://idverpackt.de/

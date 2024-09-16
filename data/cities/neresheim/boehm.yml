@@ -1,11 +1,11 @@
 id: 112243269
-type: way
+type: node
 latitude: 48.75527
 longitude: 10.32892
 postcode: "73450"
 city: Neresheim
-street: "Dossinger Weg"
-housenumber: 1
-phone: "+49 7326 964346"
-opening_hours: "Tu-Th 08:00-13:00,14:30-18:00; Fr 08:00-18:00; Sa 07:30-12:00"
-website: "https://metzgereiboehm.de/"
+street: Dossinger Weg
+housenumber: "1"
+phone: +49 7326 964346
+opening_hours: Tu-Th 08:00-13:00,14:30-18:00; Fr 08:00-18:00; Sa 07:30-12:00
+website: https://metzgereiboehm.de/

@@ -1,11 +1,11 @@
 id: 423861639
-type: way
+type: node
 latitude: 48.91091
 longitude: 8.25557
 postcode: "76467"
 city: Bietigheim
-street: "Kronenstraße"
-housenumber: 30
+street: Kronenstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

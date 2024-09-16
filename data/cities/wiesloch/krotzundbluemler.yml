@@ -1,11 +1,11 @@
 id: 356647685
-type: way
+type: node
 latitude: 49.29098
 longitude: 8.66124
 postcode: "69168"
 city: Wiesloch
-street: "Großer Stadtacker"
-housenumber: 5
+street: Großer Stadtacker
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

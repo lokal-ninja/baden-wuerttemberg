@@ -4,8 +4,8 @@ latitude: 49.16933
 longitude: 9.26285
 postcode: "74235"
 city: Erlenbach
-street: "Im Unterwasser"
-housenumber: 21
-phone: "+49 7132 9918133"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.besenbrot.de"
+street: Im Unterwasser
+housenumber: "21"
+phone: +49 7132 9918133
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.besenbrot.de

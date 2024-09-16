@@ -4,8 +4,8 @@ latitude: 48.69927
 longitude: 9.70645
 postcode: "73054"
 city: Eislingen/Fils
-street: "Ebertstraße"
-housenumber: 6
-phone: "+49 7161 989690"
-opening_hours: "Mo-Sa 09:00-12:30; Mo, Tu, Th, Fr 14:00-18:00"
-website: "https://reisestudio-kelm.de/"
+street: Ebertstraße
+housenumber: "6"
+phone: +49 7161 989690
+opening_hours: Mo-Sa 09:00-12:30; Mo, Tu, Th, Fr 14:00-18:00
+website: https://reisestudio-kelm.de/

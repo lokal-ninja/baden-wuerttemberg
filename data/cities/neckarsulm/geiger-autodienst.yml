@@ -1,11 +1,11 @@
 id: 52332131
-type: way
+type: node
 latitude: 49.1865
 longitude: 9.23421
 postcode: "74172"
 city: Neckarsulm
-street: "Binswanger Straße"
-housenumber: 83
+street: Binswanger Straße
+housenumber: "83"
 phone: ""
 opening_hours: ""
-website: "http://www.autodienst-geiger.de/"
+website: http://www.autodienst-geiger.de/

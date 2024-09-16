@@ -4,8 +4,8 @@ latitude: 48.71438
 longitude: 8.7398
 postcode: "75365"
 city: Calw
-street: "Lederstraße"
-housenumber: 1
+street: Lederstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"
-website: "https://www.optik-fux.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30
+website: https://www.optik-fux.de/

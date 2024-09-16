@@ -4,8 +4,8 @@ latitude: 49.42702
 longitude: 8.68262
 postcode: "69121"
 city: Heidelberg
-street: "Hans-Thoma-Platz"
-housenumber: 20
+street: Hans-Thoma-Platz
+housenumber: "20"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00; Su off"
+opening_hours: Mo off; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00; Su off
 website: ""

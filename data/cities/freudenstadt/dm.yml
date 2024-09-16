@@ -1,11 +1,11 @@
 id: 186370070
-type: way
+type: node
 latitude: 48.46434
 longitude: 8.4378
 postcode: "72250"
 city: Freudenstadt
-street: "Planckstraße"
-housenumber: 12
+street: Planckstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

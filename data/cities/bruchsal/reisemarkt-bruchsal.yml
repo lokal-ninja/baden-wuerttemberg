@@ -4,8 +4,8 @@ latitude: 49.12545
 longitude: 8.5913
 postcode: "76646"
 city: Bruchsal
-street: "Bahnhofsplatz"
-housenumber: 10
-phone: "+49 7251 97500"
+street: Bahnhofsplatz
+housenumber: "10"
+phone: +49 7251 97500
 opening_hours: ""
-website: "https://www.reisemarkt-bruchsal.de/"
+website: https://www.reisemarkt-bruchsal.de/

@@ -1,11 +1,11 @@
 id: 708465284
-type: way
+type: node
 latitude: 47.67861
 longitude: 9.15085
 postcode: "78467"
 city: Konstanz
-street: "Max-Stromeyer-Straße"
-housenumber: 51
+street: Max-Stromeyer-Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-blender.de/"
+website: https://www.autohaus-blender.de/

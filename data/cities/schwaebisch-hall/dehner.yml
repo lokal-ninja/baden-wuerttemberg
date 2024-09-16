@@ -1,11 +1,11 @@
 id: 324466751
-type: way
+type: node
 latitude: 49.11058
 longitude: 9.79529
 postcode: "74523"
 city: Schwäbisch Hall
-street: "Raiffeisenstraße"
-housenumber: 28
-phone: "+49 791 9494790"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+street: Raiffeisenstraße
+housenumber: "28"
+phone: +49 791 9494790
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

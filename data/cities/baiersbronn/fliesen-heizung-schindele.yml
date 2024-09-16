@@ -1,11 +1,11 @@
 id: 169961233
-type: way
+type: node
 latitude: 48.49266
 longitude: 8.37574
 postcode: "72270"
 city: Baiersbronn
-street: "Uferweg"
+street: Uferweg
 housenumber: 41A
 phone: "074424930"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.schindele.com"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.schindele.com

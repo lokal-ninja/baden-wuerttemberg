@@ -1,11 +1,11 @@
 id: 277036777
-type: way
+type: node
 latitude: 48.80976
 longitude: 9.39146
 postcode: "71384"
 city: Weinstadt
-street: "Heinkelstraße"
-housenumber: 32
-phone: "+49 7151 609527"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"
-website: "https://www.rumpelkammer.de/"
+street: Heinkelstraße
+housenumber: "32"
+phone: +49 7151 609527
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-16:00
+website: https://www.rumpelkammer.de/

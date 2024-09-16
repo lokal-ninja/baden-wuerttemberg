@@ -1,11 +1,11 @@
 id: 281941888
-type: way
+type: node
 latitude: 49.30491
 longitude: 8.63226
 postcode: "69190"
 city: Walldorf
-street: "Carl-Zeiss-Straße"
-housenumber: 4
+street: Carl-Zeiss-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.alfred-hofmann.de/"
+website: https://www.alfred-hofmann.de/

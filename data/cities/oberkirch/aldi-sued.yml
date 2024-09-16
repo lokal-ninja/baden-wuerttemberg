@@ -1,11 +1,11 @@
 id: 1226565451
-type: way
+type: node
 latitude: 48.53671
 longitude: 8.06479
 postcode: "77704"
 city: Oberkirch
-street: "Steinhof"
-housenumber: 2
+street: Steinhof
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/oberkirch/steinhof-2"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/oberkirch/steinhof-2

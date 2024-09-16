@@ -4,8 +4,8 @@ latitude: 48.85545
 longitude: 10.36099
 postcode: "73441"
 city: Bopfingen
-street: "Nördlinger Straße"
-housenumber: 24
-phone: "+49 7362 96460"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su,PH off"
-website: "https://www.kummich.de/"
+street: Nördlinger Straße
+housenumber: "24"
+phone: +49 7362 96460
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su,PH off
+website: https://www.kummich.de/

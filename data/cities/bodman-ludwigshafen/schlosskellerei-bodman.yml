@@ -4,8 +4,8 @@ latitude: 47.80336
 longitude: 9.02556
 postcode: "78351"
 city: Bodman-Ludwigshafen
-street: "Breite"
-housenumber: 5
-phone: "+49 7773 930510"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.weinkauff-getraenke.de/ueber-uns/anfahrt-und-infos/bodman.d21.de.html"
+street: Breite
+housenumber: "5"
+phone: +49 7773 930510
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.weinkauff-getraenke.de/ueber-uns/anfahrt-und-infos/bodman.d21.de.html

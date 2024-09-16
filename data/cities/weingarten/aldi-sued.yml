@@ -1,11 +1,11 @@
 id: 105331430
-type: way
+type: node
 latitude: 47.81212
 longitude: 9.6334
 postcode: "88250"
 city: Weingarten
-street: "Ettishofer Straße"
-housenumber: 9
+street: Ettishofer Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/weingarten/ettishofer-strasse-9"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/weingarten/ettishofer-strasse-9

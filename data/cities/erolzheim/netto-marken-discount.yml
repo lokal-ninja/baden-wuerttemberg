@@ -1,11 +1,11 @@
 id: 105407286
-type: way
+type: node
 latitude: 48.08733
 longitude: 10.07755
 postcode: ""
 city: Erolzheim
-street: "Zeppelinstraße"
-housenumber: 12
+street: Zeppelinstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.38298
 longitude: 8.77199
 postcode: "72401"
 city: Haigerloch
-street: "Birkenwaldstraße"
-housenumber: 6
-phone: "+49 7474 7275"
-opening_hours: "Mo,We,Fr 09:00-18:30"
-website: "www.carolaklingler.de"
+street: Birkenwaldstraße
+housenumber: "6"
+phone: +49 7474 7275
+opening_hours: Mo,We,Fr 09:00-18:30
+website: www.carolaklingler.de

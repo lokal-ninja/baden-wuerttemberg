@@ -1,11 +1,11 @@
 id: 91136409
-type: way
+type: node
 latitude: 48.7736
 longitude: 9.17638
 postcode: "70173"
 city: Stuttgart
-street: "Eberhardstraße"
-housenumber: 28
+street: Eberhardstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

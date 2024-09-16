@@ -1,11 +1,11 @@
 id: 653522628
-type: way
+type: node
 latitude: 48.53253
 longitude: 8.06021
 postcode: "77704"
 city: Oberkirch
-street: "Korberger Matt"
-housenumber: 5
+street: Korberger Matt
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.97594
 longitude: 7.91494
 postcode: "79117"
 city: Freiburg im Breisgau
-street: "Kirchzartener Straße"
-housenumber: 20
-phone: "+49 761 63319"
-opening_hours: "Mo,Tu,Th,Fr 09:30-18:00; We,Sa 09:30-13:00"
-website: "https://www.fahrrad-rosenfelder.de/"
+street: Kirchzartener Straße
+housenumber: "20"
+phone: +49 761 63319
+opening_hours: Mo,Tu,Th,Fr 09:30-18:00; We,Sa 09:30-13:00
+website: https://www.fahrrad-rosenfelder.de/

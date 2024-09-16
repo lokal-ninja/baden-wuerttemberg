@@ -4,8 +4,8 @@ latitude: 48.68377
 longitude: 9.01298
 postcode: "71032"
 city: Böblingen
-street: "Tübinger Straße"
-housenumber: 3
+street: Tübinger Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:30; Sa 08:30-13:00"
-website: "https://www.optik-karnahl.de"
+opening_hours: Tu-Fr 08:30-18:30; Sa 08:30-13:00
+website: https://www.optik-karnahl.de

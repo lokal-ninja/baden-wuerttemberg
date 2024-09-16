@@ -4,8 +4,8 @@ latitude: 48.77404
 longitude: 9.1789
 postcode: "70173"
 city: Stuttgart
-street: "Eberhardstraße"
-housenumber: 6
+street: Eberhardstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
 website: ""

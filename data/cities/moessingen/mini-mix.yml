@@ -4,8 +4,8 @@ latitude: 48.40633
 longitude: 9.0483
 postcode: "72116"
 city: Mössingen
-street: "Eisenbahnstraße"
-housenumber: 2
-phone: "+49 7473 9218350"
-opening_hours: "Mo-Fr 8:00-20:00;Sa 8:00-18:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/326/"
+street: Eisenbahnstraße
+housenumber: "2"
+phone: +49 7473 9218350
+opening_hours: Mo-Fr 8:00-20:00;Sa 8:00-18:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/326/

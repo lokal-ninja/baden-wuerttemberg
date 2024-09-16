@@ -1,11 +1,11 @@
 id: 81047881
-type: way
+type: node
 latitude: 48.87563
 longitude: 9.39623
 postcode: "71364"
 city: Winnenden
-street: "Ringstraße"
-housenumber: 62
-phone: "+49 7195 64811"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We,Sa 09:00-13:00"
-website: "http://www.optik-wagenknecht.de/"
+street: Ringstraße
+housenumber: "62"
+phone: +49 7195 64811
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We,Sa 09:00-13:00
+website: http://www.optik-wagenknecht.de/

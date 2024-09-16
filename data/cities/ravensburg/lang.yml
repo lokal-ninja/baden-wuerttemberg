@@ -1,11 +1,11 @@
 id: 193316218
-type: way
+type: node
 latitude: 47.78768
 longitude: 9.61194
 postcode: "88212"
 city: Ravensburg
-street: "Parkstraße"
-housenumber: 50
+street: Parkstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

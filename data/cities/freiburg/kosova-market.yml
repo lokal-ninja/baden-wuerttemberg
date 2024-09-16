@@ -4,8 +4,8 @@ latitude: 47.99778
 longitude: 7.81726
 postcode: "79115"
 city: Freiburg
-street: "Badenweilerstraße"
-housenumber: 2
+street: Badenweilerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo, Th 10:00-19:30; Fr, Sa 10:00-20:00"
+opening_hours: Mo, Th 10:00-19:30; Fr, Sa 10:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 231783620
-type: way
+type: node
 latitude: 49.04127
 longitude: 8.39252
 postcode: "76149"
 city: Karlsruhe
-street: "Am Sandfeld"
-housenumber: 25
-phone: "+49 721 97855 170"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://crystal-sound.de/"
+street: Am Sandfeld
+housenumber: "25"
+phone: +49 721 97855 170
+opening_hours: Mo-Fr 09:30-18:00
+website: https://crystal-sound.de/

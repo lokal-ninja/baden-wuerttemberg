@@ -1,11 +1,11 @@
 id: 476110995
-type: way
+type: node
 latitude: 48.02386
 longitude: 9.49416
 postcode: "88348"
 city: Bad Saulgau
-street: "Moosheimer Straße"
-housenumber: 45
+street: Moosheimer Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://www.toyota-ags-bad-saulgau.de/"
+website: https://www.toyota-ags-bad-saulgau.de/

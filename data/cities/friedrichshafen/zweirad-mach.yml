@@ -4,8 +4,8 @@ latitude: 47.65395
 longitude: 9.47997
 postcode: "88045"
 city: Friedrichshafen
-street: "Bismarckstraße"
-housenumber: 19
-phone: "+49 7541 2 66 69"
-opening_hours: "09:00-12:30,14:00-18:00; Sa 09:00-12:30; Su,PH off"
+street: Bismarckstraße
+housenumber: "19"
+phone: +49 7541 2 66 69
+opening_hours: 09:00-12:30,14:00-18:00; Sa 09:00-12:30; Su,PH off
 website: ""

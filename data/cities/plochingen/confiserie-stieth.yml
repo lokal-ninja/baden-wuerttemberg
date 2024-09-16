@@ -1,11 +1,11 @@
 id: 254407430
-type: way
+type: node
 latitude: 48.71504
 longitude: 9.43122
 postcode: "73207"
 city: Plochingen
-street: "Hohenzollernstraße"
-housenumber: 4
+street: Hohenzollernstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.confiserie-spieth.de/"
+website: http://www.confiserie-spieth.de/

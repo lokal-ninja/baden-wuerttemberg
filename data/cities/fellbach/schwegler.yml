@@ -1,11 +1,11 @@
 id: 208970745
-type: way
+type: node
 latitude: 48.80545
 longitude: 9.27487
 postcode: "70734"
 city: Fellbach
-street: "Hintere Straße"
-housenumber: 44
+street: Hintere Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 14:00-17:00,08:00-12:30"
+opening_hours: Mo-Fr 14:00-17:00,08:00-12:30
 website: ""

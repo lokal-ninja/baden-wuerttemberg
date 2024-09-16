@@ -1,11 +1,11 @@
 id: 235833849
-type: way
+type: node
 latitude: 49.25162
 longitude: 8.87148
 postcode: "74889"
 city: Sinsheim
-street: "Muthstraße"
-housenumber: 25
+street: Muthstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

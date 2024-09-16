@@ -1,11 +1,11 @@
 id: 124383854
-type: way
+type: node
 latitude: 48.12704
 longitude: 8.34609
 postcode: "78112"
 city: St. Georgen
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 17a
-phone: "+49 7724 6703"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.msm-schwer.de/de"
+phone: +49 7724 6703
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.msm-schwer.de/de

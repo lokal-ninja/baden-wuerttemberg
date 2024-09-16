@@ -1,11 +1,11 @@
 id: 97535954
-type: way
+type: node
 latitude: 48.52329
 longitude: 8.0981
 postcode: "77794"
 city: Lautenbach
-street: "Vorder-Winterbach"
-housenumber: 5
+street: Vorder-Winterbach
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.zieglerhof-lautenbach.de/"
+website: https://www.zieglerhof-lautenbach.de/

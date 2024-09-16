@@ -1,11 +1,11 @@
 id: 93399125
-type: way
+type: node
 latitude: 48.76468
 longitude: 8.55416
 postcode: "75323"
 city: Bad Wildbad
-street: "Paulinenstraße"
-housenumber: 145
+street: Paulinenstraße
+housenumber: "145"
 phone: ""
 opening_hours: ""
-website: "https://www.gaertnerei-schober.de/"
+website: https://www.gaertnerei-schober.de/

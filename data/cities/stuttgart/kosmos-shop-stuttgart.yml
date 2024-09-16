@@ -4,8 +4,8 @@ latitude: 48.77447
 longitude: 9.18856
 postcode: "70182"
 city: Stuttgart
-street: "Blumenstraße"
-housenumber: 44
+street: Blumenstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 11:30-18:00; Sa 10:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 11:30-18:00; Sa 10:00-16:00; Su,PH off
 website: ""

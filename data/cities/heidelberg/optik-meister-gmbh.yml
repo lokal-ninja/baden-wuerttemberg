@@ -4,8 +4,8 @@ latitude: 49.40813
 longitude: 8.69093
 postcode: "69115"
 city: Heidelberg
-street: "Poststraße"
-housenumber: 14
-phone: "+49 6221 26008"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.optik-meister-hd.de/"
+street: Poststraße
+housenumber: "14"
+phone: +49 6221 26008
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.optik-meister-hd.de/

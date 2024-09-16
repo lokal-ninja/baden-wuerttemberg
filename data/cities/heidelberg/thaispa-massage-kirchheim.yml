@@ -1,11 +1,11 @@
 id: 4111838649
 type: node
-latitude: 49.38457
-longitude: 8.66793
+latitude: 49.3846
+longitude: 8.66794
 postcode: "69124"
 city: Heidelberg
-street: "Glatzer Straße"
-housenumber: 20
-phone: "+49 6221 7251662"
-opening_hours: "Tu-Su 09:00-20:00"
-website: "http://www.thaispa-massage.de/"
+street: Glatzer Straße
+housenumber: "20"
+phone: +49 6221 7251662
+opening_hours: Tu-Su 09:00-20:00
+website: http://www.thaispa-massage.de/

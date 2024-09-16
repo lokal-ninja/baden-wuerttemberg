@@ -1,11 +1,11 @@
 id: 54027841
-type: way
+type: node
 latitude: 48.50522
 longitude: 9.18068
 postcode: "72770"
 city: Reutlingen
-street: "Klopstockstraße"
-housenumber: 2
-phone: "+49 7121 6967900"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "http://www.federico-supermarkt.de"
+street: Klopstockstraße
+housenumber: "2"
+phone: +49 7121 6967900
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: http://www.federico-supermarkt.de

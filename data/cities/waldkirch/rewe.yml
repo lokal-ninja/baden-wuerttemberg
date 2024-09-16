@@ -1,11 +1,11 @@
 id: 88395438
-type: way
+type: node
 latitude: 48.08472
 longitude: 7.94078
 postcode: "79183"
 city: Waldkirch
-street: "Mauermattenstraße"
-housenumber: 26
+street: Mauermattenstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://rewe-dieter-schneider.de/markt/waldkirch/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://rewe-dieter-schneider.de/markt/waldkirch/

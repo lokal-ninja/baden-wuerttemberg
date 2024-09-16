@@ -4,8 +4,8 @@ latitude: 48.7658
 longitude: 8.33583
 postcode: "76593"
 city: Gernsbach
-street: "Bleichstraße"
-housenumber: 27
-phone: "+49 7224 9949854"
-opening_hours: "Tu-Th 08:00-13:00"
-website: "https://www.hoerforum-murgtal.de"
+street: Bleichstraße
+housenumber: "27"
+phone: +49 7224 9949854
+opening_hours: Tu-Th 08:00-13:00
+website: https://www.hoerforum-murgtal.de

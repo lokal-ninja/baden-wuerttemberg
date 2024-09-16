@@ -4,8 +4,8 @@ latitude: 48.73891
 longitude: 9.30476
 postcode: ""
 city: Esslingen am Neckar
-street: "Pliensaustraße"
-housenumber: 31
-phone: "+49 711 35175330"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.mueller.de"
+street: Pliensaustraße
+housenumber: "31"
+phone: +49 711 35175330
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.mueller.de

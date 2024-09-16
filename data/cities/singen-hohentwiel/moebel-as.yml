@@ -1,11 +1,11 @@
 id: 113412368
-type: way
+type: node
 latitude: 47.76189
 longitude: 8.89091
 postcode: "78224"
 city: Singen (Hohentwiel)
-street: "Unter den Tannen"
-housenumber: 7
-phone: "+49 7731 8728-0"
+street: Unter den Tannen
+housenumber: "7"
+phone: +49 7731 8728-0
 opening_hours: ""
 website: ""

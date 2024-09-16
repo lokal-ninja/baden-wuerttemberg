@@ -1,11 +1,11 @@
 id: 96990878
-type: way
+type: node
 latitude: 49.08565
 longitude: 9.19266
 postcode: "74388"
 city: Talheim
-street: "Bahnhofstraße"
-housenumber: 50
+street: Bahnhofstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

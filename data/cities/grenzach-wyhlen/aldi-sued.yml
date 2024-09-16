@@ -1,11 +1,11 @@
 id: 111018882
-type: way
+type: node
 latitude: 47.56197
 longitude: 7.63805
 postcode: "79639"
 city: Grenzach-Wyhlen
-street: "Hörnle"
-housenumber: 30
+street: Hörnle
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de

@@ -4,8 +4,8 @@ latitude: 48.78127
 longitude: 9.17926
 postcode: "70173"
 city: Stuttgart
-street: "Thouretstraße"
-housenumber: 6
+street: Thouretstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.ikarus.de/ikarus_design_stuttgart/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.ikarus.de/ikarus_design_stuttgart/

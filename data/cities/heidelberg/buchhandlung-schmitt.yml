@@ -1,11 +1,11 @@
 id: 462362627
-type: way
+type: node
 latitude: 49.404
 longitude: 8.67552
 postcode: "69115"
 city: Heidelberg
-street: "Willy-Brandt-Platz"
-housenumber: 5
-phone: "+49 6221 585122"
-opening_hours: "Mo-Fr 05:30-21:00; Sa 06:00-21:00; PH,Su 07:00-21:00"
-website: "https://www.schmitt-hahn.de/shop/action/mymagazine/90674/heidelberg_hauptbahnhof.html"
+street: Willy-Brandt-Platz
+housenumber: "5"
+phone: +49 6221 585122
+opening_hours: Mo-Fr 05:30-21:00; Sa 06:00-21:00; PH,Su 07:00-21:00
+website: https://www.schmitt-hahn.de/shop/action/mymagazine/90674/heidelberg_hauptbahnhof.html

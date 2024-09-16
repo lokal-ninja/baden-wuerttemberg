@@ -1,11 +1,11 @@
 id: 238799381
-type: way
+type: node
 latitude: 48.55936
 longitude: 8.03453
 postcode: "77704"
 city: Oberkirch
-street: "Ortenaustraße"
-housenumber: 21
+street: Ortenaustraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

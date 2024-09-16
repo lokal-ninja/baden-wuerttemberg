@@ -4,8 +4,8 @@ latitude: 48.53598
 longitude: 10.23703
 postcode: "89168"
 city: Niederstotzingen
-street: "Bahnhofstraße"
-housenumber: 22
-phone: "+49 7325 919070"
-opening_hours: "Mo-Sa 06:00-22:00; Su,PH 07:00-22:00"
+street: Bahnhofstraße
+housenumber: "22"
+phone: +49 7325 919070
+opening_hours: Mo-Sa 06:00-22:00; Su,PH 07:00-22:00
 website: ""

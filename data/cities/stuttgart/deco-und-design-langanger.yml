@@ -4,8 +4,8 @@ latitude: 48.73328
 longitude: 9.1081
 postcode: "70563"
 city: Stuttgart
-street: "Robert-Leicht-Straße"
-housenumber: 31
+street: Robert-Leicht-Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Tu-Fr 14:00-18:00;Sa 10:00-14:00"
-website: "https://www.langanger.de/"
+opening_hours: Tu-Fr 14:00-18:00;Sa 10:00-14:00
+website: https://www.langanger.de/

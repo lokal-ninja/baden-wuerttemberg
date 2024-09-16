@@ -1,11 +1,11 @@
 id: 539729922
-type: way
+type: node
 latitude: 48.90492
 longitude: 9.41421
 postcode: "71397"
 city: Leutenbach
-street: "Robert-Bosch-Straße"
-housenumber: 26
-phone: "+49 7195 64907"
+street: Robert-Bosch-Straße
+housenumber: "26"
+phone: +49 7195 64907
 opening_hours: ""
 website: ""

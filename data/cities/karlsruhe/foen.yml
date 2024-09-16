@@ -1,11 +1,11 @@
 id: 116338857
-type: way
+type: node
 latitude: 49.0033
 longitude: 8.38701
 postcode: "76137"
 city: Karlsruhe
-street: "Putlitzstraße"
-housenumber: 26
+street: Putlitzstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

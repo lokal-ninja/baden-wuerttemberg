@@ -1,11 +1,11 @@
 id: 441355294
-type: way
+type: node
 latitude: 48.77464
 longitude: 9.17953
 postcode: "70173"
 city: Stuttgart
-street: "Marktstraße"
-housenumber: 10
-phone: "+49 171 7126555"
-opening_hours: "Th,Fr 13:00-18:00; Sa 11:00-16:00"
-website: "http://www.beachfashionshop.com/de/shops.html"
+street: Marktstraße
+housenumber: "10"
+phone: +49 171 7126555
+opening_hours: Th,Fr 13:00-18:00; Sa 11:00-16:00
+website: http://www.beachfashionshop.com/de/shops.html

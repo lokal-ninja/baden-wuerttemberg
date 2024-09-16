@@ -1,11 +1,11 @@
 id: 123980320
-type: way
+type: node
 latitude: 48.99343
 longitude: 8.39368
 postcode: "76135"
 city: Karlsruhe
-street: "Hohenzollernstraße"
-housenumber: 5
+street: Hohenzollernstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-16:30"
+opening_hours: Mo-Fr 09:00-16:30
 website: ""

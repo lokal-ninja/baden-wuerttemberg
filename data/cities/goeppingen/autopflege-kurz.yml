@@ -1,11 +1,11 @@
 id: 32244064
-type: way
+type: node
 latitude: 48.70859
 longitude: 9.63418
 postcode: "73033"
 city: Göppingen
-street: "Stuttgarter Straße"
-housenumber: 78
-phone: "+49-7161-9164940"
+street: Stuttgarter Straße
+housenumber: "78"
+phone: +49-7161-9164940
 opening_hours: ""
 website: ""

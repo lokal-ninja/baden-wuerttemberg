@@ -1,11 +1,11 @@
 id: 96691517
-type: way
+type: node
 latitude: 48.83049
 longitude: 8.65465
 postcode: "75331"
 city: Engelsbrand
-street: "Industrieweg"
-housenumber: 16
+street: Industrieweg
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/engelsbrand/industrieweg-16/3882"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/engelsbrand/industrieweg-16/3882

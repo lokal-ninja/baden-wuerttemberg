@@ -1,11 +1,11 @@
 id: 275658941
-type: way
+type: node
 latitude: 49.40394
 longitude: 9.38914
 postcode: "74740"
 city: Adelsheim
-street: "Torgasse"
-housenumber: 6
+street: Torgasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

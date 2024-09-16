@@ -1,11 +1,11 @@
 id: 76609862
-type: way
+type: node
 latitude: 49.1614
 longitude: 9.22495
 postcode: "74076"
 city: Heilbronn
-street: "Kreuzenstraße"
-housenumber: 116
+street: Kreuzenstraße
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.69539
 longitude: 8.82968
 postcode: "75391"
 city: Gechingen
-street: "Calwer Straße"
-housenumber: 10
+street: Calwer Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Termin vereinbaren"
-website: "https://www.sgesang.de"
+opening_hours: '"Termin vereinbaren"'
+website: https://www.sgesang.de

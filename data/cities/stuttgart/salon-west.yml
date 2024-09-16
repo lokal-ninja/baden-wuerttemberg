@@ -4,8 +4,8 @@ latitude: 48.77729
 longitude: 9.15542
 postcode: "70193"
 city: Stuttgart
-street: "Forststraße"
-housenumber: 102
+street: Forststraße
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://salonwest.de/"
+website: https://salonwest.de/

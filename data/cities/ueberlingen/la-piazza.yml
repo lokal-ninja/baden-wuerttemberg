@@ -1,11 +1,11 @@
 id: 126990961
-type: way
+type: node
 latitude: 47.77576
 longitude: 9.18879
 postcode: "88662"
 city: Überlingen
-street: "Lippertsreuter Straße"
-housenumber: 60
+street: Lippertsreuter Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

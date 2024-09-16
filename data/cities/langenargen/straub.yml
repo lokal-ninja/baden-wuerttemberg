@@ -1,11 +1,11 @@
 id: 41116019
-type: way
+type: node
 latitude: 47.61692
 longitude: 9.57314
 postcode: "88085"
 city: Langenargen
-street: "Dorfstraße"
-housenumber: 12
+street: Dorfstraße
+housenumber: "12"
 phone: ""
-opening_hours: "PH,Mo-Su 07:00-10:00"
+opening_hours: PH,Mo-Su 07:00-10:00
 website: ""

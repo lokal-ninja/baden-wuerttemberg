@@ -1,11 +1,11 @@
 id: 96639863
-type: way
+type: node
 latitude: 49.15005
 longitude: 9.13176
 postcode: "74211"
 city: Leingarten
-street: "Daimlerstraße"
-housenumber: 46
+street: Daimlerstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://www.autoglas-laier.de/"
+website: https://www.autoglas-laier.de/

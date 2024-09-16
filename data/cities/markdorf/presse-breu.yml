@@ -1,11 +1,11 @@
 id: 123601682
-type: way
+type: node
 latitude: 47.7171
 longitude: 9.38843
 postcode: "88677"
 city: Markdorf
-street: "Eisenbahnstraße"
+street: Eisenbahnstraße
 housenumber: 1b
 phone: ""
-opening_hours: "Mo-Fr 06:15-18:30; Sa 08:00-15:30; Su,PH 09:00-13:00"
+opening_hours: Mo-Fr 06:15-18:30; Sa 08:00-15:30; Su,PH 09:00-13:00
 website: ""

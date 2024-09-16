@@ -4,8 +4,8 @@ latitude: 48.404
 longitude: 8.01422
 postcode: "77723"
 city: Gengenbach
-street: "Hauptstraße"
-housenumber: 22
-phone: "+49 7803 93870"
-opening_hours: "Mo-Fr 09:00-13:00 , 14:00-18:00; Sa 09:00-18:00"
-website: "https://schuhhaus-theobald.de/theobald-gengenbach/"
+street: Hauptstraße
+housenumber: "22"
+phone: +49 7803 93870
+opening_hours: Mo-Fr 09:00-13:00 , 14:00-18:00; Sa 09:00-18:00
+website: https://schuhhaus-theobald.de/theobald-gengenbach/

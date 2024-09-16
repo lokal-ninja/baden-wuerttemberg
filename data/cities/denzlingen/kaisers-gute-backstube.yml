@@ -4,8 +4,8 @@ latitude: 48.06703
 longitude: 7.88375
 postcode: "79211"
 city: Denzlingen
-street: "Hauptstraße"
-housenumber: 177
+street: Hauptstraße
+housenumber: "177"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Su 07:30-18:00; Sa 06:30-18:00"
-website: "https://www.kaisers-backstube.de/standorte/denzlingen/am-kohlerhof.html"
+opening_hours: Mo-Fr 06:30-18:30; Su 07:30-18:00; Sa 06:30-18:00
+website: https://www.kaisers-backstube.de/standorte/denzlingen/am-kohlerhof.html

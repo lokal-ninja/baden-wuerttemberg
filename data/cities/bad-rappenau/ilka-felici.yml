@@ -4,8 +4,8 @@ latitude: 49.24129
 longitude: 9.09546
 postcode: "74906"
 city: Bad Rappenau
-street: "Adlerstraße"
-housenumber: 10
+street: Adlerstraße
+housenumber: "10"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

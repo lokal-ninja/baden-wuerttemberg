@@ -4,8 +4,8 @@ latitude: 49.34095
 longitude: 8.65733
 postcode: "69207"
 city: Sandhausen
-street: "Hauptstraße"
-housenumber: 81
+street: Hauptstraße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Fr 06:45-13:00,15:00-18:30; Sa 06:45-12:00"
-website: "https://www.metzgerei-balles.de/"
+opening_hours: Mo-Fr 06:45-13:00,15:00-18:30; Sa 06:45-12:00
+website: https://www.metzgerei-balles.de/

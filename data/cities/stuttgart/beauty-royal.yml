@@ -4,8 +4,8 @@ latitude: 48.76504
 longitude: 9.17133
 postcode: "70180"
 city: Stuttgart
-street: "Heusteigstraße"
-housenumber: 106
+street: Heusteigstraße
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.beautyroyal.de/html/start.html"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.beautyroyal.de/html/start.html

@@ -1,11 +1,11 @@
 id: 226998165
-type: way
+type: node
 latitude: 48.48218
 longitude: 7.92295
 postcode: "77656"
 city: Offenburg
-street: "In der Spöck"
-housenumber: 3
+street: In der Spöck
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

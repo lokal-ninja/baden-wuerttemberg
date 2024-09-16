@@ -4,8 +4,9 @@ latitude: 47.68486
 longitude: 9.83533
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Bindstraße"
-housenumber: 64
-phone: "+49 7522 914444"
-opening_hours: "Mo,We,Th 09:30-12:30,14:30-18:00; Fr 09:30-18:00; Sa 09:00-14:00; Su,Tu closed"
-website: "https://laufsport-gralki.de/"
+street: Bindstraße
+housenumber: "64"
+phone: +49 7522 914444
+opening_hours: Mo,We,Th 09:30-12:30,14:30-18:00; Fr 09:30-18:00; Sa 09:00-14:00; Su,Tu
+    closed
+website: https://laufsport-gralki.de/

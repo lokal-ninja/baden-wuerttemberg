@@ -1,11 +1,11 @@
 id: 197444420
-type: way
+type: node
 latitude: 48.94514
 longitude: 9.24249
 postcode: "71726"
 city: Benningen am Neckar
-street: "Ludwigsburger Straße"
-housenumber: 43
+street: Ludwigsburger Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

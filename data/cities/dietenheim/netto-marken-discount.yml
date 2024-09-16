@@ -1,11 +1,11 @@
 id: 172437791
-type: way
+type: node
 latitude: 48.20325
 longitude: 10.07372
 postcode: "89165"
 city: Dietenheim
-street: "Bürgermeister-Widmann-Straße"
-housenumber: 6
+street: Bürgermeister-Widmann-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

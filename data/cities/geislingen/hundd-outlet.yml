@@ -1,11 +1,11 @@
 id: 144549095
-type: way
+type: node
 latitude: 48.28852
 longitude: 8.8197
 postcode: "72351"
 city: Geislingen
-street: "Vorstadtstraße"
-housenumber: 69
+street: Vorstadtstraße
+housenumber: "69"
 phone: ""
 opening_hours: ""
-website: "http://www.hd-schuhe.de/geislingen.php"
+website: http://www.hd-schuhe.de/geislingen.php

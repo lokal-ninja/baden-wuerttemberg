@@ -1,11 +1,11 @@
 id: 296542542
-type: way
+type: node
 latitude: 48.78181
 longitude: 8.34335
 postcode: "76571"
 city: Gaggenau
-street: "Landstraße"
-housenumber: 41
-phone: "+49 7224 67775"
-opening_hours: "Mo-Fr 05:00-11:00; Sa 05:00-12:00"
+street: Landstraße
+housenumber: "41"
+phone: +49 7224 67775
+opening_hours: Mo-Fr 05:00-11:00; Sa 05:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 408917333
-type: way
+type: node
 latitude: 49.29581
 longitude: 8.51028
 postcode: "68804"
 city: Altlußheim
-street: "Lanzstraße"
-housenumber: 4
+street: Lanzstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://jk-autoglas.de/"
+website: https://jk-autoglas.de/

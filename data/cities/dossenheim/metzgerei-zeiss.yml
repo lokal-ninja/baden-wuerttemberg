@@ -4,8 +4,8 @@ latitude: 49.45408
 longitude: 8.66528
 postcode: "69221"
 city: Dossenheim
-street: "Gewerbestraße"
-housenumber: 19
-phone: "+49 6221 8673507"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.erich-zeiss.de/"
+street: Gewerbestraße
+housenumber: "19"
+phone: +49 6221 8673507
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.erich-zeiss.de/

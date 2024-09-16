@@ -1,11 +1,11 @@
 id: 201346555
-type: way
+type: node
 latitude: 49.24777
 longitude: 8.69095
 postcode: "69254"
 city: Malsch
-street: "Im Breiloch"
-housenumber: 2
+street: Im Breiloch
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:30-20:00; Su,PH off
 website: ""

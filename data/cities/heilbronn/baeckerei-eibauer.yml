@@ -1,11 +1,11 @@
 id: 109309258
-type: way
+type: node
 latitude: 49.19304
 longitude: 9.14425
 postcode: "74078"
 city: Heilbronn
-street: "Unterlandstraße"
-housenumber: 24
+street: Unterlandstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

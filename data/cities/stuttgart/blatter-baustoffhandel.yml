@@ -1,11 +1,11 @@
 id: 149742699
-type: way
+type: node
 latitude: 48.83262
 longitude: 9.17527
 postcode: "70435"
 city: Stuttgart
-street: "Ludwigsburger Straße"
-housenumber: 142
+street: Ludwigsburger Straße
+housenumber: "142"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-12:00"
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-12:00
 website: ""

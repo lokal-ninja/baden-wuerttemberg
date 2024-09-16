@@ -4,8 +4,8 @@ latitude: 48.75747
 longitude: 9.23403
 postcode: "70329"
 city: Stuttgart
-street: "Rohrackerstraße"
-housenumber: 213
+street: Rohrackerstraße
+housenumber: "213"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,13:00-17:30; Fr 07:30-12:00,13:00-17:00"
-website: "https://www.autohauswolf.info/"
+opening_hours: Mo-Th 07:30-12:00,13:00-17:30; Fr 07:30-12:00,13:00-17:00
+website: https://www.autohauswolf.info/

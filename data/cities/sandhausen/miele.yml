@@ -1,11 +1,11 @@
 id: 224983716
-type: way
+type: node
 latitude: 49.35099
 longitude: 8.65114
 postcode: "69207"
 city: Sandhausen
-street: "Industriestraße"
-housenumber: 28
-phone: "+49 6224 769990"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-13:00"
-website: "https://schneider.miele-center.de/"
+street: Industriestraße
+housenumber: "28"
+phone: +49 6224 769990
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-13:00
+website: https://schneider.miele-center.de/

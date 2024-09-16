@@ -1,11 +1,11 @@
 id: 99406348
-type: way
+type: node
 latitude: 49.13678
 longitude: 10.07252
 postcode: "74564"
 city: Crailsheim
-street: "Karlsplatz"
-housenumber: 4
+street: Karlsplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
 website: ""

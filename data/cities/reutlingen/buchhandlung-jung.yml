@@ -1,11 +1,11 @@
 id: 51832399
-type: way
+type: node
 latitude: 48.51738
 longitude: 9.22896
 postcode: "72766"
 city: Reutlingen
-street: "Reutlinger Straße"
-housenumber: 31
+street: Reutlinger Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00; PH closed"
+opening_hours: Mo-Fr 09:30-13:00; PH closed
 website: ""

@@ -1,11 +1,11 @@
 id: 44368662
-type: way
+type: node
 latitude: 48.80924
 longitude: 8.9564
 postcode: "71277"
 city: Rutesheim
-street: "Schillerstraße"
-housenumber: 68
+street: Schillerstraße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

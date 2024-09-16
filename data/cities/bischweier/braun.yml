@@ -1,11 +1,11 @@
 id: 312511826
-type: way
+type: node
 latitude: 48.83625
 longitude: 8.28207
 postcode: "76476"
 city: Bischweier
-street: "Bahnhofstraße"
-housenumber: 25
-phone: "+49 7222 5965671"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su 08:00-11:00"
+street: Bahnhofstraße
+housenumber: "25"
+phone: +49 7222 5965671
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su 08:00-11:00
 website: ""

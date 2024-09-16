@@ -1,11 +1,11 @@
 id: 71167167
-type: way
+type: node
 latitude: 49.32744
 longitude: 8.53741
 postcode: "68766"
 city: Hockenheim
-street: "Altriper Straße"
-housenumber: 2
+street: Altriper Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.engelbert-strauss.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.engelbert-strauss.de

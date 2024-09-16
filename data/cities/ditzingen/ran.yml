@@ -1,11 +1,11 @@
 id: 45688848
-type: way
+type: node
 latitude: 48.82346
 longitude: 9.07107
 postcode: "71254"
 city: Ditzingen
-street: "Siemensstraße"
-housenumber: 8
-phone: "+49 7156 330991"
-opening_hours: "24/7"
+street: Siemensstraße
+housenumber: "8"
+phone: +49 7156 330991
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.29383
 longitude: 8.96136
 postcode: "74924"
 city: Neckarbischofsheim
-street: "Allee La Chapelle-Saint-Luc"
-housenumber: 2
-phone: "+49 7263 6716"
-opening_hours: "Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:00-13:00; Su,PH off"
+street: Allee La Chapelle-Saint-Luc
+housenumber: "2"
+phone: +49 7263 6716
+opening_hours: Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:00-13:00; Su,PH off
 website: ""

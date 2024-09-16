@@ -1,11 +1,11 @@
 id: 116942098
-type: way
+type: node
 latitude: 48.40724
 longitude: 7.98789
 postcode: "77791"
 city: Berghaupten
-street: "Lindenstraße"
-housenumber: 4
+street: Lindenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

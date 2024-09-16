@@ -1,11 +1,11 @@
 id: 145619468
-type: way
+type: node
 latitude: 48.59022
 longitude: 9.21492
 postcode: "72657"
 city: Altenriet
-street: "Walddorfer Straße"
-housenumber: 79
-phone: "+49 7127 93270"
+street: Walddorfer Straße
+housenumber: "79"
+phone: +49 7127 93270
 opening_hours: ""
-website: "https://www.fenchel.de/"
+website: https://www.fenchel.de/

@@ -1,11 +1,11 @@
 id: 192528782
-type: way
+type: node
 latitude: 48.88874
 longitude: 8.24196
 postcode: "76470"
 city: Ötigheim
-street: "Industriestraße"
-housenumber: 42
+street: Industriestraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

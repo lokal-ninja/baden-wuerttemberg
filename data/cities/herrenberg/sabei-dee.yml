@@ -4,8 +4,8 @@ latitude: 48.59758
 longitude: 8.87059
 postcode: "71083"
 city: Herrenberg
-street: "Stuttgarter Straße"
-housenumber: 21
-phone: "+49 7032 9150646"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; PH, Su off"
-website: "https://sabeidee-herrenberg.de"
+street: Stuttgarter Straße
+housenumber: "21"
+phone: +49 7032 9150646
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-20:00; PH, Su off
+website: https://sabeidee-herrenberg.de

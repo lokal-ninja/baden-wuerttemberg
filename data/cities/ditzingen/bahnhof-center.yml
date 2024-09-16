@@ -1,11 +1,11 @@
 id: 383245890
-type: way
+type: node
 latitude: 48.824
 longitude: 9.06467
 postcode: "71254"
 city: Ditzingen
-street: "Stuttgarter Straße"
-housenumber: 43
+street: Stuttgarter Straße
+housenumber: "43"
 phone: ""
-opening_hours: "24/7"
-website: "https://city-parking.de/standorte/ditzingen-parkhaus-bahnhof-center/"
+opening_hours: 24/7
+website: https://city-parking.de/standorte/ditzingen-parkhaus-bahnhof-center/

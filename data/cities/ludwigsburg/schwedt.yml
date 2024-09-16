@@ -1,11 +1,11 @@
 id: 301791157
-type: way
+type: node
 latitude: 48.89337
 longitude: 9.22353
 postcode: "71640"
 city: Ludwigsburg
-street: "Friesenstraße"
-housenumber: 36
+street: Friesenstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

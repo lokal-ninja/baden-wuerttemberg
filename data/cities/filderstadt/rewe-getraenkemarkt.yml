@@ -1,11 +1,11 @@
 id: 187240684
-type: way
+type: node
 latitude: 48.68097
 longitude: 9.23962
 postcode: "70794"
 city: Filderstadt
-street: "Im Köller"
-housenumber: 7
-phone: "+49 7158 9569960"
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+street: Im Köller
+housenumber: "7"
+phone: +49 7158 9569960
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

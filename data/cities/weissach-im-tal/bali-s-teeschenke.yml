@@ -1,11 +1,11 @@
 id: 55782265
-type: way
+type: node
 latitude: 48.92995
 longitude: 9.47752
 postcode: "71554"
 city: Weissach im Tal
-street: "Forststraße"
-housenumber: 2
+street: Forststraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

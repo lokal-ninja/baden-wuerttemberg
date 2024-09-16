@@ -1,11 +1,11 @@
 id: 310251751
-type: way
+type: node
 latitude: 49.35171
 longitude: 9.09818
 postcode: "74847"
 city: Obrigheim
-street: "Auweg"
-housenumber: 2
+street: Auweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

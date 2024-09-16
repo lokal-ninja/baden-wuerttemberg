@@ -1,11 +1,11 @@
 id: 149024333
-type: way
+type: node
 latitude: 48.87973
 longitude: 10.18646
 postcode: "73463"
 city: Westhausen
-street: "Bohlerstraße"
-housenumber: 13
+street: Bohlerstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

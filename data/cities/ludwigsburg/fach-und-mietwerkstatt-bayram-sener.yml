@@ -1,11 +1,11 @@
 id: 141697734
-type: way
+type: node
 latitude: 48.88734
 longitude: 9.16939
 postcode: "71636"
 city: Ludwigsburg
-street: "Friedenstraße"
-housenumber: 93
+street: Friedenstraße
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.76806
 longitude: 9.17564
 postcode: "70180"
 city: Stuttgart
-street: "Heusteigstraße"
-housenumber: 67
+street: Heusteigstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.farben-heim.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.farben-heim.de/

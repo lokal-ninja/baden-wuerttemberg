@@ -1,11 +1,11 @@
 id: 51038651
-type: way
+type: node
 latitude: 49.47735
 longitude: 8.55942
 postcode: "68549"
 city: Ilvesheim
-street: "Kanzelbachstraße"
-housenumber: 42
+street: Kanzelbachstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 24065614
-type: way
+type: node
 latitude: 49.38028
 longitude: 8.58492
 postcode: "68723"
 city: Schwetzingen
-street: "Scheffelstraße"
-housenumber: 67
+street: Scheffelstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.denns-biomarkt.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.denns-biomarkt.de/

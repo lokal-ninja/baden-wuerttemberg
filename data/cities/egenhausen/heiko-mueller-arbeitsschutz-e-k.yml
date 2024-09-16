@@ -4,8 +4,8 @@ latitude: 48.57831
 longitude: 8.59578
 postcode: "72213"
 city: Egenhausen
-street: "Carl-von-Luz-Straße"
-housenumber: 4
-phone: "+49 7453-9483-0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:30"
-website: "https://www.mueller-arbeitsschutz.de/"
+street: Carl-von-Luz-Straße
+housenumber: "4"
+phone: +49 7453-9483-0
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:30
+website: https://www.mueller-arbeitsschutz.de/

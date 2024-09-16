@@ -1,11 +1,11 @@
 id: 708280717
-type: way
+type: node
 latitude: 49.01456
 longitude: 8.34421
 postcode: "76189"
 city: Karlsruhe
-street: "Hochbahnstraße"
-housenumber: 4
+street: Hochbahnstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-15:00;Sa,Su,PH off"
+opening_hours: Mo-Th 07:30-16:30; Fr 07:30-15:00;Sa,Su,PH off
 website: ""

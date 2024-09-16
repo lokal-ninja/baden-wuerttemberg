@@ -1,11 +1,11 @@
 id: 422584961
-type: way
+type: node
 latitude: 49.29767
 longitude: 9.96365
 postcode: "74572"
 city: Blaufelden
-street: "Rudolf-Diesel-Straße"
-housenumber: 29
+street: Rudolf-Diesel-Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

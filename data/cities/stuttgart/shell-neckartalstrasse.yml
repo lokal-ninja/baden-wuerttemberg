@@ -1,11 +1,11 @@
 id: 124461617
-type: way
+type: node
 latitude: 48.81909
 longitude: 9.22697
 postcode: "70376"
 city: Stuttgart
-street: "Neckartalstraße"
-housenumber: 300
+street: Neckartalstraße
+housenumber: "300"
 phone: ""
-opening_hours: "PH,Mo-Su 06:00-24:00"
+opening_hours: PH,Mo-Su 06:00-24:00
 website: ""

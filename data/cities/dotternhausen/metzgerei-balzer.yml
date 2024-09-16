@@ -1,11 +1,11 @@
 id: 140594939
-type: way
+type: node
 latitude: 48.22703
 longitude: 8.788
 postcode: "72359"
 city: Dotternhausen
-street: "Brückenstraße"
-housenumber: 1
+street: Brückenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

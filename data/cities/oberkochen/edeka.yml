@@ -1,11 +1,11 @@
 id: 249459750
-type: way
+type: node
 latitude: 48.78547
 longitude: 10.11053
 postcode: "73447"
 city: Oberkochen
-street: "Aalener Straße"
-housenumber: 50
+street: Aalener Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

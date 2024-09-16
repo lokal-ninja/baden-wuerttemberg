@@ -1,11 +1,11 @@
 id: 200041682
-type: way
+type: node
 latitude: 48.14724
 longitude: 7.69896
 postcode: "79346"
 city: Endingen am Kaiserstuhl
-street: "Elsässer Straße"
-housenumber: 1
+street: Elsässer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/filialen/endingen/elsaesser-str-1.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/filialen/endingen/elsaesser-str-1.html

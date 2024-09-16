@@ -1,11 +1,11 @@
 id: 64425403
-type: way
+type: node
 latitude: 48.68931
 longitude: 8.95644
 postcode: "71034"
 city: Böblingen
-street: "Böblinger Straße"
-housenumber: 21
+street: Böblinger Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00, Mo-Fr 13:00-17:00"
+opening_hours: Mo-Sa 08:00-12:00, Mo-Fr 13:00-17:00
 website: ""

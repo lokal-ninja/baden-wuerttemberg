@@ -1,11 +1,11 @@
 id: 258377224
-type: way
+type: node
 latitude: 48.93356
 longitude: 8.56835
 postcode: "75196"
 city: Remchingen
-street: "Tullastraße"
-housenumber: 8
+street: Tullastraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.64037
 longitude: 9.13865
 postcode: "71111"
 city: Waldenbuch
-street: "Forststraße"
-housenumber: 20
-phone: "+49 7157 20599"
-opening_hours: "Mo-Fr 08:30-13:00,15:00-18:00; Sa 08:30-13:00"
-website: "https://www.waldenbuchladen.de/"
+street: Forststraße
+housenumber: "20"
+phone: +49 7157 20599
+opening_hours: Mo-Fr 08:30-13:00,15:00-18:00; Sa 08:30-13:00
+website: https://www.waldenbuchladen.de/

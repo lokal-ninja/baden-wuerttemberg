@@ -4,8 +4,8 @@ latitude: 48.5213
 longitude: 9.05029
 postcode: "72070"
 city: Tübingen
-street: "Jakobsgasse"
-housenumber: 22
+street: Jakobsgasse
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,16:00-20:00; Sa 09:00-14:00; We,Su,PH off"
-website: "https://www.weinhaus-schmid-tuebingen.de/"
+opening_hours: Mo-Fr 10:00-13:00,16:00-20:00; Sa 09:00-14:00; We,Su,PH off
+website: https://www.weinhaus-schmid-tuebingen.de/

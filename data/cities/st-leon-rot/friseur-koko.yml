@@ -4,8 +4,8 @@ latitude: 49.26677
 longitude: 8.60006
 postcode: "68789"
 city: St. Leon-Rot
-street: "Marktstraße"
-housenumber: 65
-phone: "+49 6227 544664"
-opening_hours: "Tu-Fr 8:30-12:00,14:00-18:00;Sa 8:00-12:00"
-website: "https://www.friseur-koko.de/"
+street: Marktstraße
+housenumber: "65"
+phone: +49 6227 544664
+opening_hours: Tu-Fr 8:30-12:00,14:00-18:00;Sa 8:00-12:00
+website: https://www.friseur-koko.de/

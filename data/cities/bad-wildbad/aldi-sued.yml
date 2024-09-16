@@ -1,11 +1,11 @@
 id: 194691134
-type: way
+type: node
 latitude: 48.77485
 longitude: 8.57005
 postcode: ""
 city: Bad Wildbad
-street: "Wildbader Straße"
-housenumber: 49
+street: Wildbader Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

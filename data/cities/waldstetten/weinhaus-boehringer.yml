@@ -1,11 +1,11 @@
 id: 209911177
-type: way
+type: node
 latitude: 48.73233
 longitude: 9.81054
 postcode: "73550"
 city: Waldstetten
-street: "Talstraße"
-housenumber: 11
+street: Talstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

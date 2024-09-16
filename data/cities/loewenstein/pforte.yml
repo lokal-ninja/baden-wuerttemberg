@@ -1,11 +1,11 @@
 id: 108970360
-type: way
+type: node
 latitude: 49.09909
 longitude: 9.41022
 postcode: "74245"
 city: Löwenstein
-street: "Im Klosterhof"
-housenumber: 2
+street: Im Klosterhof
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

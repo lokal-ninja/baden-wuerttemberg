@@ -1,11 +1,11 @@
 id: 116395380
-type: way
+type: node
 latitude: 48.96204
 longitude: 9.25959
 postcode: "71711"
 city: Murr
-street: "Hindenburgstraße"
-housenumber: 61
-phone: "+49 7144 25119"
+street: Hindenburgstraße
+housenumber: "61"
+phone: +49 7144 25119
 opening_hours: ""
-website: "https://www.sport-schwab-murr.de/"
+website: https://www.sport-schwab-murr.de/

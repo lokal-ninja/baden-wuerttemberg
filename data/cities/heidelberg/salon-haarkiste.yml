@@ -1,11 +1,11 @@
 id: 141457104
-type: way
+type: node
 latitude: 49.37743
 longitude: 8.66741
 postcode: "69124"
 city: Heidelberg
-street: "Hegenichstraße"
-housenumber: 12
+street: Hegenichstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.haarkiste.com/"
+website: https://www.haarkiste.com/

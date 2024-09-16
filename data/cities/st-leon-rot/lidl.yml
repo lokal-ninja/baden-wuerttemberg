@@ -1,11 +1,11 @@
 id: 795275562
-type: way
+type: node
 latitude: 49.26929
 longitude: 8.61369
 postcode: "68789"
 city: St. Leon-Rot
-street: "Im Schiff"
-housenumber: 28
+street: Im Schiff
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.27897
 longitude: 8.85232
 postcode: "72336"
 city: Balingen
-street: "Olgastraße"
-housenumber: 8
-phone: "+49 7433 27181"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
-website: "http://www.raduga-balingen.de/"
+street: Olgastraße
+housenumber: "8"
+phone: +49 7433 27181
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00
+website: http://www.raduga-balingen.de/

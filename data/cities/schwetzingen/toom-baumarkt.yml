@@ -1,11 +1,11 @@
 id: 91575512
-type: way
+type: node
 latitude: 49.37803
 longitude: 8.58234
 postcode: "68723"
 city: Schwetzingen
-street: "Rudolf-Diesel-Straße"
-housenumber: 8
-phone: "+49 6202 5749410"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "http://www.toom-baumarkt.de/nc/mein-markt/?setmarket=182"
+street: Rudolf-Diesel-Straße
+housenumber: "8"
+phone: +49 6202 5749410
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: http://www.toom-baumarkt.de/nc/mein-markt/?setmarket=182

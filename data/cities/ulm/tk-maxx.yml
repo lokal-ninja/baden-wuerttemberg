@@ -4,8 +4,8 @@ latitude: 48.39951
 longitude: 9.98527
 postcode: "89073"
 city: Ulm
-street: "Albert-Einstein-Platz"
-housenumber: 13
-phone: "+49 731 3608810"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.tkmaxx.de/"
+street: Albert-Einstein-Platz
+housenumber: "13"
+phone: +49 731 3608810
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.tkmaxx.de/

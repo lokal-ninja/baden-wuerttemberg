@@ -1,11 +1,11 @@
 id: 211619228
-type: way
+type: node
 latitude: 49.16613
 longitude: 9.44226
 postcode: "74626"
 city: Bretzfeld
-street: "Am Zollstock"
-housenumber: 2
+street: Am Zollstock
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
-website: "https://netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00; PH,Su off
+website: https://netto-online.de

@@ -1,11 +1,11 @@
 id: 306135054
-type: way
+type: node
 latitude: 49.58425
 longitude: 9.36637
 postcode: "74731"
 city: Walldürn
-street: "Burgstraße"
-housenumber: 9
-phone: "+49 6282 8632"
+street: Burgstraße
+housenumber: "9"
+phone: +49 6282 8632
 opening_hours: ""
-website: "http://www.kerzen-Kehl.de"
+website: http://www.kerzen-Kehl.de

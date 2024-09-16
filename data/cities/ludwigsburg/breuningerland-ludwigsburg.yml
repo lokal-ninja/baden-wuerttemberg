@@ -1,11 +1,11 @@
 id: 93571856
-type: way
+type: node
 latitude: 48.92115
 longitude: 9.15018
 postcode: "71634"
 city: Ludwigsburg
-street: "Heinkelstraße"
+street: Heinkelstraße
 housenumber: 1-11
-phone: "+49 7141 3041"
-opening_hours: "Mo - Sa: 10.00 - 20.00 Uhr"
-website: "https://www.breuningerland-ludwigsburg.de/"
+phone: +49 7141 3041
+opening_hours: 'Mo - Sa: 10.00 - 20.00 Uhr'
+website: https://www.breuningerland-ludwigsburg.de/

@@ -4,8 +4,8 @@ latitude: 48.77549
 longitude: 9.1557
 postcode: "70193"
 city: Stuttgart
-street: "Schwabstraße"
-housenumber: 91
+street: Schwabstraße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.lidl.de/filialen/stuttgart-west/schwabstr-91.html"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.lidl.de/filialen/stuttgart-west/schwabstr-91.html

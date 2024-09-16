@@ -1,11 +1,11 @@
 id: 121770352
-type: way
+type: node
 latitude: 48.87599
 longitude: 9.39803
 postcode: "71364"
 city: Winnenden
-street: "Wagnerstraße"
-housenumber: 8
-phone: "+49 7195 5872966"
+street: Wagnerstraße
+housenumber: "8"
+phone: +49 7195 5872966
 opening_hours: ""
 website: ""

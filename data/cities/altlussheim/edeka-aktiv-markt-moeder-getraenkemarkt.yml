@@ -1,11 +1,11 @@
 id: 289220396
-type: way
+type: node
 latitude: 49.29539
 longitude: 8.5108
 postcode: "68804"
 city: Altlußheim
-street: "Lanzstraße"
-housenumber: 2
+street: Lanzstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00; Fr-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Th 08:00-20:00; Fr-Sa 08:00-21:00; Su,PH off
 website: ""

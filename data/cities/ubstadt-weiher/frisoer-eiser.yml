@@ -1,11 +1,11 @@
 id: 141186620
-type: way
+type: node
 latitude: 49.17888
 longitude: 8.62187
 postcode: "76698"
 city: Ubstadt-Weiher
-street: "Hauptstraße"
-housenumber: 69
-phone: "07251/63634"
+street: Hauptstraße
+housenumber: "69"
+phone: 07251/63634
 opening_hours: ""
 website: ""

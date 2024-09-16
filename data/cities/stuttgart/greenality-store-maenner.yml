@@ -4,8 +4,8 @@ latitude: 48.77887
 longitude: 9.17712
 postcode: "70173"
 city: Stuttgart
-street: "Fürstenstraße"
-housenumber: 5
+street: Fürstenstraße
+housenumber: "5"
 phone: "+4971116917850"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.greenality.de/stores/store-stuttgart"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.greenality.de/stores/store-stuttgart

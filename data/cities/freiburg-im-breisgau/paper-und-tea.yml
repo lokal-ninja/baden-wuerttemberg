@@ -4,8 +4,8 @@ latitude: 47.99582
 longitude: 7.85104
 postcode: "79098"
 city: Freiburg im Breisgau
-street: "Kaiser-Joseph-Straße"
-housenumber: 179
+street: Kaiser-Joseph-Straße
+housenumber: "179"
 phone: ""
-opening_hours: "closed Geschäft soll im Februar eröffnet werden."
-website: "https://www.paperandtea.de"
+opening_hours: closed "Geschäft soll im Februar eröffnet werden."
+website: https://www.paperandtea.de

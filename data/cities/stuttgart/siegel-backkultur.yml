@@ -4,8 +4,8 @@ latitude: 48.81412
 longitude: 9.1132
 postcode: "70499"
 city: Stuttgart
-street: "Löwen-Markt"
-housenumber: 3
-phone: "+49 711 86058853"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-16:00; Su 07:30-17:00"
-website: "https://www.siegel-backkultur.de/"
+street: Löwen-Markt
+housenumber: "3"
+phone: +49 711 86058853
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-16:00; Su 07:30-17:00
+website: https://www.siegel-backkultur.de/

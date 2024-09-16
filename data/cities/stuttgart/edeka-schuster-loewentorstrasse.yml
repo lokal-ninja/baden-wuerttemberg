@@ -1,11 +1,11 @@
 id: 124040763
-type: way
+type: node
 latitude: 48.82141
 longitude: 9.21005
 postcode: "70376"
 city: Stuttgart
-street: "Löwentorstraße"
-housenumber: 257
+street: Löwentorstraße
+housenumber: "257"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

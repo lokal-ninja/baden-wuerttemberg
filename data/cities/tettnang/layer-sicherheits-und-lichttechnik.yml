@@ -1,11 +1,11 @@
 id: 417365299
-type: way
+type: node
 latitude: 47.66341
 longitude: 9.57163
 postcode: "88069"
 city: Tettnang
-street: "Klausenburger Straße"
-housenumber: 16
+street: Klausenburger Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 108956755
-type: way
+type: node
 latitude: 49.33177
 longitude: 8.44474
 postcode: "67346"
 city: Speyer
-street: "Im Geißhorn"
-housenumber: 4
+street: Im Geißhorn
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.wassersport-moser.de/"
+website: https://www.wassersport-moser.de/

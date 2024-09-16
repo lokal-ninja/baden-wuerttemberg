@@ -1,11 +1,11 @@
 id: 1220156696
-type: way
+type: node
 latitude: 49.07607
 longitude: 9.14808
 postcode: "74348"
 city: Lauffen am Neckar
-street: "Bahnhofstraße"
-housenumber: 44
-phone: "+49-7133-1201584"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
+street: Bahnhofstraße
+housenumber: "44"
+phone: +49-7133-1201584
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
 website: ""

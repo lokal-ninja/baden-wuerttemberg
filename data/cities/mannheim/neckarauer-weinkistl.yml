@@ -4,8 +4,8 @@ latitude: 49.45329
 longitude: 8.48968
 postcode: "68199"
 city: Mannheim
-street: "Rheingoldstraße"
-housenumber: 15
-phone: "+49 172 6301475"
-opening_hours: "Th 15:00-18:30; Fr 15:00-18:30; Sa 10:00-14:00"
-website: "https://www.weinkistl-neckarau.de/"
+street: Rheingoldstraße
+housenumber: "15"
+phone: +49 172 6301475
+opening_hours: Th 15:00-18:30; Fr 15:00-18:30; Sa 10:00-14:00
+website: https://www.weinkistl-neckarau.de/

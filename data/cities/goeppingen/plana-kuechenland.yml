@@ -4,8 +4,8 @@ latitude: 48.69828
 longitude: 9.68008
 postcode: "73037"
 city: Göppingen
-street: "Am Autohof"
-housenumber: 30
-phone: "+49 7161 658685"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "https://www.plana.de/kuechenstudios/goeppingen"
+street: Am Autohof
+housenumber: "30"
+phone: +49 7161 658685
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+website: https://www.plana.de/kuechenstudios/goeppingen

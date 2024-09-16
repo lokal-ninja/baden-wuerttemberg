@@ -1,11 +1,11 @@
 id: 213869751
-type: way
+type: node
 latitude: 48.46701
 longitude: 8.44066
 postcode: "72250"
 city: Freudenstadt
-street: "Gutenbergstraße"
-housenumber: 2
+street: Gutenbergstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

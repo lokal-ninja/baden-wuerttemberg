@@ -1,11 +1,11 @@
 id: 296542460
-type: way
+type: node
 latitude: 48.78225
 longitude: 8.3436
 postcode: "76571"
 city: Gaggenau
-street: "Landstraße"
-housenumber: 37
+street: Landstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 326768783
-type: way
+type: node
 latitude: 49.03747
 longitude: 8.35375
 postcode: "76187"
 city: Karlsruhe
-street: "Sudetenstraße"
-housenumber: 75
-phone: "+49 721 5704430"
+street: Sudetenstraße
+housenumber: "75"
+phone: +49 721 5704430
 opening_hours: ""
 website: ""

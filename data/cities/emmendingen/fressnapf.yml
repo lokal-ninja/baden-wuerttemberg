@@ -4,8 +4,8 @@ latitude: 48.12469
 longitude: 7.83366
 postcode: "79312"
 city: Emmendingen
-street: "Am Elzdamm"
-housenumber: 36
+street: Am Elzdamm
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00"
-website: "https://www.fressnapf.de/"
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00
+website: https://www.fressnapf.de/

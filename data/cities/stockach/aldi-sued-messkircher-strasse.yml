@@ -1,11 +1,11 @@
 id: 893749639
-type: way
+type: node
 latitude: 47.8529
 longitude: 9.00653
 postcode: "78333"
 city: Stockach
-street: "Meßkircher Straße"
-housenumber: 2
+street: Meßkircher Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/stockach/messkircher-strasse-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/stockach/messkircher-strasse-2

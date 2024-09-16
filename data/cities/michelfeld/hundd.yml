@@ -1,11 +1,11 @@
 id: 153024310
-type: way
+type: node
 latitude: 49.10148
 longitude: 9.69551
 postcode: "74545"
 city: Michelfeld
-street: "Daimlerstraße"
-housenumber: 63
+street: Daimlerstraße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

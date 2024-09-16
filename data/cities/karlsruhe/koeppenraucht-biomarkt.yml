@@ -1,11 +1,11 @@
 id: 119050190
-type: way
+type: node
 latitude: 48.97176
 longitude: 8.40486
 postcode: "76199"
 city: Karlsruhe
-street: "Herrenalber Straße"
-housenumber: 45
-phone: "+49 721 9887870"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00; Su,PH off"
-website: "http://www.koeppenraucht.de/"
+street: Herrenalber Straße
+housenumber: "45"
+phone: +49 721 9887870
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00; Su,PH off
+website: http://www.koeppenraucht.de/

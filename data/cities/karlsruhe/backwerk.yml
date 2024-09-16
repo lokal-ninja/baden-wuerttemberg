@@ -1,11 +1,11 @@
 id: 362152727
-type: way
+type: node
 latitude: 49.00945
 longitude: 8.4096
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 22
+street: Kaiserstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 07:00-13:30; PH,Su off"
+opening_hours: Mo-Fr 05:30-18:00; Sa 07:00-13:30; PH,Su off
 website: ""

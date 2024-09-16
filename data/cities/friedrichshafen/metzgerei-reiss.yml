@@ -4,8 +4,8 @@ latitude: 47.66112
 longitude: 9.48235
 postcode: "88046"
 city: Friedrichshafen
-street: "Ailinger Straße"
-housenumber: 77
-phone: "+49 7541 21753"
-opening_hours: "We 08:00-12:30; Sa 08:00-12:00; Tu, Th-Fr 08:00-12:30, 14:30-18:00"
-website: "https://www.metzgerei-reiss.de/"
+street: Ailinger Straße
+housenumber: "77"
+phone: +49 7541 21753
+opening_hours: We 08:00-12:30; Sa 08:00-12:00; Tu, Th-Fr 08:00-12:30, 14:30-18:00
+website: https://www.metzgerei-reiss.de/

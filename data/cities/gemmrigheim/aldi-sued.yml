@@ -1,11 +1,11 @@
 id: 41958663
-type: way
+type: node
 latitude: 49.03066
 longitude: 9.15347
 postcode: "74376"
 city: Gemmrigheim
-street: "Mühläckerweg"
-housenumber: 1
+street: Mühläckerweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH closed"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH closed
+website: https://www.aldi-sued.de/

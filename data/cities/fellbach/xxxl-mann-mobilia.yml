@@ -1,11 +1,11 @@
 id: 127963787
-type: way
+type: node
 latitude: 48.81567
 longitude: 9.28648
 postcode: "70734"
 city: Fellbach
-street: "Edisonstraße"
-housenumber: 5
+street: Edisonstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.xxxlutz.de/c/xxxl-mann-mobilia-fellbach"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.xxxlutz.de/c/xxxl-mann-mobilia-fellbach

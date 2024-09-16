@@ -4,8 +4,8 @@ latitude: 48.74998
 longitude: 8.25444
 postcode: "76534"
 city: Baden-Baden
-street: "Maximilianstraße"
-housenumber: 45
-phone: "+49 7221 7438"
-opening_hours: "Mo-Su 06:00-22:00"
+street: Maximilianstraße
+housenumber: "45"
+phone: +49 7221 7438
+opening_hours: Mo-Su 06:00-22:00
 website: ""

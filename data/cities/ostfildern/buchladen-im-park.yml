@@ -4,8 +4,8 @@ latitude: 48.71927
 longitude: 9.27172
 postcode: "73760"
 city: Ostfildern
-street: "Niemöllerstraße"
-housenumber: 12
+street: Niemöllerstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 09:30-13:00,14:30-18:00; Sa 09:30-13:00"
-website: "https://www.buchladenimpark.de/"
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-11:00; Mo off
+website: https://www.buchladenimpark.de/

@@ -1,11 +1,11 @@
 id: 31026534
-type: way
+type: node
 latitude: 49.15434
 longitude: 9.21423
 postcode: "74076"
 city: Heilbronn
-street: "Etzelstraße"
-housenumber: 44
+street: Etzelstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

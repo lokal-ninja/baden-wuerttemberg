@@ -1,11 +1,11 @@
 id: 121599085
-type: way
+type: node
 latitude: 47.75553
 longitude: 8.86552
 postcode: "78224"
 city: Singen (Hohentwiel)
-street: "Freibühlstraße"
-housenumber: 9
+street: Freibühlstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://moebel-lux.de"
+website: https://moebel-lux.de

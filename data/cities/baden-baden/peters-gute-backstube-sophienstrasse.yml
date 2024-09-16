@@ -4,8 +4,8 @@ latitude: 48.76082
 longitude: 8.24016
 postcode: "76530"
 city: Baden-Baden
-street: "Sophienstraße"
-housenumber: 12
+street: Sophienstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 06:30-18:00; Su 08:00-18:00"
-website: "http://www.peters-gute-backstube.de/"
+opening_hours: Mo-Sa 06:30-18:00; Su 08:00-18:00
+website: http://www.peters-gute-backstube.de/

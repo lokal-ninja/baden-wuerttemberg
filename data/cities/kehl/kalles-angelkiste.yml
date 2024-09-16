@@ -4,8 +4,8 @@ latitude: 48.60463
 longitude: 7.83408
 postcode: "77694"
 city: Kehl
-street: "Eisenbahnstraße"
-housenumber: 13
-phone: "+49 7851 8986944"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00, 14:30-18:00, Sa 09:00-14:00"
-website: "http://www.kalles-angelkiste.de"
+street: Eisenbahnstraße
+housenumber: "13"
+phone: +49 7851 8986944
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00, 14:30-18:00, Sa 09:00-14:00
+website: http://www.kalles-angelkiste.de

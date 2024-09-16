@@ -1,11 +1,11 @@
 id: 199086070
-type: way
+type: node
 latitude: 48.99483
 longitude: 8.79589
 postcode: "75433"
 city: Maulbronn
-street: "Talweg"
-housenumber: 2
+street: Talweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
+opening_hours: Mo-Sa 08:00-20:00; Su off
 website: ""

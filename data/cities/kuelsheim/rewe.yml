@@ -1,11 +1,11 @@
 id: 380781615
-type: way
+type: node
 latitude: 49.66593
 longitude: 9.51304
 postcode: "97900"
 city: Külsheim
-street: "Prinz-Eugen-Straße"
-housenumber: 1
+street: Prinz-Eugen-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

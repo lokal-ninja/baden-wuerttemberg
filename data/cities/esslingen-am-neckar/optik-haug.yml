@@ -1,11 +1,11 @@
 id: 193939519
-type: way
+type: node
 latitude: 48.73997
 longitude: 9.30497
 postcode: "73728"
 city: Esslingen am Neckar
-street: "Unterer Metzgerbach"
-housenumber: 26
-phone: "+49 711 357361"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-15:00"
+street: Unterer Metzgerbach
+housenumber: "26"
+phone: +49 711 357361
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-15:00
 website: ""

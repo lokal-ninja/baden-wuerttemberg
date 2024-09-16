@@ -1,11 +1,11 @@
 id: 80377752
-type: way
+type: node
 latitude: 48.726
 longitude: 8.79209
 postcode: "75382"
 city: Althengstett
-street: "Nordstraße"
-housenumber: 4
+street: Nordstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

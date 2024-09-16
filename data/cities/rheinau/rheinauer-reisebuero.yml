@@ -4,8 +4,9 @@ latitude: 48.66516
 longitude: 7.93824
 postcode: "77866"
 city: Rheinau
-street: "Rheinstraße"
-housenumber: 16
-phone: "+49 7844 918781"
-opening_hours: "Mo-Tu 09:30-12:00, 14:30-18:30; We 09:30-12:30; Th-Fr 09:30-12:00, 14:30-18:30; Sa 09:30-12:00"
+street: Rheinstraße
+housenumber: "16"
+phone: +49 7844 918781
+opening_hours: Mo-Tu 09:30-12:00, 14:30-18:30; We 09:30-12:30; Th-Fr 09:30-12:00,
+    14:30-18:30; Sa 09:30-12:00
 website: ""

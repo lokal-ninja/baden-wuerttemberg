@@ -1,11 +1,11 @@
 id: 104556518
-type: way
+type: node
 latitude: 47.98213
 longitude: 7.71868
 postcode: "79112"
 city: Freiburg im Breisgau
-street: "Freiburger Landstraße"
-housenumber: 13
-phone: "+49 7664 3715"
-opening_hours: "Mo-Fr 08:00-12:30; Mo-Fr 14:00-17:00"
-website: "http://www.autohaus-perrone.de"
+street: Freiburger Landstraße
+housenumber: "13"
+phone: +49 7664 3715
+opening_hours: Mo-Fr 08:00-12:30; Mo-Fr 14:00-17:00
+website: http://www.autohaus-perrone.de

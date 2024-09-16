@@ -4,8 +4,8 @@ latitude: 48.90788
 longitude: 9.16337
 postcode: "71634"
 city: Ludwigsburg
-street: "Hirschbergstraße"
-housenumber: 43
-phone: "+49 7141 923690"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-14:00"
+street: Hirschbergstraße
+housenumber: "43"
+phone: +49 7141 923690
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-14:00
 website: ""

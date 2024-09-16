@@ -4,8 +4,8 @@ latitude: 48.46692
 longitude: 9.22548
 postcode: "72793"
 city: Pfullingen
-street: "Lindenplatz"
+street: Lindenplatz
 housenumber: 15/1
-phone: "+49 172 9726477"
-opening_hours: "Termine nach telefonischer Vereinbarung"
-website: "https://www.duan-thaimassage.de"
+phone: +49 172 9726477
+opening_hours: '"Termine nach telefonischer Vereinbarung"'
+website: https://www.duan-thaimassage.de

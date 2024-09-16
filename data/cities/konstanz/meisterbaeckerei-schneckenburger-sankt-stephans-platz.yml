@@ -4,8 +4,8 @@ latitude: 47.66155
 longitude: 9.17385
 postcode: "78462"
 city: Konstanz
-street: "Sankt-Stephans-Platz"
-housenumber: 4
-phone: "+49 7531 9167653"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-19:00; Su 08:00-17:00"
-website: "https://www.meisterbaeckerei.de"
+street: Sankt-Stephans-Platz
+housenumber: "4"
+phone: +49 7531 9167653
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-19:00; Su 08:00-17:00
+website: https://www.meisterbaeckerei.de

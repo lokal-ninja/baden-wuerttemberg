@@ -1,11 +1,11 @@
 id: 32297143
-type: way
+type: node
 latitude: 48.73553
 longitude: 9.3208
 postcode: "73730"
 city: Esslingen am Neckar
-street: "Plochinger Straße"
-housenumber: 22
+street: Plochinger Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 06:30-14:00; Sa 07:00-12:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 06:30-14:00; Sa 07:00-12:00; Su 08:00-11:00
 website: ""

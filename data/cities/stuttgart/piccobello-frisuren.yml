@@ -4,8 +4,8 @@ latitude: 48.73127
 longitude: 9.10437
 postcode: "70563"
 city: Stuttgart
-street: "Bachstraße"
-housenumber: 39
+street: Bachstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-19:00; Fr 08:00-18:00"
+opening_hours: Mo-We 09:00-18:00; Th 09:00-19:00; Fr 08:00-18:00
 website: ""

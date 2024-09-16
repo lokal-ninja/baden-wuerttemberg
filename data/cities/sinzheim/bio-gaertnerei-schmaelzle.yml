@@ -4,8 +4,8 @@ latitude: 48.75046
 longitude: 8.14089
 postcode: "76547"
 city: Sinzheim
-street: "Hofmattstraße"
-housenumber: 40
-phone: "+49 7223 6361"
-opening_hours: "Mo-Th 09:00-13:00;Fr-Su, PH off"
-website: "https://www.schmaelzle.com/"
+street: Hofmattstraße
+housenumber: "40"
+phone: +49 7223 6361
+opening_hours: Mo-Th 09:00-13:00;Fr-Su, PH off
+website: https://www.schmaelzle.com/

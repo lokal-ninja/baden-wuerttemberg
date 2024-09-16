@@ -4,8 +4,8 @@ latitude: 48.66698
 longitude: 8.47385
 postcode: "75337"
 city: Enzklösterle
-street: "Wildbader Straße"
+street: Wildbader Straße
 housenumber: 1/1
 phone: ""
-opening_hours: "Sommer: täglich 10-18, Winter Mi-Sa 10-13+14-18"
-website: "http://www.heidelbeer-haus.de"
+opening_hours: '"Sommer: täglich 10-18, Winter Mi-Sa 10-13+14-18"'
+website: http://www.heidelbeer-haus.de

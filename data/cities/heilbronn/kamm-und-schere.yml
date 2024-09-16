@@ -1,11 +1,11 @@
 id: 88416281
-type: way
+type: node
 latitude: 49.1394
 longitude: 9.24398
 postcode: "74074"
 city: Heilbronn
-street: "Jägerhausstraße"
-housenumber: 46
+street: Jägerhausstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

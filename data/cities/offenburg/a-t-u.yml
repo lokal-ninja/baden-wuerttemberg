@@ -1,11 +1,11 @@
 id: 313269922
-type: way
+type: node
 latitude: 48.48602
 longitude: 7.94196
 postcode: "77652"
 city: Offenburg
-street: "Englerstraße"
-housenumber: 6
+street: Englerstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 36379482
-type: way
+type: node
 latitude: 48.77105
 longitude: 8.85942
 postcode: "71263"
 city: Weil der Stadt
-street: "Industriestraße"
-housenumber: 37
+street: Industriestraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://www.weil-der-stadt.de/de/Wirtschaft-Bauen/Branchenverzeichnis/Unternehmen-A-Z/Unternehmen?view=publish&item=company&id=1051"
+website: https://www.weil-der-stadt.de/de/Wirtschaft-Bauen/Branchenverzeichnis/Unternehmen-A-Z/Unternehmen?view=publish&item=company&id=1051

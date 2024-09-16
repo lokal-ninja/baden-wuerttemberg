@@ -4,8 +4,8 @@ latitude: 48.76256
 longitude: 9.26852
 postcode: "70329"
 city: Stuttgart
-street: "Göppinger Straße"
-housenumber: 25
+street: Göppinger Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.stadtwerke-stuttgart.de/solarenergie/solarbank/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.stadtwerke-stuttgart.de/solarenergie/solarbank/

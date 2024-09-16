@@ -1,11 +1,11 @@
 id: 88818541
-type: way
+type: node
 latitude: 49.06752
 longitude: 9.21623
 postcode: "74360"
 city: Ilsfeld
-street: "Heerweg"
-housenumber: 1
+street: Heerweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 18:00-21:00"
+opening_hours: Mo-Fr 18:00-21:00
 website: ""

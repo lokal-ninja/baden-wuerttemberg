@@ -4,8 +4,8 @@ latitude: 47.68656
 longitude: 9.83347
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Herrenstraße"
-housenumber: 9
-phone: "+49 7522 9160930"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-16:00; PH off"
-website: "https://www.osiander.de/"
+street: Herrenstraße
+housenumber: "9"
+phone: +49 7522 9160930
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-16:00; PH off
+website: https://www.osiander.de/

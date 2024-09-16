@@ -1,11 +1,11 @@
 id: 568577879
-type: way
+type: node
 latitude: 49.08677
 longitude: 9.87231
 postcode: "74541"
 city: Vellberg
-street: "Am Bärenbach"
-housenumber: 1
+street: Am Bärenbach
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

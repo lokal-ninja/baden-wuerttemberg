@@ -1,11 +1,11 @@
 id: 210239268
-type: way
+type: node
 latitude: 49.00738
 longitude: 8.52577
 postcode: "76327"
 city: Pfinztal
-street: "Gewerbestraße"
-housenumber: 28
+street: Gewerbestraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.reisser.de/"
+website: https://www.reisser.de/

@@ -1,11 +1,11 @@
 id: 551385739
-type: way
+type: node
 latitude: 48.69492
 longitude: 9.67988
 postcode: "73037"
 city: Göppingen
-street: "Heilbronner Straße"
-housenumber: 8
-phone: "+49 7161 6732 0"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-15:00"
-website: "https://www.loeffelhardt.de/"
+street: Heilbronner Straße
+housenumber: "8"
+phone: +49 7161 6732 0
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-15:00
+website: https://www.loeffelhardt.de/

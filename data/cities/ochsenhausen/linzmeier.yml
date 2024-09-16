@@ -1,11 +1,11 @@
 id: 263838181
-type: way
+type: node
 latitude: 48.07397
 longitude: 9.91551
 postcode: ""
 city: Ochsenhausen
-street: "Kolpingstraße"
-housenumber: 8
+street: Kolpingstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

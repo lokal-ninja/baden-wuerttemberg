@@ -4,8 +4,8 @@ latitude: 48.39592
 longitude: 8.97198
 postcode: "72411"
 city: Bodelshausen
-street: "Am Burghof"
-housenumber: 25
-phone: "+49 7471 71730"
-opening_hours: "Mo-Th 07:00-13:30; Sa 07:00-13:00; Fr 07:00-18:30"
+street: Am Burghof
+housenumber: "25"
+phone: +49 7471 71730
+opening_hours: Mo-Th 07:00-13:30; Sa 07:00-13:00; Fr 07:00-18:30
 website: ""

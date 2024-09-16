@@ -1,11 +1,11 @@
 id: 582386997
-type: way
+type: node
 latitude: 49.59451
 longitude: 8.46847
 postcode: "68623"
 city: Lampertheim
-street: "Kaiserstraße"
-housenumber: 5
-phone: "+49 6206 4231"
+street: Kaiserstraße
+housenumber: "5"
+phone: +49 6206 4231
 opening_hours: ""
-website: "https://juwelier-bisch.de/"
+website: https://juwelier-bisch.de/

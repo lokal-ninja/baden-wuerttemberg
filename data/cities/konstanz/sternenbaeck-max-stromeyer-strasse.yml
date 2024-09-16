@@ -4,8 +4,8 @@ latitude: 47.6797
 longitude: 9.14846
 postcode: "78467"
 city: Konstanz
-street: "Max-Stromeyer-Straße"
-housenumber: 55
+street: Max-Stromeyer-Straße
+housenumber: "55"
 phone: "+49753150616"
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://sternenbaeck.de"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://sternenbaeck.de

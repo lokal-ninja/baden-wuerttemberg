@@ -1,11 +1,11 @@
 id: 77689886
-type: way
+type: node
 latitude: 48.35165
 longitude: 8.50045
 postcode: "72175"
 city: Dornhan
-street: "Siemensstraße"
-housenumber: 2
+street: Siemensstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

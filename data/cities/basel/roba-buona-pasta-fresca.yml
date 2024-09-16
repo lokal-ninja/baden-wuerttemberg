@@ -4,8 +4,8 @@ latitude: 47.57197
 longitude: 7.60167
 postcode: "4058"
 city: Basel
-street: "Goldbachweg"
-housenumber: 12
-phone: "+41  61 209 37 09"
-opening_hours: "MO closed, DI-FR 10-14, DI,MI,FR 16-18.30, SA 17-21"
-website: "https://www.robabuona.ch"
+street: Goldbachweg
+housenumber: "12"
+phone: +41  61 209 37 09
+opening_hours: MO closed, DI-FR 10-14, DI,MI,FR 16-18.30, SA 17-21
+website: https://www.robabuona.ch

@@ -4,8 +4,9 @@ latitude: 47.55386
 longitude: 8.02332
 postcode: "79730"
 city: Murg
-street: "Murgtalstraße"
+street: Murgtalstraße
 housenumber: 2a
-phone: "+49 7763 1515"
-opening_hours: "Mo 15:00-18:00, Tu 15:00-18:00, We 09:00-13:00, Th 09:00-13:00,15:00-18:00, Fr 15:00-18:00, Sa 09:00-13:00, Fr 09:00-13:00"
-website: "https://www.weltlaedeli.de/"
+phone: +49 7763 1515
+opening_hours: Mo 15:00-18:00, Tu 15:00-18:00, We 09:00-13:00, Th 09:00-13:00,15:00-18:00,
+    Fr 15:00-18:00, Sa 09:00-13:00, Fr 09:00-13:00
+website: https://www.weltlaedeli.de/

@@ -1,11 +1,11 @@
 id: 161851304
-type: way
+type: node
 latitude: 49.4553
 longitude: 8.50002
 postcode: "68199"
 city: Mannheim
-street: "Morchfeldstraße"
-housenumber: 47
+street: Morchfeldstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-16:00"
-website: "https://www.atu.de/"
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:00-16:00
+website: https://www.atu.de/

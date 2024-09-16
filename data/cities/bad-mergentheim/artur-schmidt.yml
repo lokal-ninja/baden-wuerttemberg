@@ -1,11 +1,11 @@
 id: 516071672
-type: way
+type: node
 latitude: 49.492
 longitude: 9.77198
 postcode: "97980"
 city: Bad Mergentheim
-street: "Holzapfelgasse"
-housenumber: 8
+street: Holzapfelgasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

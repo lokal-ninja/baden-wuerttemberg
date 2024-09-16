@@ -1,10 +1,10 @@
 id: 104434322
-type: way
+type: node
 latitude: 47.98221
 longitude: 7.7167
 postcode: "79112"
 city: Freiburg im Breisgau
-street: "Freiburger Landstraße"
+street: Freiburger Landstraße
 housenumber: 22a
 phone: ""
 opening_hours: ""

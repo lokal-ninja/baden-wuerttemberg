@@ -1,11 +1,11 @@
 id: 786035717
-type: way
+type: node
 latitude: 48.23358
 longitude: 8.38006
 postcode: "78713"
 city: Schramberg
-street: "Schiltachstraße"
-housenumber: 64
+street: Schiltachstraße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

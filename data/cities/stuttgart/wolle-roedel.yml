@@ -1,11 +1,12 @@
 id: 289109875
-type: way
+type: node
 latitude: 48.77319
 longitude: 9.17271
 postcode: "70178"
 city: Stuttgart
-street: "Marienstraße"
-housenumber: 20
+street: Marienstraße
+housenumber: "20"
 phone: ""
-opening_hours: "May-Aug: Mo-Fr 10:00-19:00; May-Aug: Sa 10:00-16:00; Sep-Apr: Mo-Fr 10:00-19:00; Sep-Apr: Sa 10:00-18:00"
-website: "https://www.wolle-roedel.com/shop/de/Filialen/WolleRoedelStuttgartMarienstrasse"
+opening_hours: 'May-Aug: Mo-Fr 10:00-19:00; May-Aug: Sa 10:00-16:00; Sep-Apr: Mo-Fr
+    10:00-19:00; Sep-Apr: Sa 10:00-18:00'
+website: https://www.wolle-roedel.com/shop/de/Filialen/WolleRoedelStuttgartMarienstrasse

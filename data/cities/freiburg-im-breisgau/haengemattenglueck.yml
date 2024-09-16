@@ -4,8 +4,8 @@ latitude: 48.02255
 longitude: 7.86245
 postcode: "79108"
 city: Freiburg im Breisgau
-street: "Burgdorfer Weg"
-housenumber: 19
-phone: "+49 761 5953501"
-opening_hours: "Mo-We 10:00-14:00"
-website: "https://www.haengemattenglueck.de/"
+street: Burgdorfer Weg
+housenumber: "19"
+phone: +49 761 5953501
+opening_hours: Mo-We 10:00-14:00
+website: https://www.haengemattenglueck.de/

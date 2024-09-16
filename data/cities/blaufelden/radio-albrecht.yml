@@ -1,11 +1,11 @@
 id: 417789739
-type: way
+type: node
 latitude: 49.29766
 longitude: 9.97455
 postcode: "74572"
 city: Blaufelden
-street: "Crailsheimer Straße"
-housenumber: 5
+street: Crailsheimer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

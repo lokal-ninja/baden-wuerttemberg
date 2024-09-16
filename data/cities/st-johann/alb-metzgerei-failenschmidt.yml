@@ -1,11 +1,11 @@
 id: 192453956
-type: way
+type: node
 latitude: 48.43123
 longitude: 9.38141
 postcode: "72813"
 city: St. Johann
-street: "Parkstraße"
-housenumber: 2
+street: Parkstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.failenschmid.de/"
+website: https://www.failenschmid.de/

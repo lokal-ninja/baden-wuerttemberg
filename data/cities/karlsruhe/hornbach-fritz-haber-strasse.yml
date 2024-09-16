@@ -1,11 +1,11 @@
 id: 38891831
-type: way
+type: node
 latitude: 48.99878
 longitude: 8.35498
 postcode: "76185"
 city: Karlsruhe
-street: "Fritz-Haber-Straße"
-housenumber: 1
+street: Fritz-Haber-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

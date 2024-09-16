@@ -1,11 +1,11 @@
 id: 89825881
-type: way
+type: node
 latitude: 47.96121
 longitude: 8.50461
 postcode: "78166"
 city: Donaueschingen
-street: "Dürrheimer Straße"
-housenumber: 38
+street: Dürrheimer Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

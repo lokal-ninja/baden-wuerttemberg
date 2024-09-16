@@ -1,11 +1,11 @@
 id: 169261973
-type: way
+type: node
 latitude: 48.96313
 longitude: 8.28042
 postcode: "76287"
 city: Rheinstetten
-street: "Hertzstraße"
-housenumber: 4
+street: Hertzstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 193681368
-type: way
+type: node
 latitude: 48.68591
 longitude: 9.36892
 postcode: "73257"
 city: Köngen
-street: "Benzengrabenstraße"
-housenumber: 19
+street: Benzengrabenstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.radsport-haspel.de/"
+website: https://www.radsport-haspel.de/

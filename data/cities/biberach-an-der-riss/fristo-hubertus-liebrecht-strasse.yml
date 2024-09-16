@@ -1,11 +1,11 @@
 id: 108931429
-type: way
+type: node
 latitude: 48.11716
 longitude: 9.80375
 postcode: "88400"
 city: Biberach an der Riß
-street: "Hubertus-Liebrecht-Straße"
+street: Hubertus-Liebrecht-Straße
 housenumber: 40/1
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.fristo.de/markt/biberach-hubertus-liebrecht-str-401-bibercenter/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.fristo.de/markt/biberach-hubertus-liebrecht-str-401-bibercenter/

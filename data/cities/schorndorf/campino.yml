@@ -4,8 +4,9 @@ latitude: 48.80474
 longitude: 9.52748
 postcode: "73614"
 city: Schorndorf
-street: "Oberer Marktplatz"
-housenumber: 9
+street: Oberer Marktplatz
+housenumber: "9"
 phone: ""
-opening_hours: "Mo,Tu,Fr 10:00-12:30,14:00-18:00; Th 10:00-12:30,14:00-19:00; Sa 10:00-16:00; PH,We,Su off"
+opening_hours: Mo,Tu,Fr 10:00-12:30,14:00-18:00; Th 10:00-12:30,14:00-19:00; Sa 10:00-16:00;
+    PH,We,Su off
 website: ""

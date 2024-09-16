@@ -1,11 +1,11 @@
 id: 57678489
-type: way
+type: node
 latitude: 48.71681
 longitude: 8.12012
 postcode: "77815"
 city: Bühl
-street: "Werkstraße"
-housenumber: 7
+street: Werkstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://www.metzgereibaumann.de"
+website: http://www.metzgereibaumann.de

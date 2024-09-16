@@ -1,11 +1,11 @@
 id: 652461960
-type: way
+type: node
 latitude: 49.31696
 longitude: 8.81622
 postcode: "74909"
 city: Meckesheim
-street: "Raiffeisenplatz"
-housenumber: 1
+street: Raiffeisenplatz
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://krz-eg.de/bau-und-garten/raiffeisen-maerkte/meckesheim.html"
+website: https://krz-eg.de/bau-und-garten/raiffeisen-maerkte/meckesheim.html

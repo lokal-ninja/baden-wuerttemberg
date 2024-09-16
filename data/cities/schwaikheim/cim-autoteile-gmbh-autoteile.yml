@@ -1,11 +1,11 @@
 id: 122453208
-type: way
+type: node
 latitude: 48.86872
 longitude: 9.35996
 postcode: "71409"
 city: Schwaikheim
-street: "Hainbuchenweg"
-housenumber: 2
-phone: "+49 7195 5038"
+street: Hainbuchenweg
+housenumber: "2"
+phone: +49 7195 5038
 opening_hours: ""
-website: "https://www.cim-autoteile.de/"
+website: https://www.cim-autoteile.de/

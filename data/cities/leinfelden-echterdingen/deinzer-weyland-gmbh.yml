@@ -1,11 +1,11 @@
 id: 252542102
-type: way
+type: node
 latitude: 48.69135
 longitude: 9.16143
 postcode: "70771"
 city: Leinfelden-Echterdingen
-street: "Friedrich-List-Straße"
-housenumber: 4
-phone: "+49 711 78100"
+street: Friedrich-List-Straße
+housenumber: "4"
+phone: +49 711 78100
 opening_hours: ""
-website: "https://www.deinzer-weyland.de/unternehmen/standorte/stuttgart/"
+website: https://www.deinzer-weyland.de/unternehmen/standorte/stuttgart/

@@ -1,11 +1,11 @@
 id: 9069770
-type: way
+type: node
 latitude: 47.65765
 longitude: 9.45472
 postcode: "88045"
 city: Friedrichshafen
-street: "Albrechtstraße"
-housenumber: 70
-phone: "+49 7541 289230"
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+street: Albrechtstraße
+housenumber: "70"
+phone: +49 7541 289230
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 157057347
-type: way
+type: node
 latitude: 48.79956
 longitude: 9.48079
 postcode: "73650"
 city: Winterbach
-street: "Kronenbergele"
-housenumber: 11
+street: Kronenbergele
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

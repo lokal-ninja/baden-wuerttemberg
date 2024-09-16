@@ -4,8 +4,8 @@ latitude: 48.01197
 longitude: 7.86183
 postcode: "79104"
 city: Freiburg im Breisgau
-street: "Richard-Wagner-Straße"
-housenumber: 33
-phone: "+49 761 58996220"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-16:30; Su, PH 08:00-16:30"
-website: "https://www.weber-ihr-baecker.de"
+street: Richard-Wagner-Straße
+housenumber: "33"
+phone: +49 761 58996220
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-16:30; Su, PH 08:00-16:30
+website: https://www.weber-ihr-baecker.de

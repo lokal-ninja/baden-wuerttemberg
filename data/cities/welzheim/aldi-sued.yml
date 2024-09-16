@@ -1,11 +1,11 @@
 id: 290010168
-type: way
+type: node
 latitude: 48.87245
 longitude: 9.6273
 postcode: "73642"
 city: Welzheim
-street: "Hundsberger Straße"
-housenumber: 11
+street: Hundsberger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

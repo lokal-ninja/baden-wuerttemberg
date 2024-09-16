@@ -4,8 +4,8 @@ latitude: 48.55442
 longitude: 9.26128
 postcode: "72585"
 city: Riederich
-street: "Industriestraße"
-housenumber: 36
-phone: "+49 7123 31385;+49 7123 35502"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00"
-website: "https://www.wado.de/"
+street: Industriestraße
+housenumber: "36"
+phone: +49 7123 31385;+49 7123 35502
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00
+website: https://www.wado.de/

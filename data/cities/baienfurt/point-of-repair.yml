@@ -1,11 +1,11 @@
 id: 324747713
-type: way
+type: node
 latitude: 47.83206
 longitude: 9.65948
 postcode: "88255"
 city: Baienfurt
-street: "Bergatreuter Straße"
-housenumber: 53
-phone: "+49 751 56150615"
+street: Bergatreuter Straße
+housenumber: "53"
+phone: +49 751 56150615
 opening_hours: ""
-website: "https://www.bautz.net/"
+website: https://www.bautz.net/

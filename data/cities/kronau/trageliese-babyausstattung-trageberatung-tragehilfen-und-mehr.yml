@@ -4,8 +4,8 @@ latitude: 49.22211
 longitude: 8.63628
 postcode: "76709"
 city: Kronau
-street: "Bachstraße"
-housenumber: 3
-phone: "+49 7253 935886"
-opening_hours: "Terminvereinbarung"
-website: "https://trageliese.de/"
+street: Bachstraße
+housenumber: "3"
+phone: +49 7253 935886
+opening_hours: Terminvereinbarung
+website: https://trageliese.de/

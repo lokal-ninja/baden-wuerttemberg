@@ -4,8 +4,8 @@ latitude: 47.92412
 longitude: 8.19036
 postcode: "79822"
 city: Titisee-Neustadt
-street: "Freiburger Straße"
-housenumber: 10
-phone: "+49 7651 5834"
-opening_hours: "Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 13:30-18:00; PH off"
-website: "https://www.schaub.eu/"
+street: Freiburger Straße
+housenumber: "10"
+phone: +49 7651 5834
+opening_hours: Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 13:30-18:00; PH off
+website: https://www.schaub.eu/

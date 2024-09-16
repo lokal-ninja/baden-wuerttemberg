@@ -1,11 +1,11 @@
 id: 531538620
-type: way
+type: node
 latitude: 49.28404
 longitude: 9.15866
 postcode: "74831"
 city: Gundelsheim
-street: "Mühlstraße"
-housenumber: 9
+street: Mühlstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

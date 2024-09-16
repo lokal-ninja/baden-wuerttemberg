@@ -5,7 +5,7 @@ longitude: 9.46854
 postcode: "74629"
 city: Pfedelbach
 street: ""
-housenumber: 6
+housenumber: "6"
 phone: ""
-opening_hours: "We 09:00-13:00; Fr 09:00-18:00; Sa 08:00-14:00"
-website: "https://obstbau-fischer.de/"
+opening_hours: We 09:00-13:00; Fr 09:00-18:00; Sa 08:00-14:00
+website: https://obstbau-fischer.de/

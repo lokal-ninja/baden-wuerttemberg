@@ -1,11 +1,11 @@
 id: 122559312
-type: way
+type: node
 latitude: 49.31789
 longitude: 8.81442
 postcode: "74909"
 city: Meckesheim
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

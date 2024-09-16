@@ -1,11 +1,11 @@
 id: 125007250
-type: way
+type: node
 latitude: 48.88668
 longitude: 9.39181
 postcode: "71397"
 city: Leutenbach
-street: "Winnender Straße"
-housenumber: 20
-phone: "+49 7195 5555"
+street: Winnender Straße
+housenumber: "20"
+phone: +49 7195 5555
 opening_hours: ""
-website: "https://laible-bestattungen.de/"
+website: https://laible-bestattungen.de/

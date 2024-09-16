@@ -1,11 +1,11 @@
 id: 108414175
-type: way
+type: node
 latitude: 48.7622
 longitude: 8.16526
 postcode: "76547"
 city: Sinzheim
-street: "Erlenstraße"
-housenumber: 1
+street: Erlenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

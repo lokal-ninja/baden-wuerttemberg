@@ -4,8 +4,8 @@ latitude: 49.23368
 longitude: 9.19283
 postcode: "74177"
 city: Bad Friedrichshall
-street: "Römerstraße"
-housenumber: 6
-phone: "+49 7136 7429"
-opening_hours: "Mo, Sa 07:30-12:30; Tu-Fr 07:30-12:30, 14:30-18:00"
-website: "https://www.metzgerei-nester.de/"
+street: Römerstraße
+housenumber: "6"
+phone: +49 7136 7429
+opening_hours: Mo, Sa 07:30-12:30; Tu-Fr 07:30-12:30, 14:30-18:00
+website: https://www.metzgerei-nester.de/

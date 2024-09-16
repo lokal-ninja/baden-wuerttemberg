@@ -1,11 +1,11 @@
 id: 556258821
-type: way
+type: node
 latitude: 49.02565
 longitude: 9.32121
 postcode: "71720"
 city: Oberstenfeld
-street: "Eisenbahnstraße"
-housenumber: 3
+street: Eisenbahnstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.schiland.de/"
+website: https://www.schiland.de/

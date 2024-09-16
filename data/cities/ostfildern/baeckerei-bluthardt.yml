@@ -4,8 +4,8 @@ latitude: 48.71364
 longitude: 9.30107
 postcode: "73760"
 city: Ostfildern
-street: "Esslinger Straße"
-housenumber: 12
-phone: "+49 711 5536553"
-opening_hours: "Mo-Sa 06:30-12:30; Mo-Fr 14:30-18:00"
-website: "http://www.baeckerei-bluthardt.de/"
+street: Esslinger Straße
+housenumber: "12"
+phone: +49 711 5536553
+opening_hours: Mo-Sa 06:30-12:30; Mo-Fr 14:30-18:00
+website: http://www.baeckerei-bluthardt.de/

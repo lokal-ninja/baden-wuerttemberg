@@ -4,8 +4,8 @@ latitude: 48.05979
 longitude: 8.45934
 postcode: "78050"
 city: Villingen-Schwenningen
-street: "Rietstraße"
-housenumber: 6
+street: Rietstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.back-werk.de"
+opening_hours: Mo-Sa 07:00-19:00
+website: https://www.back-werk.de

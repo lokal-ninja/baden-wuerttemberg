@@ -1,11 +1,11 @@
 id: 393507392
-type: way
+type: node
 latitude: 48.86719
 longitude: 10.09869
 postcode: "73433"
 city: Aalen
-street: "Schlosserstraße"
-housenumber: 13
+street: Schlosserstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://brennerei-roder.de"
+website: https://brennerei-roder.de

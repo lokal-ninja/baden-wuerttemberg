@@ -1,11 +1,11 @@
 id: 34830424
-type: way
+type: node
 latitude: 48.85435
 longitude: 8.99161
 postcode: "71254"
 city: Ditzingen
-street: "Max-Planck-Straße"
-housenumber: 1
+street: Max-Planck-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.koppenhoefer-unfall.de/"
+website: https://www.koppenhoefer-unfall.de/

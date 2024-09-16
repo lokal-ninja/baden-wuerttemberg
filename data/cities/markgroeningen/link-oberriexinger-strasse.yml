@@ -1,11 +1,11 @@
 id: 203522038
-type: way
+type: node
 latitude: 48.93782
 longitude: 9.0532
 postcode: "71706"
 city: Markgröningen
-street: "Oberriexinger Straße"
-housenumber: 
+street: Oberriexinger Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

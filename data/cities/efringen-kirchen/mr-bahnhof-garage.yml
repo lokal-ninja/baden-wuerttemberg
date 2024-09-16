@@ -1,11 +1,11 @@
 id: 242678169
-type: way
+type: node
 latitude: 47.655
 longitude: 7.56397
 postcode: "79588"
 city: Efringen-Kirchen
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 13:00-18:00; "
+opening_hours: 'Mo-Fr 08:30-12:00, 13:00-18:00; '
 website: ""

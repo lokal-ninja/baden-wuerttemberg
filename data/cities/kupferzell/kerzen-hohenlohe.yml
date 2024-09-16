@@ -1,11 +1,11 @@
 id: 378557825
-type: way
+type: node
 latitude: 49.2294
 longitude: 9.63831
 postcode: "74635"
 city: Kupferzell
-street: "Sallstraße"
-housenumber: 38
+street: Sallstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Tu off; We-Fr 10:00-16:00; Sa off; Su off; PH off"
-website: "http://www.kerzen-hohenlohe.de/"
+opening_hours: Mo-Tu off; We-Fr 10:00-16:00; Sa off; Su off; PH off
+website: http://www.kerzen-hohenlohe.de/

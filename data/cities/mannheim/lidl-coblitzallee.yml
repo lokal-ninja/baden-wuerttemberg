@@ -1,11 +1,11 @@
 id: 29336031
-type: way
+type: node
 latitude: 49.47442
 longitude: 8.53365
 postcode: ""
 city: Mannheim
-street: "Coblitzallee"
-housenumber: 6
+street: Coblitzallee
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

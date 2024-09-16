@@ -1,11 +1,11 @@
 id: 117297421
-type: way
+type: node
 latitude: 47.66893
 longitude: 9.18128
 postcode: "78467"
 city: Konstanz
-street: "Theodor-Heuss-Straße"
-housenumber: 8
+street: Theodor-Heuss-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 17:30-18:30"
-website: "https://www.holz-studio.net/"
+opening_hours: Mo,Tu,Th,Fr 17:30-18:30
+website: https://www.holz-studio.net/

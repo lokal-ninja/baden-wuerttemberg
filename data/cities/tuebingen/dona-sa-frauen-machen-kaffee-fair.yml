@@ -4,8 +4,8 @@ latitude: 48.52694
 longitude: 9.05878
 postcode: "72076"
 city: Tübingen
-street: "Sigwartstraße"
-housenumber: 20
+street: Sigwartstraße
+housenumber: "20"
 phone: "+4970711354707"
-opening_hours: "Mo-Fr 09:30-17:00"
-website: "https://www.donasa.de"
+opening_hours: Mo-Fr 09:30-17:00
+website: https://www.donasa.de

@@ -1,11 +1,11 @@
 id: 322016631
-type: way
+type: node
 latitude: 49.61083
 longitude: 9.47349
 postcode: "74736"
 city: Hardheim
-street: "Bürgermeister-Henn-Straße"
-housenumber: 5
+street: Bürgermeister-Henn-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

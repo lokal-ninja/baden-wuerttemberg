@@ -1,11 +1,11 @@
 id: 62090906
-type: way
+type: node
 latitude: 49.13151
 longitude: 9.21158
 postcode: "74074"
 city: Heilbronn
-street: "Liebigstraße"
-housenumber: 32
+street: Liebigstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 08:30-16:30"
+opening_hours: Mo-Fr 08:30-16:30
 website: ""

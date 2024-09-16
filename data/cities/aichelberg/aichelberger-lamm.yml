@@ -1,11 +1,11 @@
 id: 445703079
-type: way
+type: node
 latitude: 48.63695
 longitude: 9.55897
 postcode: "73101"
 city: Aichelberg
-street: "Zeller Straße"
-housenumber: 14
+street: Zeller Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.71725
 longitude: 9.10615
 postcode: "70565"
 city: Stuttgart
-street: "Schönbuchstraße"
-housenumber: 19
+street: Schönbuchstraße
+housenumber: "19"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

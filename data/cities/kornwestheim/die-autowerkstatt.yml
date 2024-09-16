@@ -1,11 +1,11 @@
 id: 207515523
-type: way
+type: node
 latitude: 48.85499
 longitude: 9.18442
 postcode: "70806"
 city: Kornwestheim
-street: "Stuttgarter Straße"
-housenumber: 140
+street: Stuttgarter Straße
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

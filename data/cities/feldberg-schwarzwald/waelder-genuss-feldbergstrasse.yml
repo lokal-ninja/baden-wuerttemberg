@@ -4,8 +4,8 @@ latitude: 47.86883
 longitude: 8.09553
 postcode: "79868"
 city: Feldberg (Schwarzwald)
-street: "Feldbergstraße"
-housenumber: 5
-phone: "+49 7655 933310"
-opening_hours: "Mo-Sa 6:30-19:00"
-website: "https://www.waelder-genuss.de"
+street: Feldbergstraße
+housenumber: "5"
+phone: +49 7655 933310
+opening_hours: Mo-Sa 6:30-19:00
+website: https://www.waelder-genuss.de

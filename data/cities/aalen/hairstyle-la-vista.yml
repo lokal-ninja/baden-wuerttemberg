@@ -4,8 +4,8 @@ latitude: 48.83153
 longitude: 10.05568
 postcode: "73434"
 city: Aalen
-street: "Weilerstraße"
-housenumber: 120
+street: Weilerstraße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:00-13:00"
-website: "https://hairstyle-la-vista.de/"
+opening_hours: Mo-Fr 08:30-12:00,13:30-18:00; Sa 08:00-13:00
+website: https://hairstyle-la-vista.de/

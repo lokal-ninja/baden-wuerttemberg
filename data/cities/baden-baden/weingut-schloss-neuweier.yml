@@ -4,8 +4,8 @@ latitude: 48.7245
 longitude: 8.17665
 postcode: "76534"
 city: Baden-Baden
-street: "Mauerbergstraße"
-housenumber: 21
-phone: "+49 7223 96670"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-15:00; Su 10:00-13:00"
-website: "https://schloss-neuweier.de/vinothek/"
+street: Mauerbergstraße
+housenumber: "21"
+phone: +49 7223 96670
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-15:00; Su 10:00-13:00
+website: https://schloss-neuweier.de/vinothek/

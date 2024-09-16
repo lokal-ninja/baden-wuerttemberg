@@ -1,11 +1,11 @@
 id: 757489406
-type: way
+type: node
 latitude: 47.75992
 longitude: 8.78254
 postcode: "78247"
 city: Hilzingen
-street: "Brühlstraße"
-housenumber: 5
+street: Brühlstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

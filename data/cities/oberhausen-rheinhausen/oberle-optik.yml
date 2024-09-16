@@ -4,8 +4,8 @@ latitude: 49.26033
 longitude: 8.48421
 postcode: "68794"
 city: Oberhausen-Rheinhausen
-street: "Marienstraße"
-housenumber: 1
-phone: "+49 7254 73777"
-opening_hours: "Mo,Tu,Th,Fr 8:30-12:30, 14:30-18:00; We,Sa 8:30-12:30"
+street: Marienstraße
+housenumber: "1"
+phone: +49 7254 73777
+opening_hours: Mo,Tu,Th,Fr 8:30-12:30, 14:30-18:00; We,Sa 8:30-12:30
 website: ""

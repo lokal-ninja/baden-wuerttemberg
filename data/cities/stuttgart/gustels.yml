@@ -4,8 +4,8 @@ latitude: 48.7868
 longitude: 9.22042
 postcode: "70188"
 city: Stuttgart
-street: "Schlachthofstraße"
-housenumber: 15
-phone: "+49 711 466332"
-opening_hours: "Mo-Fr 06:30-16:00; PH,Sa,Su off"
-website: "http://www.gustelsmaultaschen.de"
+street: Schlachthofstraße
+housenumber: "15"
+phone: +49 711 466332
+opening_hours: Mo-Fr 06:30-16:00; PH,Sa,Su off
+website: http://www.gustelsmaultaschen.de

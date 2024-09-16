@@ -1,11 +1,11 @@
 id: 389722921
-type: way
+type: node
 latitude: 49.20517
 longitude: 9.4884
 postcode: "74613"
 city: Öhringen
-street: "Austraße"
-housenumber: 5
-phone: "+49 7941 9898 98"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.akzenteplus.de/filiale/38/oehringen---oe-center"
+street: Austraße
+housenumber: "5"
+phone: +49 7941 9898 98
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.akzenteplus.de/filiale/38/oehringen---oe-center

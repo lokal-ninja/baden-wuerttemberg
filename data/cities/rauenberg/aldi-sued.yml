@@ -1,11 +1,11 @@
 id: 152701122
-type: way
+type: node
 latitude: 49.27281
 longitude: 8.69594
 postcode: "69231"
 city: Rauenberg
-street: "Frankenäcker"
-housenumber: 6
+street: Frankenäcker
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

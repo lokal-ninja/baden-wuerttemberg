@@ -4,8 +4,8 @@ latitude: 48.94868
 longitude: 9.09863
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Flößerstraße"
-housenumber: 60
-phone: "+49 7142 7880389"
-opening_hours: "Do-Fr 10:00-19:00, Sa 10:00-16:00"
-website: "http://einladen-rommelmuehle.de/"
+street: Flößerstraße
+housenumber: "60"
+phone: +49 7142 7880389
+opening_hours: Do-Fr 10:00-19:00, Sa 10:00-16:00
+website: http://einladen-rommelmuehle.de/

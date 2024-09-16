@@ -1,11 +1,11 @@
 id: 26713887
-type: way
+type: node
 latitude: 48.69406
 longitude: 8.94176
 postcode: "71069"
 city: Sindelfingen
-street: "Dagersheimer Straße"
-housenumber: 20
+street: Dagersheimer Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

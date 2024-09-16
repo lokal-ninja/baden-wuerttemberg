@@ -4,8 +4,8 @@ latitude: 48.80514
 longitude: 8.31849
 postcode: "76571"
 city: Gaggenau
-street: "Hauptstraße"
-housenumber: 37
-phone: "+49 7225 1388"
-opening_hours: "Tu,We 09:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-13:00"
-website: "https://cut-it-haarstudio.de"
+street: Hauptstraße
+housenumber: "37"
+phone: +49 7225 1388
+opening_hours: Tu,We 09:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-13:00
+website: https://cut-it-haarstudio.de

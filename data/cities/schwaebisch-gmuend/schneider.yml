@@ -1,11 +1,11 @@
 id: 227204790
-type: way
+type: node
 latitude: 48.79605
 longitude: 9.79801
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Waldstetter Gasse"
-housenumber: 18
+street: Waldstetter Gasse
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

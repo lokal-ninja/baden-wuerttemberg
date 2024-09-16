@@ -1,11 +1,11 @@
 id: 254424838
-type: way
+type: node
 latitude: 48.69607
 longitude: 10.15789
 postcode: "89520"
 city: Heidenheim an der Brenz
-street: "Heidenheimer Straße"
-housenumber: 182
+street: Heidenheimer Straße
+housenumber: "182"
 phone: ""
 opening_hours: ""
-website: "https://www.penny.de/"
+website: https://www.penny.de/

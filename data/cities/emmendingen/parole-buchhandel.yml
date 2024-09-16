@@ -4,8 +4,8 @@ latitude: 48.12116
 longitude: 7.84817
 postcode: "79312"
 city: Emmendingen
-street: "Landvogtei"
-housenumber: 5
+street: Landvogtei
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:30-13:00"
-website: "http://www.parole-buch.de/"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:30-13:00
+website: http://www.parole-buch.de/

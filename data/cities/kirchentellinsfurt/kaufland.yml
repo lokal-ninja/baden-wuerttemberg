@@ -1,11 +1,11 @@
 id: 24265461
-type: way
+type: node
 latitude: 48.52681
 longitude: 9.14335
 postcode: "72138"
 city: Kirchentellinsfurt
-street: "Wannweiler Straße"
-housenumber: 77
-phone: "+49 7121 981840"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+street: Wannweiler Straße
+housenumber: "77"
+phone: +49 7121 981840
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

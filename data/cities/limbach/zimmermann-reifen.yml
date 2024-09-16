@@ -1,11 +1,11 @@
 id: 112873559
-type: way
+type: node
 latitude: 49.46109
 longitude: 9.21107
 postcode: "74838"
 city: Limbach
-street: "Ringstraße"
-housenumber: 3
+street: Ringstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

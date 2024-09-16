@@ -1,11 +1,11 @@
 id: 55494740
-type: way
+type: node
 latitude: 49.05551
 longitude: 9.24831
 postcode: "74360"
 city: Ilsfeld
-street: "König-Wilhelm-Straße"
-housenumber: 25
+street: König-Wilhelm-Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

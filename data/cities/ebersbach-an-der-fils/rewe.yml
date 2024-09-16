@@ -1,11 +1,11 @@
 id: 177784238
-type: way
+type: node
 latitude: 48.71712
 longitude: 9.53335
 postcode: "73061"
 city: Ebersbach an der Fils
-street: "Hauptstraße"
-housenumber: 83
+street: Hauptstraße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 120597261
-type: way
+type: node
 latitude: 47.8507
 longitude: 7.94034
 postcode: "79674"
 city: Todtnau
-street: "Kreuzmattstraße"
-housenumber: 1
+street: Kreuzmattstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

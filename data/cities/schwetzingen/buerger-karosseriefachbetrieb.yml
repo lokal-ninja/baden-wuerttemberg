@@ -1,11 +1,11 @@
 id: 199417668
-type: way
+type: node
 latitude: 49.40131
 longitude: 8.5566
 postcode: "68723"
 city: Schwetzingen
-street: "Duisburger Straße"
-housenumber: 11
+street: Duisburger Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.karosserie-buerger.de/"
+website: https://www.karosserie-buerger.de/

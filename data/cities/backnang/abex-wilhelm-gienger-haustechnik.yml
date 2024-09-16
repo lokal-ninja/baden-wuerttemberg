@@ -4,8 +4,9 @@ latitude: 48.96183
 longitude: 9.4234
 postcode: "71522"
 city: Backnang
-street: "Karl-Ferdinand-Braun-Straße"
-housenumber: 10
-phone: "+49 7191 9127515"
-opening_hours: "Mo-Th 7:00-16:30; Fr 07:00-14:30; Sa off; PH off; Dec 24 off; Dec 31 off; Dec 27-Jan 07 off"
-website: "https://www.gc-gruppe.de/"
+street: Karl-Ferdinand-Braun-Straße
+housenumber: "10"
+phone: +49 7191 9127515
+opening_hours: Mo-Th 7:00-16:30; Fr 07:00-14:30; Sa off; PH off; Dec 24 off; Dec 31
+    off; Dec 27-Jan 07 off
+website: https://www.gc-gruppe.de/

@@ -1,11 +1,11 @@
 id: 536971478
-type: way
+type: node
 latitude: 49.15209
 longitude: 9.22256
 postcode: "74076"
 city: Heilbronn
-street: "Neckarsulmer Straße"
-housenumber: 24
+street: Neckarsulmer Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.lidl.de/

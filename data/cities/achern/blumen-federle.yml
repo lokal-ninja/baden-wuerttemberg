@@ -1,11 +1,11 @@
 id: 320899308
-type: way
+type: node
 latitude: 48.65172
 longitude: 8.01655
 postcode: "77855"
 city: Achern
-street: "Rheinstraße"
-housenumber: 10
+street: Rheinstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

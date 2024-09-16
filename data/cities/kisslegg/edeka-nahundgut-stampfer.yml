@@ -1,11 +1,11 @@
 id: 118046030
-type: way
+type: node
 latitude: 47.75738
 longitude: 9.91336
 postcode: "88353"
 city: Kißlegg
-street: "Kirchstraße"
-housenumber: 32
+street: Kirchstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

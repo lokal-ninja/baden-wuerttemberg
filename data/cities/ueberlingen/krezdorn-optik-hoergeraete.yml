@@ -1,11 +1,11 @@
 id: 164316116
-type: way
+type: node
 latitude: 47.76701
 longitude: 9.15899
 postcode: "88662"
 city: Überlingen
-street: "Christophstraße"
-housenumber: 49
+street: Christophstraße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

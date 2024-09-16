@@ -1,11 +1,11 @@
 id: 140516203
-type: way
+type: node
 latitude: 48.94338
 longitude: 8.53397
 postcode: "76307"
 city: Karlsbad
-street: "Waldenserstraße"
-housenumber: 63
+street: Waldenserstraße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

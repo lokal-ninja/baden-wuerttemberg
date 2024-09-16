@@ -4,8 +4,8 @@ latitude: 48.53101
 longitude: 8.07873
 postcode: "77704"
 city: Oberkirch
-street: "Hauptstraße"
-housenumber: 53
-phone: "+49 7802 7048849"
-opening_hours: "Mo-Fr 09:00-18:15; Sa 09:00-16:00"
-website: "https://mikado-mode.de/"
+street: Hauptstraße
+housenumber: "53"
+phone: +49 7802 7048849
+opening_hours: Mo-Fr 09:00-18:15; Sa 09:00-16:00
+website: https://mikado-mode.de/

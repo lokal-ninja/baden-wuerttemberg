@@ -4,8 +4,8 @@ latitude: 49.00687
 longitude: 8.39189
 postcode: "76133"
 city: Karlsruhe
-street: "Waldstraße"
-housenumber: 66
-phone: "+49 721 24405"
-opening_hours: "Th-Sa 14:00-18:00; Mo-We off"
-website: "http://www.giulietta-patou.de"
+street: Waldstraße
+housenumber: "66"
+phone: +49 721 24405
+opening_hours: Th-Sa 14:00-18:00; Mo-We off
+website: http://www.giulietta-patou.de

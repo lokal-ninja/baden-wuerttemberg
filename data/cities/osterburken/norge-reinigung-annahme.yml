@@ -4,8 +4,8 @@ latitude: 49.43092
 longitude: 9.42361
 postcode: "74706"
 city: Osterburken
-street: "Bahnhofstraße"
-housenumber: 6
-phone: "+49 7930 8888"
-opening_hours: "We 15:30-18:30; Tu, Th-Sa 09:00-12:00"
-website: "https://norge.de/"
+street: Bahnhofstraße
+housenumber: "6"
+phone: +49 7930 8888
+opening_hours: We 15:30-18:30; Tu, Th-Sa 09:00-12:00
+website: https://norge.de/

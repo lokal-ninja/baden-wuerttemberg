@@ -1,11 +1,11 @@
 id: 228615438
-type: way
+type: node
 latitude: 48.08672
 longitude: 7.94406
 postcode: "79183"
 city: Waldkirch
-street: "Mauermattenstraße"
-housenumber: 7
+street: Mauermattenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 07:15-16:00, Fr 07:15-15:00; PH off"
-website: "https://www.automobile-nowak.de/"
+opening_hours: Mo-Th 07:15-16:00, Fr 07:15-15:00; PH off
+website: https://www.automobile-nowak.de/

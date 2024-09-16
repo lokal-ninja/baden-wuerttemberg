@@ -1,11 +1,11 @@
 id: 599955359
-type: way
+type: node
 latitude: 48.41389
 longitude: 9.46316
 postcode: "72525"
 city: Münsingen
-street: "Hermann-Staudinger-Straße"
-housenumber: 25
+street: Hermann-Staudinger-Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Sa 07:00-19:00; Su 07:00-17:30; Mo-Fr off"
+opening_hours: Sa 07:00-19:00; Su 07:00-17:30; Mo-Fr off
 website: ""

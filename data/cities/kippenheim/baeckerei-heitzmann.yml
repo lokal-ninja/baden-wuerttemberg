@@ -1,11 +1,11 @@
 id: 544748738
-type: way
+type: node
 latitude: 48.29952
 longitude: 7.8272
 postcode: "77971"
 city: Kippenheim
-street: "Herrenweg"
-housenumber: 1
+street: Herrenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-17:30; Su,PH 07:30-17:30"
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-17:30; Su,PH 07:30-17:30
 website: ""

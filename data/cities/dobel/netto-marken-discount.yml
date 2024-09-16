@@ -1,11 +1,11 @@
 id: 28309131
-type: way
+type: node
 latitude: 48.8016
 longitude: 8.48942
 postcode: "75335"
 city: Dobel
-street: "Dorfwiesen"
-housenumber: 3
+street: Dorfwiesen
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

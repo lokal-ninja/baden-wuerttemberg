@@ -1,11 +1,11 @@
 id: 297333977
-type: way
+type: node
 latitude: 49.58251
 longitude: 9.37533
 postcode: "74731"
 city: Walldürn
-street: "Würzburger Straße"
-housenumber: 9
+street: Würzburger Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-trusch.de/"
+website: https://www.autohaus-trusch.de/

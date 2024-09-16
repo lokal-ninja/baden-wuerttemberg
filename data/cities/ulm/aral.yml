@@ -1,11 +1,11 @@
 id: 169881593
-type: way
+type: node
 latitude: 48.38917
 longitude: 9.97774
 postcode: "89077"
 city: Ulm
-street: "Illerstraße"
-housenumber: 2
-phone: "+49 731 30306"
-opening_hours: "24/7"
-website: "https://www.aral.de/"
+street: Illerstraße
+housenumber: "2"
+phone: +49 731 30306
+opening_hours: 24/7
+website: https://www.aral.de/

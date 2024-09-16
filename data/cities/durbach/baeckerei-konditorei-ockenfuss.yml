@@ -1,11 +1,11 @@
 id: 203133953
-type: way
+type: node
 latitude: 48.50745
 longitude: 7.98173
 postcode: "77770"
 city: Durbach
-street: "Windschläger Straße"
-housenumber: 1
+street: Windschläger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 06:30-13:00"
-website: "https://www.baeckerei-ockenfuss.de/"
+opening_hours: Mo-Sa 06:30-13:00
+website: https://www.baeckerei-ockenfuss.de/

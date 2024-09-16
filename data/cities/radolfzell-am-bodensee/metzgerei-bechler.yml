@@ -4,8 +4,9 @@ latitude: 47.75284
 longitude: 8.93385
 postcode: "78315"
 city: Radolfzell am Bodensee
-street: "Singener Straße"
-housenumber: 12
+street: Singener Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo 08:30-13:30; Tu 08:00-18:00; We 08:00-13:30; Th 08:00-18:00; Fr 08:00-18:00; Sa 07:00-12:30"
-website: "https://www.metzgerei-bechler.de/"
+opening_hours: Mo 08:30-13:30; Tu 08:00-18:00; We 08:00-13:30; Th 08:00-18:00; Fr
+    08:00-18:00; Sa 07:00-12:30
+website: https://www.metzgerei-bechler.de/

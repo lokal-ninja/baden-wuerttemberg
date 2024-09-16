@@ -1,11 +1,12 @@
 id: 131479483
-type: way
+type: node
 latitude: 49.04456
 longitude: 8.37376
 postcode: "76149"
 city: Karlsruhe
-street: "Welschneureuter Straße"
-housenumber: 21
+street: Welschneureuter Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Tu 08:00-19:00; We 08:00-18:00; Th 09:00-20:00; Fr 09:00-19:00; Sa-Mo off"
+opening_hours: Tu 08:00-19:00; We 08:00-18:00; Th 09:00-20:00; Fr 09:00-19:00; Sa-Mo
+    off
 website: ""

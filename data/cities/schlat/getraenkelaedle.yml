@@ -1,11 +1,11 @@
 id: 575113867
-type: way
+type: node
 latitude: 48.65317
 longitude: 9.70785
 postcode: "73114"
 city: Schlat
-street: "Turnhallenstraße"
-housenumber: 10
+street: Turnhallenstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.geigergbr.de/index.php/getraenkelaedle"
+website: https://www.geigergbr.de/index.php/getraenkelaedle

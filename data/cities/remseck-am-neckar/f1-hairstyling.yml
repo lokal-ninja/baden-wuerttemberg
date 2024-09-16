@@ -1,11 +1,11 @@
 id: 45334963
-type: way
+type: node
 latitude: 48.86476
 longitude: 9.2516
 postcode: "71686"
 city: Remseck am Neckar
-street: "Kaltenthalstraße"
-housenumber: 1
-phone: "+49 7146 91278"
+street: Kaltenthalstraße
+housenumber: "1"
+phone: +49 7146 91278
 opening_hours: ""
-website: "https://f1-hairstyling.de/"
+website: https://f1-hairstyling.de/

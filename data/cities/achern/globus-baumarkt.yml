@@ -1,11 +1,11 @@
 id: 51179203
-type: way
+type: node
 latitude: 48.63397
 longitude: 8.05914
 postcode: "77855"
 city: Achern
-street: "Severinstraße"
-housenumber: 8
-phone: "+49 7841 70240"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.globus-baumarkt.de/info/markt/achern/"
+street: Severinstraße
+housenumber: "8"
+phone: +49 7841 70240
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.globus-baumarkt.de/info/markt/achern/

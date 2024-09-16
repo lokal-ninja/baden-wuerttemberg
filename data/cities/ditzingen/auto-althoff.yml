@@ -1,11 +1,11 @@
 id: 410980245
-type: way
+type: node
 latitude: 48.85234
 longitude: 8.99501
 postcode: "71254"
 city: Ditzingen
-street: "Röntgenstraße"
-housenumber: 33
-phone: "+49 7152 7484848"
+street: Röntgenstraße
+housenumber: "33"
+phone: +49 7152 7484848
 opening_hours: ""
-website: "https://auto-althoff.de/"
+website: https://auto-althoff.de/

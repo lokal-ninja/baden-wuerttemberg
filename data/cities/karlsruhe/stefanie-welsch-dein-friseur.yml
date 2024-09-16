@@ -4,8 +4,8 @@ latitude: 49.0114
 longitude: 8.39539
 postcode: "76133"
 city: Karlsruhe
-street: "Karlstraße"
-housenumber: 7
-phone: "+49 721 18054921"
-opening_hours: "Tu-Fr 10:00-19:30; Sa 09:00-16:00"
-website: "http://www.welsch-deinfriseur.de"
+street: Karlstraße
+housenumber: "7"
+phone: +49 721 18054921
+opening_hours: Tu-Fr 10:00-19:30; Sa 09:00-16:00
+website: http://www.welsch-deinfriseur.de

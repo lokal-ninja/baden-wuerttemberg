@@ -1,11 +1,11 @@
 id: 605700092
-type: way
+type: node
 latitude: 47.93497
 longitude: 8.35744
 postcode: "78199"
 city: Bräunlingen
-street: "Kirnbergstraße"
-housenumber: 2
+street: Kirnbergstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

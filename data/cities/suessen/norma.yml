@@ -4,8 +4,8 @@ latitude: 48.6828
 longitude: 9.765
 postcode: "73079"
 city: Süßen
-street: "Fabrikstraße"
-housenumber: 6
+street: Fabrikstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://norma-online.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: http://norma-online.de

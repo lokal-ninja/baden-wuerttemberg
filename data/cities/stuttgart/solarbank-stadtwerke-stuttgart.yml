@@ -4,8 +4,8 @@ latitude: 48.83587
 longitude: 9.22509
 postcode: ""
 city: Stuttgart
-street: "Kelterplatz"
-housenumber: 
+street: Kelterplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.stadtwerke-stuttgart.de/solarenergie/solarbank/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.stadtwerke-stuttgart.de/solarenergie/solarbank/

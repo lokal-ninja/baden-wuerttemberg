@@ -1,11 +1,11 @@
 id: 388617122
-type: way
+type: node
 latitude: 48.81013
 longitude: 8.9443
 postcode: "71277"
 city: Rutesheim
-street: "Pfarrstraße"
-housenumber: 22
+street: Pfarrstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

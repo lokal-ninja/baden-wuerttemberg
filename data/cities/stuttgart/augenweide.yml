@@ -4,8 +4,8 @@ latitude: 48.78182
 longitude: 9.15723
 postcode: "70193"
 city: Stuttgart
-street: "Schwabstraße"
-housenumber: 191
+street: Schwabstraße
+housenumber: "191"
 phone: ""
-opening_hours: "Mo-Fr 15:00-18:30,10:00-13:00; Sa 10:00-14:00"
-website: "https://augenweide-stuttgart.de/de/der-laden/"
+opening_hours: Mo-Fr 15:00-18:30,10:00-13:00; Sa 10:00-14:00
+website: https://augenweide-stuttgart.de/de/der-laden/

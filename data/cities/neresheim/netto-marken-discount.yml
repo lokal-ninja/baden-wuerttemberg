@@ -1,11 +1,11 @@
 id: 112243270
-type: way
+type: node
 latitude: 48.75497
 longitude: 10.32574
 postcode: "73450"
 city: Neresheim
-street: "Heidenheimer Straße"
-housenumber: 33
+street: Heidenheimer Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

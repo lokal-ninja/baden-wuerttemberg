@@ -1,11 +1,11 @@
 id: 510283707
-type: way
+type: node
 latitude: 48.68015
 longitude: 10.13227
 postcode: "89518"
 city: Heidenheim an der Brenz
-street: "Wilhelmstraße"
-housenumber: 130
-phone: "+49 7321 94670"
+street: Wilhelmstraße
+housenumber: "130"
+phone: +49 7321 94670
 opening_hours: ""
-website: "https://www.gut-gruppe.de/de/unternehmen/birk/locations/elements-heidenheim"
+website: https://www.gut-gruppe.de/de/unternehmen/birk/locations/elements-heidenheim

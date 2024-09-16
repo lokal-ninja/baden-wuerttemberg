@@ -1,11 +1,11 @@
 id: 551740251
-type: way
+type: node
 latitude: 49.13705
 longitude: 8.42537
 postcode: "76351"
 city: Linkenheim-Hochstetten
-street: "Römeräcker"
-housenumber: 2
-phone: "+49 7247 6300"
+street: Römeräcker
+housenumber: "2"
+phone: +49 7247 6300
 opening_hours: ""
-website: "https://haendler.peugeot.de/meinzer-linkenheim/"
+website: https://haendler.peugeot.de/meinzer-linkenheim/

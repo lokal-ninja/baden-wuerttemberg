@@ -1,11 +1,11 @@
 id: 39350347
-type: way
+type: node
 latitude: 48.69592
 longitude: 8.83524
 postcode: "75391"
 city: Gechingen
-street: "Gartenstraße"
-housenumber: 32
+street: Gartenstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

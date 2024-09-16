@@ -1,11 +1,11 @@
 id: 223120341
-type: way
+type: node
 latitude: 47.84006
 longitude: 8.53463
 postcode: "78176"
 city: Blumberg
-street: "Hauptstraße"
-housenumber: 40
+street: Hauptstraße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

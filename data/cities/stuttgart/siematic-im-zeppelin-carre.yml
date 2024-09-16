@@ -4,8 +4,8 @@ latitude: 48.78256
 longitude: 9.17908
 postcode: "70173"
 city: Stuttgart
-street: "Kronenstraße"
-housenumber: 20
+street: Kronenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.siematic-im-zeppelin-carre.de/"
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.siematic-im-zeppelin-carre.de/

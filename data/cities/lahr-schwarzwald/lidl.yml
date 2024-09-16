@@ -1,11 +1,11 @@
 id: 48307419
-type: way
+type: node
 latitude: 48.34587
 longitude: 7.84292
 postcode: "77933"
 city: Lahr/Schwarzwald
-street: "Offenburger Straße"
-housenumber: 24
+street: Offenburger Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/lahr/dinglingen-offenburger-str-24.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/lahr/dinglingen-offenburger-str-24.html

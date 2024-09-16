@@ -1,11 +1,11 @@
 id: 26954208
-type: way
+type: node
 latitude: 49.44133
 longitude: 8.67338
 postcode: ""
 city: Heidelberg
-street: "Dossenheimer Landstraße"
-housenumber: 153
+street: Dossenheimer Landstraße
+housenumber: "153"
 phone: ""
 opening_hours: ""
 website: ""

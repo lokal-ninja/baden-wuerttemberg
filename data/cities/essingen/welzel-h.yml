@@ -1,11 +1,11 @@
 id: 261713198
-type: way
+type: node
 latitude: 48.81242
 longitude: 10.02061
 postcode: "73457"
 city: Essingen
-street: "Brühlgasse"
-housenumber: 2
+street: Brühlgasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.welzel-gartenbau.de/"
+website: https://www.welzel-gartenbau.de/

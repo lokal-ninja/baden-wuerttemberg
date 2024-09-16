@@ -1,11 +1,11 @@
 id: 344567686
-type: way
+type: node
 latitude: 48.99465
 longitude: 8.3992
 postcode: "76137"
 city: Karlsruhe
-street: "Bahnhofplatz"
-housenumber: 10
+street: Bahnhofplatz
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:45; Sa 09:00-19:45; PH,Su off"
+opening_hours: Mo-Fr 09:00-19:45; Sa 09:00-19:45; PH,Su off
 website: ""

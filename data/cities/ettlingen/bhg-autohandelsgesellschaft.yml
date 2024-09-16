@@ -1,11 +1,11 @@
 id: 158683740
-type: way
+type: node
 latitude: 48.94713
 longitude: 8.38028
 postcode: "76275"
 city: Ettlingen
-street: "Robert-Bosch-Straße"
-housenumber: 4
+street: Robert-Bosch-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.bhg-mobile.de/de/skoda-ettlingen"
+website: https://www.bhg-mobile.de/de/skoda-ettlingen

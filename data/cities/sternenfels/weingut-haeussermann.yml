@@ -1,11 +1,11 @@
 id: 602691872
-type: way
+type: node
 latitude: 49.02333
 longitude: 8.85769
 postcode: ""
 city: Sternenfels
-street: "Burrainstraße"
-housenumber: 55
+street: Burrainstraße
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.weingut-haeussermann.de/"
+website: https://www.weingut-haeussermann.de/

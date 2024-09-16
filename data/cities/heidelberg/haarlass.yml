@@ -4,8 +4,8 @@ latitude: 49.42917
 longitude: 8.68257
 postcode: "69121"
 city: Heidelberg
-street: "Dossenheimer Landstraße"
-housenumber: 53
-phone: "+49 6221 5993737"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
-website: "https://www.haarlass-friseur.de/"
+street: Dossenheimer Landstraße
+housenumber: "53"
+phone: +49 6221 5993737
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00
+website: https://www.haarlass-friseur.de/

@@ -1,11 +1,11 @@
 id: 129628410
-type: way
+type: node
 latitude: 49.09181
 longitude: 9.08128
 postcode: "74336"
 city: Brackenheim
-street: "Frankenbacher Straße"
-housenumber: 6
+street: Frankenbacher Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

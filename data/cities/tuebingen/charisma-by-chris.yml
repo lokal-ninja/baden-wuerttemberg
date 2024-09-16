@@ -4,8 +4,9 @@ latitude: 48.52136
 longitude: 9.05305
 postcode: "72070"
 city: Tübingen
-street: "Bei der Fruchtschranne"
-housenumber: 2
-phone: "+49 7071 23710"
-opening_hours: "Mo,Tu 09:00-18:00; We 09:00-19:00; Th,Fr 09:00-20:00; Sa 09:00-16:00; PH,Su off"
-website: "http://www.charismabychris.de"
+street: Bei der Fruchtschranne
+housenumber: "2"
+phone: +49 7071 23710
+opening_hours: Mo,Tu 09:00-18:00; We 09:00-19:00; Th,Fr 09:00-20:00; Sa 09:00-16:00;
+    PH,Su off
+website: http://www.charismabychris.de

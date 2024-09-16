@@ -4,8 +4,8 @@ latitude: 49.35291
 longitude: 9.14706
 postcode: "74821"
 city: Mosbach
-street: "Schwanengasse"
-housenumber: 3
+street: Schwanengasse
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00, Th 10:00-20:00, Tu,We,Fr 14:00-18:00, Sa 09:00-13:00"
+opening_hours: Tu-Fr 10:00-13:00, Th 10:00-20:00, Tu,We,Fr 14:00-18:00, Sa 09:00-13:00
 website: ""

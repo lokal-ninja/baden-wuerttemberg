@@ -1,11 +1,11 @@
 id: 297974525
-type: way
+type: node
 latitude: 48.48553
 longitude: 7.94768
 postcode: "77652"
 city: Offenburg
-street: "Okenstraße"
-housenumber: 109
+street: Okenstraße
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

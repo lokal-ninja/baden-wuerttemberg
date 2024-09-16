@@ -1,11 +1,11 @@
 id: 38864668
-type: way
+type: node
 latitude: 48.34551
 longitude: 7.84076
 postcode: "77933"
 city: Lahr
-street: "Offenburger Straße"
-housenumber: 11
+street: Offenburger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://filiale.kaufland.de/service/filiale/lahr-schwarzwald-4513.html"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://filiale.kaufland.de/service/filiale/lahr-schwarzwald-4513.html

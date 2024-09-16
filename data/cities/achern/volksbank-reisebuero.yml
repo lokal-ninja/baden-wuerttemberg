@@ -4,8 +4,8 @@ latitude: 48.62882
 longitude: 8.07216
 postcode: "77855"
 city: Achern
-street: "Hauptstraße"
-housenumber: 45
-phone: "+49 7841 6911880"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-12:30"
-website: "https://www.volksbank-reisebuero.de"
+street: Hauptstraße
+housenumber: "45"
+phone: +49 7841 6911880
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-12:30
+website: https://www.volksbank-reisebuero.de

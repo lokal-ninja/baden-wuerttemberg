@@ -4,8 +4,9 @@ latitude: 48.65594
 longitude: 8.94023
 postcode: "71139"
 city: Ehningen
-street: "Hintere Burgwiesen"
-housenumber: 
+street: Hintere Burgwiesen
+housenumber: ""
 phone: ""
-opening_hours: "Mo 09:00-13:00; Tu,Fr 09:00-12:30,15:00-18:30; We,Th,Sa 09:00-12:30; PH off"
+opening_hours: Mo 09:00-13:00; Tu,Fr 09:00-12:30,15:00-18:30; We,Th,Sa 09:00-12:30;
+    PH off
 website: ""

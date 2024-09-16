@@ -1,11 +1,11 @@
 id: 97076168
-type: way
+type: node
 latitude: 47.71615
 longitude: 9.46648
 postcode: "88094"
 city: Oberteuringen
-street: "Buchhornstraße"
-housenumber: 11
-phone: "+49 7546 918825"
+street: Buchhornstraße
+housenumber: "11"
+phone: +49 7546 918825
 opening_hours: ""
-website: "https://obsthof-ruess.de/html/home.html"
+website: https://obsthof-ruess.de/html/home.html

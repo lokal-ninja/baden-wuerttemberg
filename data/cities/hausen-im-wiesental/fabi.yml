@@ -4,8 +4,8 @@ latitude: 47.68312
 longitude: 7.84071
 postcode: "79688"
 city: Hausen im Wiesental
-street: "Bergwerkstraße"
-housenumber: 26
-phone: "+49 7622 8140"
-opening_hours: "Mo 14:00-16:00; Tu 08:30-13:00; We 08:00-10:00"
-website: "https://www.fabi-hausen.de/"
+street: Bergwerkstraße
+housenumber: "26"
+phone: +49 7622 8140
+opening_hours: Mo 14:00-16:00; Tu 08:30-13:00; We 08:00-10:00
+website: https://www.fabi-hausen.de/

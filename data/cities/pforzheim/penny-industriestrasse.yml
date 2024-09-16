@@ -1,11 +1,11 @@
 id: 240441015
-type: way
+type: node
 latitude: 48.8629
 longitude: 8.69552
 postcode: "75181"
 city: Pforzheim
-street: "Industriestraße"
-housenumber: 111
+street: Industriestraße
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

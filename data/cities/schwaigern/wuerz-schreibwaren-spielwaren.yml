@@ -1,11 +1,11 @@
 id: 249732864
-type: way
+type: node
 latitude: 49.14167
 longitude: 9.0566
 postcode: "74193"
 city: Schwaigern
-street: "Marktstraße"
-housenumber: 12
+street: Marktstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

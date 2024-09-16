@@ -1,11 +1,11 @@
 id: 209107247
-type: way
+type: node
 latitude: 47.7244
 longitude: 8.93461
 postcode: "78345"
 city: Moos
-street: "Dorfstraße"
-housenumber: 40
-phone: "+49 7732 / 4454"
-opening_hours: "Tu-Fr 09:00-18:00; Sa,Su,PH 09:00-19:00"
-website: "https://www.hoeri-gemuese.de/"
+street: Dorfstraße
+housenumber: "40"
+phone: +49 7732 / 4454
+opening_hours: Tu-Fr 09:00-18:00; Sa,Su,PH 09:00-19:00
+website: https://www.hoeri-gemuese.de/

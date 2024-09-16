@@ -4,8 +4,8 @@ latitude: 48.59709
 longitude: 8.86075
 postcode: "71083"
 city: Herrenberg
-street: "Schwarzwaldstraße"
-housenumber: 98
-phone: "+49 7032 934176"
-opening_hours: "Mo-Th 13:00-21:00; Fr,Sa 13:00-23:00"
+street: Schwarzwaldstraße
+housenumber: "98"
+phone: +49 7032 934176
+opening_hours: Mo-Th 13:00-21:00; Fr,Sa 13:00-23:00
 website: ""

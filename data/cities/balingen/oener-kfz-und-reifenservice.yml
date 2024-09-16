@@ -1,11 +1,11 @@
 id: 142902853
-type: way
+type: node
 latitude: 48.25029
 longitude: 8.86247
 postcode: "72336"
 city: Balingen
-street: "Wiesfleckenstraße"
-housenumber: 32
-phone: "+49 7433 1419533"
-opening_hours: "Mo-Sa"
+street: Wiesfleckenstraße
+housenumber: "32"
+phone: +49 7433 1419533
+opening_hours: Mo-Sa
 website: ""

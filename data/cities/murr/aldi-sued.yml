@@ -1,11 +1,11 @@
 id: 116395368
-type: way
+type: node
 latitude: 48.95753
 longitude: 9.24612
 postcode: "71711"
 city: Murr
-street: "Im Langen Feld"
-housenumber: 7
+street: Im Langen Feld
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=%20Im%20Langen%20Feld%207%2071711%20Murr&Mode=None"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=%20Im%20Langen%20Feld%207%2071711%20Murr&Mode=None

@@ -4,8 +4,8 @@ latitude: 48.85588
 longitude: 8.66456
 postcode: "75180"
 city: Pforzheim
-street: "Dillweißensteiner Straße"
-housenumber: 18
-phone: "+49 7231 71176"
-opening_hours: "Mo-Fr 07:00-13:00, 15:00-18:00; We 07:00-13:00; Sa 07:30-12:00"
-website: "http://www.metzgerei-conle.de"
+street: Dillweißensteiner Straße
+housenumber: "18"
+phone: +49 7231 71176
+opening_hours: Mo-Fr 07:00-13:00, 15:00-18:00; We 07:00-13:00; Sa 07:30-12:00
+website: http://www.metzgerei-conle.de

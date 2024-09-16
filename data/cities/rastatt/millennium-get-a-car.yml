@@ -1,11 +1,11 @@
 id: 221950990
-type: way
+type: node
 latitude: 48.86801
 longitude: 8.18781
 postcode: "76437"
 city: Rastatt
-street: "Gutenbergstraße"
-housenumber: 11
-phone: "+49 7222 92900"
+street: Gutenbergstraße
+housenumber: "11"
+phone: +49 7222 92900
 opening_hours: ""
-website: "https://www.millenniumcars.de/"
+website: https://www.millenniumcars.de/

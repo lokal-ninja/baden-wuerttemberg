@@ -4,8 +4,9 @@ latitude: 48.90532
 longitude: 9.08168
 postcode: "71706"
 city: Markgröningen
-street: "Ostergasse"
-housenumber: 11
+street: Ostergasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo 09:00-12:30,14:30-18:00; We 09:00-12:30; Th 09:00-12:30,14:30-18:00; Fr 14:30-18:00; Sa 09:00-12:30"
-website: "https://www.optik-sichtbar.com/"
+opening_hours: Mo 09:00-12:30,14:30-18:00; We 09:00-12:30; Th 09:00-12:30,14:30-18:00;
+    Fr 14:30-18:00; Sa 09:00-12:30
+website: https://www.optik-sichtbar.com/

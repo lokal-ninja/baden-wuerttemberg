@@ -4,8 +4,8 @@ latitude: 48.50563
 longitude: 9.05152
 postcode: "72072"
 city: Tübingen
-street: "Heinlenstraße"
-housenumber: 4
-phone: "+49 7071 9403777"
-opening_hours: "Tu-Sa 10:00-13:00, Tu-Fr 15:00-18:00"
-website: "https://www.saxklinik.de/"
+street: Heinlenstraße
+housenumber: "4"
+phone: +49 7071 9403777
+opening_hours: Tu-Sa 10:00-13:00, Tu-Fr 15:00-18:00
+website: https://www.saxklinik.de/

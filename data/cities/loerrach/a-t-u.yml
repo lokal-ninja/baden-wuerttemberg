@@ -1,11 +1,11 @@
 id: 92019860
-type: way
+type: node
 latitude: 47.64114
 longitude: 7.70386
 postcode: "79541"
 city: Lörrach
-street: "Im Entenbad"
-housenumber: 7
+street: Im Entenbad
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

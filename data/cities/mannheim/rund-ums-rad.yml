@@ -4,8 +4,8 @@ latitude: 49.49679
 longitude: 8.54939
 postcode: "68259"
 city: Mannheim
-street: "Mosbacher Straße"
-housenumber: 21
-phone: "+49 621 702093"
-opening_hours: "Mo,Tu,Th,Fr 15:00-18:30"
-website: "https://www.rundumsrad-gmbh.de/"
+street: Mosbacher Straße
+housenumber: "21"
+phone: +49 621 702093
+opening_hours: Mo,Tu,Th,Fr 15:00-18:30
+website: https://www.rundumsrad-gmbh.de/

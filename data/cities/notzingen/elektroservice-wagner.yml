@@ -1,11 +1,11 @@
 id: 238327086
-type: way
+type: node
 latitude: 48.67239
 longitude: 9.46018
 postcode: "73274"
 city: Notzingen
-street: "Herdfeldstraße"
-housenumber: 44
+street: Herdfeldstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.wagnerservice.com/home.html"
+website: https://www.wagnerservice.com/home.html

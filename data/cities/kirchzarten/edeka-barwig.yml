@@ -1,11 +1,11 @@
 id: 193772656
-type: way
+type: node
 latitude: 47.97115
 longitude: 7.95406
 postcode: "79199"
 city: Kirchzarten
-street: "Kandelstraße"
-housenumber: 8
+street: Kandelstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

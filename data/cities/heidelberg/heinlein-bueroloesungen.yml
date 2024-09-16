@@ -4,8 +4,8 @@ latitude: 49.40749
 longitude: 8.64678
 postcode: "69123"
 city: Heidelberg
-street: "Hans-Bunte-Straße"
-housenumber: 10
-phone: "+49 6221 7283320"
-opening_hours: "Mo-Th 08:00-16:30; Fr 08:00-15:00"
-website: "https://heinlein-hd.de/"
+street: Hans-Bunte-Straße
+housenumber: "10"
+phone: +49 6221 7283320
+opening_hours: Mo-Th 08:00-16:30; Fr 08:00-15:00
+website: https://heinlein-hd.de/

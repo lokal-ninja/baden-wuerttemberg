@@ -4,8 +4,8 @@ latitude: 49.16547
 longitude: 9.25892
 postcode: "74235"
 city: Erlenbach
-street: "Hofäcker"
-housenumber: 1
-phone: "+49 7132 5432"
-opening_hours: "We, Fr 17:00-19:30"
-website: "https://erlenbacheroelmuehle.de/"
+street: Hofäcker
+housenumber: "1"
+phone: +49 7132 5432
+opening_hours: We, Fr 17:00-19:30
+website: https://erlenbacheroelmuehle.de/

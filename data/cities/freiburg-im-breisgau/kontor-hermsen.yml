@@ -4,8 +4,8 @@ latitude: 48.02456
 longitude: 7.79423
 postcode: "79110"
 city: Freiburg im Breisgau
-street: "Ziegelhofstraße"
-housenumber: 31
-phone: "+49 761 808063"
-opening_hours: "We 13:00-15:00, Th 13:00-18:00"
-website: "https://www.kontor-hermsen.de/"
+street: Ziegelhofstraße
+housenumber: "31"
+phone: +49 761 808063
+opening_hours: We 13:00-15:00, Th 13:00-18:00
+website: https://www.kontor-hermsen.de/

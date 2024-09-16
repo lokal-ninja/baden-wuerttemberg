@@ -1,11 +1,11 @@
 id: 177208992
-type: way
+type: node
 latitude: 47.67642
 longitude: 9.3186
 postcode: "88709"
 city: Hagnau am Bodensee
-street: "Hauptstraße"
-housenumber: 5
+street: Hauptstraße
+housenumber: "5"
 phone: "+4975305020"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 10:00-12:00"
-website: "https://www.heim-hausgeraete.de/"
+opening_hours: Mo-Fr 08:00-17:00, Sa 10:00-12:00
+website: https://www.heim-hausgeraete.de/

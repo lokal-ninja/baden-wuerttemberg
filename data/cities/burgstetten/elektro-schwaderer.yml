@@ -1,11 +1,11 @@
 id: 136080483
-type: way
+type: node
 latitude: 48.92932
 longitude: 9.36955
 postcode: "71576"
 city: Burgstetten
-street: "Pestalozzistraße"
+street: Pestalozzistraße
 housenumber: 6/1
-phone: "+49 7191 65483"
-opening_hours: "Mo-Fr 16:00-18:00; Sa 09:00-12:00"
+phone: +49 7191 65483
+opening_hours: Mo-Fr 16:00-18:00; Sa 09:00-12:00
 website: ""

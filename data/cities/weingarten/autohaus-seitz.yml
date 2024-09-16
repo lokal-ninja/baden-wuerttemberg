@@ -1,11 +1,11 @@
 id: 87550493
-type: way
+type: node
 latitude: 47.81889
 longitude: 9.64162
 postcode: "88250"
 city: Weingarten
-street: "Gaußstraße"
-housenumber: 4
+street: Gaußstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

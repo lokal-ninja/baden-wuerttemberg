@@ -4,8 +4,8 @@ latitude: 49.45322
 longitude: 8.58782
 postcode: "68535"
 city: Edingen-Neckarhausen
-street: "Rosenstraße"
-housenumber: 70
-phone: "+49 621 1728900"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "www.kaufland.de"
+street: Rosenstraße
+housenumber: "70"
+phone: +49 621 1728900
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: www.kaufland.de

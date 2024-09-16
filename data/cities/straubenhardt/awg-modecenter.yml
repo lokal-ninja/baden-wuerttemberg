@@ -4,8 +4,8 @@ latitude: 48.8458
 longitude: 8.52185
 postcode: "75334"
 city: Straubenhardt
-street: "Benzstraße"
-housenumber: 14
-phone: "+49 7082 4131074"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.awg-mode.de/"
+street: Benzstraße
+housenumber: "14"
+phone: +49 7082 4131074
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.awg-mode.de/

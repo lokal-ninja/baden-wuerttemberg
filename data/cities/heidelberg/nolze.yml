@@ -4,8 +4,8 @@ latitude: 49.42837
 longitude: 8.68746
 postcode: "69121"
 city: Heidelberg
-street: "Mühltalstraße"
-housenumber: 5
+street: Mühltalstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30, Sa 08:30-13:00, Mo,Tu 14:30-18:00, Th,Fr 14:30-18:00"
-website: "https://www.optiker-nolze.de/"
+opening_hours: Mo-Fr 08:30-12:30, Sa 08:30-13:00, Mo,Tu 14:30-18:00, Th,Fr 14:30-18:00
+website: https://www.optiker-nolze.de/

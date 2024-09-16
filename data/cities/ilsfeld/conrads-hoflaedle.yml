@@ -1,11 +1,11 @@
 id: 91455445
-type: way
+type: node
 latitude: 49.05017
 longitude: 9.24622
 postcode: "74360"
 city: Ilsfeld
-street: "Bahnhofstraße"
-housenumber: 51
+street: Bahnhofstraße
+housenumber: "51"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

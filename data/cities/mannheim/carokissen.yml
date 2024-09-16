@@ -4,8 +4,8 @@ latitude: 49.49742
 longitude: 8.47579
 postcode: "68167"
 city: Mannheim
-street: "Pozzistraße"
-housenumber: 8
+street: Pozzistraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://carokissen.com/"
+website: https://carokissen.com/

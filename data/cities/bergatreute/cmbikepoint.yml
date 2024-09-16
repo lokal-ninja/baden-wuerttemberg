@@ -4,8 +4,8 @@ latitude: 47.84884
 longitude: 9.75102
 postcode: "88368"
 city: Bergatreute
-street: "Roßberger Straße"
-housenumber: 15
-phone: "+49 7527 9558201"
-opening_hours: "Mo-Fr 14:30-18:30; We off; Th 09:30-12:00,14:30-18:30; Sa 09:30-12:30"
-website: "https://www.cm-bikepoint.de/"
+street: Roßberger Straße
+housenumber: "15"
+phone: +49 7527 9558201
+opening_hours: Mo-Fr 14:30-18:30; We off; Th 09:30-12:00,14:30-18:30; Sa 09:30-12:30
+website: https://www.cm-bikepoint.de/

@@ -1,11 +1,11 @@
 id: 289267631
-type: way
+type: node
 latitude: 48.62371
 longitude: 10.01698
 postcode: "89547"
 city: Gerstetten
-street: "Untere Kirchstraße"
-housenumber: 11
+street: Untere Kirchstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "http://metzgerei-oberhammer.de"
+website: http://metzgerei-oberhammer.de

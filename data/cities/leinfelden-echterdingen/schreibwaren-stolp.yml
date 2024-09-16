@@ -4,8 +4,9 @@ latitude: 48.68806
 longitude: 9.16999
 postcode: "70771"
 city: Leinfelden-Echterdingen
-street: "Bernhäuser Straße"
-housenumber: 22
+street: Bernhäuser Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo 08:00-12:30,14:30-18:30; Tu 08:00-12:30; We-Fr 08:00-12:30,14:30-18:30; Sa 08:00-13:00"
+opening_hours: Mo 08:00-12:30,14:30-18:30; Tu 08:00-12:30; We-Fr 08:00-12:30,14:30-18:30;
+    Sa 08:00-13:00
 website: ""

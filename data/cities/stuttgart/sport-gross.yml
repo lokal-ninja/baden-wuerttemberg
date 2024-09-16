@@ -4,8 +4,8 @@ latitude: 48.75779
 longitude: 9.25618
 postcode: "70329"
 city: Stuttgart
-street: "Amstetter Straße"
-housenumber: 27
-phone: "+49 711 421598"
-opening_hours: "Mo-Tu,Th-Fr 08:30-13:00,15:00-18:30; We,Sa 08:30-13:00"
-website: "https://www.sport-gross.de"
+street: Amstetter Straße
+housenumber: "27"
+phone: +49 711 421598
+opening_hours: Mo-Tu,Th-Fr 08:30-13:00,15:00-18:30; We,Sa 08:30-13:00
+website: https://www.sport-gross.de

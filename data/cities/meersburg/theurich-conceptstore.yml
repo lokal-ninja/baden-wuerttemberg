@@ -4,8 +4,8 @@ latitude: 47.69434
 longitude: 9.27175
 postcode: "88709"
 city: Meersburg
-street: "Steigstraße"
-housenumber: 11
+street: Steigstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.theurich-einkaufswelt.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.theurich-einkaufswelt.de/

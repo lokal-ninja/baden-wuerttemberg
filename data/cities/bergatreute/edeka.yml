@@ -1,11 +1,11 @@
 id: 485940423
-type: way
+type: node
 latitude: 47.8493
 longitude: 9.75237
 postcode: "88368"
 city: Bergatreute
-street: "Roßberger Straße"
-housenumber: 24
+street: Roßberger Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-16:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-16:00
 website: ""

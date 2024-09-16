@@ -1,11 +1,11 @@
 id: 585740042
-type: way
+type: node
 latitude: 47.73699
 longitude: 8.84863
 postcode: "78239"
 city: Rielasingen-Worblingen
-street: "Adam-Opel-Straße"
-housenumber: 2
-phone: "+49 7731 27019"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:30; Sa 08:30-12:00"
-website: "https://www.vogel-automobile.com/"
+street: Adam-Opel-Straße
+housenumber: "2"
+phone: +49 7731 27019
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:30; Sa 08:30-12:00
+website: https://www.vogel-automobile.com/

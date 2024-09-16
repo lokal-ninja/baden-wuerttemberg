@@ -4,8 +4,8 @@ latitude: 49.40511
 longitude: 8.6861
 postcode: "69115"
 city: Heidelberg
-street: "Bahnhofstraße"
-housenumber: 55
-phone: "+49 6221 183727"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-14:00"
-website: "https://kleine-radhaus.de/"
+street: Bahnhofstraße
+housenumber: "55"
+phone: +49 6221 183727
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-14:00
+website: https://kleine-radhaus.de/

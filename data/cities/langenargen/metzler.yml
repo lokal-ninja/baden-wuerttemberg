@@ -4,8 +4,8 @@ latitude: 47.59689
 longitude: 9.54185
 postcode: "88085"
 city: Langenargen
-street: "Klosterstraße"
-housenumber: 1
-phone: "+49 7543 2442"
-opening_hours: "Sa 06:00-13:00; Mo-Fr 06:30-18:00; May-Sep: Su 07:00-12:00"
-website: "https://www.baeckerei-metzler.de/"
+street: Klosterstraße
+housenumber: "1"
+phone: +49 7543 2442
+opening_hours: 'Sa 06:00-13:00; Mo-Fr 06:30-18:00; May-Sep: Su 07:00-12:00'
+website: https://www.baeckerei-metzler.de/

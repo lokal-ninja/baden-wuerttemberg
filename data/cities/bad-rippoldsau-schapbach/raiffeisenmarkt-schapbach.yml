@@ -1,11 +1,11 @@
 id: 330274795
-type: way
+type: node
 latitude: 48.37811
 longitude: 8.29268
 postcode: "77776"
 city: Bad Rippoldsau-Schapbach
-street: "Dorfstraße"
-housenumber: 35
+street: Dorfstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:30, Mo-Tu,Th-Fr 14:30-18:00; Sa 06:30-12:00; PH off"
+opening_hours: Mo-Fr 06:30-12:30, Mo-Tu,Th-Fr 14:30-18:00; Sa 06:30-12:00; PH off
 website: ""

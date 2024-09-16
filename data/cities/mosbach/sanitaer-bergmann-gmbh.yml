@@ -4,8 +4,8 @@ latitude: 49.35945
 longitude: 9.1488
 postcode: "74821"
 city: Mosbach
-street: "Odenwaldstraße"
-housenumber: 29
-phone: "+49 6261 2248"
-opening_hours: "Mo-Fr 09:30-12:30,14:30-17:00; Sa 09:00-12:00"
-website: "https://bergmann-bad.de/"
+street: Odenwaldstraße
+housenumber: "29"
+phone: +49 6261 2248
+opening_hours: Mo-Fr 09:30-12:30,14:30-17:00; Sa 09:00-12:00
+website: https://bergmann-bad.de/

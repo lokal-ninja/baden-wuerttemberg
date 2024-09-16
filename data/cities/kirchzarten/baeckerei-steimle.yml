@@ -4,8 +4,8 @@ latitude: 47.96329
 longitude: 7.95224
 postcode: "79199"
 city: Kirchzarten
-street: "Freiburger Straße"
-housenumber: 1
-phone: "+49 7661 4123"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:30; Su 13:30-16:30"
-website: "https://www.baeckerei-steimle.de/"
+street: Freiburger Straße
+housenumber: "1"
+phone: +49 7661 4123
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:30; Su 13:30-16:30
+website: https://www.baeckerei-steimle.de/

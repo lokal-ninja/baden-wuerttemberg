@@ -1,11 +1,11 @@
 id: 90555742
-type: way
+type: node
 latitude: 48.85921
 longitude: 8.23496
 postcode: "76437"
 city: Rastatt
-street: "Rauentaler Straße"
-housenumber: 50
+street: Rauentaler Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

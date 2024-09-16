@@ -1,11 +1,11 @@
 id: 288922301
-type: way
+type: node
 latitude: 47.83859
 longitude: 9.66304
 postcode: "88255"
 city: Baindt
-street: "Annabergstraße"
-housenumber: 27
+street: Annabergstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"
+opening_hours: Tu-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30
 website: ""

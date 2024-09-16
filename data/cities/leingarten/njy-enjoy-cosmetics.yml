@@ -1,11 +1,11 @@
 id: 98940446
-type: way
+type: node
 latitude: 49.14338
 longitude: 9.12222
 postcode: "74211"
 city: Leingarten
-street: "Heilbronner Straße"
-housenumber: 24
+street: Heilbronner Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.enjoy-cosmetics.de/"
+website: https://www.enjoy-cosmetics.de/

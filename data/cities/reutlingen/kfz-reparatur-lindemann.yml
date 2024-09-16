@@ -4,8 +4,8 @@ latitude: 48.52716
 longitude: 9.20551
 postcode: "72768"
 city: Reutlingen
-street: "Bayernstraße"
-housenumber: 6
-phone: "+49 7121 9307430"
+street: Bayernstraße
+housenumber: "6"
+phone: +49 7121 9307430
 opening_hours: ""
-website: "http://www.lindemann.autofitpartner.de/"
+website: http://www.lindemann.autofitpartner.de/

@@ -4,8 +4,8 @@ latitude: 47.95877
 longitude: 8.76444
 postcode: "78532"
 city: Tuttlingen
-street: "Schwarzwaldstraße"
-housenumber: 7
+street: Schwarzwaldstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:30, Tu-Fr 15:00-18:30, Sa 07:00-12:00; PH off"
-website: "https://www.mehringerlaedele.com/"
+opening_hours: Mo-Fr 06:00-12:30, Tu-Fr 15:00-18:30, Sa 07:00-12:00; PH off
+website: https://www.mehringerlaedele.com/

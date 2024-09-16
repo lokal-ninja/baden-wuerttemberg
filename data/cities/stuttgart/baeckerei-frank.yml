@@ -1,11 +1,11 @@
 id: 420304187
-type: way
+type: node
 latitude: 48.80835
 longitude: 9.23372
 postcode: "70374"
 city: Stuttgart
-street: "Martha-Schmidtmann-Straße"
-housenumber: 9
+street: Martha-Schmidtmann-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30,06:00-13:30"
+opening_hours: Mo-Fr 06:00-18:30,06:00-13:30
 website: ""

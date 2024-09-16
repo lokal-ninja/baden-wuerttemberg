@@ -4,8 +4,8 @@ latitude: 49.10042
 longitude: 9.21389
 postcode: "74223"
 city: Flein
-street: "Ilsfelder Straße"
-housenumber: 2
-phone: "+49 7131 9082454"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 08:00-13:00; Jun 01-Sep 30: Mo 09:00-12:30"
-website: "https://lis-beth.de"
+street: Ilsfelder Straße
+housenumber: "2"
+phone: +49 7131 9082454
+opening_hours: 'Mo-Fr 09:00-12:30,14:00-18:00; Sa 08:00-13:00; Jun 01-Sep 30: Mo 09:00-12:30'
+website: https://lis-beth.de

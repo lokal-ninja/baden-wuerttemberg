@@ -1,11 +1,11 @@
 id: 344077916
-type: way
+type: node
 latitude: 48.03534
 longitude: 8.60545
 postcode: "78609"
 city: Tuningen
-street: "Im Sol"
-housenumber: 1
+street: Im Sol
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-16:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-16:00
 website: ""

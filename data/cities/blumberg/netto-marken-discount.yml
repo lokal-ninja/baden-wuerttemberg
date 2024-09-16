@@ -1,11 +1,11 @@
 id: 223267650
-type: way
+type: node
 latitude: 47.84121
 longitude: 8.53566
 postcode: "78176"
 city: Blumberg
-street: "Uchbahnstraße"
-housenumber: 10
+street: Uchbahnstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

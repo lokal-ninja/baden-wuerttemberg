@@ -1,11 +1,11 @@
 id: 535526351
-type: way
+type: node
 latitude: 49.26411
 longitude: 8.59697
 postcode: "68789"
 city: St. Leon-Rot
-street: "Kirrlacher Straße"
-housenumber: 38
+street: Kirrlacher Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-13:00"
-website: "https://www.opel-schnorberger-st-leon-rot.de/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-13:00
+website: https://www.opel-schnorberger-st-leon-rot.de/

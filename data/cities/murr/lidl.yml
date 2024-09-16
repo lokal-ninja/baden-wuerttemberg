@@ -1,11 +1,11 @@
 id: 136544427
-type: way
+type: node
 latitude: 48.9579
 longitude: 9.24219
 postcode: "71711"
 city: Murr
-street: "Im Langen Feld"
-housenumber: 20
+street: Im Langen Feld
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/murr/im-langen-feld-20.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/murr/im-langen-feld-20.html

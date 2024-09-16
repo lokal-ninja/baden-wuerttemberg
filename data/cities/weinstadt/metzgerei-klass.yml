@@ -4,8 +4,8 @@ latitude: 48.81719
 longitude: 9.38611
 postcode: "71384"
 city: Weinstadt
-street: "Brückenstraße"
-housenumber: 1
+street: Brückenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-13:00,15:00-18:00; Sa 07:30-13:00; PH,Su closed"
-website: "https://metzgerei-klass.de/"
+opening_hours: Mo-Fr 07:30-13:00,15:00-18:00; Sa 07:30-13:00; PH,Su closed
+website: https://metzgerei-klass.de/

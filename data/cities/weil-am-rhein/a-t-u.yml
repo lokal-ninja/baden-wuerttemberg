@@ -1,11 +1,11 @@
 id: 92000708
-type: way
+type: node
 latitude: 47.59985
 longitude: 7.5983
 postcode: "79576"
 city: Weil am Rhein
-street: "Alte Straße"
-housenumber: 56
+street: Alte Straße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00"
-website: "https://www.atu.de/filialen/461-weil-am-rhein/"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-16:00
+website: https://www.atu.de/filialen/461-weil-am-rhein/

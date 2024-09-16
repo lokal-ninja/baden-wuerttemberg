@@ -1,11 +1,11 @@
 id: 480281672
-type: way
+type: node
 latitude: 48.51448
 longitude: 9.76362
 postcode: "89188"
 city: Merklingen
-street: "Industriestraße"
-housenumber: 14
+street: Industriestraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

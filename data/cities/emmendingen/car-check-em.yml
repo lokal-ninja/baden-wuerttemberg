@@ -4,8 +4,8 @@ latitude: 48.12805
 longitude: 7.82505
 postcode: "79312"
 city: Emmendingen
-street: "Am Elzdamm"
-housenumber: 50
+street: Am Elzdamm
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://www.carcheck-em.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://www.carcheck-em.de/

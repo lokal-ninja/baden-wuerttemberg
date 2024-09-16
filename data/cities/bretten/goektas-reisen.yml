@@ -4,8 +4,8 @@ latitude: 49.03722
 longitude: 8.70561
 postcode: "75015"
 city: Bretten
-street: "Melanchthonstraße"
-housenumber: 20
+street: Melanchthonstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:00"
-website: "http://goektas-reisen.de/"
+opening_hours: Mo-Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:00
+website: http://goektas-reisen.de/

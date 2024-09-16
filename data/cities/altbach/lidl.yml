@@ -1,11 +1,11 @@
 id: 288249947
-type: way
+type: node
 latitude: 48.71865
 longitude: 9.38054
 postcode: "73776"
 city: Altbach
-street: "Kieswiesen"
-housenumber: 16
+street: Kieswiesen
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

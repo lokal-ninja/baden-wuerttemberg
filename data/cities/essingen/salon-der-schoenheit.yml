@@ -4,8 +4,8 @@ latitude: 48.8158
 longitude: 10.02902
 postcode: "73457"
 city: Essingen
-street: "Humboldtstraße"
-housenumber: 1
+street: Humboldtstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

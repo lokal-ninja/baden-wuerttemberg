@@ -4,8 +4,8 @@ latitude: 47.85421
 longitude: 9.00504
 postcode: "78333"
 city: Stockach
-street: "Stegwiesen"
-housenumber: 6
-phone: "+49 7771 1764"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 09:00-13:00"
-website: "https://www.carshop.de/werkstatt-stockach/"
+street: Stegwiesen
+housenumber: "6"
+phone: +49 7771 1764
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 09:00-13:00
+website: https://www.carshop.de/werkstatt-stockach/

@@ -4,8 +4,8 @@ latitude: 48.7817
 longitude: 9.22889
 postcode: "70188"
 city: Stuttgart
-street: "Neckarwiesenstraße"
-housenumber: 5
+street: Neckarwiesenstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.easyticket.de/"
+website: https://www.easyticket.de/

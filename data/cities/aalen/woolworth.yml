@@ -4,8 +4,8 @@ latitude: 48.83683
 longitude: 10.09085
 postcode: "73430"
 city: Aalen
-street: "Gartenstraße"
-housenumber: 2
+street: Gartenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH closed"
-website: "https://woolworth.de/"
+opening_hours: Mo-Sa 09:00-20:00; PH closed
+website: https://woolworth.de/

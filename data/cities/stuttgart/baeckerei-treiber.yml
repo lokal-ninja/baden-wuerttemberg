@@ -4,8 +4,8 @@ latitude: 48.76397
 longitude: 9.16746
 postcode: "70178"
 city: Stuttgart
-street: "Marienplatz"
-housenumber: 8
+street: Marienplatz
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-24:00"
-website: "https://www.baeckerei-treiber.de/#filialfinder"
+opening_hours: Mo-Sa 08:00-24:00
+website: https://www.baeckerei-treiber.de/#filialfinder

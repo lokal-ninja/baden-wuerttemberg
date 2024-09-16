@@ -1,11 +1,11 @@
 id: 421976597
-type: way
+type: node
 latitude: 48.19275
 longitude: 9.28272
 postcode: "72513"
 city: Hettingen
-street: "Schillerstraße"
-housenumber: 1
-phone: "+49 172 2621252"
+street: Schillerstraße
+housenumber: "1"
+phone: +49 172 2621252
 opening_hours: ""
-website: "http://dominik-goetz.de"
+website: http://dominik-goetz.de

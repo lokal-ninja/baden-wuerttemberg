@@ -4,8 +4,8 @@ latitude: 48.86253
 longitude: 9.46987
 postcode: "73663"
 city: Berglen
-street: "Johann-Sebastian-Bach-Straße"
-housenumber: 20
+street: Johann-Sebastian-Bach-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Th,Fr 09:00-12:30,15:00-17:30; Sa 08:30-12:00"
-website: "https://obstanbaugruber.de/"
+opening_hours: Th,Fr 09:00-12:30,15:00-17:30; Sa 08:30-12:00
+website: https://obstanbaugruber.de/

@@ -4,8 +4,8 @@ latitude: 48.10571
 longitude: 7.86208
 postcode: "79312"
 city: Emmendingen
-street: "Lessingstraße"
-housenumber: 21
-phone: "+49 7641 9542512"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://edeka-kohler.de/maerkte/emmendingen-lessingstr/"
+street: Lessingstraße
+housenumber: "21"
+phone: +49 7641 9542512
+opening_hours: Mo-Sa 08:00-20:00
+website: http://edeka-kohler.de/maerkte/emmendingen-lessingstr/

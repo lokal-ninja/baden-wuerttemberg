@@ -1,11 +1,11 @@
 id: 30760779
-type: way
+type: node
 latitude: 48.15089
 longitude: 9.48108
 postcode: "88499"
 city: Riedlingen
-street: "Unterriederstraße"
-housenumber: 7
+street: Unterriederstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://picksraus.de"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://picksraus.de

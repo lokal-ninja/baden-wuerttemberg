@@ -1,11 +1,11 @@
 id: 330922686
-type: way
+type: node
 latitude: 48.79132
 longitude: 8.63919
 postcode: "75328"
 city: Schömberg
-street: "Rosenstraße"
-housenumber: 11
+street: Rosenstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

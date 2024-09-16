@@ -1,11 +1,11 @@
 id: 146227218
-type: way
+type: node
 latitude: 49.52588
 longitude: 8.49709
 postcode: "68305"
 city: Mannheim
-street: "Kasseler Straße"
-housenumber: 82
+street: Kasseler Straße
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 64973757
-type: way
+type: node
 latitude: 48.62223
 longitude: 7.89175
 postcode: "77866"
 city: Rheinau
-street: "Tullastraße"
-housenumber: 38
+street: Tullastraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

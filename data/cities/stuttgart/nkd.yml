@@ -4,8 +4,8 @@ latitude: 48.78079
 longitude: 9.25107
 postcode: "70327"
 city: Stuttgart
-street: "Augsburger Straße"
-housenumber: 355
-phone: "+49 711 34271081"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; PH closed"
+street: Augsburger Straße
+housenumber: "355"
+phone: +49 711 34271081
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00; PH closed
 website: ""

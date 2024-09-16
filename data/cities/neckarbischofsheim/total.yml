@@ -1,11 +1,11 @@
 id: 391636439
-type: way
+type: node
 latitude: 49.29571
 longitude: 8.95451
 postcode: "74924"
 city: Neckarbischofsheim
-street: "Waibstadter Straße"
-housenumber: 35
-phone: "+49 7263 969900"
-opening_hours: "Mo-Sa 07:00-20:00;Su,PH 09:00-12:00"
+street: Waibstadter Straße
+housenumber: "35"
+phone: +49 7263 969900
+opening_hours: Mo-Sa 07:00-20:00;Su,PH 09:00-12:00
 website: ""

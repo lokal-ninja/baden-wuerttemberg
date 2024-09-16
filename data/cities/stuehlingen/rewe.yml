@@ -1,11 +1,11 @@
 id: 196061028
-type: way
+type: node
 latitude: 47.74436
 longitude: 8.44957
 postcode: "79780"
 city: Stühlingen
-street: "Lindenweg"
-housenumber: 2
+street: Lindenweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

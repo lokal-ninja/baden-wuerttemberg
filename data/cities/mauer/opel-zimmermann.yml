@@ -1,11 +1,11 @@
 id: 247447842
-type: way
+type: node
 latitude: 49.34119
 longitude: 8.79715
 postcode: "69256"
 city: Mauer
-street: "Heidelberger Straße"
-housenumber: 27
+street: Heidelberger Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "http://www.opel-zimmermann.de"
+website: http://www.opel-zimmermann.de

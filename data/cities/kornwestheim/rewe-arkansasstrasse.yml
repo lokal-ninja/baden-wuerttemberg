@@ -1,11 +1,11 @@
 id: 58778756
-type: way
+type: node
 latitude: 48.87768
 longitude: 9.22026
 postcode: "70806"
 city: Kornwestheim
-street: "Arkansasstraße"
-housenumber: 2
+street: Arkansasstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

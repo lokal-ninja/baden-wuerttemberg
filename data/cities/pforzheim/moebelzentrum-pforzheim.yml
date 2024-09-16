@@ -1,11 +1,11 @@
 id: 376169093
-type: way
+type: node
 latitude: 48.91697
 longitude: 8.73095
 postcode: "75177"
 city: Pforzheim
-street: "Kieselbronner Straße"
-housenumber: 92
+street: Kieselbronner Straße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-19:00; Su, Ph off"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-19:00; Su, Ph off
 website: ""

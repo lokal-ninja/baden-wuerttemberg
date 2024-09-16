@@ -1,11 +1,11 @@
 id: 1112597666
-type: way
+type: node
 latitude: 48.7756
 longitude: 9.17307
 postcode: "70173"
 city: Stuttgart
-street: "Rotebühlplatz"
-housenumber: 20
+street: Rotebühlplatz
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.giusylamattina.com/"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.giusylamattina.com/

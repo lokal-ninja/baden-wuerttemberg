@@ -4,8 +4,8 @@ latitude: 48.59579
 longitude: 8.86834
 postcode: "71083"
 city: Herrenberg
-street: "Bronngasse"
-housenumber: 20
+street: Bronngasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-14:00"
-website: "https://www.sport-sehner.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-14:00
+website: https://www.sport-sehner.de/

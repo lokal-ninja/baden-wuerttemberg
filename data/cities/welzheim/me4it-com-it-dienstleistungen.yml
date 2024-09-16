@@ -1,11 +1,11 @@
 id: 139457450
-type: way
+type: node
 latitude: 48.87249
 longitude: 9.63962
 postcode: "73642"
 city: Welzheim
-street: "Rienharzer Straße"
-housenumber: 50
+street: Rienharzer Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://me4it.com/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://me4it.com/

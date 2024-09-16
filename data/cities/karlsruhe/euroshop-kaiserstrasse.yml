@@ -4,8 +4,8 @@ latitude: 49.00949
 longitude: 8.4094
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 24
-phone: "+49 931 90004396"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:00"
-website: "https://www.euroshop-online.de/"
+street: Kaiserstraße
+housenumber: "24"
+phone: +49 931 90004396
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-19:00
+website: https://www.euroshop-online.de/

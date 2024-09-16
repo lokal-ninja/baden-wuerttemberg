@@ -1,11 +1,11 @@
 id: 158437700
-type: way
+type: node
 latitude: 48.73882
 longitude: 10.11765
 postcode: "89551"
 city: Königsbronn
-street: "Heidenheimer Straße"
-housenumber: 12
+street: Heidenheimer Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

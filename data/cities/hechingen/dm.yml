@@ -1,11 +1,11 @@
 id: 334151073
-type: way
+type: node
 latitude: 48.36037
 longitude: 8.96224
 postcode: "72379"
 city: Hechingen
-street: "Haigerlocher Straße"
-housenumber: 24
+street: Haigerlocher Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

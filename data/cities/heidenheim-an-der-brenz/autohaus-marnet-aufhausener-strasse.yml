@@ -1,11 +1,11 @@
 id: 464794729
-type: way
+type: node
 latitude: 48.71423
 longitude: 10.15909
 postcode: "89520"
 city: Heidenheim an der Brenz
-street: "Aufhausener Straße"
-housenumber: 23
+street: Aufhausener Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

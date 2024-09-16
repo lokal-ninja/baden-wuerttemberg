@@ -4,8 +4,8 @@ latitude: 48.78769
 longitude: 8.64209
 postcode: "75328"
 city: Schömberg
-street: "Schillerstraße"
-housenumber: 5
+street: Schillerstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Fr 09:30-12:30,14:30-18:00; Tu,Th 14:30-18:00; Sa 09:30-13:30"
-website: "https://www.schwarzwaldwolloutlet.de/"
+opening_hours: Mo,Fr 09:30-12:30,14:30-18:00; Tu,Th 14:30-18:00; Sa 09:30-13:30
+website: https://www.schwarzwaldwolloutlet.de/

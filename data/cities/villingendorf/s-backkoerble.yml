@@ -1,11 +1,11 @@
 id: 137334003
-type: way
+type: node
 latitude: 48.19804
 longitude: 8.59262
 postcode: "78667"
 city: Villingendorf
-street: "Rottweiler Straße"
-housenumber: 40
-phone: "+741 3486060"
+street: Rottweiler Straße
+housenumber: "40"
+phone: +741 3486060
 opening_hours: ""
-website: "https://backkoerble.de"
+website: https://backkoerble.de

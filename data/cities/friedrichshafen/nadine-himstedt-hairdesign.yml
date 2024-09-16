@@ -4,8 +4,8 @@ latitude: 47.65336
 longitude: 9.48541
 postcode: "88046"
 city: Friedrichshafen
-street: "Werderstraße"
-housenumber: 8
+street: Werderstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00"
-website: "http://www.nadine-himstedt-hairdesign.de/"
+opening_hours: Tu-Fr 10:00-18:00
+website: http://www.nadine-himstedt-hairdesign.de/

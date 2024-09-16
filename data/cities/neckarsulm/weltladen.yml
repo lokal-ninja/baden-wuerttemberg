@@ -4,8 +4,8 @@ latitude: 49.19131
 longitude: 9.22305
 postcode: "74172"
 city: Neckarsulm
-street: "Urbanstraße"
-housenumber: 12
-phone: "+49 7132 3869464"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "weltladen-neckarsulm.de"
+street: Urbanstraße
+housenumber: "12"
+phone: +49 7132 3869464
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: weltladen-neckarsulm.de

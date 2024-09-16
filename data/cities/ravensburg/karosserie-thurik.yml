@@ -1,11 +1,11 @@
 id: 106247744
-type: way
+type: node
 latitude: 47.78037
 longitude: 9.60326
 postcode: "88214"
 city: Ravensburg
-street: "Schwanenstraße"
+street: Schwanenstraße
 housenumber: 2/1
-phone: "+49 751 24144"
-opening_hours: "Mo-Th 07:00-12:00,13:00-16:30; Fr 07:00-12:00,13:00-15:15"
-website: "https://thurik.de/"
+phone: +49 751 24144
+opening_hours: Mo-Th 07:00-12:00,13:00-16:30; Fr 07:00-12:00,13:00-15:15
+website: https://thurik.de/

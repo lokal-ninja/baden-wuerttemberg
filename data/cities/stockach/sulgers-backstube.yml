@@ -4,8 +4,8 @@ latitude: 47.85652
 longitude: 9.01825
 postcode: "78333"
 city: Stockach
-street: "Zoznegger Straße"
-housenumber: 23
-phone: "+49 7771 935373"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://edeka-sulger.de/"
+street: Zoznegger Straße
+housenumber: "23"
+phone: +49 7771 935373
+opening_hours: Mo-Sa 07:00-20:00
+website: https://edeka-sulger.de/

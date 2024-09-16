@@ -4,8 +4,9 @@ latitude: 48.59394
 longitude: 9.64482
 postcode: "73344"
 city: Gruibingen
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 07:30-12:30,14:30-18:00; We 07:30-12:30; Sa 07:00-12:00; Su,PH off"
-website: "http://www.metzgerei-zum-adler.de"
+opening_hours: Mo,Tu,Th,Fr 07:30-12:30,14:30-18:00; We 07:30-12:30; Sa 07:00-12:00;
+    Su,PH off
+website: http://www.metzgerei-zum-adler.de

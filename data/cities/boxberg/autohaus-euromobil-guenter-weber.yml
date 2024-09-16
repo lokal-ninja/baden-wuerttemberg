@@ -1,11 +1,11 @@
 id: 93689613
-type: way
+type: node
 latitude: 49.48514
 longitude: 9.64677
 postcode: "97944"
 city: Boxberg
-street: "Kurpfalzstraße"
-housenumber: 55
-phone: "+49 7930 6346"
+street: Kurpfalzstraße
+housenumber: "55"
+phone: +49 7930 6346
 opening_hours: ""
 website: ""

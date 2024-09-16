@@ -1,11 +1,11 @@
 id: 366342645
-type: way
+type: node
 latitude: 49.36775
 longitude: 8.98448
 postcode: "74869"
 city: Schwarzach
-street: "Tonwerkstraße"
-housenumber: 4
+street: Tonwerkstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-14:00
 website: ""

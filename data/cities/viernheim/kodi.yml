@@ -1,11 +1,11 @@
 id: 1264057976
-type: way
+type: node
 latitude: 49.52586
 longitude: 8.56158
 postcode: "68519"
 city: Viernheim
-street: "Robert-Schuman-Straße"
-housenumber: 8
+street: Robert-Schuman-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:30-20:00; Su,PH off"
-website: "https://www.kodi.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:30-20:00; Su,PH off
+website: https://www.kodi.de/

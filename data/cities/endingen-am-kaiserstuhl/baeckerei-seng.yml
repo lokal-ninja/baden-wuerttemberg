@@ -4,8 +4,8 @@ latitude: 48.14186
 longitude: 7.703
 postcode: "79346"
 city: Endingen am Kaiserstuhl
-street: "Hauptstraße"
-housenumber: 47
-phone: "+49 7642 3224"
-opening_hours: "Mo,Tu,We,Fr 06:00-18:30; Th off; Sa 06:00-13:00; Su 07:30-11:00"
-website: "http://www.baeckerei-seng.de"
+street: Hauptstraße
+housenumber: "47"
+phone: +49 7642 3224
+opening_hours: Mo,Tu,We,Fr 06:00-18:30; Th off; Sa 06:00-13:00; Su 07:30-11:00
+website: http://www.baeckerei-seng.de

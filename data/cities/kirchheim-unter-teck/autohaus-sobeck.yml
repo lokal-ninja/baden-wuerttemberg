@@ -1,11 +1,11 @@
 id: 396998629
-type: way
+type: node
 latitude: 48.64184
 longitude: 9.47142
 postcode: "73230"
 city: Kirchheim unter Teck
-street: "Sudetenstraße"
-housenumber: 27
+street: Sudetenstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

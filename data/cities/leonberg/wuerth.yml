@@ -1,11 +1,11 @@
 id: 684414144
-type: way
+type: node
 latitude: 48.7859
 longitude: 8.99473
 postcode: "71229"
 city: Leonberg
-street: "Mollenbachstraße"
-housenumber: 51
+street: Mollenbachstraße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

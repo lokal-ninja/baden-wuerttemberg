@@ -1,11 +1,11 @@
 id: 221104368
-type: way
+type: node
 latitude: 49.01331
 longitude: 9.21351
 postcode: "74354"
 city: Besigheim
-street: "Max-Eyth-Straße"
-housenumber: 9
-phone: "+49 7143 967540"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Su off"
-website: "http://www.bayer-kfz-technik.de/"
+street: Max-Eyth-Straße
+housenumber: "9"
+phone: +49 7143 967540
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Su off
+website: http://www.bayer-kfz-technik.de/

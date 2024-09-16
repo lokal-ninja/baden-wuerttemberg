@@ -1,11 +1,11 @@
 id: 252545431
-type: way
+type: node
 latitude: 48.48054
 longitude: 8.94949
 postcode: "72108"
 city: Rottenburg am Neckar
-street: "Schuhstraße"
-housenumber: 77
+street: Schuhstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00; Su off; PH off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:00; Su off; PH off
 website: ""

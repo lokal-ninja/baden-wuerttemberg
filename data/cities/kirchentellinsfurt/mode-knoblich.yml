@@ -4,8 +4,8 @@ latitude: 48.53067
 longitude: 9.13933
 postcode: "72138"
 city: Kirchentellinsfurt
-street: "Wannweiler Straße"
-housenumber: 12
-phone: "+49 7121 96930"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00"
-website: "https://www.mode-knoblich.de/"
+street: Wannweiler Straße
+housenumber: "12"
+phone: +49 7121 96930
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00
+website: https://www.mode-knoblich.de/

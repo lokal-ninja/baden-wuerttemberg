@@ -1,11 +1,11 @@
 id: 240491342
-type: way
+type: node
 latitude: 48.34177
 longitude: 7.84146
 postcode: "77933"
 city: Lahr/Schwarzwald
-street: "Eisenbahnstraße"
-housenumber: 1
+street: Eisenbahnstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 99021932
-type: way
+type: node
 latitude: 48.72617
 longitude: 8.00735
 postcode: "77839"
 city: Lichtenau
-street: "Hauptstraße"
-housenumber: 23
-phone: "+49 7227 6161"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00"
-website: "http://www.kuechenmarkt-goetz.kuechen.de/"
+street: Hauptstraße
+housenumber: "23"
+phone: +49 7227 6161
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-16:00
+website: http://www.kuechenmarkt-goetz.kuechen.de/

@@ -1,11 +1,11 @@
 id: 200352578
-type: way
+type: node
 latitude: 48.80606
 longitude: 9.84934
 postcode: "73527"
 city: Schwäbisch Gmünd
-street: "Im Benzfeld"
-housenumber: 45
+street: Im Benzfeld
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "http://gienger.de/"
+website: http://gienger.de/

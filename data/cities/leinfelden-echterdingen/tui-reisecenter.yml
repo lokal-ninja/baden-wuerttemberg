@@ -4,8 +4,8 @@ latitude: 48.69389
 longitude: 9.14349
 postcode: "70771"
 city: Leinfelden-Echterdingen
-street: "Neuer Markt"
-housenumber: 5
+street: Neuer Markt
+housenumber: "5"
 phone: "+49711757575"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 10:00-13:00"
-website: "https://www.tui-reisecenter.de/leinfelden"
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 10:00-13:00
+website: https://www.tui-reisecenter.de/leinfelden

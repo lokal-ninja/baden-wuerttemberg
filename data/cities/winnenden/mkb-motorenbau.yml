@@ -1,11 +1,11 @@
 id: 401440141
-type: way
+type: node
 latitude: 48.89065
 longitude: 9.42089
 postcode: "71364"
 city: Winnenden
-street: "Otto-Hahn-Straße"
-housenumber: 2
-phone: "+49 7195 91610"
+street: Otto-Hahn-Straße
+housenumber: "2"
+phone: +49 7195 91610
 opening_hours: ""
-website: "http://www.mkb-power.de/de/"
+website: http://www.mkb-power.de/de/

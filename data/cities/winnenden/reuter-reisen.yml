@@ -1,11 +1,11 @@
 id: 83104264
-type: way
+type: node
 latitude: 48.87466
 longitude: 9.402
 postcode: "71364"
 city: Winnenden
-street: "Schorndorfer Straße"
-housenumber: 7
-phone: "+49 7195 8041"
-opening_hours: "Mo-Fr 09:00-12:20,14:00-18:00; Sa 09:00-12:30"
-website: "https://reuter-reisen.de/"
+street: Schorndorfer Straße
+housenumber: "7"
+phone: +49 7195 8041
+opening_hours: Mo-Fr 09:00-12:20,14:00-18:00; Sa 09:00-12:30
+website: https://reuter-reisen.de/

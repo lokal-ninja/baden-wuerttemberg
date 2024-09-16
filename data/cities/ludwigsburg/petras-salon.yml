@@ -1,11 +1,11 @@
 id: 145209421
-type: way
+type: node
 latitude: 48.89629
 longitude: 9.21146
 postcode: "71638"
 city: Ludwigsburg
-street: "Schorndorfer Straße"
-housenumber: 127
+street: Schorndorfer Straße
+housenumber: "127"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:30-13:00"
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:30-13:00
 website: ""

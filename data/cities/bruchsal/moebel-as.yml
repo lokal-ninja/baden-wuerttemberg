@@ -4,8 +4,8 @@ latitude: 49.1391
 longitude: 8.56278
 postcode: "76646"
 city: Bruchsal
-street: "Am Mantel"
-housenumber: 7
-phone: "+49 7251 982390"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.moebel-as.de/standorte/bruchsal"
+street: Am Mantel
+housenumber: "7"
+phone: +49 7251 982390
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.moebel-as.de/standorte/bruchsal

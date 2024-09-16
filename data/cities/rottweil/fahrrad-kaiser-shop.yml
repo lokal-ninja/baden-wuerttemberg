@@ -1,11 +1,11 @@
 id: 136990981
-type: way
+type: node
 latitude: 48.17025
 longitude: 8.63337
 postcode: "78628"
 city: Rottweil
-street: "Balinger Straße"
-housenumber: 9
+street: Balinger Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-14:00; Su off"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-14:00; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 241694127
-type: way
+type: node
 latitude: 48.5659
 longitude: 9.45975
 postcode: "73252"
 city: Lenningen
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

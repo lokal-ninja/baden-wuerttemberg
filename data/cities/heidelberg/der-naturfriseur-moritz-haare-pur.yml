@@ -1,11 +1,11 @@
 id: 251802469
-type: way
+type: node
 latitude: 49.37832
 longitude: 8.66721
 postcode: "69124"
 city: Heidelberg
-street: "Schwetzinger Straße"
-housenumber: 37
+street: Schwetzinger Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

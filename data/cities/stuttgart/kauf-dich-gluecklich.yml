@@ -4,8 +4,8 @@ latitude: 48.77586
 longitude: 9.17399
 postcode: "70173"
 city: Stuttgart
-street: "Lange Straße"
-housenumber: 6
+street: Lange Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00"
-website: "https://www.kaufdichgluecklich-shop.de/"
+opening_hours: Mo-Sa 11:00-20:00
+website: https://www.kaufdichgluecklich-shop.de/

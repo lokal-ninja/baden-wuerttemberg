@@ -1,11 +1,11 @@
 id: 649496573
-type: way
+type: node
 latitude: 48.72579
 longitude: 9.34185
 postcode: "73730"
 city: Esslingen am Neckar
-street: "Fritz-Müller-Straße"
-housenumber: 103
+street: Fritz-Müller-Straße
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-We 07:30-17:00; Th 07:30-18:00; Fr 07:30-17:00; Sa 08:30-12:00"
+opening_hours: Mo-We 07:30-17:00; Th 07:30-18:00; Fr 07:30-17:00; Sa 08:30-12:00
 website: ""

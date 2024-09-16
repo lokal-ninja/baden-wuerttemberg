@@ -4,8 +4,8 @@ latitude: 49.47944
 longitude: 8.47048
 postcode: "68161"
 city: Mannheim
-street: "Willy-Brandt-Platz"
-housenumber: 17
-phone: "+49 621 73607440"
-opening_hours: "Mo-Sa 05:00-20:00; Su 07:00-18:00"
-website: "https://baeckerei-riegler.de/"
+street: Willy-Brandt-Platz
+housenumber: "17"
+phone: +49 621 73607440
+opening_hours: Mo-Sa 05:00-20:00; Su 07:00-18:00
+website: https://baeckerei-riegler.de/

@@ -4,8 +4,8 @@ latitude: 49.12411
 longitude: 8.59857
 postcode: "76646"
 city: Bruchsal
-street: "Kaiserstraße"
-housenumber: 79
-phone: "+49 77251 3029358"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-16:00"
-website: "http://boheme-coiffeur.de/index.php/startseite-boheme-coiffeur.html"
+street: Kaiserstraße
+housenumber: "79"
+phone: +49 77251 3029358
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-16:00
+website: http://boheme-coiffeur.de/index.php/startseite-boheme-coiffeur.html

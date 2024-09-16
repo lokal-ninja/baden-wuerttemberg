@@ -1,11 +1,11 @@
 id: 213538985
-type: way
+type: node
 latitude: 49.06454
 longitude: 9.03856
 postcode: "74389"
 city: Cleebronn
-street: "Daimlerstraße"
-housenumber: 8
-phone: "+49 7135/936175"
+street: Daimlerstraße
+housenumber: "8"
+phone: +49 7135/936175
 opening_hours: ""
-website: "http://weingut-ranspacherhof.de"
+website: http://weingut-ranspacherhof.de

@@ -1,11 +1,11 @@
 id: 31986408
-type: way
+type: node
 latitude: 48.57706
 longitude: 8.89296
 postcode: "71083"
 city: Herrenberg
-street: "Hertzstraße"
-housenumber: 5
+street: Hertzstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

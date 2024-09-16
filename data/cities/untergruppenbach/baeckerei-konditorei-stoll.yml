@@ -1,11 +1,11 @@
 id: 174463021
-type: way
+type: node
 latitude: 49.08505
 longitude: 9.32086
 postcode: "74199"
 city: Untergruppenbach
-street: "Abstatter Straße"
-housenumber: 28
+street: Abstatter Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Tu-Fr 05:30-18:00; Sa 06:30-12:00; Su 08:00-11:00"
+opening_hours: Tu-Fr 05:30-18:00; Sa 06:30-12:00; Su 08:00-11:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.0082
 longitude: 8.3951
 postcode: "76133"
 city: Karlsruhe
-street: "Karlstraße"
-housenumber: 25
+street: Karlstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 11:00-15:00"
-website: "https://www.pfandhaus-ka.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 11:00-15:00
+website: https://www.pfandhaus-ka.de/

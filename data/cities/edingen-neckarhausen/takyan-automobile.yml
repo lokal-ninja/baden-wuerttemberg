@@ -1,11 +1,11 @@
 id: 51555526
-type: way
+type: node
 latitude: 49.45514
 longitude: 8.58835
 postcode: "68535"
 city: Edingen-Neckarhausen
-street: "Mannheimer Straße"
-housenumber: 107
+street: Mannheimer Straße
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 196025058
-type: way
+type: node
 latitude: 48.22124
 longitude: 7.75877
 postcode: "79336"
 city: Herbolzheim
-street: "Sven-Kovacs-Straße"
-housenumber: 4
+street: Sven-Kovacs-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

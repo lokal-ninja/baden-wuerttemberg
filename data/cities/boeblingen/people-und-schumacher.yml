@@ -1,11 +1,11 @@
 id: 48145642
-type: way
+type: node
 latitude: 48.6847
 longitude: 9.01553
 postcode: "71032"
 city: Böblingen
-street: "Schafgasse"
-housenumber: 1
+street: Schafgasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

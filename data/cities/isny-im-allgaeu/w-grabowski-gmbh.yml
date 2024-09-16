@@ -1,11 +1,11 @@
 id: 1064764592
-type: way
+type: node
 latitude: 47.70213
 longitude: 10.04151
 postcode: "88316"
 city: Isny im Allgäu
-street: "Am-Angele-Hof"
-housenumber: 10
-phone: "+49 7562 2398"
-opening_hours: "Mo-Fr 07:30-12:00,14:00-17:30; Sa 09:00-12:00"
-website: "https://kachelofen-isny.de"
+street: Am-Angele-Hof
+housenumber: "10"
+phone: +49 7562 2398
+opening_hours: Mo-Fr 07:30-12:00,14:00-17:30; Sa 09:00-12:00
+website: https://kachelofen-isny.de

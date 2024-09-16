@@ -4,8 +4,8 @@ latitude: 48.47219
 longitude: 7.94495
 postcode: "77652"
 city: Offenburg
-street: "Gustav-Rée-Anlage"
-housenumber: 2
+street: Gustav-Rée-Anlage
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.alnatura.de/de-de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.alnatura.de/de-de/

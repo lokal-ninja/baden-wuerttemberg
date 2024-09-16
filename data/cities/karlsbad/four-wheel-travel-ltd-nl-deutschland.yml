@@ -4,8 +4,8 @@ latitude: 48.91106
 longitude: 8.50288
 postcode: "76307"
 city: Karlsbad
-street: "Hans-Thoma-Straße"
-housenumber: 6
-phone: "+49 30868 709401"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://4wheel.travel/"
+street: Hans-Thoma-Straße
+housenumber: "6"
+phone: +49 30868 709401
+opening_hours: Mo-Fr 09:00-17:00
+website: https://4wheel.travel/

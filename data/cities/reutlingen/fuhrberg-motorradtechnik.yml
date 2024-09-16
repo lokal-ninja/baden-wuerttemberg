@@ -4,8 +4,8 @@ latitude: 48.49182
 longitude: 9.20019
 postcode: "72762"
 city: Reutlingen
-street: "Konrad-Adenauer-Straße"
-housenumber: 49
-phone: "+49 7121 330090"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Nov-Feb Fr off"
-website: "https://fmr-fuhrberg.de"
+street: Konrad-Adenauer-Straße
+housenumber: "49"
+phone: +49 7121 330090
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Nov-Feb Fr off
+website: https://fmr-fuhrberg.de

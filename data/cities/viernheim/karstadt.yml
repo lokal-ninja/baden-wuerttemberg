@@ -1,11 +1,11 @@
 id: 143573430
-type: way
+type: node
 latitude: 49.52695
 longitude: 8.56459
 postcode: "68519"
 city: Viernheim
-street: "Robert-Schuman-Straße"
-housenumber: 2
-phone: "+49 6204 6050"
+street: Robert-Schuman-Straße
+housenumber: "2"
+phone: +49 6204 6050
 opening_hours: ""
 website: ""

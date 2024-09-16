@@ -4,8 +4,8 @@ latitude: 48.61272
 longitude: 8.08375
 postcode: "77855"
 city: Achern
-street: "Oberacherner Straße"
-housenumber: 92
-phone: "+49 7841 60040"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-12:00"
-website: "https://www.ford-rest-achern.de/"
+street: Oberacherner Straße
+housenumber: "92"
+phone: +49 7841 60040
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-12:00
+website: https://www.ford-rest-achern.de/

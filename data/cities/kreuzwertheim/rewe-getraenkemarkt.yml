@@ -1,11 +1,11 @@
 id: 504596675
-type: way
+type: node
 latitude: 49.77193
 longitude: 9.52682
 postcode: "97892"
 city: Kreuzwertheim
-street: "Lengfurter Straße"
-housenumber: 51
-phone: "+49 9342 93670"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Lengfurter Straße
+housenumber: "51"
+phone: +49 9342 93670
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

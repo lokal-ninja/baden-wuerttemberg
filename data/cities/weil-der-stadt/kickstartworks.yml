@@ -1,11 +1,11 @@
 id: 370530435
-type: way
+type: node
 latitude: 48.77378
 longitude: 8.82717
 postcode: "71263"
 city: Weil der Stadt
-street: "Carl-Zeiss-Straße"
-housenumber: 6
+street: Carl-Zeiss-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.kickstartworks.com/k/"
+website: http://www.kickstartworks.com/k/

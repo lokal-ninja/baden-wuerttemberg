@@ -4,8 +4,8 @@ latitude: 48.8372
 longitude: 10.08757
 postcode: "73430"
 city: Aalen
-street: "Alfred-Delp-Straße"
-housenumber: 4
-phone: "+49 7361 9594-0"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.sanitaetshaus-schad.de/"
+street: Alfred-Delp-Straße
+housenumber: "4"
+phone: +49 7361 9594-0
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off
+website: https://www.sanitaetshaus-schad.de/

@@ -1,11 +1,11 @@
 id: 42217993
-type: way
+type: node
 latitude: 47.5956
 longitude: 9.59746
 postcode: "88079"
 city: Kressbronn am Bodensee
-street: "Nonnenbacher Weg"
-housenumber: 16
+street: Nonnenbacher Weg
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 154482073
-type: way
+type: node
 latitude: 48.93988
 longitude: 9.25963
 postcode: "71672"
 city: Marbach am Neckar
-street: "Wildermuthstraße"
-housenumber: 5
-phone: "+49 7144 843410"
+street: Wildermuthstraße
+housenumber: "5"
+phone: +49 7144 843410
 opening_hours: ""
-website: "www.mueller.de"
+website: www.mueller.de

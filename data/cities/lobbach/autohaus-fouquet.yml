@@ -1,11 +1,11 @@
 id: 436611063
-type: way
+type: node
 latitude: 49.37319
 longitude: 8.89661
 postcode: "74931"
 city: Lobbach
-street: "Hauptstraße"
-housenumber: 123
+street: Hauptstraße
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

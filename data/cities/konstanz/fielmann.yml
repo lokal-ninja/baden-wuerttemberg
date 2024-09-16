@@ -4,8 +4,8 @@ latitude: 47.6598
 longitude: 9.17461
 postcode: "78462"
 city: Konstanz
-street: "Rosgartenstraße"
-housenumber: 12
+street: Rosgartenstraße
+housenumber: "12"
 phone: "+497531914690"
-opening_hours: "Mo-We 09:00-18:30; Th,Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-We 09:00-18:30; Th,Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

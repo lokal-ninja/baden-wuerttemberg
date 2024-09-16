@@ -1,11 +1,11 @@
 id: 49729979
-type: way
+type: node
 latitude: 48.70749
 longitude: 9.01794
 postcode: "71065"
 city: Sindelfingen
-street: "Mahdentalstraße"
-housenumber: 46
+street: Mahdentalstraße
+housenumber: "46"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://klavier-arnolds.de/"
+opening_hours: '"nach Vereinbarung"'
+website: https://klavier-arnolds.de/

@@ -1,11 +1,11 @@
 id: 501645376
-type: way
+type: node
 latitude: 49.5465
 longitude: 9.73228
 postcode: "97922"
 city: Lauda-Königshofen
-street: "Hauptstraße"
-housenumber: 49
+street: Hauptstraße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 103226553
-type: way
+type: node
 latitude: 48.09779
 longitude: 9.78806
 postcode: ""
 city: Biberach an der Riß
-street: "Marktplatz"
-housenumber: 17
+street: Marktplatz
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

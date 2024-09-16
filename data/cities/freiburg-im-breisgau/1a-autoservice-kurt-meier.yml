@@ -1,11 +1,11 @@
 id: 297387770
-type: way
+type: node
 latitude: 47.97805
 longitude: 7.79192
 postcode: "79111"
 city: Freiburg im Breisgau
-street: "Malteserordensstraße"
-housenumber: 34
-phone: "+49 761 445133"
-opening_hours: "Mo-Fr 07:30-12:30; 13:00-17:00"
-website: "http://www.meierkfz.de"
+street: Malteserordensstraße
+housenumber: "34"
+phone: +49 761 445133
+opening_hours: Mo-Fr 07:30-12:30; 13:00-17:00
+website: http://www.meierkfz.de

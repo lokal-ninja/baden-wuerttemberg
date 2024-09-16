@@ -4,8 +4,8 @@ latitude: 47.83832
 longitude: 8.5372
 postcode: "78176"
 city: Blumberg
-street: "Tevesstraße"
-housenumber: 60
-phone: "+49 7702 2507"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-12:30; Su 07:30-10:30; PH off"
-website: "http://www.baeckerei-knoepfle.de"
+street: Tevesstraße
+housenumber: "60"
+phone: +49 7702 2507
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-12:30; Su 07:30-10:30; PH off
+website: http://www.baeckerei-knoepfle.de

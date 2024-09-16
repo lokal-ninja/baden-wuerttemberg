@@ -4,8 +4,8 @@ latitude: 48.68779
 longitude: 9.16451
 postcode: "70771"
 city: Echterdingen
-street: "Hirschstraße"
-housenumber: 22
-phone: "+49 711 617746"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-16:00; PH off"
-website: "https://www.farbenhaus-liebig.de"
+street: Hirschstraße
+housenumber: "22"
+phone: +49 711 617746
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-16:00; PH off
+website: https://www.farbenhaus-liebig.de

@@ -1,11 +1,11 @@
 id: 313055556
-type: way
+type: node
 latitude: 48.27908
 longitude: 8.0906
 postcode: "77716"
 city: Haslach im Kinzigtal
-street: "Schwarzwaldstraße"
-housenumber: 22
+street: Schwarzwaldstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.dm.de/store/d1lm/haslach-im-kinzigtal/schwarzwaldstrasse-22"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.dm.de/store/d1lm/haslach-im-kinzigtal/schwarzwaldstrasse-22

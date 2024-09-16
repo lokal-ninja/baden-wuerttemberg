@@ -1,11 +1,11 @@
 id: 193231573
-type: way
+type: node
 latitude: 48.26119
 longitude: 7.80692
 postcode: "77955"
 city: Ettenheim
-street: "Am Bahndamm"
+street: Am Bahndamm
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/ettenheim/am-bahndamm-1-a.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/ettenheim/am-bahndamm-1-a.html

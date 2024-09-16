@@ -4,8 +4,8 @@ latitude: 48.05889
 longitude: 8.45961
 postcode: "78050"
 city: Villingen-Schwenningen
-street: "Brunnenstraße"
-housenumber: 5
-phone: "+49 7721 22091"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 07:30-14:00"
-website: "https://www.friseur-milia.de/"
+street: Brunnenstraße
+housenumber: "5"
+phone: +49 7721 22091
+opening_hours: Mo-Fr 08:30-18:00; Sa 07:30-14:00
+website: https://www.friseur-milia.de/

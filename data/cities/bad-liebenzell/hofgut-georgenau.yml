@@ -5,7 +5,7 @@ longitude: 8.78079
 postcode: "75378"
 city: Bad Liebenzell
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:30-13:00, 15:30-18:30; Sa 09:30-13:00"
-website: "https://www.hofgut-georgenau.de/"
+opening_hours: Tu-Fr 09:30-13:00, 15:30-18:30; Sa 09:30-13:00
+website: https://www.hofgut-georgenau.de/

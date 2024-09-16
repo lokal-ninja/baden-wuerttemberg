@@ -4,8 +4,8 @@ latitude: 49.23743
 longitude: 8.45289
 postcode: "76661"
 city: Philippsburg
-street: "Weiße-Tor-Straße"
-housenumber: 7
+street: Weiße-Tor-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 15:00-18:00; Sa 09:00-12:30"
-website: "https://www.leselustundgaumenfreuden.de/"
+opening_hours: Mo-Fr 09:00-12:30, 15:00-18:00; Sa 09:00-12:30
+website: https://www.leselustundgaumenfreuden.de/

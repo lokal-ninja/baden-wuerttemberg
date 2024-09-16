@@ -1,11 +1,11 @@
 id: 517715338
-type: way
+type: node
 latitude: 48.78398
 longitude: 8.19232
 postcode: "76532"
 city: Baden-Baden
-street: "Gewerbepark Cité"
-housenumber: 18
-phone: "+49 7221 9959117"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.equiva.com/stores/view/id/equiva-baden-baden-51.html"
+street: Gewerbepark Cité
+housenumber: "18"
+phone: +49 7221 9959117
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.equiva.com/stores/view/id/equiva-baden-baden-51.html

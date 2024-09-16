@@ -4,8 +4,8 @@ latitude: 48.81376
 longitude: 9.115
 postcode: "70499"
 city: Stuttgart
-street: "Pforzheimer Straße"
-housenumber: 357
+street: Pforzheimer Straße
+housenumber: "357"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.biomarkt.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.biomarkt.de/

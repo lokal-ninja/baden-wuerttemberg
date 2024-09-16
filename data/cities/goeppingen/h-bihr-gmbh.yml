@@ -1,11 +1,11 @@
 id: 42486541
-type: way
+type: node
 latitude: 48.68959
 longitude: 9.62778
 postcode: "73035"
 city: Göppingen
-street: "Autenbachstraße"
-housenumber: 8
-phone: "+49-7161-23077"
+street: Autenbachstraße
+housenumber: "8"
+phone: +49-7161-23077
 opening_hours: ""
 website: ""

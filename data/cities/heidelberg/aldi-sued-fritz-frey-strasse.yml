@@ -1,11 +1,11 @@
 id: 27930484
-type: way
+type: node
 latitude: 49.43635
 longitude: 8.67949
 postcode: ""
 city: Heidelberg
-street: "Fritz-Frey-Straße"
-housenumber: 17
+street: Fritz-Frey-Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

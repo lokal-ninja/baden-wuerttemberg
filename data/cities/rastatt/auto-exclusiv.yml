@@ -1,11 +1,11 @@
 id: 221950977
-type: way
+type: node
 latitude: 48.86934
 longitude: 8.18817
 postcode: "76437"
 city: Rastatt
-street: "Gutenbergstraße"
-housenumber: 19
+street: Gutenbergstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00"
-website: "https://www.auto-exclusiv.com/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-13:00
+website: https://www.auto-exclusiv.com/

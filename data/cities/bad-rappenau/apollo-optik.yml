@@ -4,8 +4,8 @@ latitude: 49.23655
 longitude: 9.09797
 postcode: "74906"
 city: Bad Rappenau
-street: "Raiffeisenstraße"
-housenumber: 23
-phone: "+49 7264 9603390"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.apollo.de/"
+street: Raiffeisenstraße
+housenumber: "23"
+phone: +49 7264 9603390
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.apollo.de/

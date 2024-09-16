@@ -1,11 +1,11 @@
 id: 294762636
-type: way
+type: node
 latitude: 49.35108
 longitude: 9.10552
 postcode: "74821"
 city: Mosbach
-street: "Heidelberger Straße"
-housenumber: 130
+street: Heidelberger Straße
+housenumber: "130"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:30, Tu,Th,Fr 14:00-18:00; Sa 08:30-13:00"
+opening_hours: Tu-Fr 08:30-12:30, Tu,Th,Fr 14:00-18:00; Sa 08:30-13:00
 website: ""

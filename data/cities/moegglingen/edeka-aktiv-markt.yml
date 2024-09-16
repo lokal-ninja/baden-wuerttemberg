@@ -1,11 +1,11 @@
 id: 139610085
-type: way
+type: node
 latitude: 48.82414
 longitude: 9.95685
 postcode: "73563"
 city: Mögglingen
-street: "Bahnhofstraße"
-housenumber: 30
+street: Bahnhofstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-20:00; Su, PH off"
-website: "https://www.edeka.de/homepage.jsp"
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:00-20:00; Su, PH off
+website: https://www.edeka.de/homepage.jsp

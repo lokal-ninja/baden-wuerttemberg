@@ -1,11 +1,11 @@
 id: 437424614
-type: way
+type: node
 latitude: 49.4842
 longitude: 8.59583
 postcode: "68526"
 city: Ladenburg
-street: "Hohe Straße"
+street: Hohe Straße
 housenumber: 14-16
 phone: ""
 opening_hours: ""
-website: "https://www.autofeld.de/"
+website: https://www.autofeld.de/

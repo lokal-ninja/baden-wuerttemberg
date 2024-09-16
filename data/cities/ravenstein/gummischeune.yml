@@ -1,11 +1,11 @@
 id: 1282407666
-type: way
+type: node
 latitude: 49.38925
 longitude: 9.54848
 postcode: "74747"
 city: Ravenstein
-street: "Orchideenweg"
-housenumber: 6
+street: Orchideenweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.gummischeune.de/"
+website: http://www.gummischeune.de/

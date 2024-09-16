@@ -4,8 +4,8 @@ latitude: 48.27516
 longitude: 7.78647
 postcode: "77972"
 city: Mahlberg
-street: "Alte Landstraße"
-housenumber: 23
-phone: "+49 7822 4349649"
-opening_hours: "24/7"
-website: "https://store.totalenergies.de/de_DE/ND040311"
+street: Alte Landstraße
+housenumber: "23"
+phone: +49 7822 4349649
+opening_hours: 24/7
+website: https://store.totalenergies.de/de_DE/ND040311

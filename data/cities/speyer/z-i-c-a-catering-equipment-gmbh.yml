@@ -1,11 +1,11 @@
 id: 70733135
-type: way
+type: node
 latitude: 49.33207
 longitude: 8.44582
 postcode: "67346"
 city: Speyer
-street: "Im Geißhorn"
-housenumber: 9
+street: Im Geißhorn
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

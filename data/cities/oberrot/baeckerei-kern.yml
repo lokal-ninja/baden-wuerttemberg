@@ -4,8 +4,8 @@ latitude: 49.01244
 longitude: 9.67654
 postcode: "74420"
 city: Oberrot
-street: "Stiersbacherstraße"
-housenumber: 2
+street: Stiersbacherstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-19:00"
-website: "https://www.baeckerei-kern.de"
+opening_hours: Mo-Sa 06:00-19:00
+website: https://www.baeckerei-kern.de

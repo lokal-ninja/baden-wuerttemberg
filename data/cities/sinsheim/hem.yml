@@ -1,11 +1,11 @@
 id: 212464311
-type: way
+type: node
 latitude: 49.24178
 longitude: 8.90615
 postcode: "74889"
 city: Sinsheim
-street: "Steinsfurter Straße"
-housenumber: 75
+street: Steinsfurter Straße
+housenumber: "75"
 phone: ""
-opening_hours: "24/7"
-website: "http://www.meinehem.de/index.php?id=156&gasstation_id=313"
+opening_hours: 24/7
+website: http://www.meinehem.de/index.php?id=156&gasstation_id=313

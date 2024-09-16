@@ -1,11 +1,11 @@
 id: 107910284
-type: way
+type: node
 latitude: 48.87746
 longitude: 9.39405
 postcode: "71364"
 city: Winnenden
-street: "Bahnhofstraße"
-housenumber: 24
+street: Bahnhofstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

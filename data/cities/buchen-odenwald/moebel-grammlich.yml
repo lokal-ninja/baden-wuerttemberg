@@ -1,11 +1,11 @@
 id: 299811044
-type: way
+type: node
 latitude: 49.47506
 longitude: 9.365
 postcode: "74722"
 city: Buchen (Odenwald)
-street: "Rathausstraße"
-housenumber: 55
+street: Rathausstraße
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://diegrammlichs.de/"
+website: https://diegrammlichs.de/

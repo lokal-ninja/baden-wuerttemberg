@@ -4,8 +4,8 @@ latitude: 47.6647
 longitude: 9.48225
 postcode: "88045"
 city: Friedrichshafen
-street: "Meistershofener Straße"
-housenumber: 14
-phone: "+49 7541 3822 0"
-opening_hours: "10:00-20:00; Sa 09:30-20:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/friedrichshafen-570"
+street: Meistershofener Straße
+housenumber: "14"
+phone: +49 7541 3822 0
+opening_hours: 10:00-20:00; Sa 09:30-20:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/friedrichshafen-570

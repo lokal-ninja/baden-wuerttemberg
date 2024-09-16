@@ -1,11 +1,11 @@
 id: 191304475
-type: way
+type: node
 latitude: 48.72728
 longitude: 8.85451
 postcode: "75395"
 city: Ostelsheim
-street: "Stuttgarter Straße"
-housenumber: 15
+street: Stuttgarter Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-13:00; Su,PH off"
-website: "https://www.gg-team.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-13:00; Su,PH off
+website: https://www.gg-team.de/

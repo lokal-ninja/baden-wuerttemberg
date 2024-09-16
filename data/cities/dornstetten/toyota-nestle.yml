@@ -1,11 +1,11 @@
 id: 166964408
-type: way
+type: node
 latitude: 48.47433
 longitude: 8.49426
 postcode: "72280"
 city: Dornstetten
-street: "Gottlieb-Daimler-Straße"
-housenumber: 5
+street: Gottlieb-Daimler-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

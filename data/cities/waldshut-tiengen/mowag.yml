@@ -1,11 +1,11 @@
 id: 328649188
-type: way
+type: node
 latitude: 47.63174
 longitude: 8.26837
 postcode: "79761"
 city: Waldshut-Tiengen
-street: "Waldshuter Straße"
-housenumber: 2
+street: Waldshuter Straße
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

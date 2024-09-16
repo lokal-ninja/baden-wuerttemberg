@@ -1,11 +1,11 @@
 id: 195634040
-type: way
+type: node
 latitude: 48.68443
 longitude: 9.80217
 postcode: "73072"
 city: Donzdorf
-street: "Poststraße"
-housenumber: 55
+street: Poststraße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

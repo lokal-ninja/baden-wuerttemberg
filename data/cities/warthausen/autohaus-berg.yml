@@ -1,11 +1,11 @@
 id: 136655251
-type: way
+type: node
 latitude: 48.12762
 longitude: 9.79475
 postcode: "88447"
 city: Warthausen
-street: "Birkenharder Straße"
-housenumber: 12
+street: Birkenharder Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

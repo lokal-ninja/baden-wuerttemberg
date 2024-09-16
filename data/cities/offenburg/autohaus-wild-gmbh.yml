@@ -1,11 +1,11 @@
 id: 377711178
-type: way
+type: node
 latitude: 48.4806
 longitude: 7.93097
 postcode: "77652"
 city: Offenburg
-street: "Carl-Benz-Straße"
-housenumber: 1
+street: Carl-Benz-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.nissan-wild-offenburg.de/de/startseite"
+website: https://www.nissan-wild-offenburg.de/de/startseite

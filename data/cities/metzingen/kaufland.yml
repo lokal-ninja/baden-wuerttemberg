@@ -1,11 +1,11 @@
 id: 183912484
-type: way
+type: node
 latitude: 48.54161
 longitude: 9.27892
 postcode: "72555"
 city: Metzingen
-street: "Stuttgarter Straße"
-housenumber: 50
+street: Stuttgarter Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/service/filiale.storeName=DE6390.html"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/service/filiale.storeName=DE6390.html

@@ -4,8 +4,8 @@ latitude: 47.67452
 longitude: 9.5821
 postcode: "88069"
 city: Tettnang
-street: "Moosstraße"
-housenumber: 26
-phone: "+49 7542 8242"
-opening_hours: "Während der Spargelernte 08:30 - 19:30"
-website: "https://spargelhof.wixsite.com/spargelhof"
+street: Moosstraße
+housenumber: "26"
+phone: +49 7542 8242
+opening_hours: '"Während der Spargelernte 08:30 - 19:30"'
+website: https://spargelhof.wixsite.com/spargelhof

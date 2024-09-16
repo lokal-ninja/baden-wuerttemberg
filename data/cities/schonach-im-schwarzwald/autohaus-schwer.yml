@@ -1,11 +1,11 @@
 id: 310656801
-type: way
+type: node
 latitude: 48.14569
 longitude: 8.19453
 postcode: "78136"
 city: Schonach im Schwarzwald
-street: "Sommerbergstraße"
-housenumber: 40
+street: Sommerbergstraße
+housenumber: "40"
 phone: "077225207"
-opening_hours: "Mo-Fr 08:00-12:00; Mo-Fr 13:30-17:00"
-website: "https://autohaus-schwer.de/"
+opening_hours: Mo-Fr 08:00-12:00; Mo-Fr 13:30-17:00
+website: https://autohaus-schwer.de/

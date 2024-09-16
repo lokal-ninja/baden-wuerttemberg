@@ -1,11 +1,11 @@
 id: 283921268
-type: way
+type: node
 latitude: 48.79301
 longitude: 8.19471
 postcode: ""
 city: Baden-Baden
-street: "Ooser Hauptstraße"
-housenumber: 44
+street: Ooser Hauptstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

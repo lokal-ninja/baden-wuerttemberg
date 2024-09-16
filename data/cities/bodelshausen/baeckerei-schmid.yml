@@ -4,8 +4,8 @@ latitude: 48.39507
 longitude: 8.97218
 postcode: "72411"
 city: Bodelshausen
-street: "Bahnhofstraße"
-housenumber: 10
-phone: "+49 7471 1869585"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-16:00; Su 08:00-11:00,14:00-17:00"
-website: "https://meisterbaecker-schmid.de"
+street: Bahnhofstraße
+housenumber: "10"
+phone: +49 7471 1869585
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-16:00; Su 08:00-11:00,14:00-17:00
+website: https://meisterbaecker-schmid.de

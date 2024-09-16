@@ -1,11 +1,11 @@
 id: 342577916
-type: way
+type: node
 latitude: 47.91206
 longitude: 8.9358
 postcode: "78253"
 city: Eigeltingen
-street: "Gewerbestraße"
-housenumber: 2
-phone: "+49 7465 587"
+street: Gewerbestraße
+housenumber: "2"
+phone: +49 7465 587
 opening_hours: ""
-website: "https://autohaus-leber.de/"
+website: https://autohaus-leber.de/

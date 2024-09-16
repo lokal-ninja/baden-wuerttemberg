@@ -1,11 +1,11 @@
 id: 108144662
-type: way
+type: node
 latitude: 49.52354
 longitude: 9.32349
 postcode: "74722"
 city: Buchen (Odenwald)
-street: "Hochstadtstraße"
-housenumber: 57
+street: Hochstadtstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00"
-website: "https://www.dm.de/store/de-534/buchen-odenwald/hochstadtstrasse-57"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00
+website: https://www.dm.de/store/de-534/buchen-odenwald/hochstadtstrasse-57

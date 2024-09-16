@@ -4,8 +4,8 @@ latitude: 48.33425
 longitude: 9.9988
 postcode: "89171"
 city: Illerkirchberg
-street: "Burgunderweg"
-housenumber: 5
+street: Burgunderweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:00, 13:00-16:00; Fr 09:00-13:00"
+opening_hours: Mo-Th 09:00-12:00, 13:00-16:00; Fr 09:00-13:00
 website: ""

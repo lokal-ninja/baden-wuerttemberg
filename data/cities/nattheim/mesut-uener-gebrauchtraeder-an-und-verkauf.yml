@@ -1,11 +1,11 @@
 id: 49435668
-type: way
+type: node
 latitude: 48.69831
 longitude: 10.23936
 postcode: "89564"
 city: Nattheim
-street: "Hauptstraße"
-housenumber: 16
+street: Hauptstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

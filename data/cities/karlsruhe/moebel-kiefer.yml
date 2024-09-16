@@ -1,11 +1,11 @@
 id: 129582078
-type: way
+type: node
 latitude: 49.03095
 longitude: 8.34007
 postcode: "76187"
 city: Karlsruhe
-street: "Saarlandstraße"
-housenumber: 75
+street: Saarlandstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-We,Fr 09:30-18:30; Th 09:30-20:00; Sa 09:30-16:00"
+opening_hours: Mo-We,Fr 09:30-18:30; Th 09:30-20:00; Sa 09:30-16:00
 website: ""

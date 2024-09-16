@@ -1,11 +1,11 @@
 id: 260644884
-type: way
+type: node
 latitude: 48.95348
 longitude: 8.37565
 postcode: "76275"
 city: Ettlingen
-street: "Kleiner Plom"
-housenumber: 8
+street: Kleiner Plom
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

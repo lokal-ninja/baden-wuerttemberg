@@ -1,11 +1,11 @@
 id: 140296646
-type: way
+type: node
 latitude: 48.91702
 longitude: 8.49971
 postcode: "76307"
 city: Karlsbad
-street: "Ettlinger Straße"
-housenumber: 35
+street: Ettlinger Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

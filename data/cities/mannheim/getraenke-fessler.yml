@@ -1,11 +1,11 @@
 id: 174183982
-type: way
+type: node
 latitude: 49.42008
 longitude: 8.52795
 postcode: "68219"
 city: Mannheim
-street: "Leutweinstraße"
-housenumber: 79
+street: Leutweinstraße
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

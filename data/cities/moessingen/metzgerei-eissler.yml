@@ -1,11 +1,11 @@
 id: 867455533
-type: way
+type: node
 latitude: 48.38131
 longitude: 9.10798
 postcode: "72116"
 city: Mössingen
-street: "Steinlachstraße"
-housenumber: 16
+street: Steinlachstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo 16:00-18:30;Tu-Fr 8:00-12:30,14:30-18:30;Sa 7:30-13:00"
+opening_hours: Mo 16:00-18:30;Tu-Fr 8:00-12:30,14:30-18:30;Sa 7:30-13:00
 website: ""

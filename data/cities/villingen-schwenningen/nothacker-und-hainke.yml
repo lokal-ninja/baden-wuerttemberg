@@ -1,11 +1,11 @@
 id: 89093020
-type: way
+type: node
 latitude: 48.07691
 longitude: 8.45188
 postcode: "78048"
 city: Villingen-Schwenningen
-street: "Rudolf-Diesel-Straße"
-housenumber: 6
+street: Rudolf-Diesel-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

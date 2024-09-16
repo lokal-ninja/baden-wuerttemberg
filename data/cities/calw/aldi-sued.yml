@@ -1,11 +1,11 @@
 id: 91081959
-type: way
+type: node
 latitude: 48.73851
 longitude: 8.73446
 postcode: "75365"
 city: Calw
-street: "Liebenzeller Straße"
-housenumber: 44
+street: Liebenzeller Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

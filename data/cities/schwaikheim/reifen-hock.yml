@@ -1,11 +1,11 @@
 id: 120973281
-type: way
+type: node
 latitude: 48.87492
 longitude: 9.34533
 postcode: "71409"
 city: Schwaikheim
-street: "Ludwigsburger Straße"
-housenumber: 60
-phone: "+49 7195 137375"
+street: Ludwigsburger Straße
+housenumber: "60"
+phone: +49 7195 137375
 opening_hours: ""
-website: "https://mh-hock.de/"
+website: https://mh-hock.de/

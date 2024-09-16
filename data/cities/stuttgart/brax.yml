@@ -1,11 +1,11 @@
 id: 91264204
-type: way
+type: node
 latitude: 48.77586
 longitude: 9.17822
 postcode: "70173"
 city: Stuttgart
-street: "Kirchstraße"
-housenumber: 4
+street: Kirchstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.brax.com/de_DE/shop/store/1089-brax-store-stuttgart"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.brax.com/de_DE/shop/store/1089-brax-store-stuttgart

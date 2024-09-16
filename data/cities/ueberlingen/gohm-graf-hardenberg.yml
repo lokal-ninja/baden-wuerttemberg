@@ -1,11 +1,11 @@
 id: 125021430
-type: way
+type: node
 latitude: 47.77241
 longitude: 9.18733
 postcode: "88662"
 city: Überlingen
-street: "Abigstraße"
-housenumber: 2
+street: Abigstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

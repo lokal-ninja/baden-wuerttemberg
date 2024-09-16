@@ -1,11 +1,11 @@
 id: 230860299
-type: way
+type: node
 latitude: 47.84363
 longitude: 9.01914
 postcode: "78333"
 city: Stockach
-street: "Ludwigshafener Straße"
-housenumber: 37
-phone: "+49 7771 5502"
-opening_hours: "Mo-Sa 07:30-19:00"
-website: "https://www.obsthof-hertle.de/"
+street: Ludwigshafener Straße
+housenumber: "37"
+phone: +49 7771 5502
+opening_hours: Mo-Sa 07:30-19:00
+website: https://www.obsthof-hertle.de/

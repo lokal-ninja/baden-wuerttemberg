@@ -4,8 +4,8 @@ latitude: 48.47384
 longitude: 8.93552
 postcode: "72108"
 city: Rottenburg am Neckar
-street: "Bahnhofstraße"
-housenumber: 35
-phone: "+49 7472 42748"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-17:00"
-website: "https://www.reisebuero-rottenburg.de/"
+street: Bahnhofstraße
+housenumber: "35"
+phone: +49 7472 42748
+opening_hours: Mo-Fr 10:00-13:00,14:00-17:00
+website: https://www.reisebuero-rottenburg.de/

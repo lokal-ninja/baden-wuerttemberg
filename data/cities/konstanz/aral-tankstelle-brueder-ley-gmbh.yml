@@ -4,8 +4,8 @@ latitude: 47.67758
 longitude: 9.14704
 postcode: "78467"
 city: Konstanz
-street: "Carl-Benz-Straße"
-housenumber: 24
+street: Carl-Benz-Straße
+housenumber: "24"
 phone: "+497531694090"
-opening_hours: "Mo-Fr 05:00-23:00; PH,Sa,Su 06:00-23:00"
-website: "https://www.ley-gmbh.de/"
+opening_hours: Mo-Fr 05:00-23:00; PH,Sa,Su 06:00-23:00
+website: https://www.ley-gmbh.de/

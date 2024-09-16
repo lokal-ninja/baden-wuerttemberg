@@ -4,8 +4,8 @@ latitude: 49.40538
 longitude: 8.68778
 postcode: "69115"
 city: Heidelberg
-street: "Bahnhofstraße"
-housenumber: 41
+street: Bahnhofstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 09:30-14:00"
-website: "https://www.entenmann-heidelberg.de/"
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Sa 09:30-14:00
+website: https://www.entenmann-heidelberg.de/

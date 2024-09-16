@@ -1,11 +1,11 @@
 id: 174539005
-type: way
+type: node
 latitude: 49.44648
 longitude: 8.89776
 postcode: "69434"
 city: Hirschhorn
-street: "Grabengasse"
-housenumber: 2
-phone: "+49 6272 92110"
+street: Grabengasse
+housenumber: "2"
+phone: +49 6272 92110
 opening_hours: ""
-website: "https://www.mathes.kuechen.de"
+website: https://www.mathes.kuechen.de

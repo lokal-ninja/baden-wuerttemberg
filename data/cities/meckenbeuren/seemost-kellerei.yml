@@ -5,7 +5,7 @@ longitude: 9.5812
 postcode: "88074"
 city: Meckenbeuren
 street: ""
-housenumber: 2
-phone: "+49 7542 4745"
+housenumber: "2"
+phone: +49 7542 4745
 opening_hours: ""
-website: "http://www.bodenseemost.de"
+website: http://www.bodenseemost.de

@@ -4,8 +4,8 @@ latitude: 47.80939
 longitude: 7.61432
 postcode: "79379"
 city: Müllheim im Markgräflerland
-street: "Kanalgasse"
-housenumber: 5
-phone: "+49 7631 16612"
-opening_hours: "Tu-Fr 06:00-14:00; Sa 06:30-12:30; Su 08:00-12:30"
-website: "http://www.hausbaeckereikotz.de/"
+street: Kanalgasse
+housenumber: "5"
+phone: +49 7631 16612
+opening_hours: Tu-Fr 06:00-14:00; Sa 06:30-12:30; Su 08:00-12:30
+website: http://www.hausbaeckereikotz.de/

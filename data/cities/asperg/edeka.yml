@@ -1,11 +1,11 @@
 id: 122077823
-type: way
+type: node
 latitude: 48.899
 longitude: 9.14907
 postcode: "71679"
 city: Asperg
-street: "Ruhrstraße"
-housenumber: 8
+street: Ruhrstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

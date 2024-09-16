@@ -1,11 +1,11 @@
 id: 548823972
-type: way
+type: node
 latitude: 47.6217
 longitude: 7.6111
 postcode: "79576"
 city: Weil am Rhein
-street: "Rennemattenweg"
-housenumber: 19
+street: Rennemattenweg
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.elements-show.de/haltingen"
+website: https://www.elements-show.de/haltingen

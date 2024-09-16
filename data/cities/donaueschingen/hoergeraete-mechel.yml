@@ -4,8 +4,8 @@ latitude: 47.95244
 longitude: 8.4975
 postcode: "78166"
 city: Donaueschingen
-street: "Haldenstraße"
-housenumber: 2
+street: Haldenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:00"
-website: "http://www.hörgeräte-mechel.de/index.php?id=31"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:00
+website: http://www.hörgeräte-mechel.de/index.php?id=31

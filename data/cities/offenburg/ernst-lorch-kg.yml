@@ -1,11 +1,11 @@
 id: 625930414
-type: way
+type: node
 latitude: 48.44209
 longitude: 7.92765
 postcode: "77656"
 city: Offenburg
-street: "Isaak-Blum-Straße"
-housenumber: 16
+street: Isaak-Blum-Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

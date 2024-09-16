@@ -4,8 +4,8 @@ latitude: 48.77676
 longitude: 9.20552
 postcode: "70186"
 city: Stuttgart
-street: "Gablenberger Hauptstraße"
-housenumber: 77
+street: Gablenberger Hauptstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 07:00-15:00; Sa 07:30-13:00; Su 08:00-12:00; PH off"
-website: "https://koenigsbaeck.de/"
+opening_hours: Mo-Fr 07:00-15:00; Sa 07:30-13:00; Su 08:00-12:00; PH off
+website: https://koenigsbaeck.de/

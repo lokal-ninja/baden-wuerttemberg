@@ -4,8 +4,8 @@ latitude: 48.80185
 longitude: 9.22489
 postcode: "70372"
 city: Stuttgart
-street: "Martin-Luther-Straße"
-housenumber: 80
+street: Martin-Luther-Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo,Th,Fr 09:00-13:00,15:00-18:00; Tu,Sa 09:00-13:00"
+opening_hours: Mo,Th,Fr 09:00-13:00,15:00-18:00; Tu,Sa 09:00-13:00
 website: ""

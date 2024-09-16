@@ -1,11 +1,11 @@
 id: 91667118
-type: way
+type: node
 latitude: 48.70496
 longitude: 8.76601
 postcode: "75365"
 city: Calw
-street: "Gottlob-Bauknecht-Straße"
-housenumber: 20
+street: Gottlob-Bauknecht-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-16:00"
-website: "https://jysk.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-16:00
+website: https://jysk.de/

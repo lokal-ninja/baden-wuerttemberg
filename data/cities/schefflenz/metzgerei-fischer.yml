@@ -1,11 +1,11 @@
 id: 182059726
-type: way
+type: node
 latitude: 49.41405
 longitude: 9.28048
 postcode: "74850"
 city: Schefflenz
-street: "Hauptstraße"
-housenumber: 92
+street: Hauptstraße
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

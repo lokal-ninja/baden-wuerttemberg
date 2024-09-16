@@ -1,11 +1,11 @@
 id: 516299455
-type: way
+type: node
 latitude: 49.49052
 longitude: 9.77569
 postcode: "97980"
 city: Bad Mergentheim
-street: "Kapuzinerstraße"
-housenumber: 6
+street: Kapuzinerstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.liebevoll-getragen.de/"
+website: https://www.liebevoll-getragen.de/

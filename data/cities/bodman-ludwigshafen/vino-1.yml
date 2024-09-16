@@ -1,11 +1,11 @@
 id: 320790555
-type: way
+type: node
 latitude: 47.81566
 longitude: 9.05358
 postcode: "78351"
 city: Bodman-Ludwigshafen
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "We-Fr 16:00-22:00; Sa, Su 11:00-22:00"
+opening_hours: We-Fr 16:00-22:00; Sa, Su 11:00-22:00
 website: ""

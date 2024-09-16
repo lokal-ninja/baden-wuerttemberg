@@ -1,11 +1,11 @@
 id: 197079587
-type: way
+type: node
 latitude: 49.17728
 longitude: 9.32669
 postcode: "74246"
 city: Eberstadt
-street: "Weinsberger Straße"
-housenumber: 2
+street: Weinsberger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

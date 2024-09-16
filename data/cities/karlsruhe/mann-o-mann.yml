@@ -4,8 +4,8 @@ latitude: 49.01056
 longitude: 8.37432
 postcode: "76185"
 city: Karlsruhe
-street: "Yorckstraße"
-housenumber: 2
-phone: "+49 721 8303080"
-opening_hours: "Jul-Aug We-Sa 10:00-13:00"
-website: "https://mann-o-mann.com/"
+street: Yorckstraße
+housenumber: "2"
+phone: +49 721 8303080
+opening_hours: Jul-Aug We-Sa 10:00-13:00
+website: https://mann-o-mann.com/

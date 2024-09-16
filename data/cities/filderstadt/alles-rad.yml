@@ -4,8 +4,8 @@ latitude: 48.65659
 longitude: 9.1952
 postcode: "70794"
 city: Filderstadt
-street: "Uhlbergstraße"
-housenumber: 1
-phone: "+49 1590 6496193"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 11:00-15:00; PH off"
-website: "https://www.ebike-diagnose.de"
+street: Uhlbergstraße
+housenumber: "1"
+phone: +49 1590 6496193
+opening_hours: Mo-Fr 10:00-18:00; Sa 11:00-15:00; PH off
+website: https://www.ebike-diagnose.de

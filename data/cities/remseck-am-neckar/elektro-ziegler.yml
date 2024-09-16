@@ -1,11 +1,11 @@
 id: 96726681
-type: way
+type: node
 latitude: 48.87537
 longitude: 9.27457
 postcode: "71686"
 city: Remseck am Neckar
-street: "Wasenstraße"
-housenumber: 26
+street: Wasenstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

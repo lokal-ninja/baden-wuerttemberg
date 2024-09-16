@@ -1,11 +1,11 @@
 id: 100876179
-type: way
+type: node
 latitude: 49.14997
 longitude: 9.29657
 postcode: "74189"
 city: Weinsberg
-street: "Haller Straße"
-housenumber: 47
+street: Haller Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://www.automeister-schick.de/"
+website: https://www.automeister-schick.de/

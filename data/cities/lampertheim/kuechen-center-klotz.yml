@@ -1,11 +1,11 @@
 id: 401348896
-type: way
+type: node
 latitude: 49.59353
 longitude: 8.46872
 postcode: "68623"
 city: Lampertheim
-street: "Römerstraße"
-housenumber: 47
-phone: "+49 6206 57255"
-opening_hours: "Mo-Fr 9:00-12:30,14:30-18:00; Sa 9:00-13:00"
-website: "https://www.kuechen-klotz.de/"
+street: Römerstraße
+housenumber: "47"
+phone: +49 6206 57255
+opening_hours: Mo-Fr 9:00-12:30,14:30-18:00; Sa 9:00-13:00
+website: https://www.kuechen-klotz.de/

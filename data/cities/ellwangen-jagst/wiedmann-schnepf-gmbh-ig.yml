@@ -1,11 +1,11 @@
 id: 282865818
-type: way
+type: node
 latitude: 48.95471
 longitude: 10.17731
 postcode: "73479"
 city: Ellwangen (Jagst)
-street: "Veit-Hirschmann-Straße"
-housenumber: 22
+street: Veit-Hirschmann-Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "http://www.wiedmann-baustoffe.de/"
+website: http://www.wiedmann-baustoffe.de/

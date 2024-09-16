@@ -4,8 +4,8 @@ latitude: 49.00253
 longitude: 8.39537
 postcode: "76133"
 city: Karlsruhe
-street: "Mathystraße"
-housenumber: 12
+street: Mathystraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo 10:00-12:00; Tu 10:00-13:00; Th 09:30-12:30"
+opening_hours: Mo 10:00-12:00; Tu 10:00-13:00; Th 09:30-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 44146198
-type: way
+type: node
 latitude: 48.86789
 longitude: 9.04148
 postcode: "71282"
 city: Hemmingen
-street: "Schlosshaldenstraße"
-housenumber: 1
+street: Schlosshaldenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 575202198
-type: way
+type: node
 latitude: 48.34472
 longitude: 8.4009
 postcode: "72275"
 city: Alpirsbach
-street: "Hauptstraße"
-housenumber: 16
+street: Hauptstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

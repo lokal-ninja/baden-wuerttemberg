@@ -1,11 +1,11 @@
 id: 242858242
-type: way
+type: node
 latitude: 48.83055
 longitude: 10.08408
 postcode: "73431"
 city: Aalen
-street: "Obere Bahnstraße"
-housenumber: 42
+street: Obere Bahnstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

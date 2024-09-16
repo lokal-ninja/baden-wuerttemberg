@@ -4,8 +4,8 @@ latitude: 48.01638
 longitude: 7.77437
 postcode: "79111"
 city: Freiburg im Breisgau
-street: "Mundenhof"
-housenumber: 57
-phone: "+49 761 5565772"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Mundenhof
+housenumber: "57"
+phone: +49 761 5565772
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

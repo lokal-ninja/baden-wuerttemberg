@@ -4,8 +4,8 @@ latitude: 48.67603
 longitude: 10.15136
 postcode: "89522"
 city: Heidenheim an der Brenz
-street: "Hauptstraße"
-housenumber: 44
+street: Hauptstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.hussel.de/hussel/index.jsf"
+website: https://www.hussel.de/hussel/index.jsf

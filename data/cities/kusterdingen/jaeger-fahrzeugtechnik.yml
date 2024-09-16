@@ -1,11 +1,11 @@
 id: 343897211
-type: way
+type: node
 latitude: 48.48619
 longitude: 9.1099
 postcode: "72127"
 city: Kusterdingen
-street: "Neckar-Alb-Straße"
-housenumber: 30
+street: Neckar-Alb-Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

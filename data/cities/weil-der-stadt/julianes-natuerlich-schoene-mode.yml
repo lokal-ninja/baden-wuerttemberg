@@ -4,8 +4,8 @@ latitude: 48.75023
 longitude: 8.87354
 postcode: "71263"
 city: Weil der Stadt
-street: "Badtorstraße"
-housenumber: 3
-phone: "+49 7033 2787"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00"
-website: "https://www.julianesmode.de/"
+street: Badtorstraße
+housenumber: "3"
+phone: +49 7033 2787
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00
+website: https://www.julianesmode.de/

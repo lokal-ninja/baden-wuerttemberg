@@ -1,11 +1,11 @@
 id: 232342152
-type: way
+type: node
 latitude: 48.83876
 longitude: 10.08661
 postcode: "73430"
 city: Aalen
-street: "Bischof-Fischer-Straße"
-housenumber: 69
+street: Bischof-Fischer-Straße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; PH off"
+opening_hours: Mo-Sa 07:30-21:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.74854
 longitude: 9.39556
 postcode: "73773"
 city: Aichwald
-street: "Alte Dorfstraße"
-housenumber: 41
-phone: "+49 711 364161"
-opening_hours: "Mo,Tu,Th,Fr 08:30-13:00,15:00-18:00;Sa 08:30-12:30;We off"
+street: Alte Dorfstraße
+housenumber: "41"
+phone: +49 711 364161
+opening_hours: Mo,Tu,Th,Fr 08:30-13:00,15:00-18:00;Sa 08:30-12:30;We off
 website: ""

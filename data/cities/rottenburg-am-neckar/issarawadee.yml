@@ -4,8 +4,8 @@ latitude: 48.47685
 longitude: 8.93486
 postcode: "72108"
 city: Rottenburg am Neckar
-street: "Schulergasse"
-housenumber: 10
+street: Schulergasse
+housenumber: "10"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

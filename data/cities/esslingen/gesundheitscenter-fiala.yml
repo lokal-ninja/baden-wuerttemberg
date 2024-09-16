@@ -4,8 +4,8 @@ latitude: 48.73063
 longitude: 9.331
 postcode: "73730"
 city: Esslingen
-street: "Plochinger Straße"
-housenumber: 115
+street: Plochinger Straße
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00; Mo-Th 14:30-18:00"
-website: "https://www.fiala-online.de/"
+opening_hours: Mo-Fr 09:00-13:00; Mo-Th 14:30-18:00
+website: https://www.fiala-online.de/

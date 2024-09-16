@@ -4,8 +4,8 @@ latitude: 48.76645
 longitude: 8.9361
 postcode: "71272"
 city: Renningen
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:30-12:30,14:30-18:30; Sa 09:30-13:00; Mo,We off"
-website: "http://www.ellys-spezialitaeten.de"
+opening_hours: Tu,Th,Fr 09:30-12:30,14:30-18:30; Sa 09:30-13:00; Mo,We off
+website: http://www.ellys-spezialitaeten.de

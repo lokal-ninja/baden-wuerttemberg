@@ -4,8 +4,8 @@ latitude: 49.40516
 longitude: 8.68943
 postcode: "69115"
 city: Heidelberg
-street: "Landhausstraße"
-housenumber: 3
-phone: "+49 6221 7295962"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://www.studio-visuell.de/"
+street: Landhausstraße
+housenumber: "3"
+phone: +49 6221 7295962
+opening_hours: Mo-Fr 10:00-19:00
+website: https://www.studio-visuell.de/

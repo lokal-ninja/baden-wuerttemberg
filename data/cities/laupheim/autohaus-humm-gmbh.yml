@@ -1,11 +1,11 @@
 id: 264815446
-type: way
+type: node
 latitude: 48.24045
 longitude: 9.88303
 postcode: "88471"
 city: Laupheim
-street: "Ulmer Straße"
-housenumber: 97
+street: Ulmer Straße
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 426720367
-type: way
+type: node
 latitude: 48.48815
 longitude: 7.94353
 postcode: "77652"
 city: Offenburg
-street: "Lise-Meitner-Straße"
-housenumber: 16
+street: Lise-Meitner-Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.kfz-duerr.de/"
+website: https://www.kfz-duerr.de/

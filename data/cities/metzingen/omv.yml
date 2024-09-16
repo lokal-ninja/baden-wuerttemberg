@@ -1,11 +1,11 @@
 id: 335591174
-type: way
+type: node
 latitude: 48.53225
 longitude: 9.28951
 postcode: "72555"
 city: Metzingen
-street: "Auchtertstraße"
-housenumber: 19
+street: Auchtertstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

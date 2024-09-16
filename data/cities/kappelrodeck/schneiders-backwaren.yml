@@ -4,8 +4,8 @@ latitude: 48.59313
 longitude: 8.11387
 postcode: "77876"
 city: Kappelrodeck
-street: "Hauptstraße"
-housenumber: 56
+street: Hauptstraße
+housenumber: "56"
 phone: ""
-opening_hours: "Fr 09:00-17:00"
-website: "https://www.schneiders-backwaren.de/"
+opening_hours: Fr 09:00-17:00
+website: https://www.schneiders-backwaren.de/

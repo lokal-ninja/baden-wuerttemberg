@@ -4,8 +4,8 @@ latitude: 48.46915
 longitude: 7.94469
 postcode: "77652"
 city: Offenburg
-street: "Steinstraße"
-housenumber: 16
+street: Steinstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "https://www.euroshop-online.de/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+website: https://www.euroshop-online.de/

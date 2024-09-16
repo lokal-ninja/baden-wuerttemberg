@@ -4,8 +4,8 @@ latitude: 48.77182
 longitude: 9.17698
 postcode: "70178"
 city: Stuttgart
-street: "Gerberstraße"
-housenumber: 3
+street: Gerberstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30;13:30-17:00"
-website: "https://www.staedtische-pfandleihe.de/"
+opening_hours: Mo-Fr 09:00-12:30;13:30-17:00
+website: https://www.staedtische-pfandleihe.de/

@@ -4,8 +4,8 @@ latitude: 47.91045
 longitude: 8.57542
 postcode: "78166"
 city: Donaueschingen
-street: "Gutmadinger Straße"
-housenumber: 8
+street: Gutmadinger Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Fr 08:00-12:00, 14:00-18:00; Sa 08:00-13:00"
-website: "https://www.hoggs-hofladen.de/"
+opening_hours: Fr 08:00-12:00, 14:00-18:00; Sa 08:00-13:00
+website: https://www.hoggs-hofladen.de/

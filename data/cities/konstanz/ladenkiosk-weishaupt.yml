@@ -4,8 +4,8 @@ latitude: 47.65622
 longitude: 9.17259
 postcode: "78462"
 city: Konstanz
-street: "Kreuzlinger Straße"
-housenumber: 62
-phone: "+49 7531 24671"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
+street: Kreuzlinger Straße
+housenumber: "62"
+phone: +49 7531 24671
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00
 website: ""

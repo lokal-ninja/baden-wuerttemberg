@@ -4,8 +4,8 @@ latitude: 48.98455
 longitude: 8.5456
 postcode: "76327"
 city: Pfinztal
-street: "Hauptstraße"
-housenumber: 116
+street: Hauptstraße
+housenumber: "116"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-18:00; We 10:00-20:00; Sa 09:00-14:00; Mo off"
+opening_hours: Tu,Th,Fr 09:00-18:00; We 10:00-20:00; Sa 09:00-14:00; Mo off
 website: ""

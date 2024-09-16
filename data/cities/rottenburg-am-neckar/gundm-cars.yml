@@ -1,11 +1,11 @@
 id: 791738819
-type: way
+type: node
 latitude: 48.49801
 longitude: 8.8178
 postcode: "72108"
 city: Rottenburg am Neckar
-street: "Nobelstraße"
-housenumber: 7
+street: Nobelstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

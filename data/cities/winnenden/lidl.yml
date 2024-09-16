@@ -1,11 +1,11 @@
 id: 80802091
-type: way
+type: node
 latitude: 48.87427
 longitude: 9.39093
 postcode: "71364"
 city: Winnenden
-street: "Waiblinger Straße"
-housenumber: 44
+street: Waiblinger Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.lidl.de/

@@ -4,8 +4,8 @@ latitude: 48.62898
 longitude: 8.07025
 postcode: "77855"
 city: Achern
-street: "Hauptstraße"
-housenumber: 23
-phone: "+49 7841 21242"
-opening_hours: "Mo-Fr 09:30-12:30, 14:00-18:30; Sa 09:30-16:00"
-website: "https://andreas-kleber.de/"
+street: Hauptstraße
+housenumber: "23"
+phone: +49 7841 21242
+opening_hours: Mo-Fr 09:30-12:30, 14:00-18:30; Sa 09:30-16:00
+website: https://andreas-kleber.de/

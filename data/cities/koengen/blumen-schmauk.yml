@@ -1,11 +1,11 @@
 id: 111083567
-type: way
+type: node
 latitude: 48.68436
 longitude: 9.36293
 postcode: "73257"
 city: Köngen
-street: "Hirschstraße"
-housenumber: 5
+street: Hirschstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.blumenschmauk.de/"
+website: http://www.blumenschmauk.de/

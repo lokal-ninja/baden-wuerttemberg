@@ -1,11 +1,11 @@
 id: 558861070
-type: way
+type: node
 latitude: 48.10289
 longitude: 8.80841
 postcode: "78583"
 city: Böttingen
-street: "Hohrainstraße"
-housenumber: 3
-phone: "+49 7429 3522"
+street: Hohrainstraße
+housenumber: "3"
+phone: +49 7429 3522
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 561223857
-type: way
+type: node
 latitude: 49.05896
 longitude: 8.66383
 postcode: "75053"
 city: Gondelsheim
-street: "Hirschgartenstraße"
-housenumber: 5
-phone: "+49 7252 958177"
+street: Hirschgartenstraße
+housenumber: "5"
+phone: +49 7252 958177
 opening_hours: ""
-website: "http://www.kalich.de"
+website: http://www.kalich.de

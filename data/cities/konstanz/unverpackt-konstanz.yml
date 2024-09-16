@@ -4,8 +4,8 @@ latitude: 47.66372
 longitude: 9.16671
 postcode: "78462"
 city: Konstanz
-street: "Mosbruggerstraße"
-housenumber: 16
+street: Mosbruggerstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Su 10:00-13:00,16:00-19:30"
-website: "https://www.unverpacktkonstanz.de/"
+opening_hours: Mo-Su 10:00-13:00,16:00-19:30
+website: https://www.unverpacktkonstanz.de/

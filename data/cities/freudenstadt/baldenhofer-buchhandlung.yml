@@ -4,8 +4,8 @@ latitude: 48.46495
 longitude: 8.41231
 postcode: "72250"
 city: Freudenstadt
-street: "Marktplatz"
-housenumber: 3
+street: Marktplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 10:00-18:00; Fr 09:00-18:00; Sa 10:00-15:00"
-website: "https://uhren-baldenhofer.eu/"
+opening_hours: Mo-Th 10:00-18:00; Fr 09:00-18:00; Sa 10:00-15:00
+website: https://uhren-baldenhofer.eu/

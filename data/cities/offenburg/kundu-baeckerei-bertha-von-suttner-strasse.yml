@@ -4,8 +4,8 @@ latitude: 48.48072
 longitude: 7.95764
 postcode: "77654"
 city: Offenburg
-street: "Bertha-von-Suttner-Straße"
-housenumber: 4
-phone: "+49 781 9481608"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00; Su 08:00-11:00"
-website: "https://www.k-und-u.com/"
+street: Bertha-von-Suttner-Straße
+housenumber: "4"
+phone: +49 781 9481608
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00; Su 08:00-11:00
+website: https://www.k-und-u.com/

@@ -1,11 +1,11 @@
 id: 90115394
-type: way
+type: node
 latitude: 48.53555
 longitude: 10.23488
 postcode: "89168"
 city: Niederstotzingen
-street: "Breite Straße"
-housenumber: 14
+street: Breite Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

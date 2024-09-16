@@ -1,11 +1,11 @@
 id: 223405608
-type: way
+type: node
 latitude: 48.70796
 longitude: 7.97349
 postcode: "77866"
 city: Rheinau
-street: "Am Stein"
-housenumber: 24
+street: Am Stein
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

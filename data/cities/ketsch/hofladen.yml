@@ -5,7 +5,7 @@ longitude: 8.54973
 postcode: "68775"
 city: Ketsch
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.spargelhof-schuhmacher.de/verkauf/"
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.spargelhof-schuhmacher.de/verkauf/

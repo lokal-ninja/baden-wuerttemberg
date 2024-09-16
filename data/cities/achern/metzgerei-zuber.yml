@@ -4,8 +4,8 @@ latitude: 48.62913
 longitude: 8.07191
 postcode: "77855"
 city: Achern
-street: "Hauptstraße"
-housenumber: 62
-phone: "+49 7841 21939"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:00-14:00"
-website: "https://www.metzgerei-zuber.de/achern.html"
+street: Hauptstraße
+housenumber: "62"
+phone: +49 7841 21939
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-14:00
+website: https://www.metzgerei-zuber.de/achern.html

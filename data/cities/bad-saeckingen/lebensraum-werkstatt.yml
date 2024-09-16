@@ -1,11 +1,11 @@
 id: 93374929
-type: way
+type: node
 latitude: 47.54977
 longitude: 7.94677
 postcode: "79713"
 city: Bad Säckingen
-street: "Hotzenweg"
-housenumber: 2
+street: Hotzenweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

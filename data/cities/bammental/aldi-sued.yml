@@ -1,11 +1,11 @@
 id: 123831688
-type: way
+type: node
 latitude: 49.36045
 longitude: 8.79645
 postcode: "69245"
 city: Bammental
-street: "Wiesenbacher Landstraße"
-housenumber: 22
+street: Wiesenbacher Landstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

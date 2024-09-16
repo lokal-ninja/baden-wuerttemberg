@@ -1,11 +1,11 @@
 id: 555483337
-type: way
+type: node
 latitude: 49.05344
 longitude: 8.84332
 postcode: "75447"
 city: Sternenfels
-street: "Ferdinand-von-Steinbeis-Ring"
-housenumber: 1
+street: Ferdinand-von-Steinbeis-Ring
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

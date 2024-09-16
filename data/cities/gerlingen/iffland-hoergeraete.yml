@@ -4,8 +4,8 @@ latitude: 48.79977
 longitude: 9.06289
 postcode: "70839"
 city: Gerlingen
-street: "Schulstraße"
-housenumber: 8
-phone: "+49 7156 174600"
-opening_hours: "Mo-Fr 08:30-12:30,13:30-17:30"
-website: "https://iffland-hoeren.de/filialen/gerlingen.html"
+street: Schulstraße
+housenumber: "8"
+phone: +49 7156 174600
+opening_hours: Mo-Fr 08:30-12:30,13:30-17:30
+website: https://iffland-hoeren.de/filialen/gerlingen.html

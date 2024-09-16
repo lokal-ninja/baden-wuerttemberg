@@ -1,11 +1,11 @@
 id: 301356890
-type: way
+type: node
 latitude: 49.58351
 longitude: 9.36232
 postcode: "74731"
 city: Walldürn
-street: "Obere Vorstadtstraße"
-housenumber: 88
+street: Obere Vorstadtstraße
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

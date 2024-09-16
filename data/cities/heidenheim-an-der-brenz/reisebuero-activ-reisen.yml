@@ -1,11 +1,11 @@
 id: 149249852
-type: way
+type: node
 latitude: 48.67862
 longitude: 10.14662
 postcode: "89518"
 city: Heidenheim an der Brenz
-street: "Clichystraße"
-housenumber: 43
+street: Clichystraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "http://www.activ-reisen.org"
+website: http://www.activ-reisen.org

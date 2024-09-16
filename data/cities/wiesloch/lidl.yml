@@ -1,11 +1,11 @@
 id: 197664376
-type: way
+type: node
 latitude: 49.2913
 longitude: 8.69415
 postcode: "69168"
 city: Wiesloch
-street: "Bahnhofstraße"
-housenumber: 21
+street: Bahnhofstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

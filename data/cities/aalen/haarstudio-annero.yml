@@ -4,8 +4,8 @@ latitude: 48.83902
 longitude: 10.09417
 postcode: "73430"
 city: Aalen
-street: "Spritzenhausplatz"
-housenumber: 4
+street: Spritzenhausplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-14:00"
-website: "https://www.annero.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:00-14:00
+website: https://www.annero.de/

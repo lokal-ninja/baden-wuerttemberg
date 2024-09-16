@@ -1,11 +1,11 @@
 id: 687392135
-type: way
+type: node
 latitude: 48.48912
 longitude: 7.94627
 postcode: "77652"
 city: Offenburg
-street: "Eckenerstraße"
-housenumber: 12
+street: Eckenerstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 202262972
-type: way
+type: node
 latitude: 47.89107
 longitude: 9.31299
 postcode: "88630"
 city: Pfullendorf
-street: "Ahornweg"
-housenumber: 4
+street: Ahornweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

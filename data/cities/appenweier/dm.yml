@@ -1,11 +1,11 @@
 id: 665410187
-type: way
+type: node
 latitude: 48.53529
 longitude: 7.97448
 postcode: "77767"
 city: Appenweier
-street: "Im See"
-housenumber: 18
-phone: "+49 7805 9120834"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.dm.de/store/d475/appenweier/im-see-18"
+street: Im See
+housenumber: "18"
+phone: +49 7805 9120834
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.dm.de/store/d475/appenweier/im-see-18

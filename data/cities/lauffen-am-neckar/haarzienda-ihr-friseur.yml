@@ -1,11 +1,11 @@
 id: 234651875
-type: way
+type: node
 latitude: 49.07416
 longitude: 9.14812
 postcode: "74348"
 city: Lauffen am Neckar
-street: "Karlstraße"
-housenumber: 26
-phone: "+49-7133-900071"
-opening_hours: "Mo 14:00-20:00; Tu-Fr 08:30-12:00,14:00-18:00; Sa 08:30-13:00"
+street: Karlstraße
+housenumber: "26"
+phone: +49-7133-900071
+opening_hours: Mo 14:00-20:00; Tu-Fr 08:30-12:00,14:00-18:00; Sa 08:30-13:00
 website: ""

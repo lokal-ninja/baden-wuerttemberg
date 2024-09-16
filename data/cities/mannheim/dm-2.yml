@@ -5,7 +5,7 @@ longitude: 8.46766
 postcode: "68161"
 city: Mannheim
 street: ""
-housenumber: 3
-phone: "+49 621 12508793"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/de_homepage/268/filialfinder.html?view=asMarketfinder&address=Mannheim"
+housenumber: "3"
+phone: +49 621 12508793
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/de_homepage/268/filialfinder.html?view=asMarketfinder&address=Mannheim

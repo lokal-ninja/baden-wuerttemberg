@@ -1,11 +1,11 @@
 id: 204608471
-type: way
+type: node
 latitude: 48.04107
 longitude: 8.16956
 postcode: "78148"
 city: Gütenbach
-street: "Ob der Eck"
-housenumber: 3
-phone: "+49 7723 4728"
+street: Ob der Eck
+housenumber: "3"
+phone: +49 7723 4728
 opening_hours: ""
 website: ""

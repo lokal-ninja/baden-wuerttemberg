@@ -1,11 +1,11 @@
 id: 144073040
-type: way
+type: node
 latitude: 48.24163
 longitude: 8.88393
 postcode: "72336"
 city: Balingen
-street: "Marienstraße"
-housenumber: 13
+street: Marienstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

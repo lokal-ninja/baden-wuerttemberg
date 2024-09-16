@@ -1,11 +1,11 @@
 id: 465698194
-type: way
+type: node
 latitude: 48.97955
 longitude: 10.36439
 postcode: "73497"
 city: Tannhausen
-street: "Hauptstraße"
-housenumber: 58
+street: Hauptstraße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

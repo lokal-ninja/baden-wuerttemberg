@@ -4,8 +4,8 @@ latitude: 49.00861
 longitude: 8.42791
 postcode: "76131"
 city: Karlsruhe
-street: "Gerwigstraße"
-housenumber: 30
+street: Gerwigstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-18:00; Sa 09:00-14:00; We,Su,PH off"
+opening_hours: Tu,Th,Fr 09:00-18:00; Sa 09:00-14:00; We,Su,PH off
 website: ""

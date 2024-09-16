@@ -1,11 +1,11 @@
 id: 124164565
-type: way
+type: node
 latitude: 48.86408
 longitude: 9.20497
 postcode: "70806"
 city: Kornwestheim
-street: "Murrstraße"
-housenumber: 3
+street: Murrstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

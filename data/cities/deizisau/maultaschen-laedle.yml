@@ -1,11 +1,11 @@
 id: 133894248
-type: way
+type: node
 latitude: 48.71373
 longitude: 9.38883
 postcode: "73779"
 city: Deizisau
-street: "Zehntstraße"
-housenumber: 25
+street: Zehntstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

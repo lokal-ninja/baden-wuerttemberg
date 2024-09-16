@@ -1,11 +1,11 @@
 id: 301633341
-type: way
+type: node
 latitude: 48.57115
 longitude: 9.87992
 postcode: "73340"
 city: Amstetten
-street: "Beim Kreuzstein"
-housenumber: 2
-phone: "+49 7331 7294"
+street: Beim Kreuzstein
+housenumber: "2"
+phone: +49 7331 7294
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1018479351
-type: way
+type: node
 latitude: 49.3675
 longitude: 8.58884
 postcode: "68723"
 city: Oftersheim
-street: "Im Steuergewann"
-housenumber: 10
+street: Im Steuergewann
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

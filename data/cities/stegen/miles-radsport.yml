@@ -4,8 +4,8 @@ latitude: 47.99046
 longitude: 7.93846
 postcode: "79252"
 city: Stegen
-street: "Fohrenbühl"
+street: Fohrenbühl
 housenumber: 11A
 phone: ""
-opening_hours: "by appointment"
-website: "https://www.highendcycling.de"
+opening_hours: '"by appointment"'
+website: https://www.highendcycling.de

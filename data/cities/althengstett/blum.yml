@@ -1,11 +1,11 @@
 id: 95780987
-type: way
+type: node
 latitude: 48.72107
 longitude: 8.77837
 postcode: "75382"
 city: Althengstett
-street: "Industriestraße"
-housenumber: 62
+street: Industriestraße
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

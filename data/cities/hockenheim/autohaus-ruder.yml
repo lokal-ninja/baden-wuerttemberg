@@ -1,11 +1,11 @@
 id: 199391018
-type: way
+type: node
 latitude: 49.32802
 longitude: 8.54025
 postcode: "68766"
 city: Hockenheim
-street: "Gleisstraße"
-housenumber: 8
+street: Gleisstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "http://ruder.nissan-haendler.de/"
+website: http://ruder.nissan-haendler.de/

@@ -4,8 +4,8 @@ latitude: 48.99943
 longitude: 8.46234
 postcode: "76227"
 city: Karlsruhe
-street: "Christofstraße"
-housenumber: 11
-phone: "+49 721 9143853"
-opening_hours: "Mo-Fr 05:45-18:30; Sa 06:00-13:00; Su 08:00-11:00"
+street: Christofstraße
+housenumber: "11"
+phone: +49 721 9143853
+opening_hours: Mo-Fr 05:45-18:30; Sa 06:00-13:00; Su 08:00-11:00
 website: ""

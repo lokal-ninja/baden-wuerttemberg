@@ -1,11 +1,11 @@
 id: 90515072
-type: way
+type: node
 latitude: 49.16956
 longitude: 9.27054
 postcode: "74235"
 city: Erlenbach
-street: "Hafenweiler"
-housenumber: 8
+street: Hafenweiler
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "http://www.hr2o.de"
+website: http://www.hr2o.de

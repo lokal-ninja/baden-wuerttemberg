@@ -4,8 +4,8 @@ latitude: 49.54801
 longitude: 8.67211
 postcode: "69469"
 city: Weinheim
-street: "Hauptstraße"
-housenumber: 106
-phone: "+49 6201 879879"
-opening_hours: "Tu-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-14:00"
-website: "https://www.cacao.de/"
+street: Hauptstraße
+housenumber: "106"
+phone: +49 6201 879879
+opening_hours: Tu-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-14:00
+website: https://www.cacao.de/

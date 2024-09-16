@@ -4,8 +4,8 @@ latitude: 48.80706
 longitude: 9.52861
 postcode: "73614"
 city: Schorndorf
-street: "Karlstraße"
-housenumber: 3
+street: Karlstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.biomarkt.de/schorndorf-karlstr-3/marktseite"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.biomarkt.de/schorndorf-karlstr-3/marktseite

@@ -4,8 +4,8 @@ latitude: 48.01087
 longitude: 7.81059
 postcode: "79114"
 city: Freiburg im Breisgau
-street: "Sundgauallee"
-housenumber: 55
-phone: "+49 761807146"
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.armbruster-baeckerei.de/shop.php?id=7644"
+street: Sundgauallee
+housenumber: "55"
+phone: +49 761807146
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.armbruster-baeckerei.de/shop.php?id=7644

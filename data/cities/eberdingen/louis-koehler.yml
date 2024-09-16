@@ -4,8 +4,8 @@ latitude: 48.8863
 longitude: 9.00185
 postcode: "71735"
 city: Eberdingen
-street: "Pulverdinger Straße"
-housenumber: 1
+street: Pulverdinger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

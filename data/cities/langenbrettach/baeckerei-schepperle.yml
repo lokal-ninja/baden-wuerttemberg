@@ -1,11 +1,11 @@
 id: 364774892
-type: way
+type: node
 latitude: 49.21626
 longitude: 9.40731
 postcode: "74243"
 city: Langenbrettach
-street: "Hohenloher Straße"
-housenumber: 3
+street: Hohenloher Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

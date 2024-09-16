@@ -1,11 +1,11 @@
 id: 144909651
-type: way
+type: node
 latitude: 48.92581
 longitude: 8.36365
 postcode: "76275"
 city: Ettlingen
-street: "Ersigstraße"
-housenumber: 12
+street: Ersigstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

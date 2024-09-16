@@ -4,8 +4,8 @@ latitude: 48.83645
 longitude: 10.09255
 postcode: ""
 city: Aalen
-street: "Stuttgarter Straße"
-housenumber: 69
-phone: "+49 7361 4908798"
-opening_hours: "Mo-Sa 09:00-18:30"
-website: "https://www.cestini.de/"
+street: Stuttgarter Straße
+housenumber: "69"
+phone: +49 7361 4908798
+opening_hours: Mo-Sa 09:00-18:30
+website: https://www.cestini.de/

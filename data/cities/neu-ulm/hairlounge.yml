@@ -4,8 +4,8 @@ latitude: 48.39486
 longitude: 9.99818
 postcode: "89231"
 city: Neu-Ulm
-street: "Marienstraße"
-housenumber: 6
-phone: "+49 731 9408191"
-opening_hours: "Mo 12:00-18:00; Tu,Fr 09:00-18:00; We,Th 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.hairlounge-ulm.de/"
+street: Marienstraße
+housenumber: "6"
+phone: +49 731 9408191
+opening_hours: Mo 12:00-18:00; Tu,Fr 09:00-18:00; We,Th 09:00-19:00; Sa 09:00-14:00
+website: https://www.hairlounge-ulm.de/

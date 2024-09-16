@@ -4,8 +4,8 @@ latitude: 48.00135
 longitude: 7.84295
 postcode: "79106"
 city: Freiburg im Breisgau
-street: "Breisacher Straße"
-housenumber: 6
+street: Breisacher Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:00; Sa 09:30-13:00"
-website: "http://www.vespa-freiburg.de"
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:00; Sa 09:30-13:00
+website: http://www.vespa-freiburg.de

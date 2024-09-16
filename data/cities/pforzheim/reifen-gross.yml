@@ -4,8 +4,8 @@ latitude: 48.89792
 longitude: 8.71341
 postcode: "75177"
 city: Pforzheim
-street: "Blücherstraße"
-housenumber: 14
-phone: "+49 7231 563770"
-opening_hours: "Mo-Fr 08:00-12:00; Mo-Fr 13:00-17:00; Sa 08:30-12:00"
-website: "http://reifen-gross.de/"
+street: Blücherstraße
+housenumber: "14"
+phone: +49 7231 563770
+opening_hours: Mo-Fr 08:00-12:00; Mo-Fr 13:00-17:00; Sa 08:30-12:00
+website: http://reifen-gross.de/

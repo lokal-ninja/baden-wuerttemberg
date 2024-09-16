@@ -1,11 +1,11 @@
 id: 234467155
-type: way
+type: node
 latitude: 49.08431
 longitude: 8.39916
 postcode: "76344"
 city: Eggenstein-Leopoldshafen
-street: "Gellertstraße"
-housenumber: 12
+street: Gellertstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.oberacker.de"
+website: https://www.oberacker.de

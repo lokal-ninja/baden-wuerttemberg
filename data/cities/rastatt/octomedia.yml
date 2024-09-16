@@ -1,11 +1,11 @@
 id: 40736651
-type: way
+type: node
 latitude: 48.86265
 longitude: 8.23449
 postcode: "76437"
 city: Rastatt
-street: "Im Wöhr"
-housenumber: 6
+street: Im Wöhr
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
 website: ""

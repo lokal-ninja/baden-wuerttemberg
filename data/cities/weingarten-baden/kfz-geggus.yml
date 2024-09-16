@@ -1,11 +1,11 @@
 id: 303318705
-type: way
+type: node
 latitude: 49.04883
 longitude: 8.52865
 postcode: "76356"
 city: Weingarten (Baden)
-street: "Durlacher Straße"
-housenumber: 46
+street: Durlacher Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

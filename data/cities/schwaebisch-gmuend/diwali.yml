@@ -1,11 +1,11 @@
 id: 94014395
-type: way
+type: node
 latitude: 48.80232
 longitude: 9.79857
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Hintere Schmiedgasse"
-housenumber: 7
+street: Hintere Schmiedgasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

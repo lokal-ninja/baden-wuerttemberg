@@ -4,8 +4,8 @@ latitude: 49.00756
 longitude: 8.39528
 postcode: "76133"
 city: Karlsruhe
-street: "Amalienstraße"
-housenumber: 15
-phone: "+49 721 24319"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; PH off"
-website: "https://www.sanitaetshaus-ruck.de/"
+street: Amalienstraße
+housenumber: "15"
+phone: +49 721 24319
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; PH off
+website: https://www.sanitaetshaus-ruck.de/

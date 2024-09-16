@@ -1,11 +1,11 @@
 id: 49858039
-type: way
+type: node
 latitude: 49.14959
 longitude: 9.32118
 postcode: "74248"
 city: Ellhofen
-street: "Haller Straße"
-housenumber: 13
+street: Haller Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

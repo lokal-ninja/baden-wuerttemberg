@@ -1,11 +1,11 @@
 id: 223811154
-type: way
+type: node
 latitude: 49.54527
 longitude: 8.66232
 postcode: "69469"
 city: Weinheim
-street: "Bergstraße"
-housenumber: 9
+street: Bergstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

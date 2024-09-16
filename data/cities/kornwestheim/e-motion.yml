@@ -1,11 +1,11 @@
 id: 537191672
-type: way
+type: node
 latitude: 48.85459
 longitude: 9.1738
 postcode: "70806"
 city: Kornwestheim
-street: "Max-Planck-Straße"
-housenumber: 2
+street: Max-Planck-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

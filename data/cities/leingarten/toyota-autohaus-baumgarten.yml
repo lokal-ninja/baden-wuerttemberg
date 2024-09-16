@@ -1,11 +1,11 @@
 id: 96724053
-type: way
+type: node
 latitude: 49.14649
 longitude: 9.13531
 postcode: "74211"
 city: Leingarten
-street: "Liebigstraße"
-housenumber: 43
+street: Liebigstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "http://www.auto-baumgarten.de/"
+website: http://www.auto-baumgarten.de/

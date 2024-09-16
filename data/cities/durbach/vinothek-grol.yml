@@ -1,11 +1,11 @@
 id: 243229514
-type: way
+type: node
 latitude: 48.49474
 longitude: 8.01607
 postcode: "77770"
 city: Durbach
-street: "Grol"
-housenumber: 4
+street: Grol
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
-website: "https://www.weingut-metternich.de/"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
+website: https://www.weingut-metternich.de/

@@ -4,8 +4,8 @@ latitude: 48.89143
 longitude: 8.68908
 postcode: "75172"
 city: Pforzheim
-street: "Habermehlstraße"
-housenumber: 11
+street: Habermehlstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
 website: ""

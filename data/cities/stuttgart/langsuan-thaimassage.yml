@@ -4,8 +4,8 @@ latitude: 48.77499
 longitude: 9.18505
 postcode: "70182"
 city: Stuttgart
-street: "Charlottenstraße"
-housenumber: 11
-phone: "+49 711 51889032"
-opening_hours: "Mo-Fr 10:00-18:00; PH,Su off"
-website: "http://www.stuttgarter-thaimassage.de"
+street: Charlottenstraße
+housenumber: "11"
+phone: +49 711 51889032
+opening_hours: Mo-Fr 10:00-18:00; PH,Su off
+website: http://www.stuttgarter-thaimassage.de

@@ -4,8 +4,8 @@ latitude: 48.48581
 longitude: 7.96022
 postcode: "77654"
 city: Offenburg
-street: "Brücklesbünd"
-housenumber: 7
+street: Brücklesbünd
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:30-18:00"
-website: "https://www.racextract-service.de/"
+opening_hours: Mo-Fr 10:00-12:00,14:30-18:00
+website: https://www.racextract-service.de/

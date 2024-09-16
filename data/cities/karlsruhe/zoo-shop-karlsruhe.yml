@@ -4,8 +4,8 @@ latitude: 48.99509
 longitude: 8.40109
 postcode: "76137"
 city: Karlsruhe
-street: "Bahnhofplatz"
-housenumber: 4
+street: Bahnhofplatz
+housenumber: "4"
 phone: ""
-opening_hours: "PH,Mo-Su 12:00-18:00"
+opening_hours: PH,Mo-Su 12:00-18:00
 website: ""

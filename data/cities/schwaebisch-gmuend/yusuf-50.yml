@@ -1,11 +1,11 @@
 id: 192005139
-type: way
+type: node
 latitude: 48.80017
 longitude: 9.82998
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Benzholzstraße"
-housenumber: 46
+street: Benzholzstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 205184684
-type: way
+type: node
 latitude: 48.71045
 longitude: 9.29459
 postcode: "73760"
 city: Ostfildern
-street: "Wettenhartstraße"
-housenumber: 2
+street: Wettenhartstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 14:30-18:30; Sa 09:30-13:30; PH off"
+opening_hours: Mo-Fr 14:30-18:30; Sa 09:30-13:30; PH off
 website: ""

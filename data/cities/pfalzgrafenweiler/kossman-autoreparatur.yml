@@ -1,11 +1,11 @@
 id: 132809804
-type: way
+type: node
 latitude: 48.53835
 longitude: 8.5723
 postcode: "72285"
 city: Pfalzgrafenweiler
-street: "Dieselstraße"
-housenumber: 10
+street: Dieselstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

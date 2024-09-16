@@ -4,8 +4,8 @@ latitude: 48.69376
 longitude: 9.69994
 postcode: "73054"
 city: Eislingen/Fils
-street: "Holzheimer Straße"
-housenumber: 10
-phone: "+49 7161 9889335"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:30-11:00"
-website: "https://www.schmid-kuhn.de/"
+street: Holzheimer Straße
+housenumber: "10"
+phone: +49 7161 9889335
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:30-11:00
+website: https://www.schmid-kuhn.de/

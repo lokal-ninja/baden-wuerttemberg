@@ -4,8 +4,8 @@ latitude: 47.68347
 longitude: 9.15728
 postcode: "78467"
 city: Konstanz
-street: "Fürstenbergstraße"
-housenumber: 88
-phone: "+49 7531 9550951"
-opening_hours: "Mo off; Tu-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.friseur-konstanz.com/"
+street: Fürstenbergstraße
+housenumber: "88"
+phone: +49 7531 9550951
+opening_hours: Mo off; Tu-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.friseur-konstanz.com/

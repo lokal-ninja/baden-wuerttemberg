@@ -1,11 +1,11 @@
 id: 137930479
-type: way
+type: node
 latitude: 48.71444
 longitude: 9.16631
 postcode: "70567"
 city: Stuttgart
-street: "Schelmenwasenstraße"
-housenumber: 7
+street: Schelmenwasenstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

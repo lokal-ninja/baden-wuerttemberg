@@ -1,11 +1,11 @@
 id: 394240387
-type: way
+type: node
 latitude: 48.6084
 longitude: 9.25925
 postcode: "72666"
 city: Neckartailfingen
-street: "Tübinger Straße"
-housenumber: 111
-phone: "+49 7127 92000"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.autokuhn.de"
+street: Tübinger Straße
+housenumber: "111"
+phone: +49 7127 92000
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.autokuhn.de

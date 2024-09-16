@@ -1,11 +1,11 @@
 id: 96379420
-type: way
+type: node
 latitude: 48.38075
 longitude: 8.90187
 postcode: "72414"
 city: Rangendingen
-street: "Daimlerstraße"
-housenumber: 7
+street: Daimlerstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.aquarium-stahl.de/"
+website: https://www.aquarium-stahl.de/

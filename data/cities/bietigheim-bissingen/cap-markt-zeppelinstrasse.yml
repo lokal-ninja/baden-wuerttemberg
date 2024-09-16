@@ -1,11 +1,11 @@
 id: 204803709
-type: way
+type: node
 latitude: 48.94255
 longitude: 9.12539
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Zeppelinstraße"
-housenumber: 34
+street: Zeppelinstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.67691
 longitude: 10.1537
 postcode: "89522"
 city: Heidenheim an der Brenz
-street: "Friedrich-Degeler-Platz"
-housenumber: 6
-phone: "+49 7321 2 37 33"
-opening_hours: "Mo-Tu 10:00-18:00; We 09:00-18:00; Th-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.weltladen-heidenheim.de/"
+street: Friedrich-Degeler-Platz
+housenumber: "6"
+phone: +49 7321 2 37 33
+opening_hours: Mo-Tu 10:00-18:00; We 09:00-18:00; Th-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.weltladen-heidenheim.de/

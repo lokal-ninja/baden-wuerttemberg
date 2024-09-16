@@ -1,11 +1,11 @@
 id: 54290085
-type: way
+type: node
 latitude: 49.14731
 longitude: 9.22143
 postcode: "74076"
 city: Heilbronn
-street: "Dammstraße"
-housenumber: 20
+street: Dammstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "http://www.techno-com.de/"
+website: http://www.techno-com.de/

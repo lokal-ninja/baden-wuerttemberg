@@ -1,11 +1,11 @@
 id: 39238278
-type: way
+type: node
 latitude: 48.62818
 longitude: 8.05493
 postcode: "77855"
 city: Achern
-street: "Fautenbacher Straße"
-housenumber: 25
-phone: "+49 7841 62870"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.scheck-in-center.de/html/content/achern.html"
+street: Fautenbacher Straße
+housenumber: "25"
+phone: +49 7841 62870
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.scheck-in-center.de/html/content/achern.html

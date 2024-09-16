@@ -1,11 +1,11 @@
 id: 240955283
-type: way
+type: node
 latitude: 48.48124
 longitude: 8.87603
 postcode: "72149"
 city: Neustetten
-street: "Schwarzwaldstraße"
-housenumber: 43
-phone: "+49 7472 9894 55"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:30; Sa 08:00-12:00; Su,PH off"
-website: "https://brauerei-schimpf.de"
+street: Schwarzwaldstraße
+housenumber: "43"
+phone: +49 7472 9894 55
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:30; Sa 08:00-12:00; Su,PH off
+website: https://brauerei-schimpf.de

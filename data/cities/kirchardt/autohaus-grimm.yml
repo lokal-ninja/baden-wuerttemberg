@@ -1,11 +1,11 @@
 id: 236264787
-type: way
+type: node
 latitude: 49.20865
 longitude: 9.00264
 postcode: "74912"
 city: Kirchardt
-street: "Gewerbestraße"
-housenumber: 13
-phone: "+49 7266 91900"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00; Su off"
-website: "http://www.grimm.fiatpartner.de/"
+street: Gewerbestraße
+housenumber: "13"
+phone: +49 7266 91900
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00; Su off
+website: http://www.grimm.fiatpartner.de/

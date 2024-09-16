@@ -4,8 +4,8 @@ latitude: 49.23551
 longitude: 9.08837
 postcode: "74906"
 city: Bad Rappenau
-street: "Raiffeisenstraße"
-housenumber: 30
-phone: "+49 7264 808881"
-opening_hours: "Mo-Fr 10:00-22:00; Sa,Su 10:00-20:00; PH 10:00-20:00"
-website: "https://www.sunrise-bad-rappenau.de/"
+street: Raiffeisenstraße
+housenumber: "30"
+phone: +49 7264 808881
+opening_hours: Mo-Fr 10:00-22:00; Sa,Su 10:00-20:00; PH 10:00-20:00
+website: https://www.sunrise-bad-rappenau.de/

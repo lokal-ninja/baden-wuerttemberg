@@ -1,11 +1,11 @@
 id: 404293426
-type: way
+type: node
 latitude: 49.07177
 longitude: 8.84658
 postcode: "75057"
 city: Kürnbach
-street: "Fünfkirchener Straße"
-housenumber: 19
+street: Fünfkirchener Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

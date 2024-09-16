@@ -4,8 +4,8 @@ latitude: 48.6172
 longitude: 9.83732
 postcode: "73312"
 city: Geislingen an der Steige
-street: "Fabrikstraße"
-housenumber: 40
-phone: "+49 7331 25 82 70"
-opening_hours: "Mo-Sa 09:30-18:30"
-website: "http://www.fischhalle.wmf.de/"
+street: Fabrikstraße
+housenumber: "40"
+phone: +49 7331 25 82 70
+opening_hours: Mo-Sa 09:30-18:30
+website: http://www.fischhalle.wmf.de/

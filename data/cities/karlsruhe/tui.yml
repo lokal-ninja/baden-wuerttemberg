@@ -1,11 +1,11 @@
 id: 363394877
-type: way
+type: node
 latitude: 49.00915
 longitude: 8.39513
 postcode: "76133"
 city: Karlsruhe
-street: "Karlstraße"
-housenumber: 21
+street: Karlstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
 website: ""

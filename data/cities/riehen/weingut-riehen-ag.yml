@@ -4,8 +4,9 @@ latitude: 47.58726
 longitude: 7.65344
 postcode: "4125"
 city: Riehen
-street: "Rössligasse"
-housenumber: 63
-phone: "+41 61 303 04 53"
-opening_hours: "Ab Hof nach Vereinbarung Weinhandlung Paul Ullrich AG Basel, Henz Delikatessen."
-website: "https://weingutriehen.ch/"
+street: Rössligasse
+housenumber: "63"
+phone: +41 61 303 04 53
+opening_hours: '"Ab Hof nach Vereinbarung Weinhandlung Paul Ullrich AG Basel, Henz
+    Delikatessen."'
+website: https://weingutriehen.ch/

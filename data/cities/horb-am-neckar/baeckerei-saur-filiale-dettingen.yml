@@ -4,8 +4,8 @@ latitude: 48.41525
 longitude: 8.63257
 postcode: "72160"
 city: Horb am Neckar
-street: "Alte Straße"
-housenumber: 6
+street: Alte Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:00, Mo,Tu,Th,Fr 14:30-17:30, Sa 06:30-12:30, Su,PH 08:00-10:30"
-website: "http://www.baeckerei-saur.de/filialen/dettingen.htm"
+opening_hours: Mo-Fr 06:30-12:00, Mo,Tu,Th,Fr 14:30-17:30, Sa 06:30-12:30, Su,PH 08:00-10:30
+website: http://www.baeckerei-saur.de/filialen/dettingen.htm

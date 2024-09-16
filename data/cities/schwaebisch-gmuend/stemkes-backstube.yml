@@ -1,11 +1,11 @@
 id: 94014369
-type: way
+type: node
 latitude: 48.802
 longitude: 9.79928
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Vordere Schmiedgasse"
-housenumber: 13
+street: Vordere Schmiedgasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

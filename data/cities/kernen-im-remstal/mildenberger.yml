@@ -4,8 +4,9 @@ latitude: 48.80763
 longitude: 9.32038
 postcode: "71394"
 city: Kernen im Remstal
-street: "Stettener Straße"
-housenumber: 6
+street: Stettener Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-We 06:30-13:00,14:30-18:00; Th-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:00"
-website: "https://backhaus-mildenberger.de/"
+opening_hours: Mo-We 06:30-13:00,14:30-18:00; Th-Fr 06:30-18:00; Sa 06:30-13:00; Su
+    08:00-11:00
+website: https://backhaus-mildenberger.de/

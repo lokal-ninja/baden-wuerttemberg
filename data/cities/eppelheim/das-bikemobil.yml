@@ -4,8 +4,8 @@ latitude: 49.40115
 longitude: 8.63209
 postcode: "69214"
 city: Eppelheim
-street: "Hauptstraße"
-housenumber: 42
-phone: "+49 176 76302880"
-opening_hours: "Mo,Tu 12:00-18:00; Th,Fr 08:00-16:00"
-website: "https://www.dasbikemobil.de"
+street: Hauptstraße
+housenumber: "42"
+phone: +49 176 76302880
+opening_hours: Mo,Tu 12:00-18:00; Th,Fr 08:00-16:00
+website: https://www.dasbikemobil.de

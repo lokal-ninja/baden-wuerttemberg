@@ -1,11 +1,11 @@
 id: 110450323
-type: way
+type: node
 latitude: 49.0488
 longitude: 8.37791
 postcode: "76149"
 city: Karlsruhe
-street: "Alte Friedrichstraße"
-housenumber: 54
+street: Alte Friedrichstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

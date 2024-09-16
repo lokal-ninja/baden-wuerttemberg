@@ -1,11 +1,11 @@
 id: 514185690
-type: way
+type: node
 latitude: 48.2931
 longitude: 9.09693
 postcode: "72393"
 city: Burladingen
-street: "Jahnstraße"
-housenumber: 5
+street: Jahnstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

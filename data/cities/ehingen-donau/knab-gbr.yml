@@ -1,11 +1,11 @@
 id: 263417869
-type: way
+type: node
 latitude: 48.31138
 longitude: 9.76276
 postcode: "89584"
 city: Ehingen (Donau)
-street: "Sankt-Moritz-Straße"
-housenumber: 3
-phone: "+49 7391 / 52680"
+street: Sankt-Moritz-Straße
+housenumber: "3"
+phone: +49 7391 / 52680
 opening_hours: ""
-website: "https://www.knab-gbr.de/"
+website: https://www.knab-gbr.de/

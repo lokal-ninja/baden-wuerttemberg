@@ -1,11 +1,11 @@
 id: 95175350
-type: way
+type: node
 latitude: 49.31485
 longitude: 9.42091
 postcode: "74259"
 city: Widdern
-street: "Bühlweg"
-housenumber: 3
+street: Bühlweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

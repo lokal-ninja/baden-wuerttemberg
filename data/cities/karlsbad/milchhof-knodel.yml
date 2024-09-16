@@ -1,11 +1,11 @@
 id: 419557574
-type: way
+type: node
 latitude: 48.93128
 longitude: 8.49175
 postcode: "76307"
 city: Karlsbad
-street: "Im Steinig"
-housenumber: 7
+street: Im Steinig
+housenumber: "7"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

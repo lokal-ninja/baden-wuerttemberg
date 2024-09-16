@@ -1,11 +1,11 @@
 id: 254916393
-type: way
+type: node
 latitude: 49.77814
 longitude: 9.47462
 postcode: "97877"
 city: Wertheim
-street: "Roter Sand"
-housenumber: 11
-phone: "+49 9342 8107"
+street: Roter Sand
+housenumber: "11"
+phone: +49 9342 8107
 opening_hours: ""
-website: "https://www.szabo.de/"
+website: https://www.szabo.de/

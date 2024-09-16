@@ -1,11 +1,11 @@
 id: 120362748
-type: way
+type: node
 latitude: 48.771
 longitude: 9.15529
 postcode: "70197"
 city: Stuttgart
-street: "Gutenbergstraße"
-housenumber: 108
-phone: "+49 711 612740"
-opening_hours: "Mo-Fr 11:00-14:00,15:30-19:30; Sa 10:30-15:30"
-website: "http://www.lupos-rockshop.de/"
+street: Gutenbergstraße
+housenumber: "108"
+phone: +49 711 612740
+opening_hours: Mo-Fr 11:00-14:00,15:30-19:30; Sa 10:30-15:30
+website: http://www.lupos-rockshop.de/

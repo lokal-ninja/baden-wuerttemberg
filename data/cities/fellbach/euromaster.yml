@@ -1,11 +1,11 @@
 id: 42605052
-type: way
+type: node
 latitude: 48.81363
 longitude: 9.26022
 postcode: "70736"
 city: Fellbach
-street: "Höhenstraße"
+street: Höhenstraße
 housenumber: 5A
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
 website: ""

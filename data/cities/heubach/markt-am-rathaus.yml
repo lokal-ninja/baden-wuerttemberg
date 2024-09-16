@@ -1,11 +1,11 @@
 id: 261153334
-type: way
+type: node
 latitude: 48.78858
 longitude: 9.93544
 postcode: "73540"
 city: Heubach
-street: "Schloßstraße"
-housenumber: 6
+street: Schloßstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-16:00
 website: ""

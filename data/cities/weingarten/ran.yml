@@ -1,11 +1,11 @@
 id: 95458071
-type: way
+type: node
 latitude: 47.81053
 longitude: 9.62777
 postcode: "88250"
 city: Weingarten
-street: "Abt-Hyller-Straße"
-housenumber: 71
+street: Abt-Hyller-Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su, PH 07:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00; Su, PH 07:00-22:00
 website: ""

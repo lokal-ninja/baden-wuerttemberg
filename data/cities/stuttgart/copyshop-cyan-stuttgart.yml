@@ -4,8 +4,8 @@ latitude: 48.77176
 longitude: 9.16809
 postcode: "70178"
 city: Stuttgart
-street: "Silberburgstraße"
-housenumber: 166
+street: Silberburgstraße
+housenumber: "166"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-19:00; Sa 10:00-14:00"
-website: "https://www.cyan-stuttgart.de/"
+opening_hours: Mo-Fr 09:00-12:00, 13:00-19:00; Sa 10:00-14:00
+website: https://www.cyan-stuttgart.de/

@@ -4,8 +4,8 @@ latitude: 48.33083
 longitude: 9.90827
 postcode: "89155"
 city: Erbach
-street: "Benzstraße"
-housenumber: 25
+street: Benzstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:30"
-website: "https://www.autohaus-knoepfle.de/"
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:30
+website: https://www.autohaus-knoepfle.de/

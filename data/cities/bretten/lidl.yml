@@ -1,11 +1,11 @@
 id: 976006017
-type: way
+type: node
 latitude: 49.03828
 longitude: 8.6961
 postcode: "75015"
 city: Bretten
-street: "Melanchthonstraße"
-housenumber: 91
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/bretten/melanchthonstrasse-91.html"
+street: Melanchthonstraße
+housenumber: "91"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/bretten/melanchthonstrasse-91.html

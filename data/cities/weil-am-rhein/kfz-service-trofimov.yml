@@ -4,8 +4,8 @@ latitude: 47.59771
 longitude: 7.6011
 postcode: "79576"
 city: Weil am Rhein
-street: "Alte Straße"
-housenumber: 32
+street: Alte Straße
+housenumber: "32"
 phone: "+4976211579430"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00"
-website: "https://www.kfz-trofimov.de"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00
+website: https://www.kfz-trofimov.de

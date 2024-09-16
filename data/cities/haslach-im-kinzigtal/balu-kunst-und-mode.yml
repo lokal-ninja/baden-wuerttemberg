@@ -4,8 +4,8 @@ latitude: 48.27748
 longitude: 8.08858
 postcode: "77716"
 city: Haslach im Kinzigtal
-street: "Hauptstraße"
-housenumber: 43
-phone: "+49 7832 5940"
-opening_hours: "Mo-Fr 09:00-12:15, 14:00-18:15; Sa 09:00-13:00"
-website: "http://balu-haslach.de/"
+street: Hauptstraße
+housenumber: "43"
+phone: +49 7832 5940
+opening_hours: Mo-Fr 09:00-12:15, 14:00-18:15; Sa 09:00-13:00
+website: http://balu-haslach.de/

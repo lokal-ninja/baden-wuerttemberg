@@ -1,11 +1,11 @@
 id: 126794656
-type: way
+type: node
 latitude: 47.65849
 longitude: 9.16937
 postcode: "78462"
 city: Konstanz
-street: "Döbelestraße"
-housenumber: 1
+street: Döbelestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 06:00-18:30"
+opening_hours: Mo-Sa 06:00-18:30
 website: ""

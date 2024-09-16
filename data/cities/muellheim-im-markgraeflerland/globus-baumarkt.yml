@@ -1,11 +1,11 @@
 id: 272200670
-type: way
+type: node
 latitude: 47.80507
 longitude: 7.60264
 postcode: "79379"
 city: Müllheim im Markgräflerland
-street: "Lörracher Straße"
-housenumber: 30
-phone: "+49 76319378-0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.globus-baumarkt.de"
+street: Lörracher Straße
+housenumber: "30"
+phone: +49 76319378-0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.globus-baumarkt.de

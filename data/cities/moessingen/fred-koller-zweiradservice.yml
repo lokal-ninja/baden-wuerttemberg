@@ -1,11 +1,11 @@
 id: 283729662
-type: way
+type: node
 latitude: 48.39662
 longitude: 9.03617
 postcode: "72116"
 city: Mössingen
-street: "Albblickstraße"
-housenumber: 54
-phone: "+49 7473 6883"
-opening_hours: "Tu-Fr 09:00-12:30,14:00-18:30; Sa 09:00-13:00; Su,PH off"
-website: "https://www.fred-koller.de/"
+street: Albblickstraße
+housenumber: "54"
+phone: +49 7473 6883
+opening_hours: Tu-Fr 09:00-12:30,14:00-18:30; Sa 09:00-13:00; Su,PH off
+website: https://www.fred-koller.de/

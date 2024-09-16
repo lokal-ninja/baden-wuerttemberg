@@ -1,11 +1,11 @@
 id: 226998164
-type: way
+type: node
 latitude: 48.48664
 longitude: 7.92306
 postcode: "77656"
 city: Offenburg
-street: "Hanns-Martin-Schleyer-Straße"
-housenumber: 23
+street: Hanns-Martin-Schleyer-Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.brillux.de/"
+website: https://www.brillux.de/

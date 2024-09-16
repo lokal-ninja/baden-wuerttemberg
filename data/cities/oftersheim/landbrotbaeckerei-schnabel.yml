@@ -4,8 +4,8 @@ latitude: 49.37156
 longitude: 8.58093
 postcode: "68723"
 city: Oftersheim
-street: "Mannheimer Straße"
-housenumber: 70
-phone: "+49 6202 53352"
-opening_hours: "Mo-Sa 06:30-13:00;Mo,Tu,Tu,Fr 15:00-18:30"
-website: "http://www.landbrot-schnabel.de/"
+street: Mannheimer Straße
+housenumber: "70"
+phone: +49 6202 53352
+opening_hours: Mo-Sa 06:30-13:00;Mo,Tu,Tu,Fr 15:00-18:30
+website: http://www.landbrot-schnabel.de/

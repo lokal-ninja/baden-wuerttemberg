@@ -4,8 +4,8 @@ latitude: 48.89645
 longitude: 9.19047
 postcode: "71634"
 city: Ludwigsburg
-street: "Kirchstraße"
-housenumber: 2
-phone: "+49 7141 2999866"
-opening_hours: "Mo-Sa 10:00-13:30, Mo-Fr 14:30-19:00, Sa 14:30-18:00"
-website: "https://www.vodafone-shops.de/ludwigsburg-200534983"
+street: Kirchstraße
+housenumber: "2"
+phone: +49 7141 2999866
+opening_hours: Mo-Sa 10:00-13:30, Mo-Fr 14:30-19:00, Sa 14:30-18:00
+website: https://www.vodafone-shops.de/ludwigsburg-200534983

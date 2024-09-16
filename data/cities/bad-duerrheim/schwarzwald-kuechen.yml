@@ -4,8 +4,9 @@ latitude: 48.03339
 longitude: 8.53279
 postcode: "78073"
 city: Bad Dürrheim
-street: "Carl-Friedrich-Benz-Straße"
-housenumber: 2
+street: Carl-Friedrich-Benz-Straße
+housenumber: "2"
 phone: "+49772694860"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00 || Su[1] 13:00-17:00 1.Sonntag im Monat, nur Ausstellung; PH off"
-website: "https://schwarzwald-kuechen.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00 || Su[1] 13:00-17:00 "1.Sonntag im
+    Monat, nur Ausstellung"; PH off
+website: https://schwarzwald-kuechen.de

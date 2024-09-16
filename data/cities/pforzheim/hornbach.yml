@@ -1,11 +1,11 @@
 id: 27430724
-type: way
+type: node
 latitude: 48.90623
 longitude: 8.65574
 postcode: "75179"
 city: Pforzheim
-street: "Schwenninger Straße"
-housenumber: 4
-phone: "+49 7231 143360"
+street: Schwenninger Straße
+housenumber: "4"
+phone: +49 7231 143360
 opening_hours: ""
-website: "https://www.hornbach.de/"
+website: https://www.hornbach.de/

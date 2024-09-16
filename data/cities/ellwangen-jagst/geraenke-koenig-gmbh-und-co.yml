@@ -1,11 +1,11 @@
 id: 269524331
-type: way
+type: node
 latitude: 48.95523
 longitude: 10.17271
 postcode: "73479"
 city: Ellwangen (Jagst)
-street: "Ludwig-Lutz-Straße"
-housenumber: 24
+street: Ludwig-Lutz-Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

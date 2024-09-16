@@ -4,8 +4,8 @@ latitude: 48.9965
 longitude: 8.45138
 postcode: "76227"
 city: Karlsruhe
-street: "Killisfeldstraße"
-housenumber: 46
+street: Killisfeldstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Aldi%20killisfeld%20durlach&Mode=None"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Aldi%20killisfeld%20durlach&Mode=None

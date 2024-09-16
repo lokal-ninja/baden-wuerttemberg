@@ -1,11 +1,11 @@
 id: 25934850
-type: way
+type: node
 latitude: 49.09415
 longitude: 8.4075
 postcode: "76344"
 city: Eggenstein-Leopoldshafen
-street: "Brüsseler Ring"
-housenumber: 1
+street: Brüsseler Ring
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

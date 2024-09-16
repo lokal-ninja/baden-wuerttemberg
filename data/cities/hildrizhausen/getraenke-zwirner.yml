@@ -1,11 +1,11 @@
 id: 181495560
-type: way
+type: node
 latitude: 48.62654
 longitude: 8.97791
 postcode: "71157"
 city: Hildrizhausen
-street: "Hohenzollernstraße"
-housenumber: 2
+street: Hohenzollernstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

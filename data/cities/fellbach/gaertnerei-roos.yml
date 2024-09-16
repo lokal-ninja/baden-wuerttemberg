@@ -1,11 +1,11 @@
 id: 47441405
-type: way
+type: node
 latitude: 48.80843
 longitude: 9.27746
 postcode: "70734"
 city: Fellbach
-street: "Cannstatter Straße"
-housenumber: 32
+street: Cannstatter Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

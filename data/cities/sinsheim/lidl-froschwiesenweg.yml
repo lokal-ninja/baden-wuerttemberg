@@ -1,11 +1,11 @@
 id: 212464345
-type: way
+type: node
 latitude: 49.24128
 longitude: 8.90564
 postcode: "74889"
 city: Sinsheim
-street: "Froschwiesenweg"
-housenumber: 1
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "https://www.lidl.de/"
+street: Froschwiesenweg
+housenumber: "1"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: https://www.lidl.de/

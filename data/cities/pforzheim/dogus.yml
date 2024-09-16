@@ -1,11 +1,11 @@
 id: 150110069
-type: way
+type: node
 latitude: 48.89814
 longitude: 8.71083
 postcode: "75177"
 city: Pforzheim
-street: "Blumenheckstraße"
-housenumber: 10
-phone: "+49 7231 5899697"
+street: Blumenheckstraße
+housenumber: "10"
+phone: +49 7231 5899697
 opening_hours: ""
 website: ""

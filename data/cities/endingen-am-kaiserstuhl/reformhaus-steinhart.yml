@@ -4,8 +4,8 @@ latitude: 48.14128
 longitude: 7.70335
 postcode: "79346"
 city: Endingen am Kaiserstuhl
-street: "Marktplatz"
-housenumber: 11
-phone: "+49 7642 7101"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.reformhaus-steinhart.com/endingen.php"
+street: Marktplatz
+housenumber: "11"
+phone: +49 7642 7101
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-13:00
+website: https://www.reformhaus-steinhart.com/endingen.php

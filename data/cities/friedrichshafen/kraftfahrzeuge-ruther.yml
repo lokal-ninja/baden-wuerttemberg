@@ -1,11 +1,11 @@
 id: 301037011
-type: way
+type: node
 latitude: 47.67695
 longitude: 9.47684
 postcode: "88045"
 city: Friedrichshafen
-street: "Albert-Maier-Straße"
-housenumber: 8
+street: Albert-Maier-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,13:30-17:00"
-website: "http://www.autofit-ruther.de/"
+opening_hours: Mo-Fr 08:00-12:30,13:30-17:00
+website: http://www.autofit-ruther.de/

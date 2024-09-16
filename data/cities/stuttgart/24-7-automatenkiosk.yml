@@ -4,8 +4,8 @@ latitude: 48.7749
 longitude: 9.15546
 postcode: "70193"
 city: Stuttgart
-street: "Bebelstraße"
-housenumber: 23
+street: Bebelstraße
+housenumber: "23"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

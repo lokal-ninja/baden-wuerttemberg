@@ -1,11 +1,11 @@
 id: 144127289
-type: way
+type: node
 latitude: 48.54131
 longitude: 10.23395
 postcode: "89168"
 city: Niederstotzingen
-street: "Im Städtle"
-housenumber: 13
+street: Im Städtle
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

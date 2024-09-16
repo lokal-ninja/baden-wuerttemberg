@@ -1,11 +1,11 @@
 id: 257361039
-type: way
+type: node
 latitude: 48.52363
 longitude: 8.31159
 postcode: "72270"
 city: Baiersbronn
-street: "Max-Eyth-Straße"
-housenumber: 31
+street: Max-Eyth-Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

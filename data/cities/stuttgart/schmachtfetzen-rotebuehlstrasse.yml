@@ -4,8 +4,8 @@ latitude: 48.77333
 longitude: 9.16879
 postcode: "70178"
 city: Stuttgart
-street: "Rotebühlstraße"
-housenumber: 51
+street: Rotebühlstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-17:00"
-website: "https://www.schmachtfetzen.de/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-17:00
+website: https://www.schmachtfetzen.de/

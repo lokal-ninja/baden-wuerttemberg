@@ -4,8 +4,8 @@ latitude: 48.99818
 longitude: 9.76659
 postcode: "74405"
 city: Gaildorf
-street: "Gartenstraße"
-housenumber: 13
+street: Gartenstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00 || und nach telefonischer Anmeldung"
-website: "https://naehatelier-brumm.de"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00 || "und nach telefonischer Anmeldung"
+website: https://naehatelier-brumm.de

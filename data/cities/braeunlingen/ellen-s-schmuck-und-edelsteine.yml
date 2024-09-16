@@ -1,11 +1,11 @@
 id: 577414288
-type: way
+type: node
 latitude: 47.93004
 longitude: 8.44963
 postcode: "78199"
 city: Bräunlingen
-street: "Grabenring"
-housenumber: 9
+street: Grabenring
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

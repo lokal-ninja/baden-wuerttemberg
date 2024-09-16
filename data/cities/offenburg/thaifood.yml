@@ -1,11 +1,11 @@
 id: 278569503
-type: way
+type: node
 latitude: 48.46844
 longitude: 7.94624
 postcode: "77652"
 city: Offenburg
-street: "Gerberstraße"
-housenumber: 26
+street: Gerberstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

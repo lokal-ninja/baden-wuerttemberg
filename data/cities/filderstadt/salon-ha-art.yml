@@ -4,8 +4,8 @@ latitude: 48.67983
 longitude: 9.21816
 postcode: "70794"
 city: Filderstadt
-street: "Pfarrberg"
-housenumber: 1
+street: Pfarrberg
+housenumber: "1"
 phone: "+4971172259777"
-opening_hours: "Tu,Fr 09:00-19:00; Sa 08:00-14:00; We,Th 09:00-18:00"
-website: "https://www.ha-art.de/"
+opening_hours: Tu,Fr 09:00-19:00; Sa 08:00-14:00; We,Th 09:00-18:00
+website: https://www.ha-art.de/

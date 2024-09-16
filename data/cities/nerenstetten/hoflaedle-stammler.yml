@@ -4,8 +4,8 @@ latitude: 48.52791
 longitude: 10.09945
 postcode: "89129"
 city: Nerenstetten
-street: "Bärengasse"
-housenumber: 4
-phone: "+49 7345/921039"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.metzgerei-stammler.de"
+street: Bärengasse
+housenumber: "4"
+phone: +49 7345/921039
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.metzgerei-stammler.de

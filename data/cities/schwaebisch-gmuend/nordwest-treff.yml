@@ -1,11 +1,11 @@
 id: 204318024
-type: way
+type: node
 latitude: 48.79224
 longitude: 9.83398
 postcode: "73529"
 city: Schwäbisch Gmünd
-street: "Rheinstraße"
-housenumber: 21
+street: Rheinstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

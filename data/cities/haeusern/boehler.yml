@@ -1,11 +1,11 @@
 id: 296522151
-type: way
+type: node
 latitude: 47.75421
 longitude: 8.16915
 postcode: "79837"
 city: Häusern
-street: "Schluchseer Straße"
-housenumber: 5
+street: Schluchseer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 90301233
-type: way
+type: node
 latitude: 49.46396
 longitude: 8.66499
 postcode: "69198"
 city: Schriesheim
-street: "Spännigweg"
-housenumber: 2
-phone: "+49 6203 606113"
+street: Spännigweg
+housenumber: "2"
+phone: +49 6203 606113
 opening_hours: ""
-website: "https://www.hoely.de/"
+website: https://www.hoely.de/

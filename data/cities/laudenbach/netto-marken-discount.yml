@@ -1,11 +1,11 @@
 id: 111610546
-type: way
+type: node
 latitude: 49.60889
 longitude: 8.64863
 postcode: "69514"
 city: Laudenbach
-street: "Südring"
-housenumber: 2
+street: Südring
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

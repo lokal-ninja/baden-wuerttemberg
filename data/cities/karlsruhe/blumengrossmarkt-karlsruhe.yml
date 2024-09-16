@@ -1,11 +1,11 @@
 id: 839658403
-type: way
+type: node
 latitude: 49.00774
 longitude: 8.44465
 postcode: "76137"
 city: Karlsruhe
-street: "Am Großmarkt"
-housenumber: 10
+street: Am Großmarkt
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

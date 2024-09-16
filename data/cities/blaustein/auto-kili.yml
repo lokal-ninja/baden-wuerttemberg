@@ -4,8 +4,8 @@ latitude: 48.41236
 longitude: 9.9223
 postcode: "89134"
 city: Blaustein
-street: "Max-Hilsenbeck-Straße"
-housenumber: 2
-phone: "+49 7304 803980"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-14:00"
-website: "https://www.auto-kili.de/"
+street: Max-Hilsenbeck-Straße
+housenumber: "2"
+phone: +49 7304 803980
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-14:00
+website: https://www.auto-kili.de/

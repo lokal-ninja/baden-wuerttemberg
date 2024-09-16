@@ -4,8 +4,8 @@ latitude: 49.10574
 longitude: 8.47292
 postcode: "76297"
 city: Stutensee
-street: "Lessingstraße"
-housenumber: 17
+street: Lessingstraße
+housenumber: "17"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

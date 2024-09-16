@@ -1,11 +1,11 @@
 id: 275760099
-type: way
+type: node
 latitude: 47.83721
 longitude: 8.86338
 postcode: "78267"
 city: Aach
-street: "Im Hirtenstall"
-housenumber: 1
+street: Im Hirtenstall
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://aach.grafhardenberg.de"
+website: http://aach.grafhardenberg.de

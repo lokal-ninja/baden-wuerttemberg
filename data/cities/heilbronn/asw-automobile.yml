@@ -1,11 +1,11 @@
 id: 110308544
-type: way
+type: node
 latitude: 49.12291
 longitude: 9.22266
 postcode: "74074"
 city: Heilbronn
-street: "Stuttgarter Straße"
-housenumber: 101
+street: Stuttgarter Straße
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

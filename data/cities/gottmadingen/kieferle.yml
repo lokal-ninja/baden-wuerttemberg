@@ -1,11 +1,11 @@
 id: 295251842
-type: way
+type: node
 latitude: 47.72155
 longitude: 8.75321
 postcode: "78244"
 city: Gottmadingen
-street: "Kronenstraße"
-housenumber: 12
+street: Kronenstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

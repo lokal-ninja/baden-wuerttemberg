@@ -4,8 +4,8 @@ latitude: 48.77554
 longitude: 9.15917
 postcode: "70176"
 city: Stuttgart
-street: "Schloßstraße"
-housenumber: 110
-phone: "+49 179 238 11 32"
-opening_hours: "Mo-Th 09:00-15:00; Th,Fr 09:00-10:00; ab 18 Uhr und Samstag nach Vereinbarung"
-website: "https://www.makeup-esperesb.com/"
+street: Schloßstraße
+housenumber: "110"
+phone: +49 179 238 11 32
+opening_hours: Mo-Th 09:00-15:00; Th,Fr 09:00-10:00; "ab 18 Uhr und Samstag nach Vereinbarung"
+website: https://www.makeup-esperesb.com/

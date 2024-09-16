@@ -1,11 +1,11 @@
 id: 32241888
-type: way
+type: node
 latitude: 48.60749
 longitude: 9.48891
 postcode: "73266"
 city: Bissingen an der Teck
-street: "Stahlbrunnstraße"
-housenumber: 2
+street: Stahlbrunnstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

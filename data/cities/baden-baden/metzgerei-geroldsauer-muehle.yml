@@ -4,8 +4,8 @@ latitude: 48.73489
 longitude: 8.25407
 postcode: "76534"
 city: Baden-Baden
-street: "Geroldsauer Straße"
-housenumber: 54
-phone: "+49 7221 99646870"
-opening_hours: "Mo-Sa 08:30-19:00; Su 11:00-18:00"
-website: "https://www.geroldsauermuehle.de/metzgerei"
+street: Geroldsauer Straße
+housenumber: "54"
+phone: +49 7221 99646870
+opening_hours: Mo-Sa 08:30-19:00; Su 11:00-18:00
+website: https://www.geroldsauermuehle.de/metzgerei

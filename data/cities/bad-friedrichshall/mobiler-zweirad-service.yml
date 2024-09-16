@@ -1,11 +1,11 @@
 id: 48520768
-type: way
+type: node
 latitude: 49.26607
 longitude: 9.22453
 postcode: "74177"
 city: Bad Friedrichshall
-street: "Kressbacher Straße"
-housenumber: 6
+street: Kressbacher Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

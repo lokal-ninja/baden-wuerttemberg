@@ -1,11 +1,11 @@
 id: 206397644
-type: way
+type: node
 latitude: 48.77724
 longitude: 9.79585
 postcode: "73529"
 city: Schwäbisch Gmünd
-street: "Donzdorfer Straße"
-housenumber: 7
+street: Donzdorfer Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

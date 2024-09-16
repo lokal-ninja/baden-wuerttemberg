@@ -1,11 +1,11 @@
 id: 371496676
-type: way
+type: node
 latitude: 48.71853
 longitude: 9.40924
 postcode: "73207"
 city: Plochingen
-street: "Fabrikstraße"
-housenumber: 36
+street: Fabrikstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

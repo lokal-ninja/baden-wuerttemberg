@@ -1,11 +1,11 @@
 id: 289092926
-type: way
+type: node
 latitude: 48.77724
 longitude: 8.2138
 postcode: "76532"
 city: Baden-Baden
-street: "Schwarzwaldstraße"
-housenumber: 42
+street: Schwarzwaldstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/baden-baden/schwarzwaldstrasse-42"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/baden-baden/schwarzwaldstrasse-42

@@ -1,11 +1,11 @@
 id: 350447239
-type: way
+type: node
 latitude: 48.81693
 longitude: 9.16693
 postcode: "70469"
 city: Stuttgart
-street: "Vera-Vollmer-Straße"
-housenumber: 4
+street: Vera-Vollmer-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.b-cars.de/"
+website: http://www.b-cars.de/

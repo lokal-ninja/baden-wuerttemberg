@@ -1,11 +1,11 @@
 id: 93052077
-type: way
+type: node
 latitude: 48.87827
 longitude: 8.27109
 postcode: "76461"
 city: Muggensturm
-street: "Hauptstraße"
-housenumber: 143
+street: Hauptstraße
+housenumber: "143"
 phone: ""
 opening_hours: ""
 website: ""

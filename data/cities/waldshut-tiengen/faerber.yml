@@ -4,8 +4,8 @@ latitude: 47.61017
 longitude: 8.23377
 postcode: "79761"
 city: Waldshut-Tiengen
-street: "Konstanzer Straße"
-housenumber: 12
-phone: "+49 7751 83110"
-opening_hours: "Mo-Fr 06:00-12:00,12:30-14:00; We 06:00-12:00; Sa 08:00-11:00"
-website: "https://www.faerber.de/waldshut"
+street: Konstanzer Straße
+housenumber: "12"
+phone: +49 7751 83110
+opening_hours: Mo-Fr 06:00-12:00,12:30-14:00; We 06:00-12:00; Sa 08:00-11:00
+website: https://www.faerber.de/waldshut

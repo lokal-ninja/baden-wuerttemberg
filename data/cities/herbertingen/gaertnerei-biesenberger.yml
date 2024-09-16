@@ -1,11 +1,11 @@
 id: 464936193
-type: way
+type: node
 latitude: 48.0639
 longitude: 9.43861
 postcode: "88518"
 city: Herbertingen
-street: "Friedhofstraße"
-housenumber: 12
+street: Friedhofstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 45518398
-type: way
+type: node
 latitude: 49.17843
 longitude: 9.22127
 postcode: "74172"
 city: Neckarsulm
-street: "Rötelstraße"
-housenumber: 21
+street: Rötelstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

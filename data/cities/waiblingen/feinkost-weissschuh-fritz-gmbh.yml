@@ -1,11 +1,11 @@
 id: 121895910
-type: way
+type: node
 latitude: 48.82621
 longitude: 9.31337
 postcode: "71332"
 city: Waiblingen
-street: "Mayenner Straße"
-housenumber: 43
-phone: "+49 7151 958890"
+street: Mayenner Straße
+housenumber: "43"
+phone: +49 7151 958890
 opening_hours: ""
 website: ""

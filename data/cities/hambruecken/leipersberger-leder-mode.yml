@@ -4,8 +4,8 @@ latitude: 49.17938
 longitude: 8.54886
 postcode: "76707"
 city: Hambrücken
-street: "Hofäckerstraße"
-housenumber: 2
+street: Hofäckerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.leder-mo.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.leder-mo.de/

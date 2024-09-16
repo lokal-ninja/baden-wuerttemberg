@@ -1,11 +1,11 @@
 id: 739988281
-type: way
+type: node
 latitude: 48.51876
 longitude: 8.82976
 postcode: "71149"
 city: Bondorf
-street: "Ergenzinger Straße"
-housenumber: 71
+street: Ergenzinger Straße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

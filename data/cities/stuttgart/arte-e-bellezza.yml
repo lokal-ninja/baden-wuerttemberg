@@ -4,8 +4,8 @@ latitude: 48.71904
 longitude: 9.11564
 postcode: "70565"
 city: Stuttgart
-street: "Osterbronnstraße"
-housenumber: 68
+street: Osterbronnstraße
+housenumber: "68"
 phone: "+4971140189727"
-opening_hours: "Tu,Fr 09:00-19:00; We,Th 09:00-18:00; Sa 08:00-14:00"
-website: "https://www.arteebellezza.de/"
+opening_hours: Tu,Fr 09:00-19:00; We,Th 09:00-18:00; Sa 08:00-14:00
+website: https://www.arteebellezza.de/

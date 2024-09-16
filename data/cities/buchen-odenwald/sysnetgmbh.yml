@@ -1,11 +1,11 @@
 id: 51451173
-type: way
+type: node
 latitude: 49.50939
 longitude: 9.31643
 postcode: "74722"
 city: Buchen (Odenwald)
-street: "Carl-Benz-Straße"
-housenumber: 9
+street: Carl-Benz-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

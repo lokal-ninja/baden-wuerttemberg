@@ -1,11 +1,11 @@
 id: 158683737
-type: way
+type: node
 latitude: 48.94582
 longitude: 8.38067
 postcode: "76275"
 city: Ettlingen
-street: "Englerstraße"
-housenumber: 20
+street: Englerstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

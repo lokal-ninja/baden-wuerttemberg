@@ -1,11 +1,11 @@
 id: 299873148
-type: way
+type: node
 latitude: 48.30046
 longitude: 8.22156
 postcode: "77709"
 city: Wolfach
-street: "Vorstadtstraße"
-housenumber: 45
+street: Vorstadtstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:00;Mo-Tu,Th-Fr 14:30-18:00;PH closed"
+opening_hours: Mo-Sa 08:30-12:00;Mo-Tu,Th-Fr 14:30-18:00;PH closed
 website: ""

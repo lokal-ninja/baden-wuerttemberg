@@ -1,11 +1,11 @@
 id: 96127767
-type: way
+type: node
 latitude: 48.77321
 longitude: 8.1729
 postcode: "76547"
 city: Sinzheim
-street: "Industriestraße"
-housenumber: 16
+street: Industriestraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de

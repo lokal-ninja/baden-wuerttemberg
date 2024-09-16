@@ -4,8 +4,8 @@ latitude: 49.40508
 longitude: 8.68592
 postcode: "69115"
 city: Heidelberg
-street: "Bahnhofstraße"
-housenumber: 57
+street: Bahnhofstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Sa 11:00-18:00; Tu-Fr 11:00-18:00; Mo,Su,PH off"
+opening_hours: Sa 11:00-18:00; Tu-Fr 11:00-18:00; Mo,Su,PH off
 website: ""

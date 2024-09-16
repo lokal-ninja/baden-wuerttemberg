@@ -1,11 +1,11 @@
 id: 191722621
-type: way
+type: node
 latitude: 48.98901
 longitude: 9.36291
 postcode: ""
 city: Aspach
-street: "Kirchberger Straße"
-housenumber: 36
+street: Kirchberger Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

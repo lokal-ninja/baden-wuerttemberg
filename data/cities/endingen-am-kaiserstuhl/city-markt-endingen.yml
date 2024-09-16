@@ -4,8 +4,8 @@ latitude: 48.14139
 longitude: 7.70423
 postcode: "79346"
 city: Endingen am Kaiserstuhl
-street: "Ritterstraße"
-housenumber: 1
-phone: "+49 7642 928548 0"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://edeka-schwoerer.de/city-markt-endingen/"
+street: Ritterstraße
+housenumber: "1"
+phone: +49 7642 928548 0
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://edeka-schwoerer.de/city-markt-endingen/

@@ -4,8 +4,8 @@ latitude: 49.01001
 longitude: 8.39808
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 120
-phone: "+49 721 1203990"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.hunkemoller.de/filiale/karlsruhe/kaiserstrasse-120"
+street: Kaiserstraße
+housenumber: "120"
+phone: +49 721 1203990
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.hunkemoller.de/filiale/karlsruhe/kaiserstrasse-120

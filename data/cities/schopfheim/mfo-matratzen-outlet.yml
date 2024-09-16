@@ -1,11 +1,11 @@
 id: 101622514
-type: way
+type: node
 latitude: 47.64695
 longitude: 7.81007
 postcode: "79650"
 city: Schopfheim
-street: "Gündenhausen"
-housenumber: 36
+street: Gündenhausen
+housenumber: "36"
 phone: "+4976226676638"
-opening_hours: "Mo-Fr 14:00-19:00; Mo-Sa 10:00-13:00; Sa 14:00-18:00"
+opening_hours: Mo-Fr 14:00-19:00; Mo-Sa 10:00-13:00; Sa 14:00-18:00
 website: ""

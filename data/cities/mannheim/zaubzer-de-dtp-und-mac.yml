@@ -4,8 +4,8 @@ latitude: 49.5401
 longitude: 8.4695
 postcode: "68307"
 city: Mannheim
-street: "Stettiner Straße"
-housenumber: 31
-phone: "+49 621 771981"
-opening_hours: "nach Vereinbarung"
+street: Stettiner Straße
+housenumber: "31"
+phone: +49 621 771981
+opening_hours: '"nach Vereinbarung"'
 website: ""

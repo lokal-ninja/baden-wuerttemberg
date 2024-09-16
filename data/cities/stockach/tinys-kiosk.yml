@@ -1,11 +1,11 @@
 id: 498094125
-type: way
+type: node
 latitude: 47.85398
 longitude: 9.01491
 postcode: "78333"
 city: Stockach
-street: "Zoznegger Straße"
-housenumber: 6
+street: Zoznegger Straße
+housenumber: "6"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 99698070
-type: way
+type: node
 latitude: 48.08368
 longitude: 9.79181
 postcode: "88400"
 city: Biberach an der Riß
-street: "Schlierenbachstraße"
-housenumber: 35
+street: Schlierenbachstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

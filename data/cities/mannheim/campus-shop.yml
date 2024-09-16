@@ -4,8 +4,8 @@ latitude: 49.48299
 longitude: 8.46448
 postcode: "68161"
 city: Mannheim
-street: "Bismarckstraße"
-housenumber: 40
-phone: "+49 621 1811215"
+street: Bismarckstraße
+housenumber: "40"
+phone: +49 621 1811215
 opening_hours: ""
-website: "https://shop.uni-mannheim.de/"
+website: https://shop.uni-mannheim.de/

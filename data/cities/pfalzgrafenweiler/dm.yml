@@ -4,8 +4,8 @@ latitude: 48.5369
 longitude: 8.57127
 postcode: "72285"
 city: Pfalzgrafenweiler
-street: "Dieselstraße"
-housenumber: 7
-phone: "+49 7445 857617"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+street: Dieselstraße
+housenumber: "7"
+phone: +49 7445 857617
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

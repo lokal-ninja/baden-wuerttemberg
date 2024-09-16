@@ -1,11 +1,11 @@
 id: 30293324
-type: way
+type: node
 latitude: 49.23659
 longitude: 8.76739
 postcode: "74918"
 city: Angelbachtal
-street: "Wusseldornstraße"
-housenumber: 1
+street: Wusseldornstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

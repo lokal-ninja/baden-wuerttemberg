@@ -1,11 +1,11 @@
 id: 27489299
-type: way
+type: node
 latitude: 48.84531
 longitude: 8.54116
 postcode: "75334"
 city: Straubenhardt
-street: "Bernsteinstraße"
-housenumber: 6
-phone: "+49 7082 50001"
+street: Bernsteinstraße
+housenumber: "6"
+phone: +49 7082 50001
 opening_hours: ""
-website: "https://die-wohnidee.de/"
+website: https://die-wohnidee.de/

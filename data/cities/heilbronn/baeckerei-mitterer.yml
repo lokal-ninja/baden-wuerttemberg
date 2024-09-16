@@ -4,8 +4,8 @@ latitude: 49.12332
 longitude: 9.2018
 postcode: "74081"
 city: Heilbronn
-street: "Mauerstraße"
-housenumber: 78
-phone: "+49 7131 2717337"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.haerdtner.de"
+street: Mauerstraße
+housenumber: "78"
+phone: +49 7131 2717337
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.haerdtner.de

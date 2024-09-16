@@ -1,11 +1,11 @@
 id: 30685336
-type: way
+type: node
 latitude: 48.81194
 longitude: 8.95576
 postcode: "71277"
 city: Rutesheim
-street: "Dieselstraße"
-housenumber: 7
+street: Dieselstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

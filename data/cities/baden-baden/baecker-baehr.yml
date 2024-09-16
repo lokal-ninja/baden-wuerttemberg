@@ -4,8 +4,8 @@ latitude: 48.72219
 longitude: 8.18385
 postcode: "76534"
 city: Baden-Baden
-street: "Mauerbergstraße"
-housenumber: 79
-phone: "+49 7223 807890"
-opening_hours: "Mo,Tu,Th,Fr 06:00-12:30,14:00-18:00; We,Sa 06:00-12:30"
-website: "https://baecker-baehr.de/filiale-neuweier/"
+street: Mauerbergstraße
+housenumber: "79"
+phone: +49 7223 807890
+opening_hours: Mo,Tu,Th,Fr 06:00-12:30,14:00-18:00; We,Sa 06:00-12:30
+website: https://baecker-baehr.de/filiale-neuweier/

@@ -1,11 +1,11 @@
 id: 117462111
-type: way
+type: node
 latitude: 47.67127
 longitude: 9.59259
 postcode: "88069"
 city: Tettnang
-street: "Bachstraße"
-housenumber: 19
+street: Bachstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "http://www.direkt-express-tettnang.de/"
+website: http://www.direkt-express-tettnang.de/

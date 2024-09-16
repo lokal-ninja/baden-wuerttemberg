@@ -1,11 +1,11 @@
 id: 371750300
-type: way
+type: node
 latitude: 48.99079
 longitude: 8.37481
 postcode: "76135"
 city: Karlsruhe
-street: "Ortenbergstraße"
-housenumber: 6
+street: Ortenbergstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH,Su off"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Ortenbergstra%C3%9Fe%206%2076135%20Karlsruhe&Mode=None"
+opening_hours: Mo-Sa 08:00-21:00; PH,Su off
+website: https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Ortenbergstra%C3%9Fe%206%2076135%20Karlsruhe&Mode=None

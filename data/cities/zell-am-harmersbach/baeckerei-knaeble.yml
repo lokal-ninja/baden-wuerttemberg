@@ -1,11 +1,11 @@
 id: 344119207
-type: way
+type: node
 latitude: 48.34909
 longitude: 8.07139
 postcode: "77736"
 city: Zell am Harmersbach
-street: "Hauptstraße"
-housenumber: 107
+street: Hauptstraße
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

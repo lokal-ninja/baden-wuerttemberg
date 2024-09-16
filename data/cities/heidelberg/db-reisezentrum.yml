@@ -1,11 +1,11 @@
 id: 462362699
-type: way
+type: node
 latitude: 49.40449
 longitude: 8.67563
 postcode: "69115"
 city: Heidelberg
-street: "Willy-Brandt-Platz"
-housenumber: 5
+street: Willy-Brandt-Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa,Su,PH 09:00-19:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa,Su,PH 09:00-19:00
 website: ""

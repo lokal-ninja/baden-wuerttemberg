@@ -1,11 +1,11 @@
 id: 39629993
-type: way
+type: node
 latitude: 48.24552
 longitude: 9.18398
 postcode: "72419"
 city: Neufra
-street: "Rathausstraße"
-housenumber: 24
+street: Rathausstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

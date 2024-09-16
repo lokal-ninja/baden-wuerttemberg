@@ -1,11 +1,11 @@
 id: 239663062
-type: way
+type: node
 latitude: 48.79912
 longitude: 9.78479
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Lorcher Straße"
-housenumber: 38
+street: Lorcher Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaussorg.de"
+website: https://www.autohaussorg.de

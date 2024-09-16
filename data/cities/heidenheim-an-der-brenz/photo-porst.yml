@@ -4,8 +4,8 @@ latitude: 48.6755
 longitude: 10.15255
 postcode: "89522"
 city: Heidenheim an der Brenz
-street: "Am Wedelgraben"
-housenumber: 23
-phone: "+49 7321 2 18 95"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 09:30-13:00"
-website: "https://photo-porst-heidenheim.rf-webworld.de"
+street: Am Wedelgraben
+housenumber: "23"
+phone: +49 7321 2 18 95
+opening_hours: Mo-Fr 10:00-17:00; Sa 09:30-13:00
+website: https://photo-porst-heidenheim.rf-webworld.de

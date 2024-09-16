@@ -1,11 +1,11 @@
 id: 436971290
-type: way
+type: node
 latitude: 48.783
 longitude: 9.18117
 postcode: "70173"
 city: Stuttgart
-street: "Klett-Passage"
-housenumber: 
+street: Klett-Passage
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00; Sa 05:00-22:00; PH,Su 05:00-23:00"
+opening_hours: Mo-Fr 05:00-22:00; Sa 05:00-22:00; PH,Su 05:00-23:00
 website: ""

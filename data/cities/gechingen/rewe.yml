@@ -1,11 +1,11 @@
 id: 43972630
-type: way
+type: node
 latitude: 48.69659
 longitude: 8.81855
 postcode: "75391"
 city: Gechingen
-street: "Calwer Straße"
-housenumber: 56
-phone: "+49 7056-200662"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.kaufda.de/Filialen/Gechingen/REWE-Calwer-Strasse/v-f83153979"
+street: Calwer Straße
+housenumber: "56"
+phone: +49 7056-200662
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.kaufda.de/Filialen/Gechingen/REWE-Calwer-Strasse/v-f83153979

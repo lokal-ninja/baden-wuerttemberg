@@ -1,11 +1,11 @@
 id: 138717355
-type: way
+type: node
 latitude: 48.43106
 longitude: 7.81405
 postcode: "77743"
 city: Neuried
-street: "Schopfheimer Straße"
-housenumber: 3
+street: Schopfheimer Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

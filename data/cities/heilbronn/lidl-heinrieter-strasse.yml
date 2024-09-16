@@ -1,11 +1,11 @@
 id: 219517209
-type: way
+type: node
 latitude: 49.12582
 longitude: 9.22426
 postcode: "74074"
 city: Heilbronn
-street: "Heinrieter Straße"
-housenumber: 3
+street: Heinrieter Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.50806
 longitude: 9.20301
 postcode: "72760"
 city: Reutlingen
-street: "Gustav-Groß-Straße"
-housenumber: 10
-phone: "+49 7121 936022"
-opening_hours: "Sa 07:30-13:00; PH,Su off; Mo-Th 08:00-13:00,14:30-18:15; Fr 08:00-18:15"
-website: "http://www.oskar-zeeb.de/fachgeschaefte/reutlingen-zentrale"
+street: Gustav-Groß-Straße
+housenumber: "10"
+phone: +49 7121 936022
+opening_hours: Sa 07:30-13:00; PH,Su off; Mo-Th 08:00-13:00,14:30-18:15; Fr 08:00-18:15
+website: http://www.oskar-zeeb.de/fachgeschaefte/reutlingen-zentrale

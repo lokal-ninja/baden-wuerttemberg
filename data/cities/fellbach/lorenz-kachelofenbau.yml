@@ -1,11 +1,11 @@
 id: 47438893
-type: way
+type: node
 latitude: 48.80618
 longitude: 9.27773
 postcode: "70734"
 city: Fellbach
-street: "Schmerstraße"
-housenumber: 11
-phone: "+49 711 581323"
-opening_hours: "Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:00-13:00, Nach Vereinbarung"
-website: "https://www.lorenz-kachelofenbau.de/"
+street: Schmerstraße
+housenumber: "11"
+phone: +49 711 581323
+opening_hours: Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:00-13:00, "Nach Vereinbarung"
+website: https://www.lorenz-kachelofenbau.de/

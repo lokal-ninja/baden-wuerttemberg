@@ -4,8 +4,9 @@ latitude: 47.9054
 longitude: 9.89502
 postcode: "88410"
 city: Bad Wurzach
-street: "Leutkircher Straße"
+street: Leutkircher Straße
 housenumber: 14/1
-phone: "+49 7564 934398"
-opening_hours: "Mo 08:30-12:00,14:30-17:00; Tu 08:30-12:00; Th-Fr 08:30-12:00,14:30-17:00; Ph off"
+phone: +49 7564 934398
+opening_hours: Mo 08:30-12:00,14:30-17:00; Tu 08:30-12:00; Th-Fr 08:30-12:00,14:30-17:00;
+    Ph off
 website: ""

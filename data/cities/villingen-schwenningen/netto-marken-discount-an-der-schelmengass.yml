@@ -1,11 +1,11 @@
 id: 112523026
-type: way
+type: node
 latitude: 48.0646
 longitude: 8.46067
 postcode: "78048"
 city: Villingen-Schwenningen
-street: "An der Schelmengaß"
-housenumber: 25
+street: An der Schelmengaß
+housenumber: "25"
 phone: ""
-opening_hours: "07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de/"
+opening_hours: 07:00-21:00; Su,PH off
+website: https://www.netto-online.de/

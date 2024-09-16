@@ -1,11 +1,11 @@
 id: 245299735
-type: way
+type: node
 latitude: 48.87517
 longitude: 9.91639
 postcode: "73579"
 city: Schechingen
-street: "Kronenstraße"
-housenumber: 25
+street: Kronenstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 392618924
-type: way
+type: node
 latitude: 48.87487
 longitude: 9.39757
 postcode: "71364"
 city: Winnenden
-street: "Robert-Boehringer-Straße"
-housenumber: 5
-phone: "+49 7195 2095046"
+street: Robert-Boehringer-Straße
+housenumber: "5"
+phone: +49 7195 2095046
 opening_hours: ""
 website: ""

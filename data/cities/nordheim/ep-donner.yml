@@ -4,8 +4,8 @@ latitude: 49.10806
 longitude: 9.13071
 postcode: "74226"
 city: Nordheim
-street: "Hauptstraße"
-housenumber: 45
+street: Hauptstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:15; PH closed"
-website: "http://www.ep-donner.de"
+opening_hours: Mo-Tu,Th-Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:15; PH closed
+website: http://www.ep-donner.de

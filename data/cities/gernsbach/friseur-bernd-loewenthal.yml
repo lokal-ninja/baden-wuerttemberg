@@ -4,8 +4,8 @@ latitude: 48.76302
 longitude: 8.33567
 postcode: "76593"
 city: Gernsbach
-street: "Hofstätte"
-housenumber: 8
-phone: "+49 7224 1612"
-opening_hours: "Tu-Fr 08:30-12:00,13:30-18:00; Sa 08:00-13:00; Su, Mo off"
+street: Hofstätte
+housenumber: "8"
+phone: +49 7224 1612
+opening_hours: Tu-Fr 08:30-12:00,13:30-18:00; Sa 08:00-13:00; Su, Mo off
 website: ""

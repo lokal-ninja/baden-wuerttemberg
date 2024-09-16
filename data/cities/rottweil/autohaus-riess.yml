@@ -4,8 +4,8 @@ latitude: 48.14705
 longitude: 8.64104
 postcode: "78628"
 city: Rottweil
-street: "Rheinwaldstraße"
-housenumber: 2
+street: Rheinwaldstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://riess-gruppe.de/standorte/rottweil/"
+website: https://riess-gruppe.de/standorte/rottweil/

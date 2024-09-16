@@ -1,11 +1,11 @@
 id: 32320649
-type: way
+type: node
 latitude: 48.71156
 longitude: 9.56938
 postcode: "73066"
 city: Uhingen
-street: "Bleichereistraße"
-housenumber: 20
-phone: "+49-7161-9879444"
+street: Bleichereistraße
+housenumber: "20"
+phone: +49-7161-9879444
 opening_hours: ""
 website: ""

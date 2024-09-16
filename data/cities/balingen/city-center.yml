@@ -1,11 +1,11 @@
 id: 143818022
-type: way
+type: node
 latitude: 48.27286
 longitude: 8.84856
 postcode: "72336"
 city: Balingen
-street: "Wilhelmstraße"
-housenumber: 34
+street: Wilhelmstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

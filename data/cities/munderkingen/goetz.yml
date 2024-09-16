@@ -1,11 +1,11 @@
 id: 317014181
-type: way
+type: node
 latitude: 48.23604
 longitude: 9.65373
 postcode: "89597"
 city: Munderkingen
-street: "Ehinger Straße"
-housenumber: 47
+street: Ehinger Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

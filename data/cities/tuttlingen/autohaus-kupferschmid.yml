@@ -1,11 +1,11 @@
 id: 266362102
-type: way
+type: node
 latitude: 47.98966
 longitude: 8.78996
 postcode: "78532"
 city: Tuttlingen
-street: "Faulenbachstraße"
-housenumber: 7
-phone: "+49 7461 96615 30"
+street: Faulenbachstraße
+housenumber: "7"
+phone: +49 7461 96615 30
 opening_hours: ""
-website: "https://www.autohaus-kupferschmid.de/"
+website: https://www.autohaus-kupferschmid.de/

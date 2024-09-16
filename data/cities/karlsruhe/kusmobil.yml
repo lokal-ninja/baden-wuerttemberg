@@ -4,8 +4,8 @@ latitude: 49.00104
 longitude: 8.41032
 postcode: "76137"
 city: Karlsruhe
-street: "Rüppurrer Straße"
-housenumber: 48
-phone: "+49 721 3524532"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "http://www.kusmobil.de/"
+street: Rüppurrer Straße
+housenumber: "48"
+phone: +49 721 3524532
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: http://www.kusmobil.de/

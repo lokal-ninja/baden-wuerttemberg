@@ -1,11 +1,11 @@
 id: 44091547
-type: way
+type: node
 latitude: 48.7251
 longitude: 9.3523
 postcode: "73730"
 city: Esslingen am Neckar
-street: "Alleenstraße"
-housenumber: 32
-phone: "+49 711 9829470"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de"
+street: Alleenstraße
+housenumber: "32"
+phone: +49 711 9829470
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de

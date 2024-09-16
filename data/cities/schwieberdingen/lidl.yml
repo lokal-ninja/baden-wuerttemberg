@@ -1,11 +1,11 @@
 id: 44294473
-type: way
+type: node
 latitude: 48.87279
 longitude: 9.08759
 postcode: "71701"
 city: Schwieberdingen
-street: "Im Seelach"
-housenumber: 51
+street: Im Seelach
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

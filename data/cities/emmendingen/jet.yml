@@ -1,11 +1,11 @@
 id: 270171049
-type: way
+type: node
 latitude: 48.10794
 longitude: 7.8501
 postcode: "79312"
 city: Emmendingen
-street: "Denzlinger Straße"
-housenumber: 48
+street: Denzlinger Straße
+housenumber: "48"
 phone: "+4976419333182"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

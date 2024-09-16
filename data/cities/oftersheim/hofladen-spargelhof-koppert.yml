@@ -1,11 +1,11 @@
 id: 596436115
-type: way
+type: node
 latitude: 49.36904
 longitude: 8.58354
 postcode: "68723"
 city: Oftersheim
-street: "Mannheimer Straße"
-housenumber: 45
+street: Mannheimer Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Apr-Jun Mo-Su 08:00-19:00"
+opening_hours: Apr-Jun Mo-Su 08:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 143733351
-type: way
+type: node
 latitude: 49.22778
 longitude: 9.19019
 postcode: "74206"
 city: Bad Wimpfen
-street: "Lohwasenweg"
-housenumber: 1
-phone: "+49 7063 950054"
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-13:00"
-website: "https://www.citroen-haendler.de/"
+street: Lohwasenweg
+housenumber: "1"
+phone: +49 7063 950054
+opening_hours: Mo-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-13:00
+website: https://www.citroen-haendler.de/

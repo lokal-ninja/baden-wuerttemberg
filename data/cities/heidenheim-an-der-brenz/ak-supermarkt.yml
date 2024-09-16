@@ -1,11 +1,11 @@
 id: 295420020
-type: way
+type: node
 latitude: 48.67654
 longitude: 10.15598
 postcode: "89522"
 city: Heidenheim an der Brenz
-street: "Ploucquetstraße"
-housenumber: 8
+street: Ploucquetstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

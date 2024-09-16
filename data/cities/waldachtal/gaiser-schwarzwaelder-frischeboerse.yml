@@ -1,11 +1,11 @@
 id: 293713443
-type: way
+type: node
 latitude: 48.49234
 longitude: 8.60119
 postcode: "72178"
 city: Waldachtal
-street: "Seeweg"
-housenumber: 30
+street: Seeweg
+housenumber: "30"
 phone: ""
-opening_hours: "Mo,We-Fr 06:00-12:00,13:30-17:30; Tu 06:30-13:30; Sa 06:30-12:00"
+opening_hours: Mo,We-Fr 06:00-12:00,13:30-17:30; Tu 06:30-13:30; Sa 06:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 280085604
-type: way
+type: node
 latitude: 47.95824
 longitude: 8.76283
 postcode: "78532"
 city: Tuttlingen
-street: "Schwarzwaldstraße"
-housenumber: 23
+street: Schwarzwaldstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

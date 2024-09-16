@@ -4,8 +4,8 @@ latitude: 48.73073
 longitude: 9.3308
 postcode: "73730"
 city: Esslingen am Neckar
-street: "Plochinger Straße"
-housenumber: 115
-phone: "+49 711 9315925"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka.de"
+street: Plochinger Straße
+housenumber: "115"
+phone: +49 711 9315925
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka.de

@@ -1,11 +1,11 @@
 id: 160208556
-type: way
+type: node
 latitude: 49.42783
 longitude: 10.11778
 postcode: "97993"
 city: Creglingen
 street: ""
-housenumber: 42
-phone: "+49 7933 7009909"
+housenumber: "42"
+phone: +49 7933 7009909
 opening_hours: ""
 website: ""

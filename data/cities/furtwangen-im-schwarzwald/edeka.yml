@@ -1,11 +1,11 @@
 id: 482835663
-type: way
+type: node
 latitude: 48.04798
 longitude: 8.20006
 postcode: "78120"
 city: Furtwangen im Schwarzwald
-street: "Bregstraße"
-housenumber: 11
+street: Bregstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

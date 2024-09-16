@@ -1,11 +1,11 @@
 id: 221958042
-type: way
+type: node
 latitude: 48.8685
 longitude: 8.18986
 postcode: "76437"
 city: Rastatt
-street: "Dr.-Schleyer-Straße"
-housenumber: 9
+street: Dr.-Schleyer-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"
-website: "http://www.buero-schwab.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30
+website: http://www.buero-schwab.de/

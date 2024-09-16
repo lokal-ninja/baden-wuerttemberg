@@ -4,8 +4,8 @@ latitude: 47.72757
 longitude: 9.35067
 postcode: "88697"
 city: Bermatingen
-street: "Ringstraße"
-housenumber: 21
-phone: "+49 7544 912138"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.bobtec.de/"
+street: Ringstraße
+housenumber: "21"
+phone: +49 7544 912138
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.bobtec.de/

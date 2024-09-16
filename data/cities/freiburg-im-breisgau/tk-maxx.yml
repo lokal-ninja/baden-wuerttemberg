@@ -4,8 +4,8 @@ latitude: 47.99444
 longitude: 7.85045
 postcode: "79098"
 city: Freiburg im Breisgau
-street: "Salzstraße"
-housenumber: 12
+street: Salzstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.tkmaxx.de/filialen/TK_Maxx_Freiburg"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.tkmaxx.de/filialen/TK_Maxx_Freiburg

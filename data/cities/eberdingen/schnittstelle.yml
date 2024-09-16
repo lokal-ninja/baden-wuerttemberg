@@ -1,11 +1,12 @@
 id: 98957024
-type: way
+type: node
 latitude: 48.87797
 longitude: 8.96515
 postcode: "71735"
 city: Eberdingen
-street: "Stuttgarter Straße"
-housenumber: 45
-phone: "+49 7042 77233"
-opening_hours: "Tu-We 08:00-12:00,13:30-18:00; Th 08:00-12:00,13:30-19:00; Fr 08:00-12:00,13:30-18:30; Sa 08:00-13:00; PH,Mo,Su off"
+street: Stuttgarter Straße
+housenumber: "45"
+phone: +49 7042 77233
+opening_hours: Tu-We 08:00-12:00,13:30-18:00; Th 08:00-12:00,13:30-19:00; Fr 08:00-12:00,13:30-18:30;
+    Sa 08:00-13:00; PH,Mo,Su off
 website: ""

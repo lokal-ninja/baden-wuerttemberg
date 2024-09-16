@@ -1,11 +1,11 @@
 id: 503959494
-type: way
+type: node
 latitude: 49.51509
 longitude: 9.74944
 postcode: "97980"
 city: Bad Mergentheim
-street: "Theobaldstraße"
-housenumber: 24
+street: Theobaldstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

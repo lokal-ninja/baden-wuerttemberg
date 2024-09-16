@@ -1,11 +1,11 @@
 id: 140428392
-type: way
+type: node
 latitude: 48.24351
 longitude: 9.0909
 postcode: "72475"
 city: Bitz
-street: "Kirchstraße"
-housenumber: 10
-phone: "+49 7431 9353985"
-opening_hours: "nach Absprache"
-website: "http://www.barbierundbar.de"
+street: Kirchstraße
+housenumber: "10"
+phone: +49 7431 9353985
+opening_hours: '"nach Absprache"'
+website: http://www.barbierundbar.de

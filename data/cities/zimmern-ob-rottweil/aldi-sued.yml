@@ -1,11 +1,11 @@
 id: 136758062
-type: way
+type: node
 latitude: 48.17127
 longitude: 8.57417
 postcode: "78658"
 city: Zimmern ob Rottweil
-street: "Raiffeisenstraße"
-housenumber: 5
+street: Raiffeisenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00, Su off"
+opening_hours: Mo-Sa 08:00-20:00, Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 424325276
-type: way
+type: node
 latitude: 48.46622
 longitude: 8.67315
 postcode: "72160"
 city: Horb am Neckar
-street: "Industriestraße"
-housenumber: 49
+street: Industriestraße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

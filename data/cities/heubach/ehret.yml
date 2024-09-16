@@ -1,11 +1,11 @@
 id: 227571344
-type: way
+type: node
 latitude: 48.80164
 longitude: 9.94078
 postcode: "73540"
 city: Heubach
-street: "Mögglinger Straße"
-housenumber: 83
+street: Mögglinger Straße
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 126246553
-type: way
+type: node
 latitude: 47.9811
 longitude: 7.90304
 postcode: "79117"
 city: Freiburg im Breisgau
-street: "Kappler Straße"
-housenumber: 52
-phone: "+49 761 659 54"
-opening_hours: "Mo-Fr 08:00-12:00; Mo-Fr 13:00-17:30"
+street: Kappler Straße
+housenumber: "52"
+phone: +49 761 659 54
+opening_hours: Mo-Fr 08:00-12:00; Mo-Fr 13:00-17:30
 website: ""

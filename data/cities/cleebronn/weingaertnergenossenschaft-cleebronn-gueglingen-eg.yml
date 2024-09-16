@@ -1,11 +1,11 @@
 id: 213538976
-type: way
+type: node
 latitude: 49.06483
 longitude: 9.03053
 postcode: ""
 city: Cleebronn
-street: "Ranspacher Straße"
-housenumber: 1
+street: Ranspacher Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

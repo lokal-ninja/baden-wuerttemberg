@@ -1,11 +1,11 @@
 id: 122192231
-type: way
+type: node
 latitude: 49.42748
 longitude: 9.15384
 postcode: "74864"
 city: Fahrenbach
-street: "Tannenstraße"
-housenumber: 2
+street: Tannenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

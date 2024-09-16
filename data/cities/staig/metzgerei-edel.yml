@@ -1,11 +1,11 @@
 id: 387942357
-type: way
+type: node
 latitude: 48.3028
 longitude: 9.98088
 postcode: "89195"
 city: Staig
-street: "Bauernweg"
-housenumber: 20
+street: Bauernweg
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:30, Sa 07:00-12:00, Tu,Th 14:30-18:00, Fr 14:00-18:00"
+opening_hours: Tu-Fr 08:00-12:30, Sa 07:00-12:00, Tu,Th 14:30-18:00, Fr 14:00-18:00
 website: ""

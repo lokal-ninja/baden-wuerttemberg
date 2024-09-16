@@ -4,8 +4,8 @@ latitude: 48.77076
 longitude: 9.15772
 postcode: "70197"
 city: Stuttgart
-street: "Schwabstraße"
-housenumber: 43
+street: Schwabstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00"
-website: "https://www.baeckerhaus-veit.de/"
+opening_hours: Mo-Sa 07:00-23:00
+website: https://www.baeckerhaus-veit.de/

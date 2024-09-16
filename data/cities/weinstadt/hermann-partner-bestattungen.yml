@@ -4,8 +4,8 @@ latitude: 48.80559
 longitude: 9.38636
 postcode: "71384"
 city: Weinstadt
-street: "Bundschuhweg"
-housenumber: 3
-phone: "+49 7151 64040"
-opening_hours: "Nach Vereinbarung"
-website: "https://www.hermann-partner.de/"
+street: Bundschuhweg
+housenumber: "3"
+phone: +49 7151 64040
+opening_hours: '"Nach Vereinbarung"'
+website: https://www.hermann-partner.de/

@@ -1,11 +1,11 @@
 id: 378496358
-type: way
+type: node
 latitude: 48.68521
 longitude: 8.05877
 postcode: "77833"
 city: Ottersweier
-street: "Richard-Weber-Straße"
-housenumber: 7
-phone: "+49 7223 24374"
+street: Richard-Weber-Straße
+housenumber: "7"
+phone: +49 7223 24374
 opening_hours: ""
-website: "https://www.metzgerei-zuber.de/ottersweier-unzhurst.html"
+website: https://www.metzgerei-zuber.de/ottersweier-unzhurst.html

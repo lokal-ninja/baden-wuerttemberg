@@ -1,11 +1,11 @@
 id: 149256866
-type: way
+type: node
 latitude: 48.67878
 longitude: 10.1523
 postcode: "89518"
 city: Heidenheim an der Brenz
-street: "Karlstraße"
-housenumber: 4
+street: Karlstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.thalia.de"
+website: https://www.thalia.de

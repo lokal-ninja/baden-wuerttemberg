@@ -1,11 +1,11 @@
 id: 661799713
-type: way
+type: node
 latitude: 48.48048
 longitude: 7.92336
 postcode: "77656"
 city: Offenburg
-street: "Edekastraße"
-housenumber: 2
+street: Edekastraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.ortenauerweinkeller.de/"
+website: https://www.ortenauerweinkeller.de/

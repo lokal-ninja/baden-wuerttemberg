@@ -1,11 +1,11 @@
 id: 42712115
-type: way
+type: node
 latitude: 48.88411
 longitude: 10.09489
 postcode: "73460"
 city: Hüttlingen
-street: "Kocherstraße"
-housenumber: 17
+street: Kocherstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.bikesandmoreshop.de"
+website: https://www.bikesandmoreshop.de

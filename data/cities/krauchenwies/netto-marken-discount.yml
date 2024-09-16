@@ -1,11 +1,11 @@
 id: 119428062
-type: way
+type: node
 latitude: 48.01707
 longitude: 9.24362
 postcode: "72505"
 city: Krauchenwies
-street: "Bittelschießer Straße"
-housenumber: 28
+street: Bittelschießer Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 92114506
-type: way
+type: node
 latitude: 48.87785
 longitude: 8.27311
 postcode: "76461"
 city: Muggensturm
-street: "Heinkelstraße"
-housenumber: 4
+street: Heinkelstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.reifen-vorka.de/"
+website: https://www.reifen-vorka.de/

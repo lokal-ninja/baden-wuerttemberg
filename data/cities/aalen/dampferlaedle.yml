@@ -4,8 +4,8 @@ latitude: 48.83923
 longitude: 10.09213
 postcode: "73430"
 city: Aalen
-street: "Beinstraße"
-housenumber: 36
+street: Beinstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:00, Sa 10:00-15:00"
-website: "http://happyvape.de/"
+opening_hours: Mo-Fr 12:00-18:00, Sa 10:00-15:00
+website: http://happyvape.de/

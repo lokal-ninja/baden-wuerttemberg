@@ -1,11 +1,11 @@
 id: 149198536
-type: way
+type: node
 latitude: 47.70719
 longitude: 9.26696
 postcode: "88718"
 city: Daisendorf
-street: "Meersburger Straße"
-housenumber: 2
+street: Meersburger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo, Tu, Th-Su 06:30-10:30"
+opening_hours: Mo, Tu, Th-Su 06:30-10:30
 website: ""

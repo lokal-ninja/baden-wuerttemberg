@@ -4,8 +4,8 @@ latitude: 49.48638
 longitude: 8.53467
 postcode: "68259"
 city: Mannheim
-street: "Hauptstraße"
-housenumber: 31
-phone: "+49 621 43671478"
-opening_hours: "Mo-Th 09:30-13:00,14:30-18:00; Fr 09:30-18:00; Sa 09:30-13:00"
-website: "https://www.lieblings-boutique.com/stores/feudenheim/"
+street: Hauptstraße
+housenumber: "31"
+phone: +49 621 43671478
+opening_hours: Mo-Th 09:30-13:00,14:30-18:00; Fr 09:30-18:00; Sa 09:30-13:00
+website: https://www.lieblings-boutique.com/stores/feudenheim/

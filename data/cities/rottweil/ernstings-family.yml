@@ -4,8 +4,8 @@ latitude: 48.14896
 longitude: 8.64
 postcode: "78628"
 city: Rottweil
-street: "Saline"
-housenumber: 5
+street: Saline
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.ernstings-family.de"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.ernstings-family.de

@@ -1,11 +1,11 @@
 id: 305041386
-type: way
+type: node
 latitude: 48.19021
 longitude: 8.92142
 postcode: "72469"
 city: Meßstetten
-street: "Tieringer Straße"
-housenumber: 1
-phone: "+49 7436 1317"
+street: Tieringer Straße
+housenumber: "1"
+phone: +49 7436 1317
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 389008303
-type: way
+type: node
 latitude: 48.43205
 longitude: 7.9863
 postcode: "77797"
 city: Ohlsbach
-street: "Carl-Benz-Straße"
-housenumber: 32
+street: Carl-Benz-Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

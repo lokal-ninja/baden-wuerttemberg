@@ -1,11 +1,11 @@
 id: 1260655865
-type: way
+type: node
 latitude: 49.42394
 longitude: 8.67827
 postcode: "69121"
 city: Heidelberg
-street: "Berliner Straße"
-housenumber: 93
+street: Berliner Straße
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.blumen-elfner.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.blumen-elfner.de/

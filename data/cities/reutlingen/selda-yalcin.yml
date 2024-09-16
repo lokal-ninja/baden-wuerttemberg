@@ -4,8 +4,8 @@ latitude: 48.49353
 longitude: 9.20923
 postcode: "72764"
 city: Reutlingen
-street: "Federnseestraße"
+street: Federnseestraße
 housenumber: 1/1
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa: 08:00-15:00; Mo off"
+opening_hours: 'Tu-Fr 09:00-18:00; Sa: 08:00-15:00; Mo off'
 website: ""

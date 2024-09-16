@@ -1,11 +1,11 @@
 id: 104909868
-type: way
+type: node
 latitude: 47.73613
 longitude: 8.84798
 postcode: "78239"
 city: Rielasingen-Worblingen
-street: "Werner-von-Siemens-Straße"
-housenumber: 3
+street: Werner-von-Siemens-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/rielasingen-worblingen/werner-von-siemens-strasse-3"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/rielasingen-worblingen/werner-von-siemens-strasse-3

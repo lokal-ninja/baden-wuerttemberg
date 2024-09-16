@@ -4,8 +4,8 @@ latitude: 47.65202
 longitude: 9.47607
 postcode: "88045"
 city: Friedrichshafen
-street: "Friedrichstraße"
-housenumber: 59
+street: Friedrichstraße
+housenumber: "59"
 phone: ""
-opening_hours: "09:00-19:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.tedi.com/"
+opening_hours: 09:00-19:00; Sa 09:00-16:00; Su,PH off
+website: https://www.tedi.com/

@@ -1,11 +1,11 @@
 id: 507737177
-type: way
+type: node
 latitude: 47.97526
 longitude: 9.40858
 postcode: "88356"
 city: Ostrach
-street: "Ortsstraße"
-housenumber: 28
+street: Ortsstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 227520863
-type: way
+type: node
 latitude: 48.05205
 longitude: 8.20589
 postcode: "78120"
 city: Furtwangen im Schwarzwald
-street: "Marktplatz"
-housenumber: 12
+street: Marktplatz
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

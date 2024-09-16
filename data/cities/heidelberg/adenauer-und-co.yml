@@ -4,8 +4,8 @@ latitude: 49.41084
 longitude: 8.70049
 postcode: "69117"
 city: Heidelberg
-street: "Hauptstraße"
-housenumber: 84
+street: Hauptstraße
+housenumber: "84"
 phone: ""
-opening_hours: ""
-website: "https://www.adenauer.com"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.adenauer.com

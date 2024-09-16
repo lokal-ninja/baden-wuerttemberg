@@ -1,11 +1,11 @@
 id: 171564400
-type: way
+type: node
 latitude: 48.04965
 longitude: 8.46203
 postcode: "78050"
 city: Villingen-Schwenningen
-street: "Niederwiesenstraße"
-housenumber: 7
+street: Niederwiesenstraße
+housenumber: "7"
 phone: "+49772130766"
-opening_hours: "Tu-Fr 12:00-18:30, Sa 09:00-13:00;PH off"
-website: "https://www.uli-rottlers-pedal.de/"
+opening_hours: Tu-Fr 12:00-18:30, Sa 09:00-13:00;PH off
+website: https://www.uli-rottlers-pedal.de/

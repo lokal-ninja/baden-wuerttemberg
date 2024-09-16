@@ -1,11 +1,11 @@
 id: 194320554
-type: way
+type: node
 latitude: 49.14284
 longitude: 8.40974
 postcode: "76351"
 city: Linkenheim-Hochstetten
-street: "Gewerbering"
-housenumber: 2
+street: Gewerbering
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.fh-sat.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.fh-sat.de/

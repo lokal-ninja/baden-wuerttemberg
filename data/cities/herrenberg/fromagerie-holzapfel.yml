@@ -4,8 +4,8 @@ latitude: 48.59553
 longitude: 8.86956
 postcode: "71083"
 city: Herrenberg
-street: "Schulstraße"
-housenumber: 8
+street: Schulstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Tu,We 09:00-14:00; Th,Fr 09:00-18:00; Sa 07:30-13:00"
-website: "https://fromagerie-holzapfel.de/"
+opening_hours: Tu,We 09:00-14:00; Th,Fr 09:00-18:00; Sa 07:30-13:00
+website: https://fromagerie-holzapfel.de/

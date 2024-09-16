@@ -1,11 +1,11 @@
 id: 24654278
-type: way
+type: node
 latitude: 48.88895
 longitude: 9.21057
 postcode: "71638"
 city: Ludwigsburg
-street: "Friedrichstraße"
+street: Friedrichstraße
 housenumber: 124-126
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

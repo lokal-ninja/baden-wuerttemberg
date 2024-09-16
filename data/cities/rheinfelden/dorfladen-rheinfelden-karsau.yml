@@ -4,8 +4,8 @@ latitude: 47.57846
 longitude: 7.80525
 postcode: "79618"
 city: Rheinfelden
-street: "Weimarstraße"
-housenumber: 1
+street: Weimarstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Tu off;We-Fr 07:00-18:00;Sa 07:00-13:00"
-website: "https://dorfladenrheinfelden.com/"
+opening_hours: Mo,Tu off;We-Fr 07:00-18:00;Sa 07:00-13:00
+website: https://dorfladenrheinfelden.com/

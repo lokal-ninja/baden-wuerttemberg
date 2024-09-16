@@ -4,8 +4,8 @@ latitude: 48.76304
 longitude: 8.33633
 postcode: ""
 city: Gernsbach
-street: "Hofstätte"
-housenumber: 1
-phone: "+49 7224 65500"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://www.tui.com/reisebuero/gernsbach/hofstaette-1/"
+street: Hofstätte
+housenumber: "1"
+phone: +49 7224 65500
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00
+website: https://www.tui.com/reisebuero/gernsbach/hofstaette-1/

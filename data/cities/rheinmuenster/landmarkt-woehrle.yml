@@ -1,11 +1,11 @@
 id: 42415359
-type: way
+type: node
 latitude: 48.74972
 longitude: 8.03589
 postcode: "77836"
 city: Rheinmünster
-street: "Körnersbühnd"
-housenumber: 1
+street: Körnersbühnd
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:30; Sa 08:30-12:30"
-website: "https://www.landmarkt-woehrle.de/"
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:30; Sa 08:30-12:30
+website: https://www.landmarkt-woehrle.de/

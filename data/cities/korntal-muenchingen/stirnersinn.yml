@@ -4,8 +4,8 @@ latitude: 48.85417
 longitude: 9.09179
 postcode: "70825"
 city: Korntal-Münchingen
-street: "Stuttgarter Straße"
-housenumber: 30
-phone: "+49 7150 974074"
-opening_hours: "Mo-Th 08:30-13:30,15:00-18:00; Fr 08:00-18:00; Sa 07:00-13:00; PH off"
-website: "https://www.stirnersinn.de/"
+street: Stuttgarter Straße
+housenumber: "30"
+phone: +49 7150 974074
+opening_hours: Mo-Th 08:30-13:30,15:00-18:00; Fr 08:00-18:00; Sa 07:00-13:00; PH off
+website: https://www.stirnersinn.de/

@@ -4,8 +4,8 @@ latitude: 49.52074
 longitude: 8.57888
 postcode: "68519"
 city: Viernheim
-street: "Am Straßenheimer Weg"
-housenumber: 7
-phone: "+49 6204 1645"
-opening_hours: "Mo,We,Th,Fr 09:30-12:00; Sa 09:30-13:00; PH off"
+street: Am Straßenheimer Weg
+housenumber: "7"
+phone: +49 6204 1645
+opening_hours: Mo,We,Th,Fr 09:30-12:00; Sa 09:30-13:00; PH off
 website: ""

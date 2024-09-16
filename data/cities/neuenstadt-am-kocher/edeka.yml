@@ -1,11 +1,11 @@
 id: 197714470
-type: way
+type: node
 latitude: 49.23865
 longitude: 9.33194
 postcode: "74196"
 city: Neuenstadt am Kocher
-street: "Bahnweg"
-housenumber: 6
+street: Bahnweg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

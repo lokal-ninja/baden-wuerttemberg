@@ -1,11 +1,11 @@
 id: 197272324
-type: way
+type: node
 latitude: 48.71459
 longitude: 8.75884
 postcode: "75365"
 city: Calw
-street: "Breslauer Straße"
-housenumber: 3
+street: Breslauer Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.herzog-stahlhandel.de/"
+website: https://www.herzog-stahlhandel.de/

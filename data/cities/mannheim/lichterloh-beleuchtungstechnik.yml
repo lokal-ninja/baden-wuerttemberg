@@ -1,11 +1,11 @@
 id: 144791877
-type: way
+type: node
 latitude: 49.46739
 longitude: 8.56261
 postcode: "68239"
 city: Mannheim
-street: "Seckenheimer Hauptstraße"
-housenumber: 98
+street: Seckenheimer Hauptstraße
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

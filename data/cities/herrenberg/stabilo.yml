@@ -1,11 +1,11 @@
 id: 27163004
-type: way
+type: node
 latitude: 48.6126
 longitude: 8.84876
 postcode: "71083"
 city: Herrenberg
-street: "Römerweg"
+street: Römerweg
 housenumber: 41/1
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00,08:00-13:00"
-website: "http://www.stabilo-shop.de"
+opening_hours: Mo-Fr 08:00-18:00,08:00-13:00
+website: http://www.stabilo-shop.de

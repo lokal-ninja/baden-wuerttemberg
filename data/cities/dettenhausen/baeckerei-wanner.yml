@@ -4,8 +4,8 @@ latitude: 48.60888
 longitude: 9.1001
 postcode: "72135"
 city: Dettenhausen
-street: "Störrenstraße"
-housenumber: 37
-phone: "+49 7157 61230"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 07:00-17:00"
-website: "https://www.baeckerei-wanner.de/standorte/dettenhausen-1"
+street: Störrenstraße
+housenumber: "37"
+phone: +49 7157 61230
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 07:00-17:00
+website: https://www.baeckerei-wanner.de/standorte/dettenhausen-1

@@ -4,8 +4,8 @@ latitude: 48.96223
 longitude: 8.28012
 postcode: "76287"
 city: Rheinstetten
-street: "Siemensstraße"
-housenumber: 6
+street: Siemensstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

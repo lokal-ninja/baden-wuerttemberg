@@ -1,11 +1,11 @@
 id: 659613415
-type: way
+type: node
 latitude: 48.72752
 longitude: 8.00747
 postcode: "77839"
 city: Lichtenau
-street: "Auf der Schanz"
-housenumber: 3
-phone: "+49 7227 9998997"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.rossmann.de/de/filialen/baden-wuerttemberg/lichtenau/auf-der-schanz-3.html"
+street: Auf der Schanz
+housenumber: "3"
+phone: +49 7227 9998997
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.rossmann.de/de/filialen/baden-wuerttemberg/lichtenau/auf-der-schanz-3.html

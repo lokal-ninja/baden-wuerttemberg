@@ -1,11 +1,11 @@
 id: 178536654
-type: way
+type: node
 latitude: 49.00024
 longitude: 9.14628
 postcode: "74354"
 city: Besigheim
-street: "Robert-Bosch-Straße"
-housenumber: 6
+street: Robert-Bosch-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.14274
 longitude: 7.69685
 postcode: "79346"
 city: Endingen am Kaiserstuhl
-street: "Schönenbergstraße"
-housenumber: 2
+street: Schönenbergstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 14:00-18:30, Sa 10:00-14:00"
-website: "https://bike-and-fun.com/"
+opening_hours: Mo,Tu,Th,Fr 14:00-18:30, Sa 10:00-14:00
+website: https://bike-and-fun.com/

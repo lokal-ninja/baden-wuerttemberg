@@ -4,8 +4,8 @@ latitude: 47.8261
 longitude: 10.02405
 postcode: "88299"
 city: Leutkirch im Allgäu
-street: "Marktstraße"
-housenumber: 17
+street: Marktstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:30-12:15,14:00-18:00; We 08:30-12:15; Sa 08:30-12:30"
-website: "https://www.naehmaschinen-buder.de/"
+opening_hours: Mo,Tu,Th,Fr 08:30-12:15,14:00-18:00; We 08:30-12:15; Sa 08:30-12:30
+website: https://www.naehmaschinen-buder.de/

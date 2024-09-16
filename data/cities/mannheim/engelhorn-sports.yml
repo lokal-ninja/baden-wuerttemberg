@@ -1,11 +1,11 @@
 id: 314810674
-type: way
+type: node
 latitude: 49.48532
 longitude: 8.46857
 postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 6-7
-phone: "+49 621 1670100"
-opening_hours: "Mo-Th 10:00-19:00, Fr-Sa 10:00-20:00"
-website: "https://www.engelhorn.de/sports"
+phone: +49 621 1670100
+opening_hours: Mo-Th 10:00-19:00, Fr-Sa 10:00-20:00
+website: https://www.engelhorn.de/sports

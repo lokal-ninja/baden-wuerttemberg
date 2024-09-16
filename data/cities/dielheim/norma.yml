@@ -1,11 +1,11 @@
 id: 504372410
-type: way
+type: node
 latitude: 49.28491
 longitude: 8.778
 postcode: "69234"
 city: Dielheim
-street: "Ortsstraße"
-housenumber: 2
+street: Ortsstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 239366658
-type: way
+type: node
 latitude: 49.21277
 longitude: 9.58304
 postcode: "74632"
 city: Neuenstein
-street: "Salzweg"
-housenumber: 1
+street: Salzweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de/filialen/neuenstein/salzweg-1/3852"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de/filialen/neuenstein/salzweg-1/3852

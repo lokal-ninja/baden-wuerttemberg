@@ -4,8 +4,8 @@ latitude: 47.84001
 longitude: 9.02774
 postcode: "78333"
 city: Stockach
-street: "Bodenseeallee"
-housenumber: 2
-phone: "+49 7771 93050"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off"
-website: "https://auer-gruppe.de/index_.php?m_id=12&nav_id=4&s_id=filiale&filiale=stockach"
+street: Bodenseeallee
+housenumber: "2"
+phone: +49 7771 93050
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off
+website: https://auer-gruppe.de/index_.php?m_id=12&nav_id=4&s_id=filiale&filiale=stockach

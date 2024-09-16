@@ -1,11 +1,11 @@
 id: 204975325
-type: way
+type: node
 latitude: 47.7013
 longitude: 9.55792
 postcode: "88074"
 city: Meckenbeuren
-street: "Oskar-von-Miller-Platz"
+street: Oskar-von-Miller-Platz
 housenumber: 2/1
 phone: "+4975429788777"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-16:00; Su 08:00-16:00"
-website: "https://www.webers-backstube.de/"
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-16:00; Su 08:00-16:00
+website: https://www.webers-backstube.de/

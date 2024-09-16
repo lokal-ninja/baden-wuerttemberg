@@ -4,8 +4,8 @@ latitude: 47.68617
 longitude: 9.83354
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Marktplatz"
-housenumber: 9
+street: Marktplatz
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:30"
-website: "https://www.tchibo.de/service/storefinder/store/100003435"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:30
+website: https://www.tchibo.de/service/storefinder/store/100003435

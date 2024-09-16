@@ -1,11 +1,11 @@
 id: 500388629
-type: way
+type: node
 latitude: 49.56609
 longitude: 9.70587
 postcode: "97922"
 city: Lauda-Königshofen
-street: "Josef-Schmitt-Straße"
-housenumber: 38
+street: Josef-Schmitt-Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

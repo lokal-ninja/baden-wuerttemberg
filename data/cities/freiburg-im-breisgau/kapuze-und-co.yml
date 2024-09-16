@@ -4,8 +4,8 @@ latitude: 47.99588
 longitude: 7.84758
 postcode: "79098"
 city: Freiburg im Breisgau
-street: "Brunnenstraße"
-housenumber: 6
+street: Brunnenstraße
+housenumber: "6"
 phone: "+4976115159808"
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://www.kapuzeundco.de/"
+opening_hours: Mo-Sa 09:30-18:00
+website: https://www.kapuzeundco.de/

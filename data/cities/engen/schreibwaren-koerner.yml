@@ -1,11 +1,11 @@
 id: 51687151
-type: way
+type: node
 latitude: 47.85585
 longitude: 8.77346
 postcode: "78234"
 city: Engen
-street: "Breitestraße"
-housenumber: 3
+street: Breitestraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

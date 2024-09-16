@@ -1,11 +1,11 @@
 id: 413430235
-type: way
+type: node
 latitude: 48.96232
 longitude: 8.30447
 postcode: "76287"
 city: Rheinstetten
-street: "Industriestraße"
-housenumber: 26
+street: Industriestraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 807817576
-type: way
+type: node
 latitude: 48.79853
 longitude: 9.21766
 postcode: "70372"
 city: Stuttgart
-street: "Mercedesstraße"
-housenumber: 23
+street: Mercedesstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/DurraMarkts/?locale=de_DE"
+website: https://www.facebook.com/DurraMarkts/?locale=de_DE

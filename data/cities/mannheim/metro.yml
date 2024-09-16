@@ -1,11 +1,11 @@
 id: 48443116
-type: way
+type: node
 latitude: 49.4594
 longitude: 8.5003
 postcode: "68199"
 city: Mannheim
-street: "Floßwörthstraße"
-housenumber: 30
+street: Floßwörthstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.metro24.de/"
+website: https://www.metro24.de/

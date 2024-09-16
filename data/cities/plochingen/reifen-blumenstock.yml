@@ -1,11 +1,11 @@
 id: 125079364
-type: way
+type: node
 latitude: 48.70297
 longitude: 9.42886
 postcode: "73207"
 city: Plochingen
-street: "Am Filswehr"
-housenumber: 3
+street: Am Filswehr
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

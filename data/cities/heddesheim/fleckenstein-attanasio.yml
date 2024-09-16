@@ -4,8 +4,8 @@ latitude: 49.5045
 longitude: 8.60109
 postcode: "68542"
 city: Heddesheim
-street: "Unterdorfstraße"
-housenumber: 13
-phone: "+49 6203 4748"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00"
-website: "https://www.fa-reisebuero.de/"
+street: Unterdorfstraße
+housenumber: "13"
+phone: +49 6203 4748
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00
+website: https://www.fa-reisebuero.de/

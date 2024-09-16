@@ -1,11 +1,11 @@
 id: 366385598
-type: way
+type: node
 latitude: 48.1814
 longitude: 9.1054
 postcode: "72479"
 city: Straßberg
-street: "Winterlinger Straße"
-housenumber: 75
+street: Winterlinger Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
-website: "https://www.autoservice-beck.de/"
+website: https://www.autoservice-beck.de/

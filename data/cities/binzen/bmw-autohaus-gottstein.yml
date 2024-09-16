@@ -1,11 +1,11 @@
 id: 91887574
-type: way
+type: node
 latitude: 47.62346
 longitude: 7.61271
 postcode: ""
 city: Binzen
-street: "Konrad-Zuse-Straße"
-housenumber: 4
+street: Konrad-Zuse-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.gottstein-gruppe.de/de/standorte/binzen/"
+website: https://www.gottstein-gruppe.de/de/standorte/binzen/

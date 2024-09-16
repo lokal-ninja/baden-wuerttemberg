@@ -1,11 +1,11 @@
 id: 123124964
-type: way
+type: node
 latitude: 48.62485
 longitude: 8.96622
 postcode: "71157"
 city: Hildrizhausen
-street: "Ehninger Straße"
-housenumber: 12
+street: Ehninger Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

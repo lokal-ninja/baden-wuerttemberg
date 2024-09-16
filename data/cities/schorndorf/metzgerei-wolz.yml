@@ -4,8 +4,8 @@ latitude: 48.7913
 longitude: 9.53113
 postcode: "73614"
 city: Schorndorf
-street: "Rehhaldenweg"
-housenumber: 47
-phone: "+49 7181 62881"
-opening_hours: "Mo, Tu, Th, Fr 07:30-13:00, 15:00-18:00; We 07:30-13:00; Sa 07:00-13:00"
-website: "https://www.metzger-wolz.de"
+street: Rehhaldenweg
+housenumber: "47"
+phone: +49 7181 62881
+opening_hours: Mo, Tu, Th, Fr 07:30-13:00, 15:00-18:00; We 07:30-13:00; Sa 07:00-13:00
+website: https://www.metzger-wolz.de

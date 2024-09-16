@@ -1,11 +1,11 @@
 id: 545689222
-type: way
+type: node
 latitude: 48.69191
 longitude: 9.71448
 postcode: "73054"
 city: Eislingen/Fils
-street: "Ulmer Straße"
-housenumber: 69
-phone: "+49 7161 80080"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
-website: "https://autohaus-gorny.de/"
+street: Ulmer Straße
+housenumber: "69"
+phone: +49 7161 80080
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
+website: https://autohaus-gorny.de/

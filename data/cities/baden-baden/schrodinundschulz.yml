@@ -4,8 +4,8 @@ latitude: 48.77606
 longitude: 8.22065
 postcode: "76532"
 city: Baden-Baden
-street: "Rheinstraße"
-housenumber: 38
+street: Rheinstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; We,Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; We,Sa 09:00-13:00
 website: ""

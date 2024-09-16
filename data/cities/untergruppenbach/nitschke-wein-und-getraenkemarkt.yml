@@ -1,11 +1,11 @@
 id: 99427866
-type: way
+type: node
 latitude: 49.08554
 longitude: 9.28853
 postcode: "74199"
 city: Untergruppenbach
-street: "Siegfried-Levi-Straße"
-housenumber: 10
-phone: "+49 7131 972740"
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "https://www.getraenke.sb-grs.de/home/getraenkemaerkte/untergruppenbach.de.html"
+street: Siegfried-Levi-Straße
+housenumber: "10"
+phone: +49 7131 972740
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: https://www.getraenke.sb-grs.de/home/getraenkemaerkte/untergruppenbach.de.html

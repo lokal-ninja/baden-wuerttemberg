@@ -1,11 +1,11 @@
 id: 259362922
-type: way
+type: node
 latitude: 48.73714
 longitude: 9.12836
 postcode: "70569"
 city: Stuttgart
-street: "Engelboldstraße"
-housenumber: 2
+street: Engelboldstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00"
-website: "https://home.mobile.de/CAMPERZENTRALE"
+opening_hours: Mo-Fr 10:00-13:00, 15:00-18:00
+website: https://home.mobile.de/CAMPERZENTRALE

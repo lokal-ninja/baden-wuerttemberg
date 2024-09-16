@@ -1,11 +1,11 @@
 id: 453831384
-type: way
+type: node
 latitude: 48.26103
 longitude: 8.40935
 postcode: "78733"
 city: Aichhalden
-street: "Koppengässle"
-housenumber: 2
+street: Koppengässle
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

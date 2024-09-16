@@ -4,8 +4,8 @@ latitude: 48.72447
 longitude: 9.10706
 postcode: "70563"
 city: Stuttgart
-street: "Robert-Koch-Straße"
-housenumber: 65
+street: Robert-Koch-Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; PH,Su 08:00-11:00"
-website: "https://www.baeckerhaus-veit.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; PH,Su 08:00-11:00
+website: https://www.baeckerhaus-veit.de/

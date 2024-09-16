@@ -1,11 +1,11 @@
 id: 292191961
-type: way
+type: node
 latitude: 48.06304
 longitude: 8.52286
 postcode: "78054"
 city: Villingen-Schwenningen
-street: "Villinger Straße"
-housenumber: 76
+street: Villinger Straße
+housenumber: "76"
 phone: ""
-opening_hours: "Tu 13:30-18:00; We-Fr 08:30-18:00; Sa 08:30-13:00; Su,Mo,PH off"
+opening_hours: Tu 13:30-18:00; We-Fr 08:30-18:00; Sa 08:30-13:00; Su,Mo,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.76785
 longitude: 9.17658
 postcode: "70180"
 city: Stuttgart
-street: "Mozartstraße"
-housenumber: 38
-phone: "+49 711 6071011"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "http://suchundfind-stuttgart.de/"
+street: Mozartstraße
+housenumber: "38"
+phone: +49 711 6071011
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: http://suchundfind-stuttgart.de/

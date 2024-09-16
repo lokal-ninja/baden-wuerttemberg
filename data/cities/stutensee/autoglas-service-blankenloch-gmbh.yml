@@ -1,11 +1,11 @@
 id: 221201991
-type: way
+type: node
 latitude: 49.07435
 longitude: 8.45266
 postcode: "76297"
 city: Stutensee
-street: "Helmholtzstraße"
-housenumber: 2
+street: Helmholtzstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

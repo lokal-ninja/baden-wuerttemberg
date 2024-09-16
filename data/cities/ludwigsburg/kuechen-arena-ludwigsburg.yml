@@ -1,11 +1,11 @@
 id: 208859158
-type: way
+type: node
 latitude: 48.89112
 longitude: 9.17074
 postcode: "71636"
 city: Ludwigsburg
-street: "Schwieberdinger Straße"
-housenumber: 90
+street: Schwieberdinger Straße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 9:30-18:00"
-website: "https://www.kuechen-arena.de/standorte/ludwigsburg"
+opening_hours: Mo-Fr 09:30-20:00; Sa 9:30-18:00
+website: https://www.kuechen-arena.de/standorte/ludwigsburg

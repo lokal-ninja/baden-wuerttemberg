@@ -1,11 +1,11 @@
 id: 402700718
-type: way
+type: node
 latitude: 48.73055
 longitude: 9.32904
 postcode: "73730"
 city: Esslingen am Neckar
-street: "Plochinger Straße"
-housenumber: 108
+street: Plochinger Straße
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"
-website: "http://www.smart-esslingen.de/de/dealers/smartcenter-esslingen/de/index.html"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00
+website: http://www.smart-esslingen.de/de/dealers/smartcenter-esslingen/de/index.html

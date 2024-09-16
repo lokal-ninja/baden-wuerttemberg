@@ -4,8 +4,8 @@ latitude: 48.77429
 longitude: 8.57972
 postcode: "75323"
 city: Bad Wildbad
-street: "Hauptstraße"
-housenumber: 16
+street: Hauptstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-13:00"
-website: "https://stotz-fachgeschaeft.de/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-13:00
+website: https://stotz-fachgeschaeft.de/

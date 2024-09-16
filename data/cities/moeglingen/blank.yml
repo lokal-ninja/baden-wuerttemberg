@@ -4,8 +4,8 @@ latitude: 48.88903
 longitude: 9.12593
 postcode: "71696"
 city: Möglingen
-street: "Bahnhofstraße"
-housenumber: 27
+street: Bahnhofstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 06:30-13:00,14:30-18:00; Sa 06:30-13:00; Su 08:00-11:00"
-website: "http://www.baeckerei-blank.de/"
+opening_hours: Mo-Fr 06:30-13:00,14:30-18:00; Sa 06:30-13:00; Su 08:00-11:00
+website: http://www.baeckerei-blank.de/

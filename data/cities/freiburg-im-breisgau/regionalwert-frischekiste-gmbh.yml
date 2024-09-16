@@ -4,8 +4,8 @@ latitude: 48.02472
 longitude: 7.79487
 postcode: "79110"
 city: Freiburg im Breisgau
-street: "Ziegelhofstraße"
-housenumber: 202
-phone: "+49 761 42 963 880"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.regionalwert-frischekiste.de"
+street: Ziegelhofstraße
+housenumber: "202"
+phone: +49 761 42 963 880
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.regionalwert-frischekiste.de

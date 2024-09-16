@@ -1,11 +1,11 @@
 id: 37137680
-type: way
+type: node
 latitude: 48.8522
 longitude: 8.99347
 postcode: "71254"
 city: Ditzingen
-street: "Röntgenstraße"
-housenumber: 29
+street: Röntgenstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

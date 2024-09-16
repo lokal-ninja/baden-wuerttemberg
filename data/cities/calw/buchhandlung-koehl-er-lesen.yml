@@ -4,8 +4,9 @@ latitude: 48.69502
 longitude: 8.77085
 postcode: "75365"
 city: Calw
-street: "Hauptstraße"
-housenumber: 32
-phone: "+49 705 120133"
-opening_hours: "Mo-Sa 08:30-12:30, Mo 14:30-18:00, Tu 14:30-18:00, Th 14:30-18:00, Fr 14:30-18:00; PH off"
-website: "https://www.koehlerlesen.de/"
+street: Hauptstraße
+housenumber: "32"
+phone: +49 705 120133
+opening_hours: Mo-Sa 08:30-12:30, Mo 14:30-18:00, Tu 14:30-18:00, Th 14:30-18:00,
+    Fr 14:30-18:00; PH off
+website: https://www.koehlerlesen.de/

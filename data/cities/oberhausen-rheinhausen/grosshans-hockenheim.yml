@@ -1,11 +1,11 @@
 id: 321151358
-type: way
+type: node
 latitude: 49.2778
 longitude: 8.47309
 postcode: "68794"
 city: Oberhausen-Rheinhausen
-street: "Hauptstraße"
-housenumber: 67
+street: Hauptstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Apr-Jun Mo-Su,PH 08:30-13:00 open während der Spargelsaison"
+opening_hours: Apr-Jun Mo-Su,PH 08:30-13:00 open "während der Spargelsaison"
 website: ""

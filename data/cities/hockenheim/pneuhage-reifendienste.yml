@@ -1,11 +1,11 @@
 id: 199391017
-type: way
+type: node
 latitude: 49.32828
 longitude: 8.54062
 postcode: "68766"
 city: Hockenheim
-street: "Gleisstraße"
-housenumber: 10
+street: Gleisstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.96395
 longitude: 9.30753
 postcode: "71711"
 city: Steinheim an der Murr
-street: "Hofstraße"
-housenumber: 30
+street: Hofstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

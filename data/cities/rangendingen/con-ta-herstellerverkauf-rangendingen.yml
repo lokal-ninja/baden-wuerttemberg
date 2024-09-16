@@ -1,11 +1,11 @@
 id: 101867761
-type: way
+type: node
 latitude: 48.38157
 longitude: 8.89197
 postcode: "72414"
 city: Rangendingen
-street: "Hechinger Straße"
-housenumber: 36
+street: Hechinger Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.conta.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.conta.de/

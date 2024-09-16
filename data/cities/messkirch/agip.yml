@@ -1,11 +1,11 @@
 id: 217992373
-type: way
+type: node
 latitude: 47.99605
 longitude: 9.11993
 postcode: "88605"
 city: Meßkirch
-street: "Mengener Straße"
-housenumber: 37
-phone: "+49 7575 9263138"
+street: Mengener Straße
+housenumber: "37"
+phone: +49 7575 9263138
 opening_hours: ""
 website: ""

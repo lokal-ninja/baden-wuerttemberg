@@ -4,8 +4,8 @@ latitude: 48.01562
 longitude: 7.84819
 postcode: "79106"
 city: Freiburg im Breisgau
-street: "Ingeborg-Krummer-Schroth-Straße"
-housenumber: 25
-phone: "+49-761-611666-333"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.fliesenhandel-freiburg.de/"
+street: Ingeborg-Krummer-Schroth-Straße
+housenumber: "25"
+phone: +49-761-611666-333
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.fliesenhandel-freiburg.de/

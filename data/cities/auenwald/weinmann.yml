@@ -1,11 +1,11 @@
 id: 190892680
-type: way
+type: node
 latitude: 48.94415
 longitude: 9.49775
 postcode: "71549"
 city: Auenwald
-street: "Gutenbergstraße"
-housenumber: 15
+street: Gutenbergstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

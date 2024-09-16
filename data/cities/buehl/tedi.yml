@@ -4,8 +4,8 @@ latitude: 48.69401
 longitude: 8.13494
 postcode: "77815"
 city: Bühl
-street: "Hauptstraße"
-housenumber: 19
+street: Hauptstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.tedi.com/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.tedi.com/

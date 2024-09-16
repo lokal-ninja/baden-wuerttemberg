@@ -4,8 +4,8 @@ latitude: 47.66482
 longitude: 9.43324
 postcode: "88048"
 city: Friedrichshafen
-street: "Stockerholzstraße"
-housenumber: 1
-phone: "+49 7541 4953"
-opening_hours: "Mo-Fr 06:15-18:00; Sa 06:15-12:30; Su 07:30-10:30"
-website: "http://www.backstube-kloos.de/"
+street: Stockerholzstraße
+housenumber: "1"
+phone: +49 7541 4953
+opening_hours: Mo-Fr 06:15-18:00; Sa 06:15-12:30; Su 07:30-10:30
+website: http://www.backstube-kloos.de/

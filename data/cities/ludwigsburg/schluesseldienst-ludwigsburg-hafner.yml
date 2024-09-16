@@ -1,11 +1,11 @@
 id: 309815870
-type: way
+type: node
 latitude: 48.90749
 longitude: 9.20035
 postcode: "71642"
 city: Ludwigsburg
-street: "Julius-Knorpp-Straße"
-housenumber: 8
+street: Julius-Knorpp-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

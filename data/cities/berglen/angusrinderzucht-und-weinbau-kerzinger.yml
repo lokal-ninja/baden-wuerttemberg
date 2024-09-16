@@ -1,11 +1,11 @@
 id: 176878545
-type: way
+type: node
 latitude: 48.84769
 longitude: 9.44235
 postcode: "73663"
 city: Berglen
-street: "Kernerweg"
-housenumber: 6
+street: Kernerweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

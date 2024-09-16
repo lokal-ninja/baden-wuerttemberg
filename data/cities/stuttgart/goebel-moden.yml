@@ -4,8 +4,8 @@ latitude: 48.8093
 longitude: 9.15898
 postcode: "70469"
 city: Stuttgart
-street: "Stuttgarter Straße"
-housenumber: 96
-phone: "+49 711 8567516"
-opening_hours: "Mo-Fr 9:00-18:30; Sa 9:00-16:00"
-website: "https://www.goebelmoden.com/"
+street: Stuttgarter Straße
+housenumber: "96"
+phone: +49 711 8567516
+opening_hours: Mo-Fr 9:00-18:30; Sa 9:00-16:00
+website: https://www.goebelmoden.com/

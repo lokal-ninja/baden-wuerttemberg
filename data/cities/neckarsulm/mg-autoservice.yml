@@ -1,11 +1,11 @@
 id: 59197226
-type: way
+type: node
 latitude: 49.19701
 longitude: 9.20515
 postcode: "74172"
 city: Neckarsulm
-street: "Silcherstraße"
-housenumber: 19
+street: Silcherstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 103162697
-type: way
+type: node
 latitude: 48.81283
 longitude: 9.31971
 postcode: "71394"
 city: Kernen im Remstal
-street: "Tulpenstraße"
-housenumber: 41
+street: Tulpenstraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

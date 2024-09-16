@@ -4,8 +4,8 @@ latitude: 48.05941
 longitude: 8.45986
 postcode: "78050"
 city: Villingen-Schwenningen
-street: "Niedere Straße"
-housenumber: 6
-phone: "+49 7721 9950893"
-opening_hours: "Sa 10:00-16:00"
-website: "https://de.benetton.com"
+street: Niedere Straße
+housenumber: "6"
+phone: +49 7721 9950893
+opening_hours: Sa 10:00-16:00
+website: https://de.benetton.com

@@ -1,11 +1,11 @@
 id: 150561332
-type: way
+type: node
 latitude: 48.47255
 longitude: 8.31943
 postcode: "72250"
 city: Freudenstadt
-street: "Baiersbronner Sträßle"
-housenumber: 60
-phone: "+497442 2434"
+street: Baiersbronner Sträßle
+housenumber: "60"
+phone: +497442 2434
 opening_hours: ""
-website: "https://www.hauser-reisen.de"
+website: https://www.hauser-reisen.de

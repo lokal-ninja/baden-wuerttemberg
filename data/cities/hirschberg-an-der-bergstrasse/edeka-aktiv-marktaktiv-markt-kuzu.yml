@@ -1,11 +1,11 @@
 id: 181221368
-type: way
+type: node
 latitude: 49.4978
 longitude: 8.65672
 postcode: "69493"
 city: Hirschberg an der Bergstraße
-street: "Beethovenstraße"
-housenumber: 2
-phone: "+49 6201 592080"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "http://web.edeka.de/SUEDWEST/EH/aktivmarkt_Kuzu_Leutershausen_14638/Homepage.html"
+street: Beethovenstraße
+housenumber: "2"
+phone: +49 6201 592080
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: http://web.edeka.de/SUEDWEST/EH/aktivmarkt_Kuzu_Leutershausen_14638/Homepage.html

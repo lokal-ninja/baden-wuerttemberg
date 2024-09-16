@@ -1,11 +1,11 @@
 id: 49325806
-type: way
+type: node
 latitude: 48.77731
 longitude: 8.93377
 postcode: "71272"
 city: Renningen
-street: "Benzstraße"
-housenumber: 3
+street: Benzstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

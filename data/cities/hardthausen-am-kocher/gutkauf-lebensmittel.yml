@@ -1,11 +1,11 @@
 id: 527371950
-type: way
+type: node
 latitude: 49.24107
 longitude: 9.40319
 postcode: "74239"
 city: Hardthausen am Kocher
-street: "Öhringer Straße"
-housenumber: 4
+street: Öhringer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

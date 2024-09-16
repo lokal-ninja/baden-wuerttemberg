@@ -1,11 +1,11 @@
 id: 152301061
-type: way
+type: node
 latitude: 49.45055
 longitude: 8.49564
 postcode: "68199"
 city: Mannheim
-street: "Angelstraße"
-housenumber: 52
+street: Angelstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00;Sa 08:30-13:00"
+opening_hours: Tu-Fr 08:30-18:00;Sa 08:30-13:00
 website: ""

@@ -1,11 +1,12 @@
 id: 144549026
-type: way
+type: node
 latitude: 48.28758
 longitude: 8.81765
 postcode: "72351"
 city: Geislingen
-street: "Vorstadtstraße"
-housenumber: 50
-phone: "+49 7433 6539"
-opening_hours: "Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-13:00; Su,PH off"
-website: "https://honda-geislingen.de/"
+street: Vorstadtstraße
+housenumber: "50"
+phone: +49 7433 6539
+opening_hours: Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-13:00; Su,PH
+    off
+website: https://honda-geislingen.de/

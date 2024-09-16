@@ -1,11 +1,11 @@
 id: 34007274
-type: way
+type: node
 latitude: 48.62333
 longitude: 9.35724
 postcode: "72622"
 city: Nürtingen
-street: "Otto-Hahn-Straße"
-housenumber: 3
+street: Otto-Hahn-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

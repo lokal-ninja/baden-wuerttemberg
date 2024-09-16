@@ -4,8 +4,8 @@ latitude: 47.98191
 longitude: 7.80361
 postcode: "79111"
 city: Freiburg im Breisgau
-street: "Blumenstraße"
-housenumber: 38
+street: Blumenstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Tu-Fr 10:00-17:00; Sa 10:00-13:00"
-website: "https://www.raumausstattung-gebauer.de/"
+opening_hours: Tu-Fr 10:00-17:00; Sa 10:00-13:00
+website: https://www.raumausstattung-gebauer.de/

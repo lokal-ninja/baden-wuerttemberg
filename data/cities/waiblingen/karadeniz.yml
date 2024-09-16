@@ -1,11 +1,11 @@
 id: 121896097
-type: way
+type: node
 latitude: 48.82655
 longitude: 9.31393
 postcode: "71332"
 city: Waiblingen
-street: "Mayenner Straße"
-housenumber: 37
+street: Mayenner Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

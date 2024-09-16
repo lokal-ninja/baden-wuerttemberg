@@ -1,11 +1,11 @@
 id: 305332823
-type: way
+type: node
 latitude: 48.72934
 longitude: 10.07125
 postcode: "89551"
 city: Königsbronn
-street: "Zanger Hauptstraße"
-housenumber: 27
+street: Zanger Hauptstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

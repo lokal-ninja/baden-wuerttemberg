@@ -4,8 +4,8 @@ latitude: 47.99389
 longitude: 7.85391
 postcode: "79098"
 city: Freiburg im Breisgau
-street: "Herrenstraße"
-housenumber: 55
-phone: "+49 761 48 99 66 99"
-opening_hours: "Tu-Fr 09:30-18:30,Sa 08:00-14:00"
+street: Herrenstraße
+housenumber: "55"
+phone: +49 761 48 99 66 99
+opening_hours: Tu-Fr 09:30-18:30,Sa 08:00-14:00
 website: ""

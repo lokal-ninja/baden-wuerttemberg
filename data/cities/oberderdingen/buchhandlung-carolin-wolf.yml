@@ -4,8 +4,8 @@ latitude: 49.06379
 longitude: 8.79984
 postcode: "75038"
 city: Oberderdingen
-street: "Rote-Tor-Straße"
-housenumber: 8
+street: Rote-Tor-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00; Su,PH off"
-website: "http://buchhandlung-wolf.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00; Su,PH off
+website: http://buchhandlung-wolf.de/

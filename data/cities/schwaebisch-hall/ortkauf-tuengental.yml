@@ -1,11 +1,11 @@
 id: 574621428
-type: way
+type: node
 latitude: 49.1223
 longitude: 9.81446
 postcode: "74523"
 city: Schwäbisch Hall
-street: "Ramsbacher Straße"
-housenumber: 4
+street: Ramsbacher Straße
+housenumber: "4"
 phone: "+4915222490955"
-opening_hours: "Mo-Su 05:00-23:00"
-website: "https://www.ortkauf.de"
+opening_hours: Mo-Su 05:00-23:00
+website: https://www.ortkauf.de

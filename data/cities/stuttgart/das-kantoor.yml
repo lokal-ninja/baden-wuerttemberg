@@ -4,8 +4,8 @@ latitude: 48.80973
 longitude: 9.21539
 postcode: "70376"
 city: Stuttgart
-street: "Neckartalstraße"
-housenumber: 129
-phone: "+49 7151 908454;+49 711 544429"
-opening_hours: "Sa 10:00-13:00"
-website: "https://www.das-kantoor.de"
+street: Neckartalstraße
+housenumber: "129"
+phone: +49 7151 908454;+49 711 544429
+opening_hours: Sa 10:00-13:00
+website: https://www.das-kantoor.de

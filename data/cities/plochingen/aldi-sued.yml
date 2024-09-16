@@ -1,11 +1,11 @@
 id: 45856968
-type: way
+type: node
 latitude: 48.70697
 longitude: 9.42207
 postcode: "73207"
 city: Plochingen
-street: "Ulmer Straße"
-housenumber: 4
+street: Ulmer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
 website: ""

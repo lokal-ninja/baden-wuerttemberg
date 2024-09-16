@@ -4,8 +4,8 @@ latitude: 49.54097
 longitude: 9.08028
 postcode: "64760"
 city: Oberzent
-street: "Siegfriedstraße"
-housenumber: 8
+street: Siegfriedstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 06:15-10:15; Sa 06:30-10:30; PH off"
-website: "https://www.baeckerei-muenkel.de/Filialen"
+opening_hours: Mo-Fr 06:15-10:15; Sa 06:30-10:30; PH off
+website: https://www.baeckerei-muenkel.de/Filialen

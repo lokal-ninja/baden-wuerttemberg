@@ -1,11 +1,11 @@
 id: 664632906
-type: way
+type: node
 latitude: 49.06646
 longitude: 10.21362
 postcode: "74579"
 city: Fichtenau
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:30"
+opening_hours: Mo-Sa 07:30-20:30
 website: ""

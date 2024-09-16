@@ -1,11 +1,11 @@
 id: 228897263
-type: way
+type: node
 latitude: 48.10585
 longitude: 7.97221
 postcode: "79183"
 city: Waldkirch
-street: "Hauptstraße"
-housenumber: 67
+street: Hauptstraße
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 182062443
-type: way
+type: node
 latitude: 48.90107
 longitude: 9.415
 postcode: "71397"
 city: Leutenbach
-street: "Maybachstraße"
-housenumber: 18
-phone: "+49 7195 179151"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-13:00"
-website: "https://www.reifen-schaefer.de/"
+street: Maybachstraße
+housenumber: "18"
+phone: +49 7195 179151
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-13:00
+website: https://www.reifen-schaefer.de/

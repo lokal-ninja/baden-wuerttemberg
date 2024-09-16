@@ -4,8 +4,8 @@ latitude: 48.41084
 longitude: 9.05719
 postcode: "72116"
 city: Mössingen
-street: "Karl-Jaggy-Straße"
-housenumber: 45
-phone: "+49 7473 1321"
-opening_hours: "Mo-Fr 08:30-12:30, 14:00-18:00; Sa 09:00-12:30"
-website: "https://www.brillinger.de/"
+street: Karl-Jaggy-Straße
+housenumber: "45"
+phone: +49 7473 1321
+opening_hours: Mo-Fr 08:30-12:30, 14:00-18:00; Sa 09:00-12:30
+website: https://www.brillinger.de/

@@ -4,8 +4,8 @@ latitude: 48.77346
 longitude: 9.16918
 postcode: "70178"
 city: Stuttgart
-street: "Paulinenstraße"
-housenumber: 53
-phone: "+49 711 9746450"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Paulinenstraße
+housenumber: "53"
+phone: +49 711 9746450
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

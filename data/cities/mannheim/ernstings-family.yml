@@ -4,8 +4,8 @@ latitude: 49.54839
 longitude: 8.45599
 postcode: "68307"
 city: Mannheim
-street: "Amselstraße"
-housenumber: 10
-phone: "+49 2546 9899998"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://lilienthal-center.com/shop/ernstings-family/"
+street: Amselstraße
+housenumber: "10"
+phone: +49 2546 9899998
+opening_hours: Mo-Sa 09:00-20:00
+website: https://lilienthal-center.com/shop/ernstings-family/

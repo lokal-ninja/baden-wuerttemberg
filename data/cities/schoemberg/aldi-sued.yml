@@ -1,11 +1,11 @@
 id: 1249127653
-type: way
+type: node
 latitude: 48.7887
 longitude: 8.64338
 postcode: "75328"
 city: Schömberg
-street: "Talstraße"
-housenumber: 2
+street: Talstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/schoemberg/talstrasse-2"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/schoemberg/talstrasse-2

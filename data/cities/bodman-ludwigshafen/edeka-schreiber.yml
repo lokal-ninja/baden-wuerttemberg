@@ -1,11 +1,11 @@
 id: 202799966
-type: way
+type: node
 latitude: 47.81662
 longitude: 9.06057
 postcode: "78351"
 city: Bodman-Ludwigshafen
-street: "Salzbachäcker"
-housenumber: 9
-phone: "+49 7773 936589 0"
-opening_hours: "Apr-Sep: Mo-Sa 08:00-21:00; Oct-Mar: Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.edeka-schreiber.de"
+street: Salzbachäcker
+housenumber: "9"
+phone: +49 7773 936589 0
+opening_hours: 'Apr-Sep: Mo-Sa 08:00-21:00; Oct-Mar: Mo-Sa 08:00-20:00; Su,PH off'
+website: https://www.edeka-schreiber.de

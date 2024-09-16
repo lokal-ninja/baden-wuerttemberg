@@ -4,8 +4,8 @@ latitude: 48.08244
 longitude: 7.91222
 postcode: "79183"
 city: Waldkirch
-street: "Schwarzwaldstraße"
-housenumber: 78
-phone: "+49 7681 7574"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-16:00"
-website: "https://www.weingut-moosmann.com"
+street: Schwarzwaldstraße
+housenumber: "78"
+phone: +49 7681 7574
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-16:00
+website: https://www.weingut-moosmann.com

@@ -4,8 +4,8 @@ latitude: 49.51504
 longitude: 8.53422
 postcode: "68309"
 city: Mannheim
-street: "Gorxheimer Straße"
-housenumber: 3
-phone: "+49 621 71760 0"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.bauhaus.info/"
+street: Gorxheimer Straße
+housenumber: "3"
+phone: +49 621 71760 0
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.bauhaus.info/

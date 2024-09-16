@@ -1,11 +1,11 @@
 id: 233171329
-type: way
+type: node
 latitude: 48.81671
 longitude: 10.02786
 postcode: "73457"
 city: Essingen
-street: "Bahnhofstraße"
-housenumber: 77
+street: Bahnhofstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

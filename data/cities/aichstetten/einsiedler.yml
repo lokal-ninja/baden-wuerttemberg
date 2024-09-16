@@ -1,11 +1,11 @@
 id: 548057806
-type: way
+type: node
 latitude: 47.89083
 longitude: 10.07729
 postcode: "88317"
 city: Aichstetten
-street: "Hochstraße"
-housenumber: 31
-phone: "+49 7565 1207"
-opening_hours: "Mo-Fr 06:00-13:00,14:00-18:00; Sa 06:00-12:30; Su 07:30-10:30"
-website: "https://www.bäckerei-einsiedler.de/aichstetten.html"
+street: Hochstraße
+housenumber: "31"
+phone: +49 7565 1207
+opening_hours: Mo-Fr 06:00-13:00,14:00-18:00; Sa 06:00-12:30; Su 07:30-10:30
+website: https://www.bäckerei-einsiedler.de/aichstetten.html

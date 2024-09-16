@@ -1,11 +1,11 @@
 id: 208678902
-type: way
+type: node
 latitude: 48.95627
 longitude: 9.1526
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Pleidelsheimer Straße"
-housenumber: 25
+street: Pleidelsheimer Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://waldmann-edv.de/"
+website: https://waldmann-edv.de/

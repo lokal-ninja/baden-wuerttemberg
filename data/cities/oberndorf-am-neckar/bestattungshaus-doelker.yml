@@ -1,11 +1,11 @@
 id: 566072676
-type: way
+type: node
 latitude: 48.28651
 longitude: 8.57833
 postcode: "78727"
 city: Oberndorf am Neckar
-street: "Werkstraße"
-housenumber: 24
+street: Werkstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

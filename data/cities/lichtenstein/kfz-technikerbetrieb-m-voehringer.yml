@@ -4,8 +4,9 @@ latitude: 48.43903
 longitude: 9.25379
 postcode: "72805"
 city: Lichtenstein
-street: "Wilhelmstraße"
-housenumber: 110
-phone: "+49 7129 922916"
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:30; Fr 08:00-12:00, 13:00-17:30; Sa,Su, PH off"
+street: Wilhelmstraße
+housenumber: "110"
+phone: +49 7129 922916
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:30; Fr 08:00-12:00, 13:00-17:30; Sa,Su,
+    PH off
 website: ""

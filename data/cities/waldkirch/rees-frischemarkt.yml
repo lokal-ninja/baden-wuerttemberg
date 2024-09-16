@@ -1,11 +1,11 @@
 id: 105623256
-type: way
+type: node
 latitude: 48.08508
 longitude: 7.94608
 postcode: "79183"
 city: Waldkirch
-street: "Stahlhofstraße"
+street: Stahlhofstraße
 housenumber: 3b
-phone: "+49 7681 474603"
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.rees-frischemarkt.de/"
+phone: +49 7681 474603
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.rees-frischemarkt.de/

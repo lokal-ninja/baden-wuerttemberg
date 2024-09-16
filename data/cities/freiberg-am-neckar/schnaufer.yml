@@ -4,8 +4,9 @@ latitude: 48.92941
 longitude: 9.191
 postcode: "71691"
 city: Freiberg am Neckar
-street: "Friedrichstraße"
-housenumber: 2
-phone: "+497141 271665"
-opening_hours: "Sa 05:30-12:45; Mo, Tu 05:30-18:45; Th, Fr 05:30-18:45; We 05:30-12:45; Su 08:00-11:00"
+street: Friedrichstraße
+housenumber: "2"
+phone: +497141 271665
+opening_hours: Sa 05:30-12:45; Mo, Tu 05:30-18:45; Th, Fr 05:30-18:45; We 05:30-12:45;
+    Su 08:00-11:00
 website: ""

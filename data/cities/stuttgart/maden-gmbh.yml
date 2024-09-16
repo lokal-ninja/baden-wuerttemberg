@@ -1,11 +1,11 @@
 id: 40983595
-type: way
+type: node
 latitude: 48.72988
 longitude: 9.10365
 postcode: "70563"
 city: Stuttgart
-street: "Hauptstraße"
-housenumber: 77
+street: Hauptstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.maden.de/"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.maden.de/

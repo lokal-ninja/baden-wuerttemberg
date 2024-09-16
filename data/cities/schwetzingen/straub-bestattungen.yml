@@ -1,11 +1,11 @@
 id: 176932956
-type: way
+type: node
 latitude: 49.38692
 longitude: 8.57092
 postcode: "68723"
 city: Schwetzingen
-street: "Wildemannstraße"
-housenumber: 15
-phone: "+49 6202 12031"
+street: Wildemannstraße
+housenumber: "15"
+phone: +49 6202 12031
 opening_hours: ""
-website: "https://www.straub-bestattungen.de/"
+website: https://www.straub-bestattungen.de/

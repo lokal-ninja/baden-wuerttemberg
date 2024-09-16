@@ -1,11 +1,11 @@
 id: 616783945
-type: way
+type: node
 latitude: 48.49332
 longitude: 9.70133
 postcode: "89150"
 city: Laichingen
-street: "Graf-von-Zeppelin-Straße"
-housenumber: 2
+street: Graf-von-Zeppelin-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

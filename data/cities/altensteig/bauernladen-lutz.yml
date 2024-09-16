@@ -1,11 +1,11 @@
 id: 88543620
-type: way
+type: node
 latitude: 48.61997
 longitude: 8.64482
 postcode: "72213"
 city: Altensteig
-street: "Wildbader Straße"
-housenumber: 3
+street: Wildbader Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

@@ -1,11 +1,11 @@
 id: 551385786
-type: way
+type: node
 latitude: 48.69562
 longitude: 9.68196
 postcode: "73037"
 city: Göppingen
-street: "Heilbronner Straße"
-housenumber: 11
+street: Heilbronner Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.mk-electronic.de/"
+website: https://www.mk-electronic.de/

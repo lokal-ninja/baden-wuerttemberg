@@ -1,11 +1,11 @@
 id: 258866817
-type: way
+type: node
 latitude: 47.70501
 longitude: 9.55397
 postcode: "88074"
 city: Meckenbeuren
-street: "Eugen-Bolz-Straße"
-housenumber: 18
+street: Eugen-Bolz-Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "http://www.hsz-shop.de/"
+website: http://www.hsz-shop.de/

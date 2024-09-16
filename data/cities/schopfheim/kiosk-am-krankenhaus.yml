@@ -1,11 +1,11 @@
 id: 122246048
-type: way
+type: node
 latitude: 47.64705
 longitude: 7.82339
 postcode: "79650"
 city: Schopfheim
-street: "Schwarzwaldstraße"
-housenumber: 29
+street: Schwarzwaldstraße
+housenumber: "29"
 phone: ""
-opening_hours: "PH off; Mo-Fr 06:30-14:00"
+opening_hours: PH off; Mo-Fr 06:30-14:00
 website: ""

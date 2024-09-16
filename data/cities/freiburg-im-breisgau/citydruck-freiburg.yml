@@ -1,11 +1,11 @@
 id: 106311760
-type: way
+type: node
 latitude: 47.97967
 longitude: 7.82914
 postcode: "79100"
 city: Freiburg im Breisgau
-street: "Oltmannsstraße"
-housenumber: 5
+street: Oltmannsstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 09:00-13:00,14:00-16:00; Fr 09:00-14:00"
-website: "https://www.citydruck-freiburg.de"
+opening_hours: Mo-Th 09:00-13:00,14:00-16:00; Fr 09:00-14:00
+website: https://www.citydruck-freiburg.de

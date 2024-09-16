@@ -1,11 +1,11 @@
 id: 47900223
-type: way
+type: node
 latitude: 48.82143
 longitude: 9.28163
 postcode: "70736"
 city: Fellbach
-street: "Hertzstraße"
-housenumber: 12
+street: Hertzstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

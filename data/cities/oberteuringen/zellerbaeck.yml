@@ -4,8 +4,8 @@ latitude: 47.72443
 longitude: 9.46416
 postcode: "88094"
 city: Oberteuringen
-street: "Raiffeisenstraße"
-housenumber: 10
+street: Raiffeisenstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00;Su 07:30-10:30"
-website: "https://www.zellerbaeck.de/filiale-oberteuringen/"
+opening_hours: Mo-Sa 06:00-20:00;Su 07:30-10:30
+website: https://www.zellerbaeck.de/filiale-oberteuringen/

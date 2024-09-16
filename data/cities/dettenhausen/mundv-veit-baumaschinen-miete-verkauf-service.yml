@@ -4,8 +4,8 @@ latitude: 48.60529
 longitude: 9.09309
 postcode: "72135"
 city: Dettenhausen
-street: "Torstraße"
-housenumber: 11
-phone: "+49 7157 5299 200"
-opening_hours: "Mo-Fr 07:00-12:00,13:00-17:00"
-website: "https://www.baumaschinen-veit.de/"
+street: Torstraße
+housenumber: "11"
+phone: +49 7157 5299 200
+opening_hours: Mo-Fr 07:00-12:00,13:00-17:00
+website: https://www.baumaschinen-veit.de/

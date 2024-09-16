@@ -1,11 +1,11 @@
 id: 259064518
-type: way
+type: node
 latitude: 48.33227
 longitude: 9.03425
 postcode: "72417"
 city: Jungingen
-street: "An der Sägmühle"
-housenumber: 15
+street: An der Sägmühle
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

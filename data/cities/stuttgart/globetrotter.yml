@@ -4,8 +4,8 @@ latitude: 48.77263
 longitude: 9.17483
 postcode: "70178"
 city: Stuttgart
-street: "Tübinger Straße"
-housenumber: 11
-phone: "+49 711 7226440"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.globetrotter.de/filialen/stuttgart/filiale-stuttgart"
+street: Tübinger Straße
+housenumber: "11"
+phone: +49 711 7226440
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.globetrotter.de/filialen/stuttgart/filiale-stuttgart

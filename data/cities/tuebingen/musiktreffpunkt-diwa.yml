@@ -4,8 +4,8 @@ latitude: 48.48911
 longitude: 9.0683
 postcode: "72072"
 city: Tübingen
-street: "Hechinger Straße"
-housenumber: 264
-phone: "+49 7071 1386860"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; Sa 09:00-13:00"
-website: "https://www.musiktreffpunkt.com/"
+street: Hechinger Straße
+housenumber: "264"
+phone: +49 7071 1386860
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; Sa 09:00-13:00
+website: https://www.musiktreffpunkt.com/

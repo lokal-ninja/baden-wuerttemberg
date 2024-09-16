@@ -1,11 +1,11 @@
 id: 233682344
-type: way
+type: node
 latitude: 47.69179
 longitude: 9.5687
 postcode: "88074"
 city: Meckenbeuren
-street: "Dieselstraße"
-housenumber: 11
+street: Dieselstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

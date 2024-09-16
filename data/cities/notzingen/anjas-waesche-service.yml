@@ -1,11 +1,11 @@
 id: 216403796
-type: way
+type: node
 latitude: 48.67021
 longitude: 9.45785
 postcode: "73274"
 city: Notzingen
-street: "Wellinger Straße"
-housenumber: 2
+street: Wellinger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 164094867
-type: way
+type: node
 latitude: 49.21433
 longitude: 8.694
 postcode: "76684"
 city: Östringen
-street: "Thomas-Howie-Straße"
-housenumber: 1
+street: Thomas-Howie-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

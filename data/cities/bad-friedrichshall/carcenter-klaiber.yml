@@ -1,11 +1,11 @@
 id: 46722527
-type: way
+type: node
 latitude: 49.21382
 longitude: 9.21437
 postcode: "74177"
 city: Bad Friedrichshall
-street: "Bergrat-Bilfinger-Straße"
-housenumber: 11
+street: Bergrat-Bilfinger-Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

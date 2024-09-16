@@ -1,11 +1,11 @@
 id: 198147923
-type: way
+type: node
 latitude: 48.83067
 longitude: 9.13458
 postcode: "70825"
 city: Korntal-Münchingen
-street: "Zuffenhauser Straße"
-housenumber: 93
-phone: "+49 711 838 61 76"
-opening_hours: "Tu-Fr 09:00-12:30,13:30-18:30; Sa 10:00-14:00; Su,Mo off"
-website: "https://www.harley-davidson-stuttgart.de"
+street: Zuffenhauser Straße
+housenumber: "93"
+phone: +49 711 838 61 76
+opening_hours: Tu-Fr 09:00-12:30,13:30-18:30; Sa 10:00-14:00; Su,Mo off
+website: https://www.harley-davidson-stuttgart.de

@@ -4,8 +4,8 @@ latitude: 48.40827
 longitude: 9.0552
 postcode: "72116"
 city: Mössingen
-street: "Karl-Jaggy-Straße"
-housenumber: 25
-phone: "+49 7473 921097"
-opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,14:30-18:00; We 08:30-12:30; Sa 08:00-13:00"
-website: "https://www.creativ-center-moessingen.de/"
+street: Karl-Jaggy-Straße
+housenumber: "25"
+phone: +49 7473 921097
+opening_hours: Mo,Tu,Th,Fr 08:30-12:30,14:30-18:00; We 08:30-12:30; Sa 08:00-13:00
+website: https://www.creativ-center-moessingen.de/

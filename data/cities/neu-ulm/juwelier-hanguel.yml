@@ -4,8 +4,8 @@ latitude: 48.39454
 longitude: 9.9971
 postcode: "89231"
 city: Neu-Ulm
-street: "Marienstraße"
-housenumber: 1
+street: Marienstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-15:00"
-website: "https://juwelier-hangul.business.site/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-15:00
+website: https://juwelier-hangul.business.site/

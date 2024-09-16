@@ -4,8 +4,8 @@ latitude: 49.00055
 longitude: 9.75896
 postcode: "74405"
 city: Gaildorf
-street: "Seestraße"
-housenumber: 51
+street: Seestraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.awg-mode.de"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.awg-mode.de

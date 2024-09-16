@@ -1,11 +1,11 @@
 id: 741057993
-type: way
+type: node
 latitude: 49.02517
 longitude: 8.44911
 postcode: "76139"
 city: Karlsruhe
-street: "Karlsruher Straße"
-housenumber: 82
+street: Karlsruher Straße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Su,PH 05:00-22:00"
+opening_hours: Mo-Su,PH 05:00-22:00
 website: ""

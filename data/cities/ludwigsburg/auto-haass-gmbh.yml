@@ -1,11 +1,11 @@
 id: 281457863
-type: way
+type: node
 latitude: 48.88995
 longitude: 9.16386
 postcode: "71636"
 city: Ludwigsburg
-street: "Schwieberdinger Straße"
-housenumber: 125
+street: Schwieberdinger Straße
+housenumber: "125"
 phone: ""
 opening_hours: ""
-website: "http://www.auto-haass-ludwigsburg.de/"
+website: http://www.auto-haass-ludwigsburg.de/

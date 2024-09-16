@@ -1,11 +1,11 @@
 id: 267826747
-type: way
+type: node
 latitude: 48.25022
 longitude: 8.87302
 postcode: "72336"
 city: Balingen
-street: "St.-Gallus-Straße"
-housenumber: 30
+street: St.-Gallus-Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Fr,Sa 08:30-12:30"
+opening_hours: Fr,Sa 08:30-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.69245
 longitude: 9.56601
 postcode: "88074"
 city: Meckenbeuren
-street: "Wiesentalstraße"
-housenumber: 41
-phone: "+49 7542 9350-0"
-opening_hours: "Mo-We,Sa 09:00-18:00; Th,Fr 09:00-18:30"
-website: "https://www.moebel-block.de/"
+street: Wiesentalstraße
+housenumber: "41"
+phone: +49 7542 9350-0
+opening_hours: Mo-We,Sa 09:00-18:00; Th,Fr 09:00-18:30
+website: https://www.moebel-block.de/

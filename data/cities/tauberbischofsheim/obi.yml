@@ -1,11 +1,11 @@
 id: 358890513
-type: way
+type: node
 latitude: 49.63081
 longitude: 9.66675
 postcode: "97941"
 city: Tauberbischofsheim
-street: "Duderstädter Allee"
-housenumber: 33
+street: Duderstädter Allee
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

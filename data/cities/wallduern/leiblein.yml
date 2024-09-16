@@ -1,11 +1,11 @@
 id: 298745554
-type: way
+type: node
 latitude: 49.57589
 longitude: 9.35961
 postcode: "74731"
 city: Walldürn
-street: "Dr.-Heinrich-Köhler-Straße"
-housenumber: 23
+street: Dr.-Heinrich-Köhler-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:00-13:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 258757482
-type: way
+type: node
 latitude: 48.10121
 longitude: 9.46214
 postcode: "88521"
 city: Ertingen
-street: "Hirschstraße"
-housenumber: 5
+street: Hirschstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

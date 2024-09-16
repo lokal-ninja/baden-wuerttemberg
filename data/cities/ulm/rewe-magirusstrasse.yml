@@ -1,11 +1,11 @@
 id: 129782958
-type: way
+type: node
 latitude: 48.39284
 longitude: 9.96487
 postcode: "89077"
 city: Ulm
-street: "Magirusstraße"
-housenumber: 45
+street: Magirusstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

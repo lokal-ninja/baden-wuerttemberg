@@ -4,8 +4,8 @@ latitude: 47.99161
 longitude: 7.79189
 postcode: "79111"
 city: Freiburg im Breisgau
-street: "Waltershofener Straße"
-housenumber: 8
-phone: "+49 761 4882351"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
+street: Waltershofener Straße
+housenumber: "8"
+phone: +49 761 4882351
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
 website: ""

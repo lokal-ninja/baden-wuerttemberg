@@ -1,11 +1,11 @@
 id: 261443566
-type: way
+type: node
 latitude: 49.63814
 longitude: 9.65218
 postcode: "97941"
 city: Tauberbischofsheim
-street: "Daimlerstraße"
-housenumber: 5
+street: Daimlerstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

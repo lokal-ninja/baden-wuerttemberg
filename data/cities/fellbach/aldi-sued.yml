@@ -1,11 +1,11 @@
 id: 30607950
-type: way
+type: node
 latitude: 48.8153
 longitude: 9.26516
 postcode: "70736"
 city: Fellbach
-street: "Erich-Herion-Straße"
-housenumber: 70
+street: Erich-Herion-Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

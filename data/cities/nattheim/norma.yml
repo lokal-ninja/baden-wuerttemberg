@@ -1,11 +1,11 @@
 id: 38873303
-type: way
+type: node
 latitude: 48.69722
 longitude: 10.24809
 postcode: "89564"
 city: Nattheim
-street: "Fleinheimer Straße"
-housenumber: 50
+street: Fleinheimer Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.62518
 longitude: 9.34497
 postcode: "72622"
 city: Nürtingen
-street: "Schafstraße"
-housenumber: 20
-phone: "+49 7022 2084260"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://www.handel-elektrotechnik.de"
+street: Schafstraße
+housenumber: "20"
+phone: +49 7022 2084260
+opening_hours: Mo-Fr 08:00-16:00
+website: https://www.handel-elektrotechnik.de

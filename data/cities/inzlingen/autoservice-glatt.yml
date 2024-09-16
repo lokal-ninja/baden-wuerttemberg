@@ -1,11 +1,11 @@
 id: 97238775
-type: way
+type: node
 latitude: 47.59216
 longitude: 7.7017
 postcode: "79594"
 city: Inzlingen
-street: "Schloßstraße"
-housenumber: 4
-phone: "+49 7621 86444"
-opening_hours: "Tu-Fr 10:00-20:00; Sa 10:00-17:00"
-website: "https://www.autotechnologie.de/"
+street: Schloßstraße
+housenumber: "4"
+phone: +49 7621 86444
+opening_hours: Tu-Fr 10:00-20:00; Sa 10:00-17:00
+website: https://www.autotechnologie.de/

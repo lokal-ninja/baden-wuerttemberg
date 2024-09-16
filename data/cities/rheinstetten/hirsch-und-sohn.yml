@@ -1,11 +1,11 @@
 id: 117871188
-type: way
+type: node
 latitude: 48.98227
 longitude: 8.32586
 postcode: "76287"
 city: Rheinstetten
-street: "Großklamm"
-housenumber: 2
+street: Großklamm
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

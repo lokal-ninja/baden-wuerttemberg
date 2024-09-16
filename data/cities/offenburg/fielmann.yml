@@ -4,8 +4,8 @@ latitude: 48.46947
 longitude: 7.94546
 postcode: "77652"
 city: Offenburg
-street: "Steinstraße"
-housenumber: 23
-phone: "+49 781 9709680"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "https://www.fielmann.de/niederlassungen/offenburg/77652-steinstrasse-23/"
+street: Steinstraße
+housenumber: "23"
+phone: +49 781 9709680
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: https://www.fielmann.de/niederlassungen/offenburg/77652-steinstrasse-23/

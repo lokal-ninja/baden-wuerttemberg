@@ -1,11 +1,11 @@
 id: 295621778
-type: way
+type: node
 latitude: 47.881
 longitude: 7.64492
 postcode: "79423"
 city: Heitersheim
-street: "Raiffeisenstraße"
-housenumber: 2
-phone: "+49 7634 529130"
-opening_hours: "Mo-Fr 08:30-12:30,13:30-18:00; Sa 08:30-12:30"
-website: "https://www.zg-raiffeisen.de/"
+street: Raiffeisenstraße
+housenumber: "2"
+phone: +49 7634 529130
+opening_hours: Mo-Fr 08:30-12:30,13:30-18:00; Sa 08:30-12:30
+website: https://www.zg-raiffeisen.de/

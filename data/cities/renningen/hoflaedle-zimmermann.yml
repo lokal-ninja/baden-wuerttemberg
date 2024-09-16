@@ -4,8 +4,8 @@ latitude: 48.77683
 longitude: 8.9455
 postcode: "71272"
 city: Renningen
-street: "Lauerhalde"
-housenumber: 
+street: Lauerhalde
+housenumber: ""
 phone: ""
-opening_hours: "Mo,Tu,Th 09:30-12:30,15:00-18:30; We off; Fr 09:30-18:30; Sa 08:00-13:00"
-website: "https://www.hoflaedle.de/"
+opening_hours: Mo,Tu,Th 09:30-12:30,15:00-18:30; We off; Fr 09:30-18:30; Sa 08:00-13:00
+website: https://www.hoflaedle.de/

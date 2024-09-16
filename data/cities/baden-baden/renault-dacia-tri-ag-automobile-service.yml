@@ -4,8 +4,8 @@ latitude: 48.78132
 longitude: 8.18582
 postcode: ""
 city: Baden-Baden
-street: "Saarstraße"
-housenumber: 15
-phone: "+49 7221 64848"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-16:00; Su,PH off"
-website: "https://renault-triag-badenbaden.de/"
+street: Saarstraße
+housenumber: "15"
+phone: +49 7221 64848
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-16:00; Su,PH off
+website: https://renault-triag-badenbaden.de/

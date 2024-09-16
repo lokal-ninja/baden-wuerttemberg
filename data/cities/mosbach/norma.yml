@@ -1,11 +1,11 @@
 id: 290459607
-type: way
+type: node
 latitude: 49.34639
 longitude: 9.13517
 postcode: "74821"
 city: Mosbach
-street: "Neckarelzer Straße"
-housenumber: 43
+street: Neckarelzer Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

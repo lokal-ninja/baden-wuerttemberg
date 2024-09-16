@@ -1,11 +1,11 @@
 id: 192403385
-type: way
+type: node
 latitude: 49.12892
 longitude: 8.41896
 postcode: "76351"
 city: Linkenheim-Hochstetten
-street: "Durlacher Weg"
-housenumber: 2
+street: Durlacher Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH closed"
+opening_hours: Mo-Sa 08:00-20:00; PH closed
 website: ""

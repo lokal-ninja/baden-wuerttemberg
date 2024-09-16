@@ -1,11 +1,11 @@
 id: 322925134
-type: way
+type: node
 latitude: 48.5678
 longitude: 9.30642
 postcode: "72661"
 city: Grafenberg
-street: "Bergstraße"
-housenumber: 6
+street: Bergstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

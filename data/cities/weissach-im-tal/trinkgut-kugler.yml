@@ -1,11 +1,11 @@
 id: 169524801
-type: way
+type: node
 latitude: 48.92769
 longitude: 9.46799
 postcode: "71554"
 city: Weissach im Tal
-street: "Stuttgarter Straße"
-housenumber: 76
-phone: "+49-7191-52840"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+street: Stuttgarter Straße
+housenumber: "76"
+phone: +49-7191-52840
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.56606
 longitude: 8.06092
 postcode: "77704"
 city: Oberkirch
-street: "Haslacher Straße"
-housenumber: 25
-phone: "+49 7802 9838287"
-opening_hours: "Th 14:00-18:30; Fr 08:00-13:00, 14:00-18:30; Sa 07:00-12:00"
-website: "https://www.metzgerei-birk.de/"
+street: Haslacher Straße
+housenumber: "25"
+phone: +49 7802 9838287
+opening_hours: Th 14:00-18:30; Fr 08:00-13:00, 14:00-18:30; Sa 07:00-12:00
+website: https://www.metzgerei-birk.de/

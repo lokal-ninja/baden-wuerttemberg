@@ -1,11 +1,11 @@
 id: 228740342
-type: way
+type: node
 latitude: 48.85856
 longitude: 9.79633
 postcode: "73568"
 city: Durlangen
-street: "Tanauer Straße"
-housenumber: 19
-phone: "+49 7176 751"
-opening_hours: "Mo-Sa 08:00-12:00; PH off"
-website: "https://www.floristik-trends.de/"
+street: Tanauer Straße
+housenumber: "19"
+phone: +49 7176 751
+opening_hours: Mo-Sa 08:00-12:00; PH off
+website: https://www.floristik-trends.de/

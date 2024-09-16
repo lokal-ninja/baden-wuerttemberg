@@ -4,8 +4,8 @@ latitude: 47.59328
 longitude: 7.61076
 postcode: "79576"
 city: Weil am Rhein
-street: "Rathausplatz"
-housenumber: 5
-phone: "+49 7621 4242181"
-opening_hours: "Mo-Th 14:00-18:30; Fr-Su,PH off"
-website: "https://www.lorenz-uhrmachermeister.de/"
+street: Rathausplatz
+housenumber: "5"
+phone: +49 7621 4242181
+opening_hours: Mo-Th 14:00-18:30; Fr-Su,PH off
+website: https://www.lorenz-uhrmachermeister.de/

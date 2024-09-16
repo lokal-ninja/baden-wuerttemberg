@@ -1,11 +1,11 @@
 id: 183902855
-type: way
+type: node
 latitude: 49.44227
 longitude: 9.33567
 postcode: "74743"
 city: Seckach
-street: "Bahnhofstraße"
-housenumber: 45
-phone: "+49 6292 9287978"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-14:00"
+street: Bahnhofstraße
+housenumber: "45"
+phone: +49 6292 9287978
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-14:00
 website: ""

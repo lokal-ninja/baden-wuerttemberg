@@ -4,8 +4,8 @@ latitude: 48.77641
 longitude: 9.18192
 postcode: "70173"
 city: Stuttgart
-street: "Charlottenplatz"
-housenumber: 17
+street: Charlottenplatz
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://weltladen-planie-stuttgart.de/"
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://weltladen-planie-stuttgart.de/

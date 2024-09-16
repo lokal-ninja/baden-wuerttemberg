@@ -4,8 +4,8 @@ latitude: 48.97687
 longitude: 9.57994
 postcode: "71540"
 city: Murrhardt
-street: "Friedenstraße"
-housenumber: 26
+street: Friedenstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 09:00-13:00,14:30-18:00; We 09:00-13:00; Sa 09:00-12:30"
-website: "http://www.schuh-schlepple.de/"
+opening_hours: Mo-Tu,Th-Fr 09:00-13:00,14:30-18:00; We 09:00-13:00; Sa 09:00-12:30
+website: http://www.schuh-schlepple.de/

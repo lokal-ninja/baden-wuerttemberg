@@ -4,8 +4,8 @@ latitude: 47.67976
 longitude: 9.16263
 postcode: "78467"
 city: Konstanz
-street: "Joseph-Belli-Weg"
-housenumber: 3
+street: Joseph-Belli-Weg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-12:00"
-website: "https://www.kostbar-bodensee.de"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-12:00
+website: https://www.kostbar-bodensee.de

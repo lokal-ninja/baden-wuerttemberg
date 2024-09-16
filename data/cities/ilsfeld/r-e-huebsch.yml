@@ -1,11 +1,11 @@
 id: 88409820
-type: way
+type: node
 latitude: 49.05739
 longitude: 9.28324
 postcode: "74360"
 city: Ilsfeld
-street: "Schillerstraße"
-housenumber: 12
+street: Schillerstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

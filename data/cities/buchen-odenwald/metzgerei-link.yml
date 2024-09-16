@@ -1,11 +1,11 @@
 id: 345708144
-type: way
+type: node
 latitude: 49.53928
 longitude: 9.33012
 postcode: "74722"
 city: Buchen (Odenwald)
-street: "Hornbacher Straße"
-housenumber: 4
+street: Hornbacher Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

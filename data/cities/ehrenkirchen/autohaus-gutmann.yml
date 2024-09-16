@@ -1,11 +1,11 @@
 id: 88855161
-type: way
+type: node
 latitude: 47.91357
 longitude: 7.75699
 postcode: "79238"
 city: Ehrenkirchen
-street: "Wentzinger Straße"
-housenumber: 12
+street: Wentzinger Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.renault-gutmann.de/"
+website: https://www.renault-gutmann.de/

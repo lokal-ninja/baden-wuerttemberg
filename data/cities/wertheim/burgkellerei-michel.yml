@@ -4,8 +4,8 @@ latitude: 49.7601
 longitude: 9.51911
 postcode: "97877"
 city: Wertheim
-street: "Eichelgasse"
-housenumber: 42
-phone: "+49 9342 1385"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.burgkellerei.de/"
+street: Eichelgasse
+housenumber: "42"
+phone: +49 9342 1385
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.burgkellerei.de/

@@ -1,11 +1,11 @@
 id: 91513665
-type: way
+type: node
 latitude: 48.7979
 longitude: 9.79674
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Münstergasse"
-housenumber: 8
+street: Münstergasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.fresco-bioweine.de/"
+website: https://www.fresco-bioweine.de/

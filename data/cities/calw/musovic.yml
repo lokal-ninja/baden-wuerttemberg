@@ -1,11 +1,11 @@
 id: 106691319
-type: way
+type: node
 latitude: 48.7127
 longitude: 8.74049
 postcode: "75365"
 city: Calw
-street: "Badstraße"
-housenumber: 16
+street: Badstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 15:00-17:00"
+opening_hours: Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 15:00-17:00
 website: ""

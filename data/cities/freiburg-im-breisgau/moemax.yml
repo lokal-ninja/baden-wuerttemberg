@@ -1,11 +1,11 @@
 id: 90702673
-type: way
+type: node
 latitude: 48.02828
 longitude: 7.85899
 postcode: "79108"
 city: Freiburg im Breisgau
-street: "Gundelfinger Straße"
+street: Gundelfinger Straße
 housenumber: 2a
-phone: "+49 30 255498020"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.moemax.de/filiale/moemax-freiburg/CF"
+phone: +49 30 255498020
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.moemax.de/filiale/moemax-freiburg/CF

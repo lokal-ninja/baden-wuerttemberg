@@ -4,8 +4,8 @@ latitude: 49.12172
 longitude: 8.57297
 postcode: "76646"
 city: Bruchsal
-street: "Draisstraße"
-housenumber: 5
+street: Draisstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa by appointment; PH,Su off"
+opening_hours: Mo-Fr 08:00-18:00; Sa "by appointment"; PH,Su off
 website: ""

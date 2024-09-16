@@ -1,11 +1,11 @@
 id: 62078019
-type: way
+type: node
 latitude: 48.63264
 longitude: 9.0356
 postcode: "71093"
 city: Weil im Schönbuch
-street: "Max-Brose-Straße"
-housenumber: 4
+street: Max-Brose-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.braun-saegewerk.de/"
+website: https://www.braun-saegewerk.de/

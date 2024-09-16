@@ -1,11 +1,11 @@
 id: 241022201
-type: way
+type: node
 latitude: 49.07504
 longitude: 9.1547
 postcode: "74348"
 city: Lauffen am Neckar
-street: "Stuttgarter Straße"
-housenumber: 3
+street: Stuttgarter Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

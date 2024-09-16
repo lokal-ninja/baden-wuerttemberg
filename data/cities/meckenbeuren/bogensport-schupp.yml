@@ -4,8 +4,8 @@ latitude: 47.69937
 longitude: 9.55911
 postcode: "88074"
 city: Meckenbeuren
-street: "Ernst-Lehmann-Straße"
-housenumber: 32
+street: Ernst-Lehmann-Straße
+housenumber: "32"
 phone: "+4915254265407"
-opening_hours: "Tu-Fr 14:00-18:00"
-website: "https://www.bogensport-schupp.de/"
+opening_hours: Tu-Fr 14:00-18:00
+website: https://www.bogensport-schupp.de/

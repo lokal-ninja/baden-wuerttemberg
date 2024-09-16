@@ -1,11 +1,11 @@
 id: 226998178
-type: way
+type: node
 latitude: 48.48709
 longitude: 7.92386
 postcode: "77656"
 city: Offenburg
-street: "Hanns-Martin-Schleyer-Straße"
-housenumber: 27
+street: Hanns-Martin-Schleyer-Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.kiebel.de/"
+website: https://www.kiebel.de/

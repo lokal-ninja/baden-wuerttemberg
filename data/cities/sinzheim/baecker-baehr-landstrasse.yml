@@ -1,11 +1,11 @@
 id: 108436950
-type: way
+type: node
 latitude: 48.76295
 longitude: 8.16864
 postcode: ""
 city: Sinzheim
-street: "Landstraße"
-housenumber: 46
+street: Landstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:15; Sa 05:30-12:30"
-website: "https://baecker-baehr.de/"
+opening_hours: Mo-Fr 05:30-18:15; Sa 05:30-12:30
+website: https://baecker-baehr.de/

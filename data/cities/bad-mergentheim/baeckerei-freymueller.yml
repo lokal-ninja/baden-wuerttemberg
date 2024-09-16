@@ -1,11 +1,11 @@
 id: 523999284
-type: way
+type: node
 latitude: 49.44252
 longitude: 9.79303
 postcode: "97980"
 city: Bad Mergentheim
-street: "Dorfstraße"
-housenumber: 108
+street: Dorfstraße
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 210464126
-type: way
+type: node
 latitude: 48.80325
 longitude: 9.21543
 postcode: "70372"
 city: Stuttgart
-street: "Badstraße"
-housenumber: 11
+street: Badstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.945
 longitude: 7.95104
 postcode: "79254"
 city: Oberried
-street: "Geroldstal"
-housenumber: 1
+street: Geroldstal
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.steiertbartlehof.de/"
+opening_hours: 24/7
+website: https://www.steiertbartlehof.de/

@@ -1,11 +1,11 @@
 id: 540962428
-type: way
+type: node
 latitude: 48.41631
 longitude: 9.03931
 postcode: "72131"
 city: Ofterdingen
-street: "Krummenstraße"
-housenumber: 7
-phone: "+49 7473 21212"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00"
-website: "http://www.toyota-hildebrandt-theil-ofterdingen.de"
+street: Krummenstraße
+housenumber: "7"
+phone: +49 7473 21212
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00
+website: http://www.toyota-hildebrandt-theil-ofterdingen.de

@@ -1,11 +1,11 @@
 id: 192348106
-type: way
+type: node
 latitude: 49.42074
 longitude: 9.44771
 postcode: "74706"
 city: Osterburken
-street: "Industriepark"
-housenumber: 13
+street: Industriepark
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "http://www.autolackiererei-ball.de/"
+website: http://www.autolackiererei-ball.de/

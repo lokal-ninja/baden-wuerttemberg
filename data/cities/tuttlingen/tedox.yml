@@ -1,11 +1,11 @@
 id: 119351501
-type: way
+type: node
 latitude: 47.99626
 longitude: 8.82652
 postcode: "78532"
 city: Tuttlingen
-street: "Ludwigstaler Straße"
-housenumber: 135
+street: Ludwigstaler Straße
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

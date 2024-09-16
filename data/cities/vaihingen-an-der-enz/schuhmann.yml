@@ -1,11 +1,11 @@
 id: 48172013
-type: way
+type: node
 latitude: 48.92885
 longitude: 8.97014
 postcode: "71665"
 city: Vaihingen an der Enz
-street: "Einsteinstraße"
-housenumber: 25
-phone: "+49 7042 92348"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+street: Einsteinstraße
+housenumber: "25"
+phone: +49 7042 92348
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

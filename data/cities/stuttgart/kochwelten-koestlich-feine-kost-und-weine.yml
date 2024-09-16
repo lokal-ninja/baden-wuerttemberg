@@ -4,8 +4,8 @@ latitude: 48.75685
 longitude: 9.25571
 postcode: "70329"
 city: Stuttgart
-street: "Ruiter Straße"
-housenumber: 8
+street: Ruiter Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Tu 10:00-12:00; Th 10:00-12:00; Sa 10:00-12:00"
-website: "https://sonja-lenz.de/Kochwelten-Koestlich-Essen-im-Glas"
+opening_hours: Tu 10:00-12:00; Th 10:00-12:00; Sa 10:00-12:00
+website: https://sonja-lenz.de/Kochwelten-Koestlich-Essen-im-Glas

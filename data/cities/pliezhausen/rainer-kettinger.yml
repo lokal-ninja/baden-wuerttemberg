@@ -1,11 +1,11 @@
 id: 109714022
-type: way
+type: node
 latitude: 48.5614
 longitude: 9.20934
 postcode: "72124"
 city: Pliezhausen
-street: "Esslinger Straße"
-housenumber: 38
+street: Esslinger Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

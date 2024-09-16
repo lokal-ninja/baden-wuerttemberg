@@ -1,11 +1,11 @@
 id: 854989133
-type: way
+type: node
 latitude: 49.4775
 longitude: 9.76583
 postcode: "97980"
 city: Bad Mergentheim
-street: "Althäuser Straße"
-housenumber: 11
+street: Althäuser Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

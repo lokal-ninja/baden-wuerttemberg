@@ -4,8 +4,8 @@ latitude: 48.63529
 longitude: 8.06299
 postcode: "77855"
 city: Achern
-street: "Severinstraße"
-housenumber: 2
-phone: "+49 7841 606767"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00"
-website: "https://www.1a-wohnmobile.de/"
+street: Severinstraße
+housenumber: "2"
+phone: +49 7841 606767
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00
+website: https://www.1a-wohnmobile.de/

@@ -1,11 +1,11 @@
 id: 129582085
-type: way
+type: node
 latitude: 49.03094
 longitude: 8.34036
 postcode: "76187"
 city: Karlsruhe
-street: "Elsässer Platz"
-housenumber: 2
+street: Elsässer Platz
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

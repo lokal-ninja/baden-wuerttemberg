@@ -1,11 +1,11 @@
 id: 168971521
-type: way
+type: node
 latitude: 49.46217
 longitude: 8.98584
 postcode: "69412"
 city: Eberbach
-street: "Obere Badstraße"
-housenumber: 12
+street: Obere Badstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

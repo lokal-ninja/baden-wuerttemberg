@@ -1,11 +1,11 @@
 id: 227569057
-type: way
+type: node
 latitude: 48.80102
 longitude: 9.79822
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Postgasse"
-housenumber: 7
+street: Postgasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00; Su, PH off"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00; Su, PH off
 website: ""

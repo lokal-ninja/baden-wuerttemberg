@@ -1,11 +1,11 @@
 id: 30707148
-type: way
+type: node
 latitude: 49.15428
 longitude: 9.21564
 postcode: "74076"
 city: Heilbronn
-street: "Koepffstraße"
-housenumber: 7
+street: Koepffstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "www.fahrrad-bender.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: www.fahrrad-bender.de

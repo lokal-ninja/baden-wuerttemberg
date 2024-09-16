@@ -1,11 +1,11 @@
 id: 26270374
-type: way
+type: node
 latitude: 47.56083
 longitude: 7.96015
 postcode: "79713"
 city: Bad Säckingen
-street: "Im Häflä"
-housenumber: 1
+street: Im Häflä
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

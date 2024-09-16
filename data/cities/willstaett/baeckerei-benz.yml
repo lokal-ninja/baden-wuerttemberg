@@ -1,11 +1,11 @@
 id: 301465799
-type: way
+type: node
 latitude: 48.54167
 longitude: 7.89308
 postcode: ""
 city: Willstätt
-street: "Hauptstraße"
-housenumber: 39
+street: Hauptstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

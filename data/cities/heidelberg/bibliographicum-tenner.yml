@@ -4,8 +4,8 @@ latitude: 49.41183
 longitude: 8.71018
 postcode: "69117"
 city: Heidelberg
-street: "Hauptstraße"
-housenumber: 194
-phone: "+49 6221 26252"
-opening_hours: "Mo-Fr 11:00-17:30; Sa 09:00-16:00"
-website: "https://www.bibliographicum.de/"
+street: Hauptstraße
+housenumber: "194"
+phone: +49 6221 26252
+opening_hours: Mo-Fr 11:00-17:30; Sa 09:00-16:00
+website: https://www.bibliographicum.de/

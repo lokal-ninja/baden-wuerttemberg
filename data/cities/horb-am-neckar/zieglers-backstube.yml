@@ -1,11 +1,11 @@
 id: 37230388
-type: way
+type: node
 latitude: 48.44205
 longitude: 8.68587
 postcode: "72160"
 city: Horb am Neckar
-street: "Bahnhofplatz"
-housenumber: 22
-phone: "+49 7451 5571483"
-opening_hours: "Mo-Fr 04:30-19:00; Sa 05:00-19:00; Su 07:00-19:00"
-website: "https://www.das-ist-ziegler.de/standorte/cafe-horb"
+street: Bahnhofplatz
+housenumber: "22"
+phone: +49 7451 5571483
+opening_hours: Mo-Fr 04:30-19:00; Sa 05:00-19:00; Su 07:00-19:00
+website: https://www.das-ist-ziegler.de/standorte/cafe-horb

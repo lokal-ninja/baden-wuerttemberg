@@ -1,11 +1,11 @@
 id: 1283752342
-type: way
+type: node
 latitude: 48.78794
 longitude: 8.5785
 postcode: "75323"
 city: Bad Wildbad
-street: "Beermiß"
-housenumber: 27
+street: Beermiß
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

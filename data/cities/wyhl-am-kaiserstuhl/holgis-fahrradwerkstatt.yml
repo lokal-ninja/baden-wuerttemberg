@@ -4,8 +4,8 @@ latitude: 48.16772
 longitude: 7.6499
 postcode: "79369"
 city: Wyhl am Kaiserstuhl
-street: "Rheinstraße"
-housenumber: 2
-phone: "+49 7642 6830682"
-opening_hours: "We 16:00-19:00; Fr 15:00-18:00; Sa 10:00-14:00 || nach Vereinbarung"
-website: "https://holgisfahrradwerkstatt.jimdofree.com/"
+street: Rheinstraße
+housenumber: "2"
+phone: +49 7642 6830682
+opening_hours: We 16:00-19:00; Fr 15:00-18:00; Sa 10:00-14:00 || "nach Vereinbarung"
+website: https://holgisfahrradwerkstatt.jimdofree.com/

@@ -4,8 +4,9 @@ latitude: 48.50158
 longitude: 8.99583
 postcode: "72070"
 city: Tübingen
-street: "Kingersheimer Straße"
-housenumber: 55
+street: Kingersheimer Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Mar-Oct: Mo-Tu,Th-Fr 15:00-18:00; Sa 09:00-12:00; We,Su,PH off; Nov-Feb: Mo-Tu,Th-Fr 15:00-18:00; We,Sa,Su,PH off"
+opening_hours: 'Mar-Oct: Mo-Tu,Th-Fr 15:00-18:00; Sa 09:00-12:00; We,Su,PH off; Nov-Feb:
+    Mo-Tu,Th-Fr 15:00-18:00; We,Sa,Su,PH off'
 website: ""

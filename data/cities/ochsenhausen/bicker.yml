@@ -1,11 +1,11 @@
 id: 216016977
-type: way
+type: node
 latitude: 48.07047
 longitude: 9.95177
 postcode: ""
 city: Ochsenhausen
-street: "Marktplatz"
-housenumber: 47
+street: Marktplatz
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

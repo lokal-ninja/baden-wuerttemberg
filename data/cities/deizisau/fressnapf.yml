@@ -1,11 +1,11 @@
 id: 355153354
-type: way
+type: node
 latitude: 48.71535
 longitude: 9.37724
 postcode: "73779"
 city: Deizisau
-street: "Esslinger Straße"
-housenumber: 14
+street: Esslinger Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
+opening_hours: Mo-Sa 09:00-20:00; PH off
 website: ""

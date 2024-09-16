@@ -1,11 +1,11 @@
 id: 315239662
-type: way
+type: node
 latitude: 48.96024
 longitude: 9.06252
 postcode: "74343"
 city: Sachsenheim
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://cannamoda.de/"
+website: https://cannamoda.de/

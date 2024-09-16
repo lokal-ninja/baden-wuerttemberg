@@ -4,8 +4,8 @@ latitude: 48.1497
 longitude: 9.47867
 postcode: ""
 city: Riedlingen
-street: "Kastanienallee"
-housenumber: 13
-phone: "+49 7371 2042"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa Nur nach Vereinbarung; PH off"
-website: "https://www.bs-autotechnik.com/"
+street: Kastanienallee
+housenumber: "13"
+phone: +49 7371 2042
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa "Nur nach Vereinbarung"; PH off
+website: https://www.bs-autotechnik.com/

@@ -1,11 +1,11 @@
 id: 211525352
-type: way
+type: node
 latitude: 49.20056
 longitude: 9.49307
 postcode: "74613"
 city: Öhringen
-street: "Berliner Straße"
-housenumber: 16
-phone: "+49 7941 91760"
+street: Berliner Straße
+housenumber: "16"
+phone: +49 7941 91760
 opening_hours: ""
-website: "https://www.zweirad-carle.de/"
+website: https://www.zweirad-carle.de/

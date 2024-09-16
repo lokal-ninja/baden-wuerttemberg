@@ -4,8 +4,9 @@ latitude: 47.69886
 longitude: 9.06184
 postcode: "78479"
 city: Reichenau
-street: "Münsterplatz"
-housenumber: 4
-phone: "+49 7534 293"
-opening_hours: "Apr-Oct: Mo-Fr 09:00-18:00, Sa 10:00-16:00, Su,PH off; Nov-Mar: Mo-Fr 10:00-17:00, Sa 10:00-14:00, Su,PH off"
-website: "https://www.winzerverein-reichenau.de/"
+street: Münsterplatz
+housenumber: "4"
+phone: +49 7534 293
+opening_hours: 'Apr-Oct: Mo-Fr 09:00-18:00, Sa 10:00-16:00, Su,PH off; Nov-Mar: Mo-Fr
+    10:00-17:00, Sa 10:00-14:00, Su,PH off'
+website: https://www.winzerverein-reichenau.de/

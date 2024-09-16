@@ -4,8 +4,8 @@ latitude: 49.45005
 longitude: 8.67197
 postcode: "69221"
 city: Dossenheim
-street: "Bahnhofstraße"
-housenumber: 3
-phone: "+49 6221 866622"
-opening_hours: "Tu,Th 09:00-22:00 We,Fr 09:00-18:00; Sa 08:00-14:00"
-website: "https://hin.hair/"
+street: Bahnhofstraße
+housenumber: "3"
+phone: +49 6221 866622
+opening_hours: Tu,Th 09:00-22:00 We,Fr 09:00-18:00; Sa 08:00-14:00
+website: https://hin.hair/

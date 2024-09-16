@@ -1,11 +1,11 @@
 id: 113033546
-type: way
+type: node
 latitude: 48.71935
 longitude: 9.32257
 postcode: "73734"
 city: Esslingen am Neckar
-street: "Kronenstraße"
-housenumber: 9
+street: Kronenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

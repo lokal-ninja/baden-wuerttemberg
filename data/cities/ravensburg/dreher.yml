@@ -1,11 +1,11 @@
 id: 283271345
-type: way
+type: node
 latitude: 47.77719
 longitude: 9.56764
 postcode: "88213"
 city: Ravensburg
-street: "Zuppingerstraße"
-housenumber: 9
+street: Zuppingerstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.opel-dreher.de/standorte/ravensburg.html"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.opel-dreher.de/standorte/ravensburg.html

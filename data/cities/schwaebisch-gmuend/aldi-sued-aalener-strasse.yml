@@ -1,11 +1,11 @@
 id: 582802100
-type: way
+type: node
 latitude: 48.80427
 longitude: 9.80618
 postcode: "73529"
 city: Schwäbisch Gmünd
-street: "Aalener Straße"
-housenumber: 5
+street: Aalener Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su, PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su, PH off
 website: ""

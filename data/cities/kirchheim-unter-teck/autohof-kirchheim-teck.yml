@@ -1,11 +1,11 @@
 id: 359608772
-type: way
+type: node
 latitude: 48.64415
 longitude: 9.43035
 postcode: "73230"
 city: Kirchheim unter Teck
-street: "Kruichling"
-housenumber: 15
-phone: "+49 7021 980000"
+street: Kruichling
+housenumber: "15"
+phone: +49 7021 980000
 opening_hours: ""
 website: ""

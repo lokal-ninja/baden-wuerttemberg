@@ -1,11 +1,11 @@
 id: 25818904
-type: way
+type: node
 latitude: 47.80457
 longitude: 7.6252
 postcode: "79379"
 city: Müllheim im Markgräflerland
-street: "Unterer Brühl"
-housenumber: 7
+street: Unterer Brühl
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/muellheim/unterer-bruehl-7.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/muellheim/unterer-bruehl-7.html

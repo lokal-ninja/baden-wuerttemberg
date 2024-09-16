@@ -1,11 +1,11 @@
 id: 173232119
-type: way
+type: node
 latitude: 48.94447
 longitude: 9.49642
 postcode: "71549"
 city: Auenwald
-street: "Unterbrüdener Straße"
-housenumber: 34
+street: Unterbrüdener Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

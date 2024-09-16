@@ -4,8 +4,8 @@ latitude: 49.40758
 longitude: 8.69297
 postcode: "69115"
 city: Heidelberg
-street: "Rohrbacher Straße"
-housenumber: 9
-phone: "+49 6221 27778"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-14:00"
-website: "https://optik-volz.de/optik-volz-heidelberg-am-adenauerplatz/"
+street: Rohrbacher Straße
+housenumber: "9"
+phone: +49 6221 27778
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-14:00
+website: https://optik-volz.de/optik-volz-heidelberg-am-adenauerplatz/

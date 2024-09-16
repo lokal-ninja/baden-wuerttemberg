@@ -4,8 +4,8 @@ latitude: 48.39688
 longitude: 10.00257
 postcode: "89231"
 city: Neu-Ulm
-street: "Augsburger Straße"
-housenumber: 38
-phone: "+49 731/77369"
-opening_hours: "Mo-We 14:30-16:30; Fr 08:30-12:00"
-website: "https://www.elektro-wanner.de/"
+street: Augsburger Straße
+housenumber: "38"
+phone: +49 731/77369
+opening_hours: Mo-We 14:30-16:30; Fr 08:30-12:00
+website: https://www.elektro-wanner.de/

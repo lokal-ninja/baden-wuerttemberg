@@ -1,11 +1,11 @@
 id: 386224320
-type: way
+type: node
 latitude: 48.43926
 longitude: 7.96924
 postcode: "77799"
 city: Ortenberg
-street: "Allmendgrün"
-housenumber: 20
+street: Allmendgrün
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

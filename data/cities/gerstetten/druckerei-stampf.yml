@@ -1,11 +1,11 @@
 id: 204419631
-type: way
+type: node
 latitude: 48.6262
 longitude: 10.01129
 postcode: "89547"
 city: Gerstetten
-street: "Wallbacher Straße"
-housenumber: 6
+street: Wallbacher Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.druckerei-stampf.de"
+website: http://www.druckerei-stampf.de

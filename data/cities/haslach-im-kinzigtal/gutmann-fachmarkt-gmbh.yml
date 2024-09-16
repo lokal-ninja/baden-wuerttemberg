@@ -1,11 +1,11 @@
 id: 107789728
-type: way
+type: node
 latitude: 48.28031
 longitude: 8.08218
 postcode: "77716"
 city: Haslach im Kinzigtal
-street: "Schwarzwaldstraße"
-housenumber: 1
+street: Schwarzwaldstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.gnaedig-lahr.de/"
+website: https://www.gnaedig-lahr.de/

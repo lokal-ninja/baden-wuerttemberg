@@ -1,11 +1,11 @@
 id: 114129096
-type: way
+type: node
 latitude: 47.84375
 longitude: 8.99854
 postcode: "78333"
 city: Stockach
-street: "Radolfzeller Straße"
-housenumber: 39
-phone: "+49 7771 80090"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-18:00"
+street: Radolfzeller Straße
+housenumber: "39"
+phone: +49 7771 80090
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-18:00
 website: ""

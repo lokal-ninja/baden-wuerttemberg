@@ -1,11 +1,11 @@
 id: 378105190
-type: way
+type: node
 latitude: 49.03809
 longitude: 8.7022
 postcode: "75015"
 city: Bretten
-street: "Melanchthonstraße"
-housenumber: 68
+street: Melanchthonstraße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Sa 07:30-12:30; Mo-Tu,Th-Fr 14:30-18:00"
+opening_hours: Mo-Sa 07:30-12:30; Mo-Tu,Th-Fr 14:30-18:00
 website: ""

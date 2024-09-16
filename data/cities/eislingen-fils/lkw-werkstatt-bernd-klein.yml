@@ -1,11 +1,11 @@
 id: 292428581
-type: way
+type: node
 latitude: 48.69897
 longitude: 9.68843
 postcode: "73054"
 city: Eislingen/Fils
-street: "Solitudestraße"
-housenumber: 5
+street: Solitudestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

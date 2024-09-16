@@ -1,11 +1,11 @@
 id: 352350908
-type: way
+type: node
 latitude: 48.89818
 longitude: 8.69418
 postcode: "75177"
 city: Pforzheim
-street: "Hohenzollernstraße"
-housenumber: 119
+street: Hohenzollernstraße
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

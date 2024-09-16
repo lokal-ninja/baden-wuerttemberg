@@ -1,11 +1,11 @@
 id: 328871596
-type: way
+type: node
 latitude: 47.60634
 longitude: 8.16845
 postcode: "79804"
 city: Dogern
-street: "Hauptstraße"
-housenumber: 3
-phone: "+49 7751 910266"
+street: Hauptstraße
+housenumber: "3"
+phone: +49 7751 910266
 opening_hours: ""
-website: "https://www.zweirad-martin.de/"
+website: https://www.zweirad-martin.de/

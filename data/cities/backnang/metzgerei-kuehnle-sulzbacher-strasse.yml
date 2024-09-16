@@ -1,11 +1,11 @@
 id: 61434755
-type: way
+type: node
 latitude: 48.96371
 longitude: 9.43251
 postcode: "71522"
 city: Backnang
-street: "Sulzbacher Straße"
-housenumber: 196
+street: Sulzbacher Straße
+housenumber: "196"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-13:00; Su,PH off
 website: ""

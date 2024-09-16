@@ -4,8 +4,8 @@ latitude: 48.54353
 longitude: 9.28342
 postcode: "72555"
 city: Metzingen
-street: "Heinrich-Heine-Straße"
-housenumber: 15
-phone: "+49 7123 61103"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:00-13:00; PH closed"
-website: "http://www.friseur-studio-gotthardt.de"
+street: Heinrich-Heine-Straße
+housenumber: "15"
+phone: +49 7123 61103
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:00-13:00; PH closed
+website: http://www.friseur-studio-gotthardt.de

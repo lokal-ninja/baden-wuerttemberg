@@ -1,11 +1,11 @@
 id: 90844241
-type: way
+type: node
 latitude: 48.21059
 longitude: 9.01586
 postcode: "72458"
 city: Albstadt
-street: "Kientenstraße"
-housenumber: 12
+street: Kientenstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

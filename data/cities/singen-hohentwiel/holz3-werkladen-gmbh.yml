@@ -1,11 +1,11 @@
 id: 88448217
-type: way
+type: node
 latitude: 47.74998
 longitude: 8.85005
 postcode: "78224"
 city: Singen (Hohentwiel)
-street: "Industriestraße"
-housenumber: 6
+street: Industriestraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 90670008
-type: way
+type: node
 latitude: 47.95731
 longitude: 8.48957
 postcode: "78166"
 city: Donaueschingen
-street: "Hagelrainstraße"
-housenumber: 33
+street: Hagelrainstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

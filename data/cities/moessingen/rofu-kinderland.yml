@@ -1,11 +1,11 @@
 id: 256157920
-type: way
+type: node
 latitude: 48.40697
 longitude: 9.04153
 postcode: "72116"
 city: Mössingen
-street: "Maybachstraße"
-housenumber: 9
+street: Maybachstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.rofu.de/"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.rofu.de/

@@ -4,8 +4,8 @@ latitude: 48.53816
 longitude: 7.98187
 postcode: "77767"
 city: Appenweier
-street: "Bachstraße"
-housenumber: 17
-phone: "+49 7805 2326"
-opening_hours: "Tu,Fr 08:00-19:00; Sa 08:00-12:30"
-website: "http://www.bauer-sauer.de/"
+street: Bachstraße
+housenumber: "17"
+phone: +49 7805 2326
+opening_hours: Tu,Fr 08:00-19:00; Sa 08:00-12:30
+website: http://www.bauer-sauer.de/

@@ -4,8 +4,8 @@ latitude: 47.89666
 longitude: 10.07945
 postcode: "88317"
 city: Aichstetten
-street: "Hardsteiger Straße"
-housenumber: 7
-phone: "+49 7565 941 499"
-opening_hours: "Nach Vereinbarung"
+street: Hardsteiger Straße
+housenumber: "7"
+phone: +49 7565 941 499
+opening_hours: '"Nach Vereinbarung"'
 website: ""

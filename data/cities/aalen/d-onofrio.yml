@@ -1,11 +1,11 @@
 id: 255615385
-type: way
+type: node
 latitude: 48.88227
 longitude: 10.13352
 postcode: "73433"
 city: Aalen
-street: "Im Letten"
-housenumber: 8
+street: Im Letten
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-donofrio.de/"
+website: https://www.autohaus-donofrio.de/

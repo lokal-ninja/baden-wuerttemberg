@@ -1,11 +1,11 @@
 id: 152455887
-type: way
+type: node
 latitude: 47.6186
 longitude: 7.61218
 postcode: "79576"
 city: Weil am Rhein
-street: "Lütemannsweg"
-housenumber: 1
+street: Lütemannsweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.roller-automobile.com/"
+website: http://www.roller-automobile.com/

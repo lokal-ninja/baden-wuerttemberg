@@ -4,8 +4,8 @@ latitude: 48.74611
 longitude: 9.211
 postcode: "70619"
 city: Stuttgart
-street: "Kirchheimer Straße"
-housenumber: 41
-phone: "+49 711 45997297"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su 07:30-18:00"
-website: "https://www.baeckerei-treiber.de/index.php"
+street: Kirchheimer Straße
+housenumber: "41"
+phone: +49 711 45997297
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su 07:30-18:00
+website: https://www.baeckerei-treiber.de/index.php

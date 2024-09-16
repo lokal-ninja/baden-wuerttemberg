@@ -4,8 +4,8 @@ latitude: 48.43221
 longitude: 9.15184
 postcode: "72770"
 city: Reutlingen
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: "+4970727546"
-opening_hours: "Tu-Th 08:00-17:30; Fr 08:00-18:00; Sa 07:00-12:00"
-website: "https://www.akteam.eu/"
+opening_hours: Tu-Th 08:00-17:30; Fr 08:00-18:00; Sa 07:00-12:00
+website: https://www.akteam.eu/

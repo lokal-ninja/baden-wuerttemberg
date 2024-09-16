@@ -1,11 +1,11 @@
 id: 526123071
-type: way
+type: node
 latitude: 48.92177
 longitude: 8.50245
 postcode: "76307"
 city: Karlsbad
-street: "Siemensstraße"
-housenumber: 22
-phone: "+49 7202 6603"
-opening_hours: "Mo, Tu, Th, Fr 08:00-12:00, 14:00-18:00; We 08:00-12:00; Sa 08:00-14:00"
-website: "www.pandi-spielshop.de"
+street: Siemensstraße
+housenumber: "22"
+phone: +49 7202 6603
+opening_hours: Mo, Tu, Th, Fr 08:00-12:00, 14:00-18:00; We 08:00-12:00; Sa 08:00-14:00
+website: www.pandi-spielshop.de

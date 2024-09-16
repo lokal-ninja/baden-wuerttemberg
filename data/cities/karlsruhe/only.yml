@@ -4,8 +4,8 @@ latitude: 49.0101
 longitude: 8.39584
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 136
-phone: "+49 721 5709280"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.only.com/de/de/home"
+street: Kaiserstraße
+housenumber: "136"
+phone: +49 721 5709280
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.only.com/de/de/home

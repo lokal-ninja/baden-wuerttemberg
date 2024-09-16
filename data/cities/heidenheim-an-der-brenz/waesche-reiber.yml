@@ -1,11 +1,11 @@
 id: 149251853
-type: way
+type: node
 latitude: 48.67901
 longitude: 10.15239
 postcode: "89518"
 city: Heidenheim an der Brenz
-street: "Olgastraße"
-housenumber: 6
+street: Olgastraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

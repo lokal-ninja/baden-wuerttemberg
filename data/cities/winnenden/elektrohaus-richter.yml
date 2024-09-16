@@ -1,11 +1,11 @@
 id: 121769953
-type: way
+type: node
 latitude: 48.87484
 longitude: 9.39918
 postcode: "71364"
 city: Winnenden
-street: "Wallstraße"
-housenumber: 18
-phone: "+49 7195 3211"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"
-website: "https://elektrohaus-richter.de/"
+street: Wallstraße
+housenumber: "18"
+phone: +49 7195 3211
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30
+website: https://elektrohaus-richter.de/

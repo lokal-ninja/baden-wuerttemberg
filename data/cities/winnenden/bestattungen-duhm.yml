@@ -1,11 +1,11 @@
 id: 107910362
-type: way
+type: node
 latitude: 48.87961
 longitude: 9.39447
 postcode: "71364"
 city: Winnenden
-street: "Alfred-Kärcher-Straße"
-housenumber: 23
+street: Alfred-Kärcher-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

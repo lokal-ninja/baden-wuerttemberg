@@ -1,11 +1,11 @@
 id: 177916672
-type: way
+type: node
 latitude: 49.35132
 longitude: 9.1404
 postcode: "74821"
 city: Mosbach
-street: "Eisenbahnstraße"
-housenumber: 24
+street: Eisenbahnstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

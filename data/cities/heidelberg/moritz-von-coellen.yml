@@ -4,8 +4,8 @@ latitude: 49.40344
 longitude: 8.66569
 postcode: "69115"
 city: Heidelberg
-street: "Da-Vinci-Straße"
-housenumber: 16
+street: Da-Vinci-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 11:00-16:00"
-website: "https://www.moritzvoncoellen.com"
+opening_hours: Mo-Fr 10:00-19:00; Sa 11:00-16:00
+website: https://www.moritzvoncoellen.com

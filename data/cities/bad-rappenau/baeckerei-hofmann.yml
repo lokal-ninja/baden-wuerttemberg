@@ -4,8 +4,8 @@ latitude: 49.26225
 longitude: 9.14811
 postcode: "74906"
 city: Bad Rappenau
-street: "Neckarstraße"
-housenumber: 30
-phone: "+49 7264 5201"
-opening_hours: "Mo-Sa 06:00-12:00, Tu,Th,Fr 14:00-18:00"
+street: Neckarstraße
+housenumber: "30"
+phone: +49 7264 5201
+opening_hours: Mo-Sa 06:00-12:00, Tu,Th,Fr 14:00-18:00
 website: ""

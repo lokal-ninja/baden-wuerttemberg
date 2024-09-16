@@ -4,8 +4,8 @@ latitude: 49.14444
 longitude: 8.66913
 postcode: "76703"
 city: Kraichtal
-street: "Eisenbahnstraße"
-housenumber: 10
-phone: "+49 7251 6526"
-opening_hours: "Mo-Fr 08:00-13:00,15:00-18:00, Sa 08:00-13:00"
+street: Eisenbahnstraße
+housenumber: "10"
+phone: +49 7251 6526
+opening_hours: Mo-Fr 08:00-13:00,15:00-18:00, Sa 08:00-13:00
 website: ""

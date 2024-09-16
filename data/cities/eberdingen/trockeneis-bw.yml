@@ -1,11 +1,11 @@
 id: 799050957
-type: way
+type: node
 latitude: 48.88024
 longitude: 8.96444
 postcode: "71735"
 city: Eberdingen
-street: "Stuttgarter Straße"
-housenumber: 8
+street: Stuttgarter Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://trockeneis-bw.de"
+website: https://trockeneis-bw.de

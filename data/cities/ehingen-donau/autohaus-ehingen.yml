@@ -1,11 +1,11 @@
 id: 338018082
-type: way
+type: node
 latitude: 48.28262
 longitude: 9.71061
 postcode: "89584"
 city: Ehingen (Donau)
-street: "Schlechtenfelder Straße"
-housenumber: 2
+street: Schlechtenfelder Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

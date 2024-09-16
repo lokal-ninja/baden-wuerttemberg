@@ -4,8 +4,8 @@ latitude: 49.44594
 longitude: 8.61586
 postcode: "68535"
 city: Edingen-Neckarhausen
-street: "Hauptstraße"
-housenumber: 16
+street: Hauptstraße
+housenumber: "16"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://hundepflege-porath.de"
+opening_hours: '"nach Vereinbarung"'
+website: https://hundepflege-porath.de

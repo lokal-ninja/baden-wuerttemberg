@@ -4,8 +4,8 @@ latitude: 49.54181
 longitude: 8.66026
 postcode: "69469"
 city: Weinheim
-street: "Bergstraße"
-housenumber: 7
+street: Bergstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

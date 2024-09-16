@@ -4,8 +4,8 @@ latitude: 48.95709
 longitude: 9.0678
 postcode: "74343"
 city: Sachsenheim
-street: "Bissinger Straße"
-housenumber: 24
-phone: "+49 7147 6312"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:30; Su 10:30-12:00"
-website: "https://www.gaertnerei-currle.de/"
+street: Bissinger Straße
+housenumber: "24"
+phone: +49 7147 6312
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-13:30; Su 10:30-12:00
+website: https://www.gaertnerei-currle.de/

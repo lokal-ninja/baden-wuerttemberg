@@ -1,11 +1,11 @@
 id: 93586659
-type: way
+type: node
 latitude: 48.52357
 longitude: 8.10025
 postcode: "77794"
 city: Lautenbach
-street: "Vorder-Winterbach"
-housenumber: 2
+street: Vorder-Winterbach
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

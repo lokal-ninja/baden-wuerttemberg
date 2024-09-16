@@ -1,11 +1,11 @@
 id: 317107349
-type: way
+type: node
 latitude: 48.30022
 longitude: 8.05723
 postcode: "77790"
 city: Steinach
-street: "Hauptstraße"
-housenumber: 32
-phone: "+49 7832 9968911"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edekabruder.de/cms/edeka-bruder-steinach-i-k"
+street: Hauptstraße
+housenumber: "32"
+phone: +49 7832 9968911
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edekabruder.de/cms/edeka-bruder-steinach-i-k

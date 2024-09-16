@@ -1,11 +1,11 @@
 id: 243714730
-type: way
+type: node
 latitude: 48.90028
 longitude: 8.66521
 postcode: "75179"
 city: Pforzheim
-street: "Karlsruher Straße"
-housenumber: 49
-phone: "+49 7231 1545845"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
-website: "https://www.digel.de/"
+street: Karlsruher Straße
+housenumber: "49"
+phone: +49 7231 1545845
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00
+website: https://www.digel.de/

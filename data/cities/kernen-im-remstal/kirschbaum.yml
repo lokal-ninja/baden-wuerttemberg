@@ -4,8 +4,9 @@ latitude: 48.80758
 longitude: 9.32046
 postcode: "71394"
 city: Kernen im Remstal
-street: "Stettener Straße"
-housenumber: 6
-phone: "+49 179 3138947"
-opening_hours: "Mo-We 07:30-13:00,14:30-18:00; Th-Fr 07:30-18:00; PH,Su closed; Sa 07:30-13:00"
-website: "http://www.kirschbaum-rom.de/"
+street: Stettener Straße
+housenumber: "6"
+phone: +49 179 3138947
+opening_hours: Mo-We 07:30-13:00,14:30-18:00; Th-Fr 07:30-18:00; PH,Su closed; Sa
+    07:30-13:00
+website: http://www.kirschbaum-rom.de/

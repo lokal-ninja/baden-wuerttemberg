@@ -1,11 +1,11 @@
 id: 311412150
-type: way
+type: node
 latitude: 49.21056
 longitude: 9.09489
 postcode: "74906"
 city: Bad Rappenau
-street: "Obere Mühle"
-housenumber: 28
-phone: "+49 7066 9166555"
+street: Obere Mühle
+housenumber: "28"
+phone: +49 7066 9166555
 opening_hours: ""
-website: "http://www.autoglas-bonfeld.de/"
+website: http://www.autoglas-bonfeld.de/

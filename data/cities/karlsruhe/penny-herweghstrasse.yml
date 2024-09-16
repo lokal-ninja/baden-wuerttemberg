@@ -1,11 +1,11 @@
 id: 108254617
-type: way
+type: node
 latitude: 49.03115
 longitude: 8.34186
 postcode: "76187"
 city: Karlsruhe
-street: "Herweghstraße"
-housenumber: 4
+street: Herweghstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su,PH off"
-website: "https://www.penny.de/markt/karlsruhe/830224/penny-knielingen-herweghstr-4"
+opening_hours: Mo-Sa 07:30-21:00; Su,PH off
+website: https://www.penny.de/markt/karlsruhe/830224/penny-knielingen-herweghstr-4

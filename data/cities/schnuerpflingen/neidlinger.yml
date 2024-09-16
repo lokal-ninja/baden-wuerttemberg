@@ -1,11 +1,11 @@
 id: 262236371
-type: way
+type: node
 latitude: 48.27533
 longitude: 9.9966
 postcode: "89194"
 city: Schnürpflingen
-street: "Im Brühl"
-housenumber: 11
-phone: "+49 7346 453"
-opening_hours: "Mo-Fr 08:00-12:15,13:15-18:00; Sa 10:00-12:00"
-website: "http://www.autofit-neidlinger.de"
+street: Im Brühl
+housenumber: "11"
+phone: +49 7346 453
+opening_hours: Mo-Fr 08:00-12:15,13:15-18:00; Sa 10:00-12:00
+website: http://www.autofit-neidlinger.de

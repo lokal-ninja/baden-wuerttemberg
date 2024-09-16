@@ -1,11 +1,11 @@
 id: 202943416
-type: way
+type: node
 latitude: 49.75977
 longitude: 9.49564
 postcode: "97877"
 city: Wertheim
-street: "Willy-Brandt-Straße"
-housenumber: 23
+street: Willy-Brandt-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/wertheim/willy-brandt-strasse-23"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/wertheim/willy-brandt-strasse-23

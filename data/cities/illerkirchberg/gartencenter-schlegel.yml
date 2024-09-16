@@ -4,8 +4,8 @@ latitude: 48.34071
 longitude: 9.99913
 postcode: "89171"
 city: Illerkirchberg
-street: "Hauptstraße"
-housenumber: 8
-phone: "+49 7346 3805"
-opening_hours: "Mo-Fr 09:00 - 18:00; Sa 09:00 -14:00"
-website: "https://www.gartencenter-schlegel.de/"
+street: Hauptstraße
+housenumber: "8"
+phone: +49 7346 3805
+opening_hours: Mo-Fr 09:00 - 18:00; Sa 09:00 -14:00
+website: https://www.gartencenter-schlegel.de/

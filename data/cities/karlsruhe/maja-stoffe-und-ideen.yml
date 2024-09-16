@@ -4,8 +4,8 @@ latitude: 48.97664
 longitude: 8.40713
 postcode: "76199"
 city: Karlsruhe
-street: "Ostendorfplatz"
-housenumber: 2
+street: Ostendorfplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:30-13:00"
-website: "http://www.maja-stoffe.de"
+opening_hours: Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:30-13:00
+website: http://www.maja-stoffe.de

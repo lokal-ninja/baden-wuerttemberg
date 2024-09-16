@@ -4,8 +4,8 @@ latitude: 48.89474
 longitude: 9.19029
 postcode: "71638"
 city: Ludwigsburg
-street: "Seestraße"
-housenumber: 14
-phone: "+49 7141 902224"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.fotoprofi.de/page/ludwigsburg"
+street: Seestraße
+housenumber: "14"
+phone: +49 7141 902224
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.fotoprofi.de/page/ludwigsburg

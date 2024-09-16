@@ -4,8 +4,8 @@ latitude: 49.77836
 longitude: 9.38053
 postcode: ""
 city: Dorfprozelten
-street: "Hauptstraße"
-housenumber: 109
-phone: "+49 9392 7504"
-opening_hours: "Mo-Fr 06:00-12:30,14:00-18:00; Tu,Sa 06:00-12:30"
+street: Hauptstraße
+housenumber: "109"
+phone: +49 9392 7504
+opening_hours: Mo-Fr 06:00-12:30,14:00-18:00; Tu,Sa 06:00-12:30
 website: ""

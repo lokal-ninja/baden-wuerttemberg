@@ -4,8 +4,9 @@ latitude: 48.93706
 longitude: 8.41983
 postcode: "76275"
 city: Ettlingen
-street: "Pforzheimer Straße"
+street: Pforzheimer Straße
 housenumber: 72-74
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH,Su off"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Pforzheimer Straße 72-74 76275 Ettlingen&Mode=None"
+opening_hours: Mo-Sa 08:00-21:00; PH,Su off
+website: https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Pforzheimer
+    Straße 72-74 76275 Ettlingen&Mode=None

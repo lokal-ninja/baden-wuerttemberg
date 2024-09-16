@@ -1,11 +1,11 @@
 id: 197708752
-type: way
+type: node
 latitude: 48.96678
 longitude: 9.40173
 postcode: ""
 city: Aspach
-street: "Strümpfelbacher Straße"
-housenumber: 27
-phone: "+49 7191 399701"
-opening_hours: "Th 17:30-19:30, Sa 09:00-13:00 || gerne auch nach Absprache"
+street: Strümpfelbacher Straße
+housenumber: "27"
+phone: +49 7191 399701
+opening_hours: Th 17:30-19:30, Sa 09:00-13:00 || "gerne auch nach Absprache"
 website: ""

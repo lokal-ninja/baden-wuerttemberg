@@ -1,11 +1,11 @@
 id: 302966391
-type: way
+type: node
 latitude: 48.77406
 longitude: 8.39139
 postcode: "76597"
 city: Loffenau
-street: "Obere Dorfstraße"
-housenumber: 52
+street: Obere Dorfstraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://www.bestattungen-zeltmann.de/"
+website: https://www.bestattungen-zeltmann.de/

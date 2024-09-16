@@ -1,11 +1,11 @@
 id: 105406875
-type: way
+type: node
 latitude: 48.02124
 longitude: 7.72022
 postcode: "79112"
 city: Freiburg im Breisgau
-street: "Klosterstraße"
-housenumber: 3
+street: Klosterstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00"
+opening_hours: Mo-Sa 09:00-12:00
 website: ""

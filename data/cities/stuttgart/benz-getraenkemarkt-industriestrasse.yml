@@ -1,11 +1,11 @@
 id: 42712874
-type: way
+type: node
 latitude: 48.72425
 longitude: 9.12405
 postcode: "70565"
 city: Stuttgart
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 49A
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

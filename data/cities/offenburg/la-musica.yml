@@ -1,11 +1,11 @@
 id: 251498192
-type: way
+type: node
 latitude: 48.46929
 longitude: 7.94613
 postcode: "77652"
 city: Offenburg
-street: "Lange Straße"
-housenumber: 38
+street: Lange Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

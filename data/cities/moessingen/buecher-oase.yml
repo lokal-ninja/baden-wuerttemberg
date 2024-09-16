@@ -4,8 +4,8 @@ latitude: 48.40865
 longitude: 9.063
 postcode: "72116"
 city: Mössingen
-street: "Falltorstraße"
-housenumber: 80
-phone: "+49 7473 26556"
-opening_hours: "Tu-Fr 9:00-12:30,14:30-18:00;Sa 10:00-13:00"
-website: "http://www.buecheroase-moessingen.de"
+street: Falltorstraße
+housenumber: "80"
+phone: +49 7473 26556
+opening_hours: Tu-Fr 9:00-12:30,14:30-18:00;Sa 10:00-13:00
+website: http://www.buecheroase-moessingen.de

@@ -1,11 +1,11 @@
 id: 108038252
-type: way
+type: node
 latitude: 48.48955
 longitude: 9.4006
 postcode: "72574"
 city: Bad Urach
-street: "Seilerweg"
-housenumber: 20
+street: Seilerweg
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su, PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su, PH off
 website: ""

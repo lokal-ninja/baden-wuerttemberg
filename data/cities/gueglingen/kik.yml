@@ -1,11 +1,11 @@
 id: 1086196216
-type: way
+type: node
 latitude: 49.06339
 longitude: 9.00487
 postcode: "74363"
 city: Güglingen
-street: "Emil-Weber-Straße"
-housenumber: 23
+street: Emil-Weber-Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

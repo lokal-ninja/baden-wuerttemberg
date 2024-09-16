@@ -1,11 +1,11 @@
 id: 335545433
-type: way
+type: node
 latitude: 49.3727
 longitude: 8.98113
 postcode: "74869"
 city: Schwarzach
-street: "Am Markt"
-housenumber: 2
-phone: "+49 6262 917797"
+street: Am Markt
+housenumber: "2"
+phone: +49 6262 917797
 opening_hours: ""
 website: ""

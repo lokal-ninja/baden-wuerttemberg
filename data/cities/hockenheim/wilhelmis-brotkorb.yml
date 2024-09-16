@@ -1,11 +1,11 @@
 id: 530488133
-type: way
+type: node
 latitude: 49.31728
 longitude: 8.54829
 postcode: "68766"
 city: Hockenheim
-street: "Obere Hauptstraße"
-housenumber: 18
+street: Obere Hauptstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

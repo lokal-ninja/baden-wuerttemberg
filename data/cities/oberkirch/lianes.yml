@@ -4,8 +4,8 @@ latitude: 48.53104
 longitude: 8.07821
 postcode: "77704"
 city: Oberkirch
-street: "Hauptstraße"
-housenumber: 42
-phone: "+49 7802 7064651"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://www.lianes-oberkirch.de/"
+street: Hauptstraße
+housenumber: "42"
+phone: +49 7802 7064651
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://www.lianes-oberkirch.de/

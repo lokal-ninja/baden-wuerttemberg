@@ -1,11 +1,11 @@
 id: 26748744
-type: way
+type: node
 latitude: 48.54574
 longitude: 9.79799
 postcode: "89191"
 city: Nellingen
-street: "Walter-Herzog-Straße"
-housenumber: 9
+street: Walter-Herzog-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

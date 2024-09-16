@@ -1,11 +1,11 @@
 id: 762332873
-type: way
+type: node
 latitude: 47.61403
 longitude: 8.29474
 postcode: "79790"
 city: Küssaberg
-street: "Hauptstraße"
-housenumber: 42
+street: Hauptstraße
+housenumber: "42"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

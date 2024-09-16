@@ -4,8 +4,8 @@ latitude: 48.75627
 longitude: 8.8677
 postcode: "71263"
 city: Weil der Stadt
-street: "Merklinger Straße"
-housenumber: 30
+street: Merklinger Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We,Sa 09:00-13:00"
-website: "https://www.schuhservice-cona.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We,Sa 09:00-13:00
+website: https://www.schuhservice-cona.de/

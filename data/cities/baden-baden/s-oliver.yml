@@ -1,11 +1,11 @@
 id: 517715320
-type: way
+type: node
 latitude: 48.7825
 longitude: 8.19206
 postcode: "76532"
 city: Baden-Baden
-street: "Gewerbepark Cité"
-housenumber: 7
-phone: "+49 7221 99 65 888"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.soliver.de"
+street: Gewerbepark Cité
+housenumber: "7"
+phone: +49 7221 99 65 888
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.soliver.de

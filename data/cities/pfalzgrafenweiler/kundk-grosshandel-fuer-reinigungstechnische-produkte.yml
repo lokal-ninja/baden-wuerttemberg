@@ -1,11 +1,11 @@
 id: 137412554
-type: way
+type: node
 latitude: 48.53036
 longitude: 8.57459
 postcode: "72285"
 city: Pfalzgrafenweiler
-street: "Siemensstraße"
-housenumber: 4
+street: Siemensstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

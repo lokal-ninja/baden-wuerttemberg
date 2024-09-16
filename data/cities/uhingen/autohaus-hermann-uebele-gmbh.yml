@@ -1,11 +1,11 @@
 id: 380551685
-type: way
+type: node
 latitude: 48.70554
 longitude: 9.60353
 postcode: "73066"
 city: Uhingen
-street: "Schumannstraße"
-housenumber: 2
-phone: "+49 7161 388947"
+street: Schumannstraße
+housenumber: "2"
+phone: +49 7161 388947
 opening_hours: ""
-website: "http://www.autohaus-uebele.de/"
+website: http://www.autohaus-uebele.de/

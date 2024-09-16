@@ -4,8 +4,8 @@ latitude: 48.59824
 longitude: 8.8708
 postcode: "71083"
 city: Herrenberg
-street: "Seestraße"
-housenumber: 38
+street: Seestraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa 08:00-22:00; PH off"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/e-center-weinle-seestra%C3%9Fe-38/index.jsp"
+opening_hours: Mo-Fr 08:00-22:00; Sa 08:00-22:00; PH off
+website: https://www.edeka.de/eh/s%C3%BCdwest/e-center-weinle-seestra%C3%9Fe-38/index.jsp

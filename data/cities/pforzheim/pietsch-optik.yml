@@ -4,8 +4,8 @@ latitude: 48.8949
 longitude: 8.70503
 postcode: "75177"
 city: Pforzheim
-street: "Güterstraße"
-housenumber: 38
-phone: "+49 7231 351731"
-opening_hours: "Mo-Fr 08:30-13:00,14:30-18:30; We,Sa 08:30-13:00"
-website: "https://www.pietsch-optik.de/"
+street: Güterstraße
+housenumber: "38"
+phone: +49 7231 351731
+opening_hours: Mo-Fr 08:30-13:00,14:30-18:30; We,Sa 08:30-13:00
+website: https://www.pietsch-optik.de/

@@ -4,8 +4,8 @@ latitude: 48.77208
 longitude: 9.17642
 postcode: "70178"
 city: Stuttgart
-street: "Nesenbachstraße"
-housenumber: 50
+street: Nesenbachstraße
+housenumber: "50"
 phone: ""
-opening_hours: "We,Th 17:00-22:00; Fr 17:00-24:00; Sa 11:00-24:00"
+opening_hours: We,Th 17:00-22:00; Fr 17:00-24:00; Sa 11:00-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 237650939
-type: way
+type: node
 latitude: 48.9543
 longitude: 9.11664
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Alexander-Fleming-Straße"
-housenumber: 6
-phone: "+49 7142 9033-0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.stadel.de/ueber-uns/standorte/bietigheim-bissingen.html"
+street: Alexander-Fleming-Straße
+housenumber: "6"
+phone: +49 7142 9033-0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.stadel.de/ueber-uns/standorte/bietigheim-bissingen.html

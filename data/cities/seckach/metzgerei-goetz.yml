@@ -1,11 +1,11 @@
 id: 284166608
-type: way
+type: node
 latitude: 49.44254
 longitude: 9.335
 postcode: "74743"
 city: Seckach
-street: "Eicholzheimer Straße"
-housenumber: 7
+street: Eicholzheimer Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

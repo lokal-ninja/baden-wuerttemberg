@@ -4,8 +4,8 @@ latitude: 48.07017
 longitude: 8.45842
 postcode: "78048"
 city: Villingen-Schwenningen
-street: "Singener Straße"
-housenumber: 1
+street: Singener Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,We,Fr 08:30-12:00,16:00-19:00"
-website: "https://blessingmarkt.de"
+opening_hours: Mo,We,Fr 08:30-12:00,16:00-19:00
+website: https://blessingmarkt.de

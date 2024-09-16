@@ -1,11 +1,11 @@
 id: 89007160
-type: way
+type: node
 latitude: 48.4443
 longitude: 7.93116
 postcode: "77656"
 city: Offenburg
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 6-8
 phone: "+4978196760"
-opening_hours: "Mo-Sa 10:00-20:00;Ph off"
-website: "https://www.roller.de/moebelhaeuser/offenburg/"
+opening_hours: Mo-Sa 10:00-20:00;Ph off
+website: https://www.roller.de/moebelhaeuser/offenburg/

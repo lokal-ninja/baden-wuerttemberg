@@ -1,11 +1,11 @@
 id: 200352581
-type: way
+type: node
 latitude: 48.8058
 longitude: 9.84845
 postcode: "73527"
 city: Schwäbisch Gmünd
-street: "Im Benzfeld"
-housenumber: 44
+street: Im Benzfeld
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.jedele.de/"
+website: https://www.jedele.de/

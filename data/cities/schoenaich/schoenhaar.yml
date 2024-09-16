@@ -1,11 +1,11 @@
 id: 34922268
-type: way
+type: node
 latitude: 48.65477
 longitude: 9.06739
 postcode: "71101"
 city: Schönaich
-street: "Schillerstraße"
-housenumber: 26
+street: Schillerstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

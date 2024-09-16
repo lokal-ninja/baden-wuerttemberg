@@ -4,8 +4,8 @@ latitude: 48.79022
 longitude: 9.19945
 postcode: "70190"
 city: Stuttgart
-street: "Heinrich-Baumann-Straße"
-housenumber: 21
-phone: "+49 711 2684352511"
-opening_hours: "Mo 13:00-18:00; Tu-Fr 09:30-18:00"
+street: Heinrich-Baumann-Straße
+housenumber: "21"
+phone: +49 711 2684352511
+opening_hours: Mo 13:00-18:00; Tu-Fr 09:30-18:00
 website: ""

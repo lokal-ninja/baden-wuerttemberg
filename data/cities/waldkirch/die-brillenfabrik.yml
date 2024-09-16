@@ -4,8 +4,8 @@ latitude: 48.10364
 longitude: 7.97398
 postcode: "79183"
 city: Waldkirch
-street: "Fabrikstraße"
-housenumber: 20
+street: Fabrikstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Tu 14:00-19:00; Th 09:00-13:00"
-website: "https://brillenfabrik.de/waldkirch-kollnau/"
+opening_hours: Tu 14:00-19:00; Th 09:00-13:00
+website: https://brillenfabrik.de/waldkirch-kollnau/

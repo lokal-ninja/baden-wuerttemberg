@@ -1,11 +1,11 @@
 id: 553141457
-type: way
+type: node
 latitude: 47.96921
 longitude: 7.95945
 postcode: "79199"
 city: Kirchzarten
-street: "Gerwigstraße"
-housenumber: 4
+street: Gerwigstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

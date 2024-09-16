@@ -4,8 +4,8 @@ latitude: 48.48818
 longitude: 9.21362
 postcode: "72764"
 city: Reutlingen
-street: "Lederstraße"
-housenumber: 102
+street: Lederstraße
+housenumber: "102"
 phone: ""
-opening_hours: "Mo,We,Fr 10:00-16:00; Tu,Th 10:00-13:00,16:00-19:00; Sa,Su,PH off"
+opening_hours: Mo,We,Fr 10:00-16:00; Tu,Th 10:00-13:00,16:00-19:00; Sa,Su,PH off
 website: ""

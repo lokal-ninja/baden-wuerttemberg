@@ -1,11 +1,11 @@
 id: 122485721
-type: way
+type: node
 latitude: 47.69619
 longitude: 9.13907
 postcode: "78467"
 city: Konstanz
-street: "Radolfzeller Straße"
-housenumber: 90
-phone: "+49 7531 9249-0"
+street: Radolfzeller Straße
+housenumber: "90"
+phone: +49 7531 9249-0
 opening_hours: ""
 website: ""

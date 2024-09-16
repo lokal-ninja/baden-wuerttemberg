@@ -1,11 +1,11 @@
 id: 661743118
-type: way
+type: node
 latitude: 49.18273
 longitude: 9.22608
 postcode: "74172"
 city: Neckarsulm
-street: "Hohenloher Straße"
+street: Hohenloher Straße
 housenumber: 2/1
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

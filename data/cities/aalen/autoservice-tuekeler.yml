@@ -4,8 +4,8 @@ latitude: 48.83302
 longitude: 10.08299
 postcode: "73430"
 city: Aalen
-street: "Gartenstraße"
-housenumber: 82
+street: Gartenstraße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
-website: "https://tuekeler.reifen1plus.de/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
+website: https://tuekeler.reifen1plus.de/

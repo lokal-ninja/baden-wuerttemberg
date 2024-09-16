@@ -1,11 +1,11 @@
 id: 400663068
-type: way
+type: node
 latitude: 48.04792
 longitude: 7.68661
 postcode: "79241"
 city: Ihringen
-street: "Im Bürgerstock"
-housenumber: 2
+street: Im Bürgerstock
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

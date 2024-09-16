@@ -1,11 +1,11 @@
 id: 398115900
-type: way
+type: node
 latitude: 48.0631
 longitude: 8.51959
 postcode: "78054"
 city: Villingen-Schwenningen
-street: "Villinger Straße"
-housenumber: 102
+street: Villinger Straße
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://neckarcars.de/"
+website: https://neckarcars.de/

@@ -4,8 +4,9 @@ latitude: 49.08536
 longitude: 8.55292
 postcode: "76646"
 city: Bruchsal
-street: "Weingartener Straße"
-housenumber: 18
+street: Weingartener Straße
+housenumber: "18"
 phone: "+497257931394"
-opening_hours: "Mo-Th 15:00-19:00; Fr 10:00-12:30,15:00-19:00; Sa 10:00-14:00; Su,PH off"
-website: "https://vinothek-bruchsal.de/"
+opening_hours: Mo-Th 15:00-19:00; Fr 10:00-12:30,15:00-19:00; Sa 10:00-14:00; Su,PH
+    off
+website: https://vinothek-bruchsal.de/

@@ -1,11 +1,11 @@
 id: 122478979
-type: way
+type: node
 latitude: 49.0058
 longitude: 8.31895
 postcode: "76189"
 city: Karlsruhe
-street: "Babbergerstraße"
-housenumber: 4
+street: Babbergerstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 31243050
-type: way
+type: node
 latitude: 48.58987
 longitude: 8.86381
 postcode: "71083"
 city: Herrenberg
-street: "Raistinger Straße"
-housenumber: 1
+street: Raistinger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.linkesch-fahrzeugtechnik.de/"
+website: http://www.linkesch-fahrzeugtechnik.de/

@@ -1,11 +1,11 @@
 id: 269476209
-type: way
+type: node
 latitude: 48.95898
 longitude: 10.18227
 postcode: "73479"
 city: Ellwangen (Jagst)
-street: "Max-Eyth-Straße"
-housenumber: 22
+street: Max-Eyth-Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "http://www.powerpoint-racing.de/"
+website: http://www.powerpoint-racing.de/

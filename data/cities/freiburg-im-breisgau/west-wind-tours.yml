@@ -4,8 +4,8 @@ latitude: 47.98214
 longitude: 7.79762
 postcode: "79111"
 city: Freiburg im Breisgau
-street: "Basler Landstraße"
-housenumber: 74
-phone: "+49 761475949"
-opening_hours: "Mo-Fr 09:30-12:30, 14:00-18:00; Sa 10:00-12:30"
-website: "https://www.west-wind-tours.de/"
+street: Basler Landstraße
+housenumber: "74"
+phone: +49 761475949
+opening_hours: Mo-Fr 09:30-12:30, 14:00-18:00; Sa 10:00-12:30
+website: https://www.west-wind-tours.de/

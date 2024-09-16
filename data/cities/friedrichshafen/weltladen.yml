@@ -4,8 +4,8 @@ latitude: 47.65007
 longitude: 9.47909
 postcode: "88045"
 city: Friedrichshafen
-street: "Schanzstraße"
-housenumber: 4
-phone: "+49 7541 33093"
-opening_hours: "Mo-Th 10:00-18:00; Fr 09:00-18:00; Sa 10:00-14:00; Su,PH off"
-website: "https://weltladen-fn.de/"
+street: Schanzstraße
+housenumber: "4"
+phone: +49 7541 33093
+opening_hours: Mo-Th 10:00-18:00; Fr 09:00-18:00; Sa 10:00-14:00; Su,PH off
+website: https://weltladen-fn.de/

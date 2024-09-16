@@ -1,11 +1,11 @@
 id: 155652036
-type: way
+type: node
 latitude: 48.06425
 longitude: 8.5238
 postcode: "78054"
 city: Villingen-Schwenningen
-street: "Arminstraße"
-housenumber: 34
+street: Arminstraße
+housenumber: "34"
 phone: ""
-opening_hours: "09:00-20:00; Su,PH off"
-website: "https://www.action.com/de-de/laden/villingen-schwenningen/"
+opening_hours: 09:00-20:00; Su,PH off
+website: https://www.action.com/de-de/laden/villingen-schwenningen/

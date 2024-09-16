@@ -1,11 +1,11 @@
 id: 89264450
-type: way
+type: node
 latitude: 47.62435
 longitude: 8.25416
 postcode: "79761"
 city: Waldshut-Tiengen
-street: "Daimlerstraße"
-housenumber: 29
+street: Daimlerstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

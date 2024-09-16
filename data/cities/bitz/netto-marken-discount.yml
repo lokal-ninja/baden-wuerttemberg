@@ -1,11 +1,11 @@
 id: 247573033
-type: way
+type: node
 latitude: 48.23765
 longitude: 9.09897
 postcode: "72475"
 city: Bitz
-street: "Harthauser Straße"
-housenumber: 22
+street: Harthauser Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

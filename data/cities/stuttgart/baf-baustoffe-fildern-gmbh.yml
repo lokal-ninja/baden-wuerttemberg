@@ -1,11 +1,11 @@
 id: 117965364
-type: way
+type: node
 latitude: 48.71942
 longitude: 9.12888
 postcode: "70565"
 city: Stuttgart
-street: "Handwerkstraße"
+street: Handwerkstraße
 housenumber: 17A
 phone: ""
-opening_hours: "Nov-Mar: Mo-Fr 07:00-17:00; Nov-Mar: Sa 07:00-12:00"
-website: "http://www.baf-baustoffe.de/"
+opening_hours: 'Nov-Mar: Mo-Fr 07:00-17:00; Nov-Mar: Sa 07:00-12:00'
+website: http://www.baf-baustoffe.de/

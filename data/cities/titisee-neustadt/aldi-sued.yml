@@ -1,11 +1,11 @@
 id: 121760415
-type: way
+type: node
 latitude: 47.9232
 longitude: 8.19008
 postcode: "79822"
 city: Titisee-Neustadt
-street: "Freiburger Straße"
-housenumber: 9
+street: Freiburger Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/titisee-neustadt/freiburger-strasse-9"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/titisee-neustadt/freiburger-strasse-9

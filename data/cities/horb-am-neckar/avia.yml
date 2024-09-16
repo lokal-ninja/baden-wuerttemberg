@@ -4,8 +4,8 @@ latitude: 48.4423
 longitude: 8.68656
 postcode: "72160"
 city: Horb am Neckar
-street: "Dammstraße"
-housenumber: 21
-phone: "+49 7451 552239"
-opening_hours: "Mo-Fr 05:00-24:00; Sa,Su 06:00-24:00"
-website: "https://www.avia.de/tankstellen/tankstellen-suche/tankstellen-details?facilityID=1504"
+street: Dammstraße
+housenumber: "21"
+phone: +49 7451 552239
+opening_hours: Mo-Fr 05:00-24:00; Sa,Su 06:00-24:00
+website: https://www.avia.de/tankstellen/tankstellen-suche/tankstellen-details?facilityID=1504

@@ -1,11 +1,11 @@
 id: 47900236
-type: way
+type: node
 latitude: 48.82244
 longitude: 9.28546
 postcode: "70736"
 city: Fellbach
-street: "Ohmstraße"
-housenumber: 25
-phone: "+49 711 54041707"
+street: Ohmstraße
+housenumber: "25"
+phone: +49 711 54041707
 opening_hours: ""
 website: ""

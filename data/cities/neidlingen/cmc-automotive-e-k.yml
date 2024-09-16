@@ -1,11 +1,11 @@
 id: 262247065
-type: way
+type: node
 latitude: 48.58487
 longitude: 9.55951
 postcode: "73272"
 city: Neidlingen
-street: "Vogtäcker"
-housenumber: 3
+street: Vogtäcker
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

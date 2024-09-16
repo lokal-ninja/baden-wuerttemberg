@@ -4,8 +4,8 @@ latitude: 49.41114
 longitude: 8.70569
 postcode: "69117"
 city: Heidelberg
-street: "Grabengasse"
-housenumber: 8
+street: Grabengasse
+housenumber: "8"
 phone: ""
-opening_hours: ""
-website: "https://werkstaat-design.com/"
+opening_hours: Tu-Fr 12:30-18:30; Sa 11:00-18:00
+website: https://werkstaat-design.com/

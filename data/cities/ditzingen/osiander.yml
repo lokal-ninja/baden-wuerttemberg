@@ -4,8 +4,8 @@ latitude: 48.82672
 longitude: 9.06563
 postcode: "71254"
 city: Ditzingen
-street: "Marktstraße"
-housenumber: 13
-phone: "+49 7156 1755690"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.osiander.de/buchhandlungen/ditzingen.cfm"
+street: Marktstraße
+housenumber: "13"
+phone: +49 7156 1755690
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.osiander.de/buchhandlungen/ditzingen.cfm

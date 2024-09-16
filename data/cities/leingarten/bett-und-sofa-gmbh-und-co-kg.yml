@@ -1,11 +1,11 @@
 id: 96859317
-type: way
+type: node
 latitude: 49.14855
 longitude: 9.13059
 postcode: "74211"
 city: Leingarten
-street: "Liebigstraße"
-housenumber: 18
+street: Liebigstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

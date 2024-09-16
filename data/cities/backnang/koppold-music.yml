@@ -4,8 +4,8 @@ latitude: 48.92848
 longitude: 9.44772
 postcode: "71522"
 city: Backnang
-street: "Kuchengrund"
-housenumber: 40
-phone: "+49 7191 952060"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:00; We, Sa 09:30-13:00; PH off"
-website: "https://www.koppoldmusic.de/"
+street: Kuchengrund
+housenumber: "40"
+phone: +49 7191 952060
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:00; We, Sa 09:30-13:00; PH off
+website: https://www.koppoldmusic.de/

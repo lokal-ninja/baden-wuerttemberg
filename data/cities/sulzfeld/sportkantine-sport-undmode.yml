@@ -1,11 +1,11 @@
 id: 237032872
-type: way
+type: node
 latitude: 49.09896
 longitude: 8.85925
 postcode: "75056"
 city: Sulzfeld
-street: "Ochsenburger Straße"
-housenumber: 19
+street: Ochsenburger Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "www.sportkantine-sulzfeld.de"
+website: www.sportkantine-sulzfeld.de

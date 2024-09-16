@@ -4,8 +4,8 @@ latitude: 48.50366
 longitude: 9.05008
 postcode: "72072"
 city: Tübingen
-street: "Sieben-Höfe-Straße"
-housenumber: 5
+street: Sieben-Höfe-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:30-13:00, Mo-Fr 15:00-18:00"
-website: "https://zwergenreich-tuebingen.de/"
+opening_hours: Mo-Sa 09:30-13:00, Mo-Fr 15:00-18:00
+website: https://zwergenreich-tuebingen.de/

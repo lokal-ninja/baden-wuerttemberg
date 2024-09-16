@@ -1,11 +1,11 @@
 id: 130966480
-type: way
+type: node
 latitude: 48.33653
 longitude: 7.86015
 postcode: "77933"
 city: Lahr/Schwarzwald
-street: "Dreyspringstraße"
-housenumber: 19
+street: Dreyspringstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.grafhardenberg.de/de/standorte/lahr/audi-lahr/"
+website: https://www.grafhardenberg.de/de/standorte/lahr/audi-lahr/

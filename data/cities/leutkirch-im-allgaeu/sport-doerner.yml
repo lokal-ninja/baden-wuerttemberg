@@ -4,8 +4,8 @@ latitude: 47.82502
 longitude: 10.02418
 postcode: "88299"
 city: Leutkirch im Allgäu
-street: "Marktstraße"
-housenumber: 2
-phone: "+49 7561 2537"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.sport-dörner.de/"
+street: Marktstraße
+housenumber: "2"
+phone: +49 7561 2537
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00
+website: https://www.sport-dörner.de/

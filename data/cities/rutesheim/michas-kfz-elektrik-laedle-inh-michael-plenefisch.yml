@@ -4,8 +4,8 @@ latitude: 48.80923
 longitude: 8.9307
 postcode: "71277"
 city: Rutesheim
-street: "Drescherstraße"
-housenumber: 42
+street: Drescherstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.plenefisch.eu/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00; PH off
+website: https://www.plenefisch.eu/

@@ -4,8 +4,8 @@ latitude: 47.69789
 longitude: 9.56198
 postcode: "88074"
 city: Meckenbeuren
-street: "Lindberghstraße"
-housenumber: 8
-phone: "+49 7542 98 05 65"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.reckholder.de/"
+street: Lindberghstraße
+housenumber: "8"
+phone: +49 7542 98 05 65
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.reckholder.de/

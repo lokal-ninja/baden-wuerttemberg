@@ -1,11 +1,11 @@
 id: 349638303
-type: way
+type: node
 latitude: 47.72902
 longitude: 9.70134
 postcode: "88285"
 city: Bodnegg
-street: "Birkenstraße"
-housenumber: 13
+street: Birkenstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 302422830
-type: way
+type: node
 latitude: 49.60717
 longitude: 9.43795
 postcode: "74746"
 city: Höpfingen
-street: "Heidelberger Straße"
-housenumber: 49
-phone: "+49 6283 2157027"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.poppstar.eu/"
+street: Heidelberger Straße
+housenumber: "49"
+phone: +49 6283 2157027
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.poppstar.eu/

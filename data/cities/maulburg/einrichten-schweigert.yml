@@ -1,11 +1,11 @@
 id: 161093683
-type: way
+type: node
 latitude: 47.64684
 longitude: 7.77754
 postcode: "79689"
 city: Maulburg
-street: "Hauptstraße"
-housenumber: 28
-phone: "+49 7622 3993 0"
-opening_hours: "Mo-We,Fr 10:00-19:00; Th 10:00-21:00; Sa 09:00-18:00; Su,PH off"
-website: "https://www.schweigert.de/"
+street: Hauptstraße
+housenumber: "28"
+phone: +49 7622 3993 0
+opening_hours: Mo-We,Fr 10:00-19:00; Th 10:00-21:00; Sa 09:00-18:00; Su,PH off
+website: https://www.schweigert.de/

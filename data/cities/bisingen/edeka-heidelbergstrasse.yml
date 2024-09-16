@@ -1,11 +1,11 @@
 id: 193028197
-type: way
+type: node
 latitude: 48.3146
 longitude: 8.91477
 postcode: "72406"
 city: Bisingen
-street: "Heidelbergstraße"
-housenumber: 25
+street: Heidelbergstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

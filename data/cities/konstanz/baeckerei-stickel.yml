@@ -4,8 +4,8 @@ latitude: 47.67552
 longitude: 9.17993
 postcode: "78467"
 city: Konstanz
-street: "Wollmatinger Straße"
-housenumber: 25
+street: Wollmatinger Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 06:45-12:30"
-website: "https://www.backstube-stickel.de/"
+opening_hours: Mo-Sa 06:45-12:30
+website: https://www.backstube-stickel.de/

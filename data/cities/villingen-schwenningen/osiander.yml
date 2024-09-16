@@ -4,8 +4,8 @@ latitude: 48.05982
 longitude: 8.4588
 postcode: "78050"
 city: Villingen-Schwenningen
-street: "Rietstraße"
-housenumber: 8
-phone: "+49 7721 8787990"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off"
-website: "https://www.osiander.de/"
+street: Rietstraße
+housenumber: "8"
+phone: +49 7721 8787990
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off
+website: https://www.osiander.de/

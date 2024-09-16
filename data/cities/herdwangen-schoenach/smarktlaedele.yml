@@ -4,8 +4,8 @@ latitude: 47.89747
 longitude: 9.23604
 postcode: "88634"
 city: Herdwangen-Schönach
-street: "Egg"
-housenumber: 17
-phone: "+49 7552 6349"
-opening_hours: "Fr 14:00-19:00; Sa 07:00-12:30"
-website: "https://www.streicher-egg.de"
+street: Egg
+housenumber: "17"
+phone: +49 7552 6349
+opening_hours: Fr 14:00-19:00; Sa 07:00-12:30
+website: https://www.streicher-egg.de

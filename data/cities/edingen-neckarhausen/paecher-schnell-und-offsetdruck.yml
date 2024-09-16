@@ -1,11 +1,11 @@
 id: 171106157
-type: way
+type: node
 latitude: 49.46897
 longitude: 8.59948
 postcode: "68535"
 city: Edingen-Neckarhausen
-street: "Brückenstraße"
-housenumber: 18
+street: Brückenstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

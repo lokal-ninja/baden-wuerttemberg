@@ -1,11 +1,11 @@
 id: 149868520
-type: way
+type: node
 latitude: 49.07774
 longitude: 9.10608
 postcode: "74336"
 city: Brackenheim
-street: "Turmstraße"
-housenumber: 16
+street: Turmstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

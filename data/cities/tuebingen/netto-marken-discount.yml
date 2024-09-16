@@ -1,11 +1,11 @@
-id: 223539287
-type: way
-latitude: 48.48555
-longitude: 9.00224
+id: 9931385839
+type: node
+latitude: 48.4855
+longitude: 9.00254
 postcode: "72072"
 city: Tübingen
-street: "Bonlanden"
-housenumber: 2
+street: Bonlanden
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

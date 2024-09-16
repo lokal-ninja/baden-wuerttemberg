@@ -1,11 +1,11 @@
 id: 260041928
-type: way
+type: node
 latitude: 47.6935
 longitude: 9.29445
 postcode: "88719"
 city: Stetten
-street: "Roggelestraße"
-housenumber: 1
+street: Roggelestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu 16:15-18:30; Fr 14:00-18:30; Sa 09:00-12:00"
+opening_hours: Tu 16:15-18:30; Fr 14:00-18:30; Sa 09:00-12:00
 website: ""

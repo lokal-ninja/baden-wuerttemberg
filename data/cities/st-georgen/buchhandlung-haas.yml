@@ -4,8 +4,8 @@ latitude: 48.12648
 longitude: 8.33411
 postcode: "78112"
 city: St. Georgen
-street: "Bahnhofstraße"
-housenumber: 66
-phone: "+49 7724 7182"
-opening_hours: "Mo-Sa 08:30-12:30; Mo-Fr 14:00-18:00"
+street: Bahnhofstraße
+housenumber: "66"
+phone: +49 7724 7182
+opening_hours: Mo-Sa 08:30-12:30; Mo-Fr 14:00-18:00
 website: ""

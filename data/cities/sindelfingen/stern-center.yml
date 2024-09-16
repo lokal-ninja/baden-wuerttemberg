@@ -1,11 +1,11 @@
 id: 5546717
-type: way
+type: node
 latitude: 48.70644
 longitude: 8.99783
 postcode: "71063"
 city: Sindelfingen
-street: "Mercedesstraße"
-housenumber: 12
+street: Mercedesstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://sterncentersindelfingen.de/"
+website: https://sterncentersindelfingen.de/

@@ -4,8 +4,8 @@ latitude: 48.39464
 longitude: 9.98315
 postcode: "89077"
 city: Ulm
-street: "Zinglerstraße"
-housenumber: 32
-phone: "+49 151 226 656 93"
-opening_hours: "Mo-Sa 12:00-19:00; PH off"
-website: "http://www.hazet-ink-ulm.de/"
+street: Zinglerstraße
+housenumber: "32"
+phone: +49 151 226 656 93
+opening_hours: Mo-Sa 12:00-19:00; PH off
+website: http://www.hazet-ink-ulm.de/

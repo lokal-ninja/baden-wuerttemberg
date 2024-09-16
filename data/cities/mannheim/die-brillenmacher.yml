@@ -4,8 +4,8 @@ latitude: 49.4959
 longitude: 8.54997
 postcode: "68259"
 city: Mannheim
-street: "Mosbacher Straße"
-housenumber: 18
-phone: "+49 621 705210"
-opening_hours: "Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:30; PH off"
-website: "https://die-brillenmacher-wallstadt.de/"
+street: Mosbacher Straße
+housenumber: "18"
+phone: +49 621 705210
+opening_hours: Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:30; PH off
+website: https://die-brillenmacher-wallstadt.de/

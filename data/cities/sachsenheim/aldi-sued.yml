@@ -1,11 +1,11 @@
 id: 184126529
-type: way
+type: node
 latitude: 48.95319
 longitude: 9.06023
 postcode: "74343"
 city: Sachsenheim
-street: "Südring"
-housenumber: 1
+street: Südring
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

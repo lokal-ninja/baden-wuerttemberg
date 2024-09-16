@@ -1,11 +1,11 @@
 id: 196918897
-type: way
+type: node
 latitude: 49.40556
 longitude: 8.66308
 postcode: "69115"
 city: Heidelberg
-street: "Eppelheimer Straße"
+street: Eppelheimer Straße
 housenumber: 15a
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00"
-website: "https://www.autohaus-geisser.de/standorte/heidelberg.html"
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-14:00
+website: https://www.autohaus-geisser.de/standorte/heidelberg.html

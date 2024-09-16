@@ -1,11 +1,11 @@
 id: 30607947
-type: way
+type: node
 latitude: 48.81449
 longitude: 9.26437
 postcode: "70736"
 city: Fellbach
-street: "Steinbeisstraße"
-housenumber: 4
+street: Steinbeisstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

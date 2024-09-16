@@ -1,11 +1,11 @@
 id: 262827148
-type: way
+type: node
 latitude: 48.30505
 longitude: 9.89054
 postcode: "89155"
 city: Erbach
-street: "Ersinger Straße"
-housenumber: 20
+street: Ersinger Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:30"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 285970463
-type: way
+type: node
 latitude: 48.99543
 longitude: 9.15322
 postcode: "74354"
 city: Besigheim
-street: "Christoph-Schrempf-Straße"
-housenumber: 12
+street: Christoph-Schrempf-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.rock-the-river.com/"
+website: https://www.rock-the-river.com/

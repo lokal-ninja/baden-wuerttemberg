@@ -1,11 +1,11 @@
 id: 241955757
-type: way
+type: node
 latitude: 48.58593
 longitude: 8.61252
 postcode: "72213"
 city: Altensteig
-street: "Bahnhofstraße"
-housenumber: 54
+street: Bahnhofstraße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.85841
 longitude: 7.64219
 postcode: "79426"
 city: Buggingen
-street: "Weingartenstraße"
-housenumber: 18
+street: Weingartenstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Th-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.luzernenhof.de/"
+opening_hours: Th-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.luzernenhof.de/

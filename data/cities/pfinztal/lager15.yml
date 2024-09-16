@@ -4,8 +4,8 @@ latitude: 49.00313
 longitude: 8.52263
 postcode: "76327"
 city: Pfinztal
-street: "Tannenstraße"
-housenumber: 15
-phone: "+49 (0) 721 / 46 94 11"
-opening_hours: "Th 16:00-18:30;Mo-Fr 09:00-17:00 call us"
-website: "https://www.lager15.de"
+street: Tannenstraße
+housenumber: "15"
+phone: +49 (0) 721 / 46 94 11
+opening_hours: Th 16:00-18:30;Mo-Fr 09:00-17:00 "call us"
+website: https://www.lager15.de

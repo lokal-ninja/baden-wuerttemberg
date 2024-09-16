@@ -4,8 +4,8 @@ latitude: 48.93699
 longitude: 9.44435
 postcode: "71522"
 city: Backnang
-street: "Industriestraße"
-housenumber: 31
-phone: "+49 7191 732327"
-opening_hours: "Mo-Fr 07:30-17:00; Sa-Su, PH off"
-website: "https://www.autosattlerei-strohmaier.de/"
+street: Industriestraße
+housenumber: "31"
+phone: +49 7191 732327
+opening_hours: Mo-Fr 07:30-17:00; Sa-Su, PH off
+website: https://www.autosattlerei-strohmaier.de/

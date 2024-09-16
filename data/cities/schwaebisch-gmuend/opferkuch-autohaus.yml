@@ -1,11 +1,11 @@
 id: 203101880
-type: way
+type: node
 latitude: 48.79511
 longitude: 9.86218
 postcode: "73529"
 city: Schwäbisch Gmünd
-street: "Güglingstraße"
-housenumber: 63
+street: Güglingstraße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

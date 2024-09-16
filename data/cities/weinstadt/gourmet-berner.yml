@@ -1,11 +1,11 @@
 id: 570939543
-type: way
+type: node
 latitude: 48.81562
 longitude: 9.38322
 postcode: "71384"
 city: Weinstadt
-street: "Bruckwiesenstraße"
-housenumber: 11
+street: Bruckwiesenstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.gourmetberner.de/"
+website: https://www.gourmetberner.de/

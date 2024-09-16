@@ -4,8 +4,8 @@ latitude: 48.6216
 longitude: 10.02254
 postcode: "89547"
 city: Gerstetten
-street: "Gartenstraße"
-housenumber: 13
-phone: "+49 7323 6570"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:15-12:30"
-website: "http://www.baeckerei-guenther.biz/"
+street: Gartenstraße
+housenumber: "13"
+phone: +49 7323 6570
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:15-12:30
+website: http://www.baeckerei-guenther.biz/

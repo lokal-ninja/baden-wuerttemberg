@@ -1,11 +1,11 @@
 id: 203676079
-type: way
+type: node
 latitude: 49.02322
 longitude: 9.32375
 postcode: "71720"
 city: Oberstenfeld
-street: "Lichtenberger Straße"
-housenumber: 26
+street: Lichtenberger Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

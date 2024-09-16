@@ -1,11 +1,11 @@
 id: 127930867
-type: way
+type: node
 latitude: 48.73219
 longitude: 9.24339
 postcode: "73760"
 city: Ostfildern
-street: "Senefelderstraße"
-housenumber: 2
+street: Senefelderstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.ahg-mobile.de/de/bmw-ostfildern"
+website: https://www.ahg-mobile.de/de/bmw-ostfildern

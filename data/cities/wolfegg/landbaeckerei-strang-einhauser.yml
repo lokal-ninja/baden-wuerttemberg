@@ -1,11 +1,11 @@
 id: 237078111
-type: way
+type: node
 latitude: 47.82
 longitude: 9.79316
 postcode: "88364"
 city: Wolfegg
-street: "Rötenbacher Straße"
-housenumber: 2
-phone: "+49 7527 9547137"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-16:00; PH off"
-website: "https://www.strang-einhauser.de/"
+street: Rötenbacher Straße
+housenumber: "2"
+phone: +49 7527 9547137
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-16:00; PH off
+website: https://www.strang-einhauser.de/

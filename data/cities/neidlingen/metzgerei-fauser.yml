@@ -1,11 +1,11 @@
 id: 286079119
-type: way
+type: node
 latitude: 48.5845
 longitude: 9.56077
 postcode: "73272"
 city: Neidlingen
-street: "Gottlieb-Stoll-Straße"
-housenumber: 56
+street: Gottlieb-Stoll-Straße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

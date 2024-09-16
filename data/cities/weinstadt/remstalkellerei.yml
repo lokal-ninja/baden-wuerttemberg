@@ -1,11 +1,11 @@
 id: 135641176
-type: way
+type: node
 latitude: 48.80772
 longitude: 9.38818
 postcode: "71384"
 city: Weinstadt
-street: "Kaiserstraße"
-housenumber: 11
+street: Kaiserstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

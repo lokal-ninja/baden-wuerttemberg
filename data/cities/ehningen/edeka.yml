@@ -1,11 +1,11 @@
 id: 24025778
-type: way
+type: node
 latitude: 48.6609
 longitude: 8.93996
 postcode: "71139"
 city: Ehningen
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

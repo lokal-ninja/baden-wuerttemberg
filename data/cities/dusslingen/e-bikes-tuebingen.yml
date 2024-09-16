@@ -4,8 +4,9 @@ latitude: 48.4498
 longitude: 9.05641
 postcode: "72144"
 city: Dußlingen
-street: "Wilhelm-Herter-Straße"
-housenumber: 4
-phone: "+49 151 40 800 172"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00; Sa 10:00-18:00; Su 10:00-12:00; PH,Mo off"
-website: "https://www.ebike-tuebingen.de"
+street: Wilhelm-Herter-Straße
+housenumber: "4"
+phone: +49 151 40 800 172
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:00; Sa 10:00-18:00; Su 10:00-12:00; PH,Mo
+    off
+website: https://www.ebike-tuebingen.de

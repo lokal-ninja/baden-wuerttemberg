@@ -1,11 +1,11 @@
 id: 55687288
-type: way
+type: node
 latitude: 48.92897
 longitude: 9.47944
 postcode: "71554"
 city: Weissach im Tal
-street: "Welzheimer Straße"
-housenumber: 7
-phone: "+49 7191 53831"
+street: Welzheimer Straße
+housenumber: "7"
+phone: +49 7191 53831
 opening_hours: ""
-website: "https://www.metzgerei-kuehnle.de"
+website: https://www.metzgerei-kuehnle.de

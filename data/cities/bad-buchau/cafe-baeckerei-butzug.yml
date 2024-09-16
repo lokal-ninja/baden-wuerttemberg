@@ -1,11 +1,11 @@
 id: 1015837887
-type: way
+type: node
 latitude: 48.0636
 longitude: 9.60965
 postcode: "88422"
 city: Bad Buchau
-street: "Hauptstraße"
-housenumber: 17
+street: Hauptstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.48135
 longitude: 7.94657
 postcode: "77652"
 city: Offenburg
-street: "Okenstraße"
-housenumber: 74
-phone: "+49 781 6393722"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.velly.de/salons/offenburg/"
+street: Okenstraße
+housenumber: "74"
+phone: +49 781 6393722
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.velly.de/salons/offenburg/

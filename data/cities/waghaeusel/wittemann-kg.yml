@@ -1,11 +1,11 @@
 id: 361774474
-type: way
+type: node
 latitude: 49.22777
 longitude: 8.50385
 postcode: "68753"
 city: Waghäusel
-street: "Bahnhofstraße"
-housenumber: 146
+street: Bahnhofstraße
+housenumber: "146"
 phone: ""
 opening_hours: ""
 website: ""

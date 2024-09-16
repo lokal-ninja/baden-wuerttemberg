@@ -1,11 +1,11 @@
 id: 225708931
-type: way
+type: node
 latitude: 47.70256
 longitude: 7.8481
 postcode: "79669"
 city: Zell im Wiesental
-street: "Schopfheimer Straße"
-housenumber: 63
+street: Schopfheimer Straße
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "https://www.penny.de/"
+website: https://www.penny.de/

@@ -4,8 +4,8 @@ latitude: 49.1335
 longitude: 9.2189
 postcode: "74074"
 city: Heilbronn
-street: "Wilhelmstraße"
-housenumber: 35
-phone: "+49 7131 6427127"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
-website: "https://www.federmann-heilbronn.de/"
+street: Wilhelmstraße
+housenumber: "35"
+phone: +49 7131 6427127
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00
+website: https://www.federmann-heilbronn.de/

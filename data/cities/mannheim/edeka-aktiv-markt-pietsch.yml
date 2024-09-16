@@ -4,8 +4,8 @@ latitude: 49.51093
 longitude: 8.53901
 postcode: "68309"
 city: Mannheim
-street: "Geraer Ring"
-housenumber: 6
-phone: "+49 621 702381"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+street: Geraer Ring
+housenumber: "6"
+phone: +49 621 702381
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

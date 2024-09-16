@@ -4,8 +4,8 @@ latitude: 47.83861
 longitude: 10.01641
 postcode: "88299"
 city: Leutkirch im Allgäu
-street: "Rupert-App-Straße"
-housenumber: 4
-phone: "+49 7561 6383"
-opening_hours: "Mo-Fr 07:30-12:30, 13:30-17:00"
-website: "http://www.bosch-service-sichler.de/"
+street: Rupert-App-Straße
+housenumber: "4"
+phone: +49 7561 6383
+opening_hours: Mo-Fr 07:30-12:30, 13:30-17:00
+website: http://www.bosch-service-sichler.de/

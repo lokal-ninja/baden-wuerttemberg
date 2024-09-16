@@ -4,8 +4,8 @@ latitude: 48.78204
 longitude: 9.1783
 postcode: "70173"
 city: Stuttgart
-street: "Lautenschlagerstraße"
-housenumber: 16
+street: Lautenschlagerstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:00"
-website: "https://www.magazin.com/magazin-stuttgart-c-54/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-19:00
+website: https://www.magazin.com/magazin-stuttgart-c-54/

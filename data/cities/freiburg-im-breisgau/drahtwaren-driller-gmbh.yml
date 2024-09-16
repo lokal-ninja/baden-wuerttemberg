@@ -1,11 +1,11 @@
 id: 192359375
-type: way
+type: node
 latitude: 48.03136
 longitude: 7.84919
 postcode: "79108"
 city: Freiburg im Breisgau
-street: "Robert-Bunsen-Straße"
+street: Robert-Bunsen-Straße
 housenumber: 7d
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
 website: ""

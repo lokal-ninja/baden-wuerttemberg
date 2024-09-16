@@ -1,11 +1,11 @@
 id: 518332973
-type: way
+type: node
 latitude: 48.82185
 longitude: 9.06596
 postcode: "71254"
 city: Ditzingen
-street: "Dieselstraße"
-housenumber: 18
-phone: "+49 7156 17774000"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.hagebaumarkt-ditzingen.de"
+street: Dieselstraße
+housenumber: "18"
+phone: +49 7156 17774000
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.hagebaumarkt-ditzingen.de

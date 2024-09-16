@@ -1,11 +1,11 @@
 id: 27626762
-type: way
+type: node
 latitude: 48.81177
 longitude: 9.2677
 postcode: "70734"
 city: Fellbach
-street: "Stuttgarter Straße"
-housenumber: 59
+street: Stuttgarter Straße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su 11:00-14:00"
-website: "https://www.pflanzen-koelle.de/standorte/fellbach/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su 11:00-14:00
+website: https://www.pflanzen-koelle.de/standorte/fellbach/

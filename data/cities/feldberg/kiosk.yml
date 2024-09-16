@@ -1,11 +1,11 @@
 id: 223743265
-type: way
+type: node
 latitude: 47.8685
 longitude: 8.12648
 postcode: "79868"
 city: Feldberg
-street: "Kuranlage"
-housenumber: 2
+street: Kuranlage
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 14:00-21:00+; Sa,Su 12:00-21:00+"
+opening_hours: Mo-Fr 14:00-21:00+; Sa,Su 12:00-21:00+
 website: ""

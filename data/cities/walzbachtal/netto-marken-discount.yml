@@ -1,11 +1,11 @@
 id: 259409992
-type: way
+type: node
 latitude: 49.02742
 longitude: 8.57982
 postcode: "75045"
 city: Walzbachtal
-street: "Jöhlinger Straße"
-housenumber: 4
+street: Jöhlinger Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de

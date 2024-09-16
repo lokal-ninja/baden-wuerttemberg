@@ -1,11 +1,11 @@
 id: 171824898
-type: way
+type: node
 latitude: 48.0781
 longitude: 8.73434
 postcode: "78549"
 city: Spaichingen
-street: "Alleenstraße"
-housenumber: 33
+street: Alleenstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:30; Sa 07:30-12:00"
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:30; Sa 07:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 92222180
-type: way
+type: node
 latitude: 47.61921
 longitude: 7.61215
 postcode: "79576"
 city: Weil am Rhein
-street: "Rennemattenweg"
-housenumber: 2
+street: Rennemattenweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.dm.de/store/d4lg/weil-am-rhein/gewerbestrasse-2"
+website: https://www.dm.de/store/d4lg/weil-am-rhein/gewerbestrasse-2

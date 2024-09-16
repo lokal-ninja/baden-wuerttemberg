@@ -1,11 +1,11 @@
 id: 103226631
-type: way
+type: node
 latitude: 48.09829
 longitude: 9.78807
 postcode: "88400"
 city: Biberach an der Riß
-street: "Marktplatz"
-housenumber: 14
+street: Marktplatz
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00; PH off"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00; PH off
 website: ""

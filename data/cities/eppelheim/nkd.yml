@@ -4,8 +4,8 @@ latitude: 49.40113
 longitude: 8.63118
 postcode: "69214"
 city: Eppelheim
-street: "Hauptstraße"
-housenumber: 61
+street: Hauptstraße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "https://www.nkd.com/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
+website: https://www.nkd.com/

@@ -1,11 +1,11 @@
 id: 89221458
-type: way
+type: node
 latitude: 48.5745
 longitude: 8.76503
 postcode: "71131"
 city: Jettingen
-street: "Heilbergstraße"
-housenumber: 6
+street: Heilbergstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

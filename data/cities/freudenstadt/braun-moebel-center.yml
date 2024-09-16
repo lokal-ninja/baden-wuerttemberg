@@ -1,11 +1,11 @@
 id: 208977744
-type: way
+type: node
 latitude: 48.46349
 longitude: 8.43908
 postcode: "72250"
 city: Freudenstadt
-street: "Rudolf-Diesel-Straße"
-housenumber: 4
+street: Rudolf-Diesel-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
 website: ""

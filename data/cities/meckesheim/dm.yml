@@ -1,11 +1,11 @@
 id: 179083661
-type: way
+type: node
 latitude: 49.32484
 longitude: 8.8136
 postcode: "74909"
 city: Meckesheim
-street: "Brühlweg"
-housenumber: 15
+street: Brühlweg
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

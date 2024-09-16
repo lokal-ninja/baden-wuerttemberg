@@ -1,11 +1,11 @@
 id: 135266481
-type: way
+type: node
 latitude: 48.53317
 longitude: 8.57184
 postcode: "72285"
 city: Pfalzgrafenweiler
-street: "Daimlerstraße"
-housenumber: 20
+street: Daimlerstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

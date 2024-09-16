@@ -1,11 +1,11 @@
 id: 87550185
-type: way
+type: node
 latitude: 49.75534
 longitude: 9.32365
 postcode: "97896"
 city: Freudenberg
-street: "Hauptstraße"
-housenumber: 300
-phone: "+49 9375 929020"
+street: Hauptstraße
+housenumber: "300"
+phone: +49 9375 929020
 opening_hours: ""
 website: ""

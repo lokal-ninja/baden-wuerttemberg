@@ -4,8 +4,8 @@ latitude: 49.06772
 longitude: 9.28822
 postcode: "74232"
 city: Abstatt
-street: "Rathausstraße"
-housenumber: 5
-phone: "+49 71312701527"
-opening_hours: "Termine nur nach Vereinbarung mit Store HN"
-website: "https://www.car-customizer-store.de/store-heilbronn/"
+street: Rathausstraße
+housenumber: "5"
+phone: +49 71312701527
+opening_hours: '"Termine nur nach Vereinbarung mit Store HN"'
+website: https://www.car-customizer-store.de/store-heilbronn/

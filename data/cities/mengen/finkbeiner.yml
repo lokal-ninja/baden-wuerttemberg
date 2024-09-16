@@ -1,11 +1,11 @@
 id: 225981947
-type: way
+type: node
 latitude: 48.05134
 longitude: 9.33536
 postcode: "88512"
 city: Mengen
-street: "Karlstraße"
-housenumber: 11
+street: Karlstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 8:30-19:00; Sa 8:00-16:00"
+opening_hours: Mo-Fr 8:30-19:00; Sa 8:00-16:00
 website: ""

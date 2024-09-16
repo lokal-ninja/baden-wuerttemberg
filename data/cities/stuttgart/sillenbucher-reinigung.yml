@@ -4,8 +4,8 @@ latitude: 48.74211
 longitude: 9.21499
 postcode: "70619"
 city: Stuttgart
-street: "Spaichinger Straße"
-housenumber: 11
+street: Spaichinger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 08:00-13:00,14:00-18:00; We,Sa 08:00-13:00; PH closed"
+opening_hours: Mo-Tu,Th-Fr 08:00-13:00,14:00-18:00; We,Sa 08:00-13:00; PH closed
 website: ""

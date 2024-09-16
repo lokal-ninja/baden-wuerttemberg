@@ -1,11 +1,11 @@
 id: 52469681
-type: way
+type: node
 latitude: 49.19652
 longitude: 9.23033
 postcode: "74172"
 city: Neckarsulm
-street: "Neuenstädter Straße"
-housenumber: 55
+street: Neuenstädter Straße
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.bestattungshaus-himmelblau.de/neckarsulm/"
+website: https://www.bestattungshaus-himmelblau.de/neckarsulm/

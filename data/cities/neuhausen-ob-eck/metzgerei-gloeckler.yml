@@ -1,11 +1,11 @@
 id: 227983486
-type: way
+type: node
 latitude: 47.9702
 longitude: 8.9283
 postcode: "78579"
 city: Neuhausen ob Eck
-street: "Im Brühl"
-housenumber: 7
+street: Im Brühl
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

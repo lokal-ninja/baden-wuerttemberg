@@ -4,8 +4,8 @@ latitude: 48.77312
 longitude: 9.24243
 postcode: "70327"
 city: Stuttgart
-street: "Ulmer Straße"
-housenumber: 335
-phone: "+49 711 4202763"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 06:00-13:00; PH off"
-website: "http://www.metzgerei-haefele.de"
+street: Ulmer Straße
+housenumber: "335"
+phone: +49 711 4202763
+opening_hours: Mo-Fr 07:00-18:30; Sa 06:00-13:00; PH off
+website: http://www.metzgerei-haefele.de

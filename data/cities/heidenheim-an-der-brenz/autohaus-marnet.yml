@@ -1,11 +1,11 @@
 id: 464794728
-type: way
+type: node
 latitude: 48.71453
 longitude: 10.15821
 postcode: "89520"
 city: Heidenheim an der Brenz
-street: "Aufhausener Straße"
-housenumber: 25
+street: Aufhausener Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.marnet.de"
+website: https://www.marnet.de

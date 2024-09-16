@@ -1,11 +1,11 @@
 id: 221950979
-type: way
+type: node
 latitude: 48.86779
 longitude: 8.18789
 postcode: "76437"
 city: Rastatt
-street: "Gutenbergstraße"
-housenumber: 9
+street: Gutenbergstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

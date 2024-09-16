@@ -1,11 +1,11 @@
 id: 126247328
-type: way
+type: node
 latitude: 47.88474
 longitude: 8.33968
 postcode: "79843"
 city: Löffingen
-street: "Kesselstraße"
-housenumber: 19
+street: Kesselstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

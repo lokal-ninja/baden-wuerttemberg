@@ -1,11 +1,11 @@
 id: 1296422944
-type: way
+type: node
 latitude: 48.8861
 longitude: 8.69752
 postcode: "75173"
 city: Pforzheim
-street: "Jahnstraße"
-housenumber: 42
+street: Jahnstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Tu-Su 10:00-17:00, PH 10:00-17:00; Mo off"
-website: "https://www.schmuckmuseum.de/"
+opening_hours: Tu-Su 10:00-17:00, PH 10:00-17:00; Mo off
+website: https://www.schmuckmuseum.de/

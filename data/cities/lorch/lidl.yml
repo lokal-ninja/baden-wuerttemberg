@@ -1,11 +1,11 @@
 id: 538262639
-type: way
+type: node
 latitude: 48.79802
 longitude: 9.67488
 postcode: "73547"
 city: Lorch
-street: "Maierhofstraße"
-housenumber: 28
+street: Maierhofstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

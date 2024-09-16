@@ -1,11 +1,11 @@
 id: 253170411
-type: way
+type: node
 latitude: 48.51978
 longitude: 8.3282
 postcode: "72270"
 city: Baiersbronn
-street: "Ruhesteinstraße"
-housenumber: 268
+street: Ruhesteinstraße
+housenumber: "268"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.76297
 longitude: 8.33808
 postcode: "76593"
 city: Gernsbach
-street: "Igelbachstraße"
-housenumber: 10
+street: Igelbachstraße
+housenumber: "10"
 phone: "+4972241710"
-opening_hours: "Mo-Tu 09:30-12:30,14:30-18:00, Th-Fr 09:30-12:30,14:30-18:00, Sa 09:30-12:30"
-website: "https://www.kaminski-fotografie.de/"
+opening_hours: Mo-Tu 09:30-12:30,14:30-18:00, Th-Fr 09:30-12:30,14:30-18:00, Sa 09:30-12:30
+website: https://www.kaminski-fotografie.de/

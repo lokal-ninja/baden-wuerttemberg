@@ -1,11 +1,11 @@
 id: 345081526
-type: way
+type: node
 latitude: 48.86716
 longitude: 9.35201
 postcode: "71409"
 city: Schwaikheim
-street: "Heinkelstraße"
-housenumber: 
-phone: "+49 7195 51565"
+street: Heinkelstraße
+housenumber: ""
+phone: +49 7195 51565
 opening_hours: ""
 website: ""

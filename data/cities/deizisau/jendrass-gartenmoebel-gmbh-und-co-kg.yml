@@ -1,11 +1,11 @@
 id: 487322218
-type: way
+type: node
 latitude: 48.71523
 longitude: 9.3685
 postcode: "73779"
 city: Deizisau
-street: "Herrenlandweg"
-housenumber: 6
+street: Herrenlandweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

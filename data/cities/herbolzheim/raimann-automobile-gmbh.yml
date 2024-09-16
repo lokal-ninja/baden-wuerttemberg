@@ -1,11 +1,11 @@
 id: 89682223
-type: way
+type: node
 latitude: 48.22134
 longitude: 7.76535
 postcode: "79336"
 city: Herbolzheim
-street: "Bugstraße"
-housenumber: 15
+street: Bugstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

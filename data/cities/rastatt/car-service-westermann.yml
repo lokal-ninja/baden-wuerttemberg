@@ -1,11 +1,11 @@
 id: 92501751
-type: way
+type: node
 latitude: 48.85865
 longitude: 8.21961
 postcode: "76437"
 city: Rastatt
-street: "Lochfeldstraße"
-housenumber: 9
+street: Lochfeldstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa || nach Vereinbarung"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa || "nach Vereinbarung"
 website: ""

@@ -1,11 +1,11 @@
 id: 235144239
-type: way
+type: node
 latitude: 49.21503
 longitude: 8.69821
 postcode: "76684"
 city: Östringen
-street: "Felix-Mendelssohn-Straße"
-housenumber: 12
+street: Felix-Mendelssohn-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

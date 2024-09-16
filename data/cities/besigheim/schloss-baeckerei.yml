@@ -1,11 +1,11 @@
 id: 107877852
-type: way
+type: node
 latitude: 48.99757
 longitude: 9.13695
 postcode: "74354"
 city: Besigheim
-street: "Weinstraße"
-housenumber: 11
+street: Weinstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

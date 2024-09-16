@@ -1,11 +1,11 @@
 id: 265014400
-type: way
+type: node
 latitude: 48.07451
 longitude: 8.25759
 postcode: "78120"
 city: Furtwangen im Schwarzwald
-street: "Brigacher Straße"
-housenumber: 2
+street: Brigacher Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

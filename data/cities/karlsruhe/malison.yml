@@ -4,8 +4,8 @@ latitude: 49.00998
 longitude: 8.39873
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 112
-phone: "+49 721 9765949"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00"
-website: "https://www.malison24.de/"
+street: Kaiserstraße
+housenumber: "112"
+phone: +49 721 9765949
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00
+website: https://www.malison24.de/

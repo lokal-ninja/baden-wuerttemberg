@@ -1,11 +1,11 @@
 id: 45186754
-type: way
+type: node
 latitude: 49.32112
 longitude: 9.3642
 postcode: "74219"
 city: Möckmühl
-street: "Waagerner Tal"
-housenumber: 10
+street: Waagerner Tal
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00"
+opening_hours: Mo-Sa 07:30-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 46741931
-type: way
+type: node
 latitude: 48.81547
 longitude: 9.11126
 postcode: "70499"
 city: Stuttgart
-street: "Glemsgaustraße"
-housenumber: 20
+street: Glemsgaustraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 05:00-19:00; Sa 05:00-13:00; Su 08:00-11:00"
-website: "https://www.baeckereisauter.de/"
+opening_hours: Mo-Fr 05:00-19:00; Sa 05:00-13:00; Su 08:00-11:00
+website: https://www.baeckereisauter.de/

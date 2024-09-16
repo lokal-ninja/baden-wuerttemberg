@@ -1,11 +1,11 @@
 id: 29176287
-type: way
+type: node
 latitude: 48.47606
 longitude: 7.94035
 postcode: "77652"
 city: Offenburg
-street: "Freiburger Straße"
-housenumber: 14
+street: Freiburger Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/offenburg/nordstadt-freiburger-str-14.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/offenburg/nordstadt-freiburger-str-14.html

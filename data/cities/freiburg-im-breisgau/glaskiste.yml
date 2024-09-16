@@ -4,8 +4,8 @@ latitude: 47.99484
 longitude: 7.84325
 postcode: "79098"
 city: Freiburg im Breisgau
-street: "Moltkestraße"
-housenumber: 15
+street: Moltkestraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo,We-Fr 10:00-19:00; Tu 10:00-13:00,16:00-19:00; Sa 09:00-17:00"
-website: "https://glaskiste.com/"
+opening_hours: Mo,We-Fr 10:00-19:00; Tu 10:00-13:00,16:00-19:00; Sa 09:00-17:00
+website: https://glaskiste.com/

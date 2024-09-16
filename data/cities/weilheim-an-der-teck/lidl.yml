@@ -1,11 +1,11 @@
 id: 174640873
-type: way
+type: node
 latitude: 48.6146
 longitude: 9.53121
 postcode: "73235"
 city: Weilheim an der Teck
-street: "Baumgartenstraße"
-housenumber: 3
+street: Baumgartenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/weilheim/baumgartenstr-3.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/weilheim/baumgartenstr-3.html

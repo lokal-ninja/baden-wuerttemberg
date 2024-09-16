@@ -4,8 +4,8 @@ latitude: 49.00811
 longitude: 8.40921
 postcode: "76133"
 city: Karlsruhe
-street: "Kronenstraße"
-housenumber: 34
+street: Kronenstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.siamthai.de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.siamthai.de/

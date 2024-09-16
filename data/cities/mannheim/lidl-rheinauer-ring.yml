@@ -4,8 +4,8 @@ latitude: 49.43042
 longitude: 8.53321
 postcode: "68219"
 city: Mannheim
-street: "Rheinauer Ring"
-housenumber: 95
+street: Rheinauer Ring
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su,PH off"
-website: "https://www.lidl.de/filialen/mannheim/rheinau-rheinauer-ring-95.html"
+opening_hours: Mo-Sa 07:30-21:00; Su,PH off
+website: https://www.lidl.de/filialen/mannheim/rheinau-rheinauer-ring-95.html

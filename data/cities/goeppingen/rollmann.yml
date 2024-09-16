@@ -4,8 +4,8 @@ latitude: 48.68782
 longitude: 9.68417
 postcode: "73037"
 city: Göppingen
-street: "Göppinger Straße"
-housenumber: 34
-phone: "+49 7161 98466 0"
-opening_hours: "Mo-We 09:00-18:15; Th 09:00-19:00; Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.rollmann.de/"
+street: Göppinger Straße
+housenumber: "34"
+phone: +49 7161 98466 0
+opening_hours: Mo-We 09:00-18:15; Th 09:00-19:00; Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.rollmann.de/

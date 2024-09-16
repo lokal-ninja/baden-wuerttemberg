@@ -4,8 +4,8 @@ latitude: 48.9522
 longitude: 9.44701
 postcode: "71522"
 city: Backnang
-street: "Ahornweg"
-housenumber: 18
+street: Ahornweg
+housenumber: "18"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

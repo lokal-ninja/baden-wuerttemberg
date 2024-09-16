@@ -1,11 +1,11 @@
 id: 173585180
-type: way
+type: node
 latitude: 49.44381
 longitude: 8.57856
 postcode: "68229"
 city: Mannheim
-street: "Trautenfeldstraße"
-housenumber: 12
+street: Trautenfeldstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

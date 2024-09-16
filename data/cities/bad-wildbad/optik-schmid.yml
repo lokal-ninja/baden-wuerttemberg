@@ -4,8 +4,8 @@ latitude: 48.77411
 longitude: 8.58123
 postcode: "75323"
 city: Bad Wildbad
-street: "Hauptstraße"
-housenumber: 1
-phone: "+49 7081 7539"
-opening_hours: "Mo-Sa 9:00-12:30; Tu+ Th 15:00-18:00"
-website: "https://www.optik-schmid.de/"
+street: Hauptstraße
+housenumber: "1"
+phone: +49 7081 7539
+opening_hours: Mo-Sa 9:00-12:30; Tu+ Th 15:00-18:00
+website: https://www.optik-schmid.de/

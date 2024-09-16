@@ -4,8 +4,8 @@ latitude: 48.78934
 longitude: 9.3405
 postcode: "71394"
 city: Kernen im Remstal
-street: "Bachstraße"
-housenumber: 10
+street: Bachstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 06:00-18:00; Sa 06:00-13:00; PH,Su,Mo off"
-website: "https://bachbaeck.de/"
+opening_hours: Tu-Fr 06:00-18:00; Sa 06:00-13:00; PH,Su,Mo off
+website: https://bachbaeck.de/

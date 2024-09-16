@@ -1,11 +1,11 @@
 id: 59191727
-type: way
+type: node
 latitude: 49.18871
 longitude: 9.20131
 postcode: "74172"
 city: Neckarsulm
-street: "Neckargartacher Straße"
-housenumber: 73
+street: Neckargartacher Straße
+housenumber: "73"
 phone: ""
 opening_hours: ""
-website: "https://www.autodienst-burkart.de/"
+website: https://www.autodienst-burkart.de/

@@ -1,11 +1,11 @@
 id: 254366638
-type: way
+type: node
 latitude: 48.86873
 longitude: 10.108
 postcode: "73433"
 city: Aalen
-street: "Ellwanger Straße"
-housenumber: 22
+street: Ellwanger Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

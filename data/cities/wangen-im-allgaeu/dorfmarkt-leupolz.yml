@@ -1,11 +1,11 @@
 id: 79610185
-type: way
+type: node
 latitude: 47.74925
 longitude: 9.82463
 postcode: ""
 city: Wangen im Allgäu
-street: "Karbachweg"
-housenumber: 3
+street: Karbachweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

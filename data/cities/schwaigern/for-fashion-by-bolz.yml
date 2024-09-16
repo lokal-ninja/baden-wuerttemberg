@@ -1,11 +1,11 @@
 id: 93996106
-type: way
+type: node
 latitude: 49.13923
 longitude: 9.05714
 postcode: "74193"
 city: Schwaigern
-street: "Theodor-Heuss-Straße"
-housenumber: 25
+street: Theodor-Heuss-Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-16:00
 website: ""

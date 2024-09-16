@@ -4,8 +4,8 @@ latitude: 49.06281
 longitude: 8.80147
 postcode: "75038"
 city: Oberderdingen
-street: "Flehinger Straße"
-housenumber: 5
+street: Flehinger Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su 07:00-13:00"
-website: "https://baeckerei-weigel.de/"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su 07:00-13:00
+website: https://baeckerei-weigel.de/

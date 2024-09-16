@@ -1,11 +1,11 @@
 id: 189804335
-type: way
+type: node
 latitude: 48.86993
 longitude: 9.60635
 postcode: "73642"
 city: Welzheim
-street: "Vorderhundsberg"
-housenumber: 5
+street: Vorderhundsberg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "www.biolandhof-scheer-gmach.de"
+website: www.biolandhof-scheer-gmach.de

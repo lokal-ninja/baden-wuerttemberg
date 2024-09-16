@@ -1,11 +1,11 @@
 id: 918454326
-type: way
+type: node
 latitude: 48.57048
 longitude: 8.69143
 postcode: "72229"
 city: Rohrdorf
-street: "Talstraße"
-housenumber: 43
+street: Talstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 90709520
-type: way
+type: node
 latitude: 48.90158
 longitude: 8.66695
 postcode: "75179"
 city: Pforzheim
-street: "Wilhelm-Becker-Straße"
-housenumber: 15
-phone: "+49 7231 778780"
+street: Wilhelm-Becker-Straße
+housenumber: "15"
+phone: +49 7231 778780
 opening_hours: ""
 website: ""

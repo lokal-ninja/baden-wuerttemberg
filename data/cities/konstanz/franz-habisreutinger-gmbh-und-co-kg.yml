@@ -4,8 +4,8 @@ latitude: 47.67331
 longitude: 9.15345
 postcode: "78467"
 city: Konstanz
-street: "Line-Eid-Straße"
-housenumber: 9
-phone: "+49 731 59 770"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.habisreutinger.de/"
+street: Line-Eid-Straße
+housenumber: "9"
+phone: +49 731 59 770
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.habisreutinger.de/

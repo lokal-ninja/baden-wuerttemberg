@@ -4,8 +4,8 @@ latitude: 48.02824
 longitude: 7.58482
 postcode: "79206"
 city: Breisach am Rhein
-street: "Neutorstraße"
-housenumber: 29
-phone: "+49 7667 1717"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://neutorbuchhandlung.de"
+street: Neutorstraße
+housenumber: "29"
+phone: +49 7667 1717
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://neutorbuchhandlung.de

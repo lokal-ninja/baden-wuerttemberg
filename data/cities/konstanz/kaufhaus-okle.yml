@@ -1,11 +1,11 @@
 id: 107493877
-type: way
+type: node
 latitude: 47.7343
 longitude: 9.11597
 postcode: "78465"
 city: Konstanz
-street: "Allensbacher Straße"
-housenumber: 3
-phone: "+49 7533 99460"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-14:00"
-website: "https://www.edeka.de/eh/südwest/kaufhaus-okle-allenbacherstraße-3/index.jsp"
+street: Allensbacher Straße
+housenumber: "3"
+phone: +49 7533 99460
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-14:00
+website: https://www.edeka.de/eh/südwest/kaufhaus-okle-allenbacherstraße-3/index.jsp

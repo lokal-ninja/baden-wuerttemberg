@@ -1,11 +1,11 @@
 id: 35928602
-type: way
+type: node
 latitude: 48.50519
 longitude: 9.20933
 postcode: "72760"
 city: Reutlingen
-street: "Storlachstraße"
-housenumber: 31
+street: Storlachstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Su off; PH off; Mo-Sa 07:00-21:00"
+opening_hours: Su off; PH off; Mo-Sa 07:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.56958
 longitude: 8.4338
 postcode: "79801"
 city: Hohentengen am Hochrhein
-street: "Hauptstraße"
-housenumber: 12
-phone: "+49 7742 9789978"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-13:00"
-website: "https://www.blumen-hochrhein.de/"
+street: Hauptstraße
+housenumber: "12"
+phone: +49 7742 9789978
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-13:00
+website: https://www.blumen-hochrhein.de/

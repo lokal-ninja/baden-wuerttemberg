@@ -1,11 +1,11 @@
 id: 335888961
-type: way
+type: node
 latitude: 48.47309
 longitude: 8.44736
 postcode: "72250"
 city: Freudenstadt
-street: "Maienstraße"
-housenumber: 3
+street: Maienstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

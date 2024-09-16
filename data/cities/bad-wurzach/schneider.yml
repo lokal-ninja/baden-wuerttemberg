@@ -1,11 +1,11 @@
 id: 88956458
-type: way
+type: node
 latitude: 47.85535
 longitude: 9.8979
 postcode: ""
 city: Bad Wurzach
-street: "Am Kirchberg"
-housenumber: 3
+street: Am Kirchberg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

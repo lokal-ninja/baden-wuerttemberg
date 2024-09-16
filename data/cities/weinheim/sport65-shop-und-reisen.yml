@@ -4,8 +4,8 @@ latitude: 49.55376
 longitude: 8.66745
 postcode: "69469"
 city: Weinheim
-street: "Am Hauptbahnhof"
-housenumber: 8
-phone: "+49 6201 185951"
-opening_hours: "Mo,We-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00; Su,PH off"
-website: "https://www.sport65.de/"
+street: Am Hauptbahnhof
+housenumber: "8"
+phone: +49 6201 185951
+opening_hours: Mo,We-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00; Su,PH off
+website: https://www.sport65.de/

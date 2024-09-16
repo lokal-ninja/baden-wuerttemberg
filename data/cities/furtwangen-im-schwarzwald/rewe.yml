@@ -1,11 +1,11 @@
 id: 140996640
-type: way
+type: node
 latitude: 48.04933
 longitude: 8.21517
 postcode: "78120"
 city: Furtwangen im Schwarzwald
-street: "Allmendstraße"
-housenumber: 32
+street: Allmendstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

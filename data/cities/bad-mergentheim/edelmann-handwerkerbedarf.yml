@@ -1,11 +1,11 @@
 id: 320984538
-type: way
+type: node
 latitude: 49.49506
 longitude: 9.77044
 postcode: "97980"
 city: Bad Mergentheim
-street: "Herrenwiesenstraße"
-housenumber: 19
+street: Herrenwiesenstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

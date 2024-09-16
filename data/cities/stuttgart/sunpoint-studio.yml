@@ -4,8 +4,8 @@ latitude: 48.81399
 longitude: 9.11173
 postcode: "70499"
 city: Stuttgart
-street: "Solitudestraße"
-housenumber: 223
-phone: "+49 711 3804200"
+street: Solitudestraße
+housenumber: "223"
+phone: +49 711 3804200
 opening_hours: ""
-website: "https://www.sunpoint.de/"
+website: https://www.sunpoint.de/

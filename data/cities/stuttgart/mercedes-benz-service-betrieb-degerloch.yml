@@ -1,11 +1,11 @@
 id: 428305244
-type: way
+type: node
 latitude: 48.73605
 longitude: 9.16663
 postcode: "70597"
 city: Stuttgart
-street: "Tränkestraße"
-housenumber: 18
-phone: "+49 711 2590 0"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-13:00"
-website: "https://www.mercedes-benz-stuttgart.de/content/deutschland/retail-plz7/niederlassung-stuttgart/de/desktop/passenger-cars/about-us/locations/location.5833.html"
+street: Tränkestraße
+housenumber: "18"
+phone: +49 711 2590 0
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-13:00
+website: https://www.mercedes-benz-stuttgart.de/content/deutschland/retail-plz7/niederlassung-stuttgart/de/desktop/passenger-cars/about-us/locations/location.5833.html

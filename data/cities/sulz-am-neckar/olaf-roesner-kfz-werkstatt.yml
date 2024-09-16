@@ -1,11 +1,11 @@
 id: 601270442
-type: way
+type: node
 latitude: 48.38783
 longitude: 8.6308
 postcode: "72172"
 city: Sulz am Neckar
-street: "Auchtertweg"
-housenumber: 5
+street: Auchtertweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.01011
 longitude: 8.39573
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 140
-phone: "+49 721 2038700"
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.newyorker.de/stores/"
+street: Kaiserstraße
+housenumber: "140"
+phone: +49 721 2038700
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.newyorker.de/stores/

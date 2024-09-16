@@ -4,8 +4,8 @@ latitude: 48.90019
 longitude: 9.69358
 postcode: "73553"
 city: Kaisersbach
-street: "Schillinghof"
-housenumber: 2
-phone: "+49 7182 3808"
-opening_hours: "Th-Fr 09:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "https://landmetzgerei-ziesel.sandland.de/"
+street: Schillinghof
+housenumber: "2"
+phone: +49 7182 3808
+opening_hours: Th-Fr 09:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: https://landmetzgerei-ziesel.sandland.de/

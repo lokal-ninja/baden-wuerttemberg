@@ -4,8 +4,8 @@ latitude: 48.68739
 longitude: 9.00555
 postcode: "71034"
 city: Böblingen
-street: "Wolfgang-Brumme-Allee"
-housenumber: 27
+street: Wolfgang-Brumme-Allee
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.frech-bb.de/126/ladengeschaefte/background"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.frech-bb.de/126/ladengeschaefte/background

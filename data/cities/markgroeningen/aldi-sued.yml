@@ -1,11 +1,11 @@
 id: 205544622
-type: way
+type: node
 latitude: 48.90065
 longitude: 9.09287
 postcode: "71706"
 city: Markgröningen
-street: "Im Sträßle"
-housenumber: 14
+street: Im Sträßle
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

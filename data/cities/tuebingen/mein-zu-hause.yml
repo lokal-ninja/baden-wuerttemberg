@@ -4,8 +4,8 @@ latitude: 48.5214
 longitude: 9.05572
 postcode: "72070"
 city: Tübingen
-street: "Metzgergasse"
-housenumber: 4
-phone: "+49 7071 9809089"
-opening_hours: "Mo 14:00-18:30, Mo-Fr 11:00-18:30, Sa 11:00-16:00"
-website: "https://www.mein-zu-hause.com/"
+street: Metzgergasse
+housenumber: "4"
+phone: +49 7071 9809089
+opening_hours: Mo 14:00-18:30, Mo-Fr 11:00-18:30, Sa 11:00-16:00
+website: https://www.mein-zu-hause.com/

@@ -4,8 +4,8 @@ latitude: 48.17522
 longitude: 8.40786
 postcode: "78739"
 city: Hardt
-street: "Neubauernweg"
-housenumber: 25
-phone: "+49 74 22 49 25"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; PH off"
-website: "http://www.getraenke-storz.de"
+street: Neubauernweg
+housenumber: "25"
+phone: +49 74 22 49 25
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00; PH off
+website: http://www.getraenke-storz.de

@@ -4,8 +4,8 @@ latitude: 49.00916
 longitude: 8.39851
 postcode: "76133"
 city: Karlsruhe
-street: "Herrenstraße"
-housenumber: 26
-phone: "+49 721 16089611"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://strellson.com/de/de/"
+street: Herrenstraße
+housenumber: "26"
+phone: +49 721 16089611
+opening_hours: Mo-Sa 10:00-19:00
+website: https://strellson.com/de/de/

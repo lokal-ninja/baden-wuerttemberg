@@ -4,8 +4,8 @@ latitude: 47.68388
 longitude: 9.8271
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Lindauer Straße"
-housenumber: 43
-phone: "+49 7522 2423"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:15-10:30; PH closed"
-website: "https://vogelbaeck.de/"
+street: Lindauer Straße
+housenumber: "43"
+phone: +49 7522 2423
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:15-10:30; PH closed
+website: https://vogelbaeck.de/

@@ -1,11 +1,11 @@
 id: 87774985
-type: way
+type: node
 latitude: 47.8681
 longitude: 8.20189
 postcode: "79853"
 city: Lenzkirch
-street: "Kirchplatz"
-housenumber: 3
+street: Kirchplatz
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 379770045
-type: way
+type: node
 latitude: 49.23493
 longitude: 9.09113
 postcode: "74906"
 city: Bad Rappenau
-street: "Raiffeisenstraße"
-housenumber: 31
-phone: "+49 7264 929390"
+street: Raiffeisenstraße
+housenumber: "31"
+phone: +49 7264 929390
 opening_hours: ""
-website: "https://krz-eg.de/energie-und-umwelt/tankstellen/bad-rappenau.html"
+website: https://krz-eg.de/energie-und-umwelt/tankstellen/bad-rappenau.html

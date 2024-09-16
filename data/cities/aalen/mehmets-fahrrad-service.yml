@@ -1,11 +1,11 @@
 id: 669522848
-type: way
+type: node
 latitude: 48.88516
 longitude: 10.13585
 postcode: "73433"
 city: Aalen
-street: "Am Mittelbach"
-housenumber: 2
-phone: "+49 7361 740035"
+street: Am Mittelbach
+housenumber: "2"
+phone: +49 7361 740035
 opening_hours: ""
-website: "http://mehmets-fahrradservice.de/"
+website: http://mehmets-fahrradservice.de/

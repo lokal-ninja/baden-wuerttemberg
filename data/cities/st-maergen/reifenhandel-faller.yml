@@ -1,11 +1,11 @@
 id: 163975707
-type: way
+type: node
 latitude: 48.01157
 longitude: 8.09197
 postcode: "79274"
 city: St. Märgen
-street: "Rankhofstraße"
-housenumber: 23
-phone: "+49 7669 1561"
-opening_hours: "Mo-Fr 08:00-13:00,14:30-18:00; PH off"
-website: "https://www.reifenhandel-faller.de/"
+street: Rankhofstraße
+housenumber: "23"
+phone: +49 7669 1561
+opening_hours: Mo-Fr 08:00-13:00,14:30-18:00; PH off
+website: https://www.reifenhandel-faller.de/

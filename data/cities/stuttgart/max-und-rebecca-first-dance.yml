@@ -1,11 +1,11 @@
 id: 61400113
-type: way
+type: node
 latitude: 48.7604
 longitude: 9.16064
 postcode: "70199"
 city: Stuttgart
-street: "Schreiberstraße"
-housenumber: 32
+street: Schreiberstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://online-firstdance.de/"
+website: https://online-firstdance.de/

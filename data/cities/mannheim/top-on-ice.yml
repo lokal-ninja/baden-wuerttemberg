@@ -4,8 +4,8 @@ latitude: 49.47476
 longitude: 8.52577
 postcode: "68163"
 city: Mannheim
-street: "Hans-Thoma-Straße"
-housenumber: 5
-phone: "+49 621 334929"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 09:00-14:00"
-website: "http://toponice.de/"
+street: Hans-Thoma-Straße
+housenumber: "5"
+phone: +49 621 334929
+opening_hours: Mo-Fr 11:00-18:00; Sa 09:00-14:00
+website: http://toponice.de/

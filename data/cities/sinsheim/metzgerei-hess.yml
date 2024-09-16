@@ -4,8 +4,8 @@ latitude: 49.27205
 longitude: 8.84213
 postcode: "74889"
 city: Sinsheim
-street: "Kirchstraße"
-housenumber: 2
-phone: "+49 7261 2333"
-opening_hours: "Mo,Tu,Th,Fr 07:00-13:00, 15:00-18:30; Sa, We 07:00-13:00"
-website: "https://www.metzgereihess.de/"
+street: Kirchstraße
+housenumber: "2"
+phone: +49 7261 2333
+opening_hours: Mo,Tu,Th,Fr 07:00-13:00, 15:00-18:30; Sa, We 07:00-13:00
+website: https://www.metzgereihess.de/

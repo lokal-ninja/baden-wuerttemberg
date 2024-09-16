@@ -4,8 +4,8 @@ latitude: 48.62776
 longitude: 9.34087
 postcode: "72622"
 city: Nürtingen
-street: "Europastraße"
-housenumber: 7
+street: Europastraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "http://kaufland.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: http://kaufland.de

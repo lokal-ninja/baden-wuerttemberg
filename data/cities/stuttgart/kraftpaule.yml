@@ -4,8 +4,8 @@ latitude: 48.78746
 longitude: 9.19315
 postcode: "70190"
 city: Stuttgart
-street: "Neckarstraße"
-housenumber: 132
-phone: "+49 711 50488662"
-opening_hours: "Mo-Th 16:00-23:00; Fr-Sa 16:00-24:00"
-website: "https://www.kraftpaule.de/"
+street: Neckarstraße
+housenumber: "132"
+phone: +49 711 50488662
+opening_hours: Mo-Th 16:00-23:00; Fr-Sa 16:00-24:00
+website: https://www.kraftpaule.de/

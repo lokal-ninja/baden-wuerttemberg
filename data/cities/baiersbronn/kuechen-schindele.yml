@@ -1,11 +1,11 @@
 id: 169961236
-type: way
+type: node
 latitude: 48.49203
 longitude: 8.3769
 postcode: "72270"
 city: Baiersbronn
-street: "Uferweg"
-housenumber: 53
+street: Uferweg
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

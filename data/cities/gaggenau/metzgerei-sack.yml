@@ -4,8 +4,8 @@ latitude: 48.80326
 longitude: 8.31951
 postcode: "76571"
 city: Gaggenau
-street: "Hauptstraße"
-housenumber: 36
-phone: "+49 7225 2267"
-opening_hours: "Mo,Tu,Th,Fr 08:30-18:00; We 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.metzgereisack.com/"
+street: Hauptstraße
+housenumber: "36"
+phone: +49 7225 2267
+opening_hours: Mo,Tu,Th,Fr 08:30-18:00; We 08:00-18:00; Sa 08:00-13:00
+website: https://www.metzgereisack.com/

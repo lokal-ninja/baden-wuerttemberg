@@ -1,11 +1,11 @@
 id: 48876274
-type: way
+type: node
 latitude: 48.68444
 longitude: 9.01196
 postcode: "71032"
 city: Böblingen
-street: "Pfarrgasse"
-housenumber: 20
+street: Pfarrgasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
 website: ""

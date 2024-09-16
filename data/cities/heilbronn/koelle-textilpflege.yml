@@ -4,8 +4,8 @@ latitude: 49.15181
 longitude: 9.21086
 postcode: "74076"
 city: Heilbronn
-street: "Gottlieb-Daimler-Straße"
-housenumber: 9
+street: Gottlieb-Daimler-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.textilpflege-koelle.de"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.textilpflege-koelle.de

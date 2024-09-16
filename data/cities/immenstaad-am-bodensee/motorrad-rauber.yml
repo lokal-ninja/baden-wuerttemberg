@@ -4,8 +4,8 @@ latitude: 47.66509
 longitude: 9.36446
 postcode: "88090"
 city: Immenstaad am Bodensee
-street: "Hauptstraße"
-housenumber: 4
-phone: "+49 1705151316"
-opening_hours: "Mo-Th 17:00-19:00; Fr 13:00-16:00; Sa 09:00-12:00; We,Su,PH off"
-website: "http://www.motorrad-rauber.de"
+street: Hauptstraße
+housenumber: "4"
+phone: +49 1705151316
+opening_hours: Mo-Th 17:00-19:00; Fr 13:00-16:00; Sa 09:00-12:00; We,Su,PH off
+website: http://www.motorrad-rauber.de

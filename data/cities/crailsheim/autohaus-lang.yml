@@ -1,11 +1,11 @@
 id: 220532769
-type: way
+type: node
 latitude: 49.1316
 longitude: 10.05897
 postcode: "74564"
 city: Crailsheim
-street: "Gaildorfer Straße"
-housenumber: 50
+street: Gaildorfer Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 117092263
-type: way
+type: node
 latitude: 47.73977
 longitude: 9.15018
 postcode: "78465"
 city: Konstanz
-street: "Vordere Weidstaud"
-housenumber: 14
-phone: "+49 7533 98217"
-opening_hours: "We 15:00-18:00; Th,Fr 08:30-12:30,15:00-18:00; Sa 08:00-13:00"
-website: "https://www.fischhandlung-mueller.de/"
+street: Vordere Weidstaud
+housenumber: "14"
+phone: +49 7533 98217
+opening_hours: We 15:00-18:00; Th,Fr 08:30-12:30,15:00-18:00; Sa 08:00-13:00
+website: https://www.fischhandlung-mueller.de/

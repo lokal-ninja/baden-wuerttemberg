@@ -1,11 +1,11 @@
 id: 67522838
-type: way
+type: node
 latitude: 48.90133
 longitude: 9.41747
 postcode: "71397"
 city: Leutenbach
-street: "Maybachstraße"
-housenumber: 5
-phone: "+49 7195-5880071"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/marktseite/leutenbach/861991/rewe-markt-maybachstrasse-5/"
+street: Maybachstraße
+housenumber: "5"
+phone: +49 7195-5880071
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/marktseite/leutenbach/861991/rewe-markt-maybachstrasse-5/

@@ -1,11 +1,11 @@
 id: 382234542
-type: way
+type: node
 latitude: 48.21646
 longitude: 9.87727
 postcode: "88471"
 city: Laupheim
-street: "Berblingerstraße"
-housenumber: 25
+street: Berblingerstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

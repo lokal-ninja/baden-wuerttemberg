@@ -1,11 +1,11 @@
 id: 300894433
-type: way
+type: node
 latitude: 49.58378
 longitude: 9.36779
 postcode: "74731"
 city: Walldürn
-street: "Hauptstraße"
-housenumber: 19
-phone: "+49 6282 95509"
-opening_hours: "Mo-Fr  09:00-12:30,14:00-18:30; Sa 09:00-13:00"
-website: "http://www.mein-buecherladen.de/"
+street: Hauptstraße
+housenumber: "19"
+phone: +49 6282 95509
+opening_hours: Mo-Fr  09:00-12:30,14:00-18:30; Sa 09:00-13:00
+website: http://www.mein-buecherladen.de/

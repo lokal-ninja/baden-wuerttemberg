@@ -1,11 +1,11 @@
 id: 55131656
-type: way
+type: node
 latitude: 48.82
 longitude: 9.10067
 postcode: "70499"
 city: Stuttgart
-street: "Flachter Straße"
-housenumber: 30
-phone: "+49 711 8205220"
+street: Flachter Straße
+housenumber: "30"
+phone: +49 711 8205220
 opening_hours: ""
-website: "https://www.moemax.de/"
+website: https://www.moemax.de/

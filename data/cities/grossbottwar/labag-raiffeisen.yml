@@ -1,11 +1,11 @@
 id: 108627671
-type: way
+type: node
 latitude: 48.99964
 longitude: 9.29701
 postcode: "71723"
 city: Großbottwar
-street: "Bahnhofstraße"
-housenumber: 20
+street: Bahnhofstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:00,13:00-17:00; We,Sa 08:00-12:00"
-website: "http://www.labag.de/raiffeisen-grossbottwar/"
+opening_hours: Mo,Tu,Th,Fr 08:00-12:00,13:00-17:00; We,Sa 08:00-12:00
+website: http://www.labag.de/raiffeisen-grossbottwar/

@@ -1,11 +1,11 @@
 id: 94482503
-type: way
+type: node
 latitude: 48.73781
 longitude: 9.31975
 postcode: "73728"
 city: Esslingen am Neckar
-street: "Reutlinger Straße"
-housenumber: 55
+street: Reutlinger Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 06:30-16:00; Sa 06:30-12:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 06:30-16:00; Sa 06:30-12:00; Su 08:00-11:00
 website: ""

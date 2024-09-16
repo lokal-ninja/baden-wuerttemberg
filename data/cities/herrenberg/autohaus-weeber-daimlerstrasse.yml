@@ -1,11 +1,11 @@
 id: 29493562
-type: way
+type: node
 latitude: 48.60303
 longitude: 8.87115
 postcode: "71083"
 city: Herrenberg
-street: "Daimlerstraße"
-housenumber: 32
+street: Daimlerstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-weeber.de/"
+website: https://www.autohaus-weeber.de/

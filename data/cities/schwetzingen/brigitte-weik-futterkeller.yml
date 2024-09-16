@@ -1,11 +1,11 @@
 id: 177268105
-type: way
+type: node
 latitude: 49.39242
 longitude: 8.56349
 postcode: "68723"
 city: Schwetzingen
-street: "Moscheeweg"
-housenumber: 3
-phone: "+49 6202 5849814"
+street: Moscheeweg
+housenumber: "3"
+phone: +49 6202 5849814
 opening_hours: ""
-website: "http://www.artgerecht-fuettern.de"
+website: http://www.artgerecht-fuettern.de

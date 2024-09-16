@@ -4,8 +4,8 @@ latitude: 48.89243
 longitude: 9.1864
 postcode: "71638"
 city: Ludwigsburg
-street: "Bahnhofstraße"
-housenumber: 17
-phone: "+49 7141 696 38 39"
-opening_hours: "Mo-Fr 09:00-20:00"
-website: "https://haar-trifft-medizin.de/"
+street: Bahnhofstraße
+housenumber: "17"
+phone: +49 7141 696 38 39
+opening_hours: Mo-Fr 09:00-20:00
+website: https://haar-trifft-medizin.de/

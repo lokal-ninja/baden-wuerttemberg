@@ -1,11 +1,11 @@
 id: 151624328
-type: way
+type: node
 latitude: 47.8473
 longitude: 8.76081
 postcode: "78234"
 city: Engen
-street: "Anselfinger Straße"
-housenumber: 32
+street: Anselfinger Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.80964
 longitude: 9.17654
 postcode: "70469"
 city: Stuttgart
-street: "Alarichstraße"
-housenumber: 6
+street: Alarichstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://tegut.com"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://tegut.com

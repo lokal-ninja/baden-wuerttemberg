@@ -4,8 +4,8 @@ latitude: 48.89482
 longitude: 8.60415
 postcode: "75210"
 city: Keltern
-street: "Bahnhofstraße"
-housenumber: 2
-phone: "+49 7236 1214"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; We 09:00-13:00; Sa 09:00-12:00"
+street: Bahnhofstraße
+housenumber: "2"
+phone: +49 7236 1214
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; We 09:00-13:00; Sa 09:00-12:00
 website: ""

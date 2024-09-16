@@ -4,8 +4,8 @@ latitude: 48.53094
 longitude: 9.07972
 postcode: "72074"
 city: Tübingen
-street: "Dorfackerstraße"
-housenumber: 19
-phone: "+49 7071 981130"
-opening_hours: "Mo-Fr 07:00-12:30, 14:15-18:15; Sa 07:00-12:30; Su, PH off"
-website: "https://www.skribo-walter.de"
+street: Dorfackerstraße
+housenumber: "19"
+phone: +49 7071 981130
+opening_hours: Mo-Fr 07:00-12:30, 14:15-18:15; Sa 07:00-12:30; Su, PH off
+website: https://www.skribo-walter.de

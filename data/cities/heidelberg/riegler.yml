@@ -4,8 +4,8 @@ latitude: 49.41014
 longitude: 8.69353
 postcode: "69115"
 city: Heidelberg
-street: "Sofienstraße"
-housenumber: 9
+street: Sofienstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 05:00-20:00; Sa 06:00-20:00"
-website: "https://baeckerei-riegler.de/fachgeschaefte/standorte/sofienstr/"
+opening_hours: Mo-Fr 05:00-20:00; Sa 06:00-20:00
+website: https://baeckerei-riegler.de/fachgeschaefte/standorte/sofienstr/

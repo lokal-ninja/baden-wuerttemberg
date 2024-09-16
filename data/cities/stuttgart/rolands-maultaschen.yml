@@ -4,8 +4,8 @@ latitude: 48.73118
 longitude: 9.10686
 postcode: "70563"
 city: Stuttgart
-street: "Seerosenstraße"
-housenumber: 15
-phone: "+49 711 22728441"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-14:00"
-website: "https://www.rolandsmaultaschen.de/"
+street: Seerosenstraße
+housenumber: "15"
+phone: +49 711 22728441
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-14:00
+website: https://www.rolandsmaultaschen.de/

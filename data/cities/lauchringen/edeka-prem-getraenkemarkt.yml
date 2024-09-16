@@ -1,11 +1,11 @@
 id: 265281025
-type: way
+type: node
 latitude: 47.63109
 longitude: 8.30023
 postcode: "79787"
 city: Lauchringen
-street: "Hauptstraße"
-housenumber: 70
-phone: "+49 7741 68040"
-opening_hours: "Mo-Fr 08:00-20:30; Sa 07:30-20:30"
-website: "http://mein.edeka.de/eh/de/suedwest/1269/index.jsp"
+street: Hauptstraße
+housenumber: "70"
+phone: +49 7741 68040
+opening_hours: Mo-Fr 08:00-20:30; Sa 07:30-20:30
+website: http://mein.edeka.de/eh/de/suedwest/1269/index.jsp

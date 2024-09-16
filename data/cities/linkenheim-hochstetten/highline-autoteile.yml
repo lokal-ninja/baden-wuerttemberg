@@ -1,11 +1,11 @@
 id: 551740247
-type: way
+type: node
 latitude: 49.13734
 longitude: 8.42623
 postcode: "76351"
 city: Linkenheim-Hochstetten
-street: "Römeräcker"
-housenumber: 4
+street: Römeräcker
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

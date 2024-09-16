@@ -4,8 +4,8 @@ latitude: 48.78127
 longitude: 9.25275
 postcode: "70327"
 city: Stuttgart
-street: "Nebelhornstraße"
-housenumber: 26
-phone: "+49 711 3654963"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:30; Su off"
+street: Nebelhornstraße
+housenumber: "26"
+phone: +49 711 3654963
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:30; Su off
 website: ""

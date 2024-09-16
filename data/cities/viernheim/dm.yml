@@ -1,11 +1,11 @@
 id: 1264057974
-type: way
+type: node
 latitude: 49.52608
 longitude: 8.56143
 postcode: "68519"
 city: Viernheim
-street: "Robert-Schuman-Straße"
-housenumber: 8
-phone: "+49 6204 912174"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.dm.de/store/d01c/viernheim/robert-schumann-strasse-1"
+street: Robert-Schuman-Straße
+housenumber: "8"
+phone: +49 6204 912174
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.dm.de/store/d01c/viernheim/robert-schumann-strasse-1

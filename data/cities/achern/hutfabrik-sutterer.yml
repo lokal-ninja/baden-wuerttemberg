@@ -1,11 +1,11 @@
 id: 215483566
-type: way
+type: node
 latitude: 48.62297
 longitude: 8.07775
 postcode: "77855"
 city: Achern
-street: "Allerheiligenstraße"
-housenumber: 51
+street: Allerheiligenstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mittagspause 12- 14 Uhr, Samstag 9:30- 13 Uhr"
-website: "http://www.hutfabrik-sutterer.de"
+opening_hours: '"Mittagspause 12- 14 Uhr, Samstag 9:30- 13 Uhr"'
+website: http://www.hutfabrik-sutterer.de

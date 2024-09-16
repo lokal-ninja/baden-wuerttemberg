@@ -1,11 +1,11 @@
 id: 78505318
-type: way
+type: node
 latitude: 47.98829
 longitude: 7.86959
 postcode: "79117"
 city: Freiburg im Breisgau
-street: "Schwarzwaldstraße"
-housenumber: 78
+street: Schwarzwaldstraße
+housenumber: "78"
 phone: ""
 opening_hours: ""
-website: "https://www.zentrum-oberwiehre.de/"
+website: https://www.zentrum-oberwiehre.de/

@@ -4,8 +4,9 @@ latitude: 48.74931
 longitude: 8.86985
 postcode: "71263"
 city: Weil der Stadt
-street: "Herrenberger Straße"
-housenumber: 4
+street: Herrenberger Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo 09:00-13:00,15:00-18:00; Tu,Th,Fr 09:00-18:00; We 09:00-13:00; Sa 09:00-14:00"
+opening_hours: Mo 09:00-13:00,15:00-18:00; Tu,Th,Fr 09:00-18:00; We 09:00-13:00; Sa
+    09:00-14:00
 website: ""

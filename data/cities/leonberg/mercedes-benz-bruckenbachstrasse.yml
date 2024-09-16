@@ -1,11 +1,11 @@
 id: 684414141
-type: way
+type: node
 latitude: 48.78431
 longitude: 9.00549
 postcode: "71229"
 city: Leonberg
-street: "Bruckenbachstraße"
-housenumber: 42
+street: Bruckenbachstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

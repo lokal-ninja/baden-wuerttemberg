@@ -1,11 +1,11 @@
 id: 37830012
-type: way
+type: node
 latitude: 48.00363
 longitude: 7.99323
 postcode: "79252"
 city: Stegen
-street: "Obertal"
-housenumber: 11
+street: Obertal
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

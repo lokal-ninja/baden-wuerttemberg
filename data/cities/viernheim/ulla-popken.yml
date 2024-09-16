@@ -1,11 +1,11 @@
 id: 1264057978
-type: way
+type: node
 latitude: 49.5256
 longitude: 8.56219
 postcode: "68519"
 city: Viernheim
-street: "Robert-Schuman-Straße"
-housenumber: 8
-phone: "+49 6204 608326"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.ullapopken.de/de/filialfinder#!/l/viernheim/robert-schuman-strasse-8/1790546/"
+street: Robert-Schuman-Straße
+housenumber: "8"
+phone: +49 6204 608326
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.ullapopken.de/de/filialfinder#!/l/viernheim/robert-schuman-strasse-8/1790546/

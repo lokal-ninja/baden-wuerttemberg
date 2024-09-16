@@ -1,11 +1,11 @@
 id: 496986407
-type: way
+type: node
 latitude: 49.05356
 longitude: 9.89055
 postcode: "74423"
 city: Obersontheim
-street: "Stockäcker"
-housenumber: 10
+street: Stockäcker
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

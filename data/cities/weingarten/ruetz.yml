@@ -4,8 +4,8 @@ latitude: 47.80752
 longitude: 9.64207
 postcode: "88250"
 city: Weingarten
-street: "Broner Platz"
-housenumber: 15
-phone: "+49 751 41322"
-opening_hours: "Mo-Fr 09:00-12:45, Mo,Tu,Th,Fr 14:00-18:00, Sa 09:00-13:30"
+street: Broner Platz
+housenumber: "15"
+phone: +49 751 41322
+opening_hours: Mo-Fr 09:00-12:45, Mo,Tu,Th,Fr 14:00-18:00, Sa 09:00-13:30
 website: ""

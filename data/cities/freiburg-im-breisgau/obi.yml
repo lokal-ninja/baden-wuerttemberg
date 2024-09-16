@@ -1,11 +1,11 @@
 id: 88687426
-type: way
+type: node
 latitude: 48.025
 longitude: 7.84683
 postcode: "79108"
 city: Freiburg im Breisgau
-street: "Tullastraße"
-housenumber: 62
+street: Tullastraße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

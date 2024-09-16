@@ -1,11 +1,11 @@
 id: 391511929
-type: way
+type: node
 latitude: 48.4453
 longitude: 7.96765
 postcode: "77799"
 city: Ortenberg
-street: "Am Marktplatz"
-housenumber: 5
+street: Am Marktplatz
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

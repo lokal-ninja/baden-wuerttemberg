@@ -4,8 +4,8 @@ latitude: 48.39503
 longitude: 9.95488
 postcode: ""
 city: Ulm
-street: "Kapellengasse"
-housenumber: 10
+street: Kapellengasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-12:00,14:00-17:00; Sa 10:00-12:00"
+opening_hours: Mo,Tu,Th,Fr 10:00-12:00,14:00-17:00; Sa 10:00-12:00
 website: ""

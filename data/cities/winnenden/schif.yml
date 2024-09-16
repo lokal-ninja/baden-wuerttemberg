@@ -1,11 +1,11 @@
 id: 390289581
-type: way
+type: node
 latitude: 48.87906
 longitude: 9.39629
 postcode: "71364"
 city: Winnenden
-street: "Friedrichstraße"
-housenumber: 19
+street: Friedrichstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

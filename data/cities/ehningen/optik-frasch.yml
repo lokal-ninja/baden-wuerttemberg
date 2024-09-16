@@ -4,8 +4,8 @@ latitude: 48.65907
 longitude: 8.94083
 postcode: "71139"
 city: Ehningen
-street: "Marktplatz"
-housenumber: 4
-phone: "+49 7034 62553"
-opening_hours: "Tu-Fr 08:30-12:30,14:30-18:30; Sa 08:30-12:30; Mo,PH off"
-website: "http://www.optikfrasch.de/"
+street: Marktplatz
+housenumber: "4"
+phone: +49 7034 62553
+opening_hours: Tu-Fr 08:30-12:30,14:30-18:30; Sa 08:30-12:30; Mo,PH off
+website: http://www.optikfrasch.de/

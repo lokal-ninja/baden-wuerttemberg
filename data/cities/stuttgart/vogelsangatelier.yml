@@ -4,8 +4,8 @@ latitude: 48.77365
 longitude: 9.15486
 postcode: "70197"
 city: Stuttgart
-street: "Vogelsangstraße"
-housenumber: 28
-phone: "+49 711 6332241"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://vogelsangatelier.com/"
+street: Vogelsangstraße
+housenumber: "28"
+phone: +49 711 6332241
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://vogelsangatelier.com/

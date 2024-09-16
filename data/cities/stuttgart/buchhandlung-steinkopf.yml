@@ -4,8 +4,8 @@ latitude: 48.77092
 longitude: 9.16613
 postcode: "70178"
 city: Stuttgart
-street: "Hermannstraße"
-housenumber: 5
+street: Hermannstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.steinkopf-buchhandlung.de/"
+website: http://www.steinkopf-buchhandlung.de/

@@ -4,8 +4,8 @@ latitude: 48.70738
 longitude: 9.30791
 postcode: "73770"
 city: Denkendorf
-street: "Justus-Liebig-Straße"
-housenumber: 3
-phone: "+49 711 34554340"
-opening_hours: "Mo-We 10:00-19:00; Tu off; Th-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.namtip-thaimassage.de/"
+street: Justus-Liebig-Straße
+housenumber: "3"
+phone: +49 711 34554340
+opening_hours: Mo-We 10:00-19:00; Tu off; Th-Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.namtip-thaimassage.de/

@@ -1,11 +1,11 @@
 id: 255672534
-type: way
+type: node
 latitude: 48.40673
 longitude: 9.04881
 postcode: "72116"
 city: Mössingen
-street: "Bahnhofstraße"
-housenumber: 48
-phone: "+49 7473 94180"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:30-12:00"
-website: "http://www.autohaus-karl-mueller.de"
+street: Bahnhofstraße
+housenumber: "48"
+phone: +49 7473 94180
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:30-12:00
+website: http://www.autohaus-karl-mueller.de

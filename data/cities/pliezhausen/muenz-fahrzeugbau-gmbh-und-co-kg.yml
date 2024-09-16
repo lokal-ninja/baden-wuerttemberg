@@ -1,11 +1,11 @@
 id: 122141150
-type: way
+type: node
 latitude: 48.56566
 longitude: 9.19985
 postcode: "72124"
 city: Pliezhausen
-street: "Robert-Bosch-Straße"
-housenumber: 14
-phone: "+49 7127 97990"
-opening_hours: "Mo-Fr 08:00-12:30,13:30-18:00; Sa 09:00-12:00; Su,PH off"
-website: "https://muenz-anhaenger.de"
+street: Robert-Bosch-Straße
+housenumber: "14"
+phone: +49 7127 97990
+opening_hours: Mo-Fr 08:00-12:30,13:30-18:00; Sa 09:00-12:00; Su,PH off
+website: https://muenz-anhaenger.de

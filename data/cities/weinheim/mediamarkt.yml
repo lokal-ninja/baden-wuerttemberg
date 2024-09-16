@@ -4,8 +4,8 @@ latitude: 49.54284
 longitude: 8.66073
 postcode: "69469"
 city: Weinheim
-street: "Bergstraße"
-housenumber: 7.1
+street: Bergstraße
+housenumber: "7.1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mediamarkt.de/de/store/weinheim-1776"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mediamarkt.de/de/store/weinheim-1776

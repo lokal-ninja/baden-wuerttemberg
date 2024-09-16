@@ -1,11 +1,11 @@
 id: 361555263
-type: way
+type: node
 latitude: 49.22234
 longitude: 9.58851
 postcode: "74632"
 city: Neuenstein
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

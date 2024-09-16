@@ -1,11 +1,11 @@
 id: 299710106
-type: way
+type: node
 latitude: 49.57592
 longitude: 9.35575
 postcode: "74731"
 city: Walldürn
-street: "Dr.-August-Stumpf-Straße"
-housenumber: 3
+street: Dr.-August-Stumpf-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30, Mo,Tu,Th,Fr 14:00-17:00"
-website: "https://www.waescherei-paar.de/"
+opening_hours: Mo-Fr 08:30-12:30, Mo,Tu,Th,Fr 14:00-17:00
+website: https://www.waescherei-paar.de/

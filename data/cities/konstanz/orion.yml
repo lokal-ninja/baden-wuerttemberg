@@ -4,8 +4,8 @@ latitude: 47.65875
 longitude: 9.17617
 postcode: "78462"
 city: Konstanz
-street: "Bahnhofstraße"
-housenumber: 3
-phone: "+49 7531 9182740"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Bahnhofstraße
+housenumber: "3"
+phone: +49 7531 9182740
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 188212807
-type: way
+type: node
 latitude: 48.81333
 longitude: 9.52256
 postcode: "73614"
 city: Schorndorf
-street: "Erlenwiesen"
-housenumber: 3
-phone: "+49 7181 4809566"
-opening_hours: "Mo-Tu,Th-Sa 08:00-18:00"
+street: Erlenwiesen
+housenumber: "3"
+phone: +49 7181 4809566
+opening_hours: Mo-Tu,Th-Sa 08:00-18:00
 website: ""

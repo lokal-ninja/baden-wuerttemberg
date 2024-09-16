@@ -4,8 +4,8 @@ latitude: 47.75706
 longitude: 9.58073
 postcode: "88213"
 city: Ravensburg
-street: "Albersfelder Straße"
-housenumber: 24
-phone: "+49 751 769690"
-opening_hours: "Mo-Fr 07:00-12:00, 13:00-17:00"
-website: "https://www.brielmaier-baumaschinen.de/"
+street: Albersfelder Straße
+housenumber: "24"
+phone: +49 751 769690
+opening_hours: Mo-Fr 07:00-12:00, 13:00-17:00
+website: https://www.brielmaier-baumaschinen.de/

@@ -4,8 +4,8 @@ latitude: 49.48627
 longitude: 8.47037
 postcode: "68161"
 city: Mannheim
-street: "P5"
-housenumber: 14
-phone: "+49 621 23668"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.schuh-frank.de/schuhhaus-dielmann-mannheim"
+street: P5
+housenumber: "14"
+phone: +49 621 23668
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.schuh-frank.de/schuhhaus-dielmann-mannheim

@@ -4,8 +4,8 @@ latitude: 48.24223
 longitude: 7.8762
 postcode: "77955"
 city: Ettenheim
-street: "Münstertalstraße"
-housenumber: 30
+street: Münstertalstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Th 17:00-20:00; Sa 09:00-13:00"
-website: "https://www.kaminstube-stoehr.de/"
+opening_hours: Th 17:00-20:00; Sa 09:00-13:00
+website: https://www.kaminstube-stoehr.de/

@@ -1,11 +1,11 @@
 id: 349849202
-type: way
+type: node
 latitude: 49.34159
 longitude: 9.10462
 postcode: "74821"
 city: Mosbach
-street: "Martin-Luther-Straße"
-housenumber: 4
-phone: "+49 6261 7240"
+street: Martin-Luther-Straße
+housenumber: "4"
+phone: +49 6261 7240
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1258692918
-type: way
+type: node
 latitude: 48.56473
 longitude: 7.86707
 postcode: "77694"
 city: Kehl
-street: "Landstraße"
-housenumber: 4
-phone: "+33 7 69 34 21 88"
+street: Landstraße
+housenumber: "4"
+phone: +33 7 69 34 21 88
 opening_hours: ""
-website: "https://rjhome.fr"
+website: https://rjhome.fr

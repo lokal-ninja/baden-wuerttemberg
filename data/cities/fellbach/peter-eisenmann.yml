@@ -1,11 +1,11 @@
 id: 47926076
-type: way
+type: node
 latitude: 48.81346
 longitude: 9.27896
 postcode: "70734"
 city: Fellbach
-street: "Bruckstraße"
-housenumber: 19
+street: Bruckstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

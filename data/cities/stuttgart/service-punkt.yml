@@ -4,8 +4,8 @@ latitude: 48.7794
 longitude: 9.17827
 postcode: ""
 city: Stuttgart
-street: "Königstraße"
-housenumber: 26
+street: Königstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://servicepunkt.net"
+opening_hours: Mo-Sa 10:00-20:00
+website: http://servicepunkt.net

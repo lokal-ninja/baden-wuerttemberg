@@ -1,11 +1,11 @@
 id: 325941328
-type: way
+type: node
 latitude: 48.76988
 longitude: 9.17925
 postcode: "70180"
 city: Stuttgart
-street: "Bopserstraße"
-housenumber: 10
+street: Bopserstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-We 11:30-16:00; Th-Fr 11:30-16:00, 17:30-21:30"
-website: "https://www.super-jami.de/"
+opening_hours: Tu-We 11:30-16:00; Th-Fr 11:30-16:00, 17:30-21:30
+website: https://www.super-jami.de/

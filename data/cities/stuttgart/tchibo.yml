@@ -4,8 +4,8 @@ latitude: 48.77573
 longitude: 9.17693
 postcode: "70173"
 city: Stuttgart
-street: "Schulstraße"
-housenumber: 11
+street: Schulstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.tchibo.de/"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.tchibo.de/

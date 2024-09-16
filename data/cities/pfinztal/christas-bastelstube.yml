@@ -1,11 +1,11 @@
 id: 243492506
-type: way
+type: node
 latitude: 48.99701
 longitude: 8.57062
 postcode: "76327"
 city: Pfinztal
-street: "Wesostraße"
-housenumber: 3
+street: Wesostraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

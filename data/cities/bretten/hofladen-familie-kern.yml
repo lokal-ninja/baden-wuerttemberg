@@ -4,8 +4,9 @@ latitude: 49.04094
 longitude: 8.68102
 postcode: "75015"
 city: Bretten
-street: "Steinzeugstraße"
-housenumber: 9
+street: Steinzeugstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu,We 09:00-12:30; Th,Fr 09:00-12:30,15:00-18:00; Apr-Sep Th 09:00-12:30; Sa 08:30-12:30; Mo,Su,PH off"
-website: "https://www.spitalhof-kern.de/direktvermarktung/"
+opening_hours: Tu,We 09:00-12:30; Th,Fr 09:00-12:30,15:00-18:00; Apr-Sep Th 09:00-12:30;
+    Sa 08:30-12:30; Mo,Su,PH off
+website: https://www.spitalhof-kern.de/direktvermarktung/

@@ -1,11 +1,11 @@
 id: 225634731
-type: way
+type: node
 latitude: 48.63046
 longitude: 10.16293
 postcode: ""
 city: Herbrechtingen
-street: "Schlosserstraße"
-housenumber: 7
-phone: "+49 7324 9607-0"
+street: Schlosserstraße
+housenumber: "7"
+phone: +49 7324 9607-0
 opening_hours: ""
-website: "http://www.auto-point-bolheim.de"
+website: http://www.auto-point-bolheim.de

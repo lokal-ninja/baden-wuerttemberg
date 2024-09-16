@@ -1,11 +1,11 @@
 id: 440614863
-type: way
+type: node
 latitude: 48.70264
 longitude: 9.45128
 postcode: "73262"
 city: Reichenbach an der Fils
-street: "Heinrich-Otto-Straße"
-housenumber: 90
-phone: "+49 7153 51159"
+street: Heinrich-Otto-Straße
+housenumber: "90"
+phone: +49 7153 51159
 opening_hours: ""
-website: "http://www.autoverwertung-schmid.de"
+website: http://www.autoverwertung-schmid.de

@@ -1,11 +1,11 @@
 id: 255489738
-type: way
+type: node
 latitude: 48.77171
 longitude: 9.174
 postcode: "70178"
 city: Stuttgart
-street: "Sophienstraße"
-housenumber: 21
+street: Sophienstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00"
-website: "https://www.das-gerber.de/"
+opening_hours: Mo-Sa 07:30-22:00
+website: https://www.das-gerber.de/

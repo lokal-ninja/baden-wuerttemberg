@@ -4,8 +4,9 @@ latitude: 48.96233
 longitude: 9.42114
 postcode: "71522"
 city: Backnang
-street: "Johann-Philipp-Reis-Straße"
-housenumber: 5
-phone: "+49 7191 939390"
-opening_hours: "Mar-Oct Mo-Fr 07:00-18:00; Mar-Oct Sa 08:00-13:00; Nov-Feb Mo-Fr 07:00-17:00; Nov-Feb Sa 08:00-12:00; PH off; Dec 24 off; Dec 31 off"
-website: "https://www.hpmerkle.de/"
+street: Johann-Philipp-Reis-Straße
+housenumber: "5"
+phone: +49 7191 939390
+opening_hours: Mar-Oct Mo-Fr 07:00-18:00; Mar-Oct Sa 08:00-13:00; Nov-Feb Mo-Fr 07:00-17:00;
+    Nov-Feb Sa 08:00-12:00; PH off; Dec 24 off; Dec 31 off
+website: https://www.hpmerkle.de/

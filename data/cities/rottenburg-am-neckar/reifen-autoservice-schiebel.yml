@@ -1,11 +1,11 @@
 id: 223538160
-type: way
+type: node
 latitude: 48.4733
 longitude: 8.94523
 postcode: "72108"
 city: Rottenburg am Neckar
-street: "Gartenstraße"
-housenumber: 84
-phone: "+49 7472 281554"
+street: Gartenstraße
+housenumber: "84"
+phone: +49 7472 281554
 opening_hours: ""
-website: "https://reifenschiebel.de/"
+website: https://reifenschiebel.de/

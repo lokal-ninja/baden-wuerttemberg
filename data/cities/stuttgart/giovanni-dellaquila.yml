@@ -4,8 +4,8 @@ latitude: 48.76171
 longitude: 9.16205
 postcode: "70199"
 city: Stuttgart
-street: "Eierstraße"
-housenumber: 29
-phone: "+49 711 65208881"
-opening_hours: "Mo-Fr 09:00-18:30 open || und nach Vereinbarung || PH closed"
-website: "https://hair-giovanni.de/"
+street: Eierstraße
+housenumber: "29"
+phone: +49 711 65208881
+opening_hours: '"Mo-Fr 09:00-18:30 open" || "und nach Vereinbarung" || "PH closed"'
+website: https://hair-giovanni.de/

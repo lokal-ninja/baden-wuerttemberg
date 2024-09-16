@@ -1,11 +1,11 @@
 id: 96237141
-type: way
+type: node
 latitude: 49.19751
 longitude: 8.46102
 postcode: "76661"
 city: Philippsburg
-street: "Germersheimer Landstraße"
-housenumber: 2
-phone: "+49 7256 94 46 86"
+street: Germersheimer Landstraße
+housenumber: "2"
+phone: +49 7256 94 46 86
 opening_hours: ""
-website: "https://www.baaders-mode.de/"
+website: https://www.baaders-mode.de/

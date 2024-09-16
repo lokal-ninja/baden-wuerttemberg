@@ -4,8 +4,8 @@ latitude: 48.72546
 longitude: 9.19322
 postcode: "70599"
 city: Stuttgart
-street: "Im Asemwald"
-housenumber: 48
+street: Im Asemwald
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 07:00-14:00;Su 08:00-11:00"
-website: "https://www.baeckerhaus-veit.de/"
+opening_hours: Mo-Sa 07:00-14:00;Su 08:00-11:00
+website: https://www.baeckerhaus-veit.de/

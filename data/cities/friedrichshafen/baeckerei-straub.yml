@@ -1,11 +1,11 @@
 id: 235133425
-type: way
+type: node
 latitude: 47.69395
 longitude: 9.48845
 postcode: "88048"
 city: Friedrichshafen
-street: "Sambethstraße"
-housenumber: 22
+street: Sambethstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:00; Sa 06:30-12:00; PH,Su 07:00-11:00"
+opening_hours: Mo-Fr 06:30-17:00; Sa 06:30-12:00; PH,Su 07:00-11:00
 website: ""

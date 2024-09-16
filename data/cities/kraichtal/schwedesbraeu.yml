@@ -4,8 +4,8 @@ latitude: 49.14463
 longitude: 8.68902
 postcode: "76703"
 city: Kraichtal
-street: "Neuenwegstraße"
-housenumber: 69
-phone: "+49 151 43819593"
-opening_hours: "Sa 09-12:30"
-website: "http://schwedesbraeu.de"
+street: Neuenwegstraße
+housenumber: "69"
+phone: +49 151 43819593
+opening_hours: Sa 09-12:30
+website: http://schwedesbraeu.de

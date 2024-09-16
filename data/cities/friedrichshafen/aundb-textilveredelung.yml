@@ -4,8 +4,8 @@ latitude: 47.6628
 longitude: 9.48293
 postcode: "88045"
 city: Friedrichshafen
-street: "Meistershofener Straße"
-housenumber: 3
-phone: "+49 7541 9357180"
-opening_hours: "09:00-12:00,14:00-18:00; Sa 09:00-12:00; Su,PH off"
-website: "https://www.my-wear.de/"
+street: Meistershofener Straße
+housenumber: "3"
+phone: +49 7541 9357180
+opening_hours: 09:00-12:00,14:00-18:00; Sa 09:00-12:00; Su,PH off
+website: https://www.my-wear.de/

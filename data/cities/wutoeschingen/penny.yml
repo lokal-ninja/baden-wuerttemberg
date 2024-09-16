@@ -1,11 +1,11 @@
 id: 406193359
-type: way
+type: node
 latitude: 47.66577
 longitude: 8.37497
 postcode: "79793"
 city: Wutöschingen
-street: "Altmühlenstraße"
-housenumber: 20
+street: Altmühlenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

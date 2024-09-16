@@ -4,8 +4,8 @@ latitude: 48.71356
 longitude: 9.29685
 postcode: "73760"
 city: Ostfildern
-street: "Hindenburgstraße"
-housenumber: 19
-phone: "+49 711 3482000"
-opening_hours: "Mo,Tu,Th,Fr 10:00-12:30; We,Sa off"
-website: "https://raumausstattung-sschmidt.de/home"
+street: Hindenburgstraße
+housenumber: "19"
+phone: +49 711 3482000
+opening_hours: Mo,Tu,Th,Fr 10:00-12:30; We,Sa off
+website: https://raumausstattung-sschmidt.de/home

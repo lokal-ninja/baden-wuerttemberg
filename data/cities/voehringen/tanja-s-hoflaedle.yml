@@ -1,11 +1,11 @@
 id: 531593027
-type: way
+type: node
 latitude: 48.31758
 longitude: 8.63903
 postcode: "72189"
 city: Vöhringen
-street: "Im Winkel"
-housenumber: 9
+street: Im Winkel
+housenumber: "9"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.tanjas-hoflaedle.de/"
+opening_hours: 24/7
+website: https://www.tanjas-hoflaedle.de/

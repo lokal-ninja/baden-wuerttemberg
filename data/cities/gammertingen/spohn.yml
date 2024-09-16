@@ -1,11 +1,11 @@
 id: 328785552
-type: way
+type: node
 latitude: 48.25045
 longitude: 9.21567
 postcode: "72501"
 city: Gammertingen
-street: "Reutlinger Straße"
-housenumber: 2
+street: Reutlinger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

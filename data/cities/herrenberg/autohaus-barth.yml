@@ -1,11 +1,11 @@
 id: 30811564
-type: way
+type: node
 latitude: 48.60275
 longitude: 8.87281
 postcode: "71083"
 city: Herrenberg
-street: "Maybachstraße"
-housenumber: 4
+street: Maybachstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.honda-barth.de"
+website: http://www.honda-barth.de

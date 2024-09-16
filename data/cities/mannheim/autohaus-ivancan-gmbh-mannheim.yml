@@ -4,8 +4,8 @@ latitude: 49.45225
 longitude: 8.51404
 postcode: "68219"
 city: Mannheim
-street: "Helmertstraße"
-housenumber: 13
-phone: "+49 621 49079060"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-14:00"
+street: Helmertstraße
+housenumber: "13"
+phone: +49 621 49079060
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-14:00
 website: ""

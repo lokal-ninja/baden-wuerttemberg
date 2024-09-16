@@ -1,11 +1,11 @@
 id: 226998162
-type: way
+type: node
 latitude: 48.4847
 longitude: 7.92214
 postcode: "77656"
 city: Offenburg
-street: "Hanns-Martin-Schleyer-Straße"
-housenumber: 17
+street: Hanns-Martin-Schleyer-Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "http://www.wagner-trimex.com/"
+website: http://www.wagner-trimex.com/

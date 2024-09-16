@@ -1,11 +1,11 @@
 id: 29983251
-type: way
+type: node
 latitude: 47.81634
 longitude: 8.33358
 postcode: "79848"
 city: Bonndorf im Schwarzwald
-street: "Rothausstraße"
-housenumber: 8
+street: Rothausstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

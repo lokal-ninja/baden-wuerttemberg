@@ -1,11 +1,11 @@
 id: 378633515
-type: way
+type: node
 latitude: 49.60853
 longitude: 9.47281
 postcode: "74736"
 city: Hardheim
-street: "Lange Gasse"
-housenumber: 1
+street: Lange Gasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

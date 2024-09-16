@@ -4,8 +4,8 @@ latitude: 48.51771
 longitude: 9.05996
 postcode: "72072"
 city: Tübingen
-street: "Friedrichstraße"
-housenumber: 11
-phone: "+49 7071 33131"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://riedel-hair.de"
+street: Friedrichstraße
+housenumber: "11"
+phone: +49 7071 33131
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://riedel-hair.de

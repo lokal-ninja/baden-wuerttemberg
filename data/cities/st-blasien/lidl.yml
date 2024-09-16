@@ -1,11 +1,11 @@
 id: 218761535
-type: way
+type: node
 latitude: 47.7622
 longitude: 8.12567
 postcode: "79837"
 city: St. Blasien
-street: "Friedhofstraße"
-housenumber: 3
+street: Friedhofstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/st-blasien/friedhofstr-3.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/st-blasien/friedhofstr-3.html

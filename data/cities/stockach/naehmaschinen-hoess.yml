@@ -4,8 +4,8 @@ latitude: 47.8141
 longitude: 8.96449
 postcode: "78333"
 city: Stockach
-street: "Stahringer Straße"
-housenumber: 4
+street: Stahringer Straße
+housenumber: "4"
 phone: "+497771919868"
-opening_hours: "Mo-Sa 09:00-12:30, Mo-Fr 14:00-18:00"
-website: "https://naehmaschinen-hoess.de"
+opening_hours: Mo-Sa 09:00-12:30, Mo-Fr 14:00-18:00
+website: https://naehmaschinen-hoess.de

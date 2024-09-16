@@ -1,11 +1,11 @@
 id: 112943135
-type: way
+type: node
 latitude: 48.11872
 longitude: 7.84967
 postcode: "79312"
 city: Emmendingen
-street: "Freiburger Straße"
-housenumber: 4
+street: Freiburger Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

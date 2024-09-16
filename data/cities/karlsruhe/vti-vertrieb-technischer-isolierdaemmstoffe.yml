@@ -1,11 +1,11 @@
 id: 631389273
-type: way
+type: node
 latitude: 49.01837
 longitude: 8.46773
 postcode: "76139"
 city: Karlsruhe
-street: "Am Storrenacker"
-housenumber: 10
+street: Am Storrenacker
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 219028968
-type: way
+type: node
 latitude: 48.79354
 longitude: 9.77433
 postcode: "73529"
 city: Schwäbisch Gmünd
-street: "Lorcher Straße"
-housenumber: 128
+street: Lorcher Straße
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

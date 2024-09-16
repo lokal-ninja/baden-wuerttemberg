@@ -1,11 +1,11 @@
 id: 180145851
-type: way
+type: node
 latitude: 49.44463
 longitude: 9.28301
 postcode: "74743"
 city: Seckach
-street: "Hauptstraße"
-housenumber: 34
+street: Hauptstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

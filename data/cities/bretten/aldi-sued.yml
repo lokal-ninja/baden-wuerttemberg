@@ -1,11 +1,11 @@
 id: 51939054
-type: way
+type: node
 latitude: 49.03674
 longitude: 8.69916
 postcode: "75015"
 city: Bretten
-street: "Wilhelmstraße"
-housenumber: 43
+street: Wilhelmstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

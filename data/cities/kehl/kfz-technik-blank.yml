@@ -1,11 +1,11 @@
 id: 45570554
-type: way
+type: node
 latitude: 48.56387
 longitude: 7.87272
 postcode: "77694"
 city: Kehl
-street: "Oberdorfstraße"
-housenumber: 22
+street: Oberdorfstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.kfz-technik-blank.de/"
+website: https://www.kfz-technik-blank.de/

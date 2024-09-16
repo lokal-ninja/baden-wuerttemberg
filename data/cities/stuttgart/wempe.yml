@@ -4,8 +4,8 @@ latitude: 48.77601
 longitude: 9.17796
 postcode: "70173"
 city: Stuttgart
-street: "Kirchstraße"
-housenumber: 3
+street: Kirchstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.wempe.com/"
+website: https://www.wempe.com/

@@ -1,11 +1,11 @@
 id: 173345882
-type: way
+type: node
 latitude: 47.57574
 longitude: 8.0959
 postcode: "79725"
 city: Laufenburg (Baden)
-street: "Johann-Kaspar-Albrecht-Straße"
-housenumber: 16
+street: Johann-Kaspar-Albrecht-Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

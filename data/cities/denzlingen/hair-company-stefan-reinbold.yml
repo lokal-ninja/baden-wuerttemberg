@@ -4,8 +4,8 @@ latitude: 48.06809
 longitude: 7.8874
 postcode: "79211"
 city: Denzlingen
-street: "Rosenstraße"
-housenumber: 24
+street: Rosenstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Tu-Fr 8:00-18:30; Sa 8:00-13:00"
-website: "https://www.haircompany.de"
+opening_hours: Tu-Fr 8:00-18:30; Sa 8:00-13:00
+website: https://www.haircompany.de

@@ -1,11 +1,11 @@
 id: 499016897
-type: way
+type: node
 latitude: 49.52735
 longitude: 9.74744
 postcode: "97922"
 city: Lauda-Königshofen
-street: "Bürgermeister-Kolb-Straße"
-housenumber: 5
+street: Bürgermeister-Kolb-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Th,Fr 06:30-12:30,14:00-18:00;Tu off;We,Sa 06:30-12:30"
-website: "https://unterbalbach.de/gewerbe/baeckerei/"
+opening_hours: Mo,Th,Fr 06:30-12:30,14:00-18:00;Tu off;We,Sa 06:30-12:30
+website: https://unterbalbach.de/gewerbe/baeckerei/

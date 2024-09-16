@@ -4,8 +4,8 @@ latitude: 48.76365
 longitude: 8.33364
 postcode: "76593"
 city: Gernsbach
-street: "Hauptstraße"
-housenumber: 29
-phone: "+49 7224 651535"
-opening_hours: "Tu,Th,Fr 09:00-19:00;We 08:00-16:00;Sa 08:00-13:00"
-website: "https://www.unisesso.de"
+street: Hauptstraße
+housenumber: "29"
+phone: +49 7224 651535
+opening_hours: Tu,Th,Fr 09:00-19:00;We 08:00-16:00;Sa 08:00-13:00
+website: https://www.unisesso.de

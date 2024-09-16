@@ -1,11 +1,11 @@
 id: 30926815
-type: way
+type: node
 latitude: 48.68647
 longitude: 8.99249
 postcode: "71034"
 city: Böblingen
-street: "Otto-Lilienthal-Straße"
+street: Otto-Lilienthal-Straße
 housenumber: 6/1
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-14:00"
-website: "https://rebmann-sanitaer.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-14:00
+website: https://rebmann-sanitaer.de/

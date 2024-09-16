@@ -1,11 +1,11 @@
 id: 45399931
-type: way
+type: node
 latitude: 48.86497
 longitude: 9.25172
 postcode: "71686"
 city: Remseck am Neckar
-street: "Kornwestheimer Straße"
-housenumber: 24
+street: Kornwestheimer Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 104848826
-type: way
+type: node
 latitude: 47.61001
 longitude: 8.29467
 postcode: "79790"
 city: Küssaberg
-street: "Kirchstraße"
-housenumber: 9
+street: Kirchstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

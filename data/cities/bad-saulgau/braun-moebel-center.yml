@@ -1,11 +1,11 @@
 id: 251710274
-type: way
+type: node
 latitude: 48.00503
 longitude: 9.50841
 postcode: "88348"
 city: Bad Saulgau
-street: "Schwarzenbacher Straße"
-housenumber: 9
+street: Schwarzenbacher Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
 website: ""

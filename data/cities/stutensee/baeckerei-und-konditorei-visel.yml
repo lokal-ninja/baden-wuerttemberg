@@ -4,8 +4,9 @@ latitude: 49.07988
 longitude: 8.45945
 postcode: "76297"
 city: Stutensee
-street: "Friedrich-List-Straße"
-housenumber: 2
+street: Friedrich-List-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-17:00; Apr-Sep Su 07:30-18:00; Oct-Mar Su 07:30-17:00"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-17:00; Apr-Sep Su 07:30-18:00; Oct-Mar
+    Su 07:30-17:00
 website: ""

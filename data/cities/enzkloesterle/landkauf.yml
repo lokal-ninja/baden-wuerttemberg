@@ -1,11 +1,11 @@
 id: 102723855
-type: way
+type: node
 latitude: 48.66671
 longitude: 8.47231
 postcode: "75337"
 city: Enzklösterle
-street: "Friedenstraße"
-housenumber: 4
+street: Friedenstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 7:30-12:30; Mo-Tu 15:00-18:00; Th-Fr 15:00-18:00; Sa 7:30-13:00"
+opening_hours: Mo-Fr 7:30-12:30; Mo-Tu 15:00-18:00; Th-Fr 15:00-18:00; Sa 7:30-13:00
 website: ""

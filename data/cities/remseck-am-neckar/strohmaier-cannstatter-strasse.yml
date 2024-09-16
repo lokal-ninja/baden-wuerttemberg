@@ -1,11 +1,11 @@
 id: 45356806
-type: way
+type: node
 latitude: 48.86384
 longitude: 9.25252
 postcode: "71686"
 city: Remseck am Neckar
-street: "Cannstatter Straße"
-housenumber: 12
-phone: "+49 7146 91339"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:30; Su 07:30-10:30"
-website: "https://www.der-baecker-strohmaier.de/"
+street: Cannstatter Straße
+housenumber: "12"
+phone: +49 7146 91339
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-12:30; Su 07:30-10:30
+website: https://www.der-baecker-strohmaier.de/

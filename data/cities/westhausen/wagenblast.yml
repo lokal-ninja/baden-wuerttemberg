@@ -1,11 +1,11 @@
 id: 266839431
-type: way
+type: node
 latitude: 48.88278
 longitude: 10.17882
 postcode: "73463"
 city: Westhausen
-street: "Dr.-Rudolf-Schieber-Straße"
-housenumber: 5
+street: Dr.-Rudolf-Schieber-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

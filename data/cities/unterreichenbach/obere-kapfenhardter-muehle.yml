@@ -1,11 +1,11 @@
 id: 117125976
-type: way
+type: node
 latitude: 48.80568
 longitude: 8.68843
 postcode: "75399"
 city: Unterreichenbach
-street: "Zu den Mühlen"
-housenumber: 6
-phone: "+49 7235 221"
-opening_hours: "Mo-Fr 07:00-13:00,14:00-18:30; Sa 07:00-13:00"
-website: "https://www.kapfenhardt.de/"
+street: Zu den Mühlen
+housenumber: "6"
+phone: +49 7235 221
+opening_hours: Mo-Fr 07:00-13:00,14:00-18:30; Sa 07:00-13:00
+website: https://www.kapfenhardt.de/

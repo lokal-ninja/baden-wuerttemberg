@@ -1,11 +1,11 @@
 id: 230500081
-type: way
+type: node
 latitude: 47.92554
 longitude: 9.53783
 postcode: ""
 city: Altshausen
-street: "Zeppelinstraße"
-housenumber: 22
+street: Zeppelinstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

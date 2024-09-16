@@ -1,11 +1,11 @@
 id: 105672483
-type: way
+type: node
 latitude: 48.09986
 longitude: 9.78929
 postcode: ""
 city: Biberach an der Riß
-street: "Schwanenstraße"
-housenumber: 7
+street: Schwanenstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

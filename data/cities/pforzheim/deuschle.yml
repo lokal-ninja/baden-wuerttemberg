@@ -4,8 +4,8 @@ latitude: 48.8533
 longitude: 8.69823
 postcode: "75181"
 city: Pforzheim
-street: "Huchenfelder Hauptstraße"
-housenumber: 72
-phone: "+49 7231 978988"
-opening_hours: "Mo-Fr 07:30-20:00, Sa 07:30-18:00"
-website: "http://www.getraenke-deuschle.de"
+street: Huchenfelder Hauptstraße
+housenumber: "72"
+phone: +49 7231 978988
+opening_hours: Mo-Fr 07:30-20:00, Sa 07:30-18:00
+website: http://www.getraenke-deuschle.de

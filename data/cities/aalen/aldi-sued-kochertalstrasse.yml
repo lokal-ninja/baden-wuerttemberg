@@ -1,11 +1,11 @@
 id: 26978018
-type: way
+type: node
 latitude: 48.82787
 longitude: 10.1147
 postcode: "73431"
 city: Aalen
-street: "Kochertalstraße"
-housenumber: 49
+street: Kochertalstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/aalen/kochertalstrasse-49"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/aalen/kochertalstrasse-49

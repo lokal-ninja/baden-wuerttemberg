@@ -1,11 +1,11 @@
 id: 360771372
-type: way
+type: node
 latitude: 48.44079
 longitude: 7.92799
 postcode: "77656"
 city: Offenburg
-street: "Nikolaus-Fässler-Straße"
-housenumber: 2
+street: Nikolaus-Fässler-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

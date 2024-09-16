@@ -1,11 +1,11 @@
 id: 120736174
-type: way
+type: node
 latitude: 48.39824
 longitude: 9.988
 postcode: "89073"
 city: Ulm
-street: "Hirschstraße"
-housenumber: 19
-phone: "+49 731 96246-0"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-20:00"
-website: "https://www.mueller.de/"
+street: Hirschstraße
+housenumber: "19"
+phone: +49 731 96246-0
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-20:00
+website: https://www.mueller.de/

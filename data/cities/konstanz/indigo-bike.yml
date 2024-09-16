@@ -4,8 +4,8 @@ latitude: 47.6583
 longitude: 9.17066
 postcode: "78462"
 city: Konstanz
-street: "Kreuzlinger Straße"
-housenumber: 2
-phone: "+49 7531 2846664"
-opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-15:00"
-website: "https://indigo-konstanz.de/fahrrad/fahrradverleih/radverleih-konstanz/"
+street: Kreuzlinger Straße
+housenumber: "2"
+phone: +49 7531 2846664
+opening_hours: Tu-Fr 09:00-17:00; Sa 09:00-15:00
+website: https://indigo-konstanz.de/fahrrad/fahrradverleih/radverleih-konstanz/

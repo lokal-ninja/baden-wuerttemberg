@@ -4,8 +4,8 @@ latitude: 48.41844
 longitude: 9.05587
 postcode: "72116"
 city: Mössingen
-street: "Ludwigstraße"
-housenumber: 3
-phone: "+49 7473 953420"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 08:00-18:00"
-website: "https://www.baeck-stage.de/"
+street: Ludwigstraße
+housenumber: "3"
+phone: +49 7473 953420
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 08:00-18:00
+website: https://www.baeck-stage.de/

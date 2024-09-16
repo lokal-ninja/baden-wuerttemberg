@@ -4,8 +4,8 @@ latitude: 48.49191
 longitude: 9.21213
 postcode: "72764"
 city: Reutlingen
-street: "Wilhelmstraße"
-housenumber: 75
-phone: "+49 7121 3080"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.breuninger.com/"
+street: Wilhelmstraße
+housenumber: "75"
+phone: +49 7121 3080
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.breuninger.com/

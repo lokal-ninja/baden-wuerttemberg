@@ -1,11 +1,11 @@
 id: 272200666
-type: way
+type: node
 latitude: 47.80652
 longitude: 7.601
 postcode: "79379"
 city: Müllheim im Markgräflerland
-street: "Lörracher Straße"
-housenumber: 11
+street: Lörracher Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

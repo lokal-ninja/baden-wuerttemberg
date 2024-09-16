@@ -1,11 +1,11 @@
 id: 294456848
-type: way
+type: node
 latitude: 49.23006
 longitude: 9.16076
 postcode: "74206"
 city: Bad Wimpfen
-street: "Hauptstraße"
-housenumber: 70
+street: Hauptstraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 11:00-12:30, Mo-Fr 15:00-17:00"
+opening_hours: Mo-Sa 11:00-12:30, Mo-Fr 15:00-17:00
 website: ""

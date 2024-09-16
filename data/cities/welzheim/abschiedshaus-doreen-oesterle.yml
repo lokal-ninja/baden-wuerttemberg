@@ -1,11 +1,11 @@
 id: 376220977
-type: way
+type: node
 latitude: 48.87116
 longitude: 9.62123
 postcode: "73642"
 city: Welzheim
-street: "Friedrich-Bauer-Straße"
-housenumber: 38
-phone: "+49 7182 497249"
+street: Friedrich-Bauer-Straße
+housenumber: "38"
+phone: +49 7182 497249
 opening_hours: ""
-website: "https://www.abschiedshaus.info/"
+website: https://www.abschiedshaus.info/

@@ -1,11 +1,11 @@
 id: 121850265
-type: way
+type: node
 latitude: 48.87673
 longitude: 9.39809
 postcode: "71364"
 city: Winnenden
-street: "Marktstraße"
-housenumber: 31
-phone: "+49 7195 2285"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "http://www.fischerbeimtor.de/"
+street: Marktstraße
+housenumber: "31"
+phone: +49 7195 2285
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: http://www.fischerbeimtor.de/

@@ -1,11 +1,11 @@
 id: 118374277
-type: way
+type: node
 latitude: 48.12941
 longitude: 7.8155
 postcode: "79331"
 city: Teningen
-street: "Emmendinger Straße"
-housenumber: 14
+street: Emmendinger Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.de/"
+website: https://www.lidl.de/

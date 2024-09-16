@@ -4,8 +4,9 @@ latitude: 48.87797
 longitude: 10.39887
 postcode: "73467"
 city: Kirchheim am Ries
-street: "Langestraße"
-housenumber: 28
+street: Langestraße
+housenumber: "28"
 phone: ""
-opening_hours: "Tu,Th,Fr 07:30-13:00,15:00-18:00; We 07:30-13:00; Sa 07:00-12:30; Mo,Su,PH off"
+opening_hours: Tu,Th,Fr 07:30-13:00,15:00-18:00; We 07:30-13:00; Sa 07:00-12:30; Mo,Su,PH
+    off
 website: ""

@@ -1,11 +1,11 @@
 id: 28056327
-type: way
+type: node
 latitude: 48.77408
 longitude: 9.15662
 postcode: "70176"
 city: Stuttgart
-street: "Elisabethenstraße"
-housenumber: 26
+street: Elisabethenstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.westquartier-stuttgart.de/"
+website: https://www.westquartier-stuttgart.de/

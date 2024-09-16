@@ -4,8 +4,8 @@ latitude: 47.71112
 longitude: 9.26505
 postcode: "88718"
 city: Daisendorf
-street: "Brühl"
-housenumber: 5
-phone: "+49 7532 495242"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Brühl
+housenumber: "5"
+phone: +49 7532 495242
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

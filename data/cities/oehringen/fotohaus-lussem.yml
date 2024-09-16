@@ -4,8 +4,8 @@ latitude: 49.20188
 longitude: 9.50221
 postcode: "74613"
 city: Öhringen
-street: "Bahnhofstraße"
-housenumber: 18
+street: Bahnhofstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su, PH off"
-website: "http://www.fotohaus-lussem.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su, PH off
+website: http://www.fotohaus-lussem.de/

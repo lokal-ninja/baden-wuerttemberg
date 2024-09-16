@@ -1,11 +1,11 @@
 id: 326445530
-type: way
+type: node
 latitude: 49.04618
 longitude: 9.1906
 postcode: "74382"
 city: Neckarwestheim
-street: "Hauptstraße"
-housenumber: 28
+street: Hauptstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-13:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:30-13:00; Su 08:00-11:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.92563
 longitude: 9.02848
 postcode: "71739"
 city: Oberriexingen
-street: "Hauptstraße"
-housenumber: 27
-phone: "+49 7042 15320"
-opening_hours: "Mo,Su off; Tu-Fr 06:30-13:00,14:00-18:00; Sa 06:30-12:00"
-website: "https://www.baeckerei-laier.de/"
+street: Hauptstraße
+housenumber: "27"
+phone: +49 7042 15320
+opening_hours: Mo,Su off; Tu-Fr 06:30-13:00,14:00-18:00; Sa 06:30-12:00
+website: https://www.baeckerei-laier.de/

@@ -4,8 +4,8 @@ latitude: 48.22658
 longitude: 9.87816
 postcode: "88471"
 city: Laupheim
-street: "Biberacher Straße"
-housenumber: 11
-phone: "+49 7356 9354 13"
-opening_hours: "Mo-Sa 07:00-21:00; Su 8:00-11:00"
-website: "https://www.baeckerei-keck.de/index.php"
+street: Biberacher Straße
+housenumber: "11"
+phone: +49 7356 9354 13
+opening_hours: Mo-Sa 07:00-21:00; Su 8:00-11:00
+website: https://www.baeckerei-keck.de/index.php

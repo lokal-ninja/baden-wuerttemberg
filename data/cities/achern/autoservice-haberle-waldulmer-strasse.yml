@@ -1,11 +1,11 @@
 id: 340312341
-type: way
+type: node
 latitude: 48.59574
 longitude: 8.0688
 postcode: "77855"
 city: Achern
-street: "Waldulmer Straße"
-housenumber: 32
+street: Waldulmer Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

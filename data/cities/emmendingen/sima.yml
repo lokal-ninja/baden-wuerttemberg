@@ -1,11 +1,11 @@
 id: 227353575
-type: way
+type: node
 latitude: 48.12199
 longitude: 7.84649
 postcode: "79312"
 city: Emmendingen
-street: "Karl-Friedrich-Straße"
-housenumber: 15
+street: Karl-Friedrich-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00;Sa 10:00-14:00;PH off"
+opening_hours: Mo-Fr 11:00-18:00;Sa 10:00-14:00;PH off
 website: ""

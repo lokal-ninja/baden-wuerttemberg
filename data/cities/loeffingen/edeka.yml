@@ -1,11 +1,11 @@
 id: 41586517
-type: way
+type: node
 latitude: 47.88347
 longitude: 8.34143
 postcode: "79843"
 city: Löffingen
-street: "Güterstraße"
+street: Güterstraße
 housenumber: 1-3
-phone: "+49 7721 202660"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka-weissmann.de/"
+phone: +49 7721 202660
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka-weissmann.de/

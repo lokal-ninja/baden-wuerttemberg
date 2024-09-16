@@ -1,11 +1,11 @@
 id: 144918068
-type: way
+type: node
 latitude: 48.8002
 longitude: 9.97311
 postcode: "73540"
 city: Heubach
-street: "Rosensteinstraße"
-housenumber: 60
-phone: "+49 71734520"
-opening_hours: "Mo-Fr 06:30-12:30, 14:30-18:00; Sa 06:30-12:00; Su 13:30-16:00"
-website: "https://sympathischebackkunst.de/"
+street: Rosensteinstraße
+housenumber: "60"
+phone: +49 71734520
+opening_hours: Mo-Fr 06:30-12:30, 14:30-18:00; Sa 06:30-12:00; Su 13:30-16:00
+website: https://sympathischebackkunst.de/

@@ -1,11 +1,11 @@
 id: 839651042
-type: way
+type: node
 latitude: 48.84432
 longitude: 8.20131
 postcode: "76437"
 city: Rastatt
-street: "Badener Straße"
-housenumber: 18
-phone: "+49 7222 787960"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/südwest/edeka-fitterer-badener-straße-18/"
+street: Badener Straße
+housenumber: "18"
+phone: +49 7222 787960
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/südwest/edeka-fitterer-badener-straße-18/

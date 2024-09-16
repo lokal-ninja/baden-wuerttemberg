@@ -1,11 +1,11 @@
 id: 121278531
-type: way
+type: node
 latitude: 48.82229
 longitude: 9.3163
 postcode: "71332"
 city: Waiblingen
-street: "Alte Bundesstraße"
-housenumber: 43
+street: Alte Bundesstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

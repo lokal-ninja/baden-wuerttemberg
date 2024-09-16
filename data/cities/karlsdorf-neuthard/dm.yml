@@ -4,8 +4,8 @@ latitude: 49.14
 longitude: 8.55367
 postcode: "76689"
 city: Karlsdorf-Neuthard
-street: "Erich-Keßler-Straße"
-housenumber: 1
-phone: "+49 7251 3480536"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-2596/karlsdorf-neuthard/erich-kessler-strasse-1"
+street: Erich-Keßler-Straße
+housenumber: "1"
+phone: +49 7251 3480536
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/de-2596/karlsdorf-neuthard/erich-kessler-strasse-1

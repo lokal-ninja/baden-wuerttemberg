@@ -1,11 +1,11 @@
 id: 264587905
-type: way
+type: node
 latitude: 49.29497
 longitude: 8.50983
 postcode: "68804"
 city: Altlußheim
-street: "Benzstraße"
-housenumber: 8
+street: Benzstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

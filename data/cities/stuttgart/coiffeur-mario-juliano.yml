@@ -4,8 +4,8 @@ latitude: 48.77666
 longitude: 9.16273
 postcode: "70176"
 city: Stuttgart
-street: "Schloßstraße"
-housenumber: 80
-phone: "+49 711 616849"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
+street: Schloßstraße
+housenumber: "80"
+phone: +49 711 616849
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00
 website: ""

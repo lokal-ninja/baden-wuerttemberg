@@ -1,11 +1,11 @@
 id: 263595943
-type: way
+type: node
 latitude: 49.43052
 longitude: 9.42679
 postcode: "74706"
 city: Osterburken
-street: "Am Zehntkeller"
-housenumber: 1
-phone: "+49 6291 4161516"
-opening_hours: "Mo-Fr 11:00-20:00; Sa 10:00-14:00; Su 10:00-13:00"
-website: "https://www.sonnenstudio-osterburken.de/"
+street: Am Zehntkeller
+housenumber: "1"
+phone: +49 6291 4161516
+opening_hours: Mo-Fr 11:00-20:00; Sa 10:00-14:00; Su 10:00-13:00
+website: https://www.sonnenstudio-osterburken.de/

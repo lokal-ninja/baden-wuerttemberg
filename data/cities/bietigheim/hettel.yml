@@ -1,11 +1,11 @@
 id: 37595219
-type: way
+type: node
 latitude: 48.90935
 longitude: 8.25221
 postcode: "76467"
 city: Bietigheim
-street: "Veilchenstraße"
-housenumber: 13
-phone: "+49 7245 82913"
+street: Veilchenstraße
+housenumber: "13"
+phone: +49 7245 82913
 opening_hours: ""
 website: ""

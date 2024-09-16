@@ -1,11 +1,11 @@
 id: 24884422
-type: way
+type: node
 latitude: 48.92679
 longitude: 8.96656
 postcode: "71665"
 city: Vaihingen an der Enz
-street: "Hertzstraße"
-housenumber: 9
-phone: "+49 7042 374665"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.dm-drogeriemarkt.de"
+street: Hertzstraße
+housenumber: "9"
+phone: +49 7042 374665
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.dm-drogeriemarkt.de

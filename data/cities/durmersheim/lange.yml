@@ -1,11 +1,11 @@
 id: 113048260
-type: way
+type: node
 latitude: 48.94228
 longitude: 8.25236
 postcode: "76448"
 city: Durmersheim
-street: "Benzstraße"
-housenumber: 15
+street: Benzstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

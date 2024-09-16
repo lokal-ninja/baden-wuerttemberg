@@ -4,8 +4,8 @@ latitude: 48.9007
 longitude: 8.65928
 postcode: "75179"
 city: Pforzheim
-street: "Julius-Moser-Straße"
-housenumber: 1
+street: Julius-Moser-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:00; Sa 09:00-13:00 (telefonisch)"
+opening_hours: Mo-Fr 10:00-16:00; Sa 09:00-13:00 "(telefonisch)"
 website: ""

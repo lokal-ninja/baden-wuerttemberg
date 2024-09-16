@@ -1,11 +1,11 @@
 id: 134141630
-type: way
+type: node
 latitude: 49.10364
 longitude: 9.70995
 postcode: "74523"
 city: Schwäbisch Hall
-street: "Daimlerstraße"
-housenumber: 9
+street: Daimlerstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 48.97781
 longitude: 8.40379
 postcode: "76199"
 city: Karlsruhe
-street: "Rastatter Straße"
-housenumber: 18
-phone: "+49 721 890848"
-opening_hours: "Jul-Mar: Mo-Fr 08:30-18:00; Sa 08:30-14:00; Apr-Jun: Mo-Fr 08:30-18:30; Sa 08:30-16:00"
-website: "https://www.floralive-karlsruhe.de/"
+street: Rastatter Straße
+housenumber: "18"
+phone: +49 721 890848
+opening_hours: 'Jul-Mar: Mo-Fr 08:30-18:00; Sa 08:30-14:00; Apr-Jun: Mo-Fr 08:30-18:30;
+    Sa 08:30-16:00'
+website: https://www.floralive-karlsruhe.de/

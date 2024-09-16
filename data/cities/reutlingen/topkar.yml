@@ -4,8 +4,8 @@ latitude: 48.50612
 longitude: 9.20727
 postcode: "72760"
 city: Reutlingen
-street: "Carl-Diem-Straße"
-housenumber: 10
+street: Carl-Diem-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Su off; Mo-Fr 08:00-19:30; Sa 08:00-20:00"
-website: "http://www.topkar.de/index.php?id=36"
+opening_hours: Su off; Mo-Fr 08:00-19:30; Sa 08:00-20:00
+website: http://www.topkar.de/index.php?id=36

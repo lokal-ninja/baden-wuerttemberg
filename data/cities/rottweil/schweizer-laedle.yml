@@ -4,8 +4,8 @@ latitude: 48.1674
 longitude: 8.62431
 postcode: "78628"
 city: Rottweil
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Tu 10:00-16:00; We 09:00-16:00; Th-Fr 10:00-16:00; Sa 09:00-13:00"
+opening_hours: Mo-Tu 10:00-16:00; We 09:00-16:00; Th-Fr 10:00-16:00; Sa 09:00-13:00
 website: ""

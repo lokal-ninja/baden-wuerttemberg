@@ -4,8 +4,8 @@ latitude: 49.1433
 longitude: 9.22688
 postcode: "74072"
 city: Heilbronn
-street: "Gymnasiumstraße"
-housenumber: 76
-phone: "+49 71317843 0"
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://www.leix-hn.de/"
+street: Gymnasiumstraße
+housenumber: "76"
+phone: +49 71317843 0
+opening_hours: Mo-Fr 07:30-16:30
+website: https://www.leix-hn.de/

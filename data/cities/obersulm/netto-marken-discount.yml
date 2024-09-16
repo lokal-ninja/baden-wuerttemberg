@@ -4,8 +4,8 @@ latitude: 49.13328
 longitude: 9.3785
 postcode: "74182"
 city: Obersulm
-street: "Zwerchäcker"
-housenumber: 16
+street: Zwerchäcker
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

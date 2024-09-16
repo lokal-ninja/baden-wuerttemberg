@@ -4,8 +4,8 @@ latitude: 48.7391
 longitude: 9.31127
 postcode: "73728"
 city: Esslingen am Neckar
-street: "Kiesstraße"
-housenumber: 6
-phone: "+49 711 354835"
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00"
-website: "https://www.kontaktlinsen-esslingen.de/"
+street: Kiesstraße
+housenumber: "6"
+phone: +49 711 354835
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-18:00
+website: https://www.kontaktlinsen-esslingen.de/

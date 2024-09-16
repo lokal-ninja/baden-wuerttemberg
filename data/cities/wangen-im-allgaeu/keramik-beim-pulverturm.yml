@@ -4,8 +4,8 @@ latitude: 47.68734
 longitude: 9.83627
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Lange Gasse"
-housenumber: 3
-phone: "+49 7522 80511"
-opening_hours: "Tu,Sa 10:00-12:00; We-Fr 10:00-12:00,15:00-18:00; Sa-Mo closed"
-website: "https://www.toepferei-wangen.de/"
+street: Lange Gasse
+housenumber: "3"
+phone: +49 7522 80511
+opening_hours: Tu,Sa 10:00-12:00; We-Fr 10:00-12:00,15:00-18:00; Sa-Mo closed
+website: https://www.toepferei-wangen.de/

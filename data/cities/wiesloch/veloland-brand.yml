@@ -1,11 +1,11 @@
 id: 1059215818
-type: way
+type: node
 latitude: 49.28583
 longitude: 8.69301
 postcode: "69168"
 city: Wiesloch
-street: "Hauptstraße"
-housenumber: 176
-phone: "+49 6222 9483400"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.veloland-brand.de/"
+street: Hauptstraße
+housenumber: "176"
+phone: +49 6222 9483400
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.veloland-brand.de/

@@ -1,11 +1,11 @@
 id: 172663903
-type: way
+type: node
 latitude: 47.76117
 longitude: 9.54149
 postcode: "88213"
 city: Ravensburg
-street: "Oberzeller Straße"
-housenumber: 2
+street: Oberzeller Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

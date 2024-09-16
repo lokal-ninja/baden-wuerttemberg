@@ -4,8 +4,9 @@ latitude: 48.95349
 longitude: 9.43985
 postcode: "71522"
 city: Backnang
-street: "Potsdamer Ring"
-housenumber: 10
-phone: "+49 7191 9339883"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00; PH Mo-Fr off; easter off; easter +49 days off; Dec 25-26 off; Jan 01 off"
+street: Potsdamer Ring
+housenumber: "10"
+phone: +49 7191 9339883
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00; PH Mo-Fr off; easter
+    off; easter +49 days off; Dec 25-26 off; Jan 01 off
 website: ""

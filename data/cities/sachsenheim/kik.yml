@@ -1,11 +1,11 @@
 id: 251640410
-type: way
+type: node
 latitude: 48.9588
 longitude: 9.07966
 postcode: "74343"
 city: Sachsenheim
-street: "Max-Eyth-Straße"
-housenumber: 5
+street: Max-Eyth-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

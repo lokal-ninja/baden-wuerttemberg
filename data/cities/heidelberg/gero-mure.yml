@@ -4,8 +4,8 @@ latitude: 49.41031
 longitude: 8.69627
 postcode: "69117"
 city: Heidelberg
-street: "Hauptstraße"
-housenumber: 35
-phone: "+49 6221 165588"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://geromure.de/schuhsalon-gero-mure-heidelberg"
+street: Hauptstraße
+housenumber: "35"
+phone: +49 6221 165588
+opening_hours: Mo-Sa 10:00-19:00
+website: https://geromure.de/schuhsalon-gero-mure-heidelberg

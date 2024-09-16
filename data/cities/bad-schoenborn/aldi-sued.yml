@@ -1,11 +1,11 @@
 id: 184345396
-type: way
+type: node
 latitude: 49.20408
 longitude: 8.64021
 postcode: "76669"
 city: Bad Schönborn
-street: "Am Landgraben"
-housenumber: 8
+street: Am Landgraben
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 27757585
-type: way
+type: node
 latitude: 47.80679
 longitude: 9.64092
 postcode: "88250"
 city: Weingarten
-street: "Karlstraße"
-housenumber: 21
+street: Karlstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

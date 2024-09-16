@@ -1,11 +1,11 @@
 id: 188955994
-type: way
+type: node
 latitude: 48.67212
 longitude: 9.38118
 postcode: "73240"
 city: Wendlingen am Neckar
-street: "Ulmer Straße"
-housenumber: 7
+street: Ulmer Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

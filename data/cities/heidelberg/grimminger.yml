@@ -4,8 +4,8 @@ latitude: 49.4298
 longitude: 8.68134
 postcode: "69121"
 city: Heidelberg
-street: "Mühlingstraße"
-housenumber: 10
-phone: "+49 6221 6502384"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-16:30; Su 07:00-17:00"
+street: Mühlingstraße
+housenumber: "10"
+phone: +49 6221 6502384
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-16:30; Su 07:00-17:00
 website: ""

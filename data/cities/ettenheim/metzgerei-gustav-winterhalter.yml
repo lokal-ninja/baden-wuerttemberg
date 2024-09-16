@@ -4,8 +4,8 @@ latitude: 48.25811
 longitude: 7.81158
 postcode: "77955"
 city: Ettenheim
-street: "Rheinstraße"
-housenumber: 6
+street: Rheinstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-16:00"
-website: "https://metzgerei-winterhalter.de/"
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-16:00
+website: https://metzgerei-winterhalter.de/

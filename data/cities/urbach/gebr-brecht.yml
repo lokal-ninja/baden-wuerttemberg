@@ -1,11 +1,11 @@
 id: 499362767
-type: way
+type: node
 latitude: 48.80954
 longitude: 9.57064
 postcode: "73660"
 city: Urbach
-street: "Mühlwiesen"
-housenumber: 3
+street: Mühlwiesen
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30; PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:30; PH off
 website: ""

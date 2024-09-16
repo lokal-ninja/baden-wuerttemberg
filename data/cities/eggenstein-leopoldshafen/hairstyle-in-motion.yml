@@ -4,8 +4,8 @@ latitude: 49.07852
 longitude: 8.39103
 postcode: "76344"
 city: Eggenstein-Leopoldshafen
-street: "Bahnhofstraße"
-housenumber: 18
+street: Bahnhofstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

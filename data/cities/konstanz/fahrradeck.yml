@@ -4,8 +4,8 @@ latitude: 47.67758
 longitude: 9.17427
 postcode: "78467"
 city: Konstanz
-street: "Wollmatinger Straße"
-housenumber: 57
-phone: "+49 7531 3617937"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:30; Sa 09:30-15:00"
-website: "http://www.fahrradeck-konstanz.de"
+street: Wollmatinger Straße
+housenumber: "57"
+phone: +49 7531 3617937
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:30; Sa 09:30-15:00
+website: http://www.fahrradeck-konstanz.de

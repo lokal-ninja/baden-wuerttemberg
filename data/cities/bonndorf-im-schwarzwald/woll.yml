@@ -1,11 +1,11 @@
 id: 232386661
-type: way
+type: node
 latitude: 47.82057
 longitude: 8.33922
 postcode: "79848"
 city: Bonndorf im Schwarzwald
-street: "Martinstraße"
-housenumber: 26
+street: Martinstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

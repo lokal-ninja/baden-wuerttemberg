@@ -4,8 +4,8 @@ latitude: 48.49011
 longitude: 9.21716
 postcode: "72764"
 city: Reutlingen
-street: "Albstraße"
-housenumber: 1
+street: Albstraße
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.23906
 longitude: 9.10144
 postcode: "74906"
 city: Bad Rappenau
-street: "Kirchplatz"
-housenumber: 6
-phone: "+49 7264 805480"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "http://www.sport-freppan.de/"
+street: Kirchplatz
+housenumber: "6"
+phone: +49 7264 805480
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: http://www.sport-freppan.de/

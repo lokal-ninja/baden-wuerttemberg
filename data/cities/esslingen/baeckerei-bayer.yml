@@ -1,11 +1,11 @@
 id: 121495790
-type: way
+type: node
 latitude: 48.74489
 longitude: 9.27679
 postcode: "73733"
 city: Esslingen
-street: "Siemensstraße"
-housenumber: 21
+street: Siemensstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

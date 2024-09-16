@@ -4,8 +4,8 @@ latitude: 48.92182
 longitude: 9.1234
 postcode: "71732"
 city: Tamm
-street: "Hauptstraße"
-housenumber: 102
-phone: "+49 7141 601559"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-17:00"
-website: "https://www.baeckerei-katz.de/"
+street: Hauptstraße
+housenumber: "102"
+phone: +49 7141 601559
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-17:00
+website: https://www.baeckerei-katz.de/

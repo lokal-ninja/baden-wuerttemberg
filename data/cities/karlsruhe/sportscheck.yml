@@ -4,8 +4,8 @@ latitude: 49.00985
 longitude: 8.40116
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 92
+street: Kaiserstraße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.sportscheck.com/filialen/karlsruhe/"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.sportscheck.com/filialen/karlsruhe/

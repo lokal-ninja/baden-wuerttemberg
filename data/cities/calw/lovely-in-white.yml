@@ -1,11 +1,11 @@
 id: 106162328
-type: way
+type: node
 latitude: 48.71528
 longitude: 8.73909
 postcode: "75365"
 city: Calw
-street: "Lederstraße"
-housenumber: 17
-phone: "+49 172 7271105"
-opening_hours: "Tu,Th 11:00-19:00; Sa 10:00-14:00"
-website: "https://lovely-in-white.de"
+street: Lederstraße
+housenumber: "17"
+phone: +49 172 7271105
+opening_hours: Tu,Th 11:00-19:00; Sa 10:00-14:00
+website: https://lovely-in-white.de

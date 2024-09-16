@@ -1,11 +1,11 @@
 id: 511803016
-type: way
+type: node
 latitude: 49.06695
 longitude: 8.65851
 postcode: "75053"
 city: Gondelsheim
-street: "Josephine-Benz-Straße"
-housenumber: 4
+street: Josephine-Benz-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

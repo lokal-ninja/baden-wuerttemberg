@@ -1,11 +1,11 @@
 id: 280994545
-type: way
+type: node
 latitude: 47.90067
 longitude: 8.15231
 postcode: "79822"
 city: Titisee-Neustadt
-street: "Seestraße"
-housenumber: 19
+street: Seestraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Su 09:30-18:30"
+opening_hours: Mo-Su 09:30-18:30
 website: ""

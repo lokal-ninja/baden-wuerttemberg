@@ -4,8 +4,8 @@ latitude: 49.76014
 longitude: 9.51769
 postcode: "97877"
 city: Wertheim
-street: "Eichelgasse"
-housenumber: 17
+street: Eichelgasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:00; Sa 06:30-13:00; Su 08:00-11:00"
-website: "https://www.goepfert-backts.de/"
+opening_hours: Mo-Fr 06:30-17:00; Sa 06:30-13:00; Su 08:00-11:00
+website: https://www.goepfert-backts.de/

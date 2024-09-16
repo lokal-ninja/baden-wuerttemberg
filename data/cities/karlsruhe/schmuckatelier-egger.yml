@@ -4,8 +4,8 @@ latitude: 49.01029
 longitude: 8.37533
 postcode: "76135"
 city: Karlsruhe
-street: "Uhlandstraße"
-housenumber: 8
-phone: "+49 721 8303305"
-opening_hours: "Tu,Th,Fr 10:00-13:00,15:00-18:00; We,Sa 10:00-13:00; PH off"
-website: "https://schmuckatelier-egger.de/"
+street: Uhlandstraße
+housenumber: "8"
+phone: +49 721 8303305
+opening_hours: Tu,Th,Fr 10:00-13:00,15:00-18:00; We,Sa 10:00-13:00; PH off
+website: https://schmuckatelier-egger.de/

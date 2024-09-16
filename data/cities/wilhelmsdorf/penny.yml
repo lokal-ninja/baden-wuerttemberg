@@ -1,11 +1,11 @@
 id: 202646395
-type: way
+type: node
 latitude: 47.85928
 longitude: 9.42325
 postcode: "88271"
 city: Wilhelmsdorf
-street: "Welfenstraße"
-housenumber: 6
+street: Welfenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:30"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:30-21:30
+website: https://www.penny.de/

@@ -4,8 +4,8 @@ latitude: 48.55672
 longitude: 10.29044
 postcode: "89567"
 city: Sontheim an der Brenz
-street: "Schillerstraße"
-housenumber: 12
-phone: "+49 7325 9524401"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off"
+street: Schillerstraße
+housenumber: "12"
+phone: +49 7325 9524401
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off
 website: ""

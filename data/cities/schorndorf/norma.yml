@@ -1,11 +1,11 @@
 id: 162058763
-type: way
+type: node
 latitude: 48.80669
 longitude: 9.52179
 postcode: "73614"
 city: Schorndorf
-street: "Bismarckstraße"
-housenumber: 8
+street: Bismarckstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

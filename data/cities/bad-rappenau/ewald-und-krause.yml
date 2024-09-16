@@ -4,8 +4,8 @@ latitude: 49.24008
 longitude: 9.10066
 postcode: "74906"
 city: Bad Rappenau
-street: "Babstadter Straße"
-housenumber: 5
-phone: "+49 7264 8909777"
-opening_hours: "Tu,We,Fr 09:00-19:00;Th 09:00-20:00;Sa 08:00-15:00;Su,Mo off"
-website: "https://www.ewald-krause-friseure.de/"
+street: Babstadter Straße
+housenumber: "5"
+phone: +49 7264 8909777
+opening_hours: Tu,We,Fr 09:00-19:00;Th 09:00-20:00;Sa 08:00-15:00;Su,Mo off
+website: https://www.ewald-krause-friseure.de/

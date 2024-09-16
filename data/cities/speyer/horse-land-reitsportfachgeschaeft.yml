@@ -1,11 +1,11 @@
 id: 108956742
-type: way
+type: node
 latitude: 49.33335
 longitude: 8.44809
 postcode: "67346"
 city: Speyer
-street: "An der Hofweide"
-housenumber: 6
+street: An der Hofweide
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.horseland-shop.de/"
+website: https://www.horseland-shop.de/

@@ -1,11 +1,11 @@
 id: 257051204
-type: way
+type: node
 latitude: 48.80431
 longitude: 10.18971
 postcode: "73432"
 city: Aalen
-street: "Thurn-und-Taxis-Straße"
-housenumber: 41
+street: Thurn-und-Taxis-Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

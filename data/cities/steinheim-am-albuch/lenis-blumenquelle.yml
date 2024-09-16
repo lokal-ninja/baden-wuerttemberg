@@ -4,8 +4,8 @@ latitude: 48.6916
 longitude: 10.05946
 postcode: "89555"
 city: Steinheim am Albuch
-street: "Hauptstraße"
-housenumber: 77
+street: Hauptstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:30, Mo-Fr 14:00-18:00"
-website: "http://www.lenisblumenquelle.de/"
+opening_hours: Mo-Sa 08:00-12:30, Mo-Fr 14:00-18:00
+website: http://www.lenisblumenquelle.de/

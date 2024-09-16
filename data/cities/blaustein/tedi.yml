@@ -4,8 +4,8 @@ latitude: 48.4144
 longitude: 9.92107
 postcode: "89134"
 city: Blaustein
-street: "Hummelstraße"
-housenumber: 9
+street: Hummelstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su off"
-website: "https://www.tedi.com/"
+opening_hours: Mo-Sa 09:00-20:00; Su off
+website: https://www.tedi.com/

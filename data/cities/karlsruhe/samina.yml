@@ -4,8 +4,9 @@ latitude: 49.0042
 longitude: 8.384
 postcode: "76135"
 city: Karlsruhe
-street: "Gartenstraße"
-housenumber: 69
+street: Gartenstraße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00 || nach Vereinbarung;Sa nach Vereinbarung; Su,PH off"
+opening_hours: Mo-Fr 12:00-19:00 || "nach Vereinbarung";Sa "nach Vereinbarung"; Su,PH
+    off
 website: ""

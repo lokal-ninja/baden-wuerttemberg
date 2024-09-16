@@ -4,8 +4,8 @@ latitude: 48.80529
 longitude: 9.21659
 postcode: "70372"
 city: Stuttgart
-street: "Wilhelmstraße"
-housenumber: 21
+street: Wilhelmstraße
+housenumber: "21"
 phone: ""
-opening_hours: "We 09:00-13:00; Mo-Tu, Th-Fr 14:30-17:00; Sa 09:00-13:00"
-website: "http://www.eisenwaren-goeckelmann.de/"
+opening_hours: We 09:00-13:00; Mo-Tu, Th-Fr 14:30-17:00; Sa 09:00-13:00
+website: http://www.eisenwaren-goeckelmann.de/

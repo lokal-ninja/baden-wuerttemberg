@@ -1,11 +1,11 @@
 id: 143813678
-type: way
+type: node
 latitude: 48.26689
 longitude: 8.84632
 postcode: "72336"
 city: Balingen
-street: "Widerholdstraße"
-housenumber: 20
+street: Widerholdstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
 website: ""

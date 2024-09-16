@@ -4,8 +4,8 @@ latitude: 47.98058
 longitude: 7.89224
 postcode: "79117"
 city: Freiburg im Breisgau
-street: "Kunzenweg"
-housenumber: 26
-phone: "+49 761 67244"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.buchhandlung-vogel.de"
+street: Kunzenweg
+housenumber: "26"
+phone: +49 761 67244
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.buchhandlung-vogel.de

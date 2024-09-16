@@ -1,11 +1,11 @@
 id: 284772189
-type: way
+type: node
 latitude: 48.63517
 longitude: 8.05837
 postcode: "77855"
 city: Achern
-street: "Von-Drais-Straße"
-housenumber: 35
-phone: "+49 7841 66770"
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-16:00"
-website: "https://draisin.de/"
+street: Von-Drais-Straße
+housenumber: "35"
+phone: +49 7841 66770
+opening_hours: Mo-Fr 09:00-12:00, 13:00-16:00
+website: https://draisin.de/

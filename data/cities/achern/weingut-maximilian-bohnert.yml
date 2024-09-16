@@ -4,8 +4,8 @@ latitude: 48.61936
 longitude: 8.08418
 postcode: "77855"
 city: Achern
-street: "Benz-Meisel-Straße"
-housenumber: 5
-phone: "+49 7841 6816891"
-opening_hours: "Tu-Th 17:30-19:00; Fr 13:00-19:00; Sa 09:00-16:00"
-website: "https://www.weinvommax.de/"
+street: Benz-Meisel-Straße
+housenumber: "5"
+phone: +49 7841 6816891
+opening_hours: Tu-Th 17:30-19:00; Fr 13:00-19:00; Sa 09:00-16:00
+website: https://www.weinvommax.de/

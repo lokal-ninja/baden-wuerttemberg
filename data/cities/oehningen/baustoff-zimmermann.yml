@@ -1,11 +1,11 @@
 id: 230131660
-type: way
+type: node
 latitude: 47.66244
 longitude: 8.88405
 postcode: "78337"
 city: Öhningen
-street: "Im Grund"
-housenumber: 5
+street: Im Grund
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

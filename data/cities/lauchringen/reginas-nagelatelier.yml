@@ -1,11 +1,11 @@
 id: 157771648
-type: way
+type: node
 latitude: 47.62998
 longitude: 8.31771
 postcode: "79787"
 city: Lauchringen
-street: "Siemensstraße"
-housenumber: 16
-phone: "+49 7741 62028"
+street: Siemensstraße
+housenumber: "16"
+phone: +49 7741 62028
 opening_hours: ""
-website: "http://www.reginas-nagelatelier.de"
+website: http://www.reginas-nagelatelier.de

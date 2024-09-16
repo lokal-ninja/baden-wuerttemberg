@@ -4,8 +4,8 @@ latitude: 48.46632
 longitude: 8.41172
 postcode: "72250"
 city: Freudenstadt
-street: "Katharinenstraße"
-housenumber: 8
-phone: "+49 7441 918590"
-opening_hours: "Mo-Fr 08:30-20:00, Tu-Su 09:30-18:30; Sa 09:30-16:00"
-website: "https://www.intersport-glaser.de/"
+street: Katharinenstraße
+housenumber: "8"
+phone: +49 7441 918590
+opening_hours: Mo-Fr 08:30-20:00, Tu-Su 09:30-18:30; Sa 09:30-16:00
+website: https://www.intersport-glaser.de/

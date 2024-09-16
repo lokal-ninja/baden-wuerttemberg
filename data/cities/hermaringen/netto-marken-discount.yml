@@ -1,11 +1,11 @@
 id: 87496255
-type: way
+type: node
 latitude: 48.6013
 longitude: 10.2521
 postcode: "89568"
 city: Hermaringen
-street: "Friedrichstraße"
-housenumber: 54
+street: Friedrichstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

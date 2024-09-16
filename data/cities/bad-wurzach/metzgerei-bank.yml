@@ -1,11 +1,11 @@
 id: 199165317
-type: way
+type: node
 latitude: 47.90303
 longitude: 9.89292
 postcode: "88410"
 city: Bad Wurzach
-street: "Ziegelwiesenweg"
-housenumber: 4
+street: Ziegelwiesenweg
+housenumber: "4"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

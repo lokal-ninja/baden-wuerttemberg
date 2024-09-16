@@ -1,11 +1,11 @@
 id: 45727616
-type: way
+type: node
 latitude: 48.68603
 longitude: 9.01035
 postcode: "71032"
 city: Böblingen
-street: "Stadtgrabenstraße"
-housenumber: 11
+street: Stadtgrabenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

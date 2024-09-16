@@ -1,11 +1,11 @@
 id: 85944303
-type: way
+type: node
 latitude: 48.51863
 longitude: 8.82965
 postcode: "71149"
 city: Bondorf
-street: "Leimengrubenweg"
-housenumber: 6
+street: Leimengrubenweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

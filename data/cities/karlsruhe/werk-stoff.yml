@@ -4,8 +4,9 @@ latitude: 48.99873
 longitude: 8.47054
 postcode: "76227"
 city: Karlsruhe
-street: "Am Zwinger"
-housenumber: 8
-phone: "+49 721 49910634"
-opening_hours: "Mo,Tu 09:30-13:00,15:00-18:00; Th,Fr 09:30-13:00,15:00-18:00; Sa 10:00-14:00; We off"
-website: "http://werkstoff.makerista.de/"
+street: Am Zwinger
+housenumber: "8"
+phone: +49 721 49910634
+opening_hours: Mo,Tu 09:30-13:00,15:00-18:00; Th,Fr 09:30-13:00,15:00-18:00; Sa 10:00-14:00;
+    We off
+website: http://werkstoff.makerista.de/

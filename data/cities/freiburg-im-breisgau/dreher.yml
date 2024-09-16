@@ -4,8 +4,8 @@ latitude: 48.02441
 longitude: 7.84746
 postcode: "79108"
 city: Freiburg im Breisgau
-street: "Tullastraße"
-housenumber: 62
-phone: "+49 761 5574620"
-opening_hours: "Mo-Sa 08:00-18:00; Su,PH off"
-website: "https://www.stadtbaeckerei-dreher.de/standorte/obi-fr-nord"
+street: Tullastraße
+housenumber: "62"
+phone: +49 761 5574620
+opening_hours: Mo-Sa 08:00-18:00; Su,PH off
+website: https://www.stadtbaeckerei-dreher.de/standorte/obi-fr-nord

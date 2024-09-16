@@ -1,11 +1,11 @@
 id: 45683700
-type: way
+type: node
 latitude: 48.57863
 longitude: 7.81827
 postcode: "77694"
 city: Kehl
-street: "Allensteiner Straße"
-housenumber: 21
+street: Allensteiner Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/kehl/allensteiner-strasse-21"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/kehl/allensteiner-strasse-21

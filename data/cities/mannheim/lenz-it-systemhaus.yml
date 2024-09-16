@@ -5,7 +5,7 @@ longitude: 8.46839
 postcode: "68161"
 city: Mannheim
 street: ""
-housenumber: 19
-phone: "+49 621 9785555"
+housenumber: "19"
+phone: +49 621 9785555
 opening_hours: ""
-website: "https://www.lenz-systemhaus.de"
+website: https://www.lenz-systemhaus.de

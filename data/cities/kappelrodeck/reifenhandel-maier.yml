@@ -4,8 +4,8 @@ latitude: 48.59436
 longitude: 8.11629
 postcode: "77876"
 city: Kappelrodeck
-street: "Herrenmatte"
-housenumber: 4
+street: Herrenmatte
+housenumber: "4"
 phone: ""
-opening_hours: "nach Absprache"
+opening_hours: '"nach Absprache"'
 website: ""

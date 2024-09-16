@@ -1,11 +1,11 @@
 id: 93451092
-type: way
+type: node
 latitude: 48.51119
 longitude: 8.10893
 postcode: "77794"
 city: Lautenbach
-street: "Sendelbachstraße"
-housenumber: 12
-phone: "+49 7802 803597"
+street: Sendelbachstraße
+housenumber: "12"
+phone: +49 7802 803597
 opening_hours: ""
-website: "https://www.fatbike-verleih.com/"
+website: https://www.fatbike-verleih.com/

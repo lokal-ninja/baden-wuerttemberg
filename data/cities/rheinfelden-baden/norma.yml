@@ -1,11 +1,11 @@
 id: 28482436
-type: way
+type: node
 latitude: 47.56753
 longitude: 7.79865
 postcode: "79618"
 city: Rheinfelden (Baden)
-street: "Friedrichstraße"
-housenumber: 99
+street: Friedrichstraße
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

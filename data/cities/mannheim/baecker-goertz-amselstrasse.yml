@@ -4,8 +4,8 @@ latitude: 49.54789
 longitude: 8.45568
 postcode: "68307"
 city: Mannheim
-street: "Amselstraße"
-housenumber: 10
-phone: "+49 621 79900296"
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"
+street: Amselstraße
+housenumber: "10"
+phone: +49 621 79900296
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.baeckergoertz.de/#filialenstart/filialfinder

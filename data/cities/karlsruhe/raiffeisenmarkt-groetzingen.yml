@@ -4,8 +4,8 @@ latitude: 49.00781
 longitude: 8.49646
 postcode: "76229"
 city: Karlsruhe
-street: "Schultheiß-Kiefer-Straße"
-housenumber: 8
+street: Schultheiß-Kiefer-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30; PH closed"
-website: "https://www.raiffeisen-groetzingen.de"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:30; PH closed
+website: https://www.raiffeisen-groetzingen.de

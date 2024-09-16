@@ -1,11 +1,11 @@
 id: 81023404
-type: way
+type: node
 latitude: 48.79179
 longitude: 9.18527
 postcode: "70191"
 city: Stuttgart
-street: "Wolframstraße"
-housenumber: 20
+street: Wolframstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
-website: "https://www.wuerth.de/web/de/awkg/niederlassungen/nldetail_40961.php"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
+website: https://www.wuerth.de/web/de/awkg/niederlassungen/nldetail_40961.php

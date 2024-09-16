@@ -4,8 +4,8 @@ latitude: 49.0866
 longitude: 8.78447
 postcode: "75038"
 city: Oberderdingen
-street: "Franz-von-Sickingen-Straße"
-housenumber: 33
+street: Franz-von-Sickingen-Straße
+housenumber: "33"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.bauernhof-leis.de/"
+opening_hours: 24/7
+website: https://www.bauernhof-leis.de/

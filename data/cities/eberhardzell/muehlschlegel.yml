@@ -1,11 +1,11 @@
 id: 182216456
-type: way
+type: node
 latitude: 47.98956
 longitude: 9.77459
 postcode: "88436"
 city: Eberhardzell
-street: "Sandelholzstraße"
-housenumber: 8
+street: Sandelholzstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.12989
 longitude: 9.21416
 postcode: "74074"
 city: Heilbronn
-street: "Sontheimer Straße"
-housenumber: 50
+street: Sontheimer Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:00; Sa 07:30-12:00"
-website: "https://www.reifen-hoheneder.de/"
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:00; Sa 07:30-12:00
+website: https://www.reifen-hoheneder.de/

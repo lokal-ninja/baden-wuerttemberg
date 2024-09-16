@@ -4,8 +4,8 @@ latitude: 48.46827
 longitude: 8.40956
 postcode: "72250"
 city: Freudenstadt
-street: "Karl-von-Hahn-Straße"
-housenumber: 5
-phone: "+49 7441 905126"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su 7:30-17:00"
+street: Karl-von-Hahn-Straße
+housenumber: "5"
+phone: +49 7441 905126
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su 7:30-17:00
 website: ""

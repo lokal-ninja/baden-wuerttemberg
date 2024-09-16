@@ -1,11 +1,11 @@
 id: 95810366
-type: way
+type: node
 latitude: 49.02227
 longitude: 8.4636
 postcode: "76139"
 city: Karlsruhe
-street: "Printzstraße"
+street: Printzstraße
 housenumber: 6a
-phone: "+49 721 6270966"
+phone: +49 721 6270966
 opening_hours: ""
 website: ""

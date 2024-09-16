@@ -1,11 +1,11 @@
 id: 500073351
-type: way
+type: node
 latitude: 49.56762
 longitude: 9.69862
 postcode: "97922"
 city: Lauda-Königshofen
-street: "Oberes Flürlein"
-housenumber: 2
+street: Oberes Flürlein
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 36956965
-type: way
+type: node
 latitude: 48.45732
 longitude: 8.70038
 postcode: "72160"
 city: Horb am Neckar
-street: "Hahnerstraße"
-housenumber: 12
+street: Hahnerstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 253074178
-type: way
+type: node
 latitude: 48.28269
 longitude: 9.7169
 postcode: "89584"
 city: Ehingen (Donau)
-street: "Pfisterstraße"
-housenumber: 69
+street: Pfisterstraße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

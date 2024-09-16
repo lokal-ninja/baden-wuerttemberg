@@ -1,11 +1,11 @@
 id: 621478425
-type: way
+type: node
 latitude: 49.13424
 longitude: 9.32617
 postcode: "74251"
 city: Lehrensteinsfeld
-street: "Ellhofener Straße"
-housenumber: 54
+street: Ellhofener Straße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.norma-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.norma-online.de/

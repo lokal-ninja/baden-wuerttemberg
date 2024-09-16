@@ -1,11 +1,11 @@
 id: 122886146
-type: way
+type: node
 latitude: 48.88237
 longitude: 9.39359
 postcode: "71397"
 city: Leutenbach
-street: "Ziegeleistraße"
-housenumber: 9
-phone: "+49 7195 91330"
+street: Ziegeleistraße
+housenumber: "9"
+phone: +49 7195 91330
 opening_hours: ""
-website: "https://stroppel-reifendienst.com/"
+website: https://stroppel-reifendienst.com/

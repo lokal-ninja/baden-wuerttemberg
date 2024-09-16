@@ -1,11 +1,11 @@
 id: 229855361
-type: way
+type: node
 latitude: 48.95646
 longitude: 8.92292
 postcode: "75428"
 city: Illingen
-street: "Luigstraße"
-housenumber: 5
+street: Luigstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

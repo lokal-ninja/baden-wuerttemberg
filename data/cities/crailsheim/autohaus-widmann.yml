@@ -1,11 +1,11 @@
 id: 211842656
-type: way
+type: node
 latitude: 49.13393
 longitude: 10.03616
 postcode: "74564"
 city: Crailsheim
-street: "Ludwig-Erhard-Straße"
-housenumber: 125
+street: Ludwig-Erhard-Straße
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-14:00, Su 11:00-16:00"
+opening_hours: Mo-Fr 07:00-20:00, Sa 07:00-14:00, Su 11:00-16:00
 website: ""

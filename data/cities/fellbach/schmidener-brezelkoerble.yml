@@ -1,11 +1,11 @@
 id: 49003016
-type: way
+type: node
 latitude: 48.83061
 longitude: 9.26452
 postcode: "70736"
 city: Fellbach
-street: "Fellbacher Straße"
-housenumber: 43
-phone: "+49 711512175"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-12:00; Su 07:00-12:00"
-website: "https://www.deroberebeck.de/kontakt-oeffnungszeiten"
+street: Fellbacher Straße
+housenumber: "43"
+phone: +49 711512175
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-12:00; Su 07:00-12:00
+website: https://www.deroberebeck.de/kontakt-oeffnungszeiten

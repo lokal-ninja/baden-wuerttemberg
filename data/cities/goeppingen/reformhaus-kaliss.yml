@@ -4,8 +4,8 @@ latitude: 48.70271
 longitude: 9.6551
 postcode: "73033"
 city: Göppingen
-street: "Poststraße"
-housenumber: 46
+street: Poststraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-14:00"
-website: "https://www.reformhaus-kaliss.de"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-14:00
+website: https://www.reformhaus-kaliss.de

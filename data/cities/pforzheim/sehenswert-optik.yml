@@ -4,8 +4,8 @@ latitude: 48.85495
 longitude: 8.66238
 postcode: "75180"
 city: Pforzheim
-street: "Pforzheimer Straße"
-housenumber: 18
-phone: "+49 7231 7766792"
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00; We,Sa 09:00-13:00"
-website: "https://www.sehenistwertvoll.de/"
+street: Pforzheimer Straße
+housenumber: "18"
+phone: +49 7231 7766792
+opening_hours: Mo-Fr 09:00-13:00, 15:00-18:00; We,Sa 09:00-13:00
+website: https://www.sehenistwertvoll.de/

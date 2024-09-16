@@ -1,11 +1,11 @@
 id: 318427316
-type: way
+type: node
 latitude: 49.136
 longitude: 9.37707
 postcode: "74182"
 city: Obersulm
-street: "Willsbacher Straße"
-housenumber: 4
+street: Willsbacher Straße
+housenumber: "4"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

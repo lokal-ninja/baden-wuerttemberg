@@ -4,8 +4,8 @@ latitude: 49.01096
 longitude: 8.39302
 postcode: "76133"
 city: Karlsruhe
-street: "Akademiestraße"
-housenumber: 46
-phone: "+49 721 9131415"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-16:00; Su,PH off"
-website: "https://triton-tauchsport.de"
+street: Akademiestraße
+housenumber: "46"
+phone: +49 721 9131415
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-16:00; Su,PH off
+website: https://triton-tauchsport.de

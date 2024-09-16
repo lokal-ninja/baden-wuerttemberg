@@ -4,8 +4,8 @@ latitude: 48.77398
 longitude: 8.38678
 postcode: "76597"
 city: Loffenau
-street: "Obere Dorfstraße"
-housenumber: 4
+street: Obere Dorfstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 06:00-12:30, 14:30-18:30; We 06:00-12:30; Sa 06:00-12:00"
-website: "https://www.sonne-loffenau.de/Metzgerei/Unsere-Metzgerei"
+opening_hours: Mo,Tu,Th,Fr 06:00-12:30, 14:30-18:30; We 06:00-12:30; Sa 06:00-12:00
+website: https://www.sonne-loffenau.de/Metzgerei/Unsere-Metzgerei

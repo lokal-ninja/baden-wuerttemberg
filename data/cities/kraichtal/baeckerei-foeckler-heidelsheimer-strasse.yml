@@ -1,11 +1,11 @@
 id: 409535082
-type: way
+type: node
 latitude: 49.14181
 longitude: 8.66603
 postcode: "76703"
 city: Kraichtal
-street: "Heidelsheimer Straße"
-housenumber: 7
-phone: "+49 7251 3662400"
-opening_hours: "Mo-Sa 06:00-11:00"
-website: "https://baeckerei-foeckler.de/"
+street: Heidelsheimer Straße
+housenumber: "7"
+phone: +49 7251 3662400
+opening_hours: Mo-Sa 06:00-11:00
+website: https://baeckerei-foeckler.de/

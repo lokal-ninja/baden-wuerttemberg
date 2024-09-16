@@ -4,8 +4,8 @@ latitude: 49.19251
 longitude: 9.22381
 postcode: "74172"
 city: Neckarsulm
-street: "Engelgasse"
-housenumber: 7
-phone: "+49 7132 6102"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://reinigungsland.de/"
+street: Engelgasse
+housenumber: "7"
+phone: +49 7132 6102
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://reinigungsland.de/

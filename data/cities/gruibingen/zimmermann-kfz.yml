@@ -1,11 +1,11 @@
 id: 255024266
-type: way
+type: node
 latitude: 48.6027
 longitude: 9.63774
 postcode: ""
 city: Gruibingen
-street: "Riederweg"
-housenumber: 2
-phone: "+49 7335 1619965"
+street: Riederweg
+housenumber: "2"
+phone: +49 7335 1619965
 opening_hours: ""
-website: "https://zimmermann-kfz.de"
+website: https://zimmermann-kfz.de

@@ -1,11 +1,11 @@
 id: 52092305
-type: way
+type: node
 latitude: 48.70969
 longitude: 9.4174
 postcode: "73207"
 city: Plochingen
-street: "Kronenstraße"
-housenumber: 6
+street: Kronenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

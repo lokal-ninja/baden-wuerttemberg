@@ -1,11 +1,11 @@
 id: 232661475
-type: way
+type: node
 latitude: 48.80058
 longitude: 8.3102
 postcode: "76571"
 city: Gaggenau
-street: "Bäumbachallee"
-housenumber: 6
+street: Bäumbachallee
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

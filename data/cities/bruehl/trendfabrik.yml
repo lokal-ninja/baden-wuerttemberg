@@ -1,11 +1,11 @@
 id: 215213730
-type: way
+type: node
 latitude: 49.40823
 longitude: 8.54174
 postcode: "68782"
 city: Brühl
-street: "Albert-Bassermann-Straße"
-housenumber: 29
-phone: "+49 6202 5778628"
-opening_hours: "Mo-Sa 10:00-20:00; Th 20:00-22:00"
-website: "http://www.trendfabrik.de/de/filialen/flagshipstore-bruehl.html"
+street: Albert-Bassermann-Straße
+housenumber: "29"
+phone: +49 6202 5778628
+opening_hours: Mo-Sa 10:00-20:00; Th 20:00-22:00
+website: http://www.trendfabrik.de/de/filialen/flagshipstore-bruehl.html

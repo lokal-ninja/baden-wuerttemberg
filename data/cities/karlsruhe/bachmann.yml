@@ -4,8 +4,8 @@ latitude: 48.99611
 longitude: 8.46206
 postcode: "76227"
 city: Karlsruhe
-street: "Oberwaldstraße"
-housenumber: 4
-phone: "+49 72 143393"
-opening_hours: "Mo-Sa 08:30-13:00"
-website: "https://www.bachmann-blumen.de/"
+street: Oberwaldstraße
+housenumber: "4"
+phone: +49 72 143393
+opening_hours: Mo-Sa 08:30-13:00
+website: https://www.bachmann-blumen.de/

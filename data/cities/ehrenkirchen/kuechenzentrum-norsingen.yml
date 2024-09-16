@@ -1,11 +1,11 @@
 id: 128818847
-type: way
+type: node
 latitude: 47.93585
 longitude: 7.72276
 postcode: "79238"
 city: Ehrenkirchen
-street: "Im Hägle"
-housenumber: 6
+street: Im Hägle
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.kuechenzentrum-norsingen.de/"
+website: http://www.kuechenzentrum-norsingen.de/

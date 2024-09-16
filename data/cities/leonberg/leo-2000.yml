@@ -1,11 +1,11 @@
 id: 45788995
-type: way
+type: node
 latitude: 48.79689
 longitude: 9.01216
 postcode: "71229"
 city: Leonberg
-street: "Eltinger Straße"
-housenumber: 61
+street: Eltinger Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

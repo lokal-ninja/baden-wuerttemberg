@@ -1,11 +1,11 @@
 id: 499278820
-type: way
+type: node
 latitude: 49.46221
 longitude: 8.95514
 postcode: "69412"
 city: Eberbach
-street: "Gretengrund"
-housenumber: 28
+street: Gretengrund
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.eberbacher-kiesumschlag-platz.de"
+website: https://www.eberbacher-kiesumschlag-platz.de

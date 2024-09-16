@@ -1,11 +1,11 @@
 id: 26219504
-type: way
+type: node
 latitude: 48.69581
 longitude: 8.96475
 postcode: "71034"
 city: Böblingen
-street: "Albert-Schweitzer-Straße"
-housenumber: 70
+street: Albert-Schweitzer-Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.vgc-calw.de/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.vgc-calw.de/

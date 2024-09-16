@@ -4,8 +4,8 @@ latitude: 49.12388
 longitude: 8.71528
 postcode: "76703"
 city: Kraichtal
-street: "Rathausstraße"
-housenumber: 13
-phone: "+49 7250 92326"
-opening_hours: "Mo-Sa 09:00-13:00"
-website: "https://kraichgau-reisebuero.de"
+street: Rathausstraße
+housenumber: "13"
+phone: +49 7250 92326
+opening_hours: Mo-Sa 09:00-13:00
+website: https://kraichgau-reisebuero.de

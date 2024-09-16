@@ -1,11 +1,11 @@
 id: 104503275
-type: way
+type: node
 latitude: 47.85253
 longitude: 8.77113
 postcode: "78234"
 city: Engen
-street: "Hauptstraße"
-housenumber: 5
+street: Hauptstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

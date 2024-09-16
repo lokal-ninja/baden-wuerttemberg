@@ -1,11 +1,11 @@
 id: 212501389
-type: way
+type: node
 latitude: 49.33861
 longitude: 9.97963
 postcode: "74575"
 city: Schrozberg
-street: "Ringstraße"
-housenumber: 1
+street: Ringstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

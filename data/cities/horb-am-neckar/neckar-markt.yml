@@ -1,11 +1,11 @@
 id: 119803000
-type: way
+type: node
 latitude: 48.44341
 longitude: 8.69183
 postcode: "72160"
 city: Horb am Neckar
-street: "Schillerstraße"
-housenumber: 9
+street: Schillerstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

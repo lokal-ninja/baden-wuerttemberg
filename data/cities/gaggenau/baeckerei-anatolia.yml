@@ -5,7 +5,7 @@ longitude: 8.31845
 postcode: "76571"
 city: Gaggenau
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-16:00"
-website: "https://www.baeckerei-anatolia.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-16:00
+website: https://www.baeckerei-anatolia.de/

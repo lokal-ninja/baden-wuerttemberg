@@ -1,11 +1,11 @@
 id: 95806853
-type: way
+type: node
 latitude: 48.62798
 longitude: 10.18915
 postcode: "89542"
 city: Herbrechtingen
-street: "Zeppelinweg"
-housenumber: 6
+street: Zeppelinweg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/herbrechtingen/zeppelinweg-6"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/herbrechtingen/zeppelinweg-6

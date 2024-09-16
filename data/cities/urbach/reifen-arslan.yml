@@ -1,11 +1,11 @@
 id: 525256534
-type: way
+type: node
 latitude: 48.80971
 longitude: 9.56475
 postcode: "73660"
 city: Urbach
-street: "Wasenstraße"
-housenumber: 30
+street: Wasenstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

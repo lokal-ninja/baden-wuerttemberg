@@ -1,11 +1,11 @@
 id: 439776638
-type: way
+type: node
 latitude: 48.6245
 longitude: 9.54646
 postcode: "73235"
 city: Weilheim an der Teck
-street: "Carl-Benz-Straße"
-housenumber: 9
+street: Carl-Benz-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00
 website: ""

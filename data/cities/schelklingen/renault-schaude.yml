@@ -1,11 +1,11 @@
 id: 332577659
-type: way
+type: node
 latitude: 48.37006
 longitude: 9.73181
 postcode: "89601"
 city: Schelklingen
-street: "Ehinger Straße"
-housenumber: 15
+street: Ehinger Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

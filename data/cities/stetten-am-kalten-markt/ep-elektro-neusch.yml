@@ -4,8 +4,8 @@ latitude: 48.12337
 longitude: 9.07886
 postcode: "72510"
 city: Stetten am kalten Markt
-street: "Schäufeleweg"
-housenumber: 1
+street: Schäufeleweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,14:30-18:30; Sa 08:30-12:30"
-website: "http://www.ep-electro-neusch.de"
+opening_hours: Mo-Fr 08:00-12:30,14:30-18:30; Sa 08:30-12:30
+website: http://www.ep-electro-neusch.de

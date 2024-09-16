@@ -1,11 +1,11 @@
 id: 393259492
-type: way
+type: node
 latitude: 48.02233
 longitude: 8.71244
 postcode: "78606"
 city: Seitingen-Oberflacht
-street: "Alemannenstraße"
-housenumber: 1
+street: Alemannenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

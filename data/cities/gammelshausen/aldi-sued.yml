@@ -1,11 +1,11 @@
 id: 54520665
-type: way
+type: node
 latitude: 48.64463
 longitude: 9.64944
 postcode: "73108"
 city: Gammelshausen
-street: "Kreuzäcker"
-housenumber: 1
+street: Kreuzäcker
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

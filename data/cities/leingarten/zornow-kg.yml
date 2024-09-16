@@ -1,11 +1,11 @@
 id: 96631746
-type: way
+type: node
 latitude: 49.1513
 longitude: 9.13445
 postcode: "74211"
 city: Leingarten
-street: "Benzstraße"
-housenumber: 30
+street: Benzstraße
+housenumber: "30"
 phone: "+497131401910"
 opening_hours: ""
-website: "http://www.auto-zornow.de/"
+website: http://www.auto-zornow.de/

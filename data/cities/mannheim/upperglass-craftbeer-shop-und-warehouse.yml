@@ -5,7 +5,7 @@ longitude: 8.47236
 postcode: "68161"
 city: Mannheim
 street: ""
-housenumber: 6
-phone: "+49 6221 6515595"
-opening_hours: "Mo-Fr 12:00-20:00; Sa 11:00-20:00"
-website: "http://www.upperglass-craftbeer.de"
+housenumber: "6"
+phone: +49 6221 6515595
+opening_hours: Mo-Fr 12:00-20:00; Sa 11:00-20:00
+website: http://www.upperglass-craftbeer.de

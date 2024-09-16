@@ -1,11 +1,11 @@
 id: 360195630
-type: way
+type: node
 latitude: 49.62935
 longitude: 9.66625
 postcode: "97941"
 city: Tauberbischofsheim
-street: "Alte Wertheimer Straße"
-housenumber: 37
+street: Alte Wertheimer Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

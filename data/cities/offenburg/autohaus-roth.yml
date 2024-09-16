@@ -1,11 +1,11 @@
 id: 87993394
-type: way
+type: node
 latitude: 48.48432
 longitude: 7.95907
 postcode: "77654"
 city: Offenburg
-street: "Scheerbünd"
-housenumber: 1
+street: Scheerbünd
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 118286986
-type: way
+type: node
 latitude: 48.25909
 longitude: 8.85421
 postcode: "72336"
 city: Balingen
-street: "Wasserwiesen"
-housenumber: 19
+street: Wasserwiesen
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

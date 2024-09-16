@@ -1,11 +1,11 @@
 id: 317819211
-type: way
+type: node
 latitude: 48.72568
 longitude: 9.63555
 postcode: "73098"
 city: Rechberghausen
-street: "Lindachstraße"
-housenumber: 2
+street: Lindachstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

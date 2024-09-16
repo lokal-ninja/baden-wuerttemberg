@@ -1,11 +1,11 @@
 id: 212707638
-type: way
+type: node
 latitude: 48.76575
 longitude: 9.41876
 postcode: "71384"
 city: Weinstadt
-street: "Brühlweg"
-housenumber: 9
+street: Brühlweg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

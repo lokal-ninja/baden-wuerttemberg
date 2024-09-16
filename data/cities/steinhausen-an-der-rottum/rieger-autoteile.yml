@@ -1,11 +1,11 @@
 id: 418988922
-type: way
+type: node
 latitude: 48.03404
 longitude: 9.92373
 postcode: ""
 city: Steinhausen an der Rottum
-street: "Welfenstraße"
-housenumber: 24
+street: Welfenstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

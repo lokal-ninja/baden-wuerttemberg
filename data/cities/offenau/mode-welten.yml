@@ -1,11 +1,11 @@
 id: 51086325
-type: way
+type: node
 latitude: 49.24189
 longitude: 9.16412
 postcode: "74254"
 city: Offenau
-street: "Talweg"
-housenumber: 4
+street: Talweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

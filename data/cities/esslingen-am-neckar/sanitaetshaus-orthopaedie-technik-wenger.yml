@@ -4,8 +4,9 @@ latitude: 48.73987
 longitude: 9.31116
 postcode: "73728"
 city: Esslingen am Neckar
-street: "Küferstraße"
-housenumber: 42
+street: Küferstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Tu 08:30-12:30,14:30-18:00; We 08:30-12:30; Th-Fr 08:30-12:30,14:30-18:00; Sa,Su,PH off"
+opening_hours: Mo-Tu 08:30-12:30,14:30-18:00; We 08:30-12:30; Th-Fr 08:30-12:30,14:30-18:00;
+    Sa,Su,PH off
 website: ""

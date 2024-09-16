@@ -1,11 +1,11 @@
 id: 47975088
-type: way
+type: node
 latitude: 48.81418
 longitude: 9.28469
 postcode: "70734"
 city: Fellbach
-street: "Bühlstraße"
-housenumber: 122
+street: Bühlstraße
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

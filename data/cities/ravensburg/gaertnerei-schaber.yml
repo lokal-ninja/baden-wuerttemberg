@@ -4,8 +4,8 @@ latitude: 47.79133
 longitude: 9.62163
 postcode: "88212"
 city: Ravensburg
-street: "Gartenstraße"
-housenumber: 85
-phone: "+49 751 23319"
-opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:30-13:30"
-website: "https://www.gaertnerei-schaber.de/"
+street: Gartenstraße
+housenumber: "85"
+phone: +49 751 23319
+opening_hours: Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:30-13:30
+website: https://www.gaertnerei-schaber.de/

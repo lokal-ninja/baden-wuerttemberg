@@ -4,8 +4,8 @@ latitude: 49.00032
 longitude: 8.56702
 postcode: "76327"
 city: Pfinztal
-street: "Wesostraße"
-housenumber: 57
-phone: "+49 (0)7240 1850"
-opening_hours: "Mo-Fr 07:00-13:00,15:00-18:00; Sa 07:00-12:30"
-website: "https://www.landmetzgerei-laux.de"
+street: Wesostraße
+housenumber: "57"
+phone: +49 (0)7240 1850
+opening_hours: Mo-Fr 07:00-13:00,15:00-18:00; Sa 07:00-12:30
+website: https://www.landmetzgerei-laux.de

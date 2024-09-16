@@ -1,11 +1,11 @@
 id: 124316285
-type: way
+type: node
 latitude: 48.92467
 longitude: 9.38741
 postcode: "71576"
 city: Burgstetten
-street: "Nelkenweg"
-housenumber: 6
+street: Nelkenweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

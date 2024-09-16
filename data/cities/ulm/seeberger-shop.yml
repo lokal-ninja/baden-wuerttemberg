@@ -4,8 +4,8 @@ latitude: 48.35947
 longitude: 9.95147
 postcode: "89079"
 city: Ulm
-street: "Hans-Lorenser-Straße"
-housenumber: 20
+street: Hans-Lorenser-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-19:00; PH,Su off"
-website: "https://www.seeberger.de/de/unternehmen/seebergers-shop-cafe.html"
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-19:00; PH,Su off
+website: https://www.seeberger.de/de/unternehmen/seebergers-shop-cafe.html

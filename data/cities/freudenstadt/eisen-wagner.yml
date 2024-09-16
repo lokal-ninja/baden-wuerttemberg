@@ -4,8 +4,8 @@ latitude: 48.46398
 longitude: 8.40954
 postcode: "72250"
 city: Freudenstadt
-street: "Marktplatz"
-housenumber: 46
+street: Marktplatz
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00;Sa 09:30-16:00"
-website: "https://www.eisen-wagner.de/"
+opening_hours: Mo-Fr 09:30-18:00;Sa 09:30-16:00
+website: https://www.eisen-wagner.de/

@@ -1,11 +1,11 @@
 id: 227361959
-type: way
+type: node
 latitude: 48.12109
 longitude: 7.85012
 postcode: "79312"
 city: Emmendingen
-street: "Theodor-Ludwig-Straße"
-housenumber: 7
-phone: "+49 7641 9340834"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30;Sa 09:00-14:00;PH off"
-website: "https://www.optiker-emmendingen.de/"
+street: Theodor-Ludwig-Straße
+housenumber: "7"
+phone: +49 7641 9340834
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30;Sa 09:00-14:00;PH off
+website: https://www.optiker-emmendingen.de/

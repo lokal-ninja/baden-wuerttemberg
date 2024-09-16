@@ -4,8 +4,8 @@ latitude: 48.16251
 longitude: 8.63169
 postcode: "78628"
 city: Rottweil
-street: "Königstraße"
-housenumber: 35
-phone: "+49 741 23531"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "http://www.fielmann.de/Rottweil"
+street: Königstraße
+housenumber: "35"
+phone: +49 741 23531
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: http://www.fielmann.de/Rottweil

@@ -4,8 +4,8 @@ latitude: 49.14292
 longitude: 9.21105
 postcode: "74072"
 city: Heilbronn
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-14:00"
-website: "http://www.raum-licht-design.de/"
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-14:00
+website: http://www.raum-licht-design.de/

@@ -4,8 +4,8 @@ latitude: 48.52056
 longitude: 9.05048
 postcode: "72070"
 city: Tübingen
-street: "Haaggasse"
-housenumber: 34
-phone: "+49 7071 551262"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://friseur-damianos.de"
+street: Haaggasse
+housenumber: "34"
+phone: +49 7071 551262
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://friseur-damianos.de

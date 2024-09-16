@@ -1,11 +1,11 @@
 id: 202800371
-type: way
+type: node
 latitude: 48.78248
 longitude: 9.7897
 postcode: "73529"
 city: Schwäbisch Gmünd
-street: "Albert-Lortzing-Straße"
-housenumber: 2
+street: Albert-Lortzing-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:30-14:00"
-website: "https://www.kosmetik-rath.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:30-14:00
+website: https://www.kosmetik-rath.de/

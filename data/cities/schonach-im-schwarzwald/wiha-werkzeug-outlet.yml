@@ -1,11 +1,11 @@
 id: 310656751
-type: way
+type: node
 latitude: 48.14571
 longitude: 8.19352
 postcode: "78136"
 city: Schonach im Schwarzwald
-street: "Sommerbergstraße"
-housenumber: 46
+street: Sommerbergstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 11:00-17:00"
+opening_hours: Mo-Fr 11:00-17:00
 website: ""

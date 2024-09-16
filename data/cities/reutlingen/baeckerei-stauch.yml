@@ -1,11 +1,11 @@
 id: 160122650
-type: way
+type: node
 latitude: 48.54965
 longitude: 9.20461
 postcode: "72768"
 city: Reutlingen
-street: "Pliezhäuser Straße"
-housenumber: 10
+street: Pliezhäuser Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

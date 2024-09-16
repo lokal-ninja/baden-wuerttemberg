@@ -1,11 +1,11 @@
 id: 262146898
-type: way
+type: node
 latitude: 49.58263
 longitude: 9.36889
 postcode: "74731"
 city: Walldürn
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

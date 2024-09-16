@@ -1,11 +1,11 @@
 id: 47906572
-type: way
+type: node
 latitude: 48.81975
 longitude: 9.27216
 postcode: "70736"
 city: Fellbach
-street: "Bahnhofstraße"
-housenumber: 168
+street: Bahnhofstraße
+housenumber: "168"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Th 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.mack-fellbach.de/"
+opening_hours: Mo-Fr 09:00-18:30; Th 09:00-19:00; Sa 09:00-16:00
+website: https://www.mack-fellbach.de/

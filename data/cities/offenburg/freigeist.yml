@@ -4,8 +4,8 @@ latitude: 48.47037
 longitude: 7.94174
 postcode: "77652"
 city: Offenburg
-street: "Marktplatz"
-housenumber: 19
+street: Marktplatz
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 14:00-19:00; Sa 10:00-15:00"
-website: "https://www.freigeist-og.de/"
+opening_hours: Mo-Fr 14:00-19:00; Sa 10:00-15:00
+website: https://www.freigeist-og.de/

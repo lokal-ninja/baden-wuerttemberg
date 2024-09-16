@@ -1,11 +1,11 @@
 id: 172663834
-type: way
+type: node
 latitude: 47.76205
 longitude: 9.54199
 postcode: "88213"
 city: Ravensburg
-street: "Kreuzstraße"
-housenumber: 2
+street: Kreuzstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

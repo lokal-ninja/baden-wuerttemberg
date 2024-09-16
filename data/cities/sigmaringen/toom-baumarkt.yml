@@ -1,11 +1,11 @@
 id: 1093069080
-type: way
+type: node
 latitude: 48.08074
 longitude: 9.23698
 postcode: "72488"
 city: Sigmaringen
-street: "Friedrich-List-Straße"
-housenumber: 12
+street: Friedrich-List-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://toom.de/m/sigmaringen/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://toom.de/m/sigmaringen/

@@ -1,11 +1,11 @@
 id: 210057350
-type: way
+type: node
 latitude: 47.67315
 longitude: 8.16063
 postcode: "79809"
 city: Weilheim
-street: "Gupfenstraße"
-housenumber: 19
+street: Gupfenstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "http://www.ts-moto.de/"
+website: http://www.ts-moto.de/

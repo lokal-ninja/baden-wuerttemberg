@@ -1,11 +1,11 @@
 id: 114717338
-type: way
+type: node
 latitude: 47.68728
 longitude: 9.15648
 postcode: "78467"
 city: Konstanz
-street: "Stifterstraße"
-housenumber: 65
+street: Stifterstraße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

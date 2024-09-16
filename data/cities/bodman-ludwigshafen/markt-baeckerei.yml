@@ -4,8 +4,8 @@ latitude: 47.81637
 longitude: 9.06083
 postcode: "78351"
 city: Bodman-Ludwigshafen
-street: "Salzbachäcker"
-housenumber: 9
+street: Salzbachäcker
+housenumber: "9"
 phone: ""
-opening_hours: "Oct-Mar: Mo-Sa 08:00-20:00; Apr-Sep: Mo-Sa 08:00-21:00"
+opening_hours: 'Oct-Mar: Mo-Sa 08:00-20:00; Apr-Sep: Mo-Sa 08:00-21:00'
 website: ""

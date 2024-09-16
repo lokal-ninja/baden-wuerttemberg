@@ -1,11 +1,11 @@
 id: 59401002
-type: way
+type: node
 latitude: 48.63916
 longitude: 8.91045
 postcode: "71116"
 city: Gärtringen
-street: "Erich-Kiefer-Straße"
-housenumber: 9
+street: Erich-Kiefer-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://home.mobile.de/OEZKAN-AUTOMOBILE"
+website: https://home.mobile.de/OEZKAN-AUTOMOBILE

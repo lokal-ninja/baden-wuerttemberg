@@ -1,11 +1,11 @@
 id: 475588091
-type: way
+type: node
 latitude: 49.34923
 longitude: 8.53027
 postcode: "68775"
 city: Ketsch
-street: "Lausitzer Straße"
-housenumber: 21
+street: Lausitzer Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

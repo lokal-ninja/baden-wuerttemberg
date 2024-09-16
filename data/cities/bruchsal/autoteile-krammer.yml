@@ -4,8 +4,8 @@ latitude: 49.13543
 longitude: 8.59427
 postcode: "76646"
 city: Bruchsal
-street: "Kinzigstraße"
-housenumber: 3
+street: Kinzigstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.autoteile-krammer.de/standort_bruchsal.php"
+website: https://www.autoteile-krammer.de/standort_bruchsal.php

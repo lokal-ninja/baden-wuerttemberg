@@ -1,11 +1,11 @@
 id: 297186053
-type: way
+type: node
 latitude: 48.7694
 longitude: 8.23039
 postcode: "76530"
 city: Baden-Baden
-street: "Lange Straße"
-housenumber: 108
+street: Lange Straße
+housenumber: "108"
 phone: ""
 opening_hours: ""
-website: "https://www.pochat-automobile.de"
+website: https://www.pochat-automobile.de

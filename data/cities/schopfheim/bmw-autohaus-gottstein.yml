@@ -1,11 +1,11 @@
 id: 101623940
-type: way
+type: node
 latitude: 47.64815
 longitude: 7.80576
 postcode: "79650"
 city: Schopfheim
-street: "Johann-Sutter-Straße"
-housenumber: 3
+street: Johann-Sutter-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

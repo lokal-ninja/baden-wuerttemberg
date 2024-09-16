@@ -1,11 +1,11 @@
 id: 358688434
-type: way
+type: node
 latitude: 47.72065
 longitude: 9.38626
 postcode: "88677"
 city: Markdorf
-street: "Mangoldstraße"
-housenumber: 10
+street: Mangoldstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.kuechen-krall.de/"
+website: https://www.kuechen-krall.de/

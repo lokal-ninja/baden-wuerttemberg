@@ -1,11 +1,11 @@
 id: 298871603
-type: way
+type: node
 latitude: 49.52599
 longitude: 8.56267
 postcode: "68519"
 city: Viernheim
-street: "Robert-Schuman-Straße"
+street: Robert-Schuman-Straße
 housenumber: 8a
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.peek-cloppenburg.de/de/stores/viernheim"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.peek-cloppenburg.de/de/stores/viernheim

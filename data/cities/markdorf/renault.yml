@@ -1,11 +1,11 @@
 id: 644420858
-type: way
+type: node
 latitude: 47.71412
 longitude: 9.40036
 postcode: "88677"
 city: Markdorf
-street: "Röntgenstraße"
-housenumber: 5
+street: Röntgenstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

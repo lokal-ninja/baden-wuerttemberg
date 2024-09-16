@@ -4,8 +4,8 @@ latitude: 48.77853
 longitude: 9.2067
 postcode: "70186"
 city: Stuttgart
-street: "Gablenberger Hauptstraße"
-housenumber: 40
+street: Gablenberger Hauptstraße
+housenumber: "40"
 phone: "+491704602495"
-opening_hours: "24/7"
-website: "https://www.kischluesseldienst-stuttgart.de"
+opening_hours: 24/7
+website: https://www.kischluesseldienst-stuttgart.de

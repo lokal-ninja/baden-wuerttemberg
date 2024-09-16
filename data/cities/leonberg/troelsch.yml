@@ -4,8 +4,8 @@ latitude: 48.80128
 longitude: 9.01552
 postcode: "71229"
 city: Leonberg
-street: "Marktplatz"
-housenumber: 12
+street: Marktplatz
+housenumber: "12"
 phone: "+497152276070"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-17:00; Su 07:30-18:00"
-website: "https://www.troelsch.de/ueber-uns/standorte/"
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-17:00; Su 07:30-18:00
+website: https://www.troelsch.de/ueber-uns/standorte/

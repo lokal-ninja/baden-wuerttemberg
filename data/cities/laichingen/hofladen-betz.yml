@@ -1,11 +1,11 @@
 id: 122573697
-type: way
+type: node
 latitude: 48.49542
 longitude: 9.71063
 postcode: "89150"
 city: Laichingen
-street: "Rudolf-Diesel-Straße"
-housenumber: 7
+street: Rudolf-Diesel-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.hofladen-betz.de/"
+website: https://www.hofladen-betz.de/

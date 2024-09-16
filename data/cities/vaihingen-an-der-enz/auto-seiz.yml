@@ -1,11 +1,11 @@
 id: 48274522
-type: way
+type: node
 latitude: 48.92903
 longitude: 8.96117
 postcode: "71665"
 city: Vaihingen an der Enz
-street: "Stuttgarter Straße"
-housenumber: 66
-phone: "+49 7042 6035"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 09:00-12:30"
-website: "http://www.autohaus-seiz.de/"
+street: Stuttgarter Straße
+housenumber: "66"
+phone: +49 7042 6035
+opening_hours: Mo-Fr 07:30-17:30; Sa 09:00-12:30
+website: http://www.autohaus-seiz.de/

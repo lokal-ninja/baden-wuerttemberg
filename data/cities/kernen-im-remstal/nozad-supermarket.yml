@@ -1,11 +1,11 @@
 id: 198335493
-type: way
+type: node
 latitude: 48.80837
 longitude: 9.31823
 postcode: "71394"
 city: Kernen im Remstal
-street: "Waiblinger Straße"
-housenumber: 16
+street: Waiblinger Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

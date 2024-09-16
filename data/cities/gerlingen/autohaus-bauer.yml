@@ -1,11 +1,11 @@
 id: 45391712
-type: way
+type: node
 latitude: 48.8041
 longitude: 9.07378
 postcode: "70839"
 city: Gerlingen
-street: "Dieselstraße"
-housenumber: 13
+street: Dieselstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

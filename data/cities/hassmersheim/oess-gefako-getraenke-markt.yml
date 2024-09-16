@@ -1,11 +1,11 @@
 id: 305880929
-type: way
+type: node
 latitude: 49.30475
 longitude: 9.14897
 postcode: "74855"
 city: Haßmersheim
-street: "Kurt-Vogelsang-Straße"
-housenumber: 3
+street: Kurt-Vogelsang-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

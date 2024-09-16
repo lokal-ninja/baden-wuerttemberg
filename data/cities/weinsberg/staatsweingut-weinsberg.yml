@@ -1,11 +1,11 @@
 id: 101424882
-type: way
+type: node
 latitude: 49.1514
 longitude: 9.29103
 postcode: "74189"
 city: Weinsberg
-street: "Haller Straße"
-housenumber: 8
+street: Haller Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

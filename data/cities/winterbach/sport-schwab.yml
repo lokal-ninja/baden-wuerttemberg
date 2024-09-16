@@ -1,11 +1,11 @@
 id: 157920455
-type: way
+type: node
 latitude: 48.80631
 longitude: 9.47652
 postcode: "73650"
 city: Winterbach
-street: "Fabrikstraße"
-housenumber: 4
+street: Fabrikstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.sportschwab.de"
+website: https://www.sportschwab.de

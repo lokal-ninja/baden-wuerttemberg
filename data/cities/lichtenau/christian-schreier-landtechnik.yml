@@ -1,11 +1,11 @@
 id: 65744378
-type: way
+type: node
 latitude: 48.72026
 longitude: 7.99414
 postcode: "77839"
 city: Lichtenau
-street: "Im Gewerbegebiet"
-housenumber: 43
+street: Im Gewerbegebiet
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://www.schreier-landmaschinen.de/"
+website: https://www.schreier-landmaschinen.de/

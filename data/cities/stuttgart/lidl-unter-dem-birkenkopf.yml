@@ -4,8 +4,8 @@ latitude: 48.76842
 longitude: 9.14088
 postcode: "70197"
 city: Stuttgart
-street: "Unter dem Birkenkopf"
-housenumber: 19
+street: Unter dem Birkenkopf
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; "
+opening_hours: 'Mo-Sa 07:00-22:00; '
 website: ""

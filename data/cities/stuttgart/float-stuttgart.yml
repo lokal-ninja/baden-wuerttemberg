@@ -4,8 +4,9 @@ latitude: 48.80066
 longitude: 9.17278
 postcode: "70192"
 city: Stuttgart
-street: "Stresemannstraße"
-housenumber: 5
-phone: "+49 711 28444370"
-opening_hours: "Mo 14:00-18:00; Tu 11:00-18:00; We 14:00-18:00; Th 11:00-18:00; Fr 14:00-18:00; Sa-Su 11:00-16:00"
-website: "https://www.float-stuttgart.de/"
+street: Stresemannstraße
+housenumber: "5"
+phone: +49 711 28444370
+opening_hours: Mo 14:00-18:00; Tu 11:00-18:00; We 14:00-18:00; Th 11:00-18:00; Fr
+    14:00-18:00; Sa-Su 11:00-16:00
+website: https://www.float-stuttgart.de/

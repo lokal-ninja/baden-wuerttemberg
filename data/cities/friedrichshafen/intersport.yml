@@ -4,8 +4,8 @@ latitude: 47.6652
 longitude: 9.48561
 postcode: "88046"
 city: Friedrichshafen
-street: "Ailinger Straße"
-housenumber: 109
+street: Ailinger Straße
+housenumber: "109"
 phone: "+4975412899540"
-opening_hours: "09:00-20:00; Sa 09:00-18:00; Su,PH off"
-website: "https://www.intersport-bodenseecenter.de/"
+opening_hours: 09:00-20:00; Sa 09:00-18:00; Su,PH off
+website: https://www.intersport-bodenseecenter.de/

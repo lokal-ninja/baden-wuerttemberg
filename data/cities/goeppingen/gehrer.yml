@@ -1,11 +1,11 @@
 id: 263712687
-type: way
+type: node
 latitude: 48.70796
 longitude: 9.61738
 postcode: "73035"
 city: Göppingen
-street: "Hirschstraße"
-housenumber: 9
+street: Hirschstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

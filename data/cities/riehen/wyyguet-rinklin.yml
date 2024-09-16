@@ -4,8 +4,8 @@ latitude: 47.59562
 longitude: 7.64766
 postcode: "4125"
 city: Riehen
-street: "Eglingerweg"
-housenumber: 1
-phone: "+41 61 641 48 87"
-opening_hours: "We, Fr 16:00-19:00 oder nach Vereinbarung Hauslieferung"
-website: "http://www.schlipfer.ch"
+street: Eglingerweg
+housenumber: "1"
+phone: +41 61 641 48 87
+opening_hours: We, Fr 16:00-19:00 "oder nach Vereinbarung Hauslieferung"
+website: http://www.schlipfer.ch

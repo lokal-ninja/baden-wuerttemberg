@@ -4,8 +4,8 @@ latitude: 48.62566
 longitude: 9.33775
 postcode: "72622"
 city: Nürtingen
-street: "Brunnsteige"
-housenumber: 17
-phone: "+49 7022 39364"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.fahrrad-nuertingen.de/"
+street: Brunnsteige
+housenumber: "17"
+phone: +49 7022 39364
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.fahrrad-nuertingen.de/

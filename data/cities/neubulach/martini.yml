@@ -1,11 +1,11 @@
 id: 103738901
-type: way
+type: node
 latitude: 48.66172
 longitude: 8.6944
 postcode: "75387"
 city: Neubulach
-street: "Obere Torstraße"
-housenumber: 10
+street: Obere Torstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

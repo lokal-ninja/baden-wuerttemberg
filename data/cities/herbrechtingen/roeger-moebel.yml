@@ -4,8 +4,8 @@ latitude: 48.62738
 longitude: 10.17284
 postcode: "89542"
 city: Herbrechtingen
-street: "Gewerbestraße"
-housenumber: 1
-phone: "+49 7324 2341"
-opening_hours: "mo - fr 08:30-12:00, 14:00-18:00; sa 09:00-12:00; ph off"
-website: "https://www.roeger-moebel.de/startseite.jsp"
+street: Gewerbestraße
+housenumber: "1"
+phone: +49 7324 2341
+opening_hours: mo - fr 08:30-12:00, 14:00-18:00; sa 09:00-12:00; ph off
+website: https://www.roeger-moebel.de/startseite.jsp

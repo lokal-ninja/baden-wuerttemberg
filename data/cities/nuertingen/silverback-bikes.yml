@@ -1,11 +1,11 @@
 id: 312212847
-type: way
+type: node
 latitude: 48.64595
 longitude: 9.32994
 postcode: "72622"
 city: Nürtingen
-street: "Ohmstraße"
-housenumber: 18
-phone: "+49 7022 9 777 818"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
+street: Ohmstraße
+housenumber: "18"
+phone: +49 7022 9 777 818
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.98476
 longitude: 7.824
 postcode: "79115"
 city: Freiburg im Breisgau
-street: "Basler Straße"
-housenumber: 94
-phone: "+49 761 4902911"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
-website: "https://www.porsche-freiburg.de/de/oeffnungszeiten_de_frg.html"
+street: Basler Straße
+housenumber: "94"
+phone: +49 761 4902911
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
+website: https://www.porsche-freiburg.de/de/oeffnungszeiten_de_frg.html

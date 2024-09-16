@@ -4,8 +4,8 @@ latitude: 48.41525
 longitude: 8.08477
 postcode: "77787"
 city: Nordrach
-street: "Ernsbach"
-housenumber: 10
-phone: "+49 7838 1042"
-opening_hours: "Nach telefonischer Vereinbarung"
+street: Ernsbach
+housenumber: "10"
+phone: +49 7838 1042
+opening_hours: '"Nach telefonischer Vereinbarung"'
 website: ""

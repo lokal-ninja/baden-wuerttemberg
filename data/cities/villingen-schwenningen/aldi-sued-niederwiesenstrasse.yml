@@ -1,11 +1,11 @@
 id: 42084220
-type: way
+type: node
 latitude: 48.04498
 longitude: 8.4661
 postcode: "78050"
 city: Villingen-Schwenningen
-street: "Niederwiesenstraße"
-housenumber: 33
+street: Niederwiesenstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

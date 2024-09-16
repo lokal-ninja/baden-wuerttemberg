@@ -1,11 +1,11 @@
 id: 708083814
-type: way
+type: node
 latitude: 47.67706
 longitude: 9.15075
 postcode: "78467"
 city: Konstanz
-street: "Maybachstraße"
-housenumber: 9
+street: Maybachstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

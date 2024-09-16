@@ -1,11 +1,11 @@
 id: 138231761
-type: way
+type: node
 latitude: 49.17991
 longitude: 8.62378
 postcode: "76698"
 city: Ubstadt-Weiher
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 99-101
-phone: "+49 7251 96 18 10"
-opening_hours: "Mo-Fr 08:30-13:00;Mo-Fr 14:30-18:00;Sa 08:30-13:30"
-website: "https://www.schuhhaus-holzer.de/"
+phone: +49 7251 96 18 10
+opening_hours: Mo-Fr 08:30-13:00;Mo-Fr 14:30-18:00;Sa 08:30-13:30
+website: https://www.schuhhaus-holzer.de/

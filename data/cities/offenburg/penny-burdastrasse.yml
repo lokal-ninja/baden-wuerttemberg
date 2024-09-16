@@ -1,11 +1,11 @@
 id: 153996732
-type: way
+type: node
 latitude: 48.46475
 longitude: 7.928
 postcode: "77656"
 city: Offenburg
-street: "Burdastraße"
-housenumber: 2
+street: Burdastraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su,PH off"
-website: "https://www.penny.de/markt/offenburg/830618/penny-burdastrasse-burdastr-2"
+opening_hours: Mo-Sa 07:30-21:00; Su,PH off
+website: https://www.penny.de/markt/offenburg/830618/penny-burdastrasse-burdastr-2

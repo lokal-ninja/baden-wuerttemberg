@@ -1,11 +1,11 @@
 id: 198382632
-type: way
+type: node
 latitude: 49.44898
 longitude: 8.91043
 postcode: ""
 city: Hirschhorn
-street: "Ersheimer Straße"
-housenumber: 79
+street: Ersheimer Straße
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

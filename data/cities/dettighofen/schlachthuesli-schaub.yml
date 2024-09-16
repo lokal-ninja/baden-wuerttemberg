@@ -1,11 +1,11 @@
 id: 440758632
-type: way
+type: node
 latitude: 47.62458
 longitude: 8.48479
 postcode: "79802"
 city: Dettighofen
-street: "Hauptstraße"
-housenumber: 32
+street: Hauptstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

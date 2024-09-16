@@ -1,11 +1,11 @@
 id: 139463424
-type: way
+type: node
 latitude: 47.70394
 longitude: 8.14462
 postcode: "79862"
 city: Höchenschwand
-street: "Gewerbegebiet Tiefenhäusern"
-housenumber: 2
+street: Gewerbegebiet Tiefenhäusern
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.baur-bwf.de/"
+website: https://www.baur-bwf.de/

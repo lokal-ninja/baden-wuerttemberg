@@ -4,8 +4,8 @@ latitude: 49.40354
 longitude: 8.69186
 postcode: "69115"
 city: Heidelberg
-street: "Rohrbacher Straße"
-housenumber: 44
-phone: "+49 6221 3607700"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-15:00; Su,PH off"
-website: "https://goldwaage-heidelberg.de"
+street: Rohrbacher Straße
+housenumber: "44"
+phone: +49 6221 3607700
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-15:00; Su,PH off
+website: https://goldwaage-heidelberg.de

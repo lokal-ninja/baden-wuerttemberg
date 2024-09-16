@@ -4,8 +4,8 @@ latitude: 48.49439
 longitude: 9.21813
 postcode: "72764"
 city: Reutlingen
-street: "Aulberstraße"
-housenumber: 25
-phone: "+49 7121 9487207"
-opening_hours: "Mo-We 07:30-15:00; Th 07:30-17:30; Fr 07:30-12:45; Sa,Su,PH off"
-website: "https://www.kroschke.de/standortfinder#!/filiale-reutlingen/5273"
+street: Aulberstraße
+housenumber: "25"
+phone: +49 7121 9487207
+opening_hours: Mo-We 07:30-15:00; Th 07:30-17:30; Fr 07:30-12:45; Sa,Su,PH off
+website: https://www.kroschke.de/standortfinder#!/filiale-reutlingen/5273

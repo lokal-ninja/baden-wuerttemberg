@@ -1,11 +1,11 @@
 id: 42995507
-type: way
+type: node
 latitude: 48.72441
 longitude: 9.15424
 postcode: "70567"
 city: Stuttgart
-street: "Plieninger Straße"
-housenumber: 48
+street: Plieninger Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; PH,Sa-Su closed"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; PH,Sa-Su closed
 website: ""

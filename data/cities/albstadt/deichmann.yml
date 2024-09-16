@@ -1,11 +1,11 @@
 id: 90844242
-type: way
+type: node
 latitude: 48.21045
 longitude: 9.01716
 postcode: "72458"
 city: Albstadt
-street: "Theodor-Groz-Straße"
-housenumber: 78
+street: Theodor-Groz-Straße
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 99558670
-type: way
+type: node
 latitude: 48.82793
 longitude: 9.07011
 postcode: "71254"
 city: Ditzingen
-street: "Münchinger Straße"
-housenumber: 26
+street: Münchinger Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

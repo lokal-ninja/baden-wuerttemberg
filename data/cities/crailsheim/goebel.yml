@@ -1,11 +1,11 @@
 id: 88864532
-type: way
+type: node
 latitude: 49.14198
 longitude: 10.04702
 postcode: "74564"
 city: Crailsheim
-street: "Haller Straße"
-housenumber: 69
+street: Haller Straße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

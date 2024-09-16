@@ -4,8 +4,8 @@ latitude: 49.35704
 longitude: 8.77796
 postcode: "69245"
 city: Bammental
-street: "Hauptstraße"
-housenumber: 43
-phone: "+49 6223 47692"
-opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 14:00-18:30"
-website: "http://www.buch-staiger.de"
+street: Hauptstraße
+housenumber: "43"
+phone: +49 6223 47692
+opening_hours: Mo-Sa 09:00-13:00, Mo-Fr 14:00-18:30
+website: http://www.buch-staiger.de

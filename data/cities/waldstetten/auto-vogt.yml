@@ -1,11 +1,11 @@
 id: 207882636
-type: way
+type: node
 latitude: 48.77083
 longitude: 9.82942
 postcode: "73550"
 city: Waldstetten
-street: "Bettringer Straße"
-housenumber: 50
+street: Bettringer Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "http://www.auto-vogt.net/"
+website: http://www.auto-vogt.net/

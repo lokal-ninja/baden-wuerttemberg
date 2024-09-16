@@ -1,11 +1,11 @@
 id: 89611585
-type: way
+type: node
 latitude: 48.74517
 longitude: 9.65665
 postcode: "73102"
 city: Birenbach
-street: "Lorcher Straße"
-housenumber: 26
+street: Lorcher Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

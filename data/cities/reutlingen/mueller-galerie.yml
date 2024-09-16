@@ -1,11 +1,11 @@
 id: 43067710
-type: way
+type: node
 latitude: 48.49295
 longitude: 9.20988
 postcode: "72764"
 city: Reutlingen
-street: "Wilhelmstraße"
-housenumber: 40
+street: Wilhelmstraße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

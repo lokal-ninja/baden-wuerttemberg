@@ -1,11 +1,11 @@
 id: 200530285
-type: way
+type: node
 latitude: 49.30269
 longitude: 8.91017
 postcode: "74915"
 city: Waibstadt
-street: "Neidensteiner Straße"
-housenumber: 32
-phone: "+49 7263 400116"
-opening_hours: "Mo-Sa 07:00-22:00; Su off"
+street: Neidensteiner Straße
+housenumber: "32"
+phone: +49 7263 400116
+opening_hours: Mo-Sa 07:00-22:00; Su off
 website: ""

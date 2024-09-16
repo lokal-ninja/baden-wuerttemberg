@@ -1,11 +1,11 @@
 id: 196924012
-type: way
+type: node
 latitude: 49.40647
 longitude: 8.66272
 postcode: "69115"
 city: Heidelberg
-street: "Eppelheimer Straße"
-housenumber: 22
+street: Eppelheimer Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

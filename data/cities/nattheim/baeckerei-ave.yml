@@ -1,11 +1,11 @@
 id: 45109899
-type: way
+type: node
 latitude: 48.69989
 longitude: 10.24922
 postcode: "89564"
 city: Nattheim
-street: "Lerchenstraße"
-housenumber: 11
+street: Lerchenstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 194702142
-type: way
+type: node
 latitude: 48.63445
 longitude: 9.23349
 postcode: "72631"
 city: Aichtal
-street: "Riedstraße"
-housenumber: 6
+street: Riedstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
 website: ""

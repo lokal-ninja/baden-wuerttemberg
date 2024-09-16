@@ -1,11 +1,11 @@
 id: 284531694
-type: way
+type: node
 latitude: 48.79268
 longitude: 9.9337
 postcode: "73540"
 city: Heubach
-street: "Gmünder Straße"
-housenumber: 2
+street: Gmünder Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

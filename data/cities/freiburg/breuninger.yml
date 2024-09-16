@@ -4,8 +4,8 @@ latitude: 47.99615
 longitude: 7.85147
 postcode: "79098"
 city: Freiburg
-street: "Kaiser-Joseph-Straße"
-housenumber: 169
-phone: "+49 761 38040"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.breuninger.com"
+street: Kaiser-Joseph-Straße
+housenumber: "169"
+phone: +49 761 38040
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.breuninger.com

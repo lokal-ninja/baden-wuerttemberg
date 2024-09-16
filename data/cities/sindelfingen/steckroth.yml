@@ -1,11 +1,11 @@
 id: 46601941
-type: way
+type: node
 latitude: 48.71934
 longitude: 8.98218
 postcode: "71067"
 city: Sindelfingen
-street: "Donauschwabenstraße"
-housenumber: 2
+street: Donauschwabenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30, Mo,Tu,Th,Fr 14:00-17:00"
+opening_hours: Mo-Sa 09:00-12:30, Mo,Tu,Th,Fr 14:00-17:00
 website: ""

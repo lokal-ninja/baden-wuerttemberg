@@ -1,11 +1,11 @@
 id: 223757724
-type: way
+type: node
 latitude: 49.13567
 longitude: 10.07105
 postcode: "74564"
 city: Crailsheim
-street: "Lange Straße"
-housenumber: 36
+street: Lange Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:00"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-13:00
 website: ""

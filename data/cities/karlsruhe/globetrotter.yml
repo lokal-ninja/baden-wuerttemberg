@@ -1,11 +1,11 @@
 id: 256849861
-type: way
+type: node
 latitude: 49.00979
 longitude: 8.39766
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
+street: Kaiserstraße
 housenumber: 195-197
-phone: "+49 721 82002443"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.globetrotter.de/filialen/karlsruhe/"
+phone: +49 721 82002443
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.globetrotter.de/filialen/karlsruhe/

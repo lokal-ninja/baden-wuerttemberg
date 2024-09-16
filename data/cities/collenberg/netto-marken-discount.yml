@@ -1,11 +1,11 @@
 id: 192135566
-type: way
+type: node
 latitude: 49.77068
 longitude: 9.34342
 postcode: "97903"
 city: Collenberg
-street: "Paul-Hohe-Straße"
-housenumber: 2
+street: Paul-Hohe-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

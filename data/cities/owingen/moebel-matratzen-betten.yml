@@ -4,8 +4,8 @@ latitude: 47.81056
 longitude: 9.17497
 postcode: "88696"
 city: Owingen
-street: "Hauptstraße"
-housenumber: 56
+street: Hauptstraße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 14:30-18:00; Sa 09:00-12:30"
-website: "https://www.stengele-owingen.de"
+opening_hours: Mo-Fr 09:00-12:30, 14:30-18:00; Sa 09:00-12:30
+website: https://www.stengele-owingen.de

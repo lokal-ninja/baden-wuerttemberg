@@ -1,11 +1,11 @@
 id: 517715324
-type: way
+type: node
 latitude: 48.78259
 longitude: 8.19234
 postcode: "76532"
 city: Baden-Baden
-street: "Gewerbepark Cité"
-housenumber: 7
-phone: "+49 7221 27 68 26"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.ditsch.de/de/"
+street: Gewerbepark Cité
+housenumber: "7"
+phone: +49 7221 27 68 26
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.ditsch.de/de/

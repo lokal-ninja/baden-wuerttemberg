@@ -1,11 +1,11 @@
 id: 506090895
-type: way
+type: node
 latitude: 48.9004
 longitude: 8.1995
 postcode: "76479"
 city: Steinmauern
-street: "Hauptstraße"
-housenumber: 76
+street: Hauptstraße
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.56148
 longitude: 9.37458
 postcode: "72639"
 city: Neuffen
-street: "Stuttgarter Straße"
-housenumber: 63
-phone: "+49 7025 7752"
-opening_hours: "Tu,Th-Fr 15:00-18:00"
-website: "https://www.seilers-radsport.de/"
+street: Stuttgarter Straße
+housenumber: "63"
+phone: +49 7025 7752
+opening_hours: Tu,Th-Fr 15:00-18:00
+website: https://www.seilers-radsport.de/

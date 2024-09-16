@@ -1,11 +1,11 @@
 id: 206812237
-type: way
+type: node
 latitude: 48.2345
 longitude: 7.8194
 postcode: "77955"
 city: Ettenheim
-street: "Tutschfelder Straße"
-housenumber: 8
-phone: "+49 7822 51 43"
-opening_hours: "Mo-Fr 09:00-11:30, 15:00-18:00; Sa 08:30-13:00"
-website: "https://www.weingut-jaeger.de/"
+street: Tutschfelder Straße
+housenumber: "8"
+phone: +49 7822 51 43
+opening_hours: Mo-Fr 09:00-11:30, 15:00-18:00; Sa 08:30-13:00
+website: https://www.weingut-jaeger.de/

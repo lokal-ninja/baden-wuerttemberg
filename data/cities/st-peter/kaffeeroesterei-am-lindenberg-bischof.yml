@@ -4,8 +4,8 @@ latitude: 48.0155
 longitude: 8.03349
 postcode: "79271"
 city: St. Peter
-street: "Roter Weg"
-housenumber: 2
+street: Roter Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Su-Mo,PH off; Sa 10:00-12:00,14:00-16:00; oder nach Vereinbarung"
+opening_hours: Su-Mo,PH off; Sa 10:00-12:00,14:00-16:00; "oder nach Vereinbarung"
 website: ""

@@ -1,11 +1,11 @@
 id: 436598232
-type: way
+type: node
 latitude: 48.25268
 longitude: 9.01876
 postcode: "72461"
 city: Albstadt
-street: "Eisenbahnstraße"
-housenumber: 27
+street: Eisenbahnstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

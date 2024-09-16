@@ -1,11 +1,11 @@
 id: 121262244
-type: way
+type: node
 latitude: 47.71338
 longitude: 9.39693
 postcode: "88677"
 city: Markdorf
-street: "Rudolf-Diesel-Straße"
-housenumber: 1
+street: Rudolf-Diesel-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/markdorf/rudolf-diesel-strasse-1"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/markdorf/rudolf-diesel-strasse-1

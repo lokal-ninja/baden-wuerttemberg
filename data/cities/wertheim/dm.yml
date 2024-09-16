@@ -1,11 +1,11 @@
 id: 889383522
-type: way
+type: node
 latitude: 49.78109
 longitude: 9.50341
 postcode: "97877"
 city: Wertheim
-street: "Breslauer Straße"
-housenumber: 4
+street: Breslauer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

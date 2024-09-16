@@ -4,8 +4,8 @@ latitude: 47.9794
 longitude: 7.8211
 postcode: "79115"
 city: Freiburg im Breisgau
-street: "Lörracher Straße"
-housenumber: 43
-phone: "+49 7611 3732250"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "http://www.bcs-schmieder.de/"
+street: Lörracher Straße
+housenumber: "43"
+phone: +49 7611 3732250
+opening_hours: Mo-Fr 07:30-17:00
+website: http://www.bcs-schmieder.de/

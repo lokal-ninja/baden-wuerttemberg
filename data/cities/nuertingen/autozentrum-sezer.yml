@@ -1,11 +1,11 @@
 id: 63378374
-type: way
+type: node
 latitude: 48.6379
 longitude: 9.34039
 postcode: "72622"
 city: Nürtingen
-street: "Walter-Rauch-Straße"
-housenumber: 7
-phone: "+49 7022 266772"
+street: Walter-Rauch-Straße
+housenumber: "7"
+phone: +49 7022 266772
 opening_hours: ""
-website: "www.autozentrum-sezer.com"
+website: www.autozentrum-sezer.com

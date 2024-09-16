@@ -1,11 +1,11 @@
 id: 351833431
-type: way
+type: node
 latitude: 49.60211
 longitude: 9.43042
 postcode: "74746"
 city: Höpfingen
-street: "Gneisenaustraße"
-housenumber: 17
+street: Gneisenaustraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 143822422
-type: way
+type: node
 latitude: 48.26378
 longitude: 8.8526
 postcode: "72336"
 city: Balingen
-street: "Wilhelm-Kraut-Straße"
-housenumber: 115
+street: Wilhelm-Kraut-Straße
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

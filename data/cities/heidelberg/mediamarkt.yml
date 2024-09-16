@@ -4,8 +4,8 @@ latitude: 49.36749
 longitude: 8.68577
 postcode: "69126"
 city: Heidelberg
-street: "Hertzstraße"
-housenumber: 1
+street: Hertzstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mediamarkt.de/de/store/heidelberg-rohrbach-577"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mediamarkt.de/de/store/heidelberg-rohrbach-577

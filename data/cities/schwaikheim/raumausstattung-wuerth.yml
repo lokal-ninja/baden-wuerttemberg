@@ -1,11 +1,11 @@
 id: 124448031
-type: way
+type: node
 latitude: 48.87343
 longitude: 9.35253
 postcode: "71409"
 city: Schwaikheim
-street: "Bahnhofstraße"
-housenumber: 32
+street: Bahnhofstraße
+housenumber: "32"
 phone: "+49719551003"
 opening_hours: ""
 website: ""

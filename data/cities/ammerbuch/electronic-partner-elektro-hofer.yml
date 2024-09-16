@@ -4,8 +4,9 @@ latitude: 48.53083
 longitude: 8.96605
 postcode: "72119"
 city: Ammerbuch
-street: "Nagolder Straße"
-housenumber: 5
+street: Nagolder Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30; Mo-Tu 14:30-18:30; Th-Fr 14:30-18:30; Sa 09:00-12:30; PH off"
+opening_hours: Mo-Fr 09:00-12:30; Mo-Tu 14:30-18:30; Th-Fr 14:30-18:30; Sa 09:00-12:30;
+    PH off
 website: ""

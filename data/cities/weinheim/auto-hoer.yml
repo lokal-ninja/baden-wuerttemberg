@@ -1,11 +1,11 @@
 id: 104361382
-type: way
+type: node
 latitude: 49.54583
 longitude: 8.6599
 postcode: "69469"
 city: Weinheim
-street: "Mierendorffstraße"
-housenumber: 5
+street: Mierendorffstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.auto-hoer.de/"
+website: http://www.auto-hoer.de/

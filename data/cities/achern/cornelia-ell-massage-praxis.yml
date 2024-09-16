@@ -1,11 +1,11 @@
 id: 321006061
-type: way
+type: node
 latitude: 48.62172
 longitude: 7.99636
 postcode: "77855"
 city: Achern
-street: "Maiwaldstraße"
-housenumber: 8
+street: Maiwaldstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

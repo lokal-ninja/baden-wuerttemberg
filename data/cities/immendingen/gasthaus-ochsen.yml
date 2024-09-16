@@ -4,8 +4,8 @@ latitude: 47.92225
 longitude: 8.78707
 postcode: "78194"
 city: Immendingen
-street: "Hauptstraße"
-housenumber: 45
-phone: "+49 (0) 74 62/62 19"
-opening_hours: "Mo-Fr 08:00-12:30,14:30-18:30; We off; Sa 07:30-12:30"
+street: Hauptstraße
+housenumber: "45"
+phone: +49 (0) 74 62/62 19
+opening_hours: Mo-Fr 08:00-12:30,14:30-18:30; We off; Sa 07:30-12:30
 website: ""

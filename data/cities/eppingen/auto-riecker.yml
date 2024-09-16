@@ -1,11 +1,11 @@
 id: 104012201
-type: way
+type: node
 latitude: 49.17882
 longitude: 8.83388
 postcode: "75031"
 city: Eppingen
-street: "Sperbelgartenstraße"
-housenumber: 1
+street: Sperbelgartenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

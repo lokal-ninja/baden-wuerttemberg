@@ -4,8 +4,8 @@ latitude: 48.07419
 longitude: 8.63303
 postcode: "78647"
 city: Trossingen
-street: "Hauptstraße"
-housenumber: 61
+street: Hauptstraße
+housenumber: "61"
 phone: "+4974252071901"
-opening_hours: "Mo-Fr 09:30-12:30, 14:00-18:00; Sa 09:30-13:00"
-website: "http://www.goldhausle.de"
+opening_hours: Mo-Fr 09:30-12:30, 14:00-18:00; Sa 09:30-13:00
+website: http://www.goldhausle.de

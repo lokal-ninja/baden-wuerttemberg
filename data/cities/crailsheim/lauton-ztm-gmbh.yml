@@ -1,11 +1,11 @@
 id: 118978724
-type: way
+type: node
 latitude: 49.14111
 longitude: 10.03199
 postcode: "74564"
 city: Crailsheim
-street: "Hofwiesenstraße"
-housenumber: 40
+street: Hofwiesenstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 45736494
-type: way
+type: node
 latitude: 48.78648
 longitude: 8.99655
 postcode: "71229"
 city: Leonberg
-street: "Hertichstraße"
-housenumber: 61
+street: Hertichstraße
+housenumber: "61"
 phone: "+49715260060"
-opening_hours: "Mo-Fr 08:00-18:30, Sa 07:30-14:00"
-website: "https://www.schneider-eltingen.de/"
+opening_hours: Mo-Fr 08:00-18:30, Sa 07:30-14:00
+website: https://www.schneider-eltingen.de/

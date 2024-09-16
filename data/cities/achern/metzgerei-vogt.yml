@@ -4,8 +4,8 @@ latitude: 48.629
 longitude: 8.0722
 postcode: "77855"
 city: Achern
-street: "Hauptstraße"
-housenumber: 57
-phone: "+49 7841 26395"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:00-13:00; Su,PH off"
-website: "https://metzgervogt.de/"
+street: Hauptstraße
+housenumber: "57"
+phone: +49 7841 26395
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:00-13:00; Su,PH off
+website: https://metzgervogt.de/

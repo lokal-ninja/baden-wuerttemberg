@@ -1,11 +1,11 @@
 id: 88347804
-type: way
+type: node
 latitude: 49.15217
 longitude: 9.22169
 postcode: "74076"
 city: Heilbronn
-street: "Neckarsulmer Straße"
-housenumber: 21
+street: Neckarsulmer Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.derfaller.de/"
+website: https://www.derfaller.de/

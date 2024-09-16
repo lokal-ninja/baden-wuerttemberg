@@ -1,11 +1,11 @@
 id: 30329193
-type: way
+type: node
 latitude: 48.68325
 longitude: 8.99185
 postcode: "71034"
 city: Böblingen
-street: "Hanns-Klemm-Straße"
-housenumber: 13
+street: Hanns-Klemm-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:00-16:00
 website: ""

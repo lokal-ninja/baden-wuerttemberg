@@ -1,11 +1,11 @@
 id: 182720347
-type: way
+type: node
 latitude: 49.54426
 longitude: 8.65988
 postcode: "69469"
 city: Weinheim
-street: "Mierendorffstraße"
-housenumber: 20
+street: Mierendorffstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.40796
 longitude: 8.69219
 postcode: "69115"
 city: Heidelberg
-street: "Rohrbacher Straße"
-housenumber: 8
-phone: "+49 6221 619777"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.freenet-mobilfunk.de/shops/heidelberg-das-carre"
+street: Rohrbacher Straße
+housenumber: "8"
+phone: +49 6221 619777
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.freenet-mobilfunk.de/shops/heidelberg-das-carre

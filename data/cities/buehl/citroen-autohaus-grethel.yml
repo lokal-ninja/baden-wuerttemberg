@@ -4,8 +4,8 @@ latitude: 48.70212
 longitude: 8.13929
 postcode: "77815"
 city: Bühl
-street: "Hauptstraße"
-housenumber: 129
-phone: "+49 7223 98750"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-12:00"
-website: "https://www.autohaus-grethel.de/de/fahrzeugangebot/Citroen/all-models/page1?manufacturer=10"
+street: Hauptstraße
+housenumber: "129"
+phone: +49 7223 98750
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-12:00
+website: https://www.autohaus-grethel.de/de/fahrzeugangebot/Citroen/all-models/page1?manufacturer=10

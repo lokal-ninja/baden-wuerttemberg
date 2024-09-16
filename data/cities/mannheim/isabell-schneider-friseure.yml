@@ -5,7 +5,7 @@ longitude: 8.47002
 postcode: "68161"
 city: Mannheim
 street: ""
-housenumber: 6
-phone: "+49 621 40180912"
-opening_hours: "Tu-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 9:00-15:00; Su-Mo off"
+housenumber: "6"
+phone: +49 621 40180912
+opening_hours: Tu-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 9:00-15:00; Su-Mo off
 website: ""

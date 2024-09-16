@@ -4,8 +4,8 @@ latitude: 48.49605
 longitude: 9.21078
 postcode: "72764"
 city: Reutlingen
-street: "Kaiserstraße"
-housenumber: 2
-phone: "+49 7121 338880"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
+street: Kaiserstraße
+housenumber: "2"
+phone: +49 7121 338880
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
 website: ""

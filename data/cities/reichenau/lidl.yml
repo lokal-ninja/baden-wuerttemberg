@@ -1,11 +1,11 @@
 id: 507713404
-type: way
+type: node
 latitude: 47.68839
 longitude: 9.12395
 postcode: "78479"
 city: Reichenau
-street: "Am Wollmatinger Ried"
-housenumber: 2
+street: Am Wollmatinger Ried
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/reichenau/am-wollmatinger-ried-2.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/reichenau/am-wollmatinger-ried-2.html

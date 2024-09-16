@@ -1,11 +1,11 @@
 id: 146816483
-type: way
+type: node
 latitude: 48.29138
 longitude: 9.80305
 postcode: "89614"
 city: Öpfingen
-street: "Oberdischinger Straße"
-housenumber: 36
+street: Oberdischinger Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

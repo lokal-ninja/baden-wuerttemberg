@@ -1,11 +1,11 @@
 id: 123231064
-type: way
+type: node
 latitude: 48.999
 longitude: 8.34816
 postcode: "76189"
 city: Karlsruhe
-street: "Durmersheimer Straße"
-housenumber: 128
+street: Durmersheimer Straße
+housenumber: "128"
 phone: "+49721571081"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://content.gebrueder-ziegler.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: http://content.gebrueder-ziegler.de/

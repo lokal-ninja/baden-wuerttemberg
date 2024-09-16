@@ -4,8 +4,8 @@ latitude: 48.77554
 longitude: 9.18117
 postcode: "70173"
 city: Stuttgart
-street: "Else-Josenhans-Straße"
-housenumber: 6
+street: Else-Josenhans-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.hugendubel.de"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.hugendubel.de

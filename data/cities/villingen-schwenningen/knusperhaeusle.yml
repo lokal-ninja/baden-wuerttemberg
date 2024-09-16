@@ -1,11 +1,11 @@
 id: 219670706
-type: way
+type: node
 latitude: 48.0599
 longitude: 8.5197
 postcode: "78054"
 city: Villingen-Schwenningen
-street: "Mühlweg"
-housenumber: 100
+street: Mühlweg
+housenumber: "100"
 phone: ""
-opening_hours: "Su, PH off; Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Su, PH off; Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

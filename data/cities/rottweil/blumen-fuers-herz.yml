@@ -4,8 +4,8 @@ latitude: 48.1494
 longitude: 8.64005
 postcode: "78628"
 city: Rottweil
-street: "Saline"
-housenumber: 5
-phone: "+49 741 1755686"
-opening_hours: "Mo-Fr 08:30-18:30, Sa 08:00-16:00"
-website: "http://www.beriwa.de"
+street: Saline
+housenumber: "5"
+phone: +49 741 1755686
+opening_hours: Mo-Fr 08:30-18:30, Sa 08:00-16:00
+website: http://www.beriwa.de

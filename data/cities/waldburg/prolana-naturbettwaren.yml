@@ -4,8 +4,8 @@ latitude: 47.74992
 longitude: 9.74149
 postcode: "88289"
 city: Waldburg
-street: "Am Langholz"
-housenumber: 3
-phone: "+49 7529 97210"
-opening_hours: "Sa 10:00-14:00; Mo-We,Fr 10:00-13:00,14:00-18:00; Th 14:00-18:00"
-website: "http://www.prolana.de"
+street: Am Langholz
+housenumber: "3"
+phone: +49 7529 97210
+opening_hours: Sa 10:00-14:00; Mo-We,Fr 10:00-13:00,14:00-18:00; Th 14:00-18:00
+website: http://www.prolana.de

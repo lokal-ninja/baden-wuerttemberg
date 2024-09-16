@@ -4,8 +4,8 @@ latitude: 49.40805
 longitude: 8.65276
 postcode: "69123"
 city: Heidelberg
-street: "Henkel-Teroson-Straße"
-housenumber: 24
+street: Henkel-Teroson-Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.moemax.de/filiale/moemax-heidelberg/H3"
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.moemax.de/filiale/moemax-heidelberg/H3

@@ -4,8 +4,8 @@ latitude: 47.84092
 longitude: 7.70816
 postcode: "79295"
 city: Sulzburg
-street: "Hauptstraße"
-housenumber: 57
-phone: "+49 7634 507361"
-opening_hours: "Mo 14:00-18:00; Mi 09:00-13:00 14:00-18:00"
-website: "https://brillenfabrik.de"
+street: Hauptstraße
+housenumber: "57"
+phone: +49 7634 507361
+opening_hours: Mo 14:00-18:00; Mi 09:00-13:00 14:00-18:00
+website: https://brillenfabrik.de

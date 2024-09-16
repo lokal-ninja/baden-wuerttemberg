@@ -1,11 +1,11 @@
 id: 195199915
-type: way
+type: node
 latitude: 48.64433
 longitude: 9.44966
 postcode: "73230"
 city: Kirchheim unter Teck
-street: "Ziegelstraße"
-housenumber: 22
+street: Ziegelstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

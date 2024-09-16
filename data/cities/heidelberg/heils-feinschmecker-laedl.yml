@@ -4,8 +4,8 @@ latitude: 49.40589
 longitude: 8.69068
 postcode: "69115"
 city: Heidelberg
-street: "Bahnhofstraße"
-housenumber: 15
+street: Bahnhofstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Th 10:00-13:00, 16:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.heils-feinkost-heidelberg.de"
+opening_hours: Mo-Th 10:00-13:00, 16:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.heils-feinkost-heidelberg.de

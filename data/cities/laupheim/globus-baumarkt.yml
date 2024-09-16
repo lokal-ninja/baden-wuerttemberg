@@ -1,11 +1,11 @@
 id: 50383796
-type: way
+type: node
 latitude: 48.24152
 longitude: 9.86589
 postcode: "88471"
 city: Laupheim
-street: "Neue Welt"
-housenumber: 24
+street: Neue Welt
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.globus-baumarkt.de"
+website: https://www.globus-baumarkt.de

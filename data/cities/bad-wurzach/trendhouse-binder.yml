@@ -1,11 +1,11 @@
 id: 199304297
-type: way
+type: node
 latitude: 47.90824
 longitude: 9.89483
 postcode: "88410"
 city: Bad Wurzach
-street: "Herrenstraße"
-housenumber: 1
-phone: "+49 7564 2810"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-16:00; Ph off"
-website: "https://www.modehaus-binder.de"
+street: Herrenstraße
+housenumber: "1"
+phone: +49 7564 2810
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-16:00; Ph off
+website: https://www.modehaus-binder.de

@@ -1,11 +1,11 @@
 id: 169138556
-type: way
+type: node
 latitude: 49.36724
 longitude: 8.57656
 postcode: "68723"
 city: Oftersheim
-street: "Eichendorffstraße"
-housenumber: 44
-phone: "+49 6202 1267300"
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-embach-eichendorffstra%C3%9Fe-44/index.jsp"
+street: Eichendorffstraße
+housenumber: "44"
+phone: +49 6202 1267300
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-embach-eichendorffstra%C3%9Fe-44/index.jsp

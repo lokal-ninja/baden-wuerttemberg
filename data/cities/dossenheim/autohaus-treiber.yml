@@ -1,11 +1,11 @@
 id: 232702801
-type: way
+type: node
 latitude: 49.44458
 longitude: 8.67654
 postcode: "69221"
 city: Dossenheim
-street: "Friedrichstraße"
-housenumber: 93
-phone: "+49 6221 866542"
+street: Friedrichstraße
+housenumber: "93"
+phone: +49 6221 866542
 opening_hours: ""
-website: "http://www.sanitrbauer.de"
+website: http://www.sanitrbauer.de

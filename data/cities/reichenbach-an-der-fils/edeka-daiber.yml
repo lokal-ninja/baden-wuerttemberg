@@ -1,11 +1,11 @@
 id: 183561420
-type: way
+type: node
 latitude: 48.70846
 longitude: 9.46448
 postcode: "73262"
 city: Reichenbach an der Fils
-street: "Olgastraße"
-housenumber: 18
-phone: "+49(0)7153/5 56 44"
+street: Olgastraße
+housenumber: "18"
+phone: +49(0)7153/5 56 44
 opening_hours: ""
 website: ""

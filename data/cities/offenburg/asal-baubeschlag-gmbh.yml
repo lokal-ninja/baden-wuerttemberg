@@ -1,11 +1,11 @@
 id: 90548057
-type: way
+type: node
 latitude: 48.47958
 longitude: 7.92631
 postcode: "77656"
 city: Offenburg
-street: "Im Drachenacker"
-housenumber: 1
-phone: "+49 781 50700"
+street: Im Drachenacker
+housenumber: "1"
+phone: +49 781 50700
 opening_hours: ""
-website: "https://www.asal-baubeschlag.de/"
+website: https://www.asal-baubeschlag.de/

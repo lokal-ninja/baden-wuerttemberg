@@ -1,11 +1,11 @@
 id: 320411620
-type: way
+type: node
 latitude: 47.59507
 longitude: 9.54359
 postcode: "88085"
 city: Langenargen
-street: "Obere Seestraße"
-housenumber: 36
+street: Obere Seestraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

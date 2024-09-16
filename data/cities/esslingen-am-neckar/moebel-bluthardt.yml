@@ -1,11 +1,11 @@
 id: 111757761
-type: way
+type: node
 latitude: 48.71957
 longitude: 9.31009
 postcode: "73734"
 city: Esslingen am Neckar
-street: "Kastellstraße"
-housenumber: 5
+street: Kastellstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

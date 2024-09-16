@@ -4,8 +4,8 @@ latitude: 48.74672
 longitude: 9.16543
 postcode: "70597"
 city: Stuttgart
-street: "Albstraße"
-housenumber: 16
+street: Albstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Tu-Fr 14:00-18:00; Sa 10:00-13:00"
-website: "http://www.bilder-rahmen-stuttgart.de/"
+opening_hours: Tu-Fr 14:00-18:00; Sa 10:00-13:00
+website: http://www.bilder-rahmen-stuttgart.de/

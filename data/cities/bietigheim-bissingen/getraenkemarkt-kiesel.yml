@@ -1,11 +1,11 @@
 id: 117102363
-type: way
+type: node
 latitude: 48.94415
 longitude: 9.10244
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Kantstraße"
-housenumber: 2
+street: Kantstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-15:00"
-website: "http://www.getraenkemarkt-kiesel.de"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-15:00
+website: http://www.getraenkemarkt-kiesel.de

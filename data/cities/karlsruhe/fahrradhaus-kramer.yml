@@ -4,8 +4,8 @@ latitude: 49.01105
 longitude: 8.35603
 postcode: "76185"
 city: Karlsruhe
-street: "Hardtstraße"
-housenumber: 9
-phone: "+49 721 594371"
-opening_hours: "Mo-Sa 08:00-13:00, Mo,Tu,Th,Fr 14:30-18:30; PH off"
-website: "http://www.fahrradhaus-kramer.de/"
+street: Hardtstraße
+housenumber: "9"
+phone: +49 721 594371
+opening_hours: Mo-Sa 08:00-13:00, Mo,Tu,Th,Fr 14:30-18:30; PH off
+website: http://www.fahrradhaus-kramer.de/

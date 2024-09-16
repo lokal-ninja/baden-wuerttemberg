@@ -1,11 +1,11 @@
 id: 186573165
-type: way
+type: node
 latitude: 48.61183
 longitude: 9.80909
 postcode: "73312"
 city: Geislingen an der Steige
-street: "Neuwiesenstraße"
-housenumber: 31
-phone: "+497331 7151510"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
-website: "https://www.obi.de/de/maerkte/Geislingen/index.html"
+street: Neuwiesenstraße
+housenumber: "31"
+phone: +497331 7151510
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
+website: https://www.obi.de/de/maerkte/Geislingen/index.html

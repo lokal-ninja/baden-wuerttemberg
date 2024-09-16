@@ -1,11 +1,11 @@
 id: 226926878
-type: way
+type: node
 latitude: 47.82909
 longitude: 7.94647
 postcode: "79674"
 city: Todtnau
-street: "Schönauer Straße"
-housenumber: 8
+street: Schönauer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa,Su off"
+opening_hours: Mo-Fr 11:00-18:00; Sa,Su off
 website: ""

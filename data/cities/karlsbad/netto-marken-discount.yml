@@ -4,8 +4,8 @@ latitude: 48.90073
 longitude: 8.47659
 postcode: "76307"
 city: Karlsbad
-street: "Enzstraße"
-housenumber: 43
+street: Enzstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

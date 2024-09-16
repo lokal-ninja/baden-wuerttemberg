@@ -1,11 +1,11 @@
 id: 936313770
-type: way
+type: node
 latitude: 47.89779
 longitude: 9.86858
 postcode: "88410"
 city: Bad Wurzach
-street: "Zeppelinstraße"
+street: Zeppelinstraße
 housenumber: 9/2
-phone: "+49 7564 9479162"
-opening_hours: "Mo 13:00-18:00; Tu-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00; Ph off"
-website: "https://www.bossmann-automobile.de"
+phone: +49 7564 9479162
+opening_hours: Mo 13:00-18:00; Tu-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00; Ph off
+website: https://www.bossmann-automobile.de

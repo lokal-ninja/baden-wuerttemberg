@@ -4,8 +4,8 @@ latitude: 48.39921
 longitude: 9.98505
 postcode: "89073"
 city: Ulm
-street: "Bahnhofstraße"
-housenumber: 20
-phone: "+49 731 96919830"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: Bahnhofstraße
+housenumber: "20"
+phone: +49 731 96919830
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

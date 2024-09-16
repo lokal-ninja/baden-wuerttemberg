@@ -1,11 +1,11 @@
 id: 195227747
-type: way
+type: node
 latitude: 48.19465
 longitude: 7.77257
 postcode: ""
 city: Kenzingen
-street: "Offenburger Straße"
-housenumber: 14
+street: Offenburger Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

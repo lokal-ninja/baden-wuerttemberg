@@ -1,11 +1,11 @@
 id: 120126663
-type: way
+type: node
 latitude: 47.93687
 longitude: 8.49955
 postcode: "78166"
 city: Donaueschingen
-street: "Bregstraße"
-housenumber: 28
-phone: "+49 771 929162 0"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.bauhaus.info/fachcentren/fachcentrensuche/fachcentrum-donaueschingen/fc/662"
+street: Bregstraße
+housenumber: "28"
+phone: +49 771 929162 0
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.bauhaus.info/fachcentren/fachcentrensuche/fachcentrum-donaueschingen/fc/662

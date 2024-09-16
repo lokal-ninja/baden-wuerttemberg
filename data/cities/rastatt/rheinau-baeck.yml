@@ -1,11 +1,11 @@
 id: 303533443
-type: way
+type: node
 latitude: 48.88422
 longitude: 8.15832
 postcode: "76437"
 city: Rastatt
-street: "Rödereckring"
-housenumber: 2
-phone: "+49 7222 68355"
+street: Rödereckring
+housenumber: "2"
+phone: +49 7222 68355
 opening_hours: ""
 website: ""

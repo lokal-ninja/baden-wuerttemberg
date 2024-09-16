@@ -1,11 +1,11 @@
 id: 96127761
-type: way
+type: node
 latitude: 48.77344
 longitude: 8.17307
 postcode: "76547"
 city: Sinzheim
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 16a
-phone: "+49 7221 996470"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/baumarkt/sinzheim"
+phone: +49 7221 996470
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/baumarkt/sinzheim

@@ -4,8 +4,8 @@ latitude: 49.10395
 longitude: 9.19955
 postcode: "74223"
 city: Flein
-street: "Horkheimer Straße"
-housenumber: 57
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.lidl.de/"
+street: Horkheimer Straße
+housenumber: "57"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.lidl.de/

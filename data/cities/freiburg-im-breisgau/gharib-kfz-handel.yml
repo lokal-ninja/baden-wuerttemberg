@@ -1,11 +1,11 @@
 id: 760490058
-type: way
+type: node
 latitude: 47.98253
 longitude: 7.80134
 postcode: "79111"
 city: Freiburg im Breisgau
-street: "Basler Landstraße"
-housenumber: 48
-phone: "+49 761 482800"
+street: Basler Landstraße
+housenumber: "48"
+phone: +49 761 482800
 opening_hours: ""
 website: ""

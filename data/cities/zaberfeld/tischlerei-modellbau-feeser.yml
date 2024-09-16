@@ -1,11 +1,11 @@
 id: 358552794
-type: way
+type: node
 latitude: 49.06392
 longitude: 8.93108
 postcode: "74374"
 city: Zaberfeld
-street: "Schindelberg"
-housenumber: 4
+street: Schindelberg
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.tischlerei-modellbau.de/"
+website: http://www.tischlerei-modellbau.de/

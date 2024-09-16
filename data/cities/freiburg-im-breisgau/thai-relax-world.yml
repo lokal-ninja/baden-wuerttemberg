@@ -4,8 +4,8 @@ latitude: 48.01141
 longitude: 7.81068
 postcode: "79110"
 city: Freiburg im Breisgau
-street: "Sundgauallee"
-housenumber: 112
-phone: "+49 761 8975354"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 10:00-19:00; Su,PH off"
-website: "http://www.thai-relax-world.de"
+street: Sundgauallee
+housenumber: "112"
+phone: +49 761 8975354
+opening_hours: Mo-Fr 10:00-20:30; Sa 10:00-19:00; Su,PH off
+website: http://www.thai-relax-world.de

@@ -1,11 +1,11 @@
 id: 197447438
-type: way
+type: node
 latitude: 47.70801
 longitude: 9.51812
 postcode: "88048"
 city: Friedrichshafen
-street: "Ettenkircher Straße"
-housenumber: 31
+street: Ettenkircher Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

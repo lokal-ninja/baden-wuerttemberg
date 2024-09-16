@@ -1,11 +1,11 @@
 id: 298866374
-type: way
+type: node
 latitude: 49.52582
 longitude: 8.56261
 postcode: "68519"
 city: Viernheim
-street: "Robert-Schuman-Straße"
+street: Robert-Schuman-Straße
 housenumber: 8a
-phone: "+49 6204 7084567"
-opening_hours: "Mo-Su 10:00-20:00"
+phone: +49 6204 7084567
+opening_hours: Mo-Su 10:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.80652
 longitude: 9.22449
 postcode: "70372"
 city: Stuttgart
-street: "Taubenheimstraße"
+street: Taubenheimstraße
 housenumber: 14 A
 phone: ""
-opening_hours: "Nur Telefonisch"
-website: "http://www.kathrea.de"
+opening_hours: '"Nur Telefonisch"'
+website: http://www.kathrea.de

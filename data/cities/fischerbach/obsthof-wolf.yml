@@ -1,11 +1,11 @@
 id: 310622854
-type: way
+type: node
 latitude: 48.28764
 longitude: 8.1124
 postcode: "77716"
 city: Fischerbach
-street: "Hauptstraße"
-housenumber: 28
+street: Hauptstraße
+housenumber: "28"
 phone: "+4978328414"
 opening_hours: ""
-website: "http://www.wolf-fischerbach.de"
+website: http://www.wolf-fischerbach.de

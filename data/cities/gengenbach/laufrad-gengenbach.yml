@@ -1,11 +1,11 @@
 id: 248142596
-type: way
+type: node
 latitude: 48.40025
 longitude: 8.01422
 postcode: "77723"
 city: Gengenbach
-street: "Berghauptener Straße"
-housenumber: 7
+street: Berghauptener Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.laufradgengenbach.de/"
+website: https://www.laufradgengenbach.de/

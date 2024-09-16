@@ -1,11 +1,11 @@
 id: 192218084
-type: way
+type: node
 latitude: 48.2066
 longitude: 8.23245
 postcode: "78132"
 city: Hornberg
-street: "Frombachstraße"
-housenumber: 1
+street: Frombachstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

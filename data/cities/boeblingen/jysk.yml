@@ -1,11 +1,11 @@
 id: 30328871
-type: way
+type: node
 latitude: 48.68285
 longitude: 8.98749
 postcode: "71034"
 city: Böblingen
-street: "Heinkelstraße"
-housenumber: 10
-phone: "+49 7031 7344580"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-18:00"
-website: "https://jysk.de/stores-locator?storeId=1610"
+street: Heinkelstraße
+housenumber: "10"
+phone: +49 7031 7344580
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-18:00
+website: https://jysk.de/stores-locator?storeId=1610

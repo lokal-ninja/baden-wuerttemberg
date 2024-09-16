@@ -1,11 +1,11 @@
 id: 436024485
-type: way
+type: node
 latitude: 48.82164
 longitude: 9.29575
 postcode: "71332"
 city: Waiblingen
-street: "Stuttgarter Straße"
-housenumber: 133
+street: Stuttgarter Straße
+housenumber: "133"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-19:00
 website: ""

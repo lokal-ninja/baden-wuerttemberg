@@ -4,8 +4,9 @@ latitude: 48.53828
 longitude: 9.05709
 postcode: "72076"
 city: Tübingen
-street: "Paul-Ehrlich-Straße"
-housenumber: 30
-phone: "+49 7071 6883672"
-opening_hours: "Tu-We, Fr 08:00-12:00,13:00-18:00; Th 08:00-12:00,13:00-19:00; Sa 09:00-14:00; Su, Mo, PH off"
-website: "http://www.bettina-mueller-hair.de"
+street: Paul-Ehrlich-Straße
+housenumber: "30"
+phone: +49 7071 6883672
+opening_hours: Tu-We, Fr 08:00-12:00,13:00-18:00; Th 08:00-12:00,13:00-19:00; Sa 09:00-14:00;
+    Su, Mo, PH off
+website: http://www.bettina-mueller-hair.de

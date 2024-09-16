@@ -4,8 +4,8 @@ latitude: 48.69529
 longitude: 8.13711
 postcode: "77815"
 city: Bühl
-street: "Schwanenstraße"
-housenumber: 8
-phone: "+49 7223 94680"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-16:00"
-website: "https://www.bessey-flammer.de/"
+street: Schwanenstraße
+housenumber: "8"
+phone: +49 7223 94680
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-16:00
+website: https://www.bessey-flammer.de/

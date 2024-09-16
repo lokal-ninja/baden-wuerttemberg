@@ -1,11 +1,11 @@
 id: 47733812
-type: way
+type: node
 latitude: 49.1179
 longitude: 9.17358
 postcode: "74081"
 city: Heilbronn
-street: "Amsterdamer Straße"
-housenumber: 15
+street: Amsterdamer Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

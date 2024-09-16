@@ -1,11 +1,11 @@
 id: 191065808
-type: way
+type: node
 latitude: 49.13231
 longitude: 8.4289
 postcode: "76351"
 city: Linkenheim-Hochstetten
-street: "Waldstraße"
-housenumber: 44
+street: Waldstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.ratzel.bmw/"
+website: https://www.ratzel.bmw/

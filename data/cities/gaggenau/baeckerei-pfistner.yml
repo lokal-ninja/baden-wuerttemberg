@@ -4,8 +4,8 @@ latitude: 48.79241
 longitude: 8.33634
 postcode: "76571"
 city: Gaggenau
-street: "Hauptstraße"
-housenumber: 209
-phone: "+49 7225 72602"
-opening_hours: "Tu-Fr 05:30-12:30,14:30-18:00; Sa 05:30-12:00"
-website: "http://www.baeckerei-pfistner.de"
+street: Hauptstraße
+housenumber: "209"
+phone: +49 7225 72602
+opening_hours: Tu-Fr 05:30-12:30,14:30-18:00; Sa 05:30-12:00
+website: http://www.baeckerei-pfistner.de

@@ -1,11 +1,11 @@
 id: 393211320
-type: way
+type: node
 latitude: 48.87575
 longitude: 9.39899
 postcode: "71364"
 city: Winnenden
-street: "Schloßstraße"
-housenumber: 5
-phone: "+49 7195 9083094"
+street: Schloßstraße
+housenumber: "5"
+phone: +49 7195 9083094
 opening_hours: ""
 website: ""

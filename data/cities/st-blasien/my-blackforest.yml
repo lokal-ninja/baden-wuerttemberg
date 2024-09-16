@@ -1,11 +1,11 @@
 id: 277545276
-type: way
+type: node
 latitude: 47.75894
 longitude: 8.1372
 postcode: "79837"
 city: St. Blasien
-street: "Albtalstraße"
-housenumber: 20
+street: Albtalstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.my-blackforest.shop"
+website: https://www.my-blackforest.shop

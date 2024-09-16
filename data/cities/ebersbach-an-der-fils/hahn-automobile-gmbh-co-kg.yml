@@ -1,11 +1,11 @@
 id: 224007575
-type: way
+type: node
 latitude: 48.71706
 longitude: 9.53691
 postcode: "73061"
 city: Ebersbach an der Fils
-street: "Fabrikstraße"
-housenumber: 3
+street: Fabrikstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

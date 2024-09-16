@@ -4,8 +4,8 @@ latitude: 49.41108
 longitude: 8.70572
 postcode: "69117"
 city: Heidelberg
-street: "Grabengasse"
-housenumber: 8
-phone: "+49 6221 25166"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-15:00; PH off"
+street: Grabengasse
+housenumber: "8"
+phone: +49 6221 25166
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-15:00; PH off
 website: ""

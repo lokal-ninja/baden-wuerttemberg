@@ -1,11 +1,11 @@
 id: 277916293
-type: way
+type: node
 latitude: 48.2524
 longitude: 8.96632
 postcode: "72459"
 city: Albstadt
-street: "Theodor-Heuss-Straße"
-housenumber: 24
+street: Theodor-Heuss-Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

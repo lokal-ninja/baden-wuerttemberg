@@ -1,11 +1,11 @@
 id: 107545228
-type: way
+type: node
 latitude: 49.47817
 longitude: 8.45495
 postcode: "67061"
 city: Ludwigshafen am Rhein
-street: "Yorckstraße"
-housenumber: 2
+street: Yorckstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "www.walzmuehle.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: www.walzmuehle.de/

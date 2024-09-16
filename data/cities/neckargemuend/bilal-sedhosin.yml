@@ -4,8 +4,8 @@ latitude: 49.39301
 longitude: 8.78281
 postcode: "69151"
 city: Neckargemünd
-street: "Bahnhofstraße"
-housenumber: 49
+street: Bahnhofstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.sedhosin.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.sedhosin.de/

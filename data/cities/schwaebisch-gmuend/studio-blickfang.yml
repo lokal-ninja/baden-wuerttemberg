@@ -4,8 +4,8 @@ latitude: 48.79982
 longitude: 9.79471
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Badmauer"
-housenumber: 6
-phone: "+49 176 82181845"
-opening_hours: "Nach Vereinbarung"
-website: "https://blickfang-schwaebischgmuend.jimdo.com"
+street: Badmauer
+housenumber: "6"
+phone: +49 176 82181845
+opening_hours: '"Nach Vereinbarung"'
+website: https://blickfang-schwaebischgmuend.jimdo.com

@@ -1,11 +1,11 @@
 id: 159052995
-type: way
+type: node
 latitude: 49.49534
 longitude: 8.45515
 postcode: "68159"
 city: Mannheim
-street: "Verbindungskanal, linkes Ufer"
-housenumber: 24
+street: Verbindungskanal, linkes Ufer
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.pfeiffer-may.de/"
+website: https://www.pfeiffer-may.de/

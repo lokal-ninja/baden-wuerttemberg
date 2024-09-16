@@ -4,8 +4,8 @@ latitude: 49.40581
 longitude: 8.69011
 postcode: "69115"
 city: Heidelberg
-street: "Bahnhofstraße"
-housenumber: 19
-phone: "+49 6221 24572"
-opening_hours: "Tu-Fr 12:00-18:30, Sa 11:00-15:00"
+street: Bahnhofstraße
+housenumber: "19"
+phone: +49 6221 24572
+opening_hours: Tu-Fr 12:00-18:30, Sa 11:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 124976962
-type: way
+type: node
 latitude: 48.90069
 longitude: 9.29047
 postcode: "71686"
 city: Remseck am Neckar
-street: "Metzgerwiesen"
-housenumber: 10
-phone: "+49 7146 5956"
+street: Metzgerwiesen
+housenumber: "10"
+phone: +49 7146 5956
 opening_hours: ""
-website: "https://comfort-polster.de/"
+website: https://comfort-polster.de/

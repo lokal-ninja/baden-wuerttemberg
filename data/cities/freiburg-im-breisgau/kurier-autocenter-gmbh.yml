@@ -1,11 +1,11 @@
 id: 92796186
-type: way
+type: node
 latitude: 48.02615
 longitude: 7.85617
 postcode: "79108"
 city: Freiburg im Breisgau
-street: "Zinkmattenstraße"
+street: Zinkmattenstraße
 housenumber: 8b
-phone: "+49 761 809666"
+phone: +49 761 809666
 opening_hours: ""
-website: "http://kurierautocenter.de/"
+website: http://kurierautocenter.de/

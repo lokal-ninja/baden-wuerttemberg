@@ -4,8 +4,8 @@ latitude: 47.76684
 longitude: 9.15975
 postcode: "88662"
 city: Überlingen
-street: "Münsterstraße"
-housenumber: 8
-phone: "+49 7551 938210"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.osiander.de/buchhandlungen/ueberlingen.cfm"
+street: Münsterstraße
+housenumber: "8"
+phone: +49 7551 938210
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.osiander.de/buchhandlungen/ueberlingen.cfm

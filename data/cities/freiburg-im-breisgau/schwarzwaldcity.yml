@@ -1,11 +1,11 @@
 id: 285561974
-type: way
+type: node
 latitude: 47.99744
 longitude: 7.84979
 postcode: "79098"
 city: Freiburg im Breisgau
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.schwarzwald-city.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.schwarzwald-city.de/

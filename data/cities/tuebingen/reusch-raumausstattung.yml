@@ -4,8 +4,8 @@ latitude: 48.49612
 longitude: 9.05762
 postcode: "72072"
 city: Tübingen
-street: "Unter dem Holz"
-housenumber: 27
+street: Unter dem Holz
+housenumber: "27"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

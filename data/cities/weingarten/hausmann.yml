@@ -4,8 +4,8 @@ latitude: 47.80173
 longitude: 9.63041
 postcode: "88250"
 city: Weingarten
-street: "Hoyerstraße"
-housenumber: 10
-phone: "+49 751 5573523"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su,PH 07:30-17:00"
-website: "https://www.baeckerei-hausmann.de"
+street: Hoyerstraße
+housenumber: "10"
+phone: +49 751 5573523
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su,PH 07:30-17:00
+website: https://www.baeckerei-hausmann.de

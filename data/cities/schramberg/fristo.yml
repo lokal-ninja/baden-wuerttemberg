@@ -1,11 +1,11 @@
 id: 104533600
-type: way
+type: node
 latitude: 48.23547
 longitude: 8.37831
 postcode: "78713"
 city: Schramberg
-street: "Schiltachstraße"
-housenumber: 70
+street: Schiltachstraße
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "https://www.fristo.de/markt/schramberg-am-hammergraben-31/"
+website: https://www.fristo.de/markt/schramberg-am-hammergraben-31/

@@ -1,11 +1,11 @@
 id: 488893945
-type: way
+type: node
 latitude: 48.63763
 longitude: 9.48387
 postcode: "73230"
 city: Kirchheim unter Teck
-street: "Brunnenstraße"
-housenumber: 24
+street: Brunnenstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 09:00-12:00"
+opening_hours: Mo-Fr 07:30-17:30; Sa 09:00-12:00
 website: ""

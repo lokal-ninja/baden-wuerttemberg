@@ -1,11 +1,11 @@
 id: 429341251
-type: way
+type: node
 latitude: 49.49644
 longitude: 9.7647
 postcode: "97980"
 city: Bad Mergentheim
-street: "Daimlerstraße"
-housenumber: 13
+street: Daimlerstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

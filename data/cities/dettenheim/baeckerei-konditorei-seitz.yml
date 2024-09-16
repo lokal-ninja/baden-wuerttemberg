@@ -1,11 +1,11 @@
 id: 281840939
-type: way
+type: node
 latitude: 49.161
 longitude: 8.41719
 postcode: "76706"
 city: Dettenheim
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

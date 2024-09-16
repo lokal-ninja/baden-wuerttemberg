@@ -1,11 +1,11 @@
 id: 211226147
-type: way
+type: node
 latitude: 48.85496
 longitude: 9.29381
 postcode: "71334"
 city: Waiblingen
-street: "Oeffinger Straße"
-housenumber: 1
+street: Oeffinger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

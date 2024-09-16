@@ -4,8 +4,8 @@ latitude: 49.19138
 longitude: 9.22539
 postcode: "74172"
 city: Neckarsulm
-street: "Rathausstraße"
-housenumber: 4
+street: Rathausstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.buchhandlung.de/karte/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.buchhandlung.de/karte/

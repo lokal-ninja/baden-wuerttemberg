@@ -4,8 +4,8 @@ latitude: 48.05795
 longitude: 8.46184
 postcode: "78050"
 city: Villingen-Schwenningen
-street: "Gerberstraße"
-housenumber: 29
-phone: "+49 7721 2062800"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00 || und nach Vereinbarung"
+street: Gerberstraße
+housenumber: "29"
+phone: +49 7721 2062800
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00 || "und nach Vereinbarung"
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.91485
 longitude: 9.21127
 postcode: "71642"
 city: Ludwigsburg
-street: "Untere Gasse"
-housenumber: 29
+street: Untere Gasse
+housenumber: "29"
 phone: ""
-opening_hours: "24/7"
-website: "http://www.kultur-althoheneck.de"
+opening_hours: 24/7
+website: http://www.kultur-althoheneck.de

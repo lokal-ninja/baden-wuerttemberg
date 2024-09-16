@@ -1,11 +1,11 @@
 id: 111281761
-type: way
+type: node
 latitude: 48.07024
 longitude: 7.88676
 postcode: "79211"
 city: Denzlingen
-street: "Raiffeisenplatz"
-housenumber: 1
-phone: "+49 7666 1822"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+street: Raiffeisenplatz
+housenumber: "1"
+phone: +49 7666 1822
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

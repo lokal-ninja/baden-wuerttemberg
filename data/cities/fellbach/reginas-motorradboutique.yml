@@ -1,11 +1,11 @@
 id: 372840665
-type: way
+type: node
 latitude: 48.81301
 longitude: 9.26715
 postcode: "70736"
 city: Fellbach
-street: "Stuttgarter Straße"
-housenumber: 68
-phone: "+49 711 54898258"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-19:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.motorradboutique.de/"
+street: Stuttgarter Straße
+housenumber: "68"
+phone: +49 711 54898258
+opening_hours: Mo-Fr 10:00-13:00,14:00-19:00; Sa 09:00-16:00; Su,PH off
+website: https://www.motorradboutique.de/

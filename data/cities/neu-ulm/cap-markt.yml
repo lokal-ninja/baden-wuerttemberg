@@ -4,8 +4,8 @@ latitude: 48.39447
 longitude: 9.99688
 postcode: "89231"
 city: Neu-Ulm
-street: "Krankenhausstraße"
-housenumber: 1
+street: Krankenhausstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.cap-markt.de"
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.cap-markt.de

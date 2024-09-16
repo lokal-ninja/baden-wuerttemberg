@@ -4,8 +4,8 @@ latitude: 48.8074
 longitude: 9.15912
 postcode: "70469"
 city: Stuttgart
-street: "Mühlstraße"
-housenumber: 9
+street: Mühlstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 08:30-13:30"
-website: "https://www.getraenke-streng.de/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 08:30-13:30
+website: https://www.getraenke-streng.de/

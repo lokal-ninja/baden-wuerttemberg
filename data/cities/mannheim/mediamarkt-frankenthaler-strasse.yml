@@ -1,11 +1,11 @@
 id: 75408689
-type: way
+type: node
 latitude: 49.5585
 longitude: 8.4438
 postcode: "68307"
 city: Mannheim
-street: "Frankenthaler Straße"
-housenumber: 129
+street: Frankenthaler Straße
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: "https://www.mediamarkt.de/de/store/mannheim-sandhofen-591"
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: https://www.mediamarkt.de/de/store/mannheim-sandhofen-591

@@ -4,8 +4,8 @@ latitude: 47.80822
 longitude: 9.64199
 postcode: "88250"
 city: Weingarten
-street: "Kirchstraße"
-housenumber: 10
-phone: "+49 751 58474"
-opening_hours: "Mo-Fr 08:00-13:00, 14:30-18:00; We 08:00-13:00; Sa 08:00-13:00"
-website: "https://kaseecke-am-munsterplatz.business.site/"
+street: Kirchstraße
+housenumber: "10"
+phone: +49 751 58474
+opening_hours: Mo-Fr 08:00-13:00, 14:30-18:00; We 08:00-13:00; Sa 08:00-13:00
+website: https://kaseecke-am-munsterplatz.business.site/

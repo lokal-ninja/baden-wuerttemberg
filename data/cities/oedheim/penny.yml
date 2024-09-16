@@ -1,11 +1,11 @@
 id: 37107658
-type: way
+type: node
 latitude: 49.24564
 longitude: 9.24494
 postcode: "74229"
 city: Oedheim
-street: "Tannenstraße"
-housenumber: 2
+street: Tannenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 427684683
-type: way
+type: node
 latitude: 49.12059
 longitude: 8.58489
 postcode: "76646"
 city: Bruchsal
-street: "Eisenbahnstraße"
-housenumber: 15
+street: Eisenbahnstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

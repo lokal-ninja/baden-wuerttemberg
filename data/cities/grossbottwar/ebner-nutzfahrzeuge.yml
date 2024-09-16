@@ -1,11 +1,11 @@
 id: 126111930
-type: way
+type: node
 latitude: 48.99661
 longitude: 9.28913
 postcode: "71723"
 city: Großbottwar
-street: "Kleinbottwarer Straße"
-housenumber: 40
+street: Kleinbottwarer Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

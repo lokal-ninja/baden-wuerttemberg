@@ -1,11 +1,11 @@
 id: 293597101
-type: way
+type: node
 latitude: 47.82003
 longitude: 8.34369
 postcode: "79848"
 city: Bonndorf im Schwarzwald
-street: "Brunnenstraße"
-housenumber: 2
-phone: "+49- 7703-269"
+street: Brunnenstraße
+housenumber: "2"
+phone: +49- 7703-269
 opening_hours: ""
 website: ""

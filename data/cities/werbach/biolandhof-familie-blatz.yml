@@ -1,11 +1,11 @@
 id: 1019946154
-type: way
+type: node
 latitude: 49.6837
 longitude: 9.68042
 postcode: "97956"
 city: Werbach
-street: "Welzbachstraße"
-housenumber: 54
+street: Welzbachstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
 website: ""

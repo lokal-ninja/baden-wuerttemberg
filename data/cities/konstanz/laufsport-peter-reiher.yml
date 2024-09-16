@@ -4,8 +4,8 @@ latitude: 47.67536
 longitude: 9.18032
 postcode: "78467"
 city: Konstanz
-street: "Wollmatinger Straße"
-housenumber: 23
+street: Wollmatinger Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 15:00-18:30; Sa 09:00-14:00"
-website: "https://www.sport-reiher.de"
+opening_hours: Mo-Fr 15:00-18:30; Sa 09:00-14:00
+website: https://www.sport-reiher.de

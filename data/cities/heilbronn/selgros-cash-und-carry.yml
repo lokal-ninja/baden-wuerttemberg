@@ -4,8 +4,8 @@ latitude: 49.16382
 longitude: 9.21899
 postcode: ""
 city: Heilbronn
-street: "Austraße"
-housenumber: 95
+street: Austraße
+housenumber: "95"
 phone: ""
 opening_hours: ""
-website: "https://www.selgros.de/markt/heilbronn"
+website: https://www.selgros.de/markt/heilbronn

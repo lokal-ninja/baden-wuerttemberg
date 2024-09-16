@@ -1,11 +1,11 @@
 id: 197674696
-type: way
+type: node
 latitude: 49.12261
 longitude: 8.72282
 postcode: ""
 city: Kraichtal
-street: "Eppinger Straße"
-housenumber: 47
+street: Eppinger Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

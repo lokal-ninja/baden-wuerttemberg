@@ -1,11 +1,11 @@
 id: 198384969
-type: way
+type: node
 latitude: 49.09868
 longitude: 8.56364
 postcode: "76646"
 city: Bruchsal
-street: "Im Schollengarten"
-housenumber: 39
-phone: "+49 7257 91330"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.heckert-gartencenter.de/"
+street: Im Schollengarten
+housenumber: "39"
+phone: +49 7257 91330
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.heckert-gartencenter.de/

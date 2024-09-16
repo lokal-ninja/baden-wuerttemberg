@@ -1,11 +1,11 @@
 id: 88958902
-type: way
+type: node
 latitude: 47.62241
 longitude: 8.25301
 postcode: "79761"
 city: Waldshut-Tiengen
-street: "Rudolf-Diesel-Straße"
-housenumber: 8
+street: Rudolf-Diesel-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:45-18:00; Sa 08:15-14:00"
-website: "https://www.autoteile-schwarz.de/"
+opening_hours: Mo-Fr 07:45-18:00; Sa 08:15-14:00
+website: https://www.autoteile-schwarz.de/

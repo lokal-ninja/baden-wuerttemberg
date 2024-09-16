@@ -4,8 +4,8 @@ latitude: 48.83763
 longitude: 10.09161
 postcode: "73430"
 city: Aalen
-street: "Friedhofstraße"
-housenumber: 2
-phone: "+49 7361 9163011"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"
-website: "https://megastyle-aa.de/"
+street: Friedhofstraße
+housenumber: "2"
+phone: +49 7361 9163011
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off
+website: https://megastyle-aa.de/

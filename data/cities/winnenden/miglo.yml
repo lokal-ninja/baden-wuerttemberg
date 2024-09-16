@@ -1,11 +1,11 @@
 id: 122456463
-type: way
+type: node
 latitude: 48.87503
 longitude: 9.42781
 postcode: "71364"
 city: Winnenden
-street: "Siemensstraße"
-housenumber: 2
-phone: "+49 7195 9576705"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.miglo-die-kfz-meisterwerkstatt.de/"
+street: Siemensstraße
+housenumber: "2"
+phone: +49 7195 9576705
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.miglo-die-kfz-meisterwerkstatt.de/

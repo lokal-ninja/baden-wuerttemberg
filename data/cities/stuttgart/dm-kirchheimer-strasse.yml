@@ -4,8 +4,8 @@ latitude: 48.74006
 longitude: 9.21897
 postcode: "70619"
 city: Stuttgart
-street: "Kirchheimer Straße"
-housenumber: 128
-phone: "+49 711 6159242"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-19:00"
-website: "https://www.dm.de/store/de-22/stuttgart/kirchheimer-strasse-128"
+street: Kirchheimer Straße
+housenumber: "128"
+phone: +49 711 6159242
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:00-19:00
+website: https://www.dm.de/store/de-22/stuttgart/kirchheimer-strasse-128

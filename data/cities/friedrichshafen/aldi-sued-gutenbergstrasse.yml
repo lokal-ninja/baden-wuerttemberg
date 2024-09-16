@@ -1,11 +1,11 @@
 id: 374983723
-type: way
+type: node
 latitude: 47.66999
 longitude: 9.492
 postcode: "88046"
 city: Friedrichshafen
-street: "Gutenbergstraße"
-housenumber: 4
+street: Gutenbergstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/friedrichshafen/gutenbergstrasse-4"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/friedrichshafen/gutenbergstrasse-4

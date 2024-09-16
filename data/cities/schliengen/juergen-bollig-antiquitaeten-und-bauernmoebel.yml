@@ -1,11 +1,11 @@
 id: 198962758
-type: way
+type: node
 latitude: 47.76206
 longitude: 7.57732
 postcode: "79418"
 city: Schliengen
-street: "Gutedelstraße"
-housenumber: 24
+street: Gutedelstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

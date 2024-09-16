@@ -4,8 +4,8 @@ latitude: 47.76792
 longitude: 9.15972
 postcode: "88662"
 city: Überlingen
-street: "Adlergasse"
-housenumber: 2
-phone: "+49 7551 65348"
-opening_hours: "Tu-Th 14:00-18:00; Fr 09:00-12:30,14:00-18:00; Sa 09:00-14:00"
-website: "https://mayer-waffen.de"
+street: Adlergasse
+housenumber: "2"
+phone: +49 7551 65348
+opening_hours: Tu-Th 14:00-18:00; Fr 09:00-12:30,14:00-18:00; Sa 09:00-14:00
+website: https://mayer-waffen.de

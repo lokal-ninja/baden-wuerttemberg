@@ -4,8 +4,9 @@ latitude: 49.10642
 longitude: 9.77342
 postcode: "74523"
 city: Schwäbisch Hall
-street: "Einkornstraße"
-housenumber: 2
-phone: "+49 791 2507"
-opening_hours: "Tu 08:07-12:00,13:03-17:00 geschlossen, falls Montag Feiertag; We-Fr 08:07-12:00,13:03-17:00; Sa 07:37-12:00; PH off"
+street: Einkornstraße
+housenumber: "2"
+phone: +49 791 2507
+opening_hours: Tu 08:07-12:00,13:03-17:00 "geschlossen, falls Montag Feiertag"; We-Fr
+    08:07-12:00,13:03-17:00; Sa 07:37-12:00; PH off
 website: ""

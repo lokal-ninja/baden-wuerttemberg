@@ -4,8 +4,8 @@ latitude: 48.77559
 longitude: 9.17727
 postcode: "70173"
 city: Stuttgart
-street: "Schulstraße"
-housenumber: 5
+street: Schulstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:30"
+opening_hours: Mo-Sa 10:00-18:30
 website: ""

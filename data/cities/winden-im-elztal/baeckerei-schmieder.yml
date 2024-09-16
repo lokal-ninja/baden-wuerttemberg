@@ -1,11 +1,11 @@
 id: 108981140
-type: way
+type: node
 latitude: 48.15413
 longitude: 8.0404
 postcode: "79297"
 city: Winden im Elztal
-street: "Hauptstraße"
-housenumber: 42
+street: Hauptstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

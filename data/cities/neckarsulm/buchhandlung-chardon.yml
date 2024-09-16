@@ -4,8 +4,8 @@ latitude: 49.19095
 longitude: 9.22435
 postcode: "74172"
 city: Neckarsulm
-street: "Marktstraße"
-housenumber: 9
-phone: "+49 7132 2386"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.buchhandlung-chardon.de/"
+street: Marktstraße
+housenumber: "9"
+phone: +49 7132 2386
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.buchhandlung-chardon.de/

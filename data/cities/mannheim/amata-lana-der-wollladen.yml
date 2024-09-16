@@ -4,8 +4,8 @@ latitude: 49.47242
 longitude: 8.46962
 postcode: "68163"
 city: Mannheim
-street: "Meerfeldstraße"
-housenumber: 67
-phone: "+49 621 82838583"
-opening_hours: "Mo-Sa 10:00-13:00; Mo-Tu 15:00-18:00; Th-Fr 15:00-18:00"
-website: "https://www.amata-lana.de/"
+street: Meerfeldstraße
+housenumber: "67"
+phone: +49 621 82838583
+opening_hours: Mo-Sa 10:00-13:00; Mo-Tu 15:00-18:00; Th-Fr 15:00-18:00
+website: https://www.amata-lana.de/

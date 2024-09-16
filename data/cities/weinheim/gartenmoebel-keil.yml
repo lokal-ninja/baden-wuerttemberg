@@ -4,8 +4,8 @@ latitude: 49.54074
 longitude: 8.65851
 postcode: "69469"
 city: Weinheim
-street: "Olbrichtstraße"
-housenumber: 30
+street: Olbrichtstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-18:30; We 10:00-14:00; Sa 10:00-18:00; Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 10:00-18:30; We 10:00-14:00; Sa 10:00-18:00; Su,PH off
 website: ""

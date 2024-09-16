@@ -4,8 +4,8 @@ latitude: 48.52044
 longitude: 9.04996
 postcode: "72070"
 city: Tübingen
-street: "Haaggasse"
-housenumber: 43
-phone: "+49 7071 23244"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.biwakschachtel-tuebingen.de/"
+street: Haaggasse
+housenumber: "43"
+phone: +49 7071 23244
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.biwakschachtel-tuebingen.de/

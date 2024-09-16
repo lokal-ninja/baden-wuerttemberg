@@ -1,11 +1,11 @@
 id: 191901341
-type: way
+type: node
 latitude: 47.69666
 longitude: 9.26985
 postcode: "88709"
 city: Meersburg
-street: "Schützenstraße"
-housenumber: 1
+street: Schützenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,13:30-17:00"
+opening_hours: Mo-Fr 10:00-12:30,13:30-17:00
 website: ""

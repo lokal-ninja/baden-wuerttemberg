@@ -4,8 +4,8 @@ latitude: 49.15169
 longitude: 9.2852
 postcode: "74189"
 city: Weinsberg
-street: "Heilbronner Straße"
-housenumber: 2
-phone: "+49 7134 9069285"
-opening_hours: "Tu 09:00-18:00; We,Fr 10:00-20:00; Th 12:00-22:00; Sa 09:00-16:00"
-website: "https://www.midtown-barbershop.com"
+street: Heilbronner Straße
+housenumber: "2"
+phone: +49 7134 9069285
+opening_hours: Tu 09:00-18:00; We,Fr 10:00-20:00; Th 12:00-22:00; Sa 09:00-16:00
+website: https://www.midtown-barbershop.com

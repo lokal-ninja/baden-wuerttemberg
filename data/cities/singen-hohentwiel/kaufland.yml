@@ -1,11 +1,11 @@
 id: 77844711
-type: way
+type: node
 latitude: 47.75251
 longitude: 8.84477
 postcode: "78224"
 city: Singen (Hohentwiel)
-street: "Georg-Fischer-Straße"
-housenumber: 15
+street: Georg-Fischer-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de

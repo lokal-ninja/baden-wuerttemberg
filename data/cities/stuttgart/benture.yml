@@ -4,8 +4,8 @@ latitude: 48.77911
 longitude: 9.15753
 postcode: "70176"
 city: Stuttgart
-street: "Rosenbergstraße"
-housenumber: 82
+street: Rosenbergstraße
+housenumber: "82"
 phone: ""
 opening_hours: ""
-website: "https://benture.de/"
+website: https://benture.de/

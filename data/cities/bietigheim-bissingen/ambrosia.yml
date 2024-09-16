@@ -4,8 +4,8 @@ latitude: 48.96033
 longitude: 9.12948
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Kronenbergstraße"
-housenumber: 5
+street: Kronenbergstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 12:00-18:00; Sa 10:00-17:00
 website: ""

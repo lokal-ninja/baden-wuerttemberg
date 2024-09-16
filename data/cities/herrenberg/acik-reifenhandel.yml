@@ -1,11 +1,11 @@
 id: 82225605
-type: way
+type: node
 latitude: 48.57693
 longitude: 8.92353
 postcode: "71083"
 city: Herrenberg
-street: "Hauptstraße"
-housenumber: 44
+street: Hauptstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

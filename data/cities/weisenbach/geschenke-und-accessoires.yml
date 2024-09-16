@@ -1,11 +1,11 @@
 id: 299683620
-type: way
+type: node
 latitude: 48.72871
 longitude: 8.35429
 postcode: "76599"
 city: Weisenbach
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,15:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-12:00,15:00-18:00; Sa 10:00-13:00
 website: ""

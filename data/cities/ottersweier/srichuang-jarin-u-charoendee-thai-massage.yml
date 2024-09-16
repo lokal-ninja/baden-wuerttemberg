@@ -1,11 +1,11 @@
 id: 378552645
-type: way
+type: node
 latitude: 48.68813
 longitude: 8.05801
 postcode: "77833"
 city: Ottersweier
-street: "Zeller Straße"
-housenumber: 11
+street: Zeller Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

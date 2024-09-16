@@ -4,8 +4,8 @@ latitude: 49.39509
 longitude: 8.62988
 postcode: "69214"
 city: Eppelheim
-street: "Rudolf-Wild-Straße"
-housenumber: 67
-phone: "+49 6221 760707"
-opening_hours: "Mo-Fr 08:00-12:00, Mo,Tu,Th,Fr 14:00-17:00"
-website: "https://beckerland.de/"
+street: Rudolf-Wild-Straße
+housenumber: "67"
+phone: +49 6221 760707
+opening_hours: Mo-Fr 08:00-12:00, Mo,Tu,Th,Fr 14:00-17:00
+website: https://beckerland.de/

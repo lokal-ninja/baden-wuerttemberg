@@ -4,8 +4,8 @@ latitude: 48.88664
 longitude: 8.31136
 postcode: "76316"
 city: Malsch
-street: "Stephanstraße"
-housenumber: 12
-phone: "+49 7246 1320"
-opening_hours: "Mo+Tu+Th 08:00-12:00 + 14:00-17:00; We + Fr 08:00-12:00"
-website: "https://rollladentaller.de"
+street: Stephanstraße
+housenumber: "12"
+phone: +49 7246 1320
+opening_hours: Mo+Tu+Th 08:00-12:00 + 14:00-17:00; We + Fr 08:00-12:00
+website: https://rollladentaller.de

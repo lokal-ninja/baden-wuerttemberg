@@ -4,8 +4,8 @@ latitude: 47.67004
 longitude: 9.46846
 postcode: "88045"
 city: Friedrichshafen
-street: "Pacellistraße"
-housenumber: 17
-phone: "+49 7541 584987"
-opening_hours: "Mo-Sa 07:30-19:00; Su, PH off"
-website: "https://www.narsupermarkt.de/"
+street: Pacellistraße
+housenumber: "17"
+phone: +49 7541 584987
+opening_hours: Mo-Sa 07:30-19:00; Su, PH off
+website: https://www.narsupermarkt.de/

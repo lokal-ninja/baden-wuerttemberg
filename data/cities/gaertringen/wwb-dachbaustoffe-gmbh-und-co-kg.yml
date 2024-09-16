@@ -1,11 +1,11 @@
 id: 29176502
-type: way
+type: node
 latitude: 48.63613
 longitude: 8.90677
 postcode: "71116"
 city: Gärtringen
-street: "Robert-Bosch-Straße"
-housenumber: 21
+street: Robert-Bosch-Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,13:00-17:00"
-website: "https://www.wwb-dachbaustoffe.de/"
+opening_hours: Mo-Fr 07:00-12:00,13:00-17:00
+website: https://www.wwb-dachbaustoffe.de/

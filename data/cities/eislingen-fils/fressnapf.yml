@@ -4,8 +4,8 @@ latitude: 48.69717
 longitude: 9.68967
 postcode: "73054"
 city: Eislingen/Fils
-street: "Seewiesenstraße"
-housenumber: 4
-phone: "+49 7161 983752"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.fressnapf.de/"
+street: Seewiesenstraße
+housenumber: "4"
+phone: +49 7161 983752
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.fressnapf.de/

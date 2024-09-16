@@ -1,11 +1,11 @@
 id: 91276771
-type: way
+type: node
 latitude: 47.91096
 longitude: 9.89149
 postcode: "88410"
 city: Bad Wurzach
-street: "Oberriedstraße"
-housenumber: 1
+street: Oberriedstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/bad-wurzach/oberriedstrasse-1"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/bad-wurzach/oberriedstrasse-1

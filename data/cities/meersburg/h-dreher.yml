@@ -1,11 +1,11 @@
 id: 36331925
-type: way
+type: node
 latitude: 47.69535
 longitude: 9.27217
 postcode: "88709"
 city: Meersburg
-street: "Am Stadtgraben"
-housenumber: 5
+street: Am Stadtgraben
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

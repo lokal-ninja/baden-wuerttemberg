@@ -1,11 +1,11 @@
 id: 169237025
-type: way
+type: node
 latitude: 49.46326
 longitude: 8.98398
 postcode: "69412"
 city: Eberbach
-street: "Friedrichstraße"
-housenumber: 4
-phone: "+49 6271 91050"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 08:00-18:00"
+street: Friedrichstraße
+housenumber: "4"
+phone: +49 6271 91050
+opening_hours: Mo-Fr 08:00-20:00;Sa 08:00-18:00
 website: ""

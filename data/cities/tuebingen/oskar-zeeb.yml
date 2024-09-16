@@ -4,8 +4,8 @@ latitude: 48.52119
 longitude: 9.05365
 postcode: "72070"
 city: Tübingen
-street: "Kornhausstraße"
-housenumber: 4
+street: Kornhausstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Tu,Th 08:30-18:00; We 08:30-13:30; Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.oskar-zeeb.de/fachgeschaefte/tuebingen-altstadt/"
+opening_hours: Mo,Tu,Th 08:30-18:00; We 08:30-13:30; Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.oskar-zeeb.de/fachgeschaefte/tuebingen-altstadt/

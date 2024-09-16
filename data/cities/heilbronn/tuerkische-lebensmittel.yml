@@ -1,11 +1,11 @@
 id: 37089296
-type: way
+type: node
 latitude: 49.14043
 longitude: 9.21334
 postcode: "74072"
 city: Heilbronn
-street: "Holzstraße"
-housenumber: 6
+street: Holzstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

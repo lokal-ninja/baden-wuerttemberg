@@ -1,11 +1,11 @@
 id: 76607862
-type: way
+type: node
 latitude: 49.15909
 longitude: 9.22469
 postcode: "74076"
 city: Heilbronn
-street: "Kreuzenstraße"
-housenumber: 90
+street: Kreuzenstraße
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "http://www.heermann-nutzfahrzeuge.de/"
+website: http://www.heermann-nutzfahrzeuge.de/

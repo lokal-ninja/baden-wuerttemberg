@@ -1,11 +1,11 @@
 id: 96638695
-type: way
+type: node
 latitude: 49.1489
 longitude: 9.12677
 postcode: "74211"
 city: Leingarten
-street: "Liebigstraße"
-housenumber: 9
-phone: "+49 7131 90530"
+street: Liebigstraße
+housenumber: "9"
+phone: +49 7131 90530
 opening_hours: ""
-website: "https://www.wibre.de/"
+website: https://www.wibre.de/

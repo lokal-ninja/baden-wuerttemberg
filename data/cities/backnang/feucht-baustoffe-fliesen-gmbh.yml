@@ -4,8 +4,8 @@ latitude: 48.93736
 longitude: 9.42859
 postcode: "71522"
 city: Backnang
-street: "Bertha-Benz-Straße"
-housenumber: 1
-phone: "+49 7191 807-0"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
-website: "https://feucht-backnang.de/"
+street: Bertha-Benz-Straße
+housenumber: "1"
+phone: +49 7191 807-0
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
+website: https://feucht-backnang.de/

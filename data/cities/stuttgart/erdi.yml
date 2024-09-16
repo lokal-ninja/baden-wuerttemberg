@@ -4,8 +4,8 @@ latitude: 48.72234
 longitude: 9.15829
 postcode: "70567"
 city: Stuttgart
-street: "Widmaierstraße"
-housenumber: 110
-phone: "+49 711 2208380"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "http://www.erdi.de/"
+street: Widmaierstraße
+housenumber: "110"
+phone: +49 711 2208380
+opening_hours: Mo-Sa 08:00-19:00
+website: http://www.erdi.de/

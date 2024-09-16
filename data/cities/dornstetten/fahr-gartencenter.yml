@@ -1,11 +1,11 @@
 id: 166964419
-type: way
+type: node
 latitude: 48.47328
 longitude: 8.498
 postcode: "72280"
 city: Dornstetten
-street: "Freudenstädter Straße"
-housenumber: 21
+street: Freudenstädter Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-14:00
 website: ""

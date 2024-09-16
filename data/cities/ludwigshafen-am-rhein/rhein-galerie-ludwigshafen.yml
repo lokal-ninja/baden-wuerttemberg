@@ -1,11 +1,11 @@
 id: 205944132
-type: way
+type: node
 latitude: 49.48457
 longitude: 8.44856
 postcode: "67061"
 city: Ludwigshafen am Rhein
-street: "Im Zollhof"
-housenumber: 4
-phone: "+49 621 59183410"
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.rheingalerie-ludwigshafen.de/"
+street: Im Zollhof
+housenumber: "4"
+phone: +49 621 59183410
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.rheingalerie-ludwigshafen.de/

@@ -1,11 +1,11 @@
 id: 108322082
-type: way
+type: node
 latitude: 48.76573
 longitude: 8.16191
 postcode: "76547"
 city: Sinzheim
-street: "Güterweg"
-housenumber: 1
+street: Güterweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

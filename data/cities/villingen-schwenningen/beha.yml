@@ -4,8 +4,8 @@ latitude: 48.06067
 longitude: 8.45697
 postcode: "78050"
 city: Villingen-Schwenningen
-street: "Kanzleigasse"
-housenumber: 28
+street: Kanzleigasse
+housenumber: "28"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Fr 06:30-18:15; Sa 06:00-12:30"
-website: "www.baeckerei-beha.de"
+opening_hours: Mo,Su off; Tu-Fr 06:30-18:15; Sa 06:00-12:30
+website: www.baeckerei-beha.de

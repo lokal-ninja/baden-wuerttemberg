@@ -1,11 +1,11 @@
 id: 258612101
-type: way
+type: node
 latitude: 48.10321
 longitude: 9.46461
 postcode: ""
 city: Ertingen
-street: "Riedlinger Straße"
-housenumber: 40
+street: Riedlinger Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

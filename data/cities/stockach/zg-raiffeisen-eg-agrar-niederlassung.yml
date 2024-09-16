@@ -1,10 +1,10 @@
 id: 366568476
-type: way
+type: node
 latitude: 47.8534
 longitude: 9.00498
 postcode: "78333"
 city: Stockach
-street: "Meßkircher Straße"
+street: Meßkircher Straße
 housenumber: ^3/1
 phone: ""
 opening_hours: ""

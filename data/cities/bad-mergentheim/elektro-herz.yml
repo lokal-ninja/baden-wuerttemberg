@@ -1,11 +1,11 @@
 id: 514538329
-type: way
+type: node
 latitude: 49.49367
 longitude: 9.75832
 postcode: "97980"
 city: Bad Mergentheim
-street: "Sandstraße"
-housenumber: 1
+street: Sandstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

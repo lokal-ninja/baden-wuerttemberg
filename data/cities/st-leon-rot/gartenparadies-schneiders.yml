@@ -1,11 +1,11 @@
 id: 555097647
-type: way
+type: node
 latitude: 49.26583
 longitude: 8.62346
 postcode: "68789"
 city: St. Leon-Rot
-street: "Hauptstraße"
-housenumber: 184
-phone: "+49 6227 53519"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-15:00"
-website: "http://www.gartenparadiesschneiders.de/"
+street: Hauptstraße
+housenumber: "184"
+phone: +49 6227 53519
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-15:00
+website: http://www.gartenparadiesschneiders.de/

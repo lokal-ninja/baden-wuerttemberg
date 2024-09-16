@@ -1,11 +1,11 @@
 id: 195033029
-type: way
+type: node
 latitude: 47.93333
 longitude: 8.49492
 postcode: "78183"
 city: Hüfingen
-street: "Bregstraße"
-housenumber: 2
+street: Bregstraße
+housenumber: "2"
 phone: ""
-opening_hours: "08:00-20:00; Su,PH off"
+opening_hours: 08:00-20:00; Su,PH off
 website: ""

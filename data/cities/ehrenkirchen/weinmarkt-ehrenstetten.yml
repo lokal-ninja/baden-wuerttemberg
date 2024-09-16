@@ -1,11 +1,11 @@
 id: 88750359
-type: way
+type: node
 latitude: 47.91898
 longitude: 7.74932
 postcode: "79238"
 city: Ehrenkirchen
-street: "Kirchbergstraße"
-housenumber: 9
+street: Kirchbergstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00"
-website: "http://www.bezirkskellerei.de/14-0-Ehrenstetten.html"
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00
+website: http://www.bezirkskellerei.de/14-0-Ehrenstetten.html

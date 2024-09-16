@@ -4,8 +4,8 @@ latitude: 49.42716
 longitude: 8.65024
 postcode: "69123"
 city: Heidelberg
-street: "Klappergasse"
-housenumber: 15
-phone: "+49 6221 833653"
-opening_hours: "Mo-Fr 15:00-18:00"
-website: "https://reise-stephan.de/"
+street: Klappergasse
+housenumber: "15"
+phone: +49 6221 833653
+opening_hours: Mo-Fr 15:00-18:00
+website: https://reise-stephan.de/

@@ -4,8 +4,8 @@ latitude: 47.67348
 longitude: 9.49249
 postcode: "88046"
 city: Friedrichshafen
-street: "Rotkreuzstraße"
-housenumber: 3
-phone: "+49 7541 9550527"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-16:00"
-website: "https://musikhaus-fn.de/"
+street: Rotkreuzstraße
+housenumber: "3"
+phone: +49 7541 9550527
+opening_hours: Mo-Fr 09:00-12:00,13:00-16:00
+website: https://musikhaus-fn.de/

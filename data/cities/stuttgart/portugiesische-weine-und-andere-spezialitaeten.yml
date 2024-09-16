@@ -4,8 +4,8 @@ latitude: 48.77026
 longitude: 9.18637
 postcode: "70184"
 city: Stuttgart
-street: "Hohenheimer Straße"
-housenumber: 42
+street: Hohenheimer Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 14:00-20:00; Sa 09:00-20:00"
+opening_hours: Mo-Fr 14:00-20:00; Sa 09:00-20:00
 website: ""

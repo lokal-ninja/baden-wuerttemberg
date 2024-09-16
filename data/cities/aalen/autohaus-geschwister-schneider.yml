@@ -1,11 +1,11 @@
 id: 232347870
-type: way
+type: node
 latitude: 48.83243
 longitude: 10.09665
 postcode: "73431"
 city: Aalen
-street: "Julius-Bausch-Straße"
-housenumber: 43
+street: Julius-Bausch-Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
-website: "https://autohaus.toyota.de/schneider/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00
+website: https://autohaus.toyota.de/schneider/

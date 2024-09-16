@@ -1,11 +1,11 @@
 id: 179324959
-type: way
+type: node
 latitude: 49.4781
 longitude: 8.55735
 postcode: "68549"
 city: Ilvesheim
-street: "Wormser Straße"
-housenumber: 26
-phone: "+49 621 12283840"
+street: Wormser Straße
+housenumber: "26"
+phone: +49 621 12283840
 opening_hours: ""
-website: "https://www.allerleiundmehr.de/"
+website: https://www.allerleiundmehr.de/

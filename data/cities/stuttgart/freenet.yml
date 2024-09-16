@@ -4,8 +4,8 @@ latitude: 48.80421
 longitude: 9.21519
 postcode: "70372"
 city: Stuttgart
-street: "Marktstraße"
-housenumber: 20
+street: Marktstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.freenet-mobilfunk.de/shops/stuttgart-bad-cannstatt"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.freenet-mobilfunk.de/shops/stuttgart-bad-cannstatt

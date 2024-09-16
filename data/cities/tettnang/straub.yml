@@ -1,11 +1,11 @@
 id: 134998586
-type: way
+type: node
 latitude: 47.63825
 longitude: 9.63413
 postcode: "88069"
 city: Tettnang
-street: "Argentalstraße"
-housenumber: 50
+street: Argentalstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 04:00-18:00; Sa 04:00-13:00; Su 07:00-11:00"
+opening_hours: Mo-Fr 04:00-18:00; Sa 04:00-13:00; Su 07:00-11:00
 website: ""

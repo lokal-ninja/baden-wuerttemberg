@@ -4,8 +4,8 @@ latitude: 48.81081
 longitude: 9.21721
 postcode: "70376"
 city: Stuttgart
-street: "Voltastraße"
-housenumber: 2
+street: Voltastraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00"
-website: "https://www.picksraus.de/index.php?option=com_picksraus&view=picksraus&marktid=5"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-16:00
+website: https://www.picksraus.de/index.php?option=com_picksraus&view=picksraus&marktid=5

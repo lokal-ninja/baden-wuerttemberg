@@ -4,8 +4,8 @@ latitude: 49.41167
 longitude: 8.70719
 postcode: "69117"
 city: Heidelberg
-street: "Hauptstraße"
-housenumber: 146
+street: Hauptstraße
+housenumber: "146"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa, Su 08:30-19:00"
-website: "https://zeitfuerbrot.com"
+opening_hours: Mo-Fr 08:30-20:00; Sa, Su 08:30-19:00
+website: https://zeitfuerbrot.com

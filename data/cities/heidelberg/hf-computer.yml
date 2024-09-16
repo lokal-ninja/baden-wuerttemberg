@@ -4,8 +4,8 @@ latitude: 49.40664
 longitude: 8.69261
 postcode: "69115"
 city: Heidelberg
-street: "Rohrbacher Straße"
-housenumber: 10
+street: Rohrbacher Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo,Tu,Th,Sa 10:00-14:00, Tu,Th 15:00-18:00, We,Fr 10:00-16:00"
-website: "https://www.hf-computer.net/"
+opening_hours: Mo,Tu,Th,Sa 10:00-14:00, Tu,Th 15:00-18:00, We,Fr 10:00-16:00
+website: https://www.hf-computer.net/

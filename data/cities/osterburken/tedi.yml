@@ -1,11 +1,11 @@
 id: 192348093
-type: way
+type: node
 latitude: 49.42862
 longitude: 9.42282
 postcode: "74706"
 city: Osterburken
-street: "Professor-Schumacher-Straße"
+street: Professor-Schumacher-Straße
 housenumber: 2/2
-phone: "+49 231 555770"
-opening_hours: "Mo-Sa 09:00-20:00"
+phone: +49 231 555770
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

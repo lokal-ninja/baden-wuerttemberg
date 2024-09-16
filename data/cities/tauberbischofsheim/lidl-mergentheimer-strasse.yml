@@ -1,11 +1,11 @@
 id: 363690089
-type: way
+type: node
 latitude: 49.62132
 longitude: 9.66796
 postcode: "97941"
 city: Tauberbischofsheim
-street: "Mergentheimer Straße"
-housenumber: 16
+street: Mergentheimer Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

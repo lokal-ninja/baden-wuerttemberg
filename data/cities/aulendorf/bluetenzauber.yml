@@ -4,8 +4,9 @@ latitude: 47.95341
 longitude: 9.64039
 postcode: "88326"
 city: Aulendorf
-street: "Bachstraße"
-housenumber: 11
+street: Bachstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Tu 08:30-12:00; Mo 14:00-17:30; Th-Fr 08:30-12:00,14:00-17:30; Sa 08:00-12:00"
+opening_hours: Mo-Tu 08:30-12:00; Mo 14:00-17:30; Th-Fr 08:30-12:00,14:00-17:30; Sa
+    08:00-12:00
 website: ""

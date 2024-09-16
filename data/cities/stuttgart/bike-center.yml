@@ -4,8 +4,8 @@ latitude: 48.75711
 longitude: 9.25647
 postcode: "70329"
 city: Stuttgart
-street: "Amstetter Straße"
-housenumber: 40
-phone: "+49 711 91275162"
-opening_hours: "Mo-Fr 09:30-13:00,15:00-18:00;Sa 09:30-13:00;PH off"
-website: "https://www.bike-center-stuttgart.de/"
+street: Amstetter Straße
+housenumber: "40"
+phone: +49 711 91275162
+opening_hours: Mo-Fr 09:30-13:00,15:00-18:00;Sa 09:30-13:00;PH off
+website: https://www.bike-center-stuttgart.de/

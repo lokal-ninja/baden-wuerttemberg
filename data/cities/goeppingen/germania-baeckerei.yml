@@ -4,8 +4,8 @@ latitude: 48.70206
 longitude: 9.65277
 postcode: "73033"
 city: Göppingen
-street: "Grabenstraße"
-housenumber: 19
+street: Grabenstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su 08:00-18:00"
-website: "https://www.baeckerei-guersch.de"
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su 08:00-18:00
+website: https://www.baeckerei-guersch.de

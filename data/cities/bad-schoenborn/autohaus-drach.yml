@@ -1,11 +1,11 @@
 id: 99338247
-type: way
+type: node
 latitude: 49.21641
 longitude: 8.65298
 postcode: "76669"
 city: Bad Schönborn
-street: "Bruchsaler Straße"
-housenumber: 39
-phone: "+49 7253 7242"
+street: Bruchsaler Straße
+housenumber: "39"
+phone: +49 7253 7242
 opening_hours: ""
 website: ""

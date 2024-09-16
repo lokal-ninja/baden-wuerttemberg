@@ -1,11 +1,11 @@
 id: 301633339
-type: way
+type: node
 latitude: 48.57097
 longitude: 9.87902
 postcode: "73340"
 city: Amstetten
-street: "Beim Kreuzstein"
-housenumber: 4
-phone: "+49 7331 97981-0"
+street: Beim Kreuzstein
+housenumber: "4"
+phone: +49 7331 97981-0
 opening_hours: ""
-website: "http://www.autocrew.de/de/autocrew/442-martin-hezler"
+website: http://www.autocrew.de/de/autocrew/442-martin-hezler

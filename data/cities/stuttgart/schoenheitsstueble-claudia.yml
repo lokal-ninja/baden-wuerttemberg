@@ -1,11 +1,11 @@
 id: 144345702
-type: way
+type: node
 latitude: 48.84661
 longitude: 9.15569
 postcode: "70439"
 city: Stuttgart
-street: "Wolle-Kriwanek-Straße"
-housenumber: 11
-phone: "+49 711 874521"
+street: Wolle-Kriwanek-Straße
+housenumber: "11"
+phone: +49 711 874521
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 256170609
-type: way
+type: node
 latitude: 48.04435
 longitude: 9.85013
 postcode: "88444"
 city: Ummendorf
-street: "Waldseer Straße"
-housenumber: 6
+street: Waldseer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

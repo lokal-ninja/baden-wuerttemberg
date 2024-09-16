@@ -4,8 +4,9 @@ latitude: 49.0018
 longitude: 9.76031
 postcode: "74405"
 city: Gaildorf
-street: "Bahnhofstraße"
-housenumber: 71
+street: Bahnhofstraße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-14:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.betten-buck.de"
+opening_hours: Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-14:00; Th 09:00-18:00; Fr
+    09:00-18:00; Sa 09:00-14:00
+website: https://www.betten-buck.de

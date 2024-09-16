@@ -1,11 +1,11 @@
 id: 173912681
-type: way
+type: node
 latitude: 48.45179
 longitude: 9.06234
 postcode: "72144"
 city: Dußlingen
-street: "Bundachstraße"
-housenumber: 3
+street: Bundachstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

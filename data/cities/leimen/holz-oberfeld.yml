@@ -1,11 +1,11 @@
 id: 90887792
-type: way
+type: node
 latitude: 49.353
 longitude: 8.68349
 postcode: "69181"
 city: Leimen
-street: "Lübecker Straße"
-housenumber: 9
+street: Lübecker Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://holzoberfeld.de"
+website: http://holzoberfeld.de

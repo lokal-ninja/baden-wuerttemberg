@@ -1,11 +1,11 @@
 id: 149235563
-type: way
+type: node
 latitude: 48.67828
 longitude: 10.15216
 postcode: "89518"
 city: Heidenheim an der Brenz
-street: "Karlstraße"
-housenumber: 2
+street: Karlstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.mueller.de/"
+website: https://www.mueller.de/

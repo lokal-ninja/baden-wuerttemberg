@@ -1,11 +1,11 @@
 id: 113992290
-type: way
+type: node
 latitude: 48.36544
 longitude: 8.63343
 postcode: "72172"
 city: Sulz am Neckar
-street: "Stuttgarter Straße"
-housenumber: 11
+street: Stuttgarter Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off"
+opening_hours: Mo-Sa 07:00-21:00; Su off
 website: ""

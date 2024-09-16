@@ -1,11 +1,11 @@
 id: 81045673
-type: way
+type: node
 latitude: 48.889
 longitude: 9.41788
 postcode: "71364"
 city: Winnenden
-street: "Lise-Meitner-Straße"
-housenumber: 20
+street: Lise-Meitner-Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

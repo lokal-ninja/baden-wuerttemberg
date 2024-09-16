@@ -4,8 +4,8 @@ latitude: 48.12112
 longitude: 7.84809
 postcode: "79312"
 city: Emmendingen
-street: "Landvogtei"
-housenumber: 5
-phone: "+49 7641 934793"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "http://www.fb-hörsysteme.de/index.php?page_id=218865#emmendingen"
+street: Landvogtei
+housenumber: "5"
+phone: +49 7641 934793
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: http://www.fb-hörsysteme.de/index.php?page_id=218865#emmendingen

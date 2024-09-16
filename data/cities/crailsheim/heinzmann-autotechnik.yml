@@ -1,11 +1,11 @@
 id: 118978730
-type: way
+type: node
 latitude: 49.14222
 longitude: 10.02746
 postcode: "74564"
 city: Crailsheim
-street: "Hofwiesenstraße"
-housenumber: 21
+street: Hofwiesenstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://heinzmann-autoteile.de/standort/crailsheim"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://heinzmann-autoteile.de/standort/crailsheim

@@ -1,11 +1,11 @@
 id: 196485734
-type: way
+type: node
 latitude: 47.87245
 longitude: 8.9931
 postcode: "78333"
 city: Stockach
-street: "Gewerbestraße"
-housenumber: 6
+street: Gewerbestraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.vierlande.de/"
+website: https://www.vierlande.de/

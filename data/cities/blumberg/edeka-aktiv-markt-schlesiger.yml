@@ -1,11 +1,11 @@
 id: 441778230
-type: way
+type: node
 latitude: 47.8389
 longitude: 8.54036
 postcode: "78176"
 city: Blumberg
-street: "Leo-Wohleb-Straße"
-housenumber: 7
+street: Leo-Wohleb-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

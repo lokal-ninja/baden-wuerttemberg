@@ -1,11 +1,11 @@
 id: 108367533
-type: way
+type: node
 latitude: 48.80159
 longitude: 9.79887
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Kalter Markt"
-housenumber: 44
+street: Kalter Markt
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 166994554
-type: way
+type: node
 latitude: 48.42803
 longitude: 8.20291
 postcode: "77740"
 city: Bad Peterstal-Griesbach
-street: "Renchtalstraße"
-housenumber: 32
+street: Renchtalstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-16:00"
-website: "https://www.edeka.de/eh/südwest/nah-und-gut-trotter-renchtalstraße-32/index.jsp"
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-16:00
+website: https://www.edeka.de/eh/südwest/nah-und-gut-trotter-renchtalstraße-32/index.jsp

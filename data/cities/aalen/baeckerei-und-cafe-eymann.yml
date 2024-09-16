@@ -4,8 +4,8 @@ latitude: 48.83872
 longitude: 10.0866
 postcode: "73430"
 city: Aalen
-street: "Bischof-Fischer-Straße"
-housenumber: 73
-phone: "+49 7361 5280999"
-opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-18:00; PH off"
-website: "https://www.baeckerei-eymann.de/"
+street: Bischof-Fischer-Straße
+housenumber: "73"
+phone: +49 7361 5280999
+opening_hours: Mo-Fr 06:00-20:00; Sa 06:00-18:00; PH off
+website: https://www.baeckerei-eymann.de/

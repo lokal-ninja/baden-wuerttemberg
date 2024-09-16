@@ -1,11 +1,11 @@
 id: 42156179
-type: way
+type: node
 latitude: 48.72074
 longitude: 7.99619
 postcode: "77839"
 city: Lichtenau
-street: "Im Gewerbegebiet"
-housenumber: 20
+street: Im Gewerbegebiet
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/lichtenau/im-gewerbegebiet-20"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/lichtenau/im-gewerbegebiet-20

@@ -1,11 +1,11 @@
 id: 166955048
-type: way
+type: node
 latitude: 47.9924
 longitude: 7.80809
 postcode: "79114"
 city: Freiburg im Breisgau
-street: "Rankackerweg"
-housenumber: 
+street: Rankackerweg
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

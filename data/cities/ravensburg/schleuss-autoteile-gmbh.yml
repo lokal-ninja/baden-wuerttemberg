@@ -1,11 +1,11 @@
 id: 214441455
-type: way
+type: node
 latitude: 47.76273
 longitude: 9.62538
 postcode: "88212"
 city: Ravensburg
-street: "Wangener Straße"
-housenumber: 174
-phone: "+49 751 36628-0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://www.schleuss.de/"
+street: Wangener Straße
+housenumber: "174"
+phone: +49 751 36628-0
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://www.schleuss.de/

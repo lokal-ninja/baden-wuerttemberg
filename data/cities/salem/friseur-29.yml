@@ -1,11 +1,11 @@
 id: 297516883
-type: way
+type: node
 latitude: 47.75999
 longitude: 9.3109
 postcode: "88682"
 city: Salem
-street: "Markdorfer Straße"
-housenumber: 29
+street: Markdorfer Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

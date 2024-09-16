@@ -4,8 +4,8 @@ latitude: 48.82692
 longitude: 9.09948
 postcode: "70499"
 city: Stuttgart
-street: "Motorstraße"
-housenumber: 38
-phone: "+49 711 20702009"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-17:00; Su,PH off"
-website: "https://www.teslamotors.com/de_DE/findus/location/service/stuttgart"
+street: Motorstraße
+housenumber: "38"
+phone: +49 711 20702009
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-17:00; Su,PH off
+website: https://www.teslamotors.com/de_DE/findus/location/service/stuttgart

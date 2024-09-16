@@ -4,8 +4,8 @@ latitude: 48.5208
 longitude: 9.20896
 postcode: "72760"
 city: Reutlingen
-street: "Dresdner Platz"
-housenumber: 5
-phone: "07121 9071240"
-opening_hours: "Mo-Fr 09:00-13:00; Sa-Su off"
-website: "https://www.auric-hoercenter.de/orschel-hagen"
+street: Dresdner Platz
+housenumber: "5"
+phone: 07121 9071240
+opening_hours: Mo-Fr 09:00-13:00; Sa-Su off
+website: https://www.auric-hoercenter.de/orschel-hagen

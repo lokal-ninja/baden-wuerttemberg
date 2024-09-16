@@ -4,8 +4,8 @@ latitude: 47.60833
 longitude: 7.9134
 postcode: "79664"
 city: Wehr
-street: "Im Hemmet"
-housenumber: 12
-phone: "+49 7762 805084"
-opening_hours: "Mo-Fr 09:30-18:30 Sa 09:30-18:00"
-website: "http://www.trigema.de/"
+street: Im Hemmet
+housenumber: "12"
+phone: +49 7762 805084
+opening_hours: Mo-Fr 09:30-18:30 Sa 09:30-18:00
+website: http://www.trigema.de/

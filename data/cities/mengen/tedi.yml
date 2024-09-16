@@ -1,11 +1,11 @@
 id: 435334567
-type: way
+type: node
 latitude: 48.05234
 longitude: 9.33393
 postcode: "88512"
 city: Mengen
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

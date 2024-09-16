@@ -1,11 +1,11 @@
 id: 27644197
-type: way
+type: node
 latitude: 48.45548
 longitude: 9.08062
 postcode: "72810"
 city: Gomaringen
-street: "Robert-Bosch-Straße"
-housenumber: 19
-phone: "+49 7072 92943"
-opening_hours: "Mo-Sa 07:00-20:00; Su off; PH off"
+street: Robert-Bosch-Straße
+housenumber: "19"
+phone: +49 7072 92943
+opening_hours: Mo-Sa 07:00-20:00; Su off; PH off
 website: ""

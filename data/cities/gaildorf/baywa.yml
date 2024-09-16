@@ -4,8 +4,8 @@ latitude: 48.99724
 longitude: 9.76829
 postcode: "74405"
 city: Gaildorf
-street: "Kochstraße"
-housenumber: 13
+street: Kochstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
-website: "https://www.baywa-baumarkt.de/markt/Gaildorf"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00
+website: https://www.baywa-baumarkt.de/markt/Gaildorf

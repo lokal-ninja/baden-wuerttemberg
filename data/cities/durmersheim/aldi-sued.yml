@@ -1,11 +1,11 @@
 id: 155341390
-type: way
+type: node
 latitude: 48.94639
 longitude: 8.28108
 postcode: "76448"
 city: Durmersheim
-street: "Auf den Heilberg"
-housenumber: 13
+street: Auf den Heilberg
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

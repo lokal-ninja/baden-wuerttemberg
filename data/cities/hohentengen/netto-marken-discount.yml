@@ -1,11 +1,11 @@
 id: 117065009
-type: way
+type: node
 latitude: 48.02701
 longitude: 9.37679
 postcode: "88367"
 city: Hohentengen
-street: "Am Friedhof"
-housenumber: 8
+street: Am Friedhof
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

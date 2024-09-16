@@ -4,8 +4,8 @@ latitude: 48.83091
 longitude: 9.18528
 postcode: "70437"
 city: Stuttgart
-street: "Schozacher Straße"
-housenumber: 40
+street: Schozacher Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 06:15-18:45; Sa 06:15-13:00; Su 07:30-11:00"
-website: "https://www.siegel-backkultur.de/index.php?id=23"
+opening_hours: Mo-Fr 06:15-18:45; Sa 06:15-13:00; Su 07:30-11:00
+website: https://www.siegel-backkultur.de/index.php?id=23

@@ -4,8 +4,8 @@ latitude: 48.8174
 longitude: 9.27319
 postcode: "70736"
 city: Fellbach
-street: "Maicklerstraße"
-housenumber: 2
+street: Maicklerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30, Sa 06:00-13:00, Su 07:30-17:00"
-website: "https://www.backhaus-mildenberger.de"
+opening_hours: Mo-Fr 06:30-18:30, Sa 06:00-13:00, Su 07:30-17:00
+website: https://www.backhaus-mildenberger.de

@@ -1,11 +1,11 @@
 id: 356647684
-type: way
+type: node
 latitude: 49.29104
 longitude: 8.66126
 postcode: "69168"
 city: Wiesloch
-street: "Gutenbergring"
-housenumber: 5
+street: Gutenbergring
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

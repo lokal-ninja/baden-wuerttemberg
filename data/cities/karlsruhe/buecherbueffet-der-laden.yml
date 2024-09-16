@@ -4,8 +4,8 @@ latitude: 49.00973
 longitude: 8.40579
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 60
+street: Kaiserstraße
+housenumber: "60"
 phone: ""
-opening_hours: "We-Sa 10:00-19:00; PH,Su-Tu off"
-website: "https://www.buecherbueffet-blog.de/"
+opening_hours: We-Sa 10:00-19:00; PH,Su-Tu off
+website: https://www.buecherbueffet-blog.de/

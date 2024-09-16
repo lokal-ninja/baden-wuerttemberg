@@ -4,8 +4,8 @@ latitude: 48.75556
 longitude: 8.2432
 postcode: "76530"
 city: Baden-Baden
-street: "Lichtentaler Straße"
-housenumber: 60
+street: Lichtentaler Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:30-21:00
+website: https://www.penny.de/

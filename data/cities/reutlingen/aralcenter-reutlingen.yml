@@ -1,11 +1,11 @@
 id: 505924793
-type: way
+type: node
 latitude: 48.51154
 longitude: 9.20408
 postcode: "72760"
 city: Reutlingen
-street: "Rommelsbacher Straße"
-housenumber: 140
-phone: "+49 7121 380663"
-opening_hours: "24/7"
+street: Rommelsbacher Straße
+housenumber: "140"
+phone: +49 7121 380663
+opening_hours: 24/7
 website: ""

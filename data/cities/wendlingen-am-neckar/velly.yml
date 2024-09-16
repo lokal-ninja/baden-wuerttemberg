@@ -4,8 +4,8 @@ latitude: 48.67313
 longitude: 9.36405
 postcode: "73240"
 city: Wendlingen am Neckar
-street: "Wertstraße"
-housenumber: 12
+street: Wertstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "https://www.velly.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: https://www.velly.de/

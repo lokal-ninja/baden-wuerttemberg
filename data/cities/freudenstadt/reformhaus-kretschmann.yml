@@ -4,8 +4,8 @@ latitude: 48.46231
 longitude: 8.41292
 postcode: "72250"
 city: Freudenstadt
-street: "Reichsstraße"
-housenumber: 39
+street: Reichsstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00; PH,Su off"
-website: "https://www.reformhaus-kretschmann.de/"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00; PH,Su off
+website: https://www.reformhaus-kretschmann.de/

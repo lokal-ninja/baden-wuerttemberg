@@ -4,8 +4,8 @@ latitude: 48.80137
 longitude: 9.79287
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Ledergasse"
-housenumber: 44
-phone: "+49 7171 8745851"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://rewe.de"
+street: Ledergasse
+housenumber: "44"
+phone: +49 7171 8745851
+opening_hours: Mo-Sa 07:00-22:00
+website: https://rewe.de

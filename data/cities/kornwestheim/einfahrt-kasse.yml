@@ -1,11 +1,11 @@
 id: 327411628
-type: way
+type: node
 latitude: 48.87817
 longitude: 9.19114
 postcode: "70806"
 city: Kornwestheim
-street: "Im Tambour"
-housenumber: 1
+street: Im Tambour
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.autokinos-deutschland.de/programm/index-stuttgart-kornwestheim.php?cPath=27"
+website: http://www.autokinos-deutschland.de/programm/index-stuttgart-kornwestheim.php?cPath=27

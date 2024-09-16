@@ -4,8 +4,8 @@ latitude: 48.94652
 longitude: 9.14933
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Banatstraße"
-housenumber: 3
+street: Banatstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa [1] 09:00-13:30"
-website: "https://mode-waesche-loos.de/"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa [1] 09:00-13:30
+website: https://mode-waesche-loos.de/

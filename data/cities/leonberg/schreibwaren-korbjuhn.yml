@@ -1,11 +1,11 @@
 id: 37575974
-type: way
+type: node
 latitude: 48.81629
 longitude: 9.01921
 postcode: "71229"
 city: Leonberg
-street: "Allmandweg"
-housenumber: 12
+street: Allmandweg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:30-13:00,14:30-18:00; Sa 07:30-13:00; PH off"
+opening_hours: Mo-Fr 07:30-13:00,14:30-18:00; Sa 07:30-13:00; PH off
 website: ""

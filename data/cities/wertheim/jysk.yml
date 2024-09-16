@@ -1,11 +1,11 @@
 id: 470969465
-type: way
+type: node
 latitude: 49.78167
 longitude: 9.5005
 postcode: "97877"
 city: Wertheim
-street: "Bestenheider Landstraße"
-housenumber: 77
+street: Bestenheider Landstraße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

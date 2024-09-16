@@ -1,11 +1,11 @@
 id: 112688126
-type: way
+type: node
 latitude: 47.81823
 longitude: 8.65607
 postcode: "78250"
 city: Tengen
-street: "Marktstraße"
-housenumber: 9
-phone: "+49 7736 97197"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.muenchow-maerkte.de/"
+street: Marktstraße
+housenumber: "9"
+phone: +49 7736 97197
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.muenchow-maerkte.de/

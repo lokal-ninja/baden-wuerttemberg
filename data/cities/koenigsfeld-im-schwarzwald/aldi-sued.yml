@@ -1,11 +1,11 @@
 id: 1143989500
-type: way
+type: node
 latitude: 48.1354
 longitude: 8.41767
 postcode: "78126"
 city: Königsfeld im Schwarzwald
-street: "Peterzeller Straße"
-housenumber: 4
+street: Peterzeller Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/koenigsfeld/peterzeller-strasse-4"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/koenigsfeld/peterzeller-strasse-4

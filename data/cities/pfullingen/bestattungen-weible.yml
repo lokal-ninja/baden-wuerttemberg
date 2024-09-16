@@ -4,8 +4,9 @@ latitude: 48.46743
 longitude: 9.22864
 postcode: "72793"
 city: Pfullingen
-street: "Bahnhofstraße"
-housenumber: 2
-phone: "+49 7121 78048"
-opening_hours: "wir sind jederzeit telefonisch oder über die Sperchanlage erreichbar - Tag und Nacht 24 Stunden im Dienst"
+street: Bahnhofstraße
+housenumber: "2"
+phone: +49 7121 78048
+opening_hours: '"wir sind jederzeit telefonisch oder über die Sperchanlage erreichbar
+    - Tag und Nacht 24 Stunden im Dienst"'
 website: ""

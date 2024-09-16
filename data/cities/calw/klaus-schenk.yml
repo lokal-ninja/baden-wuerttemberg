@@ -1,11 +1,11 @@
 id: 91111786
-type: way
+type: node
 latitude: 48.73477
 longitude: 8.73461
 postcode: "75365"
 city: Calw
-street: "Aureliusplatz"
+street: Aureliusplatz
 housenumber: 2/1
 phone: ""
-opening_hours: "Mo-Fr 15:00-18:30; Sa 10:00-13:00"
-website: "http://www.schenk-antik.de/"
+opening_hours: Mo-Fr 15:00-18:30; Sa 10:00-13:00
+website: http://www.schenk-antik.de/

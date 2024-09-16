@@ -4,8 +4,8 @@ latitude: 48.16737
 longitude: 8.62407
 postcode: "78628"
 city: Rottweil
-street: "Waldtorstraße"
-housenumber: 16
+street: Waldtorstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:30-13:00; Su,Mo off"
-website: "https://www.friseur-haibt.de/"
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:30-13:00; Su,Mo off
+website: https://www.friseur-haibt.de/

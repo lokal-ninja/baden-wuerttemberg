@@ -4,8 +4,8 @@ latitude: 49.24165
 longitude: 9.8615
 postcode: "74595"
 city: Langenburg
-street: "Breberweg"
-housenumber: 2
-phone: "+49 7905 475"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.schafkaese.com/"
+street: Breberweg
+housenumber: "2"
+phone: +49 7905 475
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.schafkaese.com/

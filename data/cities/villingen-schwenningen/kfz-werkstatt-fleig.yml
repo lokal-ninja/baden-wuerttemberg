@@ -1,11 +1,11 @@
 id: 286917122
-type: way
+type: node
 latitude: 48.10756
 longitude: 8.47938
 postcode: "78052"
 city: Villingen-Schwenningen
-street: "Unter dem Dorf"
-housenumber: 14
+street: Unter dem Dorf
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00
 website: ""

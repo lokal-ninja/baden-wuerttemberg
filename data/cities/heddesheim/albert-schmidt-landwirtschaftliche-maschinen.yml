@@ -1,11 +1,11 @@
 id: 145176226
-type: way
+type: node
 latitude: 49.50602
 longitude: 8.5962
 postcode: "68542"
 city: Heddesheim
-street: "Schillerstraße"
-housenumber: 1
+street: Schillerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.landmaschinen-schmidt.de/"
+website: https://www.landmaschinen-schmidt.de/

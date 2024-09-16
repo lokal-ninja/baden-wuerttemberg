@@ -1,11 +1,11 @@
 id: 324460117
-type: way
+type: node
 latitude: 49.10909
 longitude: 9.78309
 postcode: "74523"
 city: Schwäbisch Hall
-street: "Raiffeisenstraße"
-housenumber: 5
+street: Raiffeisenstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

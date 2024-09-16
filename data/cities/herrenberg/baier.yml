@@ -4,8 +4,8 @@ latitude: 48.59512
 longitude: 8.88296
 postcode: "71083"
 city: Herrenberg
-street: "Mozartstraße"
-housenumber: 4
-phone: "+49 7032 508826"
-opening_hours: "Mo, Tu, Th, Fr 07:00-13:00, 14:30-18:00; We, Sa 07:00-13:00"
-website: "https://www.baecker-baier.de/"
+street: Mozartstraße
+housenumber: "4"
+phone: +49 7032 508826
+opening_hours: Mo, Tu, Th, Fr 07:00-13:00, 14:30-18:00; We, Sa 07:00-13:00
+website: https://www.baecker-baier.de/

@@ -4,8 +4,8 @@ latitude: 48.71632
 longitude: 10.15942
 postcode: "89520"
 city: Heidenheim an der Brenz
-street: "Aalener Straße"
-housenumber: 30
+street: Aalener Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.moemax.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.moemax.de/

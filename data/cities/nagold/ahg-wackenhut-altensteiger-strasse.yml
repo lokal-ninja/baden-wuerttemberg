@@ -1,11 +1,11 @@
 id: 41388229
-type: way
+type: node
 latitude: 48.55363
 longitude: 8.70976
 postcode: "72202"
 city: Nagold
-street: "Altensteiger Straße"
-housenumber: 49
+street: Altensteiger Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

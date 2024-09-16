@@ -1,11 +1,11 @@
 id: 228132282
-type: way
+type: node
 latitude: 49.33021
 longitude: 8.53656
 postcode: "68766"
 city: Hockenheim
-street: "Ketscher Straße"
-housenumber: 1
+street: Ketscher Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

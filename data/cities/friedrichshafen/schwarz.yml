@@ -4,8 +4,8 @@ latitude: 47.64955
 longitude: 9.48014
 postcode: "88045"
 city: Friedrichshafen
-street: "Karlstraße"
-housenumber: 22
-phone: "+49 7541 3914677"
-opening_hours: "06:30-20:00"
-website: "http://baeckereischwarz.com/"
+street: Karlstraße
+housenumber: "22"
+phone: +49 7541 3914677
+opening_hours: 06:30-20:00
+website: http://baeckereischwarz.com/

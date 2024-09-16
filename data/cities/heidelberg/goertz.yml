@@ -4,8 +4,8 @@ latitude: 49.40767
 longitude: 8.69161
 postcode: "69115"
 city: Heidelberg
-street: "Kurfürsten-Anlage"
-housenumber: 6
+street: Kurfürsten-Anlage
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://www.baeckergoertz.de"
+opening_hours: Mo-Sa 06:00-22:00
+website: https://www.baeckergoertz.de

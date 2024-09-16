@@ -1,5 +1,5 @@
 id: 197885379
-type: way
+type: node
 latitude: 49.49183
 longitude: 8.4689
 postcode: "68159"
@@ -8,4 +8,4 @@ street: ""
 housenumber: 1-4
 phone: ""
 opening_hours: ""
-website: "http://karreemannheim.com/"
+website: http://karreemannheim.com/

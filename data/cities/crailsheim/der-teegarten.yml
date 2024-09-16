@@ -4,8 +4,8 @@ latitude: 49.1363
 longitude: 10.07125
 postcode: "74564"
 city: Crailsheim
-street: "Lange Straße"
-housenumber: 13
-phone: "+49 7951 959819"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.teegarten-crailsheim.de"
+street: Lange Straße
+housenumber: "13"
+phone: +49 7951 959819
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.teegarten-crailsheim.de

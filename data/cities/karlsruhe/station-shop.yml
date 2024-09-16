@@ -4,8 +4,8 @@ latitude: 48.99422
 longitude: 8.40103
 postcode: "76137"
 city: Karlsruhe
-street: "Bahnhofplatz"
-housenumber: 1
-phone: "+49 721 9336042"
-opening_hours: "Mo-Su 06:00-20:00"
-website: "http://www.josef-rubenbauer.de/index.php?id=16"
+street: Bahnhofplatz
+housenumber: "1"
+phone: +49 721 9336042
+opening_hours: Mo-Su 06:00-20:00
+website: http://www.josef-rubenbauer.de/index.php?id=16

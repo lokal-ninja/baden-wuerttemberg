@@ -1,11 +1,11 @@
 id: 47360740
-type: way
+type: node
 latitude: 48.80657
 longitude: 9.27756
 postcode: "70734"
 city: Fellbach
-street: "Vordere Straße"
-housenumber: 4
+street: Vordere Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 128238842
-type: way
+type: node
 latitude: 48.80576
 longitude: 9.81464
 postcode: "73527"
 city: Schwäbisch Gmünd
-street: "Schießtalstraße"
-housenumber: 24
+street: Schießtalstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

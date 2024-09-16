@@ -1,11 +1,11 @@
 id: 302325291
-type: way
+type: node
 latitude: 48.81957
 longitude: 8.15162
 postcode: "76473"
 city: Iffezheim
-street: "Gebrüder-Grimm-Straße"
-housenumber: 2
-phone: "+49 7229 1849080"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00"
-website: "https://oser-edeka.de/"
+street: Gebrüder-Grimm-Straße
+housenumber: "2"
+phone: +49 7229 1849080
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-20:00
+website: https://oser-edeka.de/

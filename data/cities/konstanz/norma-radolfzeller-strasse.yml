@@ -1,11 +1,11 @@
 id: 118376962
-type: way
+type: node
 latitude: 47.69031
 longitude: 9.14697
 postcode: "78467"
 city: Konstanz
-street: "Radolfzeller Straße"
-housenumber: 19
+street: Radolfzeller Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

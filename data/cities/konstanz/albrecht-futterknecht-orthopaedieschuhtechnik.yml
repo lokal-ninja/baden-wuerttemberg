@@ -4,8 +4,8 @@ latitude: 47.65912
 longitude: 9.1724
 postcode: "78462"
 city: Konstanz
-street: "Neugasse"
-housenumber: 38
-phone: "+49 7531 22357"
-opening_hours: "Mo-Fr 08:30-12:30, Mo,Tu,Th,Fr 14:00-18:00, Sa 09:00-13:00; PH off"
-website: "https://www.futterknecht-konstanz.de/"
+street: Neugasse
+housenumber: "38"
+phone: +49 7531 22357
+opening_hours: Mo-Fr 08:30-12:30, Mo,Tu,Th,Fr 14:00-18:00, Sa 09:00-13:00; PH off
+website: https://www.futterknecht-konstanz.de/

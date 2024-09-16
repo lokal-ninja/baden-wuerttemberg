@@ -4,8 +4,8 @@ latitude: 49.10159
 longitude: 9.6963
 postcode: "74545"
 city: Michelfeld
-street: "Daimlerstraße"
-housenumber: 61
+street: Daimlerstraße
+housenumber: "61"
 phone: "+497919597042"
-opening_hours: "Mo-Su 09:30-19:00"
-website: "https://www.rofu.de/filialen/#!/l/michelfeld/daimlerstrasse-61/1198033"
+opening_hours: Mo-Su 09:30-19:00
+website: https://www.rofu.de/filialen/#!/l/michelfeld/daimlerstrasse-61/1198033

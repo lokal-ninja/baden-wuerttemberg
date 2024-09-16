@@ -1,11 +1,11 @@
 id: 128996399
-type: way
+type: node
 latitude: 48.6283
 longitude: 9.38131
 postcode: "72622"
 city: Nürtingen
-street: "Reuderner Straße"
-housenumber: 24
+street: Reuderner Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

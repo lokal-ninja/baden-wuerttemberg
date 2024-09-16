@@ -1,11 +1,11 @@
 id: 24055582
-type: way
+type: node
 latitude: 49.02007
 longitude: 8.36719
 postcode: "76187"
 city: Karlsruhe
-street: "Kußmaulstraße"
-housenumber: 15
+street: Kußmaulstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

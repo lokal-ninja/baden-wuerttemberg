@@ -4,8 +4,8 @@ latitude: 48.45299
 longitude: 7.88727
 postcode: "77746"
 city: Schutterwald
-street: "Saint-Denis-Straße"
-housenumber: 2
+street: Saint-Denis-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/südwest/edeka-oberle-getränkemarkt-saint-denis-straße-2/index.jsp"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/eh/südwest/edeka-oberle-getränkemarkt-saint-denis-straße-2/index.jsp

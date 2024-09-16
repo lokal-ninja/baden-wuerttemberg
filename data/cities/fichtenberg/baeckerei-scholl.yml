@@ -4,8 +4,8 @@ latitude: 48.98955
 longitude: 9.6944
 postcode: "74427"
 city: Fichtenberg
-street: "Im Hoffeld"
-housenumber: 1
-phone: "+49 7971 9217570"
-opening_hours: "Mo-Sa 07:00-18:00; Su 08:00-11:00"
-website: "http://baeckerei-scholl.de"
+street: Im Hoffeld
+housenumber: "1"
+phone: +49 7971 9217570
+opening_hours: Mo-Sa 07:00-18:00; Su 08:00-11:00
+website: http://baeckerei-scholl.de

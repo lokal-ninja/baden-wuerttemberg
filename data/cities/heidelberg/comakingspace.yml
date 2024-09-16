@@ -1,11 +1,11 @@
 id: 756281614
-type: way
+type: node
 latitude: 49.40844
 longitude: 8.64666
 postcode: "69123"
 city: Heidelberg
-street: "Siemensstraße"
-housenumber: 40
+street: Siemensstraße
+housenumber: "40"
 phone: ""
-opening_hours: "24/7"
-website: "https://comakingspace.org/"
+opening_hours: 24/7
+website: https://comakingspace.org/

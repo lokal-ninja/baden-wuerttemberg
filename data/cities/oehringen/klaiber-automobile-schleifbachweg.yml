@@ -1,11 +1,11 @@
 id: 1029947723
-type: way
+type: node
 latitude: 49.19345
 longitude: 9.49511
 postcode: "74613"
 city: Öhringen
-street: "Schleifbachweg"
-housenumber: 59
+street: Schleifbachweg
+housenumber: "59"
 phone: ""
 opening_hours: ""
-website: "https://www.klaiber-automobile.de/"
+website: https://www.klaiber-automobile.de/

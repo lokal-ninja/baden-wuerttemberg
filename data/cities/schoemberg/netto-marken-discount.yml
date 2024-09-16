@@ -4,8 +4,8 @@ latitude: 48.78541
 longitude: 8.64324
 postcode: "75328"
 city: Schömberg
-street: "Poststraße"
-housenumber: 20
+street: Poststraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00;Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00;Su,PH off
+website: https://www.netto-online.de

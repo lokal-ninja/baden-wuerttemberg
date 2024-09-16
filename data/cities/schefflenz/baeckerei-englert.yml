@@ -1,11 +1,11 @@
 id: 182060223
-type: way
+type: node
 latitude: 49.41559
 longitude: 9.28155
 postcode: "74850"
 city: Schefflenz
-street: "Hauptstraße"
-housenumber: 74
-phone: "+49 6293 95263"
+street: Hauptstraße
+housenumber: "74"
+phone: +49 6293 95263
 opening_hours: ""
-website: "https://baeckerei-englert.chayns.site"
+website: https://baeckerei-englert.chayns.site

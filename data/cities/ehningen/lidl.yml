@@ -1,11 +1,11 @@
 id: 160942439
-type: way
+type: node
 latitude: 48.66175
 longitude: 8.94004
 postcode: "71139"
 city: Ehningen
-street: "Bühlallee"
-housenumber: 2
+street: Bühlallee
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00; PH off"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-21:00; PH off
 website: ""

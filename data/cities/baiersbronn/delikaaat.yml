@@ -5,7 +5,8 @@ longitude: 8.37074
 postcode: "72270"
 city: Baiersbronn
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Jun-Aug: Tu-Fr 08:30-19:30; Sa,Su 09:00-19:30; Sep-May: Tu-Fr 08:30-18:00; Sa-Su 09:00-18:00"
-website: "https://delikaaat.de/"
+opening_hours: 'Jun-Aug: Tu-Fr 08:30-19:30; Sa,Su 09:00-19:30; Sep-May: Tu-Fr 08:30-18:00;
+    Sa-Su 09:00-18:00'
+website: https://delikaaat.de/

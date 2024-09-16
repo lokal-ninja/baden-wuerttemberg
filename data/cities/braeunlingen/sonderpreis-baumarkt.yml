@@ -1,11 +1,11 @@
 id: 90638621
-type: way
+type: node
 latitude: 47.92662
 longitude: 8.46903
 postcode: "78199"
 city: Bräunlingen
-street: "Niederwiesen"
-housenumber: 1
-phone: "+49 771 92030710"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.sonderpreis-baumarkt.de/markt-finden#!/l/braunlingen/niederwiesen-1/2829560"
+street: Niederwiesen
+housenumber: "1"
+phone: +49 771 92030710
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.sonderpreis-baumarkt.de/markt-finden#!/l/braunlingen/niederwiesen-1/2829560

@@ -1,11 +1,11 @@
 id: 558804866
-type: way
+type: node
 latitude: 48.71818
 longitude: 8.06186
 postcode: "77815"
 city: Bühl
-street: "Buchenstraße"
-housenumber: 3
-phone: "+49 7227 2614"
+street: Buchenstraße
+housenumber: "3"
+phone: +49 7227 2614
 opening_hours: ""
-website: "https://www.grass-landtechnik.de/"
+website: https://www.grass-landtechnik.de/

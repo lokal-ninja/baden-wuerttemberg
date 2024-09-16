@@ -4,8 +4,8 @@ latitude: 48.71382
 longitude: 9.15979
 postcode: "70565"
 city: Stuttgart
-street: "Europaplatz"
-housenumber: 20
+street: Europaplatz
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 06:30-20:00; Sa 08:00-18:00"
-website: "https://www.baeckerhaus-veit.de/"
+opening_hours: Mo-Sa 06:30-20:00; Sa 08:00-18:00
+website: https://www.baeckerhaus-veit.de/

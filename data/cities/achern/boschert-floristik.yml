@@ -1,11 +1,11 @@
 id: 376398773
-type: way
+type: node
 latitude: 48.62214
 longitude: 7.99237
 postcode: "77855"
 city: Achern
-street: "Im Gässel"
-housenumber: 13
+street: Im Gässel
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

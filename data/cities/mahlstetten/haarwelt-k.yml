@@ -1,11 +1,11 @@
 id: 951733715
-type: way
+type: node
 latitude: 48.07381
 longitude: 8.83445
 postcode: "78601"
 city: Mahlstetten
-street: "Ardweg"
-housenumber: 10
-phone: "+49 7429 9408725"
+street: Ardweg
+housenumber: "10"
+phone: +49 7429 9408725
 opening_hours: ""
-website: "https://haarwelt-k.jimdosite.com/"
+website: https://haarwelt-k.jimdosite.com/

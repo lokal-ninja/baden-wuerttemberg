@@ -1,11 +1,11 @@
 id: 48652551
-type: way
+type: node
 latitude: 48.69872
 longitude: 9.70799
 postcode: "73054"
 city: Eislingen/Fils
-street: "Gartenstraße"
-housenumber: 2
+street: Gartenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com/de-de/laden/eislingen-a.-d.-fils/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com/de-de/laden/eislingen-a.-d.-fils/

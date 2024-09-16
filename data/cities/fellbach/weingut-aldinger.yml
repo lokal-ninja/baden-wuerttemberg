@@ -1,11 +1,11 @@
 id: 47384051
-type: way
+type: node
 latitude: 48.80591
 longitude: 9.27632
 postcode: "70734"
 city: Fellbach
-street: "Schmerstraße"
-housenumber: 25
+street: Schmerstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

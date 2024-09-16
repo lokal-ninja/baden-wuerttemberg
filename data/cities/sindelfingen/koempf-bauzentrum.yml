@@ -1,11 +1,11 @@
 id: 54042159
-type: way
+type: node
 latitude: 48.70344
 longitude: 8.94822
 postcode: "71069"
 city: Sindelfingen
-street: "Mühlackerstraße"
-housenumber: 22
+street: Mühlackerstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00; PH off"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00; PH off
 website: ""

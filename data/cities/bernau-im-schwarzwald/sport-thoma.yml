@@ -1,11 +1,11 @@
 id: 256856514
-type: way
+type: node
 latitude: 47.80327
 longitude: 8.03291
 postcode: "79872"
 city: Bernau im Schwarzwald
-street: "Rathausstraße"
-housenumber: 6
+street: Rathausstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

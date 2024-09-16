@@ -1,11 +1,11 @@
 id: 141936378
-type: way
+type: node
 latitude: 48.9707
 longitude: 9.38834
 postcode: "71546"
 city: Aspach
-street: "Siemensstraße"
-housenumber: 4
+street: Siemensstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

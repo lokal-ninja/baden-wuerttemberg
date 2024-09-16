@@ -1,11 +1,11 @@
 id: 46896133
-type: way
+type: node
 latitude: 49.22439
 longitude: 9.21525
 postcode: "74177"
 city: Bad Friedrichshall
-street: "Gartenstraße"
-housenumber: 24
+street: Gartenstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

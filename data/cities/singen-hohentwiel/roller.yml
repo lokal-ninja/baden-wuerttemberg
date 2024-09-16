@@ -1,11 +1,11 @@
 id: 77844718
-type: way
+type: node
 latitude: 47.75176
 longitude: 8.85243
 postcode: "78224"
 city: Singen (Hohentwiel)
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00"
-website: "https://www.roller.de/"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-20:00
+website: https://www.roller.de/

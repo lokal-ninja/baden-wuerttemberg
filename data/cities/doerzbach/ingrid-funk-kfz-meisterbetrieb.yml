@@ -1,11 +1,11 @@
 id: 490480942
-type: way
+type: node
 latitude: 49.38791
 longitude: 9.70524
 postcode: "74677"
 city: Dörzbach
-street: "Mergentheimer Straße"
-housenumber: 7
-phone: "+49 7937 991200"
+street: Mergentheimer Straße
+housenumber: "7"
+phone: +49 7937 991200
 opening_hours: ""
 website: ""

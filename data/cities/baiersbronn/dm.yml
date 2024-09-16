@@ -1,11 +1,11 @@
 id: 439770611
-type: way
+type: node
 latitude: 48.51536
 longitude: 8.37957
 postcode: ""
 city: Baiersbronn
-street: "Tonbachstraße"
-housenumber: 9
+street: Tonbachstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

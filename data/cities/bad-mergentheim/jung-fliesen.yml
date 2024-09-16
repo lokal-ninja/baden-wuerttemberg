@@ -1,11 +1,11 @@
 id: 516299460
-type: way
+type: node
 latitude: 49.4913
 longitude: 9.77214
 postcode: "97980"
 city: Bad Mergentheim
-street: "Mühlwehrstraße"
-housenumber: 4
+street: Mühlwehrstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

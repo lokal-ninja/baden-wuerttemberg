@@ -1,11 +1,11 @@
 id: 376827656
-type: way
+type: node
 latitude: 48.34616
 longitude: 8.51837
 postcode: "72175"
 city: Dornhan
-street: "Brachfelder Straße"
-housenumber: 1
+street: Brachfelder Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "www.brennerei-reich.de"
+website: www.brennerei-reich.de

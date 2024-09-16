@@ -1,11 +1,11 @@
 id: 96956891
-type: way
+type: node
 latitude: 49.5396
 longitude: 9.73831
 postcode: "97922"
 city: Lauda-Königshofen
-street: "Deubacher Straße"
-housenumber: 2
+street: Deubacher Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://autohaus-spiller.de/"
+website: http://autohaus-spiller.de/

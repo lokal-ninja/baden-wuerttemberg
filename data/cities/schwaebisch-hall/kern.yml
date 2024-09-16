@@ -4,8 +4,8 @@ latitude: 49.11503
 longitude: 9.75077
 postcode: "74523"
 city: Schwäbisch Hall
-street: "Komberger Weg"
-housenumber: 32
+street: Komberger Weg
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00"
-website: "https://www.baeckerei-kern.de/"
+opening_hours: Mo-Sa 07:00-18:00
+website: https://www.baeckerei-kern.de/

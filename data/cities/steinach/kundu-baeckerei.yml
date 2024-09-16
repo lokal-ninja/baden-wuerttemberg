@@ -4,8 +4,8 @@ latitude: 48.30017
 longitude: 8.05715
 postcode: "77790"
 city: Steinach
-street: "Hauptstraße"
-housenumber: 32
-phone: "+49 7832 9789486"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.k-und-u.com/"
+street: Hauptstraße
+housenumber: "32"
+phone: +49 7832 9789486
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.k-und-u.com/

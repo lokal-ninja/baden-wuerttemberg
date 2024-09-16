@@ -1,11 +1,11 @@
 id: 460227721
-type: way
+type: node
 latitude: 49.78056
 longitude: 9.44285
 postcode: "97906"
 city: Faulbach
-street: "Hauptstraße"
-housenumber: 64
+street: Hauptstraße
+housenumber: "64"
 phone: ""
 opening_hours: ""
-website: "https://angelzubehoer-ballweg.de/Standorte"
+website: https://angelzubehoer-ballweg.de/Standorte

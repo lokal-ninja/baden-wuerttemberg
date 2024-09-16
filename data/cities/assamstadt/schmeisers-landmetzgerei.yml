@@ -1,11 +1,11 @@
 id: 469977803
-type: way
+type: node
 latitude: 49.42905
 longitude: 9.70222
 postcode: "97959"
 city: Assamstadt
-street: "Am Gamberg"
-housenumber: 2
+street: Am Gamberg
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://metzgerei-schmeiser.de/"
+website: https://metzgerei-schmeiser.de/

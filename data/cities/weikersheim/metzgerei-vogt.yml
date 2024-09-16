@@ -4,8 +4,8 @@ latitude: 49.48008
 longitude: 9.89952
 postcode: ""
 city: Weikersheim
-street: "Schulstraße"
-housenumber: 9
-phone: "+49 7934 212"
-opening_hours: "Mo-Fr 07:30-13:00, Mo,Tu,Th,Fr 14:30-18:00, Sa 07:30-12:00"
+street: Schulstraße
+housenumber: "9"
+phone: +49 7934 212
+opening_hours: Mo-Fr 07:30-13:00, Mo,Tu,Th,Fr 14:30-18:00, Sa 07:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 223538738
-type: way
+type: node
 latitude: 48.71159
 longitude: 7.96579
 postcode: "77866"
 city: Rheinau
-street: "Fischerstraße"
-housenumber: 13
+street: Fischerstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00; Sa 07:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00; Sa 07:00-12:00
 website: ""

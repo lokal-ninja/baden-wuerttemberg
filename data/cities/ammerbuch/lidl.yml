@@ -1,11 +1,11 @@
 id: 162445020
-type: way
+type: node
 latitude: 48.53131
 longitude: 8.96036
 postcode: "72119"
 city: Ammerbuch
-street: "Nagolder Straße"
-housenumber: 35
+street: Nagolder Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

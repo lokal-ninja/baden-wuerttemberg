@@ -4,8 +4,8 @@ latitude: 48.05949
 longitude: 8.46093
 postcode: "78050"
 city: Villingen-Schwenningen
-street: "Bickenstraße"
-housenumber: 6
-phone: "+49 - 7721 - 9800-0"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
-website: "https://www.wiebelt.de/"
+street: Bickenstraße
+housenumber: "6"
+phone: +49 - 7721 - 9800-0
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
+website: https://www.wiebelt.de/

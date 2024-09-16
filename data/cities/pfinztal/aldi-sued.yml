@@ -1,11 +1,11 @@
 id: 30663802
-type: way
+type: node
 latitude: 49.00489
 longitude: 8.53417
 postcode: "76327"
 city: Pfinztal
-street: "Wöschbacher Straße"
-housenumber: 29
+street: Wöschbacher Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

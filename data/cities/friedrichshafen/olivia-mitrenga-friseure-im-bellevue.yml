@@ -4,8 +4,8 @@ latitude: 47.652
 longitude: 9.47698
 postcode: "88045"
 city: Friedrichshafen
-street: "Friedrichstraße"
-housenumber: 65
+street: Friedrichstraße
+housenumber: "65"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-13:00; Mo,Su,PH off"
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-13:00; Mo,Su,PH off
 website: ""

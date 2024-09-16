@@ -1,11 +1,11 @@
 id: 98709437
-type: way
+type: node
 latitude: 48.56591
 longitude: 8.15271
 postcode: "77883"
 city: Ottenhöfen im Schwarzwald
-street: "Allerheiligenstraße"
-housenumber: 18
-phone: "+49 7842 2788"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-12:30; Su 08:00-11:00"
-website: "https://www.petersgutebackstube.de/"
+street: Allerheiligenstraße
+housenumber: "18"
+phone: +49 7842 2788
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-12:30; Su 08:00-11:00
+website: https://www.petersgutebackstube.de/

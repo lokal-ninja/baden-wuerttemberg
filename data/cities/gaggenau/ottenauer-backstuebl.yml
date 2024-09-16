@@ -4,8 +4,8 @@ latitude: 48.79182
 longitude: 8.32889
 postcode: "76571"
 city: Gaggenau
-street: "Ebersteinstraße"
-housenumber: 6
-phone: "+49 7225 913198"
-opening_hours: "Mo-Fr 05:30-17:00; Sa 05:30-12:30; Su 08:00-11:00; PH 08:00-11:00"
+street: Ebersteinstraße
+housenumber: "6"
+phone: +49 7225 913198
+opening_hours: Mo-Fr 05:30-17:00; Sa 05:30-12:30; Su 08:00-11:00; PH 08:00-11:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.84463
 longitude: 9.71698
 postcode: "73553"
 city: Alfdorf
-street: "Kirchstraße"
-housenumber: 7
+street: Kirchstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30, 14:30-18:00; We,Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30, 14:30-18:00; We,Sa 09:00-12:00; Su,PH off
 website: ""

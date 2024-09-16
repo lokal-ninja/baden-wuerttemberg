@@ -1,11 +1,11 @@
 id: 194834358
-type: way
+type: node
 latitude: 48.70426
 longitude: 8.75958
 postcode: "75365"
 city: Calw
-street: "Ferdinand-von-Steinbeis-Straße"
-housenumber: 2
+street: Ferdinand-von-Steinbeis-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
 website: ""

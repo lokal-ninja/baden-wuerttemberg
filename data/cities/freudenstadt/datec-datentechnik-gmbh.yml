@@ -4,8 +4,8 @@ latitude: 48.48421
 longitude: 8.41065
 postcode: "72250"
 city: Freudenstadt
-street: "Karneolstraße"
-housenumber: 4
-phone: "+49 7441 88186"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "http://www.datec.jetzt"
+street: Karneolstraße
+housenumber: "4"
+phone: +49 7441 88186
+opening_hours: Mo-Fr 08:00-18:00
+website: http://www.datec.jetzt

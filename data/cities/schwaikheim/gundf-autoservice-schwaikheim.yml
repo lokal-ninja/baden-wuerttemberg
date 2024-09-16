@@ -1,11 +1,11 @@
 id: 122453094
-type: way
+type: node
 latitude: 48.86684
 longitude: 9.35129
 postcode: "71409"
 city: Schwaikheim
-street: "Heinkelstraße"
-housenumber: 8
+street: Heinkelstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00"
+opening_hours: Mo-Fr 07:30-18:00
 website: ""

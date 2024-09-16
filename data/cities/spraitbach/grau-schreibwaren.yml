@@ -1,11 +1,11 @@
 id: 216940819
-type: way
+type: node
 latitude: 48.88052
 longitude: 9.76258
 postcode: "73565"
 city: Spraitbach
-street: "Höniger Straße"
-housenumber: 2
+street: Höniger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

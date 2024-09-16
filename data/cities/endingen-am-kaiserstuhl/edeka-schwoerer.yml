@@ -1,11 +1,11 @@
 id: 200060585
-type: way
+type: node
 latitude: 48.14856
 longitude: 7.70161
 postcode: "79346"
 city: Endingen am Kaiserstuhl
-street: "Maria-Teresia-Straße"
-housenumber: 3
+street: Maria-Teresia-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-schw%C3%B6rer-maria-theresia-stra%C3%9Fe-3/index.jsp"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-schw%C3%B6rer-maria-theresia-stra%C3%9Fe-3/index.jsp

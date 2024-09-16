@@ -4,8 +4,8 @@ latitude: 49.19125
 longitude: 9.22423
 postcode: "74172"
 city: Neckarsulm
-street: "Marktstraße"
-housenumber: 15
-phone: "+49 7132 37843"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.akzenteplus.de/"
+street: Marktstraße
+housenumber: "15"
+phone: +49 7132 37843
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.akzenteplus.de/

@@ -4,8 +4,8 @@ latitude: 49.41096
 longitude: 8.70028
 postcode: "69117"
 city: Heidelberg
-street: "Hauptstraße"
-housenumber: 71
-phone: "+49 6221 9147860"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-18:00"
-website: "https://www.delker-optik.de/filialen/"
+street: Hauptstraße
+housenumber: "71"
+phone: +49 6221 9147860
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-18:00
+website: https://www.delker-optik.de/filialen/

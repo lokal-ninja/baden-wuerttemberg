@@ -4,8 +4,8 @@ latitude: 48.5
 longitude: 10.12967
 postcode: "89129"
 city: Langenau
-street: "In den Lindeschen"
-housenumber: 4
-phone: "+49 7345 96990"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.steck-touristik.de/"
+street: In den Lindeschen
+housenumber: "4"
+phone: +49 7345 96990
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.steck-touristik.de/

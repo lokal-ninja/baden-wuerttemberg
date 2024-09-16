@@ -1,11 +1,11 @@
 id: 44146125
-type: way
+type: node
 latitude: 48.86418
 longitude: 9.03996
 postcode: "71282"
 city: Hemmingen
-street: "Freiherr-von-Varnbüler-Straße"
-housenumber: 3
+street: Freiherr-von-Varnbüler-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

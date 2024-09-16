@@ -1,11 +1,11 @@
 id: 137126837
-type: way
+type: node
 latitude: 47.80038
 longitude: 9.69362
 postcode: "88281"
 city: Schlier
-street: "Altdorfer Straße"
-housenumber: 25
-phone: "+49 7529 2266"
+street: Altdorfer Straße
+housenumber: "25"
+phone: +49 7529 2266
 opening_hours: ""
-website: "https://www.autocenter-mueller.de/"
+website: https://www.autocenter-mueller.de/

@@ -1,11 +1,11 @@
 id: 405982121
-type: way
+type: node
 latitude: 49.07925
 longitude: 9.9796
 postcode: "74586"
 city: Frankenhardt
-street: "Gaildorfer Straße"
-housenumber: 11
+street: Gaildorfer Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

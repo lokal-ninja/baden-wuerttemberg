@@ -1,11 +1,11 @@
 id: 694700854
-type: way
+type: node
 latitude: 49.13462
 longitude: 10.03741
 postcode: "74564"
 city: Crailsheim
-street: "Ludwig-Erhard-Straße"
-housenumber: 118
+street: Ludwig-Erhard-Straße
+housenumber: "118"
 phone: ""
 opening_hours: ""
-website: "https://seat.koch-autogruppe.de"
+website: https://seat.koch-autogruppe.de

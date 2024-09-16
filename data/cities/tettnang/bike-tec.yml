@@ -4,8 +4,8 @@ latitude: 47.67178
 longitude: 9.58835
 postcode: "88069"
 city: Tettnang
-street: "Schulstraße"
-housenumber: 16
+street: Schulstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:30-18:00; We,Sa 09:30-12:30"
-website: "https://biketectettnang.wordpress.com/"
+opening_hours: Mo-Fr 09:30-12:30,14:30-18:00; We,Sa 09:30-12:30
+website: https://biketectettnang.wordpress.com/

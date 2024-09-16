@@ -1,11 +1,11 @@
 id: 922532103
-type: way
+type: node
 latitude: 48.25718
 longitude: 8.84875
 postcode: "72336"
 city: Balingen
-street: "Lange Straße"
-housenumber: 52
+street: Lange Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.39887
 longitude: 9.99014
 postcode: "89073"
 city: Ulm
-street: "Pfauengasse"
-housenumber: 4
-phone: "+49 731 65342"
-opening_hours: "Tu-Fr 10:00-18:00; We 09:30-18:00; Sa 09:30-15:00"
-website: "https://reichhart-schokoladen.de/"
+street: Pfauengasse
+housenumber: "4"
+phone: +49 731 65342
+opening_hours: Tu-Fr 10:00-18:00; We 09:30-18:00; Sa 09:30-15:00
+website: https://reichhart-schokoladen.de/

@@ -1,11 +1,11 @@
 id: 269791656
-type: way
+type: node
 latitude: 49.48832
 longitude: 8.47135
 postcode: "68161"
 city: Mannheim
 street: ""
 housenumber: 1-5
-phone: "+49 621 4802820"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.bauhaus.info/fachcentren/fachcentrum-mannheim/fc/655"
+phone: +49 621 4802820
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.bauhaus.info/fachcentren/fachcentrum-mannheim/fc/655

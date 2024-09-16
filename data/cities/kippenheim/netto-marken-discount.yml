@@ -1,11 +1,11 @@
 id: 194234009
-type: way
+type: node
 latitude: 48.29813
 longitude: 7.81698
 postcode: "77971"
 city: Kippenheim
-street: "Bahnhofstraße"
-housenumber: 43
+street: Bahnhofstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/kippenheim/bahnhofstr-43/5329"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/kippenheim/bahnhofstr-43/5329

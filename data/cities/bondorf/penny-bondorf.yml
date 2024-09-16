@@ -1,11 +1,11 @@
 id: 419774654
-type: way
+type: node
 latitude: 48.5213
 longitude: 8.82851
 postcode: "71149"
 city: Bondorf
-street: "Bahnhofstraße"
-housenumber: 13
+street: Bahnhofstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:30-21:00; Sa 07:30-21:00; Su off; PH off"
+opening_hours: Mo-Fr 07:30-21:00; Sa 07:30-21:00; Su off; PH off
 website: ""

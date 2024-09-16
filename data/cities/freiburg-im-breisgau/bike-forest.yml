@@ -1,11 +1,11 @@
 id: 200935238
-type: way
+type: node
 latitude: 48.012
 longitude: 7.82295
 postcode: "79110"
 city: Freiburg im Breisgau
-street: "Falkenbergerstraße"
-housenumber: 2
+street: Falkenbergerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 10:00-13:30,14:00-18:30; Fr 10:00-13:00,14:00-17:00; Sa 10:00-14:00"
+opening_hours: Mo-Th 10:00-13:30,14:00-18:30; Fr 10:00-13:00,14:00-17:00; Sa 10:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 163374740
-type: way
+type: node
 latitude: 48.07015
 longitude: 8.53524
 postcode: "78056"
 city: Villingen-Schwenningen
-street: "Dauchinger Straße"
-housenumber: 61
+street: Dauchinger Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.82399
 longitude: 8.75943
 postcode: "78234"
 city: Engen
-street: "Dorfstraße"
-housenumber: 20
-phone: "+49 7733 8426"
-opening_hours: "Mo-Fr 06:30-18:00; We,Sa 06:30-12:30"
-website: "https://www.roesch-metzgerei.de"
+street: Dorfstraße
+housenumber: "20"
+phone: +49 7733 8426
+opening_hours: Mo-Fr 06:30-18:00; We,Sa 06:30-12:30
+website: https://www.roesch-metzgerei.de

@@ -1,11 +1,11 @@
 id: 206861166
-type: way
+type: node
 latitude: 48.14633
 longitude: 9.45405
 postcode: ""
 city: Altheim
-street: "Zum Kesselbrunnen"
-housenumber: 1
+street: Zum Kesselbrunnen
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 37743525
-type: way
+type: node
 latitude: 49.32901
 longitude: 9.10963
 postcode: "74821"
 city: Mosbach
-street: "Heilbronner Straße"
-housenumber: 26
+street: Heilbronner Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

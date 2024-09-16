@@ -4,8 +4,8 @@ latitude: 48.49048
 longitude: 9.21459
 postcode: "72764"
 city: Reutlingen
-street: "Wilhelmstraße"
-housenumber: 123
-phone: "+49 7121 93720"
-opening_hours: "Tu-Fr 14:00-18:30,10:00-13:00; Sa 10:00-16:00; Mo off"
-website: "https://www.depperich.de"
+street: Wilhelmstraße
+housenumber: "123"
+phone: +49 7121 93720
+opening_hours: Tu-Fr 14:00-18:30,10:00-13:00; Sa 10:00-16:00; Mo off
+website: https://www.depperich.de

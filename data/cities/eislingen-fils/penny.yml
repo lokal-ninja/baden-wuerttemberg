@@ -1,11 +1,11 @@
 id: 61587481
-type: way
+type: node
 latitude: 48.69224
 longitude: 9.7164
 postcode: "73054"
 city: Eislingen/Fils
-street: "Ulmer Straße"
-housenumber: 79
+street: Ulmer Straße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:30-22:00
+website: https://www.penny.de/

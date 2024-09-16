@@ -4,8 +4,8 @@ latitude: 48.51618
 longitude: 9.06343
 postcode: "72072"
 city: Tübingen
-street: "Eisenbahnstraße"
-housenumber: 1
+street: Eisenbahnstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu,Th,Fr 10:00-18:00; We,Sa 10:00-14:00, Su,Mo,PH off"
-website: "https://decodesign-peters.de"
+opening_hours: Tu,Th,Fr 10:00-18:00; We,Sa 10:00-14:00, Su,Mo,PH off
+website: https://decodesign-peters.de

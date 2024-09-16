@@ -1,11 +1,11 @@
 id: 386185638
-type: way
+type: node
 latitude: 48.70872
 longitude: 9.169
 postcode: "70567"
 city: Stuttgart
-street: "Schelmenwasenstraße"
-housenumber: 30
-phone: "+49 711 954 6070"
-opening_hours: "Mo-Th 07:00-17:00, Fr 07:00-16:00; Sa 08:00-12:00"
-website: "https://www.farbtex.de/verkaufscenter/stuttgart-fasanenhof/"
+street: Schelmenwasenstraße
+housenumber: "30"
+phone: +49 711 954 6070
+opening_hours: Mo-Th 07:00-17:00, Fr 07:00-16:00; Sa 08:00-12:00
+website: https://www.farbtex.de/verkaufscenter/stuttgart-fasanenhof/

@@ -1,11 +1,11 @@
 id: 316214169
-type: way
+type: node
 latitude: 47.60328
 longitude: 9.55153
 postcode: "88085"
 city: Langenargen
-street: "Bildstock"
-housenumber: 30
+street: Bildstock
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://denner-computer.com"
+website: https://denner-computer.com

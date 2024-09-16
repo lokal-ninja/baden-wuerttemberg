@@ -4,8 +4,8 @@ latitude: 49.34606
 longitude: 9.25834
 postcode: "74842"
 city: Billigheim
-street: "Höhenstraße"
-housenumber: 17
+street: Höhenstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Nach Absprache"
+opening_hours: '"Nach Absprache"'
 website: ""

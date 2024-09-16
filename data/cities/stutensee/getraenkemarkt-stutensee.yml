@@ -1,11 +1,11 @@
 id: 221204332
-type: way
+type: node
 latitude: 49.07432
 longitude: 8.45771
 postcode: "76297"
 city: Stutensee
-street: "Lorenzstraße"
-housenumber: 9
+street: Lorenzstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

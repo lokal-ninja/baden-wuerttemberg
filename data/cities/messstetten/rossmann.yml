@@ -1,11 +1,11 @@
 id: 404478004
-type: way
+type: node
 latitude: 48.17493
 longitude: 8.95254
 postcode: "72469"
 city: Meßstetten
-street: "Am Hartheimer Weg"
-housenumber: 1
+street: Am Hartheimer Weg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

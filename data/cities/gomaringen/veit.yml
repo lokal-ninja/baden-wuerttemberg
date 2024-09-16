@@ -4,8 +4,8 @@ latitude: 48.45558
 longitude: 9.09696
 postcode: "72810"
 city: Gomaringen
-street: "Bahnhofstraße"
-housenumber: 19
+street: Bahnhofstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-12:00; Su 08:00-11:00"
-website: "https://www.baeckerhaus-veit.de/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-12:00; Su 08:00-11:00
+website: https://www.baeckerhaus-veit.de/

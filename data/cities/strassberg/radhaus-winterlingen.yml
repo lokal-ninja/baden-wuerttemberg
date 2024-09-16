@@ -1,11 +1,11 @@
 id: 95856491
-type: way
+type: node
 latitude: 48.18271
 longitude: 9.10322
 postcode: "72479"
 city: Straßberg
-street: "Lehrhalde"
-housenumber: 4
+street: Lehrhalde
+housenumber: "4"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-20:00; Sa 10:00-14:00; Su,PH off"
-website: "https://www.radhaus-winterlingen.de/"
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-20:00; Sa 10:00-14:00; Su,PH off
+website: https://www.radhaus-winterlingen.de/

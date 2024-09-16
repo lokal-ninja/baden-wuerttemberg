@@ -4,8 +4,8 @@ latitude: 47.97878
 longitude: 7.80427
 postcode: "79111"
 city: Freiburg im Breisgau
-street: "Andreas-Hofer-Straße"
-housenumber: 128
-phone: "+49 761 484587"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:30-14:00"
+street: Andreas-Hofer-Straße
+housenumber: "128"
+phone: +49 761 484587
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:30-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 122022215
-type: way
+type: node
 latitude: 48.86191
 longitude: 9.43666
 postcode: "71364"
 city: Winnenden
-street: "Herzog-Philipp-Straße"
-housenumber: 45
-phone: "+49 7195 4107825"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We 9:00-13:00; Sa 09:00-14:00"
-website: "https://www.getraenke-kastner.de"
+street: Herzog-Philipp-Straße
+housenumber: "45"
+phone: +49 7195 4107825
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We 9:00-13:00; Sa 09:00-14:00
+website: https://www.getraenke-kastner.de

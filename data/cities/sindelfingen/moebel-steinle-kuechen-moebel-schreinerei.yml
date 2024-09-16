@@ -1,11 +1,11 @@
 id: 46970259
-type: way
+type: node
 latitude: 48.71093
 longitude: 8.99808
 postcode: "71063"
 city: Sindelfingen
-street: "Hirsauer Straße"
-housenumber: 17
+street: Hirsauer Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.moebel-steinle.de/"
+website: https://www.moebel-steinle.de/

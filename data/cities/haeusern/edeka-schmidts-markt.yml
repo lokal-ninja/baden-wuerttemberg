@@ -1,11 +1,11 @@
 id: 149590033
-type: way
+type: node
 latitude: 47.75368
 longitude: 8.16609
 postcode: "79837"
 city: Häusern
-street: "Sankt-Blasier-Straße"
+street: Sankt-Blasier-Straße
 housenumber: 1a
 phone: ""
-opening_hours: "closed"
-website: "https://www.schmidts-maerkte.de/18/markt-haeusern.php?DOC_INST=14"
+opening_hours: closed
+website: https://www.schmidts-maerkte.de/18/markt-haeusern.php?DOC_INST=14

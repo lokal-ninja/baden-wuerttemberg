@@ -5,7 +5,7 @@ longitude: 7.81357
 postcode: "77694"
 city: Kehl
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+49785191860"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "http://www.baumgaertner-kehl.de"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: http://www.baumgaertner-kehl.de

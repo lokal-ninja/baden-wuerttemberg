@@ -4,8 +4,8 @@ latitude: 49.41573
 longitude: 8.68868
 postcode: "69120"
 city: Heidelberg
-street: "Schröderstraße"
-housenumber: 37
+street: Schröderstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Nach Vereinbarung 07:30-20:00"
+opening_hours: '"Nach Vereinbarung 07:30-20:00"'
 website: ""

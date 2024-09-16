@@ -4,8 +4,8 @@ latitude: 48.47142
 longitude: 7.94279
 postcode: "77652"
 city: Offenburg
-street: "Hauptstraße"
-housenumber: 64
-phone: "+49 781 639330"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00"
-website: "https://www.schuh-schaefer.de/offenburg/vorstellung/kurzportraet/"
+street: Hauptstraße
+housenumber: "64"
+phone: +49 781 639330
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:00
+website: https://www.schuh-schaefer.de/offenburg/vorstellung/kurzportraet/

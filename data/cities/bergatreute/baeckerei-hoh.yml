@@ -1,11 +1,11 @@
 id: 365054088
-type: way
+type: node
 latitude: 47.85048
 longitude: 9.74775
 postcode: "88368"
 city: Bergatreute
-street: "Untere Gasse"
-housenumber: 6
+street: Untere Gasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 06:30-12:30,14:30-18:00; We 06:30-12:30; Sa 06:30-12:00"
+opening_hours: Mo-Tu,Th-Fr 06:30-12:30,14:30-18:00; We 06:30-12:30; Sa 06:30-12:00
 website: ""

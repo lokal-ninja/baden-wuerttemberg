@@ -4,8 +4,8 @@ latitude: 49.41133
 longitude: 8.70401
 postcode: "69117"
 city: Heidelberg
-street: "Hauptstraße"
-housenumber: 110
+street: Hauptstraße
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

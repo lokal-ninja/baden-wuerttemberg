@@ -1,11 +1,11 @@
 id: 92421314
-type: way
+type: node
 latitude: 49.03269
 longitude: 8.35971
 postcode: "76185"
 city: Karlsruhe
-street: "Wattstraße"
-housenumber: 8
+street: Wattstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

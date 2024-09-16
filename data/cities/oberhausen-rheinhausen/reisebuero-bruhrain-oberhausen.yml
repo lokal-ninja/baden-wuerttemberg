@@ -4,8 +4,8 @@ latitude: 49.26066
 longitude: 8.48291
 postcode: "68794"
 city: Oberhausen-Rheinhausen
-street: "Adlerstraße"
-housenumber: 1
+street: Adlerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:15-12:30,14:00-18:00;Sa 09:00-12:00;Su,PH off"
+opening_hours: Mo-Fr 08:15-12:30,14:00-18:00;Sa 09:00-12:00;Su,PH off
 website: ""

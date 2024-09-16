@@ -1,11 +1,11 @@
 id: 251640404
-type: way
+type: node
 latitude: 48.95822
 longitude: 9.07943
 postcode: "74343"
 city: Sachsenheim
-street: "Max-Eyth-Straße"
+street: Max-Eyth-Straße
 housenumber: 1/1
-phone: "+49 7147 276737"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-18:00"
+phone: +49 7147 276737
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-18:00
 website: ""

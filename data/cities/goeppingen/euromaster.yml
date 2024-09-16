@@ -1,11 +1,11 @@
 id: 555802938
-type: way
+type: node
 latitude: 48.69847
 longitude: 9.65366
 postcode: "73037"
 city: Göppingen
-street: "Jahnstraße"
-housenumber: 54
-phone: "+49 7161 69031"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00, Sa-Su off"
-website: "https://www.euromaster.de/"
+street: Jahnstraße
+housenumber: "54"
+phone: +49 7161 69031
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00, Sa-Su off
+website: https://www.euromaster.de/

@@ -4,8 +4,8 @@ latitude: 48.99602
 longitude: 8.40476
 postcode: "76137"
 city: Karlsruhe
-street: "Rüppurrer Straße"
-housenumber: 136
+street: Rüppurrer Straße
+housenumber: "136"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
-website: "http://www.autoglas-city.de/"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
+website: http://www.autoglas-city.de/

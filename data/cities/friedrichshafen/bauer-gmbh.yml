@@ -1,11 +1,11 @@
 id: 687896444
-type: way
+type: node
 latitude: 47.67422
 longitude: 9.47812
 postcode: "88045"
 city: Friedrichshafen
-street: "Werner-Diedrich-Straße"
-housenumber: 
+street: Werner-Diedrich-Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

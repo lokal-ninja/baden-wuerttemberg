@@ -1,11 +1,11 @@
 id: 30970688
-type: way
+type: node
 latitude: 48.49305
 longitude: 9.20766
 postcode: ""
 city: Reutlingen
-street: "Willy-Brandt-Platz"
-housenumber: 25
+street: Willy-Brandt-Platz
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

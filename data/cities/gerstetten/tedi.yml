@@ -4,8 +4,8 @@ latitude: 48.62579
 longitude: 10.02149
 postcode: "89547"
 city: Gerstetten
-street: "Osterstraße"
-housenumber: 26
+street: Osterstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.tedi.com"
+opening_hours: Mo-Fr 09:00-19:00, 09:00-18:00; Sa 09:00-16:00
+website: https://www.tedi.com

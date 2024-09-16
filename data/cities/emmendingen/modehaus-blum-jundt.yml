@@ -1,11 +1,11 @@
 id: 227361917
-type: way
+type: node
 latitude: 48.12099
 longitude: 7.8498
 postcode: "79312"
 city: Emmendingen
-street: "Marktplatz"
-housenumber: 8
-phone: "+49 7641 92470"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00;PH off"
+street: Marktplatz
+housenumber: "8"
+phone: +49 7641 92470
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00;PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 114206871
-type: way
+type: node
 latitude: 48.40002
 longitude: 9.94749
 postcode: "89081"
 city: Ulm
-street: "Klosterstraße"
-housenumber: 51
+street: Klosterstraße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

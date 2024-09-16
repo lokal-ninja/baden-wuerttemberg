@@ -1,11 +1,11 @@
 id: 139582366
-type: way
+type: node
 latitude: 48.79088
 longitude: 9.73649
 postcode: "73527"
 city: Schwäbisch Gmünd
-street: "Sachsenhof"
-housenumber: 16
+street: Sachsenhof
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.bio-bauer-bader.de/"
+website: https://www.bio-bauer-bader.de/

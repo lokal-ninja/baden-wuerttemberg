@@ -1,11 +1,11 @@
 id: 26180139
-type: way
+type: node
 latitude: 47.55984
 longitude: 7.97233
 postcode: "79713"
 city: Bad Säckingen
-street: "Schaffhauser Straße"
-housenumber: 90
+street: Schaffhauser Straße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

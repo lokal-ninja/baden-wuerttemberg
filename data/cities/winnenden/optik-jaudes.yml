@@ -1,11 +1,11 @@
 id: 121850394
-type: way
+type: node
 latitude: 48.87705
 longitude: 9.3967
 postcode: "71364"
 city: Winnenden
-street: "Marktstraße"
-housenumber: 9
-phone: "+49 7195 63460"
-opening_hours: "Mo - Fr 9:00 - 18:30; Sa 9:00 - 13:00"
-website: "https://www.optikjaudes.de/"
+street: Marktstraße
+housenumber: "9"
+phone: +49 7195 63460
+opening_hours: Mo - Fr 9:00 - 18:30; Sa 9:00 - 13:00
+website: https://www.optikjaudes.de/

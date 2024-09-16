@@ -4,8 +4,8 @@ latitude: 48.61872
 longitude: 8.12535
 postcode: "77887"
 city: Sasbachwalden
-street: "Talstraße"
-housenumber: 19
-phone: "+49 7841 21463"
-opening_hours: "Mo-Fr 07:30-12:30, 14:30-18:00; Sa 07:30-12:30"
-website: "https://www.mmm-metzgerei.de/"
+street: Talstraße
+housenumber: "19"
+phone: +49 7841 21463
+opening_hours: Mo-Fr 07:30-12:30, 14:30-18:00; Sa 07:30-12:30
+website: https://www.mmm-metzgerei.de/

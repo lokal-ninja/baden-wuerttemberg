@@ -4,8 +4,8 @@ latitude: 48.78713
 longitude: 9.02186
 postcode: "71229"
 city: Leonberg
-street: "Breslauer Straße"
-housenumber: 6
-phone: "+49 7152 43204"
-opening_hours: "Mo-Fr 6:30-18:00; Sa 6:30-12:30; Su 8:00-11:00"
-website: "https://www.zachert-leo.de/"
+street: Breslauer Straße
+housenumber: "6"
+phone: +49 7152 43204
+opening_hours: Mo-Fr 6:30-18:00; Sa 6:30-12:30; Su 8:00-11:00
+website: https://www.zachert-leo.de/

@@ -1,11 +1,11 @@
 id: 193414920
-type: way
+type: node
 latitude: 49.34663
 longitude: 8.7959
 postcode: "69256"
 city: Mauer
-street: "Sandklinge"
-housenumber: 1
+street: Sandklinge
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/mauer/840308/rewe-markt-sandklinge-1/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/mauer/840308/rewe-markt-sandklinge-1/

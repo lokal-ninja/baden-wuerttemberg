@@ -1,11 +1,11 @@
 id: 392663942
-type: way
+type: node
 latitude: 48.87396
 longitude: 9.70467
 postcode: "73553"
 city: Alfdorf
-street: "Voggenbergmühle"
+street: Voggenbergmühle
 housenumber: 3/2
-phone: "+49 7176 6554"
-opening_hours: "We closed; Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.voggenbergmuehle.de/"
+phone: +49 7176 6554
+opening_hours: We closed; Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00
+website: https://www.voggenbergmuehle.de/

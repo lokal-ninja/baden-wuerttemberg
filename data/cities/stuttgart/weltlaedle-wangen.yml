@@ -4,8 +4,8 @@ latitude: 48.77252
 longitude: 9.24249
 postcode: "70327"
 city: Stuttgart
-street: "Buchauer Straße"
-housenumber: 2
+street: Buchauer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,15:00-18:00;Sa 10:00-13:00;PH off"
+opening_hours: Tu-Fr 09:00-12:00,15:00-18:00;Sa 10:00-13:00;PH off
 website: ""

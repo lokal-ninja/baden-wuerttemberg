@@ -5,7 +5,7 @@ longitude: 8.61196
 postcode: "68526"
 city: Ladenburg
 street: ""
-housenumber: 18
-phone: "+49 6203 3579"
+housenumber: "18"
+phone: +49 6203 3579
 opening_hours: ""
-website: "https://www.hofladen-bauernladen.info/"
+website: https://www.hofladen-bauernladen.info/

@@ -1,11 +1,11 @@
 id: 192296642
-type: way
+type: node
 latitude: 48.25938
 longitude: 7.72759
 postcode: "77977"
 city: Rust
-street: "Tullastraße"
-housenumber: 1
+street: Tullastraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/rust/tullastr-1.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/rust/tullastr-1.html

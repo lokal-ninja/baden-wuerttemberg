@@ -1,11 +1,11 @@
 id: 252200440
-type: way
+type: node
 latitude: 48.91907
 longitude: 9.32602
 postcode: "71563"
 city: Affalterbach
-street: "Daimlerstraße"
-housenumber: 1
+street: Daimlerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

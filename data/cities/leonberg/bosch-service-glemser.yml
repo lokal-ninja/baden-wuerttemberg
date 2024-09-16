@@ -1,11 +1,11 @@
 id: 391268213
-type: way
+type: node
 latitude: 48.78346
 longitude: 9.01986
 postcode: "71229"
 city: Leonberg
-street: "Neue Ramtelstraße"
-housenumber: 8
-phone: "+49 7152 48430"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:00"
-website: "https://www.bosch-service-glemser.de/"
+street: Neue Ramtelstraße
+housenumber: "8"
+phone: +49 7152 48430
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-12:00
+website: https://www.bosch-service-glemser.de/

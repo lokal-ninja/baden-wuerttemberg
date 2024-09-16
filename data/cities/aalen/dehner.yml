@@ -1,11 +1,11 @@
 id: 152090105
-type: way
+type: node
 latitude: 48.83492
 longitude: 10.09734
 postcode: "73431"
 city: Aalen
-street: "Wilhelm-Merz-Straße"
-housenumber: 35
-phone: "+49 7361 93670"
-opening_hours: "Mo-Sa 09:00-19:00; PH,Su off"
-website: "https://dehner.de/market/dehner-gartencenter-aalen"
+street: Wilhelm-Merz-Straße
+housenumber: "35"
+phone: +49 7361 93670
+opening_hours: Mo-Sa 09:00-19:00; PH,Su off
+website: https://dehner.de/market/dehner-gartencenter-aalen

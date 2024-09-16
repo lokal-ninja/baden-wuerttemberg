@@ -4,8 +4,8 @@ latitude: 48.83008
 longitude: 9.31044
 postcode: "71332"
 city: Waiblingen
-street: "Blumenstraße"
-housenumber: 23
-phone: "+49 7151 52826"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.laufgut-waeller.de"
+street: Blumenstraße
+housenumber: "23"
+phone: +49 7151 52826
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.laufgut-waeller.de

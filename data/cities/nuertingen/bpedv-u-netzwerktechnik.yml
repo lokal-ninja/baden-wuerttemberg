@@ -1,11 +1,11 @@
 id: 477362589
-type: way
+type: node
 latitude: 48.64592
 longitude: 9.32987
 postcode: "72622"
 city: Nürtingen
-street: "Ohmstraße"
-housenumber: 20
+street: Ohmstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

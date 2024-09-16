@@ -1,11 +1,11 @@
 id: 109920542
-type: way
+type: node
 latitude: 47.55033
 longitude: 7.66925
 postcode: "79639"
 city: Grenzach-Wyhlen
-street: "Im Gleusen"
-housenumber: 2
-phone: "+49 7624 9835380"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-11:00"
-website: "https://www.hieber.de/maerkte-2/grenzach-wyhlen/?modul=42&filiale=14"
+street: Im Gleusen
+housenumber: "2"
+phone: +49 7624 9835380
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-11:00
+website: https://www.hieber.de/maerkte-2/grenzach-wyhlen/?modul=42&filiale=14

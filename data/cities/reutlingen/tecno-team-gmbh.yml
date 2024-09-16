@@ -1,11 +1,11 @@
 id: 35211353
-type: way
+type: node
 latitude: 48.54082
 longitude: 9.16936
 postcode: "72768"
 city: Reutlingen
-street: "Mahdenstraße"
-housenumber: 11
+street: Mahdenstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://tecnoteam.de/"
+website: https://tecnoteam.de/

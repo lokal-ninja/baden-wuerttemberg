@@ -4,8 +4,8 @@ latitude: 48.69782
 longitude: 8.13827
 postcode: "77815"
 city: Bühl
-street: "Grabenstraße"
-housenumber: 1
+street: Grabenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00, 13:00-18:00; We,Sa 09:00-12:00"
-website: "https://megerle.wir-liefern-getraenke.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00, 13:00-18:00; We,Sa 09:00-12:00
+website: https://megerle.wir-liefern-getraenke.de/

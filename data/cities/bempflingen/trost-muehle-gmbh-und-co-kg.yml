@@ -1,11 +1,11 @@
 id: 385683576
-type: way
+type: node
 latitude: 48.57057
 longitude: 9.26493
 postcode: "72658"
 city: Bempflingen
-street: "Mühlstraße"
-housenumber: 2
+street: Mühlstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

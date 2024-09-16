@@ -1,11 +1,11 @@
 id: 239856820
-type: way
+type: node
 latitude: 48.50955
 longitude: 9.04302
 postcode: "72072"
 city: Tübingen
-street: "Europastraße"
-housenumber: 57
-phone: "+49 7071 797 60-0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+street: Europastraße
+housenumber: "57"
+phone: +49 7071 797 60-0
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
 website: ""

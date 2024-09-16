@@ -1,11 +1,11 @@
 id: 148207764
-type: way
+type: node
 latitude: 48.62942
 longitude: 10.18703
 postcode: "89542"
 city: Herbrechtingen
-street: "Daimlerstraße"
-housenumber: 3
+street: Daimlerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

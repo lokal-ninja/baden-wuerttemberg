@@ -1,11 +1,11 @@
 id: 227569034
-type: way
+type: node
 latitude: 48.80085
 longitude: 9.79726
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Marktplatz"
-housenumber: 26
+street: Marktplatz
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

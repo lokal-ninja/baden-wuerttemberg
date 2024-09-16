@@ -4,8 +4,8 @@ latitude: 48.72911
 longitude: 9.10952
 postcode: "70563"
 city: Stuttgart
-street: "Robert-Koch-Straße"
-housenumber: 2
+street: Robert-Koch-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.biomarkt.de/stuttgart-vaihingen-robert-koch-str-2/marktseite"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.biomarkt.de/stuttgart-vaihingen-robert-koch-str-2/marktseite

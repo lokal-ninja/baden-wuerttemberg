@@ -1,11 +1,11 @@
 id: 360580301
-type: way
+type: node
 latitude: 49.10001
 longitude: 8.9733
 postcode: "75031"
 city: Eppingen
-street: "Zabergäustraße"
-housenumber: 11
+street: Zabergäustraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.reinwald-gmbh.de/"
+website: https://www.reinwald-gmbh.de/

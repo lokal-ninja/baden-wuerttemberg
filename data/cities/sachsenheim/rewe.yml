@@ -1,11 +1,11 @@
 id: 314138136
-type: way
+type: node
 latitude: 48.95651
 longitude: 9.07438
 postcode: "74343"
 city: Sachsenheim
-street: "Karl-Heinz-Lüth-Straße"
-housenumber: 2
+street: Karl-Heinz-Lüth-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

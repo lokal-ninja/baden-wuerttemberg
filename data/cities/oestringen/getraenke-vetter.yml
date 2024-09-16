@@ -1,11 +1,11 @@
 id: 40460599
-type: way
+type: node
 latitude: 49.17665
 longitude: 8.79608
 postcode: "76684"
 city: Östringen
-street: "Hermannstraße"
-housenumber: 14
+street: Hermannstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

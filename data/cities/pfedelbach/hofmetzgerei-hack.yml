@@ -5,7 +5,7 @@ longitude: 9.46738
 postcode: "74629"
 city: Pfedelbach
 street: ""
-housenumber: 3
+housenumber: "3"
 phone: ""
-opening_hours: "We 09:00-13:00; Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://hofmetzgerei-hack.de/"
+opening_hours: We 09:00-13:00; Fr 08:00-18:00; Sa 08:00-14:00
+website: https://hofmetzgerei-hack.de/

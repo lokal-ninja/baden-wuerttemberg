@@ -4,8 +4,8 @@ latitude: 47.64416
 longitude: 7.76775
 postcode: "79689"
 city: Maulburg
-street: "Mühleweg"
-housenumber: 20
-phone: "+49 7622 684 6115"
-opening_hours: "Mo-Fr 10:00-12:00, 17:00-19:00; Sa 10:00-12:00"
-website: "https://www.grethermuehle.com"
+street: Mühleweg
+housenumber: "20"
+phone: +49 7622 684 6115
+opening_hours: Mo-Fr 10:00-12:00, 17:00-19:00; Sa 10:00-12:00
+website: https://www.grethermuehle.com

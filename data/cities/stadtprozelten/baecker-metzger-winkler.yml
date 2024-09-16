@@ -1,11 +1,11 @@
 id: 88029581
-type: way
+type: node
 latitude: 49.79145
 longitude: 9.4335
 postcode: "97909"
 city: Stadtprozelten
-street: "Am Dreispitz"
-housenumber: 4
+street: Am Dreispitz
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

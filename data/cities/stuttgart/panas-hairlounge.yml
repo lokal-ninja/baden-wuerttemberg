@@ -4,8 +4,9 @@ latitude: 48.78267
 longitude: 9.17809
 postcode: "70173"
 city: Stuttgart
-street: "Kronenstraße"
-housenumber: 19
+street: Kronenstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Apr-Oct: Mo,We-Fr 09:00-18:00; Apr-Oct: Tu 09:00-17:00; Nov-Mar: Mo,We,Th 09:00-18:00; Nov-Mar: Tu 09:00-17:00; Nov-Mar: Fr 09:00-16:00"
+opening_hours: 'Apr-Oct: Mo,We-Fr 09:00-18:00; Apr-Oct: Tu 09:00-17:00; Nov-Mar: Mo,We,Th
+    09:00-18:00; Nov-Mar: Tu 09:00-17:00; Nov-Mar: Fr 09:00-16:00'
 website: ""

@@ -1,11 +1,11 @@
 id: 185478970
-type: way
+type: node
 latitude: 48.88128
 longitude: 9.52887
 postcode: "73635"
 city: Rudersberg
-street: "Dr.-Hockertz-Straße"
-housenumber: 42
+street: Dr.-Hockertz-Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 07:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00, Sa 07:00-20:00
 website: ""

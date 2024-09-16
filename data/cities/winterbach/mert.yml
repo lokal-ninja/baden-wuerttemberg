@@ -1,11 +1,11 @@
 id: 165333749
-type: way
+type: node
 latitude: 48.7996
 longitude: 9.4817
 postcode: "73650"
 city: Winterbach
-street: "Schorndorfer Straße"
-housenumber: 7
+street: Schorndorfer Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

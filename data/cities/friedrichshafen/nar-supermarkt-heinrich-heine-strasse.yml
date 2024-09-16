@@ -4,8 +4,8 @@ latitude: 47.66034
 longitude: 9.46355
 postcode: "88045"
 city: Friedrichshafen
-street: "Heinrich-Heine-Straße"
-housenumber: 20
-phone: "+ 4975414896108"
-opening_hours: "Mo-Sa 09:00-18:00"
+street: Heinrich-Heine-Straße
+housenumber: "20"
+phone: + 4975414896108
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 376388234
-type: way
+type: node
 latitude: 48.21943
 longitude: 10.06926
 postcode: "89165"
 city: Dietenheim
-street: "Räuchlestraße"
-housenumber: 1
+street: Räuchlestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

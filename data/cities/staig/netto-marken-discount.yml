@@ -1,11 +1,11 @@
 id: 199962936
-type: way
+type: node
 latitude: 48.30433
 longitude: 9.99092
 postcode: "89195"
 city: Staig
-street: "Weihungstraße"
-housenumber: 2
+street: Weihungstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 48.27674
 longitude: 8.08769
 postcode: "77716"
 city: Haslach im Kinzigtal
-street: "Hauptstraße"
-housenumber: 26
-phone: "+49 7832 4349"
-opening_hours: "Mo-Fr 09:00-12:15, Sa 09:00-12:30, Mo-Fr 14:30-18:00"
-website: "https://buchladenhaslach.buchhandlung.de/"
+street: Hauptstraße
+housenumber: "26"
+phone: +49 7832 4349
+opening_hours: Mo-Fr 09:00-12:15, Sa 09:00-12:30, Mo-Fr 14:30-18:00
+website: https://buchladenhaslach.buchhandlung.de/

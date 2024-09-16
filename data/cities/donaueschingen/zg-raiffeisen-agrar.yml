@@ -1,11 +1,11 @@
 id: 90474071
-type: way
+type: node
 latitude: 47.94763
 longitude: 8.49544
 postcode: "78166"
 city: Donaueschingen
-street: "Güterstraße"
-housenumber: 18
-phone: "+49 771 89679110"
+street: Güterstraße
+housenumber: "18"
+phone: +49 771 89679110
 opening_hours: ""
 website: ""

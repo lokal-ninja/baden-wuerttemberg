@@ -4,8 +4,8 @@ latitude: 48.99959
 longitude: 8.47584
 postcode: "76227"
 city: Karlsruhe
-street: "Hengstplatz"
-housenumber: 13
-phone: "+49 721 401193"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00; Mo off"
-website: "https://www.das-zierwerk.de/"
+street: Hengstplatz
+housenumber: "13"
+phone: +49 721 401193
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00; Mo off
+website: https://www.das-zierwerk.de/

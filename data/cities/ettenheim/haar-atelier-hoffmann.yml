@@ -4,8 +4,8 @@ latitude: 48.25439
 longitude: 7.81238
 postcode: "77955"
 city: Ettenheim
-street: "Rohanstraße"
-housenumber: 8
-phone: "+49 7822 1417"
-opening_hours: "Tu-Th 08:00-18:00; Fr 08:00-19:30; Sa 08:00-12:00"
-website: "https://www.haaratelier-hofmann.de/"
+street: Rohanstraße
+housenumber: "8"
+phone: +49 7822 1417
+opening_hours: Tu-Th 08:00-18:00; Fr 08:00-19:30; Sa 08:00-12:00
+website: https://www.haaratelier-hofmann.de/

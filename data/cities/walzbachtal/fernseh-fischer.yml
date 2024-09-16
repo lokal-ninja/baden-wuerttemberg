@@ -1,11 +1,11 @@
 id: 229469215
-type: way
+type: node
 latitude: 49.01226
 longitude: 8.6095
 postcode: "75045"
 city: Walzbachtal
-street: "Wössinger Straße"
-housenumber: 62
+street: Wössinger Straße
+housenumber: "62"
 phone: ""
 opening_hours: ""
-website: "https://www.fernsehfischer.de/"
+website: https://www.fernsehfischer.de/

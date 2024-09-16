@@ -4,8 +4,8 @@ latitude: 48.1396
 longitude: 7.69196
 postcode: "79346"
 city: Endingen am Kaiserstuhl
-street: "Krummackerstraße"
-housenumber: 18
-phone: "+49 7642 920986"
-opening_hours: "Fr 09:30-12:30,16:00-18:30; Sa 10:00-13:00"
-website: "http://www.weinhaus-endingen.de"
+street: Krummackerstraße
+housenumber: "18"
+phone: +49 7642 920986
+opening_hours: Fr 09:30-12:30,16:00-18:30; Sa 10:00-13:00
+website: http://www.weinhaus-endingen.de

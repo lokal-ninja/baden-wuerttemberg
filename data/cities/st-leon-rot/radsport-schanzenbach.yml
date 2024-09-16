@@ -4,8 +4,8 @@ latitude: 49.26295
 longitude: 8.63211
 postcode: "68789"
 city: St. Leon-Rot
-street: "Hauptstraße"
-housenumber: 61
-phone: "+49 6227 880823"
-opening_hours: "Mo-Tu, Th-Fr 09:00-12:30, 15:00-18:00; We, Sa 09:00-13:00"
-website: "https://www.radsport-schanzenbach.de"
+street: Hauptstraße
+housenumber: "61"
+phone: +49 6227 880823
+opening_hours: Mo-Tu, Th-Fr 09:00-12:30, 15:00-18:00; We, Sa 09:00-13:00
+website: https://www.radsport-schanzenbach.de

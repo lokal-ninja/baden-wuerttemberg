@@ -4,8 +4,8 @@ latitude: 47.71929
 longitude: 9.38955
 postcode: "88677"
 city: Markdorf
-street: "Bahnhofstraße"
-housenumber: 5
-phone: "+49 7544 913754"
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-15:00; Sa 09:00-12:00; PH off"
+street: Bahnhofstraße
+housenumber: "5"
+phone: +49 7544 913754
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-15:00; Sa 09:00-12:00; PH off
 website: ""

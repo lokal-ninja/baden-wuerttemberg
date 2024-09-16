@@ -1,11 +1,11 @@
 id: 213869745
-type: way
+type: node
 latitude: 48.4658
 longitude: 8.43889
 postcode: "72250"
 city: Freudenstadt
-street: "Alte Poststraße"
-housenumber: 3
+street: Alte Poststraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 223817150
-type: way
+type: node
 latitude: 49.29259
 longitude: 8.65837
 postcode: "69190"
 city: Walldorf
-street: "Heinrich-Lanz-Straße"
-housenumber: 2
+street: Heinrich-Lanz-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00
 website: ""

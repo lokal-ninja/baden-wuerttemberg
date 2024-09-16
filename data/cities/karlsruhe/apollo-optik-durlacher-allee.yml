@@ -1,11 +1,11 @@
 id: 575970094
-type: way
+type: node
 latitude: 49.00444
 longitude: 8.45024
 postcode: "76137"
 city: Karlsruhe
-street: "Durlacher Allee"
-housenumber: 111
+street: Durlacher Allee
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

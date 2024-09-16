@@ -1,11 +1,11 @@
 id: 15693704
-type: way
+type: node
 latitude: 48.63388
 longitude: 8.99816
 postcode: "71155"
 city: Altdorf
-street: "Alemannenstraße"
-housenumber: 1
+street: Alemannenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

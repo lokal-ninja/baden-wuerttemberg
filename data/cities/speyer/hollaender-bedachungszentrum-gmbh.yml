@@ -1,11 +1,11 @@
 id: 378846798
-type: way
+type: node
 latitude: 49.33413
 longitude: 8.44549
 postcode: "67346"
 city: Speyer
-street: "Auestraße"
-housenumber: 35
+street: Auestraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.hollaender-speyer.de/"
+website: https://www.hollaender-speyer.de/

@@ -4,8 +4,9 @@ latitude: 48.46781
 longitude: 9.22593
 postcode: "72793"
 city: Pfullingen
-street: "Marktstraße"
-housenumber: 11
+street: Marktstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo 11:00-18:30; Tu 09:00-15:00; We off; Th 11:00-19:00; Fr 10:00-17:00; Sa 10:00-14:00; PH,Su off"
+opening_hours: Mo 11:00-18:30; Tu 09:00-15:00; We off; Th 11:00-19:00; Fr 10:00-17:00;
+    Sa 10:00-14:00; PH,Su off
 website: ""

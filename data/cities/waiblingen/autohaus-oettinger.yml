@@ -1,11 +1,11 @@
 id: 122314300
-type: way
+type: node
 latitude: 48.82149
 longitude: 9.31095
 postcode: "71332"
 city: Waiblingen
-street: "Kernenstraße"
-housenumber: 1
+street: Kernenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

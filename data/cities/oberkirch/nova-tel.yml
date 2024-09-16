@@ -4,8 +4,9 @@ latitude: 48.53184
 longitude: 8.07686
 postcode: "77704"
 city: Oberkirch
-street: "Hauptstraße"
-housenumber: 52
-phone: "+49 7802 2093189"
-opening_hours: "Mo,Tu,Fr 09:30-18:00; We 09:30-12:30; Th 09:30-12:30, 15:00-18:00; Sa 09:30-14:00"
-website: "https://www.telekom-partner-oberkirch.de/"
+street: Hauptstraße
+housenumber: "52"
+phone: +49 7802 2093189
+opening_hours: Mo,Tu,Fr 09:30-18:00; We 09:30-12:30; Th 09:30-12:30, 15:00-18:00;
+    Sa 09:30-14:00
+website: https://www.telekom-partner-oberkirch.de/

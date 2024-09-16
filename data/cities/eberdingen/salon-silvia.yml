@@ -1,11 +1,11 @@
 id: 97042901
-type: way
+type: node
 latitude: 48.87887
 longitude: 8.96647
 postcode: "71735"
 city: Eberdingen
-street: "Bachstraße"
-housenumber: 14
+street: Bachstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

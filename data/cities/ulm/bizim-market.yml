@@ -1,11 +1,11 @@
 id: 93461548
-type: way
+type: node
 latitude: 48.36771
 longitude: 9.95793
 postcode: "89079"
 city: Ulm
-street: "Steinbeisstraße"
-housenumber: 25
+street: Steinbeisstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 386185637
-type: way
+type: node
 latitude: 48.70893
 longitude: 9.16878
 postcode: "70567"
 city: Stuttgart
-street: "Schelmenwasenstraße"
-housenumber: 28
-phone: "+49 711 72 40 13"
-opening_hours: "Mo-Th 07:00-17:00, Fr 07:00-15:30"
-website: "https://www.yesss.de/"
+street: Schelmenwasenstraße
+housenumber: "28"
+phone: +49 711 72 40 13
+opening_hours: Mo-Th 07:00-17:00, Fr 07:00-15:30
+website: https://www.yesss.de/

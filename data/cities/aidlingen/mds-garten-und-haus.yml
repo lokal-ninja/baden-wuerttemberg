@@ -1,11 +1,11 @@
 id: 808708147
-type: way
+type: node
 latitude: 48.67718
 longitude: 8.87215
 postcode: "71134"
 city: Aidlingen
-street: "Hardtheimer Weg"
-housenumber: 5
+street: Hardtheimer Weg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.mds-gartenundhaus.de/"
+website: https://www.mds-gartenundhaus.de/

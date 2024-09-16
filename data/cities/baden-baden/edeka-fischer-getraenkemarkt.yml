@@ -1,11 +1,11 @@
 id: 42710256
-type: way
+type: node
 latitude: 48.73157
 longitude: 8.16837
 postcode: "76534"
 city: Baden-Baden
-street: "Mührichstraße"
-housenumber: 12
-phone: "+49 7223 808336"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.edeka.de/eh/südwest/e-aktiv-markt-fischer-mührichstraße-12/"
+street: Mührichstraße
+housenumber: "12"
+phone: +49 7223 808336
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.edeka.de/eh/südwest/e-aktiv-markt-fischer-mührichstraße-12/

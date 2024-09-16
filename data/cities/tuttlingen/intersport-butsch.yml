@@ -1,11 +1,11 @@
 id: 257802547
-type: way
+type: node
 latitude: 47.99687
 longitude: 8.82845
 postcode: "78532"
 city: Tuttlingen
-street: "Carl-Zeiss-Straße"
-housenumber: 2
+street: Carl-Zeiss-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

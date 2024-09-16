@@ -4,8 +4,8 @@ latitude: 49.12536
 longitude: 8.59538
 postcode: "76646"
 city: Bruchsal
-street: "Hoheneggerstraße"
-housenumber: 16
-phone: "+49 7251 3043073"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "http://www.anziba.de/"
+street: Hoheneggerstraße
+housenumber: "16"
+phone: +49 7251 3043073
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-15:00
+website: http://www.anziba.de/

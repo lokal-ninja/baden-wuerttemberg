@@ -1,11 +1,11 @@
 id: 204124686
-type: way
+type: node
 latitude: 48.59737
 longitude: 8.11343
 postcode: "77876"
 city: Kappelrodeck
-street: "Binzigstraße"
-housenumber: 26
+street: Binzigstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/kappelrodeck/binzigstr-26.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/kappelrodeck/binzigstr-26.html

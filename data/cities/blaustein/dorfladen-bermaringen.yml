@@ -4,8 +4,8 @@ latitude: 48.45959
 longitude: 9.84235
 postcode: "89134"
 city: Blaustein
-street: "Dorfstraße"
-housenumber: 8
+street: Dorfstraße
+housenumber: "8"
 phone: "073049259853"
-opening_hours: "Mo-Fr 06:30-12:30,14:30-18:30;Sa 06:30-12:00"
-website: "https://www.dorfladen-bermaringen.de/"
+opening_hours: Mo-Fr 06:30-12:30,14:30-18:30;Sa 06:30-12:00
+website: https://www.dorfladen-bermaringen.de/

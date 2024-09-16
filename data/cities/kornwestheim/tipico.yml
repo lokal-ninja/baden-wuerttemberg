@@ -4,8 +4,8 @@ latitude: 48.8645
 longitude: 9.18356
 postcode: "70806"
 city: Kornwestheim
-street: "Bahnhofstraße"
-housenumber: 8
-phone: "+49 7154 1578663"
-opening_hours: "Mo-Su 10:00-23:00"
-website: "https://www.tipico.de/"
+street: Bahnhofstraße
+housenumber: "8"
+phone: +49 7154 1578663
+opening_hours: Mo-Su 10:00-23:00
+website: https://www.tipico.de/

@@ -4,8 +4,8 @@ latitude: 48.71416
 longitude: 9.52509
 postcode: "73061"
 city: Ebersbach an der Fils
-street: "Hauptstraße"
-housenumber: 3
-phone: "+49 170 3231122"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"
+street: Hauptstraße
+housenumber: "3"
+phone: +49 170 3231122
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30
 website: ""

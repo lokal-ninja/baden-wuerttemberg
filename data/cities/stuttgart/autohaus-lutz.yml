@@ -4,8 +4,8 @@ latitude: 48.72715
 longitude: 9.14192
 postcode: "70567"
 city: Stuttgart
-street: "Vaihinger Straße"
-housenumber: 91
-phone: "+49 711 7160499"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 08:30-12:30; Su off"
-website: "https://www.autohaus-lutz.de"
+street: Vaihinger Straße
+housenumber: "91"
+phone: +49 711 7160499
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 08:30-12:30; Su off
+website: https://www.autohaus-lutz.de

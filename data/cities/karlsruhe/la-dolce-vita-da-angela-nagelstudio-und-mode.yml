@@ -4,8 +4,8 @@ latitude: 48.99842
 longitude: 8.47303
 postcode: "76227"
 city: Karlsruhe
-street: "Marstallstraße"
-housenumber: 12
-phone: "+49 173 3052769"
-opening_hours: "nach Vereinbarung"
+street: Marstallstraße
+housenumber: "12"
+phone: +49 173 3052769
+opening_hours: '"nach Vereinbarung"'
 website: ""

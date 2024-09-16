@@ -1,11 +1,11 @@
 id: 49519983
-type: way
+type: node
 latitude: 49.15272
 longitude: 9.30696
 postcode: "74248"
 city: Ellhofen
-street: "Abtsäckerstraße"
-housenumber: 22
+street: Abtsäckerstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

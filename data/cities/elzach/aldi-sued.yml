@@ -1,11 +1,11 @@
 id: 142902789
-type: way
+type: node
 latitude: 48.16721
 longitude: 8.06109
 postcode: "79215"
 city: Elzach
-street: "Freiburger Straße"
-housenumber: 49
+street: Freiburger Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.41016
 longitude: 8.69507
 postcode: "69117"
 city: Heidelberg
-street: "Hauptstraße"
-housenumber: 19
-phone: "+49 6221 165906"
-opening_hours: "Tu-Sa 10:00-18:30"
-website: "https://www.christ.de/filiale/011/heidelberg-hauptstr-19"
+street: Hauptstraße
+housenumber: "19"
+phone: +49 6221 165906
+opening_hours: Tu-Sa 10:00-18:30
+website: https://www.christ.de/filiale/011/heidelberg-hauptstr-19

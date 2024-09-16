@@ -1,11 +1,11 @@
 id: 322865776
-type: way
+type: node
 latitude: 48.56658
 longitude: 9.30903
 postcode: "72661"
 city: Grafenberg
-street: "Nürtinger Straße"
-housenumber: 30
-phone: "+49 7123 93960"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://www.autohauswurster.de/"
+street: Nürtinger Straße
+housenumber: "30"
+phone: +49 7123 93960
+opening_hours: Mo-Fr 07:30-18:00
+website: https://www.autohauswurster.de/

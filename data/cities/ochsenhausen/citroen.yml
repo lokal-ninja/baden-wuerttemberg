@@ -1,11 +1,11 @@
 id: 263838180
-type: way
+type: node
 latitude: 48.07008
 longitude: 9.93971
 postcode: ""
 city: Ochsenhausen
-street: "Romualdstraße"
-housenumber: 82
+street: Romualdstraße
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

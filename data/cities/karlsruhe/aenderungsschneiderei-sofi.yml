@@ -4,8 +4,8 @@ latitude: 48.98427
 longitude: 8.39187
 postcode: "76199"
 city: Karlsruhe
-street: "Neckarstraße"
-housenumber: 47
+street: Neckarstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We 09:00-13:00; Sa 09:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; We 09:00-13:00; Sa 09:00-13:00
 website: ""

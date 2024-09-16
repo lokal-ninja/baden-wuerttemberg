@@ -1,11 +1,11 @@
 id: 190009142
-type: way
+type: node
 latitude: 48.67293
 longitude: 9.3784
 postcode: "73240"
 city: Wendlingen am Neckar
-street: "Stuttgarter Straße"
-housenumber: 6
+street: Stuttgarter Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

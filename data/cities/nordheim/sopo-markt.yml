@@ -1,11 +1,11 @@
 id: 60928740
-type: way
+type: node
 latitude: 49.11277
 longitude: 9.12931
 postcode: "74226"
 city: Nordheim
-street: "Nordstraße"
-housenumber: 18
+street: Nordstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

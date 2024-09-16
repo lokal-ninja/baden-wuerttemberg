@@ -1,11 +1,11 @@
 id: 199097855
-type: way
+type: node
 latitude: 48.62142
 longitude: 9.55209
 postcode: "73235"
 city: Weilheim an der Teck
-street: "Otto-Hahn-Straße"
-housenumber: 19
+street: Otto-Hahn-Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

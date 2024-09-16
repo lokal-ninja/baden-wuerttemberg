@@ -4,8 +4,8 @@ latitude: 49.23116
 longitude: 8.46137
 postcode: "76661"
 city: Philippsburg
-street: "Gerstenfeldstraße"
-housenumber: 2
-phone: "+49 7256 9254008"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.dm.de/store/de-2669/philippsburg/gerstenfeldstrasse-2"
+street: Gerstenfeldstraße
+housenumber: "2"
+phone: +49 7256 9254008
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.dm.de/store/de-2669/philippsburg/gerstenfeldstrasse-2

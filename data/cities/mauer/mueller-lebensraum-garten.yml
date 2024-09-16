@@ -1,11 +1,11 @@
 id: 156570655
-type: way
+type: node
 latitude: 49.34686
 longitude: 8.79256
 postcode: "69256"
 city: Mauer
-street: "Am Sandgraben"
-housenumber: 2
+street: Am Sandgraben
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://meinlebensraum.com/"
+website: https://meinlebensraum.com/

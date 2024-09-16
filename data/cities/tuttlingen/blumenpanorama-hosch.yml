@@ -1,11 +1,11 @@
 id: 268406868
-type: way
+type: node
 latitude: 47.97452
 longitude: 8.79506
 postcode: "78532"
 city: Tuttlingen
-street: "Dornierstraße"
-housenumber: 5
+street: Dornierstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

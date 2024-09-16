@@ -1,11 +1,11 @@
 id: 348027217
-type: way
+type: node
 latitude: 49.07764
 longitude: 8.46752
 postcode: "76297"
 city: Stutensee
-street: "Am Hasenbiel"
-housenumber: 24
+street: Am Hasenbiel
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-15:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-15:00; Su,PH off
 website: ""

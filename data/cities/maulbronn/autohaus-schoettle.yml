@@ -1,11 +1,11 @@
 id: 199304558
-type: way
+type: node
 latitude: 48.99588
 longitude: 8.79791
 postcode: "75433"
 city: Maulbronn
-street: "Frankfurter Straße"
-housenumber: 81
+street: Frankfurter Straße
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

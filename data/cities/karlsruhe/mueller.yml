@@ -4,8 +4,8 @@ latitude: 49.00958
 longitude: 8.4002
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 169
-phone: "+49 721 2630760"
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://www.mueller.de/"
+street: Kaiserstraße
+housenumber: "169"
+phone: +49 721 2630760
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://www.mueller.de/

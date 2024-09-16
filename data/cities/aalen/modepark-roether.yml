@@ -1,11 +1,11 @@
 id: 152090099
-type: way
+type: node
 latitude: 48.83462
 longitude: 10.09865
 postcode: "73431"
 city: Aalen
-street: "Wilhelm-Merz-Straße"
-housenumber: 41
+street: Wilhelm-Merz-Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 107869180
-type: way
+type: node
 latitude: 49.04108
 longitude: 9.31358
 postcode: "71717"
 city: Beilstein
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

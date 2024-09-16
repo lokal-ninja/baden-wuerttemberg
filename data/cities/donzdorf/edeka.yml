@@ -1,11 +1,11 @@
 id: 377215999
-type: way
+type: node
 latitude: 48.68575
 longitude: 9.80233
 postcode: "73072"
 city: Donzdorf
-street: "Wagnerstraße"
-housenumber: 3
+street: Wagnerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-20:00; PH off
 website: ""

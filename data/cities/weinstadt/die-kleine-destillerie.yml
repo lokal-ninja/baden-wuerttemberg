@@ -4,8 +4,8 @@ latitude: 48.82172
 longitude: 9.3993
 postcode: "71384"
 city: Weinstadt
-street: "Gundelsbacher Straße"
-housenumber: 2
-phone: "+49 7151 9947467"
-opening_hours: "only after registration"
-website: "https://www.kleine-destillerie.de/"
+street: Gundelsbacher Straße
+housenumber: "2"
+phone: +49 7151 9947467
+opening_hours: '"only after registration"'
+website: https://www.kleine-destillerie.de/

@@ -1,11 +1,11 @@
 id: 106285359
-type: way
+type: node
 latitude: 48.27816
 longitude: 8.09313
 postcode: "77716"
 city: Haslach im Kinzigtal
-street: "Im Spießacker"
+street: Im Spießacker
 housenumber: 15-17
-phone: "+49 7832 9998670"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka-lehmann-kinzigtal.de/unsere-maerkte-haslach"
+phone: +49 7832 9998670
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka-lehmann-kinzigtal.de/unsere-maerkte-haslach

@@ -1,11 +1,11 @@
 id: 1112805003
-type: way
+type: node
 latitude: 48.87969
 longitude: 8.65424
 postcode: "75179"
 city: Pforzheim
-street: "Wohnlichstraße"
-housenumber: 10
+street: Wohnlichstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

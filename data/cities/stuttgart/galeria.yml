@@ -4,8 +4,8 @@ latitude: 48.78199
 longitude: 9.18107
 postcode: "70173"
 city: Stuttgart
-street: "Königstraße"
-housenumber: 6
-phone: "+49 711 20360"
-opening_hours: "Mo-Sa 09:30-20:00; PH,Su off"
-website: "https://galeria-kaufhof.de/filialen/stuttgart-koenigsstrasse"
+street: Königstraße
+housenumber: "6"
+phone: +49 711 20360
+opening_hours: Mo-Sa 09:30-20:00; PH,Su off
+website: https://galeria-kaufhof.de/filialen/stuttgart-koenigsstrasse

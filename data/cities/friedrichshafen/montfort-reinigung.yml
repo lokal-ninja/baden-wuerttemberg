@@ -4,8 +4,8 @@ latitude: 47.68827
 longitude: 9.48988
 postcode: "88048"
 city: Friedrichshafen
-street: "Hauptstraße"
-housenumber: 3
-phone: "+49 75 52114"
-opening_hours: "Mo-Fr 08:00-18:00; We,Sa 08:00-12:30; Su,PH off"
-website: "https://www.montfort-reinfix.de/"
+street: Hauptstraße
+housenumber: "3"
+phone: +49 75 52114
+opening_hours: Mo-Fr 08:00-18:00; We,Sa 08:00-12:30; Su,PH off
+website: https://www.montfort-reinfix.de/

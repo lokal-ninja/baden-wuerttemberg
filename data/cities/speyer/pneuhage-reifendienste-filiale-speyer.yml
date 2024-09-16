@@ -1,11 +1,11 @@
 id: 108956752
-type: way
+type: node
 latitude: 49.33202
 longitude: 8.44923
 postcode: "67346"
 city: Speyer
-street: "An der Hofweide"
-housenumber: 24
+street: An der Hofweide
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.pneuhage.de/"
+website: https://www.pneuhage.de/

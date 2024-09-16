@@ -1,11 +1,11 @@
 id: 396665763
-type: way
+type: node
 latitude: 49.068
 longitude: 8.67899
 postcode: "75015"
 city: Bretten
-street: "Im Tal"
-housenumber: 3
+street: Im Tal
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-13:00
 website: ""

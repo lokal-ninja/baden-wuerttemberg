@@ -1,11 +1,11 @@
 id: 673401253
-type: way
+type: node
 latitude: 49.14038
 longitude: 9.40623
 postcode: "74182"
 city: Obersulm
-street: "Wieslensdorfer Straße"
-housenumber: 23
-phone: "+49 7130 4032400"
+street: Wieslensdorfer Straße
+housenumber: "23"
+phone: +49 7130 4032400
 opening_hours: ""
-website: "https://www.abcbuch.de/"
+website: https://www.abcbuch.de/

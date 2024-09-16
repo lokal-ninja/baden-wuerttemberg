@@ -1,11 +1,11 @@
 id: 47360036
-type: way
+type: node
 latitude: 48.8066
 longitude: 9.27561
 postcode: "70734"
 city: Fellbach
-street: "Hintere Straße"
+street: Hintere Straße
 housenumber: 31-35
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00,09:00-13:00; Sa 09:00-13:00"
-website: "https://www.bockorny.de"
+opening_hours: Mo-Fr 14:00-18:00,09:00-13:00; Sa 09:00-13:00
+website: https://www.bockorny.de

@@ -1,11 +1,11 @@
 id: 100196795
-type: way
+type: node
 latitude: 49.04053
 longitude: 9.10651
 postcode: "74357"
 city: Bönnigheim
-street: "Blumenstraße"
-housenumber: 30
-phone: "+49 7143 21687"
-opening_hours: "Tu-Fr 08:30-12:30, 13:30-17:30"
-website: "http://www.lammfell-stiller.de/"
+street: Blumenstraße
+housenumber: "30"
+phone: +49 7143 21687
+opening_hours: Tu-Fr 08:30-12:30, 13:30-17:30
+website: http://www.lammfell-stiller.de/

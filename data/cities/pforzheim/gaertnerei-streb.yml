@@ -1,11 +1,11 @@
 id: 150047847
-type: way
+type: node
 latitude: 48.90936
 longitude: 8.70895
 postcode: "75177"
 city: Pforzheim
-street: "Alter Göbricher Weg"
-housenumber: 38
+street: Alter Göbricher Weg
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

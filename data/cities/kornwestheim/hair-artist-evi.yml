@@ -1,11 +1,11 @@
 id: 124165329
-type: way
+type: node
 latitude: 48.8615
 longitude: 9.18456
 postcode: "70806"
 city: Kornwestheim
-street: "Johannesstraße"
-housenumber: 9
+street: Johannesstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

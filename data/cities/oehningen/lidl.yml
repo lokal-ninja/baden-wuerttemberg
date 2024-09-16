@@ -1,11 +1,11 @@
 id: 202491191
-type: way
+type: node
 latitude: 47.65992
 longitude: 8.88891
 postcode: "78337"
 city: Öhningen
-street: "Höristraße"
-housenumber: 3
+street: Höristraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.de/f/oehningen/hoeristr-3a.html"
+website: https://www.lidl.de/f/oehningen/hoeristr-3a.html

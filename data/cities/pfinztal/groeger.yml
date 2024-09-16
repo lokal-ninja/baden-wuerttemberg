@@ -1,11 +1,12 @@
 id: 217925683
-type: way
+type: node
 latitude: 49.00581
 longitude: 8.53123
 postcode: "76327"
 city: Pfinztal
-street: "An der Bahn"
-housenumber: 9
+street: An der Bahn
+housenumber: "9"
 phone: ""
-opening_hours: "Tu 06:30-13:00; We-Fr 06:30-13:00,15:00-18:00; Sa 06:30-13:00; PH,Su,Mo off"
+opening_hours: Tu 06:30-13:00; We-Fr 06:30-13:00,15:00-18:00; Sa 06:30-13:00; PH,Su,Mo
+    off
 website: ""

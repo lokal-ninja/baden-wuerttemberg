@@ -1,11 +1,11 @@
 id: 341025116
-type: way
+type: node
 latitude: 47.58792
 longitude: 8.08373
 postcode: "79725"
 city: Laufenburg (Baden)
-street: "Lindenstraße"
-housenumber: 9
+street: Lindenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

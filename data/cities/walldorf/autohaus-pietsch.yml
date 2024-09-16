@@ -1,11 +1,11 @@
 id: 223817183
-type: way
+type: node
 latitude: 49.29372
 longitude: 8.6561
 postcode: "69190"
 city: Walldorf
-street: "Wieslocher Straße"
-housenumber: 32
+street: Wieslocher Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.573
 longitude: 8.44826
 postcode: "79801"
 city: Hohentengen am Hochrhein
-street: "Hauptstraße"
-housenumber: 66
+street: Hauptstraße
+housenumber: "66"
 phone: ""
-opening_hours: "08:00-21:00; Su,PH off"
-website: "https://www.aldi-sued.de"
+opening_hours: 08:00-21:00; Su,PH off
+website: https://www.aldi-sued.de

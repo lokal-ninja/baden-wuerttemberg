@@ -1,11 +1,11 @@
 id: 107918987
-type: way
+type: node
 latitude: 48.12829
 longitude: 8.00314
 postcode: ""
 city: Gutach im Breisgau
-street: "Lehmfeldweg"
-housenumber: 3
+street: Lehmfeldweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 07:30-21:00"
+opening_hours: Mo,Tu,Th-Sa 07:30-21:00
 website: ""

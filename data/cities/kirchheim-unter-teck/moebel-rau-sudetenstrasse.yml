@@ -1,11 +1,11 @@
 id: 1251103417
-type: way
+type: node
 latitude: 48.64172
 longitude: 9.47296
 postcode: "73230"
 city: Kirchheim unter Teck
-street: "Sudetenstraße"
-housenumber: 150
+street: Sudetenstraße
+housenumber: "150"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:30-15:00"
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:30-15:00
 website: ""

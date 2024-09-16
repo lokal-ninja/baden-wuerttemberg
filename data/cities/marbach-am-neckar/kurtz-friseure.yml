@@ -4,8 +4,8 @@ latitude: 48.94278
 longitude: 9.2649
 postcode: "71672"
 city: Marbach am Neckar
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: "+4971441602067"
-opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-14:00"
-website: "http://www.kurtz-friseure.de/"
+opening_hours: Tu-Fr 09:00-18:00, Sa 09:00-14:00
+website: http://www.kurtz-friseure.de/

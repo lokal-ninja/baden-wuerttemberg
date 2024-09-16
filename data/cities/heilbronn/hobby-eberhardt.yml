@@ -1,11 +1,11 @@
 id: 35881012
-type: way
+type: node
 latitude: 49.13972
 longitude: 9.21618
 postcode: "74072"
 city: Heilbronn
-street: "Allerheiligenstraße"
-housenumber: 8
+street: Allerheiligenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.hobby-eberhardt.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.hobby-eberhardt.de/

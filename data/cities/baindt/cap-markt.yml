@@ -4,8 +4,8 @@ latitude: 47.84128
 longitude: 9.66149
 postcode: "88255"
 city: Baindt
-street: "Dorfplatz"
-housenumber: 2
-phone: "+49 7502 911610"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:30"
-website: "https://www.cap-markt.de/maerkte/baindt"
+street: Dorfplatz
+housenumber: "2"
+phone: +49 7502 911610
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:30
+website: https://www.cap-markt.de/maerkte/baindt

@@ -1,11 +1,11 @@
 id: 322829003
-type: way
+type: node
 latitude: 48.48175
 longitude: 7.94662
 postcode: "77652"
 city: Offenburg
-street: "Okenstraße"
-housenumber: 74
+street: Okenstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://filiale.kaufland.de/service/filiale/offenburg-okenstr--7700.html"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://filiale.kaufland.de/service/filiale/offenburg-okenstr--7700.html

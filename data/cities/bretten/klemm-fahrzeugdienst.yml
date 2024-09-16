@@ -1,11 +1,11 @@
 id: 309721923
-type: way
+type: node
 latitude: 49.03838
 longitude: 8.67485
 postcode: "75015"
 city: Bretten
-street: "Robert-Bosch-Straße"
-housenumber: 13
+street: Robert-Bosch-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "http://klemm-fahrzeugdienst.de/"
+website: http://klemm-fahrzeugdienst.de/

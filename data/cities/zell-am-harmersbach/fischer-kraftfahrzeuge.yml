@@ -1,11 +1,11 @@
 id: 358575741
-type: way
+type: node
 latitude: 48.32908
 longitude: 8.05121
 postcode: "77736"
 city: Zell am Harmersbach
-street: "Zeller Straße"
-housenumber: 9
+street: Zeller Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

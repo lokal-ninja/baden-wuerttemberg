@@ -1,11 +1,11 @@
 id: 385683210
-type: way
+type: node
 latitude: 48.57341
 longitude: 9.26588
 postcode: "72658"
 city: Bempflingen
-street: "Rathausstraße"
-housenumber: 5
+street: Rathausstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 161273034
-type: way
+type: node
 latitude: 49.44629
 longitude: 8.50436
 postcode: "68199"
 city: Mannheim
-street: "Meckenheimer Straße"
-housenumber: 11
+street: Meckenheimer Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:30-12:00"
-website: "https://www.autohaus-spies-mannheim.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:30-12:00
+website: https://www.autohaus-spies-mannheim.de/

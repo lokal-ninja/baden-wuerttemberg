@@ -1,11 +1,11 @@
 id: 87572573
-type: way
+type: node
 latitude: 48.77269
 longitude: 9.79652
 postcode: "73529"
 city: Schwäbisch Gmünd
-street: "Forststraße"
-housenumber: 31
+street: Forststraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

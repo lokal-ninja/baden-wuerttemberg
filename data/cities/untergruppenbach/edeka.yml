@@ -1,11 +1,11 @@
 id: 829948647
-type: way
+type: node
 latitude: 49.0863
 longitude: 9.27738
 postcode: "74199"
 city: Untergruppenbach
-street: "Mühlweg"
-housenumber: 20
+street: Mühlweg
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

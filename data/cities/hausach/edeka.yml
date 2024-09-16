@@ -1,11 +1,11 @@
 id: 292443418
-type: way
+type: node
 latitude: 48.28398
 longitude: 8.16436
 postcode: "77756"
 city: Hausach
-street: "Hauptstraße"
-housenumber: 80
+street: Hauptstraße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

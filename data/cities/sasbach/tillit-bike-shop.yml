@@ -4,8 +4,8 @@ latitude: 48.63181
 longitude: 8.09989
 postcode: "77880"
 city: Sasbach
-street: "Klammsbosch"
-housenumber: 10
-phone: "+49 7841 8310035"
-opening_hours: "Th,Fr 14:00-19:00; Sa 09:00-13:00"
-website: "https://www.tillit-bikes.de/"
+street: Klammsbosch
+housenumber: "10"
+phone: +49 7841 8310035
+opening_hours: Th,Fr 14:00-19:00; Sa 09:00-13:00
+website: https://www.tillit-bikes.de/

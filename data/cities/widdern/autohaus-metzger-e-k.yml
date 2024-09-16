@@ -1,11 +1,11 @@
 id: 98669415
-type: way
+type: node
 latitude: 49.31593
 longitude: 9.41846
 postcode: "74259"
 city: Widdern
-street: "Möckmühler Straße"
-housenumber: 23
+street: Möckmühler Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://auto-metzger.com/"
+website: https://auto-metzger.com/

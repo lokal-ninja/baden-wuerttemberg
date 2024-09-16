@@ -1,11 +1,11 @@
 id: 41822478
-type: way
+type: node
 latitude: 48.86043
 longitude: 8.23809
 postcode: "76437"
 city: Rastatt
-street: "Untere Wiesen"
-housenumber: 8
-phone: "+49 7222 968780"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dehner.de/"
+street: Untere Wiesen
+housenumber: "8"
+phone: +49 7222 968780
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dehner.de/

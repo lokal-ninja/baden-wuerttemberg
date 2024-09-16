@@ -1,11 +1,11 @@
 id: 378519092
-type: way
+type: node
 latitude: 48.6871
 longitude: 8.05619
 postcode: "77833"
 city: Ottersweier
-street: "Rheinstraße"
-housenumber: 9
+street: Rheinstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

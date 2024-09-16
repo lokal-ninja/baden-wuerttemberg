@@ -1,11 +1,11 @@
 id: 83180359
-type: way
+type: node
 latitude: 48.80181
 longitude: 9.38488
 postcode: "71384"
 city: Weinstadt
-street: "Schumannstraße"
-housenumber: 2
+street: Schumannstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

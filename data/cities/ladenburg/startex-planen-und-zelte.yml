@@ -1,11 +1,11 @@
 id: 176295197
-type: way
+type: node
 latitude: 49.47832
 longitude: 8.59663
 postcode: "68526"
 city: Ladenburg
-street: "Boveristraße"
-housenumber: 32
-phone: "+49 6203 8449210"
+street: Boveristraße
+housenumber: "32"
+phone: +49 6203 8449210
 opening_hours: ""
 website: ""

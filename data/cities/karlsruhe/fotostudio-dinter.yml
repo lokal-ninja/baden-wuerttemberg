@@ -4,8 +4,8 @@ latitude: 48.99946
 longitude: 8.46792
 postcode: "76227"
 city: Karlsruhe
-street: "Pfinztalstraße"
-housenumber: 86
-phone: "+49 721 493599"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; PH,Sa,Su off"
-website: "https://fotostudio-dinter.de/"
+street: Pfinztalstraße
+housenumber: "86"
+phone: +49 721 493599
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; PH,Sa,Su off
+website: https://fotostudio-dinter.de/

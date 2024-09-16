@@ -1,11 +1,11 @@
 id: 164887650
-type: way
+type: node
 latitude: 48.24625
 longitude: 8.96915
 postcode: "72459"
 city: Albstadt
-street: "Heimbolweg"
-housenumber: 5
+street: Heimbolweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.schneider-sportswear.de"
+website: https://www.schneider-sportswear.de

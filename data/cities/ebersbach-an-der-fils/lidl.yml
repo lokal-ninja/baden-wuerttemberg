@@ -1,11 +1,11 @@
 id: 224007578
-type: way
+type: node
 latitude: 48.71312
 longitude: 9.51053
 postcode: "73061"
 city: Ebersbach an der Fils
-street: "Stuttgarter Straße"
-housenumber: 115
+street: Stuttgarter Straße
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su off"
-website: "https://www.lidl.de/f/ebersbach/stuttgarter-str-115.html"
+opening_hours: Mo-Sa 08:00-21:00; Su off
+website: https://www.lidl.de/f/ebersbach/stuttgarter-str-115.html

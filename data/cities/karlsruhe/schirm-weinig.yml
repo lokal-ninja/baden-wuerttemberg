@@ -4,8 +4,8 @@ latitude: 49.0098
 longitude: 8.39683
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 201
+street: Kaiserstraße
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.schirm-weinig.de/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.schirm-weinig.de/

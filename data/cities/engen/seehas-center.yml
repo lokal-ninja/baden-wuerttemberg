@@ -1,11 +1,11 @@
 id: 51686729
-type: way
+type: node
 latitude: 47.85533
 longitude: 8.77233
 postcode: "78234"
 city: Engen
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

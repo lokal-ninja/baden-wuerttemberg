@@ -1,11 +1,11 @@
 id: 148800534
-type: way
+type: node
 latitude: 49.07994
 longitude: 9.06462
 postcode: "74336"
 city: Brackenheim
-street: "Marktstraße"
-housenumber: 18
+street: Marktstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

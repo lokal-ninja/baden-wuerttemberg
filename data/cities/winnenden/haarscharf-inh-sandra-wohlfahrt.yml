@@ -1,11 +1,11 @@
 id: 121850343
-type: way
+type: node
 latitude: 48.87813
 longitude: 9.39701
 postcode: "71364"
 city: Winnenden
-street: "Wilhelmstraße"
-housenumber: 2
-phone: "+49 7195 978999"
+street: Wilhelmstraße
+housenumber: "2"
+phone: +49 7195 978999
 opening_hours: ""
 website: ""

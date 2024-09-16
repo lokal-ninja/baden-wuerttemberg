@@ -4,8 +4,8 @@ latitude: 49.06721
 longitude: 9.07044
 postcode: "74336"
 city: Brackenheim
-street: "Schleicherweg"
-housenumber: 22
-phone: "+49 71 35 / 1 56 27"
-opening_hours: "Mo-Fr 07:30-18:30"
-website: "https://www.oehler-kfz.de/"
+street: Schleicherweg
+housenumber: "22"
+phone: +49 71 35 / 1 56 27
+opening_hours: Mo-Fr 07:30-18:30
+website: https://www.oehler-kfz.de/

@@ -4,8 +4,8 @@ latitude: 48.81928
 longitude: 8.29875
 postcode: "76571"
 city: Gaggenau
-street: "Adolf-Dambach-Straße"
-housenumber: 4
-phone: "+49 7225 988290"
+street: Adolf-Dambach-Straße
+housenumber: "4"
+phone: +49 7225 988290
 opening_hours: ""
-website: "https://www.mertec.de/"
+website: https://www.mertec.de/

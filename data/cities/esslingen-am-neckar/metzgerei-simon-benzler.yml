@@ -1,11 +1,11 @@
 id: 93807964
-type: way
+type: node
 latitude: 48.73023
 longitude: 9.33243
 postcode: "73730"
 city: Esslingen am Neckar
-street: "Hindenburgstraße"
-housenumber: 184
+street: Hindenburgstraße
+housenumber: "184"
 phone: ""
-opening_hours: "Tu-Fr 08:00-13:00, Th,Fr 15:00-18:00, Sa 08:00-12:30"
-website: "https://simon-benzler.de/startseite.html"
+opening_hours: Tu-Fr 08:00-13:00, Th,Fr 15:00-18:00, Sa 08:00-12:30
+website: https://simon-benzler.de/startseite.html

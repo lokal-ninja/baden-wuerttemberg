@@ -4,8 +4,8 @@ latitude: 48.77617
 longitude: 9.17784
 postcode: "70173"
 city: Stuttgart
-street: "Stiftstraße"
-housenumber: 1
+street: Stiftstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://de.loccitane.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://de.loccitane.com/

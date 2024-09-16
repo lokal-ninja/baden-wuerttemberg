@@ -4,8 +4,8 @@ latitude: 48.7736
 longitude: 9.18483
 postcode: "70182"
 city: Stuttgart
-street: "Olgastraße"
-housenumber: 47
+street: Olgastraße
+housenumber: "47"
 phone: "+491775630754"
-opening_hours: "TU-Fr 14:00-19:00; Sa 11:00-16:00"
-website: "www.galerie-fiftyfifty.de"
+opening_hours: TU-Fr 14:00-19:00; Sa 11:00-16:00
+website: www.galerie-fiftyfifty.de

@@ -4,8 +4,8 @@ latitude: 49.38476
 longitude: 8.57706
 postcode: "68723"
 city: Schwetzingen
-street: "Carl-Theodor-Straße"
-housenumber: 18
+street: Carl-Theodor-Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-14:00"
-website: "https://www.akzenteplus.de/schwetzingen-carl-theodor-strasse/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-14:00
+website: https://www.akzenteplus.de/schwetzingen-carl-theodor-strasse/

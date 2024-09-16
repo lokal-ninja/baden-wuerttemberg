@@ -1,11 +1,11 @@
 id: 229924223
-type: way
+type: node
 latitude: 47.72604
 longitude: 8.84218
 postcode: "78239"
 city: Rielasingen-Worblingen
-street: "Eichendorffstraße"
-housenumber: 9
-phone: "+49 7731 8229018"
+street: Eichendorffstraße
+housenumber: "9"
+phone: +49 7731 8229018
 opening_hours: ""
-website: "https://www.radhaus-arlen.de/"
+website: https://www.radhaus-arlen.de/

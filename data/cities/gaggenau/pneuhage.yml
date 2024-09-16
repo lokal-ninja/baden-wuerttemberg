@@ -1,11 +1,11 @@
 id: 296542495
-type: way
+type: node
 latitude: 48.77829
 longitude: 8.34287
 postcode: "76571"
 city: Gaggenau
-street: "Kanalstraße"
-housenumber: 6
-phone: "+49 7224 658999-0"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00, Sa 09:00-12:00"
-website: "https://www.pneuhage.de/filialen/gaggenau-hoerden-0238/"
+street: Kanalstraße
+housenumber: "6"
+phone: +49 7224 658999-0
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00, Sa 09:00-12:00
+website: https://www.pneuhage.de/filialen/gaggenau-hoerden-0238/

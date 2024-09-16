@@ -1,11 +1,11 @@
 id: 425939807
-type: way
+type: node
 latitude: 48.12283
 longitude: 7.84324
 postcode: "79312"
 city: Emmendingen
-street: "Karl-Friedrich-Straße"
-housenumber: 53
-phone: "+49 7641 5994"
+street: Karl-Friedrich-Straße
+housenumber: "53"
+phone: +49 7641 5994
 opening_hours: ""
-website: "https://ja-so.com/"
+website: https://ja-so.com/

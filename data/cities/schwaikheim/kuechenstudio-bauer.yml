@@ -1,11 +1,11 @@
 id: 124442245
-type: way
+type: node
 latitude: 48.87409
 longitude: 9.35667
 postcode: "71409"
 city: Schwaikheim
-street: "Bismarckstraße"
-housenumber: 31
+street: Bismarckstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

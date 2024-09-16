@@ -1,11 +1,11 @@
 id: 675715296
-type: way
+type: node
 latitude: 48.45706
 longitude: 9.09792
 postcode: "72810"
 city: Gomaringen
-street: "Reutlinger Straße"
-housenumber: 6
+street: Reutlinger Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

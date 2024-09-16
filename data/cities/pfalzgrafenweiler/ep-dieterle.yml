@@ -1,11 +1,11 @@
 id: 135711836
-type: way
+type: node
 latitude: 48.52525
 longitude: 8.56583
 postcode: "72285"
 city: Pfalzgrafenweiler
-street: "Kronenstraße"
-housenumber: 4
+street: Kronenstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:15,14:00-18:15; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:15,14:00-18:15; Sa 08:00-12:00
 website: ""

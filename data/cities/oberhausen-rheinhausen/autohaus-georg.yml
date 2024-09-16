@@ -1,11 +1,11 @@
 id: 313950072
-type: way
+type: node
 latitude: 49.25231
 longitude: 8.49614
 postcode: "68794"
 city: Oberhausen-Rheinhausen
-street: "Marienstraße"
-housenumber: 141
+street: Marienstraße
+housenumber: "141"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00;Sa 08:00-12:00; Su,PH off"
-website: "https://www.autohaus-georg.seat.de/"
+opening_hours: Mo-Fr 07:30-18:00;Sa 08:00-12:00; Su,PH off
+website: https://www.autohaus-georg.seat.de/

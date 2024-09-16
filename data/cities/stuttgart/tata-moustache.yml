@@ -4,8 +4,8 @@ latitude: 48.76829
 longitude: 9.17758
 postcode: "70180"
 city: Stuttgart
-street: "Weißenburgstraße"
-housenumber: 18
+street: Weißenburgstraße
+housenumber: "18"
 phone: ""
-opening_hours: "We 10:30-15:00; Sa 09:00-19:30; Th,Fr 10:30-19:30"
+opening_hours: We 10:30-15:00; Sa 09:00-19:30; Th,Fr 10:30-19:30
 website: ""

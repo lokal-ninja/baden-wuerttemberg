@@ -4,8 +4,8 @@ latitude: 49.00983
 longitude: 8.39608
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 209
-phone: "+49 721 98237115"
-opening_hours: "Mo-Sa 10:00-17:00; PH,Su off"
-website: "https://www.rituals.com"
+street: Kaiserstraße
+housenumber: "209"
+phone: +49 721 98237115
+opening_hours: Mo-Sa 10:00-17:00; PH,Su off
+website: https://www.rituals.com

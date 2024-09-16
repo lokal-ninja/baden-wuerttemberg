@@ -1,11 +1,11 @@
 id: 49801299
-type: way
+type: node
 latitude: 48.8007
 longitude: 8.11677
 postcode: "76549"
 city: Hügelsheim
-street: "Am Hecklehamm"
-housenumber: 2
-phone: "+49 7229 6974431"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/südwest/edeka-oser-am-hecklehamm-2/index.jsp"
+street: Am Hecklehamm
+housenumber: "2"
+phone: +49 7229 6974431
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/eh/südwest/edeka-oser-am-hecklehamm-2/index.jsp

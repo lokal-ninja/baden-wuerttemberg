@@ -1,11 +1,11 @@
 id: 284772195
-type: way
+type: node
 latitude: 48.63801
 longitude: 8.0595
 postcode: "77855"
 city: Achern
-street: "Von-Drais-Straße"
-housenumber: 4
-phone: "+49 7841 5064"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 09:00-13:00"
-website: "https://www.reifen-siegmann.de/"
+street: Von-Drais-Straße
+housenumber: "4"
+phone: +49 7841 5064
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00; Sa 09:00-13:00
+website: https://www.reifen-siegmann.de/

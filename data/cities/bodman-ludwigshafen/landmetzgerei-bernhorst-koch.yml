@@ -4,8 +4,8 @@ latitude: 47.79729
 longitude: 9.04167
 postcode: "78351"
 city: Bodman-Ludwigshafen
-street: "Kaiserpfalzstraße"
-housenumber: 109
-phone: "+49 7773 5755"
-opening_hours: "Mo-Sa 07:30-12:30; Fr 14:30-18:00"
-website: "https://www.landmetzgerei-bernhorst-koch.de/"
+street: Kaiserpfalzstraße
+housenumber: "109"
+phone: +49 7773 5755
+opening_hours: Mo-Sa 07:30-12:30; Fr 14:30-18:00
+website: https://www.landmetzgerei-bernhorst-koch.de/

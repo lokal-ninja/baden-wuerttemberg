@@ -1,11 +1,11 @@
 id: 452862354
-type: way
+type: node
 latitude: 48.04335
 longitude: 8.30666
 postcode: "78147"
 city: Vöhrenbach
-street: "Schützenstraße"
-housenumber: 13
+street: Schützenstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

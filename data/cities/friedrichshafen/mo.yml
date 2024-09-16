@@ -4,8 +4,8 @@ latitude: 47.66899
 longitude: 9.47513
 postcode: "88045"
 city: Friedrichshafen
-street: "Faberstraße"
-housenumber: 9
+street: Faberstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

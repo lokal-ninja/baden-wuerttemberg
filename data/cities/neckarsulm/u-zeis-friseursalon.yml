@@ -4,8 +4,8 @@ latitude: 49.19652
 longitude: 9.19977
 postcode: "74172"
 city: Neckarsulm
-street: "Hauptstraße"
-housenumber: 19
-phone: "+497132 42418"
-opening_hours: "Tu-Th 08:00-12:00,14:00-18:00; Fr 08:00-18:00; Sa 07:30-13:00"
+street: Hauptstraße
+housenumber: "19"
+phone: +497132 42418
+opening_hours: Tu-Th 08:00-12:00,14:00-18:00; Fr 08:00-18:00; Sa 07:30-13:00
 website: ""

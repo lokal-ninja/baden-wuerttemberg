@@ -4,8 +4,8 @@ latitude: 48.78658
 longitude: 9.19212
 postcode: "70190"
 city: Stuttgart
-street: "Friedenstraße"
-housenumber: 5
-phone: "+49 711 88834153"
-opening_hours: "Mo-Fr 10:00-13:00,16:00-20:00; Sa 09:00-16:00; PH off"
-website: "http://www.lakanwal-markt.de"
+street: Friedenstraße
+housenumber: "5"
+phone: +49 711 88834153
+opening_hours: Mo-Fr 10:00-13:00,16:00-20:00; Sa 09:00-16:00; PH off
+website: http://www.lakanwal-markt.de

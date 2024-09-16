@@ -1,11 +1,11 @@
 id: 31057488
-type: way
+type: node
 latitude: 48.87503
 longitude: 9.07815
 postcode: "71701"
 city: Schwieberdingen
-street: "Stuttgarter Straße"
-housenumber: 42
+street: Stuttgarter Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

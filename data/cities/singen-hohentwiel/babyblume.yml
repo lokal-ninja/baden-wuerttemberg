@@ -1,11 +1,11 @@
 id: 88448181
-type: way
+type: node
 latitude: 47.75204
 longitude: 8.84939
 postcode: "78224"
 city: Singen (Hohentwiel)
-street: "Bohlinger Straße"
-housenumber: 25
-phone: "+49 7731 63937"
+street: Bohlinger Straße
+housenumber: "25"
+phone: +49 7731 63937
 opening_hours: ""
 website: ""

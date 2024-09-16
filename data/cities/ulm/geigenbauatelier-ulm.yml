@@ -4,8 +4,8 @@ latitude: 48.40101
 longitude: 9.99789
 postcode: "89073"
 city: Ulm
-street: "Auf dem Kreuz"
-housenumber: 4
-phone: "+49 731 1761139"
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:00"
-website: "https://geigenbauatelier-ulm.de/"
+street: Auf dem Kreuz
+housenumber: "4"
+phone: +49 731 1761139
+opening_hours: Mo-Fr 09:00-12:30, 14:00-18:00
+website: https://geigenbauatelier-ulm.de/

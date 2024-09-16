@@ -4,8 +4,8 @@ latitude: 48.77503
 longitude: 9.18918
 postcode: "70184"
 city: Stuttgart
-street: "Alexanderstraße"
-housenumber: 23
+street: Alexanderstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.sazou.de/"
+website: https://www.sazou.de/

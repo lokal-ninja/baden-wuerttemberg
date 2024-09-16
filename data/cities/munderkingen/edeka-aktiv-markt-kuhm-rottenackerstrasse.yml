@@ -1,11 +1,11 @@
 id: 235166572
-type: way
+type: node
 latitude: 48.23676
 longitude: 9.65021
 postcode: "89597"
 city: Munderkingen
-street: "Rottenackerstraße"
-housenumber: 21
+street: Rottenackerstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

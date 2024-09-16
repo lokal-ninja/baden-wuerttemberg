@@ -1,11 +1,11 @@
 id: 285252219
-type: way
+type: node
 latitude: 47.61841
 longitude: 8.25137
 postcode: "79761"
 city: Waldshut-Tiengen
-street: "Marie-Curie-Straße"
-housenumber: 7
+street: Marie-Curie-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"
-website: "https://www.grimm-kuechen.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-16:00
+website: https://www.grimm-kuechen.de/

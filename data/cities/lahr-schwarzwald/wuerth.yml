@@ -1,11 +1,11 @@
 id: 226698471
-type: way
+type: node
 latitude: 48.33299
 longitude: 7.84258
 postcode: "77933"
 city: Lahr/Schwarzwald
-street: "Breisgaustraße"
-housenumber: 37
+street: Breisgaustraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

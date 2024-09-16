@@ -1,11 +1,11 @@
 id: 136965293
-type: way
+type: node
 latitude: 48.28232
 longitude: 8.138
 postcode: "77756"
 city: Hausach
-street: "Hechtsberg"
-housenumber: 10
-phone: "+49 7831 93760"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-14:00"
-website: "https://www.bmw-schmid.de/de/home/"
+street: Hechtsberg
+housenumber: "10"
+phone: +49 7831 93760
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-14:00
+website: https://www.bmw-schmid.de/de/home/

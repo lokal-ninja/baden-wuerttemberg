@@ -1,11 +1,11 @@
 id: 206832987
-type: way
+type: node
 latitude: 48.78791
 longitude: 9.77483
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Eutighofer Straße"
-housenumber: 43
+street: Eutighofer Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://achim-conrad-modellbau.com/"
+website: https://achim-conrad-modellbau.com/

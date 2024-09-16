@@ -4,8 +4,8 @@ latitude: 48.78277
 longitude: 9.17993
 postcode: "70173"
 city: Stuttgart
-street: "Lautenschlagerstraße"
-housenumber: 3
+street: Lautenschlagerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.enterprise.de/de/autovermietung/standorte/deutschland/stuttgart-zentrum-g280.html"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.enterprise.de/de/autovermietung/standorte/deutschland/stuttgart-zentrum-g280.html

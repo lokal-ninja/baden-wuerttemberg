@@ -1,11 +1,11 @@
 id: 120962855
-type: way
+type: node
 latitude: 48.87458
 longitude: 9.40044
 postcode: "71364"
 city: Winnenden
-street: "Wallstraße"
-housenumber: 28
-phone: "+49 7195 920305"
+street: Wallstraße
+housenumber: "28"
+phone: +49 7195 920305
 opening_hours: ""
-website: "http://www.charles-voegele.de"
+website: http://www.charles-voegele.de

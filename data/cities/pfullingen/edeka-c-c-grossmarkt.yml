@@ -1,11 +1,11 @@
 id: 60623493
-type: way
+type: node
 latitude: 48.48332
 longitude: 9.22405
 postcode: "72793"
 city: Pfullingen
-street: "Römerstraße"
-housenumber: 166
+street: Römerstraße
+housenumber: "166"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00, Fr 08:00-18:00, Sa 08:00-13:00"
-website: "https://edeka-foodservice.de/"
+opening_hours: Mo-Th 08:00-17:00, Fr 08:00-18:00, Sa 08:00-13:00
+website: https://edeka-foodservice.de/

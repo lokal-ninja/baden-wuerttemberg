@@ -1,11 +1,11 @@
 id: 117290897
-type: way
+type: node
 latitude: 47.76209
 longitude: 8.80294
 postcode: "78247"
 city: Hilzingen
-street: "Weidgang"
-housenumber: 4
+street: Weidgang
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:30-18:30"
+opening_hours: Mo-Sa 07:30-18:30
 website: ""

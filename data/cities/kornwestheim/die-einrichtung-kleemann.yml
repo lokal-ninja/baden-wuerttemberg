@@ -1,11 +1,11 @@
 id: 121290663
-type: way
+type: node
 latitude: 48.86467
 longitude: 9.20702
 postcode: "70806"
 city: Kornwestheim
-street: "Enzstraße"
-housenumber: 22
+street: Enzstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

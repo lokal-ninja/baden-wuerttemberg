@@ -1,11 +1,11 @@
 id: 101970715
-type: way
+type: node
 latitude: 47.64723
 longitude: 7.80324
 postcode: "79650"
 city: Schopfheim
-street: "Hohe-Flum-Straße"
-housenumber: 1
+street: Hohe-Flum-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

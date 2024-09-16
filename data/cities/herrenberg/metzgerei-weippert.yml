@@ -1,11 +1,12 @@
 id: 30769037
-type: way
+type: node
 latitude: 48.57621
 longitude: 8.92254
 postcode: "71083"
 city: Herrenberg
-street: "Lindenstraße"
-housenumber: 2
-phone: "+49 7032 71425"
-opening_hours: "Tu-We 07:30-12:30; Th-Fr 07:30-12:30,14:30-18:00; Sa 07:00-12:00; Mo off"
-website: "https://metzgerei-weippert.de"
+street: Lindenstraße
+housenumber: "2"
+phone: +49 7032 71425
+opening_hours: Tu-We 07:30-12:30; Th-Fr 07:30-12:30,14:30-18:00; Sa 07:00-12:00; Mo
+    off
+website: https://metzgerei-weippert.de

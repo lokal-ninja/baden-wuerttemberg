@@ -1,11 +1,11 @@
 id: 100460906
-type: way
+type: node
 latitude: 48.80056
 longitude: 9.80235
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Rinderbacher Gasse"
-housenumber: 42
+street: Rinderbacher Gasse
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

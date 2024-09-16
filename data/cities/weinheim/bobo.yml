@@ -4,8 +4,8 @@ latitude: 49.55084
 longitude: 8.67058
 postcode: "69469"
 city: Weinheim
-street: "Bahnhofstraße"
-housenumber: 14
+street: Bahnhofstraße
+housenumber: "14"
 phone: ""
-opening_hours: "We-Fr 08:30-18:00, Sa 08:30-14:00"
-website: "https://www.instagram.com/bobo.brot/"
+opening_hours: We-Fr 08:30-18:00, Sa 08:30-14:00
+website: https://www.instagram.com/bobo.brot/

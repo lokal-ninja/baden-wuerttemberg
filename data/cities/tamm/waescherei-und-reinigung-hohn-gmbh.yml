@@ -4,8 +4,8 @@ latitude: 48.92148
 longitude: 9.12335
 postcode: "71732"
 city: Tamm
-street: "Hauptstraße"
-housenumber: 107
-phone: "+49 7141 604243"
-opening_hours: "Mo-Fr 08:30-12:30, Mo-Tu 14:30-18:00, Th-Fr 14:30-18:00, Sa 08:30-12:30"
-website: "https://www.waescherei-hohn.de/"
+street: Hauptstraße
+housenumber: "107"
+phone: +49 7141 604243
+opening_hours: Mo-Fr 08:30-12:30, Mo-Tu 14:30-18:00, Th-Fr 14:30-18:00, Sa 08:30-12:30
+website: https://www.waescherei-hohn.de/

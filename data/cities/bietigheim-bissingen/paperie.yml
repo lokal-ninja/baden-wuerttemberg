@@ -4,8 +4,8 @@ latitude: 48.95947
 longitude: 9.12782
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Hauptstraße"
-housenumber: 35
+street: Hauptstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.paperie-anger.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.paperie-anger.de/

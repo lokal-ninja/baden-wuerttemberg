@@ -1,11 +1,11 @@
 id: 93903806
-type: way
+type: node
 latitude: 48.80127
 longitude: 9.79536
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Ledergasse"
-housenumber: 9
+street: Ledergasse
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.tuba-reisen.de/"
+website: https://www.tuba-reisen.de/

@@ -1,11 +1,11 @@
 id: 224792058
-type: way
+type: node
 latitude: 49.14132
 longitude: 10.06224
 postcode: "74564"
 city: Crailsheim
-street: "Haller Straße"
-housenumber: 12
+street: Haller Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

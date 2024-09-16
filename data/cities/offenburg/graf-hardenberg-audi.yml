@@ -1,11 +1,11 @@
 id: 322752321
-type: way
+type: node
 latitude: 48.48252
 longitude: 7.93691
 postcode: "77652"
 city: Offenburg
-street: "Otto-Hahn-Straße"
-housenumber: 3
+street: Otto-Hahn-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

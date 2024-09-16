@@ -1,11 +1,11 @@
 id: 173523517
-type: way
+type: node
 latitude: 47.61432
 longitude: 8.29477
 postcode: "79790"
 city: Küssaberg
-street: "Hauptstraße"
-housenumber: 44
-phone: "+49 7741 5691"
+street: Hauptstraße
+housenumber: "44"
+phone: +49 7741 5691
 opening_hours: ""
-website: "https://www.bauernladen.net/"
+website: https://www.bauernladen.net/

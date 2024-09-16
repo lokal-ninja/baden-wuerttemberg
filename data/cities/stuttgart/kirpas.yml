@@ -4,8 +4,8 @@ latitude: 48.78298
 longitude: 9.15951
 postcode: "70176"
 city: Stuttgart
-street: "Kornbergstraße"
-housenumber: 34
+street: Kornbergstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo,We,Fr 08:30-18:30; Sa 08:30-13:30; Tu,Th off"
+opening_hours: Mo,We,Fr 08:30-18:30; Sa 08:30-13:30; Tu,Th off
 website: ""

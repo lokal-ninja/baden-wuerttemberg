@@ -4,8 +4,8 @@ latitude: 49.00976
 longitude: 8.39758
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 199
-phone: "+49 721 16089240"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.salamander.de/filialen/salamander-karlsruhe/"
+street: Kaiserstraße
+housenumber: "199"
+phone: +49 721 16089240
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.salamander.de/filialen/salamander-karlsruhe/

@@ -1,11 +1,11 @@
 id: 107947207
-type: way
+type: node
 latitude: 48.77846
 longitude: 9.23341
 postcode: "70327"
 city: Stuttgart
-street: "Ulmer Straße"
-housenumber: 225
+street: Ulmer Straße
+housenumber: "225"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-16:00
 website: ""

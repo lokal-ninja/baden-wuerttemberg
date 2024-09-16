@@ -1,11 +1,11 @@
 id: 151029102
-type: way
+type: node
 latitude: 49.24852
 longitude: 10.02654
 postcode: "74585"
 city: Rot am See
-street: "Hauptstraße"
-housenumber: 64
+street: Hauptstraße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

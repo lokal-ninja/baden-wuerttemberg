@@ -4,8 +4,8 @@ latitude: 48.83806
 longitude: 9.80039
 postcode: "73557"
 city: Mutlangen
-street: "Sandäcker"
-housenumber: 1
-phone: "+49 717171056"
-opening_hours: "Tu 09:00-14:00; Fr 09:00-18:30; Sa 08:00-12:00"
-website: "http://www.fauser-bioland.de/"
+street: Sandäcker
+housenumber: "1"
+phone: +49 717171056
+opening_hours: Tu 09:00-14:00; Fr 09:00-18:30; Sa 08:00-12:00
+website: http://www.fauser-bioland.de/

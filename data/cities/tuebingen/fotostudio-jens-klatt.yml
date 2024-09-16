@@ -4,8 +4,8 @@ latitude: 48.51119
 longitude: 9.0755
 postcode: "72072"
 city: Tübingen
-street: "Aixer Straße"
-housenumber: 21
-phone: "+49 7071 364047"
-opening_hours: "Mo-Fr 9:00-12:00,13:00-18:00"
-website: "http://www.fotostudio-klatt.de"
+street: Aixer Straße
+housenumber: "21"
+phone: +49 7071 364047
+opening_hours: Mo-Fr 9:00-12:00,13:00-18:00
+website: http://www.fotostudio-klatt.de

@@ -1,11 +1,11 @@
 id: 909186984
-type: way
+type: node
 latitude: 48.81776
 longitude: 9.78393
 postcode: "73527"
 city: Schwäbisch Gmünd
-street: "An der Oberen Halde"
-housenumber: 64
+street: An der Oberen Halde
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

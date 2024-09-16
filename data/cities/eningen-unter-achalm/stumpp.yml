@@ -1,11 +1,11 @@
 id: 1206410789
-type: way
+type: node
 latitude: 48.48098
 longitude: 9.25328
 postcode: "72800"
 city: Eningen unter Achalm
-street: "Reutlinger Straße"
-housenumber: 38
+street: Reutlinger Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

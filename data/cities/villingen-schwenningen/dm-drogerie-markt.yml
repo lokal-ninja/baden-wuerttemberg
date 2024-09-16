@@ -4,8 +4,8 @@ latitude: 48.05989
 longitude: 8.45632
 postcode: "78050"
 city: Villingen-Schwenningen
-street: "Rietstraße"
-housenumber: 40
-phone: "+49 7721 2061598"
-opening_hours: "Mo,Su,PH off; Tu-Sa 08:00-19:00"
-website: "https://www.dm.de/"
+street: Rietstraße
+housenumber: "40"
+phone: +49 7721 2061598
+opening_hours: Mo,Su,PH off; Tu-Sa 08:00-19:00
+website: https://www.dm.de/

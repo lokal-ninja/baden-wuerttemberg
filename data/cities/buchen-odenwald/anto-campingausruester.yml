@@ -1,11 +1,11 @@
 id: 107997577
-type: way
+type: node
 latitude: 49.53582
 longitude: 9.33293
 postcode: "74722"
 city: Buchen (Odenwald)
-street: "Buchener Straße"
-housenumber: 30
+street: Buchener Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00"
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00
 website: ""

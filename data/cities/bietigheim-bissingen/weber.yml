@@ -4,8 +4,8 @@ latitude: 48.95331
 longitude: 9.13482
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Stuttgarter Straße"
-housenumber: 60
-phone: "+49 7142 97710"
-opening_hours: "Mo-Fr 8:30-19:00; Sa 8:30-13:00"
-website: "https://www.optik-weber.de/"
+street: Stuttgarter Straße
+housenumber: "60"
+phone: +49 7142 97710
+opening_hours: Mo-Fr 8:30-19:00; Sa 8:30-13:00
+website: https://www.optik-weber.de/

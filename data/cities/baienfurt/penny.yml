@@ -1,11 +1,11 @@
 id: 132575948
-type: way
+type: node
 latitude: 47.82836
 longitude: 9.64273
 postcode: "88255"
 city: Baienfurt
-street: "Niederbieger Straße"
-housenumber: 70
+street: Niederbieger Straße
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

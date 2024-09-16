@@ -1,11 +1,11 @@
 id: 140182259
-type: way
+type: node
 latitude: 49.18051
 longitude: 10.07224
 postcode: "74589"
 city: Satteldorf
-street: "Industriestraße"
-housenumber: 23
+street: Industriestraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/satteldorf/industriestrasse-23"
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/satteldorf/industriestrasse-23

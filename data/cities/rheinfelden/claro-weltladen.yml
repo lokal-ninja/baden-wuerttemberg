@@ -4,8 +4,9 @@ latitude: 47.55493
 longitude: 7.79452
 postcode: "4310"
 city: Rheinfelden
-street: "Geissgasse"
-housenumber: 6
-phone: "https://www.claro.ch/de/shops"
-opening_hours: "Tu, We, Fr 09:00-12:00; Tu, We, Fr 14:30-18:00; Th 09:00-12:00; Sa 09:00-12:00; Sa 13:30-16:00"
-website: "https://www.claro.ch/"
+street: Geissgasse
+housenumber: "6"
+phone: https://www.claro.ch/de/shops
+opening_hours: Tu, We, Fr 09:00-12:00; Tu, We, Fr 14:30-18:00; Th 09:00-12:00; Sa
+    09:00-12:00; Sa 13:30-16:00
+website: https://www.claro.ch/

@@ -1,11 +1,11 @@
 id: 49695560
-type: way
+type: node
 latitude: 48.78805
 longitude: 9.01534
 postcode: "71229"
 city: Leonberg
-street: "Glemseckstraße"
-housenumber: 49
+street: Glemseckstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 8:30-16:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 8:30-16:00
 website: ""

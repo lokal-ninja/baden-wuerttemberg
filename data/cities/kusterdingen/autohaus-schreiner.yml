@@ -1,11 +1,11 @@
 id: 34561185
-type: way
+type: node
 latitude: 48.52046
 longitude: 9.1109
 postcode: "72127"
 city: Kusterdingen
-street: "Lustnauer Straße"
-housenumber: 72
+street: Lustnauer Straße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

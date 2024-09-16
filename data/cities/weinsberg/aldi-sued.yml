@@ -1,11 +1,11 @@
 id: 101938689
-type: way
+type: node
 latitude: 49.15438
 longitude: 9.27391
 postcode: "74189"
 city: Weinsberg
-street: "Heilbronner Straße"
-housenumber: 65
+street: Heilbronner Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi.de/"
+website: https://www.aldi.de/

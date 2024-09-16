@@ -1,11 +1,11 @@
 id: 121769987
-type: way
+type: node
 latitude: 48.87524
 longitude: 9.40076
 postcode: "71364"
 city: Winnenden
-street: "Marktstraße"
-housenumber: 73
-phone: "+49 7195 3133"
+street: Marktstraße
+housenumber: "73"
+phone: +49 7195 3133
 opening_hours: ""
 website: ""

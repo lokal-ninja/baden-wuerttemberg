@@ -4,8 +4,9 @@ latitude: 49.48879
 longitude: 8.52689
 postcode: "68259"
 city: Mannheim
-street: "Schwanenstraße"
-housenumber: 43
-phone: "+49 621 7900820"
-opening_hours: "Mo,We 09:00-13:00; Tu,Th-Fr 09:00-13:00,15:00-18:30; Sa 08:00-13:00; Su off"
+street: Schwanenstraße
+housenumber: "43"
+phone: +49 621 7900820
+opening_hours: Mo,We 09:00-13:00; Tu,Th-Fr 09:00-13:00,15:00-18:30; Sa 08:00-13:00;
+    Su off
 website: ""

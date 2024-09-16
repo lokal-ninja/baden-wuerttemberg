@@ -4,8 +4,8 @@ latitude: 48.06732
 longitude: 7.88463
 postcode: "79211"
 city: Denzlingen
-street: "Rosenstraße"
-housenumber: 1
+street: Rosenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; Mo off"
+opening_hours: Tu-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; Mo off
 website: ""

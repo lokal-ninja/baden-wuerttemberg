@@ -4,8 +4,8 @@ latitude: 49.47084
 longitude: 8.45615
 postcode: "67061"
 city: Ludwigshafen am Rhein
-street: "Am Luitpoldhafen"
-housenumber: 10
+street: Am Luitpoldhafen
+housenumber: "10"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
-website: "https://kosmetik-silbernagel.de/"
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://kosmetik-silbernagel.de/

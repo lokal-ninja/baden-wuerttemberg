@@ -1,11 +1,11 @@
 id: 403521830
-type: way
+type: node
 latitude: 48.17518
 longitude: 9.11568
 postcode: "72474"
 city: Winterlingen
-street: "Lindenstraße"
-housenumber: 28
+street: Lindenstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

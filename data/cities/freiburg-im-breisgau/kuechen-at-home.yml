@@ -4,8 +4,8 @@ latitude: 48.01264
 longitude: 7.85337
 postcode: "79108"
 city: Freiburg im Breisgau
-street: "Karlsruher Straße"
-housenumber: 3
-phone: "+ 49 761 556550"
-opening_hours: "Th,Fr 15:00-18:30; Sa 11:30-14:30"
-website: "https://kuechenathome.de/kuechenstudio/"
+street: Karlsruher Straße
+housenumber: "3"
+phone: + 49 761 556550
+opening_hours: Th,Fr 15:00-18:30; Sa 11:30-14:30
+website: https://kuechenathome.de/kuechenstudio/

@@ -1,11 +1,11 @@
 id: 96644429
-type: way
+type: node
 latitude: 49.14999
 longitude: 9.13332
 postcode: "74211"
 city: Leingarten
-street: "Daimlerstraße"
-housenumber: 50
-phone: "+49 7131 399260"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.obi.de/markt/leingarten?wt=mc_gp"
+street: Daimlerstraße
+housenumber: "50"
+phone: +49 7131 399260
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.obi.de/markt/leingarten?wt=mc_gp

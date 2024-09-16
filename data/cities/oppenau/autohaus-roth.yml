@@ -1,11 +1,11 @@
 id: 86253434
-type: way
+type: node
 latitude: 48.4793
 longitude: 8.15308
 postcode: "77728"
 city: Oppenau
-street: "Hofmattenstraße"
-housenumber: 2
+street: Hofmattenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.77143
 longitude: 9.14547
 postcode: "70197"
 city: Stuttgart
-street: "Rotenwaldstraße"
-housenumber: 99
+street: Rotenwaldstraße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Fr 09:00-14:00, 16:00-19:00, Sa 09:00-14:00"
-website: "https://kiosk-kleist-stop.business.site"
+opening_hours: Mo-Fr 09:00-14:00, 16:00-19:00, Sa 09:00-14:00
+website: https://kiosk-kleist-stop.business.site

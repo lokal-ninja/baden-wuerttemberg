@@ -1,11 +1,11 @@
 id: 196375740
-type: way
+type: node
 latitude: 47.75099
 longitude: 8.45736
 postcode: ""
 city: Stühlingen
-street: "Bundesstraße"
-housenumber: 7
+street: Bundesstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.7028
 longitude: 9.65367
 postcode: "73033"
 city: Göppingen
-street: "Marktstraße"
-housenumber: 22
+street: Marktstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.hm.com"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.hm.com

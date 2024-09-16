@@ -1,11 +1,11 @@
 id: 173194545
-type: way
+type: node
 latitude: 47.55494
 longitude: 8.03071
 postcode: "79730"
 city: Murg
-street: "Hauptstraße"
-housenumber: 99
+street: Hauptstraße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

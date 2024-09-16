@@ -1,11 +1,11 @@
 id: 226754789
-type: way
+type: node
 latitude: 48.89441
 longitude: 9.19087
 postcode: "71638"
 city: Ludwigsburg
-street: "Mathildenstraße"
-housenumber: 19
+street: Mathildenstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

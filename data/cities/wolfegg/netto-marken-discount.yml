@@ -1,11 +1,11 @@
 id: 785632825
-type: way
+type: node
 latitude: 47.82175
 longitude: 9.798
 postcode: "88364"
 city: Wolfegg
-street: "Alttanner Straße"
-housenumber: 12
+street: Alttanner Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su off"
-website: "https://www.netto-online.de/filialen/Wolfegg/Alttanner-Str-12/4486/"
+opening_hours: Mo-Sa 07:00-21:00; Su off
+website: https://www.netto-online.de/filialen/Wolfegg/Alttanner-Str-12/4486/

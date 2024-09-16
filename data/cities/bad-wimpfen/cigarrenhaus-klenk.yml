@@ -4,8 +4,8 @@ latitude: 49.23
 longitude: 9.15768
 postcode: "74206"
 city: Bad Wimpfen
-street: "Rappenauer Straße"
-housenumber: 7
-phone: "+49 7063 977012"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-13:00;Su,PH off"
-website: "http://www.humidorservice.de/"
+street: Rappenauer Straße
+housenumber: "7"
+phone: +49 7063 977012
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-13:00;Su,PH off
+website: http://www.humidorservice.de/

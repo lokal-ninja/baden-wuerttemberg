@@ -1,11 +1,11 @@
 id: 589760394
-type: way
+type: node
 latitude: 48.70251
 longitude: 9.6509
 postcode: "73033"
 city: Göppingen
-street: "Wühlestraße"
-housenumber: 26
+street: Wühlestraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-14:00
 website: ""

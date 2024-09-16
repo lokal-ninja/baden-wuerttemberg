@@ -1,11 +1,11 @@
 id: 61480875
-type: way
+type: node
 latitude: 48.62316
 longitude: 7.89592
 postcode: "77866"
 city: Rheinau
-street: "Holzhauser Straße"
-housenumber: 15
+street: Holzhauser Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

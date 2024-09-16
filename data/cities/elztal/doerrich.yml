@@ -1,11 +1,11 @@
 id: 123503351
-type: way
+type: node
 latitude: 49.42554
 longitude: 9.23229
 postcode: "74834"
 city: Elztal
-street: "Georgstraße"
-housenumber: 10
+street: Georgstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

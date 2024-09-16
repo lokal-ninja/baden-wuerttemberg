@@ -4,8 +4,8 @@ latitude: 48.80068
 longitude: 9.01574
 postcode: "71229"
 city: Leonberg
-street: "Graf-Eberhard-Straße"
-housenumber: 7
-phone: "+49 7152 25368"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-12:30"
-website: "https://haarstudio-meli.de/"
+street: Graf-Eberhard-Straße
+housenumber: "7"
+phone: +49 7152 25368
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:30-12:30
+website: https://haarstudio-meli.de/

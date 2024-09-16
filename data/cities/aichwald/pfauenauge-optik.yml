@@ -4,8 +4,8 @@ latitude: 48.75906
 longitude: 9.37722
 postcode: "73773"
 city: Aichwald
-street: "Seestraße"
-housenumber: 3
+street: Seestraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30; PH,Su closed"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30; PH,Su closed
 website: ""

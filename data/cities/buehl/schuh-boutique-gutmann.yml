@@ -4,8 +4,8 @@ latitude: 48.69446
 longitude: 8.13555
 postcode: "77815"
 city: Bühl
-street: "Hauptstraße"
-housenumber: 30
-phone: "+49 7223 24929"
-opening_hours: "Mo,Tu,Th,Fr 09:30-13:00, 14:30-18:30; We 09:30-13:00; Sa 09:30-13:30"
-website: "http://schuh-gutmann.de"
+street: Hauptstraße
+housenumber: "30"
+phone: +49 7223 24929
+opening_hours: Mo,Tu,Th,Fr 09:30-13:00, 14:30-18:30; We 09:30-13:00; Sa 09:30-13:30
+website: http://schuh-gutmann.de

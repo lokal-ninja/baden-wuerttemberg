@@ -4,8 +4,8 @@ latitude: 49.14969
 longitude: 9.21401
 postcode: "74076"
 city: Heilbronn
-street: "Fügerstraße"
-housenumber: 3
-phone: "+49 7131 594660"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.betten-friz.de/"
+street: Fügerstraße
+housenumber: "3"
+phone: +49 7131 594660
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.betten-friz.de/

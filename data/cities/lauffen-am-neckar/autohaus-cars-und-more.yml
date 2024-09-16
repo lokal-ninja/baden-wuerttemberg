@@ -1,11 +1,11 @@
 id: 130043978
-type: way
+type: node
 latitude: 49.07046
 longitude: 9.1582
 postcode: "74348"
 city: Lauffen am Neckar
-street: "Stuttgarter Straße"
-housenumber: 77
-phone: "+49 7133 9018600"
-opening_hours: "24/7"
-website: "https://www.autohaus-sachsenheimer.de/"
+street: Stuttgarter Straße
+housenumber: "77"
+phone: +49 7133 9018600
+opening_hours: 24/7
+website: https://www.autohaus-sachsenheimer.de/

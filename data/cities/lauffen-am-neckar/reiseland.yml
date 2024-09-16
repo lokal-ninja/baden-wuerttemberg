@@ -1,11 +1,11 @@
 id: 103013148
-type: way
+type: node
 latitude: 49.07599
 longitude: 9.1487
 postcode: "74348"
 city: Lauffen am Neckar
-street: "Bahnhofstraße"
-housenumber: 32
-phone: "+49-7133-6006"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"
-website: "https://www.reiseland-eisele.de/"
+street: Bahnhofstraße
+housenumber: "32"
+phone: +49-7133-6006
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30
+website: https://www.reiseland-eisele.de/

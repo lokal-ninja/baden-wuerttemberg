@@ -1,11 +1,11 @@
 id: 290460516
-type: way
+type: node
 latitude: 49.18571
 longitude: 8.42385
 postcode: "76706"
 city: Dettenheim
-street: "Huttenheimer Straße"
-housenumber: 24
+street: Huttenheimer Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

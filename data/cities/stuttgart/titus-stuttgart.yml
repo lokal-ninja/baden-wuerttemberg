@@ -4,8 +4,8 @@ latitude: 48.77505
 longitude: 9.17709
 postcode: "70173"
 city: Stuttgart
-street: "Hirschstraße"
-housenumber: 14
+street: Hirschstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-19:00"
-website: "https://www.titus.de/shops/stuttgart/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-19:00
+website: https://www.titus.de/shops/stuttgart/

@@ -1,11 +1,11 @@
 id: 26308226
-type: way
+type: node
 latitude: 48.28074
 longitude: 9.97793
 postcode: "89194"
 city: Schnürpflingen
-street: "Ortsstraße"
-housenumber: 6
+street: Ortsstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

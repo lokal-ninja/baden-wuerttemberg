@@ -1,11 +1,11 @@
 id: 194491186
-type: way
+type: node
 latitude: 49.11219
 longitude: 8.47167
 postcode: "76297"
 city: Stutensee
-street: "Heinrich-Hertz-Straße"
-housenumber: 1
+street: Heinrich-Hertz-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

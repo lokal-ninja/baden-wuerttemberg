@@ -4,8 +4,8 @@ latitude: 48.99732
 longitude: 9.77056
 postcode: "74405"
 city: Gaildorf
-street: "Gartenstraße"
-housenumber: 38
-phone: "+49 7971 911554"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.rewe.de"
+street: Gartenstraße
+housenumber: "38"
+phone: +49 7971 911554
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.rewe.de

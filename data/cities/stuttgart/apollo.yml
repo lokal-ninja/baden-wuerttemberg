@@ -4,8 +4,8 @@ latitude: 48.77476
 longitude: 9.17457
 postcode: "70173"
 city: Stuttgart
-street: "Königstraße"
-housenumber: 62
-phone: "+49 711 28414460"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://filialen.apollo.de/baden-wuerttemberg/stuttgart/koenigstr--62.html"
+street: Königstraße
+housenumber: "62"
+phone: +49 711 28414460
+opening_hours: Mo-Sa 10:00-19:00
+website: https://filialen.apollo.de/baden-wuerttemberg/stuttgart/koenigstr--62.html

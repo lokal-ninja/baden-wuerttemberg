@@ -1,11 +1,11 @@
 id: 301632137
-type: way
+type: node
 latitude: 48.58312
 longitude: 9.8719
 postcode: "73340"
 city: Amstetten
-street: "Römerstraße"
-housenumber: 13
+street: Römerstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.baeumler-natursteine.de/"
+website: https://www.baeumler-natursteine.de/

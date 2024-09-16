@@ -4,8 +4,8 @@ latitude: 48.56758
 longitude: 9.39752
 postcode: "72660"
 city: Beuren
-street: "Balzholzer Straße"
-housenumber: 23
-phone: "+49 7025 2947"
-opening_hours: "Mo-Fr 08:00-12:00; Mo-Fr 13:00-17:00; Sa nach Vereinbarung"
+street: Balzholzer Straße
+housenumber: "23"
+phone: +49 7025 2947
+opening_hours: Mo-Fr 08:00-12:00; Mo-Fr 13:00-17:00; Sa "nach Vereinbarung"
 website: ""

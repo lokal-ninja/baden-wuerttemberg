@@ -4,8 +4,8 @@ latitude: 48.77488
 longitude: 9.14678
 postcode: "70193"
 city: Stuttgart
-street: "Bebelstraße"
-housenumber: 82
+street: Bebelstraße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
-website: "http://liebestier-online.de"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
+website: http://liebestier-online.de

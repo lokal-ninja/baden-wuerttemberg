@@ -1,11 +1,11 @@
 id: 90300199
-type: way
+type: node
 latitude: 49.46609
 longitude: 8.66303
 postcode: "69198"
 city: Schriesheim
-street: "Carl-Benz-Straße"
-housenumber: 12
+street: Carl-Benz-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-knopf.de/"
+website: https://www.autohaus-knopf.de/

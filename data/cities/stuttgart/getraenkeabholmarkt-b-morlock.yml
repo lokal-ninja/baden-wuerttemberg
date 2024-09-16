@@ -4,8 +4,8 @@ latitude: 48.76404
 longitude: 9.17216
 postcode: "70180"
 city: Stuttgart
-street: "Filderstraße"
-housenumber: 37
+street: Filderstraße
+housenumber: "37"
 phone: "+497116402675"
-opening_hours: "Mo-Th 08:00-13:00,14:30-19:00; Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.getraenke-morlok.de/"
+opening_hours: Mo-Th 08:00-13:00,14:30-19:00; Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.getraenke-morlok.de/

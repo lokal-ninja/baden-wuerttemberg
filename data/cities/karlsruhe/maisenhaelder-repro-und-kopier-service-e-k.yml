@@ -1,11 +1,11 @@
 id: 89019779
-type: way
+type: node
 latitude: 49.02065
 longitude: 8.36562
 postcode: "76187"
 city: Karlsruhe
-street: "Hertzstraße"
-housenumber: 12
+street: Hertzstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; PH closed"
+opening_hours: Mo-Fr 08:00-17:00; PH closed
 website: ""

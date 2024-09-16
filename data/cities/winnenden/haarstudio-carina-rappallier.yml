@@ -4,8 +4,8 @@ latitude: 48.87605
 longitude: 9.39482
 postcode: "71364"
 city: Winnenden
-street: "Waiblinger Straße"
-housenumber: 6
-phone: "+49 7195 958888"
-opening_hours: "Nach Vereinbarung"
-website: "http://www.rappallier.de/haarstudio/"
+street: Waiblinger Straße
+housenumber: "6"
+phone: +49 7195 958888
+opening_hours: '"Nach Vereinbarung"'
+website: http://www.rappallier.de/haarstudio/

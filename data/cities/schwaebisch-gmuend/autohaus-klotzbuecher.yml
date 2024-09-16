@@ -1,11 +1,11 @@
 id: 148554129
-type: way
+type: node
 latitude: 48.80533
 longitude: 9.84835
 postcode: "73527"
 city: Schwäbisch Gmünd
-street: "Im Benzfeld"
-housenumber: 50
+street: Im Benzfeld
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://auto-klotzbuecher.com/"
+website: https://auto-klotzbuecher.com/

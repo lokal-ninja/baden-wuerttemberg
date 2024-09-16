@@ -4,8 +4,8 @@ latitude: 48.39968
 longitude: 9.98864
 postcode: "89073"
 city: Ulm
-street: "Walfischgasse"
-housenumber: 16
+street: Walfischgasse
+housenumber: "16"
 phone: "+4973155212721"
-opening_hours: "Tu-Fr 10:00-16:00; Sa 10:00-14:00"
-website: "https://www.klappradulm.de/"
+opening_hours: Tu-Fr 10:00-16:00; Sa 10:00-14:00
+website: https://www.klappradulm.de/

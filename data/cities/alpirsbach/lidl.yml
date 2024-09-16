@@ -1,11 +1,11 @@
 id: 110581064
-type: way
+type: node
 latitude: 48.34671
 longitude: 8.41203
 postcode: "72275"
 city: Alpirsbach
-street: "Freudenstädter Straße"
-housenumber: 78
+street: Freudenstädter Straße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

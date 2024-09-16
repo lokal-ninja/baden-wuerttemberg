@@ -1,11 +1,11 @@
 id: 704347476
-type: way
+type: node
 latitude: 48.48388
 longitude: 7.94797
 postcode: "77652"
 city: Offenburg
-street: "Maria-und-Georg-Dietrich-Straße"
-housenumber: 31
+street: Maria-und-Georg-Dietrich-Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.boels.de/"
+website: https://www.boels.de/

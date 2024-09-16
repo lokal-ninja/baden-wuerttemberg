@@ -1,11 +1,11 @@
 id: 96021508
-type: way
+type: node
 latitude: 48.96456
 longitude: 8.3064
 postcode: "76287"
 city: Rheinstetten
-street: "Gewerbering"
-housenumber: 23
+street: Gewerbering
+housenumber: "23"
 phone: ""
-opening_hours: "Mo,We-Fr 10:00-12:30,13:30-19:00; Tu 14:00-19:00; Sa 10:00-14:00"
+opening_hours: Mo,We-Fr 10:00-12:30,13:30-19:00; Tu 14:00-19:00; Sa 10:00-14:00
 website: ""

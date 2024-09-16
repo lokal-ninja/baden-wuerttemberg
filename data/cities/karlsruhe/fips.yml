@@ -4,8 +4,8 @@ latitude: 49.01157
 longitude: 8.36199
 postcode: "76185"
 city: Karlsruhe
-street: "Rheinstraße"
-housenumber: 22
-phone: "+49 724 321275"
-opening_hours: "Mo-Fr 10:00-14:00,14:30-18:30; Sa 10:00-14:00"
+street: Rheinstraße
+housenumber: "22"
+phone: +49 724 321275
+opening_hours: Mo-Fr 10:00-14:00,14:30-18:30; Sa 10:00-14:00
 website: ""

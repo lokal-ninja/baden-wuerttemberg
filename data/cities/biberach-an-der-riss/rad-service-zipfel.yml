@@ -1,11 +1,11 @@
 id: 105672514
-type: way
+type: node
 latitude: 48.10051
 longitude: 9.78804
 postcode: "88400"
 city: Biberach an der Riß
-street: "Ehinger-Tor-Straße"
-housenumber: 25
+street: Ehinger-Tor-Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,14:00-17:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:30-13:00,14:00-17:00; Sa 09:00-12:00
 website: ""

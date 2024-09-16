@@ -4,8 +4,8 @@ latitude: 48.83653
 longitude: 10.09118
 postcode: "73430"
 city: Aalen
-street: "Gartenstraße"
-housenumber: 1
+street: Gartenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-14:00"
-website: "http://www.bstyled.de/"
+opening_hours: Mo-We 09:00-18:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-14:00
+website: http://www.bstyled.de/

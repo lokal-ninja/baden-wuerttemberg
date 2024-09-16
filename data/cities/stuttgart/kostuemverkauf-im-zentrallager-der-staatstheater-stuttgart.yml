@@ -4,8 +4,9 @@ latitude: 48.81986
 longitude: 9.21578
 postcode: "70376"
 city: Stuttgart
-street: "Zuckerfabrik"
-housenumber: 19
+street: Zuckerfabrik
+housenumber: "19"
 phone: ""
-opening_hours: "Sa[1] 10:00-14:00 open Jeden ersten Samstag im Monat 10 bis 14 Uhr, außer in den Theaterferien (Sommerferien) und an Feiertagen.; PH off"
-website: "https://www.staatstheater-stuttgart.de/service/gut-zu-wissen/"
+opening_hours: Sa[1] 10:00-14:00 open "Jeden ersten Samstag im Monat 10 bis 14 Uhr,
+    außer in den Theaterferien (Sommerferien) und an Feiertagen."; PH off
+website: https://www.staatstheater-stuttgart.de/service/gut-zu-wissen/

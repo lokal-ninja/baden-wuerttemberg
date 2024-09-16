@@ -1,11 +1,11 @@
 id: 195026787
-type: way
+type: node
 latitude: 48.70666
 longitude: 8.76546
 postcode: "75365"
 city: Calw
-street: "Im Feldle"
-housenumber: 3
-phone: "+49 7051 4834"
-opening_hours: "Tu-Fr 08:00-13:00,14:30-18:00; Sa 08:00-12:30"
+street: Im Feldle
+housenumber: "3"
+phone: +49 7051 4834
+opening_hours: Tu-Fr 08:00-13:00,14:30-18:00; Sa 08:00-12:30
 website: ""

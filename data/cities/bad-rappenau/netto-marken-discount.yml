@@ -1,11 +1,11 @@
 id: 444280613
-type: way
+type: node
 latitude: 49.23519
 longitude: 9.09368
 postcode: "74906"
 city: Bad Rappenau
-street: "Raiffeisenstraße"
-housenumber: 29
+street: Raiffeisenstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de

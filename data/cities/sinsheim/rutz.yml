@@ -4,8 +4,8 @@ latitude: 49.25217
 longitude: 8.87621
 postcode: "74889"
 city: Sinsheim
-street: "Bahnhofstraße"
-housenumber: 18
+street: Bahnhofstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-16:00"
-website: "https://www.rutz.de/"
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-16:00
+website: https://www.rutz.de/

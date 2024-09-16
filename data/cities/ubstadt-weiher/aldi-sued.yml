@@ -1,11 +1,11 @@
 id: 362485941
-type: way
+type: node
 latitude: 49.15555
 longitude: 8.63056
 postcode: "76698"
 city: Ubstadt-Weiher
-street: "Unteröwisheimer Straße"
-housenumber: 19
+street: Unteröwisheimer Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

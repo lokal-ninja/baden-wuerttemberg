@@ -1,11 +1,11 @@
 id: 289092919
-type: way
+type: node
 latitude: 48.7715
 longitude: 8.22511
 postcode: ""
 city: Baden-Baden
-street: "Jagdhausstraße"
-housenumber: 1
+street: Jagdhausstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

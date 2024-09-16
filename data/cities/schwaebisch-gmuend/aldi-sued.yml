@@ -1,11 +1,11 @@
 id: 88583414
-type: way
+type: node
 latitude: 48.78948
 longitude: 9.76716
 postcode: "73529"
 city: Schwäbisch Gmünd
-street: "Lorcher Straße"
-housenumber: 169
+street: Lorcher Straße
+housenumber: "169"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/schwaebisch-gmuend/lorcher-strasse-169"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/schwaebisch-gmuend/lorcher-strasse-169

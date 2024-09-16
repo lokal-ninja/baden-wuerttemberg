@@ -1,11 +1,11 @@
 id: 199207468
-type: way
+type: node
 latitude: 49.1231
 longitude: 8.41063
 postcode: "76351"
 city: Linkenheim-Hochstetten
-street: "Friedrichstraße"
-housenumber: 48
+street: Friedrichstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

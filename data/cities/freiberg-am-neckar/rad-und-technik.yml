@@ -4,8 +4,8 @@ latitude: 48.93973
 longitude: 9.18633
 postcode: "71691"
 city: Freiberg am Neckar
-street: "Bilfinger Straße"
+street: Bilfinger Straße
 housenumber: 23/1
-phone: "+49 7141 250130"
-opening_hours: "Tu-Fr 14:30-18:00; Sa 10:00-14:00; PH off || nach Vereinbarung"
-website: "https://www.radundtechnik.de/"
+phone: +49 7141 250130
+opening_hours: Tu-Fr 14:30-18:00; Sa 10:00-14:00; PH off || "nach Vereinbarung"
+website: https://www.radundtechnik.de/

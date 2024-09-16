@@ -4,8 +4,8 @@ latitude: 48.77306
 longitude: 9.15647
 postcode: "70197"
 city: Stuttgart
-street: "Schwabstraße"
-housenumber: 48
-phone: "+49 711 62 09 63 00"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00"
-website: "https://www.buchstaebchen-stuttgart.de/"
+street: Schwabstraße
+housenumber: "48"
+phone: +49 711 62 09 63 00
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00
+website: https://www.buchstaebchen-stuttgart.de/

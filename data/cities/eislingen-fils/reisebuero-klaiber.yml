@@ -1,11 +1,11 @@
 id: 116076109
-type: way
+type: node
 latitude: 48.69549
 longitude: 9.70521
 postcode: "73054"
 city: Eislingen/Fils
-street: "Kronenplatz"
-housenumber: 4
+street: Kronenplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00, Sa 09:00-14:00, Su,PH off"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00, Sa 09:00-14:00, Su,PH off
 website: ""

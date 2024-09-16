@@ -1,11 +1,11 @@
 id: 269524330
-type: way
+type: node
 latitude: 48.95687
 longitude: 10.17536
 postcode: "73479"
 city: Ellwangen (Jagst)
-street: "Veit-Hirschmann-Straße"
-housenumber: 3
+street: Veit-Hirschmann-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

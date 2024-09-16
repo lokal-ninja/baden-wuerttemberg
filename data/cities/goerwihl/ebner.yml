@@ -1,11 +1,11 @@
 id: 325081244
-type: way
+type: node
 latitude: 47.63712
 longitude: 8.08381
 postcode: "79733"
 city: Görwihl
-street: "Schwärze"
-housenumber: 4
-phone: "+49 7754 925949"
+street: Schwärze
+housenumber: "4"
+phone: +49 7754 925949
 opening_hours: ""
-website: "https://www.kfz-ebner.de/"
+website: https://www.kfz-ebner.de/

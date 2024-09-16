@@ -1,11 +1,11 @@
 id: 119794856
-type: way
+type: node
 latitude: 48.43685
 longitude: 9.14338
 postcode: "72770"
 city: Reutlingen
-street: "Bierwiesenstraße"
-housenumber: 28
+street: Bierwiesenstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

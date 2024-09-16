@@ -1,11 +1,11 @@
 id: 226081442
-type: way
+type: node
 latitude: 48.16678
 longitude: 8.57158
 postcode: "78658"
 city: Zimmern ob Rottweil
-street: "Albring"
-housenumber: 25
-phone: "+49 741 252-0"
+street: Albring
+housenumber: "25"
+phone: +49 741 252-0
 opening_hours: ""
-website: "https://www.bucher-stahl.de/"
+website: https://www.bucher-stahl.de/

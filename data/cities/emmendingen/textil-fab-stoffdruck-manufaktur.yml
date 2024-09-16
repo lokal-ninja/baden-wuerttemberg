@@ -1,11 +1,11 @@
 id: 138716038
-type: way
+type: node
 latitude: 48.1111
 longitude: 7.84988
 postcode: "79312"
 city: Emmendingen
-street: "Im Hausgrün"
-housenumber: 23
+street: Im Hausgrün
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-16:00"
+opening_hours: Mo-Fr 09:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 45494190
-type: way
+type: node
 latitude: 48.55104
 longitude: 7.83688
 postcode: "77694"
 city: Kehl
-street: "Daimlerstraße"
-housenumber: 2
+street: Daimlerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/kehl/daimlerstrasse-2"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/kehl/daimlerstrasse-2

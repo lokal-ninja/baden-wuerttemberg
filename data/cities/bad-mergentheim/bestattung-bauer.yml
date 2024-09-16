@@ -1,11 +1,11 @@
 id: 511735383
-type: way
+type: node
 latitude: 49.48105
 longitude: 9.78159
 postcode: "97980"
 city: Bad Mergentheim
-street: "Alemannenweg"
-housenumber: 92
+street: Alemannenweg
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

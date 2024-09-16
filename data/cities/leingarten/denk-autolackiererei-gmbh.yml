@@ -1,11 +1,11 @@
 id: 96626323
-type: way
+type: node
 latitude: 49.15052
 longitude: 9.12629
 postcode: "74211"
 city: Leingarten
-street: "Daimlerstraße"
-housenumber: 29
+street: Daimlerstraße
+housenumber: "29"
 phone: "+497131401996"
 opening_hours: ""
-website: "http://www.denk-autolackiererei.de/"
+website: http://www.denk-autolackiererei.de/

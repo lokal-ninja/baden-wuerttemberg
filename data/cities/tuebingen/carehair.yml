@@ -4,8 +4,8 @@ latitude: 48.5158
 longitude: 9.06651
 postcode: "72072"
 city: Tübingen
-street: "Andreas-Mang-Weg"
-housenumber: 6
-phone: "+49 7071 1469657"
+street: Andreas-Mang-Weg
+housenumber: "6"
+phone: +49 7071 1469657
 opening_hours: ""
-website: "https://www.carehair.eu/"
+website: https://www.carehair.eu/

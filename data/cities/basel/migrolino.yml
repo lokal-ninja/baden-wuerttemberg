@@ -4,8 +4,8 @@ latitude: 47.58099
 longitude: 7.59433
 postcode: "4057"
 city: Basel
-street: "Hochbergerstrasse"
-housenumber: 106
+street: Hochbergerstrasse
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00, Su 07:00-23:00"
-website: "https://www.migrolino.ch/de/standorte/migrol-basel-hochbergerstrasse/"
+opening_hours: Mo-Sa 06:00-23:00, Su 07:00-23:00
+website: https://www.migrolino.ch/de/standorte/migrol-basel-hochbergerstrasse/

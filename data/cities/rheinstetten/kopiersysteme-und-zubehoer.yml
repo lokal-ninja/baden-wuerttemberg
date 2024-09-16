@@ -4,8 +4,8 @@ latitude: 48.9591
 longitude: 8.28195
 postcode: "76287"
 city: Rheinstetten
-street: "Bachstraße"
+street: Bachstraße
 housenumber: 35a
-phone: "+49 7242 1225"
-opening_hours: "via Telefon"
-website: "https://www.ulrich-kopieren-drucken-faxen.de/"
+phone: +49 7242 1225
+opening_hours: '"via Telefon"'
+website: https://www.ulrich-kopieren-drucken-faxen.de/

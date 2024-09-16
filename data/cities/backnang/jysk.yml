@@ -4,8 +4,8 @@ latitude: 48.93733
 longitude: 9.44492
 postcode: "71522"
 city: Backnang
-street: "Industriestraße"
-housenumber: 37
-phone: "+49 7191 3442370"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH Su off"
-website: "https://jysk.de/"
+street: Industriestraße
+housenumber: "37"
+phone: +49 7191 3442370
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH Su off
+website: https://jysk.de/

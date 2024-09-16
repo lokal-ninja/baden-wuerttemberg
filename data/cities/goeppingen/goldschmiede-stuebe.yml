@@ -4,8 +4,8 @@ latitude: 48.7032
 longitude: 9.65214
 postcode: "73033"
 city: Göppingen
-street: "Lange Straße"
-housenumber: 25
+street: Lange Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00"
-website: "https://www.stuebe-gp.de/"
+opening_hours: Mo off; Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00
+website: https://www.stuebe-gp.de/

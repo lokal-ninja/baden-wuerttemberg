@@ -1,11 +1,11 @@
 id: 237956473
-type: way
+type: node
 latitude: 48.87951
 longitude: 8.33602
 postcode: "76316"
 city: Malsch
-street: "Hauptstraße"
-housenumber: 40
-phone: "+49 175 7633106"
-opening_hours: "Fr 14:00-18:00; Sa 10:00-12:00 || Sa und nach Vereinbarung"
+street: Hauptstraße
+housenumber: "40"
+phone: +49 175 7633106
+opening_hours: Fr 14:00-18:00; Sa 10:00-12:00 || Sa "und nach Vereinbarung"
 website: ""

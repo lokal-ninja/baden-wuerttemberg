@@ -1,11 +1,11 @@
 id: 243024989
-type: way
+type: node
 latitude: 49.14047
 longitude: 9.21893
 postcode: "74072"
 city: Heilbronn
-street: "Fleiner Straße"
-housenumber: 24
+street: Fleiner Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "http://www.maurer-heilbronn.de"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: http://www.maurer-heilbronn.de

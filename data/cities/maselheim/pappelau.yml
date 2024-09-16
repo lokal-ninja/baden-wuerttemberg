@@ -4,8 +4,9 @@ latitude: 48.13617
 longitude: 9.88152
 postcode: "88437"
 city: Maselheim
-street: "Kronenstraße"
-housenumber: 21
+street: Kronenstraße
+housenumber: "21"
 phone: "+49735172024"
-opening_hours: "Mo,We,Fr 09:00-12:15,14:00-17:00; Tu,Th 09:00-12:15; Th 14:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo,We,Fr 09:00-12:15,14:00-17:00; Tu,Th 09:00-12:15; Th 14:00-18:00;
+    Sa 09:00-12:00
 website: ""

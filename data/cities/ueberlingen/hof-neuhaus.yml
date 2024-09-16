@@ -4,8 +4,8 @@ latitude: 47.80055
 longitude: 9.21941
 postcode: "88662"
 city: Überlingen
-street: "Bamberger Straße"
-housenumber: 41
-phone: "+49 7551 62426"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.hof-neuhaus.de/index.php"
+street: Bamberger Straße
+housenumber: "41"
+phone: +49 7551 62426
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.hof-neuhaus.de/index.php

@@ -1,11 +1,11 @@
 id: 169083710
-type: way
+type: node
 latitude: 49.27789
 longitude: 9.68958
 postcode: "74653"
 city: Künzelsau
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

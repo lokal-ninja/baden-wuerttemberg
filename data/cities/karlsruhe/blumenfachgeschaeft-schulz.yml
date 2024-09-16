@@ -4,8 +4,8 @@ latitude: 49.01336
 longitude: 8.35606
 postcode: "76185"
 city: Karlsruhe
-street: "Lerchenstraße"
-housenumber: 1
+street: Lerchenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00
 website: ""

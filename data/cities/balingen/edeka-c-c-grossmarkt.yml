@@ -1,11 +1,11 @@
 id: 175793297
-type: way
+type: node
 latitude: 48.24024
 longitude: 8.84762
 postcode: "72336"
 city: Balingen
-street: "Roßwanger Straße"
-housenumber: 31
+street: Roßwanger Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 680863935
-type: way
+type: node
 latitude: 48.72909
 longitude: 8.1621
 postcode: "76534"
 city: Baden-Baden
-street: "Steinbacher Straße"
-housenumber: 37
+street: Steinbacher Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 07:45-18:45; Sa 07:45-16:00"
+opening_hours: Mo-Fr 07:45-18:45; Sa 07:45-16:00
 website: ""

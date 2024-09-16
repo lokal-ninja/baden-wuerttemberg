@@ -4,8 +4,8 @@ latitude: 48.22912
 longitude: 9.87986
 postcode: "88471"
 city: Laupheim
-street: "Schmiedstraße"
-housenumber: 16
-phone: "+49 7392 912146"
-opening_hours: "Mo-Fr 08:30-12:30, 14:00-18:00"
-website: "https://www.hoergeraete-langer.de/fachgeschaefte/ort/laupheim/"
+street: Schmiedstraße
+housenumber: "16"
+phone: +49 7392 912146
+opening_hours: Mo-Fr 08:30-12:30, 14:00-18:00
+website: https://www.hoergeraete-langer.de/fachgeschaefte/ort/laupheim/

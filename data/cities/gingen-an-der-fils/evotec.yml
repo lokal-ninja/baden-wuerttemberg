@@ -1,11 +1,11 @@
 id: 363497106
-type: way
+type: node
 latitude: 48.66614
 longitude: 9.77828
 postcode: "73333"
 city: Gingen an der Fils
-street: "Brunnenstraße"
-housenumber: 69
+street: Brunnenstraße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

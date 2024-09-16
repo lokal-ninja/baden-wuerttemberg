@@ -1,11 +1,11 @@
 id: 546803500
-type: way
+type: node
 latitude: 48.88914
 longitude: 9.23773
 postcode: "71640"
 city: Ludwigsburg
-street: "Neckargröninger Straße"
-housenumber: 40
+street: Neckargröninger Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

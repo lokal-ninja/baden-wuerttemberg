@@ -1,11 +1,11 @@
 id: 299334832
-type: way
+type: node
 latitude: 49.29316
 longitude: 8.65335
 postcode: ""
 city: Walldorf
-street: "Altrottstraße"
-housenumber: 55
+street: Altrottstraße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

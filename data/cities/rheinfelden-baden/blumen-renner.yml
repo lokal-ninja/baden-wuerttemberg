@@ -1,11 +1,11 @@
 id: 133333290
-type: way
+type: node
 latitude: 47.55754
 longitude: 7.77592
 postcode: "79618"
 city: Rheinfelden (Baden)
-street: "Werderstraße"
-housenumber: 41
+street: Werderstraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

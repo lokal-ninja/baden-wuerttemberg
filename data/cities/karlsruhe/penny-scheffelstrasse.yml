@@ -4,8 +4,8 @@ latitude: 49.00998
 longitude: 8.38199
 postcode: "76135"
 city: Karlsruhe
-street: "Scheffelstraße"
-housenumber: 1
+street: Scheffelstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su,PH off"
-website: "https://www.penny.de"
+opening_hours: Mo-Sa 07:30-21:00; Su,PH off
+website: https://www.penny.de

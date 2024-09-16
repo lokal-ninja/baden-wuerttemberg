@@ -1,11 +1,11 @@
 id: 531115999
-type: way
+type: node
 latitude: 47.80938
 longitude: 9.17095
 postcode: "88696"
 city: Owingen
-street: "Hauptstraße"
-housenumber: 40
+street: Hauptstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-17:30; Su 13:00-17:30"
-website: "http://www.schindlers-feines.de"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-17:30; Su 13:00-17:30
+website: http://www.schindlers-feines.de

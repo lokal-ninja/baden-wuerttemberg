@@ -1,11 +1,11 @@
 id: 101711212
-type: way
+type: node
 latitude: 49.09491
 longitude: 8.64494
 postcode: "76646"
 city: Bruchsal
-street: "Brunnenweg"
-housenumber: 18
+street: Brunnenweg
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

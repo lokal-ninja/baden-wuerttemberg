@@ -1,11 +1,11 @@
 id: 251494968
-type: way
+type: node
 latitude: 48.41404
 longitude: 8.00544
 postcode: "77723"
 city: Gengenbach
-street: "Breslauer Straße"
-housenumber: 3
+street: Breslauer Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.norma-online.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.norma-online.de/

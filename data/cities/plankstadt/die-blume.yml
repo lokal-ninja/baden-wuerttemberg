@@ -1,11 +1,11 @@
 id: 230430772
-type: way
+type: node
 latitude: 49.39651
 longitude: 8.59333
 postcode: "68723"
 city: Plankstadt
-street: "Hinter den Dorfgärten"
-housenumber: 18
+street: Hinter den Dorfgärten
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://die-blume.de/"
+website: https://die-blume.de/

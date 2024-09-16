@@ -4,8 +4,8 @@ latitude: 48.86126
 longitude: 8.23959
 postcode: "76437"
 city: Rastatt
-street: "Untere Wiesen"
-housenumber: 2
-phone: "+49 7222 830839"
-opening_hours: "Mo-Fr 04:00-24:00; Sa 06:00-24:00; Su 08:00-24:00"
-website: "https://store.totalenergies.de/de_DE/ND000864"
+street: Untere Wiesen
+housenumber: "2"
+phone: +49 7222 830839
+opening_hours: Mo-Fr 04:00-24:00; Sa 06:00-24:00; Su 08:00-24:00
+website: https://store.totalenergies.de/de_DE/ND000864

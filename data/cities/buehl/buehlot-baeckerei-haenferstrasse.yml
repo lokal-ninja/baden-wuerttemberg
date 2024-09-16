@@ -4,8 +4,8 @@ latitude: 48.69702
 longitude: 8.13897
 postcode: "77815"
 city: Bühl
-street: "Hänferstraße"
-housenumber: 1
-phone: "+49 7223 23475"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30"
-website: "https://www.buehlotbaeckerei.de/"
+street: Hänferstraße
+housenumber: "1"
+phone: +49 7223 23475
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:30
+website: https://www.buehlotbaeckerei.de/

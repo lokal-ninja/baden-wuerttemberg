@@ -1,11 +1,11 @@
 id: 227361963
-type: way
+type: node
 latitude: 48.1211
 longitude: 7.85
 postcode: "79312"
 city: Emmendingen
-street: "Theodor-Ludwig-Straße"
-housenumber: 5
+street: Theodor-Ludwig-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:00,13:30-18:00;Sa 08:30-12:30;PH off"
+opening_hours: Tu-Fr 08:30-12:00,13:30-18:00;Sa 08:30-12:30;PH off
 website: ""

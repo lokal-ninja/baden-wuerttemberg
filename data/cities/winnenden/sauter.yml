@@ -1,11 +1,11 @@
 id: 81304834
-type: way
+type: node
 latitude: 48.87335
 longitude: 9.38117
 postcode: "71364"
 city: Winnenden
-street: "Max-Eyth-Straße"
-housenumber: 49
-phone: "+49 7195 9773900"
+street: Max-Eyth-Straße
+housenumber: "49"
+phone: +49 7195 9773900
 opening_hours: ""
 website: ""

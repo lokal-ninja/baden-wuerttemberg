@@ -1,11 +1,11 @@
 id: 303650486
-type: way
+type: node
 latitude: 48.23544
 longitude: 9.64988
 postcode: "89597"
 city: Munderkingen
-street: "Stöcklenstraße"
-housenumber: 6
+street: Stöcklenstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

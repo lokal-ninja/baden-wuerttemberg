@@ -1,11 +1,11 @@
 id: 206581617
-type: way
+type: node
 latitude: 48.76349
 longitude: 9.80855
 postcode: "73550"
 city: Waldstetten
-street: "Franz-Liszt-Weg"
-housenumber: 4
+street: Franz-Liszt-Weg
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.modeatelier-pitzer.de/"
+website: https://www.modeatelier-pitzer.de/

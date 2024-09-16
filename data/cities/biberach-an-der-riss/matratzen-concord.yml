@@ -1,11 +1,11 @@
 id: 143470186
-type: way
+type: node
 latitude: 48.09458
 longitude: 9.78448
 postcode: "88400"
 city: Biberach an der Riß
-street: "Wolfentalstraße"
-housenumber: 1
+street: Wolfentalstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00;Sa 10:00-16:00; PH off"
+opening_hours: Mo-Fr 10:00-19:00;Sa 10:00-16:00; PH off
 website: ""

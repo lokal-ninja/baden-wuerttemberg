@@ -1,11 +1,11 @@
 id: 241784179
-type: way
+type: node
 latitude: 48.83773
 longitude: 9.20344
 postcode: "70437"
 city: Stuttgart
-street: "Wallensteinstraße"
-housenumber: 38
+street: Wallensteinstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.orterer.de/benz/index_start.php"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.orterer.de/benz/index_start.php

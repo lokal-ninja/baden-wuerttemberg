@@ -1,11 +1,11 @@
 id: 147822878
-type: way
+type: node
 latitude: 47.65526
 longitude: 7.5741
 postcode: "79588"
 city: Efringen-Kirchen
-street: "Im Martelacker"
-housenumber: 8
+street: Im Martelacker
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:30; We,Sa 08:30-12:30"
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:30; We,Sa 08:30-12:30
 website: ""

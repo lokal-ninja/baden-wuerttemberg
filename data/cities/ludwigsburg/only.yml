@@ -4,8 +4,8 @@ latitude: 48.89954
 longitude: 9.19062
 postcode: "71634"
 city: Ludwigsburg
-street: "Marstallstraße"
-housenumber: 1
-phone: "+49 7141 7028140"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.marstall-ludwigsburg.de/shops/only/?location=p619-21"
+street: Marstallstraße
+housenumber: "1"
+phone: +49 7141 7028140
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.marstall-ludwigsburg.de/shops/only/?location=p619-21

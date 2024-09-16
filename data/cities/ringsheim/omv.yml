@@ -1,11 +1,11 @@
 id: 161374075
-type: way
+type: node
 latitude: 48.25034
 longitude: 7.76619
 postcode: "77975"
 city: Ringsheim
-street: "Herbolzheimer Straße 1"
-housenumber: 
-phone: "+49 7822 4489941"
-opening_hours: "24/7"
-website: "https://www.eg.group/"
+street: Herbolzheimer Straße 1
+housenumber: ""
+phone: +49 7822 4489941
+opening_hours: 24/7
+website: https://www.eg.group/

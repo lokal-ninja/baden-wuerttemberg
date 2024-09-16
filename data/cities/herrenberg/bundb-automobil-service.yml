@@ -1,11 +1,11 @@
 id: 34415003
-type: way
+type: node
 latitude: 48.60141
 longitude: 8.86931
 postcode: "71083"
 city: Herrenberg
-street: "Daimlerstraße"
-housenumber: 6
+street: Daimlerstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

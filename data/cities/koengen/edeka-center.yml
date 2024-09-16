@@ -4,8 +4,8 @@ latitude: 48.67366
 longitude: 9.3612
 postcode: "73257"
 city: Köngen
-street: "Imanuel-Maier-Straße"
-housenumber: 2
-phone: "+49 7024 405950"
-opening_hours: "Mo-Sa 07:00-22:00; Su off"
-website: "https://www.edeka.de"
+street: Imanuel-Maier-Straße
+housenumber: "2"
+phone: +49 7024 405950
+opening_hours: Mo-Sa 07:00-22:00; Su off
+website: https://www.edeka.de

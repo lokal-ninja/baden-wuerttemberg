@@ -1,11 +1,11 @@
 id: 404044892
-type: way
+type: node
 latitude: 48.13354
 longitude: 8.89207
 postcode: "72362"
 city: Nusplingen
-street: "Uhlandstraße"
-housenumber: 1
+street: Uhlandstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

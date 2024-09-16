@@ -4,8 +4,8 @@ latitude: 48.57181
 longitude: 7.81633
 postcode: "77694"
 city: Kehl
-street: "Hauptstraße"
-housenumber: 100
+street: Hauptstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:00,13:00-18:00; Sa 09:30-16:00"
+opening_hours: Mo-Fr 09:30-12:00,13:00-18:00; Sa 09:30-16:00
 website: ""

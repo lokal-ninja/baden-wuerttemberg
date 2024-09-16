@@ -1,11 +1,11 @@
 id: 91898986
-type: way
+type: node
 latitude: 48.70552
 longitude: 8.76424
 postcode: "75365"
 city: Calw
-street: "Gottlob-Bauknecht-Straße"
-housenumber: 10
-phone: "+49 7051 79090"
-opening_hours: "Mo-Fr 07:15-12:00,13:00-18:00; Sa 09:00-13:00"
-website: "http://www.widmann-toyota.de"
+street: Gottlob-Bauknecht-Straße
+housenumber: "10"
+phone: +49 7051 79090
+opening_hours: Mo-Fr 07:15-12:00,13:00-18:00; Sa 09:00-13:00
+website: http://www.widmann-toyota.de

@@ -1,11 +1,11 @@
 id: 380284021
-type: way
+type: node
 latitude: 49.22989
 longitude: 9.63678
 postcode: "74635"
 city: Kupferzell
-street: "Sallstraße"
-housenumber: 52
+street: Sallstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off; Ph off"
-website: "https://www.stabilo-fachmarkt.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off; Ph off
+website: https://www.stabilo-fachmarkt.de/

@@ -1,11 +1,11 @@
 id: 182890612
-type: way
+type: node
 latitude: 49.29113
 longitude: 8.67704
 postcode: "69168"
 city: Wiesloch
-street: "Eichelweg"
-housenumber: 6
+street: Eichelweg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-24:00"
+opening_hours: Mo-Sa 07:00-24:00
 website: ""

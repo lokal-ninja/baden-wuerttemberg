@@ -1,11 +1,11 @@
 id: 241614577
-type: way
+type: node
 latitude: 48.15131
 longitude: 9.48257
 postcode: ""
 city: Riedlingen
-street: "Unterriedstraße"
-housenumber: 15
+street: Unterriedstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

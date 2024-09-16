@@ -4,8 +4,8 @@ latitude: 48.83596
 longitude: 10.09107
 postcode: "73430"
 city: Aalen
-street: "Friedrichstraße"
-housenumber: 7
+street: Friedrichstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-We 08:00-18:00; Th,Fr 08:00-20:00; Sa 08:00-13:00"
-website: "https://www.salon-exact-aalen.de/"
+opening_hours: Mo-We 08:00-18:00; Th,Fr 08:00-20:00; Sa 08:00-13:00
+website: https://www.salon-exact-aalen.de/

@@ -1,11 +1,11 @@
 id: 31727112
-type: way
+type: node
 latitude: 48.73289
 longitude: 9.32416
 postcode: "73730"
 city: Esslingen am Neckar
-street: "Stauffenbergstraße"
-housenumber: 29
+street: Stauffenbergstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

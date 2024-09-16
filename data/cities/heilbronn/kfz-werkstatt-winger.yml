@@ -1,11 +1,11 @@
 id: 199784855
-type: way
+type: node
 latitude: 49.12113
 longitude: 9.19233
 postcode: "74081"
 city: Heilbronn
-street: "Kolpingstraße"
-housenumber: 9
+street: Kolpingstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

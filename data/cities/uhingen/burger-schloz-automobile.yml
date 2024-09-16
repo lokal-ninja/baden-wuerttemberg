@@ -1,11 +1,11 @@
 id: 27466064
-type: way
+type: node
 latitude: 48.70737
 longitude: 9.60995
 postcode: "73066"
 city: Uhingen
-street: "Mercedesstraße"
-housenumber: 2
+street: Mercedesstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

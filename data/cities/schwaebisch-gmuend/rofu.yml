@@ -1,11 +1,11 @@
 id: 91890629
-type: way
+type: node
 latitude: 48.8019
 longitude: 9.78978
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Taubentalstraße"
-housenumber: 2
+street: Taubentalstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

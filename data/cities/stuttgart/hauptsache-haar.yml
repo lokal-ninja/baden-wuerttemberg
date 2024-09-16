@@ -4,8 +4,8 @@ latitude: 48.8209
 longitude: 9.22095
 postcode: "70376"
 city: Stuttgart
-street: "Murgtalstraße"
-housenumber: 20
+street: Murgtalstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 08:00-20:00; Sa 08:00-16:00"
-website: "http://www.hs-haar.de"
+opening_hours: Tu-Fr 08:00-20:00; Sa 08:00-16:00
+website: http://www.hs-haar.de

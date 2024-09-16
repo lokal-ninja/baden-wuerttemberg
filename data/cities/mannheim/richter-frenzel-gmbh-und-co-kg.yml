@@ -1,11 +1,11 @@
 id: 119725622
-type: way
+type: node
 latitude: 49.44334
 longitude: 8.57127
 postcode: "68229"
 city: Mannheim
-street: "Markircher Straße"
-housenumber: 25
-phone: "+49 621 4802870"
+street: Markircher Straße
+housenumber: "25"
+phone: +49 621 4802870
 opening_hours: ""
-website: "https://www.richter-frenzel.de/"
+website: https://www.richter-frenzel.de/

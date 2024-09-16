@@ -1,11 +1,11 @@
 id: 338688305
-type: way
+type: node
 latitude: 48.69541
 longitude: 9.50834
 postcode: "73061"
 city: Ebersbach an der Fils
-street: "Dorfstraße"
-housenumber: 77
+street: Dorfstraße
+housenumber: "77"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

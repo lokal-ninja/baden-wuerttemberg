@@ -4,8 +4,8 @@ latitude: 48.32096
 longitude: 10.0366
 postcode: "89250"
 city: Senden
-street: "Illerwehrstraße"
-housenumber: 8
+street: Illerwehrstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Tu,Th 09:00-12:00,15:00-18:00"
+opening_hours: Tu,Th 09:00-12:00,15:00-18:00
 website: ""

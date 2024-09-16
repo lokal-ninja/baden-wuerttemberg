@@ -1,11 +1,11 @@
 id: 219287023
-type: way
+type: node
 latitude: 48.78248
 longitude: 9.22428
 postcode: "70188"
 city: Stuttgart
-street: "Franz-Wachter-Straße"
-housenumber: 24
+street: Franz-Wachter-Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 11:00-16:00"
-website: "http://www.copyshopwest.de/"
+opening_hours: Mo-Fr 11:00-16:00
+website: http://www.copyshopwest.de/

@@ -1,11 +1,11 @@
 id: 209415308
-type: way
+type: node
 latitude: 48.07278
 longitude: 9.94659
 postcode: ""
 city: Ochsenhausen
-street: "Biberacher Straße"
-housenumber: 14
+street: Biberacher Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

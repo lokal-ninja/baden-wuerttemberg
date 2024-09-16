@@ -4,8 +4,8 @@ latitude: 47.95448
 longitude: 7.82874
 postcode: "79280"
 city: Au
-street: "Dorfstraße"
-housenumber: 57
-phone: "+49 761 402178;+49 176 66563613"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-14:00"
-website: "https://www.swerkstaettle.com/"
+street: Dorfstraße
+housenumber: "57"
+phone: +49 761 402178;+49 176 66563613
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-14:00
+website: https://www.swerkstaettle.com/

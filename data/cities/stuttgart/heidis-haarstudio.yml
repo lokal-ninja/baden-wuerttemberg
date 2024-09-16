@@ -4,8 +4,8 @@ latitude: 48.82049
 longitude: 9.22206
 postcode: "70376"
 city: Stuttgart
-street: "Elbestraße"
-housenumber: 10
+street: Elbestraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,15:00-18:00; Sa 08:00-12:00"
-website: "http://heidishaarstudio.de"
+opening_hours: Mo-Fr 08:00-13:00,15:00-18:00; Sa 08:00-12:00
+website: http://heidishaarstudio.de

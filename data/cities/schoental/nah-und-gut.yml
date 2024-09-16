@@ -1,11 +1,11 @@
 id: 324321627
-type: way
+type: node
 latitude: 49.36546
 longitude: 9.48647
 postcode: "74214"
 city: Schöntal
-street: "Kessachstraße"
-housenumber: 17
-phone: "+49 7943 941120"
+street: Kessachstraße
+housenumber: "17"
+phone: +49 7943 941120
 opening_hours: ""
-website: "https://mein.edeka.de/eh/de/suedwest/n1343/index.jsp"
+website: https://mein.edeka.de/eh/de/suedwest/n1343/index.jsp

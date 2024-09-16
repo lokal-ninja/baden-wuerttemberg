@@ -1,11 +1,11 @@
 id: 108956846
-type: way
+type: node
 latitude: 49.33282
 longitude: 8.44834
 postcode: "67346"
 city: Speyer
-street: "Auestraße"
-housenumber: 43
+street: Auestraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.autoteile-krammer.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.autoteile-krammer.de/

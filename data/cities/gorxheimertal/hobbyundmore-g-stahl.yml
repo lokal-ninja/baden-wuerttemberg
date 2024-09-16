@@ -1,11 +1,11 @@
 id: 217572747
-type: way
+type: node
 latitude: 49.53364
 longitude: 8.72375
 postcode: ""
 city: Gorxheimertal
-street: "Hauptstraße"
-housenumber: 177
+street: Hauptstraße
+housenumber: "177"
 phone: ""
 opening_hours: ""
 website: ""

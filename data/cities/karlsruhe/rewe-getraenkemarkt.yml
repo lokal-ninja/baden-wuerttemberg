@@ -1,11 +1,11 @@
 id: 422279276
-type: way
+type: node
 latitude: 49.00968
 longitude: 8.43813
 postcode: "76131"
 city: Karlsruhe
-street: "Theodor-Rehbock-Straße"
-housenumber: 11
+street: Theodor-Rehbock-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

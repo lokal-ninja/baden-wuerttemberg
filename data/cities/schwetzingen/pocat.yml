@@ -4,8 +4,8 @@ latitude: 49.38646
 longitude: 8.57371
 postcode: "68723"
 city: Schwetzingen
-street: "Heidelberger Straße"
-housenumber: 2
+street: Heidelberger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30, 13:30-18:00"
-website: "https://pocat.de/"
+opening_hours: Mo-Sa 09:00-12:30, 13:30-18:00
+website: https://pocat.de/

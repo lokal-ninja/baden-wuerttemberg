@@ -1,11 +1,11 @@
 id: 442504668
-type: way
+type: node
 latitude: 48.94205
 longitude: 10.37156
 postcode: "73485"
 city: Unterschneidheim
-street: "Nordhäuser Kirchgasse"
-housenumber: 34
+street: Nordhäuser Kirchgasse
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 06:30-20:00"
-website: "https://www.bengelmann.com/"
+opening_hours: Mo-Sa 06:30-20:00
+website: https://www.bengelmann.com/

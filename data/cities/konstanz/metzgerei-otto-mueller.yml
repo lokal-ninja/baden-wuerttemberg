@@ -4,8 +4,8 @@ latitude: 47.68054
 longitude: 9.20253
 postcode: "78464"
 city: Konstanz
-street: "Staader Straße"
-housenumber: 2
-phone: "+49 7531 593719"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://otto-mueller.de/"
+street: Staader Straße
+housenumber: "2"
+phone: +49 7531 593719
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://otto-mueller.de/

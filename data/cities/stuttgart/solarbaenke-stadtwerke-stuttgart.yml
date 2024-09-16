@@ -4,8 +4,8 @@ latitude: 48.78042
 longitude: 9.17269
 postcode: "70174"
 city: Stuttgart
-street: "Schellingstraße"
-housenumber: 24
+street: Schellingstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.stadtwerke-stuttgart.de/solarenergie/solarbank/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.stadtwerke-stuttgart.de/solarenergie/solarbank/

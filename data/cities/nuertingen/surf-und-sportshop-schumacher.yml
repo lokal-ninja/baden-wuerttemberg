@@ -1,11 +1,11 @@
 id: 358390279
-type: way
+type: node
 latitude: 48.62774
 longitude: 9.33177
 postcode: "72622"
 city: Nürtingen
-street: "Neckarstraße"
-housenumber: 4
-phone: "+49 7022 54246"
-opening_hours: "Mo-Fr 10:00-16:00; Sa 10:00-13:00"
-website: "https://www.puresports-schumacher.de"
+street: Neckarstraße
+housenumber: "4"
+phone: +49 7022 54246
+opening_hours: Mo-Fr 10:00-16:00; Sa 10:00-13:00
+website: https://www.puresports-schumacher.de

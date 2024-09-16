@@ -4,8 +4,8 @@ latitude: 48.94556
 longitude: 9.42688
 postcode: "71522"
 city: Backnang
-street: "Gerberstraße"
-housenumber: 5
-phone: "+49 7191 9064747"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-16:00; Su 08:00-18:00"
-website: "https://www.baecker-maurer.de/"
+street: Gerberstraße
+housenumber: "5"
+phone: +49 7191 9064747
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-16:00; Su 08:00-18:00
+website: https://www.baecker-maurer.de/

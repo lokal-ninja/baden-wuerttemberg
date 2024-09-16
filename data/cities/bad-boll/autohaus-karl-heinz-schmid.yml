@@ -1,11 +1,11 @@
 id: 524745973
-type: way
+type: node
 latitude: 48.64666
 longitude: 9.61096
 postcode: "73087"
 city: Bad Boll
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 281018733
-type: way
+type: node
 latitude: 48.50969
 longitude: 9.30937
 postcode: "72555"
 city: Metzingen
-street: "Neuhauser Straße"
-housenumber: 45
+street: Neuhauser Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 9:00-12:00,13:30-19:00; Sa,Su,PH off"
-website: "http://www.ebs-quad.de"
+opening_hours: Mo-Fr 9:00-12:00,13:30-19:00; Sa,Su,PH off
+website: http://www.ebs-quad.de

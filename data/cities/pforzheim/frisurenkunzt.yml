@@ -4,8 +4,8 @@ latitude: 48.85395
 longitude: 8.65896
 postcode: "75180"
 city: Pforzheim
-street: "Im Steinacker"
-housenumber: 11
+street: Im Steinacker
+housenumber: "11"
 phone: "+4972314400802"
-opening_hours: "under request/nach Vereinbarung"
-website: "http://www.frisurenkunzt.de/"
+opening_hours: '"under request/nach Vereinbarung"'
+website: http://www.frisurenkunzt.de/

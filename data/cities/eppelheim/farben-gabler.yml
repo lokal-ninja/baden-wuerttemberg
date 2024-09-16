@@ -4,8 +4,8 @@ latitude: 49.40979
 longitude: 8.62509
 postcode: "69214"
 city: Eppelheim
-street: "Maybachstraße"
-housenumber: 10
-phone: "+49 6221 764947"
-opening_hours: "Mo-Fr 09:00-12:00"
-website: "https://www.farben-gabler.de"
+street: Maybachstraße
+housenumber: "10"
+phone: +49 6221 764947
+opening_hours: Mo-Fr 09:00-12:00
+website: https://www.farben-gabler.de

@@ -4,8 +4,8 @@ latitude: 47.69467
 longitude: 9.82412
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Franz-Walchner-Straße"
-housenumber: 8
-phone: "+49 7522 771140"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:30"
-website: "https://www.automarkt-dinser.de"
+street: Franz-Walchner-Straße
+housenumber: "8"
+phone: +49 7522 771140
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:30
+website: https://www.automarkt-dinser.de

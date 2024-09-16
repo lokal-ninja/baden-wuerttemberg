@@ -4,8 +4,8 @@ latitude: 49.19324
 longitude: 9.22577
 postcode: "74172"
 city: Neckarsulm
-street: "Marktstraße"
-housenumber: 49
-phone: "+49 231 555770"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://stores.tedi.com/tedi-680b6d6f7d35"
+street: Marktstraße
+housenumber: "49"
+phone: +49 231 555770
+opening_hours: Mo-Sa 09:00-20:00
+website: https://stores.tedi.com/tedi-680b6d6f7d35

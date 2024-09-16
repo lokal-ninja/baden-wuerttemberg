@@ -1,11 +1,11 @@
 id: 330339758
-type: way
+type: node
 latitude: 48.4685
 longitude: 9.94569
 postcode: "89160"
 city: Dornstadt
-street: "Alte Landstraße"
-housenumber: 5
+street: Alte Landstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

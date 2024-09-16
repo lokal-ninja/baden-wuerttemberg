@@ -1,11 +1,11 @@
 id: 125886043
-type: way
+type: node
 latitude: 49.07674
 longitude: 8.5866
 postcode: "76646"
 city: Bruchsal
-street: "Hauptstraße"
-housenumber: 5
+street: Hauptstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 08:00-11:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 08:00-11:00
 website: ""

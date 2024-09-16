@@ -1,11 +1,11 @@
 id: 298128611
-type: way
+type: node
 latitude: 48.08163
 longitude: 8.49977
 postcode: "78052"
 city: Villingen-Schwenningen
-street: "Neuer Markt"
-housenumber: 1
+street: Neuer Markt
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.jeans-fritz.de/"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.jeans-fritz.de/

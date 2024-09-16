@@ -1,11 +1,11 @@
 id: 81130056
-type: way
+type: node
 latitude: 48.87196
 longitude: 9.40957
 postcode: "71364"
 city: Winnenden
-street: "Nikolaus-Lenau-Straße"
-housenumber: 21
+street: Nikolaus-Lenau-Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

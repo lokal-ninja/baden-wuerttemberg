@@ -4,8 +4,8 @@ latitude: 48.77259
 longitude: 9.15641
 postcode: "70197"
 city: Stuttgart
-street: "Schwabstraße"
-housenumber: 69
+street: Schwabstraße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 09:00-19:00; Sa 09:00-15:00"
-website: "https://www.das-haaratelier.com/"
+opening_hours: Mo off; Tu-Fr 09:00-19:00; Sa 09:00-15:00
+website: https://www.das-haaratelier.com/

@@ -4,8 +4,8 @@ latitude: 48.81074
 longitude: 9.15574
 postcode: "70469"
 city: Stuttgart
-street: "Wiener Straße"
-housenumber: 88
-phone: "+49 711 16126767"
-opening_hours: "Mo-Sa 9:30-20:00"
+street: Wiener Straße
+housenumber: "88"
+phone: +49 711 16126767
+opening_hours: Mo-Sa 9:30-20:00
 website: ""

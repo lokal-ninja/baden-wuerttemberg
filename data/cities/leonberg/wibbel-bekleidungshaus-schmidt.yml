@@ -4,8 +4,8 @@ latitude: 48.79207
 longitude: 9.00725
 postcode: "71229"
 city: Leonberg
-street: "Bismarckstraße"
-housenumber: 22
-phone: "+49 7152-46766"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00; PH off"
-website: "https://www.wibbel.de/"
+street: Bismarckstraße
+housenumber: "22"
+phone: +49 7152-46766
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00; PH off
+website: https://www.wibbel.de/

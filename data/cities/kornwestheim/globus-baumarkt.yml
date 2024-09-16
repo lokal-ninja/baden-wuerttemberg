@@ -4,8 +4,8 @@ latitude: 48.86816
 longitude: 9.20107
 postcode: "70806"
 city: Kornwestheim
-street: "Leibnizstraße"
-housenumber: 10
+street: Leibnizstraße
+housenumber: "10"
 phone: "+4971541770"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.globus-baumarkt.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.globus-baumarkt.de

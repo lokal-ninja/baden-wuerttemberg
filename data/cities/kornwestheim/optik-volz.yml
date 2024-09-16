@@ -4,8 +4,8 @@ latitude: 48.86168
 longitude: 9.18379
 postcode: "70806"
 city: Kornwestheim
-street: "Weimarstraße"
-housenumber: 42
-phone: "+49 7154 21551"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-14:00"
-website: "https://www.optik-volz.de/unsere-filialen/kornwestheim-weimarstrasse"
+street: Weimarstraße
+housenumber: "42"
+phone: +49 7154 21551
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-14:00
+website: https://www.optik-volz.de/unsere-filialen/kornwestheim-weimarstrasse

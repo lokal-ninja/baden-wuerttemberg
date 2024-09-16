@@ -1,11 +1,11 @@
 id: 129739253
-type: way
+type: node
 latitude: 48.05976
 longitude: 8.464
 postcode: "78048"
 city: Villingen-Schwenningen
-street: "Schwenninger Straße"
-housenumber: 1
+street: Schwenninger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.77402
 longitude: 9.17616
 postcode: "70173"
 city: Stuttgart
-street: "Hirschstraße"
-housenumber: 31
+street: Hirschstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.deiters.de/stuttgart"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.deiters.de/stuttgart

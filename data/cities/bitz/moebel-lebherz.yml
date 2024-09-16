@@ -1,11 +1,11 @@
 id: 140267235
-type: way
+type: node
 latitude: 48.23972
 longitude: 9.0837
 postcode: "72475"
 city: Bitz
-street: "Ebinger Straße"
-housenumber: 76
+street: Ebinger Straße
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

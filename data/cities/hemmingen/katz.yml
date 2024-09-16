@@ -1,11 +1,11 @@
 id: 45781458
-type: way
+type: node
 latitude: 48.86508
 longitude: 9.03269
 postcode: "71282"
 city: Hemmingen
-street: "Hauptstraße"
-housenumber: 17
+street: Hauptstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

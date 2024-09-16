@@ -4,8 +4,8 @@ latitude: 48.00673
 longitude: 7.82853
 postcode: "79110"
 city: Freiburg im Breisgau
-street: "Breisacher Straße"
-housenumber: 143
-phone: "+49-761 76668685"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://stores.deichmann.com/baden-wuerttemberg/freiburg/breisacher-strasse-143.html"
+street: Breisacher Straße
+housenumber: "143"
+phone: +49-761 76668685
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://stores.deichmann.com/baden-wuerttemberg/freiburg/breisacher-strasse-143.html

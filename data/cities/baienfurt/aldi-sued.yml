@@ -1,11 +1,11 @@
 id: 1035847326
-type: way
+type: node
 latitude: 47.82469
 longitude: 9.6494
 postcode: "88255"
 city: Baienfurt
-street: "Ravensburger Straße"
-housenumber: 11
+street: Ravensburger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/baienfurt/ravensburger-strasse-11"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/baienfurt/ravensburger-strasse-11

@@ -1,11 +1,11 @@
 id: 98702186
-type: way
+type: node
 latitude: 48.88841
 longitude: 9.0385
 postcode: "71706"
 city: Schwieberdingen
-street: "Stuttgarter Straße"
-housenumber: 48
-phone: "+49 7145 936935"
+street: Stuttgarter Straße
+housenumber: "48"
+phone: +49 7145 936935
 opening_hours: ""
-website: "https://www.b10-boxengasse.de/"
+website: https://www.b10-boxengasse.de/

@@ -1,11 +1,11 @@
 id: 374066285
-type: way
+type: node
 latitude: 49.28249
 longitude: 9.25975
 postcode: "74861"
 city: Neudenau
-street: "Neudenauer Straße"
-housenumber: 23
-phone: "+49 6264 7864"
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-18:00"
-website: "https://kfzservicewinzig.de.tl/"
+street: Neudenauer Straße
+housenumber: "23"
+phone: +49 6264 7864
+opening_hours: Mo-Fr 09:00-12:00, 13:00-18:00
+website: https://kfzservicewinzig.de.tl/

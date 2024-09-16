@@ -1,11 +1,11 @@
 id: 34869422
-type: way
+type: node
 latitude: 49.13517
 longitude: 9.22013
 postcode: "74072"
 city: Heilbronn
-street: "Urbanstraße"
-housenumber: 30
+street: Urbanstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.lidl.de/filialen/heilbronn/urbanstr-30.html"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.lidl.de/filialen/heilbronn/urbanstr-30.html

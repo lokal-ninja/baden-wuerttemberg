@@ -1,11 +1,11 @@
 id: 197513650
-type: way
+type: node
 latitude: 49.54386
 longitude: 8.6389
 postcode: "69469"
 city: Weinheim
-street: "Breslauer Straße"
-housenumber: 4
+street: Breslauer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

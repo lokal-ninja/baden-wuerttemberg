@@ -1,11 +1,11 @@
 id: 210264872
-type: way
+type: node
 latitude: 48.90132
 longitude: 9.4154
 postcode: "71397"
 city: Leutenbach
-street: "Maybachstraße"
-housenumber: 4
+street: Maybachstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://autohaus-toepner.skoda-auto.de/"
+website: https://autohaus-toepner.skoda-auto.de/

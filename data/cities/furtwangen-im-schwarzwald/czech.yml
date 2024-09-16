@@ -1,11 +1,11 @@
 id: 227520909
-type: way
+type: node
 latitude: 48.05483
 longitude: 8.20306
 postcode: "78120"
 city: Furtwangen im Schwarzwald
-street: "Bismarckstraße"
-housenumber: 42
-phone: "+49 7723 914643"
+street: Bismarckstraße
+housenumber: "42"
+phone: +49 7723 914643
 opening_hours: ""
-website: "https://www.die-erlebniskueche.de/"
+website: https://www.die-erlebniskueche.de/

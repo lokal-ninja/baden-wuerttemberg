@@ -4,8 +4,8 @@ latitude: 47.57061
 longitude: 8.4367
 postcode: "79801"
 city: Hohentengen am Hochrhein
-street: "Hauptstraße"
-housenumber: 40
+street: Hauptstraße
+housenumber: "40"
 phone: "+4977429278150"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-14:00"
-website: "http://www.style-am-rhein.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-14:00
+website: http://www.style-am-rhein.de/

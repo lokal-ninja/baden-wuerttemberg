@@ -1,11 +1,11 @@
 id: 112243289
-type: way
+type: node
 latitude: 48.75496
 longitude: 10.3246
 postcode: "73450"
 city: Neresheim
-street: "Heidenheimer Straße"
-housenumber: 35
+street: Heidenheimer Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

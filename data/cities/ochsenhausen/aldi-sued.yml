@@ -1,11 +1,11 @@
 id: 127743339
-type: way
+type: node
 latitude: 48.07706
 longitude: 9.94516
 postcode: ""
 city: Ochsenhausen
-street: "Güterbahnhof"
-housenumber: 9
+street: Güterbahnhof
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

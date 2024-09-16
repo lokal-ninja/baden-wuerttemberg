@@ -1,11 +1,11 @@
 id: 142175507
-type: way
+type: node
 latitude: 48.04756
 longitude: 8.25199
 postcode: "78120"
 city: Furtwangen im Schwarzwald
-street: "Zum Gaisberg"
-housenumber: 4
+street: Zum Gaisberg
+housenumber: "4"
 phone: "+49772391888"
 opening_hours: ""
 website: ""

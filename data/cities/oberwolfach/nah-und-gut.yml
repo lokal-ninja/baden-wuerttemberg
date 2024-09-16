@@ -1,11 +1,11 @@
 id: 99018480
-type: way
+type: node
 latitude: 48.30846
 longitude: 8.21903
 postcode: "77709"
 city: Oberwolfach
-street: "Allmendstraße"
-housenumber: 17
+street: Allmendstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-14:00"
+opening_hours: Mo-Sa 08:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 208331642
-type: way
+type: node
 latitude: 48.76632
 longitude: 9.82046
 postcode: "73550"
 city: Waldstetten
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.schmid-kuhn.de"
+website: https://www.schmid-kuhn.de

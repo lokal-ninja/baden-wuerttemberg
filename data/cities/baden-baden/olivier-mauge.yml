@@ -4,8 +4,8 @@ latitude: 48.76258
 longitude: 8.2384
 postcode: "76530"
 city: Baden-Baden
-street: "Lange Straße"
-housenumber: 22
-phone: "+49 7221 29402"
-opening_hours: "Mo-Sa 10:00-18:30"
-website: "http://www.oliviermauge.de/"
+street: Lange Straße
+housenumber: "22"
+phone: +49 7221 29402
+opening_hours: Mo-Sa 10:00-18:30
+website: http://www.oliviermauge.de/

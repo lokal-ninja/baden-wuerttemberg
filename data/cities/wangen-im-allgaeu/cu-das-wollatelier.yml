@@ -4,8 +4,8 @@ latitude: 47.68751
 longitude: 9.83495
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Schmiedstraße"
-housenumber: 25
-phone: "+49 7522 7017148"
-opening_hours: "Mo-We,Fr 09:30-12:30,13:30-18:00; Sa 09:30-13:00; Th,Su closed"
-website: "https://www.cu-das-wollatelier.de/"
+street: Schmiedstraße
+housenumber: "25"
+phone: +49 7522 7017148
+opening_hours: Mo-We,Fr 09:30-12:30,13:30-18:00; Sa 09:30-13:00; Th,Su closed
+website: https://www.cu-das-wollatelier.de/

@@ -4,8 +4,8 @@ latitude: 47.78108
 longitude: 9.61499
 postcode: "88212"
 city: Ravensburg
-street: "Marktstraße"
-housenumber: 10
+street: Marktstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 10:00-17:00; Sa 09:00-16:00"
-website: "http://www.henger-ravensburg.de"
+opening_hours: Tu-Fr 10:00-17:00; Sa 09:00-16:00
+website: http://www.henger-ravensburg.de

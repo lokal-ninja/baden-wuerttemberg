@@ -4,8 +4,8 @@ latitude: 48.65334
 longitude: 9.21707
 postcode: "70794"
 city: Filderstadt
-street: "Metzinger Straße"
-housenumber: 17
-phone: "+49 711 9970547"
-opening_hours: "Mo-Sa 07:00-24:00"
-website: "https://rewe-guentner.de"
+street: Metzinger Straße
+housenumber: "17"
+phone: +49 711 9970547
+opening_hours: Mo-Sa 07:00-24:00
+website: https://rewe-guentner.de

@@ -1,11 +1,11 @@
 id: 35359100
-type: way
+type: node
 latitude: 48.69699
 longitude: 8.77693
 postcode: "75365"
 city: Calw
-street: "Gänsäckerstraße"
-housenumber: 99
+street: Gänsäckerstraße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

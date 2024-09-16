@@ -1,11 +1,11 @@
 id: 1210860376
-type: way
+type: node
 latitude: 48.39723
 longitude: 8.54538
 postcode: "72175"
 city: Dornhan
-street: "Glattalstraße"
-housenumber: 70
+street: Glattalstraße
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

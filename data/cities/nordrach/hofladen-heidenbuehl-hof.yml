@@ -4,8 +4,8 @@ latitude: 48.40865
 longitude: 8.09642
 postcode: "77787"
 city: Nordrach
-street: "Heidenbühl"
-housenumber: 2
-phone: "+49 7838 663"
-opening_hours: "Nach telefonischer Absprache"
-website: "https://heidenbuehl-hof.de/"
+street: Heidenbühl
+housenumber: "2"
+phone: +49 7838 663
+opening_hours: '"Nach telefonischer Absprache"'
+website: https://heidenbuehl-hof.de/

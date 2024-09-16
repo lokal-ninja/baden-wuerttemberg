@@ -4,8 +4,8 @@ latitude: 48.62541
 longitude: 9.33664
 postcode: "72622"
 city: Nürtingen
-street: "Mönchstraße"
-housenumber: 12
-phone: "+49 7022 32834"
-opening_hours: "Mo, Tu, Th, Fr 10:00-13:00, 14:30-18:00; We 10:00-13:00; Sa 09:00-13:30"
-website: "https://www.teppich-walker.de/"
+street: Mönchstraße
+housenumber: "12"
+phone: +49 7022 32834
+opening_hours: Mo, Tu, Th, Fr 10:00-13:00, 14:30-18:00; We 10:00-13:00; Sa 09:00-13:30
+website: https://www.teppich-walker.de/

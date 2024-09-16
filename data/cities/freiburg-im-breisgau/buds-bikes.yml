@@ -4,8 +4,8 @@ latitude: 48.01936
 longitude: 7.84829
 postcode: "79108"
 city: Freiburg im Breisgau
-street: "Liebigstraße"
-housenumber: 7
-phone: "+49 761 76697440"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.budsbikes.de"
+street: Liebigstraße
+housenumber: "7"
+phone: +49 761 76697440
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.budsbikes.de

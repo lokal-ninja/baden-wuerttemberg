@@ -1,11 +1,11 @@
 id: 271210232
-type: way
+type: node
 latitude: 48.61197
 longitude: 8.08269
 postcode: "77855"
 city: Achern
-street: "Oberacherner Straße"
-housenumber: 98
-phone: "+49 7841 6730246"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-17:00; Su 13:00-18:00"
-website: "https://www.anjas-schokostuebchen.de/"
+street: Oberacherner Straße
+housenumber: "98"
+phone: +49 7841 6730246
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-17:00; Su 13:00-18:00
+website: https://www.anjas-schokostuebchen.de/

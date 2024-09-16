@@ -4,8 +4,8 @@ latitude: 48.73306
 longitude: 9.11145
 postcode: "70563"
 city: Stuttgart
-street: "Brommerstraße"
-housenumber: 2
+street: Brommerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-14:00; Su 08:00-12:00"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-14:00; Su 08:00-12:00
 website: ""

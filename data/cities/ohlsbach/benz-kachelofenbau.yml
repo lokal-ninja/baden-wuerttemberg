@@ -1,11 +1,11 @@
 id: 90396251
-type: way
+type: node
 latitude: 48.43273
 longitude: 7.98405
 postcode: "77797"
 city: Ohlsbach
-street: "Auf der Scherersmatt"
-housenumber: 7
+street: Auf der Scherersmatt
+housenumber: "7"
 phone: ""
-opening_hours: "Fr 14:00-18:00; Sa 10:00-14:00"
+opening_hours: Fr 14:00-18:00; Sa 10:00-14:00
 website: ""

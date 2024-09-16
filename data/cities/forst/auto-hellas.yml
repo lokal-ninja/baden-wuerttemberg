@@ -1,11 +1,11 @@
 id: 147705213
-type: way
+type: node
 latitude: 49.1573
 longitude: 8.5704
 postcode: "76694"
 city: Forst
-street: "Heinrich-Hertz-Straße"
-housenumber: 3
+street: Heinrich-Hertz-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

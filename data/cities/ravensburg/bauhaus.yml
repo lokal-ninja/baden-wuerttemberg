@@ -1,11 +1,11 @@
 id: 158710321
-type: way
+type: node
 latitude: 47.79322
 longitude: 9.61173
 postcode: "88212"
 city: Ravensburg
-street: "Bleicherstraße"
-housenumber: 36
+street: Bleicherstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.bauhaus.info/fachcentren/fachcentrum-ravensburg/fc/587"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.bauhaus.info/fachcentren/fachcentrum-ravensburg/fc/587

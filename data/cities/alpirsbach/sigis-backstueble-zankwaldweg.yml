@@ -1,11 +1,11 @@
 id: 585936676
-type: way
+type: node
 latitude: 48.33582
 longitude: 8.4349
 postcode: "72275"
 city: Alpirsbach
-street: "Zankwaldweg"
-housenumber: 6
+street: Zankwaldweg
+housenumber: "6"
 phone: "+4974442651"
 opening_hours: ""
-website: "https://baeckerei-maser.de/index.php?id=1"
+website: https://baeckerei-maser.de/index.php?id=1

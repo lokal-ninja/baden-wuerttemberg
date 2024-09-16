@@ -1,11 +1,11 @@
 id: 81304833
-type: way
+type: node
 latitude: 48.87192
 longitude: 9.38274
 postcode: "71364"
 city: Winnenden
-street: "Max-Eyth-Straße"
-housenumber: 36
+street: Max-Eyth-Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

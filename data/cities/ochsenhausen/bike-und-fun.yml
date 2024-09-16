@@ -1,11 +1,11 @@
 id: 209426010
-type: way
+type: node
 latitude: 48.07806
 longitude: 9.94716
 postcode: "88416"
 city: Ochsenhausen
-street: "Untere Wiesen"
-housenumber: 12
+street: Untere Wiesen
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "http://bikeandfun-ochsenhausen.de"
+website: http://bikeandfun-ochsenhausen.de

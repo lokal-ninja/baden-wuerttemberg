@@ -4,8 +4,9 @@ latitude: 48.01397
 longitude: 9.50888
 postcode: "88348"
 city: Bad Saulgau
-street: "Elisabethenstraße"
-housenumber: 12
+street: Elisabethenstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Tu 08:00-12:00, 13:30-17:30; We 08:00-12:00; Th-Fr 08:00-12:00, 13:30-17:30; Sa 08:00-12:00"
+opening_hours: Mo-Tu 08:00-12:00, 13:30-17:30; We 08:00-12:00; Th-Fr 08:00-12:00,
+    13:30-17:30; Sa 08:00-12:00
 website: ""

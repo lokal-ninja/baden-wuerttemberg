@@ -1,11 +1,11 @@
 id: 270307921
-type: way
+type: node
 latitude: 49.1506
 longitude: 9.12228
 postcode: "74211"
 city: Leingarten
-street: "Leibnizstraße"
-housenumber: 11
+street: Leibnizstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://keepdrum.de/"
+website: https://keepdrum.de/

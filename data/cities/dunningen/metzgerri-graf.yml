@@ -1,11 +1,11 @@
 id: 161386026
-type: way
+type: node
 latitude: 48.2114
 longitude: 8.50667
 postcode: "78655"
 city: Dunningen
-street: "Dorfbachstraße"
-housenumber: 7
+street: Dorfbachstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.92264
 longitude: 8.64745
 postcode: "78187"
 city: Geisingen
-street: "Hauptstraße"
-housenumber: 21
+street: Hauptstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:00-12:30"
-website: "https://www.schreibwaren-hoefler.de/"
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:00-12:30
+website: https://www.schreibwaren-hoefler.de/

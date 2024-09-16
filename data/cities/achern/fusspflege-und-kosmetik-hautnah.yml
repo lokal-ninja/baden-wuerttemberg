@@ -1,11 +1,11 @@
 id: 321006010
-type: way
+type: node
 latitude: 48.61962
 longitude: 7.99607
 postcode: "77855"
 city: Achern
-street: "Buschweg"
-housenumber: 3
+street: Buschweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

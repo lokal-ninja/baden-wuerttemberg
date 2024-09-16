@@ -1,11 +1,11 @@
 id: 301085223
-type: way
+type: node
 latitude: 49.583
 longitude: 9.36742
 postcode: "74731"
 city: Walldürn
-street: "Obere Vorstadtstraße"
+street: Obere Vorstadtstraße
 housenumber: 12b
-phone: "+49 6282 7434"
+phone: +49 6282 7434
 opening_hours: ""
-website: "https://hessfriseure.de/"
+website: https://hessfriseure.de/

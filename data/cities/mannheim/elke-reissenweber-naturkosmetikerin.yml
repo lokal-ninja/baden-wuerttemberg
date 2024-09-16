@@ -4,8 +4,8 @@ latitude: 49.46797
 longitude: 8.47031
 postcode: "68163"
 city: Mannheim
-street: "Meerwiesenstraße"
-housenumber: 23
-phone: "+49 621 83559344"
-opening_hours: "We,Sa 10:00-13:00"
-website: "https://www.die-naturkosmetikerin.de/"
+street: Meerwiesenstraße
+housenumber: "23"
+phone: +49 621 83559344
+opening_hours: We,Sa 10:00-13:00
+website: https://www.die-naturkosmetikerin.de/

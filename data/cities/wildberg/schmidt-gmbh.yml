@@ -1,11 +1,11 @@
 id: 95402986
-type: way
+type: node
 latitude: 48.62522
 longitude: 8.74908
 postcode: "72218"
 city: Wildberg
-street: "Talstraße"
-housenumber: 51
+street: Talstraße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

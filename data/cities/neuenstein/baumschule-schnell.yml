@@ -1,11 +1,11 @@
 id: 324221054
-type: way
+type: node
 latitude: 49.20286
 longitude: 9.565
 postcode: "74632"
 city: Neuenstein
-street: "Sophienbergstraße"
-housenumber: 80
+street: Sophienbergstraße
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "https://www.baumschule-schnell.de/"
+website: https://www.baumschule-schnell.de/

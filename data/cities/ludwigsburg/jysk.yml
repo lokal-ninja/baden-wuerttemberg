@@ -1,11 +1,11 @@
 id: 203969861
-type: way
+type: node
 latitude: 48.92235
 longitude: 9.14592
 postcode: "71634"
 city: Ludwigsburg
-street: "Maybachstraße"
-housenumber: 8
+street: Maybachstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://jysk.de/"
+website: https://jysk.de/

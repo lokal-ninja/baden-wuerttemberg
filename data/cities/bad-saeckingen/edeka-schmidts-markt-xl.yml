@@ -1,11 +1,11 @@
 id: 460859589
-type: way
+type: node
 latitude: 47.55205
 longitude: 7.93459
 postcode: "79713"
 city: Bad Säckingen
-street: "Tullastraße"
-housenumber: 12
-phone: "+49 7761 55327 - 0"
-opening_hours: "Mo-Sa 07:30-21:00"
-website: "https://www.schmidts-maerkte.de/markt-bs-brennet-park.php?DOC_INST=149"
+street: Tullastraße
+housenumber: "12"
+phone: +49 7761 55327 - 0
+opening_hours: Mo-Sa 07:30-21:00
+website: https://www.schmidts-maerkte.de/markt-bs-brennet-park.php?DOC_INST=149

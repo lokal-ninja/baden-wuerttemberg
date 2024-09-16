@@ -1,11 +1,11 @@
 id: 58009719
-type: way
+type: node
 latitude: 48.4744
 longitude: 7.93562
 postcode: ""
 city: Offenburg
-street: "Freiburger Straße"
-housenumber: 15
+street: Freiburger Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/offenburg/freiburgerstrasse-15"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/offenburg/freiburgerstrasse-15

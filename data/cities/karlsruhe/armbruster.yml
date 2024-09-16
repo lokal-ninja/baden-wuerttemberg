@@ -4,8 +4,8 @@ latitude: 49.00186
 longitude: 8.46258
 postcode: "76227"
 city: Karlsruhe
-street: "Hauptbahnstraße"
-housenumber: 1
+street: Hauptbahnstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 05:00-18:30; Sa 06:30-17:30; PH,Su 07:30-17:00"
-website: "http://www.armbruster-backshop.de"
+opening_hours: Mo-Fr 05:00-18:30; Sa 06:30-17:30; PH,Su 07:30-17:00
+website: http://www.armbruster-backshop.de

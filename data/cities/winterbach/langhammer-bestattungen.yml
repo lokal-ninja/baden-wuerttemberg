@@ -1,11 +1,11 @@
 id: 158190589
-type: way
+type: node
 latitude: 48.80045
 longitude: 9.47906
 postcode: "73650"
 city: Winterbach
-street: "Hauptstraße"
-housenumber: 3
-phone: "+49 7151 961959"
-opening_hours: "24/7"
-website: "https://www.bestattungen-langhammer.de"
+street: Hauptstraße
+housenumber: "3"
+phone: +49 7151 961959
+opening_hours: 24/7
+website: https://www.bestattungen-langhammer.de

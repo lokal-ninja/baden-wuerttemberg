@@ -1,11 +1,11 @@
 id: 121770187
-type: way
+type: node
 latitude: 48.87618
 longitude: 9.39808
 postcode: "71364"
 city: Winnenden
-street: "Wagnerstraße"
-housenumber: 4
-phone: "+49 71 95 940137"
+street: Wagnerstraße
+housenumber: "4"
+phone: +49 71 95 940137
 opening_hours: ""
 website: ""

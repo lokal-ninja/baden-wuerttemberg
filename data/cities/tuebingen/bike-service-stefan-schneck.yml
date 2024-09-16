@@ -4,8 +4,9 @@ latitude: 48.53094
 longitude: 9.08039
 postcode: "72074"
 city: Tübingen
-street: "Dorfackerstraße"
-housenumber: 24
+street: Dorfackerstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Tu 09:00-17:00; We 09:00-12:00; Th 09:00-17:00; Fr 09:00-17:00; Sa 10:00-13:00; PH,Su,Mo off"
+opening_hours: Tu 09:00-17:00; We 09:00-12:00; Th 09:00-17:00; Fr 09:00-17:00; Sa
+    10:00-13:00; PH,Su,Mo off
 website: ""

@@ -1,11 +1,11 @@
 id: 117375327
-type: way
+type: node
 latitude: 49.53323
 longitude: 9.20623
 postcode: "69427"
 city: Mudau
-street: "Hauptstraße"
-housenumber: 8
+street: Hauptstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.68569
 longitude: 9.83531
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Bindstraße"
-housenumber: 41
-phone: "+49 7522 2420"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30; Su closed"
-website: "https://jaeger-kehrer.de/"
+street: Bindstraße
+housenumber: "41"
+phone: +49 7522 2420
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30; Su closed
+website: https://jaeger-kehrer.de/

@@ -1,11 +1,11 @@
 id: 95939410
-type: way
+type: node
 latitude: 48.66462
 longitude: 8.68343
 postcode: "75387"
 city: Neubulach
-street: "Bühlstraße"
-housenumber: 14
-phone: "+49 7053 3246"
+street: Bühlstraße
+housenumber: "14"
+phone: +49 7053 3246
 opening_hours: ""
-website: "http://www.zeltmauch.de"
+website: http://www.zeltmauch.de

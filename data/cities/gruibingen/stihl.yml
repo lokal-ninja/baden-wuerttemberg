@@ -1,11 +1,11 @@
 id: 382202130
-type: way
+type: node
 latitude: 48.59923
 longitude: 9.64015
 postcode: "73344"
 city: Gruibingen
-street: "Hauptstraße"
-housenumber: 81
-phone: "+49 7335 1851119"
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-17:30; Sa 09:00-12:00"
+street: Hauptstraße
+housenumber: "81"
+phone: +49 7335 1851119
+opening_hours: Mo-Fr 07:30-12:00, 13:00-17:30; Sa 09:00-12:00
 website: ""

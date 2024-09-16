@@ -1,11 +1,11 @@
 id: 34007275
-type: way
+type: node
 latitude: 48.62066
 longitude: 9.35939
 postcode: "72622"
 city: Nürtingen
-street: "Humboldtweg"
-housenumber: 1
+street: Humboldtweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

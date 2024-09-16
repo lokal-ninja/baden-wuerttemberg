@@ -1,11 +1,11 @@
 id: 288535414
-type: way
+type: node
 latitude: 49.00964
 longitude: 8.39869
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 185
+street: Kaiserstraße
+housenumber: "185"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://m.jdsports.de/store-locator/karlsruhe-kaise/1999/"
+opening_hours: Mo-Sa 09:00-17:00
+website: https://m.jdsports.de/store-locator/karlsruhe-kaise/1999/

@@ -1,11 +1,11 @@
 id: 121262257
-type: way
+type: node
 latitude: 47.71501
 longitude: 9.40146
 postcode: "88677"
 city: Markdorf
-street: "Dornierstraße"
-housenumber: 2
+street: Dornierstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

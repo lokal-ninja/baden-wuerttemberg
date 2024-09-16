@@ -4,8 +4,8 @@ latitude: 48.5418
 longitude: 9.04614
 postcode: "72076"
 city: Tübingen
-street: "Beim Herbstenhof"
-housenumber: 9
-phone: "+49 7071 640480"
-opening_hours: "PH,Su,Mo off; Tu-Fr 09:00-19:00; Sa 08:00-14:00"
-website: "http://www.salon-kern.de"
+street: Beim Herbstenhof
+housenumber: "9"
+phone: +49 7071 640480
+opening_hours: PH,Su,Mo off; Tu-Fr 09:00-19:00; Sa 08:00-14:00
+website: http://www.salon-kern.de

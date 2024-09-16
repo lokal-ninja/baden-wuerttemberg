@@ -1,11 +1,11 @@
 id: 83124593
-type: way
+type: node
 latitude: 47.63063
 longitude: 8.32397
 postcode: "79787"
 city: Lauchringen
-street: "Industriestraße"
-housenumber: 4
-phone: "+49 7741 62511"
+street: Industriestraße
+housenumber: "4"
+phone: +49 7741 62511
 opening_hours: ""
-website: "https://www.eichkorn-fahrzeugbau.de/"
+website: https://www.eichkorn-fahrzeugbau.de/

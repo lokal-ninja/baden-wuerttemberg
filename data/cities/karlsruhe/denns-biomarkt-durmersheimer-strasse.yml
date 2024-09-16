@@ -4,8 +4,8 @@ latitude: 48.99786
 longitude: 8.34801
 postcode: "76189"
 city: Karlsruhe
-street: "Durmersheimer Straße"
-housenumber: 143
-phone: "+49 721 86480205"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://www.denns-biomarkt.de/"
+street: Durmersheimer Straße
+housenumber: "143"
+phone: +49 721 86480205
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.denns-biomarkt.de/

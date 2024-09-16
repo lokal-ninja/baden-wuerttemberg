@@ -1,11 +1,11 @@
 id: 121850550
-type: way
+type: node
 latitude: 48.87624
 longitude: 9.40018
 postcode: "71364"
 city: Winnenden
-street: "Brunnenstraße"
-housenumber: 19
-phone: "+49 7195 580462"
+street: Brunnenstraße
+housenumber: "19"
+phone: +49 7195 580462
 opening_hours: ""
-website: "https://www.tafel-bw.de/winnenden.htm"
+website: https://www.tafel-bw.de/winnenden.htm

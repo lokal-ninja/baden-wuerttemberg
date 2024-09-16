@@ -1,11 +1,11 @@
 id: 550847076
-type: way
+type: node
 latitude: 48.95346
 longitude: 9.19696
 postcode: "74385"
 city: Pleidelsheim
-street: "Gottlob-Gußmann-Straße"
-housenumber: 2
-phone: "+49 7144 20008"
+street: Gottlob-Gußmann-Straße
+housenumber: "2"
+phone: +49 7144 20008
 opening_hours: ""
-website: "https://www.ford-gerlach-pleidelsheim.de/"
+website: https://www.ford-gerlach-pleidelsheim.de/

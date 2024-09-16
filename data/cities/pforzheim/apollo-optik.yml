@@ -4,8 +4,8 @@ latitude: 48.8917
 longitude: 8.6995
 postcode: "75172"
 city: Pforzheim
-street: "Bahnhofstraße"
-housenumber: 2
-phone: "+49 7231 429503"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.apollo.de/"
+street: Bahnhofstraße
+housenumber: "2"
+phone: +49 7231 429503
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.apollo.de/

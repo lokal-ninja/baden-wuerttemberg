@@ -1,11 +1,11 @@
 id: 493211011
-type: way
+type: node
 latitude: 48.16863
 longitude: 8.69126
 postcode: "78628"
 city: Rottweil
-street: "Im Zinken"
-housenumber: 10
+street: Im Zinken
+housenumber: "10"
 phone: "+4974122119"
 opening_hours: ""
 website: ""

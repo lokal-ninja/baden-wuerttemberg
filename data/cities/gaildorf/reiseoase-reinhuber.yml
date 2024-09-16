@@ -4,8 +4,8 @@ latitude: 48.99799
 longitude: 9.76639
 postcode: "74405"
 city: Gaildorf
-street: "Gartenstraße"
+street: Gartenstraße
 housenumber: 20/1
-phone: "+49 7977 9119807"
-opening_hours: "Nach Vereinbarung"
-website: "https://reiseoase-reinhuber.de"
+phone: +49 7977 9119807
+opening_hours: '"Nach Vereinbarung"'
+website: https://reiseoase-reinhuber.de

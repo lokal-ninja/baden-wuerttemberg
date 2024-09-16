@@ -4,8 +4,8 @@ latitude: 48.77441
 longitude: 9.15379
 postcode: "70197"
 city: Stuttgart
-street: "Gutbrodstraße"
-housenumber: 9
+street: Gutbrodstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Th,Fr 10:00-13:00,14:00-18:00; Sa 10:00-16:00"
+opening_hours: Th,Fr 10:00-13:00,14:00-18:00; Sa 10:00-16:00
 website: ""

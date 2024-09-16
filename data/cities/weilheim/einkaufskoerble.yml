@@ -4,8 +4,8 @@ latitude: 47.68006
 longitude: 8.15363
 postcode: "79809"
 city: Weilheim
-street: "Waldhausstraße"
-housenumber: 3
-phone: "+49 7755 919999"
-opening_hours: "Mo-Fr 08:00-12:00, 15:30-18:00, 09:00-18:00; Sa 07:00-12:00; Su 07:30-09:00"
+street: Waldhausstraße
+housenumber: "3"
+phone: +49 7755 919999
+opening_hours: Mo-Fr 08:00-12:00, 15:30-18:00, 09:00-18:00; Sa 07:00-12:00; Su 07:30-09:00
 website: ""

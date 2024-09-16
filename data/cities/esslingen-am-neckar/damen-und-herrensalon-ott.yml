@@ -1,11 +1,11 @@
 id: 263549294
-type: way
+type: node
 latitude: 48.7433
 longitude: 9.34061
 postcode: "73732"
 city: Esslingen am Neckar
-street: "Esslinger Straße"
-housenumber: 2
+street: Esslinger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:00,13:30-18:00; Sa 07:00-12:00"
+opening_hours: Tu-Fr 08:00-12:00,13:30-18:00; Sa 07:00-12:00
 website: ""

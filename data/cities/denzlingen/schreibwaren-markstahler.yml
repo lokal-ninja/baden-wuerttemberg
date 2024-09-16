@@ -1,11 +1,11 @@
 id: 111315504
-type: way
+type: node
 latitude: 48.06672
 longitude: 7.88419
 postcode: "79211"
 city: Denzlingen
-street: "Hauptstraße"
-housenumber: 136
+street: Hauptstraße
+housenumber: "136"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:30,14:30-18:00; Sa 09:00-13:00; PH,Su off"
-website: "https://www.schreibwaren-markstahler.de/"
+opening_hours: Mo-Fr 07:30-12:30,14:30-18:00; Sa 09:00-13:00; PH,Su off
+website: https://www.schreibwaren-markstahler.de/

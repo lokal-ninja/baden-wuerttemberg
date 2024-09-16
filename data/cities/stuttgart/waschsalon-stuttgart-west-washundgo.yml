@@ -4,8 +4,8 @@ latitude: 48.77298
 longitude: 9.15617
 postcode: "70197"
 city: Stuttgart
-street: "Schwabstraße"
-housenumber: 73
-phone: "+49 (0) 711-96893785"
-opening_hours: "Mo-Sa 06:00-23:00"
-website: "https://www.washandgo.com"
+street: Schwabstraße
+housenumber: "73"
+phone: +49 (0) 711-96893785
+opening_hours: Mo-Sa 06:00-23:00
+website: https://www.washandgo.com

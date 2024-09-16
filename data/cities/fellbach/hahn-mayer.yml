@@ -1,11 +1,11 @@
 id: 47974272
-type: way
+type: node
 latitude: 48.81316
 longitude: 9.28215
 postcode: "70734"
 city: Fellbach
-street: "Waiblinger Straße"
-housenumber: 68
+street: Waiblinger Straße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

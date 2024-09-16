@@ -1,11 +1,11 @@
 id: 144548940
-type: way
+type: node
 latitude: 48.28722
 longitude: 8.81974
 postcode: "72351"
 city: Geislingen
-street: "Brühlstraße"
-housenumber: 66
+street: Brühlstraße
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 380593467
-type: way
+type: node
 latitude: 48.62265
 longitude: 10.02065
 postcode: "89547"
 city: Gerstetten
-street: "Wilhelmstraße"
-housenumber: 22
+street: Wilhelmstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:00,13:15-18:00;Sa 7:30-13:00"
+opening_hours: Tu-Fr 08:00-12:00,13:15-18:00;Sa 7:30-13:00
 website: ""

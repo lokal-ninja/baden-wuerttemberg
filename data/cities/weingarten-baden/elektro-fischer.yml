@@ -4,8 +4,8 @@ latitude: 49.05414
 longitude: 8.51574
 postcode: "76356"
 city: Weingarten (Baden)
-street: "Rudolf-Diesel-Straße"
-housenumber: 20
-phone: "+49 7244 2717"
-opening_hours: "Mo 13:00-17:00; Di-Do 8:00-12:00, 13:00-17:00; Fr 8:00-12:00"
-website: "https://www.elektro-fischer-weingarten.de/"
+street: Rudolf-Diesel-Straße
+housenumber: "20"
+phone: +49 7244 2717
+opening_hours: Mo 13:00-17:00; Di-Do 8:00-12:00, 13:00-17:00; Fr 8:00-12:00
+website: https://www.elektro-fischer-weingarten.de/

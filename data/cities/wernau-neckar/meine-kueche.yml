@@ -1,11 +1,11 @@
 id: 120720107
-type: way
+type: node
 latitude: 48.68271
 longitude: 9.42496
 postcode: "73249"
 city: Wernau (Neckar)
-street: "Max-Eyth-Straße"
-housenumber: 1
+street: Max-Eyth-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

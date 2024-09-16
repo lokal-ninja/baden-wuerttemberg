@@ -1,11 +1,11 @@
 id: 519703438
-type: way
+type: node
 latitude: 48.74277
 longitude: 8.26146
 postcode: "76534"
 city: Baden-Baden
-street: "Beuerner Straße"
-housenumber: 12
-phone: "+49 7221 97470"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.fitterer.eu/fitterer-maerkte/baden-baden/"
+street: Beuerner Straße
+housenumber: "12"
+phone: +49 7221 97470
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.fitterer.eu/fitterer-maerkte/baden-baden/

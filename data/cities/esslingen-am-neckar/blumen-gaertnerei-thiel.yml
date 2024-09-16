@@ -1,11 +1,12 @@
 id: 312445778
-type: way
+type: node
 latitude: 48.74339
 longitude: 9.34041
 postcode: "73732"
 city: Esslingen am Neckar
-street: "Esslinger Straße"
-housenumber: 4
-phone: "+49 711 371294"
-opening_hours: "Mo 08:00-12:30,14:30-18:00; Tu 08:00-12:30; We-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:30; Su off"
-website: "https://www.blumen-thiel.de/"
+street: Esslinger Straße
+housenumber: "4"
+phone: +49 711 371294
+opening_hours: Mo 08:00-12:30,14:30-18:00; Tu 08:00-12:30; We-Fr 08:00-12:30,14:30-18:00;
+    Sa 08:00-12:30; Su off
+website: https://www.blumen-thiel.de/

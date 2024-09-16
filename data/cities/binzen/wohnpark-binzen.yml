@@ -1,11 +1,11 @@
 id: 183818853
-type: way
+type: node
 latitude: 47.62404
 longitude: 7.61301
 postcode: "79589"
 city: Binzen
-street: "Konrad-Zuse-Straße"
-housenumber: 6
+street: Konrad-Zuse-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.wohnpark-binzen.de/"
+website: https://www.wohnpark-binzen.de/

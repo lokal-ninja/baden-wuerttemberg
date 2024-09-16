@@ -1,11 +1,11 @@
 id: 67110635
-type: way
+type: node
 latitude: 49.08771
 longitude: 9.19149
 postcode: "74388"
 city: Talheim
-street: "Sontheimer Straße"
-housenumber: 20
+street: Sontheimer Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

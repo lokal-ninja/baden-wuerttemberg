@@ -1,11 +1,11 @@
 id: 137479027
-type: way
+type: node
 latitude: 48.16136
 longitude: 8.63715
 postcode: "78628"
 city: Rottweil
-street: "Königstraße"
-housenumber: 64
+street: Königstraße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

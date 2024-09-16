@@ -4,8 +4,8 @@ latitude: 48.81378
 longitude: 9.27126
 postcode: "70736"
 city: Fellbach
-street: "Stuttgarter Straße"
-housenumber: 26
-phone: "+49 711 3003409"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.dm.de/"
+street: Stuttgarter Straße
+housenumber: "26"
+phone: +49 711 3003409
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.dm.de/

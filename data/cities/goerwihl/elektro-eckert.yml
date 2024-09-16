@@ -1,11 +1,11 @@
 id: 271560791
-type: way
+type: node
 latitude: 47.64112
 longitude: 8.07928
 postcode: "79733"
 city: Görwihl
-street: "Hauptstraße"
-housenumber: 38
-phone: "+49 7754 862"
+street: Hauptstraße
+housenumber: "38"
+phone: +49 7754 862
 opening_hours: ""
-website: "https://www.elektro-eckert.org/"
+website: https://www.elektro-eckert.org/

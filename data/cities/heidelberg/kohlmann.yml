@@ -1,11 +1,11 @@
 id: 265939973
-type: way
+type: node
 latitude: 49.41464
 longitude: 8.67095
 postcode: "69120"
 city: Heidelberg
-street: "Im Neuenheimer Feld"
-housenumber: 370
-phone: "+49 6221 603450"
-opening_hours: "Mo-Th 06:00-16:30; Fr 06:00-15:00"
-website: "https://baeckerei-kohlmann.9gg.de/"
+street: Im Neuenheimer Feld
+housenumber: "370"
+phone: +49 6221 603450
+opening_hours: Mo-Th 06:00-16:30; Fr 06:00-15:00
+website: https://baeckerei-kohlmann.9gg.de/

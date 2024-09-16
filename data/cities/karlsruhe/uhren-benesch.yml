@@ -4,8 +4,8 @@ latitude: 48.99928
 longitude: 8.47244
 postcode: "76227"
 city: Karlsruhe
-street: "Pfinztalstraße"
-housenumber: 40
+street: Pfinztalstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:00; PH off; Sa 09:30-13:00"
-website: "https://uhrenbenesch.de/"
+opening_hours: Tu-Fr 09:30-18:00; PH off; Sa 09:30-13:00
+website: https://uhrenbenesch.de/

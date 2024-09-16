@@ -1,11 +1,11 @@
 id: 319448547
-type: way
+type: node
 latitude: 48.78762
 longitude: 8.64724
 postcode: "75328"
 city: Schömberg
-street: "Liebenzeller Straße"
-housenumber: 9
+street: Liebenzeller Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://baerbels-vierhaareszeiten.com/"
+website: https://baerbels-vierhaareszeiten.com/

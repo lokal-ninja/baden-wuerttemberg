@@ -4,8 +4,8 @@ latitude: 48.77335
 longitude: 9.16888
 postcode: "70178"
 city: Stuttgart
-street: "Rotebühlstraße"
-housenumber: 51
+street: Rotebühlstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-17:00"
-website: "http://börd.de"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-17:00
+website: http://börd.de

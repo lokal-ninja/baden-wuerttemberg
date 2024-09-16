@@ -1,11 +1,11 @@
 id: 35717982
-type: way
+type: node
 latitude: 47.69634
 longitude: 9.82471
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Paul-Kolb-Straße"
-housenumber: 7
-phone: "+49 7522 9899589"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://www.atu.de/filialen/555-atu-wangen/"
+street: Paul-Kolb-Straße
+housenumber: "7"
+phone: +49 7522 9899589
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://www.atu.de/filialen/555-atu-wangen/

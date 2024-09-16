@@ -4,8 +4,8 @@ latitude: 49.19156
 longitude: 9.22435
 postcode: "74172"
 city: Neckarsulm
-street: "Marktstraße"
-housenumber: 21
-phone: "+49 7132 3419988"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://www.uhren-schmuck.de"
+street: Marktstraße
+housenumber: "21"
+phone: +49 7132 3419988
+opening_hours: Mo-Fr 10:00-17:00
+website: https://www.uhren-schmuck.de

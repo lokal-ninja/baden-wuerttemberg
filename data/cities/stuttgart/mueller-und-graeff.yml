@@ -1,11 +1,11 @@
 id: 1112597656
-type: way
+type: node
 latitude: 48.77536
 longitude: 9.17291
 postcode: "70173"
 city: Stuttgart
-street: "Calwer Straße"
-housenumber: 54
-phone: "+49 711 294174"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-14:00"
-website: "https://www.buchantiq.de/"
+street: Calwer Straße
+housenumber: "54"
+phone: +49 711 294174
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-14:00
+website: https://www.buchantiq.de/

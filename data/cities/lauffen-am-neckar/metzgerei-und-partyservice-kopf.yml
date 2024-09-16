@@ -1,11 +1,11 @@
 id: 100887409
-type: way
+type: node
 latitude: 49.07608
 longitude: 9.14986
 postcode: "74348"
 city: Lauffen am Neckar
-street: "Bahnhofstraße"
-housenumber: 18
-phone: "+49-7133-7966"
+street: Bahnhofstraße
+housenumber: "18"
+phone: +49-7133-7966
 opening_hours: ""
-website: "http://www.metzgerei-kopf.de/"
+website: http://www.metzgerei-kopf.de/

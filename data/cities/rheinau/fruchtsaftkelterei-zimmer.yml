@@ -4,8 +4,8 @@ latitude: 48.70297
 longitude: 7.97549
 postcode: "77866"
 city: Rheinau
-street: "Im Großfeld"
-housenumber: 2
-phone: "+49 7227 992070"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00"
-website: "https://www.zimmer-fruchtsaft.de/saftladen"
+street: Im Großfeld
+housenumber: "2"
+phone: +49 7227 992070
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00
+website: https://www.zimmer-fruchtsaft.de/saftladen

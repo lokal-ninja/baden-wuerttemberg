@@ -4,8 +4,9 @@ latitude: 47.6748
 longitude: 9.49968
 postcode: "88046"
 city: Friedrichshafen
-street: "Spatenstraße"
-housenumber: 20
+street: Spatenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "09:00-18:00; Sa 09:00-16:00; Oct-Feb: 09:30-18:00; Oct-Feb: Sa 09:30-14:00; Su,PH off"
+opening_hours: '09:00-18:00; Sa 09:00-16:00; Oct-Feb: 09:30-18:00; Oct-Feb: Sa 09:30-14:00;
+    Su,PH off'
 website: ""

@@ -1,11 +1,11 @@
 id: 33082176
-type: way
+type: node
 latitude: 48.5985
 longitude: 8.86125
 postcode: "71083"
 city: Herrenberg
-street: "Schießmauer"
-housenumber: 9
+street: Schießmauer
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.kemmler.de/"
+website: https://www.kemmler.de/

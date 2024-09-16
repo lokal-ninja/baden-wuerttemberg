@@ -4,8 +4,8 @@ latitude: 48.69626
 longitude: 8.13246
 postcode: "77815"
 city: Bühl
-street: "Schulstraße"
-housenumber: 2
-phone: "+49 7223 830410"
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:30-13:00"
-website: "https://fliegenundfahren.de"
+street: Schulstraße
+housenumber: "2"
+phone: +49 7223 830410
+opening_hours: Mo-Fr 09:00-13:00, 14:30-18:00; Sa 09:30-13:00
+website: https://fliegenundfahren.de

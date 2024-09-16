@@ -1,11 +1,11 @@
 id: 309865287
-type: way
+type: node
 latitude: 48.30756
 longitude: 9.24338
 postcode: "72818"
 city: Trochtelfingen
-street: "Marktstraße"
-housenumber: 11
-phone: "+49 7124 2425"
-opening_hours: "Mo-Sa 08:00-12:15; Th-Fr 08:00-12:15, 14:00-18:00"
-website: "http://schreibkultur-am-schloss.de/"
+street: Marktstraße
+housenumber: "11"
+phone: +49 7124 2425
+opening_hours: Mo-Sa 08:00-12:15; Th-Fr 08:00-12:15, 14:00-18:00
+website: http://schreibkultur-am-schloss.de/

@@ -4,8 +4,8 @@ latitude: 48.94577
 longitude: 8.38528
 postcode: "76275"
 city: Ettlingen
-street: "Hertzstraße"
-housenumber: 3
+street: Hertzstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.hbm-ettlingen.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.hbm-ettlingen.de/

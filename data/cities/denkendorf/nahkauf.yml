@@ -1,11 +1,11 @@
 id: 256644073
-type: way
+type: node
 latitude: 48.69211
 longitude: 9.32508
 postcode: "73770"
 city: Denkendorf
-street: "Köngener Straße"
-housenumber: 10
+street: Köngener Straße
+housenumber: "10"
 phone: "+497113002437"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.nahkauf.de/maerkte/denkendorf-45611692-huber-gmbh-koengener-str-10"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.nahkauf.de/maerkte/denkendorf-45611692-huber-gmbh-koengener-str-10

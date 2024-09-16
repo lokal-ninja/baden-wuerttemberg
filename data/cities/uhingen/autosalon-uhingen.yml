@@ -4,8 +4,8 @@ latitude: 48.70498
 longitude: 9.60248
 postcode: "73066"
 city: Uhingen
-street: "Schulstraße"
-housenumber: 117
-phone: "+49 7161 627 04 26"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-15:00; Su,PH off"
-website: "https://www.autosalon-uhingen.de"
+street: Schulstraße
+housenumber: "117"
+phone: +49 7161 627 04 26
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-15:00; Su,PH off
+website: https://www.autosalon-uhingen.de

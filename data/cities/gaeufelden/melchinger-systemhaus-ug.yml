@@ -1,11 +1,11 @@
 id: 105269959
-type: way
+type: node
 latitude: 48.55913
 longitude: 8.84829
 postcode: "71126"
 city: Gäufelden
-street: "Eisenbahnstraße"
-housenumber: 11
+street: Eisenbahnstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

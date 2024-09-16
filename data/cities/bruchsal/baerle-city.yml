@@ -4,8 +4,8 @@ latitude: 49.12517
 longitude: 8.59639
 postcode: "76646"
 city: Bruchsal
-street: "Friedrichstraße"
-housenumber: 48
-phone: "+49 7251 97650"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://www.baerle-friedrichsplatz.de/"
+street: Friedrichstraße
+housenumber: "48"
+phone: +49 7251 97650
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://www.baerle-friedrichsplatz.de/

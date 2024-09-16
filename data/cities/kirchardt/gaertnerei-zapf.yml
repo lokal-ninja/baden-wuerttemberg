@@ -1,11 +1,11 @@
 id: 510700420
-type: way
+type: node
 latitude: 49.21032
 longitude: 8.99388
 postcode: "74912"
 city: Kirchardt
-street: "Grombacher Straße"
-housenumber: 35
+street: Grombacher Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

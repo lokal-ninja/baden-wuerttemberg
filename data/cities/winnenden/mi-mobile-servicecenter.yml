@@ -1,11 +1,11 @@
 id: 125433805
-type: way
+type: node
 latitude: 48.85146
 longitude: 9.41709
 postcode: "71364"
 city: Winnenden
-street: "Buocher Straße"
-housenumber: 60
+street: Buocher Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
-website: "https://mi-mobile.de/"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
+website: https://mi-mobile.de/

@@ -1,11 +1,11 @@
 id: 149599576
-type: way
+type: node
 latitude: 49.00551
 longitude: 8.49602
 postcode: "76229"
 city: Karlsruhe
-street: "Martin-Luther-Straße"
-housenumber: 20
+street: Martin-Luther-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00
 website: ""

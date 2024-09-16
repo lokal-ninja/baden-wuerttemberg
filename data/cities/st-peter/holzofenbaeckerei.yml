@@ -1,11 +1,11 @@
 id: 107494281
-type: way
+type: node
 latitude: 48.02224
 longitude: 8.03698
 postcode: "79271"
 city: St. Peter
-street: "Jörgleweg"
-housenumber: 9
+street: Jörgleweg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

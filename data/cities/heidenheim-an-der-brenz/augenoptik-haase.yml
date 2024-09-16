@@ -4,8 +4,8 @@ latitude: 48.67952
 longitude: 10.1503
 postcode: "89518"
 city: Heidenheim an der Brenz
-street: "Wilhelmstraße"
-housenumber: 10
+street: Wilhelmstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We,Sa 09:00-12:30"
-website: "https://www.optik-haase.com/"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We,Sa 09:00-12:30
+website: https://www.optik-haase.com/

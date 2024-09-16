@@ -4,8 +4,8 @@ latitude: 49.0085
 longitude: 8.42829
 postcode: "76131"
 city: Karlsruhe
-street: "Gerwigstraße"
-housenumber: 34
+street: Gerwigstraße
+housenumber: "34"
 phone: "+491752317505"
-opening_hours: "off nur nach Vereinbarung"
-website: "www.arnsfeld.de"
+opening_hours: off "nur nach Vereinbarung"
+website: www.arnsfeld.de

@@ -1,11 +1,11 @@
 id: 237835213
-type: way
+type: node
 latitude: 49.1402
 longitude: 10.06775
 postcode: "74564"
 city: Crailsheim
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

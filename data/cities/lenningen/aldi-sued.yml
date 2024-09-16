@@ -1,11 +1,11 @@
 id: 42423192
-type: way
+type: node
 latitude: 48.56698
 longitude: 9.4553
 postcode: "73252"
 city: Lenningen
-street: "Im Gänsacker"
-housenumber: 12
+street: Im Gänsacker
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

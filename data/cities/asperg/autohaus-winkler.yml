@@ -1,11 +1,11 @@
 id: 122077802
-type: way
+type: node
 latitude: 48.8989
 longitude: 9.15142
 postcode: "71679"
 city: Asperg
-street: "Filsstraße"
-housenumber: 25
+street: Filsstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,13:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:30-12:00,13:00-18:00; Sa 08:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 248788419
-type: way
+type: node
 latitude: 48.82291
 longitude: 10.04859
 postcode: "73457"
 city: Essingen
-street: "Margarete-Steiff-Straße"
-housenumber: 14
+street: Margarete-Steiff-Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

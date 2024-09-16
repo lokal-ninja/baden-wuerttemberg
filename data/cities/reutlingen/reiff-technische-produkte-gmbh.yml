@@ -1,11 +1,11 @@
 id: 34652353
-type: way
+type: node
 latitude: 48.49766
 longitude: 9.15082
 postcode: "72770"
 city: Reutlingen
-street: "Allmendstraße"
-housenumber: 6
+street: Allmendstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.85461
 longitude: 9.09191
 postcode: "70825"
 city: Korntal-Münchingen
-street: "Stuttgarter Straße"
-housenumber: 29
-phone: "+49 7150 47900"
-opening_hours: "Mo-Fr 06:00-18:15; Sa 06:00-13:00; Su 07:00-12:00"
-website: "https://www.troelsch.de/"
+street: Stuttgarter Straße
+housenumber: "29"
+phone: +49 7150 47900
+opening_hours: Mo-Fr 06:00-18:15; Sa 06:00-13:00; Su 07:00-12:00
+website: https://www.troelsch.de/

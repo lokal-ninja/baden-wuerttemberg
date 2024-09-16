@@ -4,8 +4,8 @@ latitude: 48.4038
 longitude: 8.01494
 postcode: "77723"
 city: Gengenbach
-street: "Hauptstraße"
-housenumber: 19
-phone: "+49 7803 9218163"
-opening_hours: "Mo-Fr 09:00-18:15; Sa 09:00-16:00"
-website: "https://www.mode-giesler.de/"
+street: Hauptstraße
+housenumber: "19"
+phone: +49 7803 9218163
+opening_hours: Mo-Fr 09:00-18:15; Sa 09:00-16:00
+website: https://www.mode-giesler.de/

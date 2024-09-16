@@ -4,8 +4,8 @@ latitude: 48.86056
 longitude: 9.17817
 postcode: "70806"
 city: Kornwestheim
-street: "Stammheimer Straße"
-housenumber: 10
-phone: "+49 7154 8022224"
-opening_hours: "Mo,We-Fr 11:00-19:00; Sa 10:00-16:00"
-website: "https://www.bikesnboards.de/info/kornwestheim"
+street: Stammheimer Straße
+housenumber: "10"
+phone: +49 7154 8022224
+opening_hours: Mo,We-Fr 11:00-19:00; Sa 10:00-16:00
+website: https://www.bikesnboards.de/info/kornwestheim

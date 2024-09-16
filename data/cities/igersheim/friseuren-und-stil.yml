@@ -1,11 +1,11 @@
 id: 502409706
-type: way
+type: node
 latitude: 49.49245
 longitude: 9.81739
 postcode: "97999"
 city: Igersheim
-street: "Goldbachstraße"
-housenumber: 11
+street: Goldbachstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

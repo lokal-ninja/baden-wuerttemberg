@@ -1,11 +1,11 @@
 id: 194023981
-type: way
+type: node
 latitude: 47.91795
 longitude: 8.20585
 postcode: "79822"
 city: Titisee-Neustadt
-street: "Gutachstraße"
-housenumber: 30
-phone: "+49 7651 9369960"
+street: Gutachstraße
+housenumber: "30"
+phone: +49 7651 9369960
 opening_hours: ""
 website: ""

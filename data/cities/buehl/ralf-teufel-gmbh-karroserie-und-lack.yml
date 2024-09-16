@@ -4,8 +4,8 @@ latitude: 48.71668
 longitude: 8.11954
 postcode: "77815"
 city: Bühl
-street: "Werkstraße"
-housenumber: 10
+street: Werkstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 09:00-12:00"
-website: "https://www.lackierteufel.de/"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00; Sa 09:00-12:00
+website: https://www.lackierteufel.de/

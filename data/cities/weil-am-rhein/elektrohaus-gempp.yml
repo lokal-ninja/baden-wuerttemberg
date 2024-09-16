@@ -4,8 +4,8 @@ latitude: 47.59414
 longitude: 7.63141
 postcode: "79576"
 city: Weil am Rhein
-street: "Hauptstraße"
-housenumber: 135
-phone: "+49 762 171250"
-opening_hours: "Mo-Fr 09:00-12:30; Sa 09:00-14:00; Su,PH off"
-website: "https://www.elektro-gempp.de/"
+street: Hauptstraße
+housenumber: "135"
+phone: +49 762 171250
+opening_hours: Mo-Fr 09:00-12:30; Sa 09:00-14:00; Su,PH off
+website: https://www.elektro-gempp.de/

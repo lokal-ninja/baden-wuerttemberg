@@ -4,8 +4,8 @@ latitude: 49.00752
 longitude: 8.40959
 postcode: "76133"
 city: Karlsruhe
-street: "Fritz-Erler-Straße"
-housenumber: 12
+street: Fritz-Erler-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-We,Fr 12:00-20:00; Sa 12:00-18:00"
+opening_hours: Mo-We,Fr 12:00-20:00; Sa 12:00-18:00
 website: ""

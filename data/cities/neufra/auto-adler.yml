@@ -1,11 +1,11 @@
 id: 39216345
-type: way
+type: node
 latitude: 48.25217
 longitude: 9.18033
 postcode: "72419"
 city: Neufra
-street: "Hohenzollernstraße"
-housenumber: 69
+street: Hohenzollernstraße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.83458
 longitude: 9.17308
 postcode: "70435"
 city: Stuttgart
-street: "Besigheimer Straße"
-housenumber: 46
-phone: "+49 711 874600"
-opening_hours: "Tu-Th 10:00-13:00,15:00-18:00 || by appointment"
-website: "https://kosmetikinstitut-schaefer.de/"
+street: Besigheimer Straße
+housenumber: "46"
+phone: +49 711 874600
+opening_hours: Tu-Th 10:00-13:00,15:00-18:00 || "by appointment"
+website: https://kosmetikinstitut-schaefer.de/

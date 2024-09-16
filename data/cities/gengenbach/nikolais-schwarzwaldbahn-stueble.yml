@@ -1,11 +1,11 @@
 id: 380194190
-type: way
+type: node
 latitude: 48.40494
 longitude: 8.01021
 postcode: "77723"
 city: Gengenbach
-street: "Bahnhofstraße"
-housenumber: 5
+street: Bahnhofstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

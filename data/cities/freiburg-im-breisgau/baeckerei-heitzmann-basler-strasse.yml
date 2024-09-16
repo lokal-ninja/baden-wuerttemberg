@@ -4,8 +4,8 @@ latitude: 47.98311
 longitude: 7.8204
 postcode: "79115"
 city: Freiburg im Breisgau
-street: "Basler Straße"
-housenumber: 98
-phone: "+49 761 45366272"
-opening_hours: "Mo-Sa 07:00-17:30; Su,PH off"
-website: "https://www.baeckerei-heitzmann.de/"
+street: Basler Straße
+housenumber: "98"
+phone: +49 761 45366272
+opening_hours: Mo-Sa 07:00-17:30; Su,PH off
+website: https://www.baeckerei-heitzmann.de/

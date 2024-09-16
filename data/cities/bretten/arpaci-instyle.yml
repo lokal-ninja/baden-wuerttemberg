@@ -4,8 +4,8 @@ latitude: 49.03582
 longitude: 8.70737
 postcode: "75015"
 city: Bretten
-street: "Friedrichstraße"
-housenumber: 5
-phone: "+49 7252 5611857"
-opening_hours: "Tu-Th 08:30-18:30; Fr 08:30-21:00; Sa 08:00-17:00"
-website: "http://www.arpaci-instyle.de/index.html"
+street: Friedrichstraße
+housenumber: "5"
+phone: +49 7252 5611857
+opening_hours: Tu-Th 08:30-18:30; Fr 08:30-21:00; Sa 08:00-17:00
+website: http://www.arpaci-instyle.de/index.html

@@ -4,8 +4,8 @@ latitude: 48.80586
 longitude: 8.2225
 postcode: "76532"
 city: Baden-Baden
-street: "Rathausplatz"
-housenumber: 7
-phone: "+49 7221 3999979"
-opening_hours: "Mo-We 14:00-18:00; Th,Fr 09:00-12:00"
-website: "https://kosmetikstudio-baden-baden.de/"
+street: Rathausplatz
+housenumber: "7"
+phone: +49 7221 3999979
+opening_hours: Mo-We 14:00-18:00; Th,Fr 09:00-12:00
+website: https://kosmetikstudio-baden-baden.de/

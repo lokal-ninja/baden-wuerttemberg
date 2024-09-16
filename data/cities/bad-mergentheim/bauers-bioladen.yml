@@ -1,11 +1,11 @@
 id: 515855559
-type: way
+type: node
 latitude: 49.49128
 longitude: 9.76912
 postcode: "97980"
 city: Bad Mergentheim
-street: "Unterer Graben"
-housenumber: 24
+street: Unterer Graben
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

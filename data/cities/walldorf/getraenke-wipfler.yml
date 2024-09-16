@@ -1,11 +1,11 @@
 id: 299334834
-type: way
+type: node
 latitude: 49.29126
 longitude: 8.6534
 postcode: "69190"
 city: Walldorf
-street: "Philipp-Reis-Straße"
-housenumber: 1
+street: Philipp-Reis-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr  07:30-16:30; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr  07:30-16:30; Sa 09:00-12:00; Su,PH off
 website: ""

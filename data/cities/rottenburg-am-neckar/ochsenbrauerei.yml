@@ -1,11 +1,11 @@
 id: 232028001
-type: way
+type: node
 latitude: 48.49506
 longitude: 8.80977
 postcode: "72108"
 city: Rottenburg am Neckar
-street: "Albrecht-Wirt-Straße"
-housenumber: 5
+street: Albrecht-Wirt-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:30,13:30-18:30; Sa 07:00-15:00"
+opening_hours: Mo-Fr 07:00-12:30,13:30-18:30; Sa 07:00-15:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.03272
 longitude: 7.59622
 postcode: "79206"
 city: Breisach am Rhein
-street: "Im Gelbstein"
-housenumber: 9
-phone: "+49 766791910"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.wiebeck.de"
+street: Im Gelbstein
+housenumber: "9"
+phone: +49 766791910
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.wiebeck.de

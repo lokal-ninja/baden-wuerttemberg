@@ -4,8 +4,8 @@ latitude: 48.6468
 longitude: 8.08789
 postcode: ""
 city: Sasbach
-street: "Mättich"
-housenumber: 25
-phone: "+49 7841 27447"
-opening_hours: "Mo,Tu,Th,Fr 09:30-13:00, 14:00-18:30; Sa 09:00-16:00; We,Su,PH off"
-website: "https://licht-kraus.de"
+street: Mättich
+housenumber: "25"
+phone: +49 7841 27447
+opening_hours: Mo,Tu,Th,Fr 09:30-13:00, 14:00-18:30; Sa 09:00-16:00; We,Su,PH off
+website: https://licht-kraus.de

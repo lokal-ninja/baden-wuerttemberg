@@ -4,8 +4,8 @@ latitude: 48.16213
 longitude: 8.6294
 postcode: "78628"
 city: Rottweil
-street: "Schillerstraße"
-housenumber: 5
-phone: "+49741 12881"
-opening_hours: "Tu-Fr 08:00-12:00,13:00-18:00; Sa 07:00-13:00; Su,Mo off"
-website: "https://menhairstudio.de"
+street: Schillerstraße
+housenumber: "5"
+phone: +49741 12881
+opening_hours: Tu-Fr 08:00-12:00,13:00-18:00; Sa 07:00-13:00; Su,Mo off
+website: https://menhairstudio.de

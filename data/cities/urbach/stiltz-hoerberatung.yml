@@ -1,11 +1,11 @@
 id: 439153063
-type: way
+type: node
 latitude: 48.80927
 longitude: 9.5795
 postcode: "73660"
 city: Urbach
-street: "Höfle"
-housenumber: 7
+street: Höfle
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.stiltz-hoerberatung.de/"
+website: https://www.stiltz-hoerberatung.de/

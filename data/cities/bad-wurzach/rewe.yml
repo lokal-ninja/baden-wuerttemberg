@@ -1,11 +1,11 @@
 id: 89505154
-type: way
+type: node
 latitude: 47.90654
 longitude: 9.89468
 postcode: "88410"
 city: Bad Wurzach
-street: "Alte Straße"
-housenumber: 12
-phone: "+49-7564-91651"
-opening_hours: "Mo-Sa 08:00-22:00"
+street: Alte Straße
+housenumber: "12"
+phone: +49-7564-91651
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 48.18902
 longitude: 10.0192
 postcode: "88489"
 city: Wain
-street: "Gartenstraße"
-housenumber: 3
-phone: "+49 7353 9888195"
-opening_hours: "Mo,Th 06:30-12:30, 15:00-18:00; Tu-We, Fr 06:30-12:30; Sa 06:30-12:00; PH off"
+street: Gartenstraße
+housenumber: "3"
+phone: +49 7353 9888195
+opening_hours: Mo,Th 06:30-12:30, 15:00-18:00; Tu-We, Fr 06:30-12:30; Sa 06:30-12:00;
+    PH off
 website: ""

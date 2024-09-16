@@ -4,8 +4,8 @@ latitude: 47.68997
 longitude: 8.08971
 postcode: "79875"
 city: Dachsberg
-street: "Kirchstraße"
-housenumber: 19
-phone: "+49 7755 13 22"
-opening_hours: "Mo-Mi 17:00-20:00; Fr 15:00-20:00; Sa 09:00-14:00"
+street: Kirchstraße
+housenumber: "19"
+phone: +49 7755 13 22
+opening_hours: Mo-Mi 17:00-20:00; Fr 15:00-20:00; Sa 09:00-14:00
 website: ""

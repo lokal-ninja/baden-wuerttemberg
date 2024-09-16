@@ -1,11 +1,11 @@
 id: 362290777
-type: way
+type: node
 latitude: 49.00527
 longitude: 8.41738
 postcode: ""
 city: Karlsruhe
-street: "Kriegsstraße"
-housenumber: 38
+street: Kriegsstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

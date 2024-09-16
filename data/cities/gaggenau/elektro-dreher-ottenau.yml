@@ -4,8 +4,8 @@ latitude: 48.78774
 longitude: 8.33763
 postcode: "76571"
 city: Gaggenau
-street: "Max-Roth-Straße"
-housenumber: 14
-phone: "+49 7225 913580"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "http://effizientehaustechnik.de/"
+street: Max-Roth-Straße
+housenumber: "14"
+phone: +49 7225 913580
+opening_hours: Mo-Fr 09:00-17:00
+website: http://effizientehaustechnik.de/

@@ -1,11 +1,11 @@
 id: 52442002
-type: way
+type: node
 latitude: 48.63043
 longitude: 9.3297
 postcode: "72622"
 city: Nürtingen
-street: "Badstraße"
-housenumber: 23
+street: Badstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

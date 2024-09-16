@@ -1,11 +1,11 @@
 id: 178926265
-type: way
+type: node
 latitude: 48.06707
 longitude: 8.72952
 postcode: "78549"
 city: Spaichingen
-street: "Einsteinstraße"
-housenumber: 9
+street: Einsteinstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

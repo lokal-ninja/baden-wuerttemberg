@@ -1,11 +1,11 @@
 id: 738931515
-type: way
+type: node
 latitude: 49.21903
 longitude: 8.64924
 postcode: "76669"
 city: Bad Schönborn
-street: "Bahnhofstraße"
-housenumber: 18
-phone: "+49 7253 7280"
+street: Bahnhofstraße
+housenumber: "18"
+phone: +49 7253 7280
 opening_hours: ""
 website: ""

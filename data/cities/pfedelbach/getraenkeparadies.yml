@@ -1,11 +1,11 @@
 id: 211617425
-type: way
+type: node
 latitude: 49.17956
 longitude: 9.50709
 postcode: "74629"
 city: Pfedelbach
-street: "Öhringer Straße"
-housenumber: 4
+street: Öhringer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

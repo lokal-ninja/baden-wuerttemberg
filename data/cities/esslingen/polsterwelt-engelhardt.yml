@@ -1,11 +1,11 @@
 id: 219035226
-type: way
+type: node
 latitude: 48.73411
 longitude: 9.30134
 postcode: "73734"
 city: Esslingen
-street: "Zollbergstraße"
-housenumber: 8
-phone: "+49 711 2528100"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.polsterwelt-engelhardt.de/"
+street: Zollbergstraße
+housenumber: "8"
+phone: +49 711 2528100
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.polsterwelt-engelhardt.de/

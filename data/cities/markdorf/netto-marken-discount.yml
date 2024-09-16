@@ -1,11 +1,11 @@
 id: 1267185534
-type: way
+type: node
 latitude: 47.71195
 longitude: 9.39786
 postcode: "88677"
 city: Markdorf
-street: "Rudolf-Diesel-Straße"
-housenumber: 7
+street: Rudolf-Diesel-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

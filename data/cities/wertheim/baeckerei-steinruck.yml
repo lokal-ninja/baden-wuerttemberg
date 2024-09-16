@@ -1,11 +1,11 @@
 id: 466646825
-type: way
+type: node
 latitude: 49.71294
 longitude: 9.49737
 postcode: "97877"
 city: Wertheim
-street: "Hundheimer Straße"
-housenumber: 26
-phone: "+49 9342 37649"
+street: Hundheimer Straße
+housenumber: "26"
+phone: +49 9342 37649
 opening_hours: ""
-website: "https://www.bäckerei-steinruck.de"
+website: https://www.bäckerei-steinruck.de

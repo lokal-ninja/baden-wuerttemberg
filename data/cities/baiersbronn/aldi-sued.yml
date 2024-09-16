@@ -1,11 +1,11 @@
 id: 411167540
-type: way
+type: node
 latitude: 48.51456
 longitude: 8.37844
 postcode: "72270"
 city: Baiersbronn
-street: "Max-Himmelheber-Straße"
-housenumber: 4
+street: Max-Himmelheber-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

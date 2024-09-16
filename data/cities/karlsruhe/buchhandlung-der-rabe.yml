@@ -4,8 +4,8 @@ latitude: 48.9993
 longitude: 8.4711
 postcode: "76227"
 city: Karlsruhe
-street: "Pfinztalstraße"
-housenumber: 60
-phone: "+49 721 9400140"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "http://www.rabebuch.de/"
+street: Pfinztalstraße
+housenumber: "60"
+phone: +49 721 9400140
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: http://www.rabebuch.de/

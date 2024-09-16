@@ -4,8 +4,8 @@ latitude: 48.6478
 longitude: 9.44897
 postcode: "73230"
 city: Kirchheim unter Teck
-street: "Alleenstraße"
-housenumber: 14
+street: Alleenstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 10:00-13:00"
-website: "https://www.pfiffikus-secondhand.de/"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 10:00-13:00
+website: https://www.pfiffikus-secondhand.de/

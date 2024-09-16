@@ -1,11 +1,11 @@
 id: 403531227
-type: way
+type: node
 latitude: 49.25217
 longitude: 8.49632
 postcode: "68794"
 city: Oberhausen-Rheinhausen
-street: "Marienstraße"
-housenumber: 141
+street: Marienstraße
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

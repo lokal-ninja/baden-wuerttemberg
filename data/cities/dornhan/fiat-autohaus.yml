@@ -1,11 +1,11 @@
 id: 293319175
-type: way
+type: node
 latitude: 48.3507
 longitude: 8.50256
 postcode: "72175"
 city: Dornhan
-street: "Daimlerstraße"
-housenumber: 8
+street: Daimlerstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 124370846
-type: way
+type: node
 latitude: 48.99582
 longitude: 8.34529
 postcode: "76189"
 city: Karlsruhe
-street: "Durmersheimer Straße"
-housenumber: 151
+street: Durmersheimer Straße
+housenumber: "151"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
 website: ""

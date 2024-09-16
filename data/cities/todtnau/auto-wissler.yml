@@ -1,11 +1,11 @@
 id: 290420147
-type: way
+type: node
 latitude: 47.8426
 longitude: 7.93073
 postcode: "79674"
 city: Todtnau
-street: "Talstraße"
-housenumber: 2
+street: Talstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-wissler.de/"
+website: https://www.auto-wissler.de/

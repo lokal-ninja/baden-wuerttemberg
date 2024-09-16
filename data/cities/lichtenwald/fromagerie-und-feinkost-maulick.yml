@@ -1,11 +1,11 @@
 id: 495554712
-type: way
+type: node
 latitude: 48.73634
 longitude: 9.47734
 postcode: "73669"
 city: Lichtenwald
-street: "Thomashardter Straße"
-housenumber: 59
-phone: "+49 171 1872381"
-opening_hours: "24/7"
-website: "https://www.fromagerie-maulick.de/"
+street: Thomashardter Straße
+housenumber: "59"
+phone: +49 171 1872381
+opening_hours: 24/7
+website: https://www.fromagerie-maulick.de/

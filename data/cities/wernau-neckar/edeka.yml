@@ -1,11 +1,11 @@
 id: 117091442
-type: way
+type: node
 latitude: 48.6811
 longitude: 9.42486
 postcode: "73249"
 city: Wernau (Neckar)
-street: "Friedrich-List-Straße"
-housenumber: 9
+street: Friedrich-List-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

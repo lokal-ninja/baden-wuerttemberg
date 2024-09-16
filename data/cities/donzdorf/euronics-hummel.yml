@@ -1,11 +1,11 @@
 id: 219442299
-type: way
+type: node
 latitude: 48.6868
 longitude: 9.80861
 postcode: "73072"
 city: Donzdorf
-street: "Mittelmühlgasse"
-housenumber: 1
+street: Mittelmühlgasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

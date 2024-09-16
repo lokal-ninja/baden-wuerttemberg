@@ -1,11 +1,11 @@
 id: 193575794
-type: way
+type: node
 latitude: 48.27513
 longitude: 7.78482
 postcode: "77955"
 city: Ettenheim
-street: "Nikola-Tesla-Straße"
-housenumber: 2
+street: Nikola-Tesla-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

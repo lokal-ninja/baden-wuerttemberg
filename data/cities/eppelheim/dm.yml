@@ -1,11 +1,11 @@
 id: 48764098
-type: way
+type: node
 latitude: 49.4095
 longitude: 8.62753
 postcode: ""
 city: Eppelheim
-street: "Seestraße"
-housenumber: 71
+street: Seestraße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

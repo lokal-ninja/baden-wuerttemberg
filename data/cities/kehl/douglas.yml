@@ -4,8 +4,8 @@ latitude: 48.57389
 longitude: 7.80958
 postcode: "77694"
 city: Kehl
-street: "Hauptstraße"
-housenumber: 49
-phone: "+49 7851 480773"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.douglas.de/l/kehl/hauptstrasse/0002/0251"
+street: Hauptstraße
+housenumber: "49"
+phone: +49 7851 480773
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.douglas.de/l/kehl/hauptstrasse/0002/0251

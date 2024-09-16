@@ -1,11 +1,11 @@
 id: 769146813
-type: way
+type: node
 latitude: 47.93064
 longitude: 8.85553
 postcode: "78576"
 city: Emmingen-Liptingen
-street: "Talstraße"
-housenumber: 4
+street: Talstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 23621095
-type: way
+type: node
 latitude: 48.79878
 longitude: 8.99937
 postcode: "71229"
 city: Leonberg
-street: "Schweizermühle"
-housenumber: 9
+street: Schweizermühle
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

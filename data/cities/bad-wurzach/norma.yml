@@ -1,11 +1,11 @@
 id: 365854178
-type: way
+type: node
 latitude: 47.90947
 longitude: 9.9027
 postcode: "88410"
 city: Bad Wurzach
-street: "Memminger Straße"
-housenumber: 24
+street: Memminger Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Ph off"
+opening_hours: Mo-Sa 07:00-20:00; Ph off
 website: ""

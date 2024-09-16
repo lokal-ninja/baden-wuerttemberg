@@ -1,11 +1,11 @@
 id: 246264236
-type: way
+type: node
 latitude: 49.37763
 longitude: 8.58173
 postcode: "68723"
 city: Schwetzingen
-street: "Rudolf-Diesel-Straße"
-housenumber: 10
-phone: "+49 6202 27850"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 09:00-13:00"
-website: "https://www.holz-adrian.de/"
+street: Rudolf-Diesel-Straße
+housenumber: "10"
+phone: +49 6202 27850
+opening_hours: Mo-Fr 07:00-17:00; Sa 09:00-13:00
+website: https://www.holz-adrian.de/

@@ -4,8 +4,8 @@ latitude: 48.40912
 longitude: 9.06062
 postcode: "72116"
 city: Mössingen
-street: "Lange Straße"
-housenumber: 21
-phone: "+49 7473 3691"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30, 14:00-18:30; We 09:00-12:30; Sa 09:00-13:00"
-website: "https://www.juwelier-maier.de"
+street: Lange Straße
+housenumber: "21"
+phone: +49 7473 3691
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30, 14:00-18:30; We 09:00-12:30; Sa 09:00-13:00
+website: https://www.juwelier-maier.de

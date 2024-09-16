@@ -4,8 +4,8 @@ latitude: 48.76365
 longitude: 8.33483
 postcode: "76593"
 city: Gernsbach
-street: "Hauptstraße"
-housenumber: 14
-phone: "+49 173 2965014"
-opening_hours: "Th,Fr 09:00-12:00"
-website: "https://joca-kerzen.com"
+street: Hauptstraße
+housenumber: "14"
+phone: +49 173 2965014
+opening_hours: Th,Fr 09:00-12:00
+website: https://joca-kerzen.com

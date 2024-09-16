@@ -1,11 +1,11 @@
 id: 40983594
-type: way
+type: node
 latitude: 48.72989
 longitude: 9.10328
 postcode: "70563"
 city: Stuttgart
-street: "Hauptstraße"
-housenumber: 79
+street: Hauptstraße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-19:00; Sa 09:00-16:00"
-website: "https://www.wunschkuechen.com/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-19:00; Sa 09:00-16:00
+website: https://www.wunschkuechen.com/

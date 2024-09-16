@@ -5,7 +5,7 @@ longitude: 9.4626
 postcode: ""
 city: Riedlingen
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://pferdehandlung-maier.de/pm/"
+website: https://pferdehandlung-maier.de/pm/

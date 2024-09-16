@@ -1,11 +1,11 @@
 id: 39268890
-type: way
+type: node
 latitude: 48.35116
 longitude: 8.50224
 postcode: "72175"
 city: Dornhan
-street: "Daimlerstraße"
-housenumber: 6
+street: Daimlerstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

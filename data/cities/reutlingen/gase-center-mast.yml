@@ -1,11 +1,11 @@
 id: 191353091
-type: way
+type: node
 latitude: 48.49611
 longitude: 9.16309
 postcode: "72770"
 city: Reutlingen
-street: "Karl-Henschel-Straße"
-housenumber: 24
+street: Karl-Henschel-Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 12:30-16:30"
+opening_hours: Mo-Fr 08:00-12:00, 12:30-16:30
 website: ""

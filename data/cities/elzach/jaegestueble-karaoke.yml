@@ -1,11 +1,11 @@
 id: 89747126
-type: way
+type: node
 latitude: 48.21323
 longitude: 8.13899
 postcode: "79215"
 city: Elzach
-street: "Waldkircher Straße"
-housenumber: 12
+street: Waldkircher Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

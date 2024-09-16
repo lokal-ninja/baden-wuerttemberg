@@ -4,8 +4,8 @@ latitude: 48.17906
 longitude: 8.41893
 postcode: "78739"
 city: Hardt
-street: "Weilerstraße"
-housenumber: 32
-phone: "+49 7422 280000"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-17:00"
-website: "https://www.brantner-baeck.de/"
+street: Weilerstraße
+housenumber: "32"
+phone: +49 7422 280000
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-17:00
+website: https://www.brantner-baeck.de/

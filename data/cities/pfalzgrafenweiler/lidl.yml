@@ -4,8 +4,8 @@ latitude: 48.53759
 longitude: 8.57059
 postcode: "72285"
 city: Pfalzgrafenweiler
-street: "Dieselstraße"
-housenumber: 9
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de"
+street: Dieselstraße
+housenumber: "9"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de

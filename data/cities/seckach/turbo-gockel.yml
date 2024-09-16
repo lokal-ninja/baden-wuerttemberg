@@ -1,11 +1,11 @@
 id: 281977721
-type: way
+type: node
 latitude: 49.43868
 longitude: 9.33957
 postcode: "74743"
 city: Seckach
-street: "Industriestraße"
-housenumber: 1
-phone: "+49 6292 9289880"
+street: Industriestraße
+housenumber: "1"
+phone: +49 6292 9289880
 opening_hours: ""
-website: "https://www.turbo-gockel.de/"
+website: https://www.turbo-gockel.de/

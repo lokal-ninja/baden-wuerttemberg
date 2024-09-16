@@ -1,11 +1,11 @@
 id: 121826027
-type: way
+type: node
 latitude: 48.87495
 longitude: 9.35101
 postcode: "71409"
 city: Schwaikheim
-street: "Ludwigsburger Straße"
-housenumber: 2
+street: Ludwigsburger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

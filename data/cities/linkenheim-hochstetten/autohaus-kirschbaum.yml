@@ -1,11 +1,11 @@
 id: 217674037
-type: way
+type: node
 latitude: 49.13111
 longitude: 8.40898
 postcode: "76351"
 city: Linkenheim-Hochstetten
-street: "Carl-Benz-Straße"
-housenumber: 3
+street: Carl-Benz-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://www.autohaus-kirschbaum.de/"
+opening_hours: Mo-Fr 07:30-18:00
+website: https://www.autohaus-kirschbaum.de/

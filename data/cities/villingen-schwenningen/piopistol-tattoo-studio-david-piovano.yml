@@ -1,11 +1,11 @@
 id: 557109137
-type: way
+type: node
 latitude: 48.05909
 longitude: 8.52922
 postcode: "78054"
 city: Villingen-Schwenningen
-street: "Hans-Sachs-Straße"
-housenumber: 46
-phone: "+49 7720 9679838"
-opening_hours: "Sa 10:00-14:00; Mo-Fr 10:00-18:00; PH off"
+street: Hans-Sachs-Straße
+housenumber: "46"
+phone: +49 7720 9679838
+opening_hours: Sa 10:00-14:00; Mo-Fr 10:00-18:00; PH off
 website: ""

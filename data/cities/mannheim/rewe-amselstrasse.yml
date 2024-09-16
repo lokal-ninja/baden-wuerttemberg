@@ -4,8 +4,8 @@ latitude: 49.54795
 longitude: 8.45542
 postcode: "68307"
 city: Mannheim
-street: "Amselstraße"
-housenumber: 10
-phone: "+49 621 46082209"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://lilienthal-center.com/shop/rewe/"
+street: Amselstraße
+housenumber: "10"
+phone: +49 621 46082209
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://lilienthal-center.com/shop/rewe/

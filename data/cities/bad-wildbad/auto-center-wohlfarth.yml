@@ -1,11 +1,11 @@
 id: 208630920
-type: way
+type: node
 latitude: 48.77213
 longitude: 8.5831
 postcode: "75323"
 city: Bad Wildbad
-street: "Kleinenztalstraße"
-housenumber: 31
+street: Kleinenztalstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

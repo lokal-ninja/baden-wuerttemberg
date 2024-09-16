@@ -4,8 +4,8 @@ latitude: 48.02844
 longitude: 7.58427
 postcode: "79206"
 city: Breisach am Rhein
-street: "Neutorstraße"
-housenumber: 19
-phone: "+49 7667 4269842"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "http://hairzstueck-breisach.de/"
+street: Neutorstraße
+housenumber: "19"
+phone: +49 7667 4269842
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: http://hairzstueck-breisach.de/

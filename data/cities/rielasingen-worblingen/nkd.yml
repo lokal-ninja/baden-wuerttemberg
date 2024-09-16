@@ -1,11 +1,11 @@
 id: 230090904
-type: way
+type: node
 latitude: 47.73212
 longitude: 8.83762
 postcode: "78239"
 city: Rielasingen-Worblingen
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 121770205
-type: way
+type: node
 latitude: 48.87613
 longitude: 9.34906
 postcode: "71409"
 city: Schwaikheim
-street: "Goethestraße"
-housenumber: 16
+street: Goethestraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

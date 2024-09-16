@@ -4,8 +4,8 @@ latitude: 48.85936
 longitude: 8.65948
 postcode: "75180"
 city: Pforzheim
-street: "Westring"
-housenumber: 1
+street: Westring
+housenumber: "1"
 phone: "+497231766360"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://edeka-fedele.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://edeka-fedele.de

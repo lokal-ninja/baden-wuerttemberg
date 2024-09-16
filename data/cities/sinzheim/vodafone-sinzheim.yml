@@ -1,11 +1,11 @@
 id: 108312214
-type: way
+type: node
 latitude: 48.77453
 longitude: 8.1756
 postcode: "76547"
 city: Sinzheim
-street: "Industriestraße"
-housenumber: 18
-phone: "+49 7221 987654"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+street: Industriestraße
+housenumber: "18"
+phone: +49 7221 987654
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 48.75891
 longitude: 9.37942
 postcode: "73773"
 city: Aichwald
-street: "Aichschießer Straße"
-housenumber: 4
+street: Aichschießer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-12:00, 14:00-18:00; We 09:00-12:00; Sa 09:00-13:00; PH,Su off"
+opening_hours: Tu,Th,Fr 09:00-12:00, 14:00-18:00; We 09:00-12:00; Sa 09:00-13:00;
+    PH,Su off
 website: ""

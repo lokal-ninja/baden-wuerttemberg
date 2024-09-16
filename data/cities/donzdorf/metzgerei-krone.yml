@@ -1,11 +1,11 @@
 id: 378333205
-type: way
+type: node
 latitude: 48.68637
 longitude: 9.8099
 postcode: "73072"
 city: Donzdorf
-street: "Hauptstraße"
-housenumber: 50
+street: Hauptstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

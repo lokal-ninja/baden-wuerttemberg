@@ -1,11 +1,11 @@
 id: 140732495
-type: way
+type: node
 latitude: 47.81791
 longitude: 8.33521
 postcode: "79848"
 city: Bonndorf im Schwarzwald
-street: "Lenzkircher Straße"
-housenumber: 4
+street: Lenzkircher Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-13:00
 website: ""

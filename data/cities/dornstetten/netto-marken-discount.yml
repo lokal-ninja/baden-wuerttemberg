@@ -1,11 +1,11 @@
 id: 123077776
-type: way
+type: node
 latitude: 48.48907
 longitude: 8.50677
 postcode: "72280"
 city: Dornstetten
-street: "Silberwaldstraße"
-housenumber: 91
+street: Silberwaldstraße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 256352669
-type: way
+type: node
 latitude: 48.7939
 longitude: 9.93372
 postcode: ""
 city: Heubach
-street: "Böbinger Straße"
-housenumber: 8
+street: Böbinger Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

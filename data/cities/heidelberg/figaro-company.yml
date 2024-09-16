@@ -4,8 +4,8 @@ latitude: 49.40942
 longitude: 8.70362
 postcode: "69117"
 city: Heidelberg
-street: "Plöck"
-housenumber: 56
-phone: "+49 6221 26266"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"
-website: "https://www.figaro-company.de"
+street: Plöck
+housenumber: "56"
+phone: +49 6221 26266
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-16:00
+website: https://www.figaro-company.de

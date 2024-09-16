@@ -4,8 +4,8 @@ latitude: 48.8441
 longitude: 8.50111
 postcode: "75334"
 city: Straubenhardt
-street: "Marxzeller Straße"
-housenumber: 59
-phone: "+49 7248 91690"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00"
-website: "http://www2.elomed.de/homepage/sanitaetshaus"
+street: Marxzeller Straße
+housenumber: "59"
+phone: +49 7248 91690
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00
+website: http://www2.elomed.de/homepage/sanitaetshaus

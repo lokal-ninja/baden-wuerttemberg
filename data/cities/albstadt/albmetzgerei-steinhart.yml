@@ -4,8 +4,8 @@ latitude: 48.28483
 longitude: 9.00137
 postcode: "72461"
 city: Albstadt
-street: "Wilhelmstraße"
-housenumber: 4
+street: Wilhelmstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:30,14:30-18:30; We 07:30-12:30; Sa 07:00-12:30"
+opening_hours: Mo-Fr 07:30-12:30,14:30-18:30; We 07:30-12:30; Sa 07:00-12:30
 website: ""

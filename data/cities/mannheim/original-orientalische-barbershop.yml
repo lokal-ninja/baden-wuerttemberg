@@ -4,8 +4,8 @@ latitude: 49.48724
 longitude: 8.47565
 postcode: "68161"
 city: Mannheim
-street: "S6"
-housenumber: 25
-phone: "+49 176 64388638"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: S6
+housenumber: "25"
+phone: +49 176 64388638
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

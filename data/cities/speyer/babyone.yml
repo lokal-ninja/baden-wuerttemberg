@@ -1,11 +1,11 @@
 id: 70733129
-type: way
+type: node
 latitude: 49.33264
 longitude: 8.4478
 postcode: "67346"
 city: Speyer
-street: "Auestraße"
-housenumber: 41
+street: Auestraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "https://www.babyone.de/"
+website: https://www.babyone.de/

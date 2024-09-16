@@ -1,11 +1,11 @@
 id: 338995977
-type: way
+type: node
 latitude: 48.23308
 longitude: 9.70516
 postcode: ""
 city: Rottenacker
-street: "Grundlerstraße"
-housenumber: 18
+street: Grundlerstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://second-art.diekunstdesseins.de/"
+website: https://second-art.diekunstdesseins.de/

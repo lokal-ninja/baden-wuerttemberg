@@ -1,11 +1,11 @@
 id: 171016556
-type: way
+type: node
 latitude: 49.4322
 longitude: 8.50029
 postcode: "67122"
 city: Altrip
-street: "Ludwigstraße"
+street: Ludwigstraße
 housenumber: 34, 36
-phone: "+49 6236 30444"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+phone: +49 6236 30444
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

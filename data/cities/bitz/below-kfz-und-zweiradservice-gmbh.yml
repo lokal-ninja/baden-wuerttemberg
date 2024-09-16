@@ -1,11 +1,11 @@
 id: 140371335
-type: way
+type: node
 latitude: 48.23812
 longitude: 9.0991
 postcode: "72475"
 city: Bitz
-street: "Harthauser Straße"
-housenumber: 20
+street: Harthauser Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

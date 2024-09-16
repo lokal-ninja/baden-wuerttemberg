@@ -4,8 +4,8 @@ latitude: 48.99091
 longitude: 8.4532
 postcode: "76227"
 city: Karlsruhe
-street: "Ostmarkstraße"
-housenumber: 49
+street: Ostmarkstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Tu,Th 08:00-13:30; We,Fr 17:00-19:00; PH off"
+opening_hours: Tu,Th 08:00-13:30; We,Fr 17:00-19:00; PH off
 website: ""

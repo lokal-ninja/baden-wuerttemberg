@@ -4,8 +4,8 @@ latitude: 49.55755
 longitude: 8.64958
 postcode: "69469"
 city: Weinheim
-street: "Viernheimer Straße"
-housenumber: 100
-phone: "+49 6201 99220"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
-website: "https://www.autohaus-ebert.de/"
+street: Viernheimer Straße
+housenumber: "100"
+phone: +49 6201 99220
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00
+website: https://www.autohaus-ebert.de/

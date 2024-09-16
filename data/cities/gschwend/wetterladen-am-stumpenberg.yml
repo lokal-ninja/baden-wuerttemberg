@@ -1,11 +1,11 @@
 id: 262919052
-type: way
+type: node
 latitude: 48.94108
 longitude: 9.70421
 postcode: "74417"
 city: Gschwend
-street: "Am Stumpenberg"
-housenumber: 4
+street: Am Stumpenberg
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.wetterladen.de"
+website: https://www.wetterladen.de

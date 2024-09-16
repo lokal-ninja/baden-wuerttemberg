@@ -1,11 +1,11 @@
 id: 791615755
-type: way
+type: node
 latitude: 48.84181
 longitude: 9.13916
 postcode: "70435"
 city: Stuttgart
-street: "Schwieberdinger Straße"
-housenumber: 216
-phone: "+49 711 982703"
+street: Schwieberdinger Straße
+housenumber: "216"
+phone: +49 711 982703
 opening_hours: ""
 website: ""

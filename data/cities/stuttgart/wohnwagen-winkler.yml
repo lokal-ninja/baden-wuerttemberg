@@ -1,11 +1,11 @@
 id: 43113458
-type: way
+type: node
 latitude: 48.82309
 longitude: 9.10448
 postcode: "70499"
 city: Stuttgart
-street: "Turbinenstraße"
+street: Turbinenstraße
 housenumber: 2-6
 phone: ""
 opening_hours: ""
-website: "https://www.winkler-stuttgart.de/"
+website: https://www.winkler-stuttgart.de/

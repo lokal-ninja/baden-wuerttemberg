@@ -4,8 +4,8 @@ latitude: 48.69833
 longitude: 8.1318
 postcode: "77815"
 city: Bühl
-street: "Güterstraße"
-housenumber: 8
-phone: "+49 7223 2817769"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.dm.de/store/d2hc/buehl/gueterstrasse-8"
+street: Güterstraße
+housenumber: "8"
+phone: +49 7223 2817769
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.dm.de/store/d2hc/buehl/gueterstrasse-8

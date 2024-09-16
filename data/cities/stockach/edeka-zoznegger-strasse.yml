@@ -1,11 +1,11 @@
 id: 501278935
-type: way
+type: node
 latitude: 47.85658
 longitude: 9.01775
 postcode: "78333"
 city: Stockach
-street: "Zoznegger Straße"
-housenumber: 23
-phone: "+49 7771 93530"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Zoznegger Straße
+housenumber: "23"
+phone: +49 7771 93530
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.97478
 longitude: 7.82755
 postcode: "79100"
 city: Freiburg im Breisgau
-street: "Vaubanallee"
-housenumber: 4
-phone: "+49 761 402825"
-opening_hours: "Mo,We 18:15-22:00"
-website: "https://keramikforum.info/keramik-in-der-freiburger-regio/mitglieder-des-keramikforums/frauke-reutter/"
+street: Vaubanallee
+housenumber: "4"
+phone: +49 761 402825
+opening_hours: Mo,We 18:15-22:00
+website: https://keramikforum.info/keramik-in-der-freiburger-regio/mitglieder-des-keramikforums/frauke-reutter/

@@ -4,8 +4,8 @@ latitude: 48.50349
 longitude: 9.21151
 postcode: "72760"
 city: Reutlingen
-street: "Föhrstraße"
-housenumber: 40
-phone: "+49 7121 51538912"
-opening_hours: "Mo-Sa 07:00-24:00"
-website: "https://www.rewe.de/"
+street: Föhrstraße
+housenumber: "40"
+phone: +49 7121 51538912
+opening_hours: Mo-Sa 07:00-24:00
+website: https://www.rewe.de/

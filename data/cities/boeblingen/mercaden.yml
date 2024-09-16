@@ -1,11 +1,11 @@
 id: 181068766
-type: way
+type: node
 latitude: 48.68754
 longitude: 9.00649
 postcode: "71034"
 city: Böblingen
-street: "Wolfgang-Brumme-Allee"
-housenumber: 27
-phone: "+49 7031 6848810"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.mercaden-boeblingen.de"
+street: Wolfgang-Brumme-Allee
+housenumber: "27"
+phone: +49 7031 6848810
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.mercaden-boeblingen.de

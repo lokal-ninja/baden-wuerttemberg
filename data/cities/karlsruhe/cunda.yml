@@ -1,11 +1,11 @@
 id: 238086853
-type: way
+type: node
 latitude: 49.00999
 longitude: 8.40638
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
+street: Kaiserstraße
 housenumber: 52-56
-phone: "+49 721 384710"
-opening_hours: "Mo-Sa 09:30-20:00; PH,Su off"
-website: "https://www.c-and-a.com/stores/de-de/baden-wuerttemberg/karlsruhe/kaiserstrasse-52-56.html"
+phone: +49 721 384710
+opening_hours: Mo-Sa 09:30-20:00; PH,Su off
+website: https://www.c-and-a.com/stores/de-de/baden-wuerttemberg/karlsruhe/kaiserstrasse-52-56.html

@@ -4,8 +4,8 @@ latitude: 48.89215
 longitude: 9.18578
 postcode: "71638"
 city: Ludwigsburg
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:30-21:00; Sa 08:30-20:00; Su,PH off"
-website: "https://www.dm.de/store/de-351/ludwigsburg/bahnhofstrasse-12"
+opening_hours: Mo-Fr 07:30-21:00; Sa 08:30-20:00; Su,PH off
+website: https://www.dm.de/store/de-351/ludwigsburg/bahnhofstrasse-12

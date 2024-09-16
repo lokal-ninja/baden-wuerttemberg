@@ -4,8 +4,8 @@ latitude: 49.40833
 longitude: 8.69425
 postcode: "69115"
 city: Heidelberg
-street: "Sofienstraße"
-housenumber: 25
-phone: "+49 6221 905900"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.kampmann-heidelberg.de/"
+street: Sofienstraße
+housenumber: "25"
+phone: +49 6221 905900
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.kampmann-heidelberg.de/

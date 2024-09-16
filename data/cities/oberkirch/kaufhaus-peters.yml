@@ -1,11 +1,11 @@
 id: 224781629
-type: way
+type: node
 latitude: 48.53334
 longitude: 8.07595
 postcode: "77704"
 city: Oberkirch
-street: "Hauptstraße"
-housenumber: 89
-phone: "+49 7802 93840"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.kaufhaus-peters.de/"
+street: Hauptstraße
+housenumber: "89"
+phone: +49 7802 93840
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.kaufhaus-peters.de/

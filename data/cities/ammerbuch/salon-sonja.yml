@@ -4,8 +4,8 @@ latitude: 48.535
 longitude: 8.95401
 postcode: "72119"
 city: Ammerbuch
-street: "Pfalzgrafenring"
-housenumber: 23
+street: Pfalzgrafenring
+housenumber: "23"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

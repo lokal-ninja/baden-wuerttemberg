@@ -4,8 +4,8 @@ latitude: 48.70165
 longitude: 9.70303
 postcode: "73054"
 city: Eislingen/Fils
-street: "Weingartenstraße"
-housenumber: 69
-phone: "+49 7161 984780"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 09:00-14:00"
-website: "https://www.autohaus-wurst.de/"
+street: Weingartenstraße
+housenumber: "69"
+phone: +49 7161 984780
+opening_hours: Mo-Fr 07:30-18:30; Sa 09:00-14:00
+website: https://www.autohaus-wurst.de/

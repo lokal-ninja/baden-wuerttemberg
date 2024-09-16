@@ -4,8 +4,8 @@ latitude: 48.14681
 longitude: 8.69679
 postcode: "78669"
 city: Wellendingen
-street: "Lindenstraße"
-housenumber: 3
-phone: "+49 7426 912 49 20"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://ruhepunkt-wellendingen.de/"
+street: Lindenstraße
+housenumber: "3"
+phone: +49 7426 912 49 20
+opening_hours: Mo-Su 09:00-18:00
+website: https://ruhepunkt-wellendingen.de/

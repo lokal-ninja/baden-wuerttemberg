@@ -4,8 +4,8 @@ latitude: 48.77453
 longitude: 9.1559
 postcode: "70197"
 city: Stuttgart
-street: "Schwabstraße"
-housenumber: 83
+street: Schwabstraße
+housenumber: "83"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.bertiegoods.de/"
+opening_hours: 24/7
+website: https://www.bertiegoods.de/

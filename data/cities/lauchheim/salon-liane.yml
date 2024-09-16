@@ -1,11 +1,11 @@
 id: 308796426
-type: way
+type: node
 latitude: 48.87065
 longitude: 10.24158
 postcode: "73466"
 city: Lauchheim
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

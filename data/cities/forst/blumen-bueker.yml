@@ -1,11 +1,11 @@
 id: 593695539
-type: way
+type: node
 latitude: 49.15073
 longitude: 8.59451
 postcode: "76694"
 city: Forst
-street: "Finkenstraße"
-housenumber: 
+street: Finkenstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.39341
 longitude: 9.98172
 postcode: "89077"
 city: Ulm
-street: "Bismarckring"
-housenumber: 40
+street: Bismarckring
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 13:00-19:00; Sa 11:00-15:00; PH off"
-website: "https://www.hammerhead-tattoo.de/"
+opening_hours: Mo-Fr 13:00-19:00; Sa 11:00-15:00; PH off
+website: https://www.hammerhead-tattoo.de/

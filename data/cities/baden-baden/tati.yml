@@ -4,8 +4,8 @@ latitude: 48.74397
 longitude: 8.25944
 postcode: "76534"
 city: Baden-Baden
-street: "Geroldsauer Straße"
-housenumber: 1
-phone: "+49 7221 8016444"
-opening_hours: "Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:30-13:00"
-website: "http://www.tati-beauty.de/"
+street: Geroldsauer Straße
+housenumber: "1"
+phone: +49 7221 8016444
+opening_hours: Mo-Fr 09:30-13:00,15:00-18:30; Sa 09:30-13:00
+website: http://www.tati-beauty.de/

@@ -1,11 +1,11 @@
 id: 364650552
-type: way
+type: node
 latitude: 48.0744
 longitude: 8.62504
 postcode: "78647"
 city: Trossingen
-street: "Christian-Weiß-Straße"
-housenumber: 9
-phone: "+49 7425 6644"
+street: Christian-Weiß-Straße
+housenumber: "9"
+phone: +49 7425 6644
 opening_hours: ""
 website: ""

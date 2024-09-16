@@ -1,11 +1,11 @@
 id: 238559672
-type: way
+type: node
 latitude: 48.89163
 longitude: 9.15684
 postcode: "71636"
 city: Ludwigsburg
-street: "Waldäcker"
-housenumber: 15
+street: Waldäcker
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

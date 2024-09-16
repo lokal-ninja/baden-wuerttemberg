@@ -1,11 +1,11 @@
 id: 1188284828
-type: way
+type: node
 latitude: 48.58046
 longitude: 8.68166
 postcode: "72224"
 city: Ebhausen
-street: "Untere Aue"
-housenumber: 4
+street: Untere Aue
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 126638264
-type: way
+type: node
 latitude: 48.80147
 longitude: 9.80859
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Buchstraße"
-housenumber: 39
+street: Buchstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

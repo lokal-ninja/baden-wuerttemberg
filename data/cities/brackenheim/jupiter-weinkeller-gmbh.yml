@@ -1,11 +1,11 @@
 id: 104218098
-type: way
+type: node
 latitude: 49.08184
 longitude: 9.10475
 postcode: "74336"
 city: Brackenheim
-street: "Kelterstraße"
-housenumber: 2
+street: Kelterstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

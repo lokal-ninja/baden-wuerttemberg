@@ -4,8 +4,8 @@ latitude: 49.40843
 longitude: 8.63838
 postcode: "69123"
 city: Heidelberg
-street: "Dischingerstraße"
-housenumber: 2
+street: Dischingerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa 10:00-16:00; PH off"
-website: "https://www.recyclingkaufhausbronshtein.de/"
+opening_hours: Mo-Fr 12:00-19:00; Sa 10:00-16:00; PH off
+website: https://www.recyclingkaufhausbronshtein.de/

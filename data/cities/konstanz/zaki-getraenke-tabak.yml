@@ -1,11 +1,11 @@
 id: 116135247
-type: way
+type: node
 latitude: 47.67964
 longitude: 9.16824
 postcode: "78467"
 city: Konstanz
-street: "Wollmatinger Straße"
-housenumber: 92
+street: Wollmatinger Straße
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

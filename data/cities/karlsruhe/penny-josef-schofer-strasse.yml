@@ -1,11 +1,11 @@
 id: 192656760
-type: way
+type: node
 latitude: 49.03018
 longitude: 8.37523
 postcode: "76187"
 city: Karlsruhe
-street: "Josef-Schofer-Straße"
-housenumber: 16
+street: Josef-Schofer-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:30-21:00; Su,PH off
 website: ""

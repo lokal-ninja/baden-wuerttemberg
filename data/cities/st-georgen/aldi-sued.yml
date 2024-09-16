@@ -1,11 +1,11 @@
 id: 124383820
-type: way
+type: node
 latitude: 48.12856
 longitude: 8.35232
 postcode: "78112"
 city: St. Georgen
-street: "Industriestraße"
-housenumber: 35
+street: Industriestraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

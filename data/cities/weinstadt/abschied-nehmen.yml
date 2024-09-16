@@ -4,8 +4,8 @@ latitude: 48.80353
 longitude: 9.38889
 postcode: "71384"
 city: Weinstadt
-street: "Buhlstraße"
-housenumber: 48
-phone: "+49 7151 205830"
-opening_hours: "Nach Vereinbarung"
-website: "http://www.abschied-nehmen.net"
+street: Buhlstraße
+housenumber: "48"
+phone: +49 7151 205830
+opening_hours: '"Nach Vereinbarung"'
+website: http://www.abschied-nehmen.net

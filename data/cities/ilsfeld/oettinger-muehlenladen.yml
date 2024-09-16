@@ -1,11 +1,11 @@
 id: 55992959
-type: way
+type: node
 latitude: 49.05305
 longitude: 9.21762
 postcode: "74360"
 city: Ilsfeld
-street: "Lohmühle"
-housenumber: 4
+street: Lohmühle
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://oettinger-muehle.de/"
+website: https://oettinger-muehle.de/

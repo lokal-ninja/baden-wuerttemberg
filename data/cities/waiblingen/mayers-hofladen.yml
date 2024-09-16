@@ -1,11 +1,11 @@
 id: 123433387
-type: way
+type: node
 latitude: 48.85484
 longitude: 9.33214
 postcode: "71336"
 city: Waiblingen
-street: "Schärisweg"
-housenumber: 44
+street: Schärisweg
+housenumber: "44"
 phone: ""
-opening_hours: "Fr 14:30-18:30; Sa 08:30-12:30"
-website: "https://mayershofladen.de/"
+opening_hours: Fr 14:30-18:30; Sa 08:30-12:30
+website: https://mayershofladen.de/

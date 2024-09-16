@@ -4,8 +4,8 @@ latitude: 47.98673
 longitude: 7.90367
 postcode: "79117"
 city: Freiburg im Breisgau
-street: "Schwarzwaldstraße"
-housenumber: 294
-phone: "+49 761 76646986"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-15:00"
-website: "https://dorfladen-ebnet.de"
+street: Schwarzwaldstraße
+housenumber: "294"
+phone: +49 761 76646986
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-15:00
+website: https://dorfladen-ebnet.de

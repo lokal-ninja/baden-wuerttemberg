@@ -1,11 +1,11 @@
 id: 4622758
-type: way
+type: node
 latitude: 48.9443
 longitude: 8.39385
 postcode: "76275"
 city: Ettlingen
-street: "Zehntwiesenstraße"
-housenumber: 37
+street: Zehntwiesenstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

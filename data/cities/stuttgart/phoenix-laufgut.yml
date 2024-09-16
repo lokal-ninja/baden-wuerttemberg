@@ -4,8 +4,8 @@ latitude: 48.8134
 longitude: 9.11222
 postcode: "70499"
 city: Stuttgart
-street: "Pforzheimer Straße"
-housenumber: 
-phone: "+49 711 3895893"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-12:00"
-website: "https://www.phoenix-laufgut.de/"
+street: Pforzheimer Straße
+housenumber: ""
+phone: +49 711 3895893
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-12:00
+website: https://www.phoenix-laufgut.de/

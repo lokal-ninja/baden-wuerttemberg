@@ -1,11 +1,11 @@
 id: 305915908
-type: way
+type: node
 latitude: 49.6027
 longitude: 9.439
 postcode: "74746"
 city: Höpfingen
-street: "Hardheimer Straße"
-housenumber: 78
+street: Hardheimer Straße
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

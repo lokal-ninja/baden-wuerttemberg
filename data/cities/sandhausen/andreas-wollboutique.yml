@@ -1,11 +1,11 @@
 id: 217823359
-type: way
+type: node
 latitude: 49.34279
 longitude: 8.65848
 postcode: "69207"
 city: Sandhausen
-street: "Hauptstraße"
-housenumber: 105
-phone: "+49 160 1842833"
-opening_hours: "Mo-Sa 10:00-12:30, Mo,Tu,Th,Fr 15:00-18:00"
-website: "https://www.andreas-wollboutique.de/"
+street: Hauptstraße
+housenumber: "105"
+phone: +49 160 1842833
+opening_hours: Mo-Sa 10:00-12:30, Mo,Tu,Th,Fr 15:00-18:00
+website: https://www.andreas-wollboutique.de/

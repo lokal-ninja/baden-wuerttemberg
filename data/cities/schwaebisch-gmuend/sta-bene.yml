@@ -1,11 +1,11 @@
 id: 229227750
-type: way
+type: node
 latitude: 48.79915
 longitude: 9.79568
 postcode: "73525"
 city: Schwäbisch Gmünd
-street: "Sonnengäßle"
-housenumber: 8
+street: Sonnengäßle
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

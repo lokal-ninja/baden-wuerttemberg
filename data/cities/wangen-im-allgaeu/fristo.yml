@@ -1,11 +1,11 @@
 id: 1310902220
-type: way
+type: node
 latitude: 47.68013
 longitude: 9.82477
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Spinnereistraße"
-housenumber: 7
-phone: "+49 7522 930940"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.fristo.de/markt/wangen-spinnereistrasse-7/"
+street: Spinnereistraße
+housenumber: "7"
+phone: +49 7522 930940
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.fristo.de/markt/wangen-spinnereistrasse-7/

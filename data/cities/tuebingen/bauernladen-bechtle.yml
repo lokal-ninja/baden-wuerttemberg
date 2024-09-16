@@ -5,7 +5,7 @@ longitude: 9.05395
 postcode: "72076"
 city: Tübingen
 street: ""
-housenumber: 10
+housenumber: "10"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

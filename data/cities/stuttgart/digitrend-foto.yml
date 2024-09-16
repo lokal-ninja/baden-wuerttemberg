@@ -4,8 +4,8 @@ latitude: 48.77865
 longitude: 9.15682
 postcode: "70176"
 city: Stuttgart
-street: "Rosenbergstraße"
-housenumber: 65
-phone: "+49 711 624480"
-opening_hours: "Mo-Sa 09:30-13:00,14:00-18:30; Sa 10:00-14:00"
-website: "https://www.digitrend-foto.de/"
+street: Rosenbergstraße
+housenumber: "65"
+phone: +49 711 624480
+opening_hours: Mo-Sa 09:30-13:00,14:00-18:30; Sa 10:00-14:00
+website: https://www.digitrend-foto.de/

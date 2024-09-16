@@ -1,11 +1,11 @@
 id: 95498081
-type: way
+type: node
 latitude: 48.34322
 longitude: 7.85042
 postcode: "77933"
 city: Lahr/Schwarzwald
-street: "Weinbergstraße"
-housenumber: 3
+street: Weinbergstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 17:00-19:00; Sa 10:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 17:00-19:00; Sa 10:00-14:00; Su,PH off
 website: ""

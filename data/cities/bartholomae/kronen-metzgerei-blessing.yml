@@ -4,8 +4,8 @@ latitude: 48.75231
 longitude: 9.98765
 postcode: "73566"
 city: Bartholomä
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

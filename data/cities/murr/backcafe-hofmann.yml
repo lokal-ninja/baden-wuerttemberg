@@ -1,11 +1,11 @@
 id: 168755433
-type: way
+type: node
 latitude: 48.95777
 longitude: 9.24567
 postcode: "71711"
 city: Murr
-street: "Im Langen Feld"
-housenumber: 9
+street: Im Langen Feld
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

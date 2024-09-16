@@ -4,8 +4,8 @@ latitude: 49.42493
 longitude: 8.64437
 postcode: "69123"
 city: Heidelberg
-street: "Adlerstraße"
-housenumber: 1
+street: Adlerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

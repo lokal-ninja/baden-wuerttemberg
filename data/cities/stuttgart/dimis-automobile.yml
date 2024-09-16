@@ -1,11 +1,11 @@
 id: 120436076
-type: way
+type: node
 latitude: 48.82269
 longitude: 9.11005
 postcode: "70499"
 city: Stuttgart
-street: "Korntaler Landstraße"
-housenumber: 76
+street: Korntaler Landstraße
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

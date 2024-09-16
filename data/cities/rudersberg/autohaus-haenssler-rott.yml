@@ -1,11 +1,11 @@
 id: 189820819
-type: way
+type: node
 latitude: 48.87733
 longitude: 9.52977
 postcode: "73635"
 city: Rudersberg
-street: "Heilbronner Straße"
-housenumber: 71
+street: Heilbronner Straße
+housenumber: "71"
 phone: ""
 opening_hours: ""
-website: "https://www.haenssler-rott.de/"
+website: https://www.haenssler-rott.de/

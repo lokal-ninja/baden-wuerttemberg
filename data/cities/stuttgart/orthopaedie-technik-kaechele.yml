@@ -1,11 +1,11 @@
 id: 145830322
-type: way
+type: node
 latitude: 48.83083
 longitude: 9.16175
 postcode: "70435"
 city: Stuttgart
-street: "Schwieberdinger Straße"
-housenumber: 54
+street: Schwieberdinger Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "https://sani-team-kaechele.de/"
+website: https://sani-team-kaechele.de/

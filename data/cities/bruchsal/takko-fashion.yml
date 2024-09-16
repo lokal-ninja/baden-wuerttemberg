@@ -1,11 +1,11 @@
 id: 198384155
-type: way
+type: node
 latitude: 49.12155
 longitude: 8.58054
 postcode: "76646"
 city: Bruchsal
-street: "Schnabel-Henning-Straße"
+street: Schnabel-Henning-Straße
 housenumber: 30 a
-phone: "+49 7251 303422"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 9:00-19:00; Su,PH off"
-website: "https://www.takko.com/de-de/stores/#!/l/bruchsal/schnabel-henning-strasse-30a/1000"
+phone: +49 7251 303422
+opening_hours: Mo-Fr 09:00-20:00; Sa 9:00-19:00; Su,PH off
+website: https://www.takko.com/de-de/stores/#!/l/bruchsal/schnabel-henning-strasse-30a/1000

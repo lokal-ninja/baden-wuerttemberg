@@ -1,11 +1,11 @@
 id: 27253180
-type: way
+type: node
 latitude: 48.56556
 longitude: 8.90771
 postcode: "72119"
 city: Ammerbuch
-street: "Hagenring"
-housenumber: 2
+street: Hagenring
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su off; PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su off; PH off
 website: ""

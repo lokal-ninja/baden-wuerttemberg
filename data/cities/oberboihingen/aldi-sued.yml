@@ -1,11 +1,11 @@
 id: 32125000
-type: way
+type: node
 latitude: 48.64349
 longitude: 9.36039
 postcode: "72644"
 city: Oberboihingen
-street: "Nürtinger Straße"
-housenumber: 84
+street: Nürtinger Straße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
 website: ""

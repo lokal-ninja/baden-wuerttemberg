@@ -1,11 +1,11 @@
 id: 116050756
-type: way
+type: node
 latitude: 48.65436
 longitude: 9.19598
 postcode: "70794"
 city: Filderstadt
-street: "Pfarrstraße"
-housenumber: 4
-phone: "+49 711 775142"
-opening_hours: "Mo-Fr 6:00-18:00; We 6:00-13:30; Sa 6:00-12:30; Su 8:00-11:00; PH off"
-website: "https://www.baeckerei-kurfess.de/"
+street: Pfarrstraße
+housenumber: "4"
+phone: +49 711 775142
+opening_hours: Mo-Fr 6:00-18:00; We 6:00-13:30; Sa 6:00-12:30; Su 8:00-11:00; PH off
+website: https://www.baeckerei-kurfess.de/

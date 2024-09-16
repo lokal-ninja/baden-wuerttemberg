@@ -1,11 +1,11 @@
 id: 203929885
-type: way
+type: node
 latitude: 48.65761
 longitude: 9.05849
 postcode: "71101"
 city: Schönaich
-street: "Böblinger Straße"
-housenumber: 11
+street: Böblinger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Termine nach Vereinarung"
+opening_hours: '"Termine nach Vereinarung"'
 website: ""

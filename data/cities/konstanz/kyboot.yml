@@ -4,8 +4,8 @@ latitude: 47.65821
 longitude: 9.17206
 postcode: "78462"
 city: Konstanz
-street: "Bodanstraße"
-housenumber: 29
-phone: "+49 7531 2829323"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.kybun.de/"
+street: Bodanstraße
+housenumber: "29"
+phone: +49 7531 2829323
+opening_hours: Mo 14:00-18:00; Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.kybun.de/

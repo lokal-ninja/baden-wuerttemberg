@@ -1,11 +1,11 @@
 id: 256914461
-type: way
+type: node
 latitude: 48.59207
 longitude: 9.23208
 postcode: "72654"
 city: Neckartenzlingen
-street: "Stuttgarter Straße"
-housenumber: 9
+street: Stuttgarter Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

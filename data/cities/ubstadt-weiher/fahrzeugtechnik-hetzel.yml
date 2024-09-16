@@ -1,11 +1,11 @@
 id: 199734062
-type: way
+type: node
 latitude: 49.18895
 longitude: 8.62851
 postcode: "76698"
 city: Ubstadt-Weiher
-street: "Großer Sand"
-housenumber: 16
+street: Großer Sand
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://fzth.de/"
+website: https://fzth.de/

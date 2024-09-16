@@ -1,11 +1,11 @@
 id: 113167729
-type: way
+type: node
 latitude: 48.67985
 longitude: 10.14068
 postcode: "89518"
 city: Heidenheim an der Brenz
-street: "Wilhelmstraße"
-housenumber: 82
+street: Wilhelmstraße
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

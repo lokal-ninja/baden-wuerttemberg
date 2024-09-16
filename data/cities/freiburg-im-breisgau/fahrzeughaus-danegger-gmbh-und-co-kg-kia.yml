@@ -1,11 +1,11 @@
 id: 92796399
-type: way
+type: node
 latitude: 48.02648
 longitude: 7.85553
 postcode: "79108"
 city: Freiburg im Breisgau
-street: "Zinkmattenstraße"
-housenumber: 20
-phone: "+49-761-50470-0"
+street: Zinkmattenstraße
+housenumber: "20"
+phone: +49-761-50470-0
 opening_hours: ""
-website: "https://www.kia-santo-freiburg.de/"
+website: https://www.kia-santo-freiburg.de/

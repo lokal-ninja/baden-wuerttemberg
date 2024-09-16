@@ -4,8 +4,8 @@ latitude: 49.42007
 longitude: 8.64851
 postcode: "69123"
 city: Heidelberg
-street: "Elisabethstraße"
-housenumber: 26
-phone: "+49 6221 760538"
-opening_hours: "nach Vereinbarung"
-website: "https://www.futon-haus.de/"
+street: Elisabethstraße
+housenumber: "26"
+phone: +49 6221 760538
+opening_hours: nach Vereinbarung
+website: https://www.futon-haus.de/

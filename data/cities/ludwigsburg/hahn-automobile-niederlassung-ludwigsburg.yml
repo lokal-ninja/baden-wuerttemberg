@@ -1,11 +1,11 @@
 id: 281457864
-type: way
+type: node
 latitude: 48.89035
 longitude: 9.15909
 postcode: "71636"
 city: Ludwigsburg
-street: "Schwieberdinger Straße"
-housenumber: 140
+street: Schwieberdinger Straße
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-13:00; Su 11:00-16:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-13:00; Su 11:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.13732
 longitude: 8.91159
 postcode: "75031"
 city: Eppingen
-street: "Altstadtstraße"
-housenumber: 20
-phone: "+49 7262 912096"
-opening_hours: "Tu-Fr 05:30-12:15,14:30-18:00; Sa 05:30-12:30"
-website: "http://www.backstube-stier.de"
+street: Altstadtstraße
+housenumber: "20"
+phone: +49 7262 912096
+opening_hours: Tu-Fr 05:30-12:15,14:30-18:00; Sa 05:30-12:30
+website: http://www.backstube-stier.de

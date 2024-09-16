@@ -1,11 +1,11 @@
 id: 45391739
-type: way
+type: node
 latitude: 48.80511
 longitude: 9.0758
 postcode: "70839"
 city: Gerlingen
-street: "Weilimdorfer Straße"
-housenumber: 88
+street: Weilimdorfer Straße
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

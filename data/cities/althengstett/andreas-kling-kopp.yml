@@ -1,11 +1,11 @@
 id: 308798986
-type: way
+type: node
 latitude: 48.72792
 longitude: 8.78128
 postcode: "75382"
 city: Althengstett
-street: "Carl-Benz-Straße"
-housenumber: 15
+street: Carl-Benz-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

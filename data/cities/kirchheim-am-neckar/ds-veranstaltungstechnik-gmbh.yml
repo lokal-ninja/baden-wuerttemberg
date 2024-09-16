@@ -1,11 +1,11 @@
 id: 174744205
-type: way
+type: node
 latitude: 49.03602
 longitude: 9.14443
 postcode: "74366"
 city: Kirchheim am Neckar
-street: "Mercedesstraße"
-housenumber: 2
+street: Mercedesstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

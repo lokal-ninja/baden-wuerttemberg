@@ -4,8 +4,8 @@ latitude: 48.04085
 longitude: 7.81821
 postcode: ""
 city: Freiburg im Breisgau
-street: "Hanferstraße"
-housenumber: 24
-phone: "+49 1805 330 120"
-opening_hours: "Mo-Fr 09:30-17:00; Sa 09:30-14:00"
-website: "https://www.fritz-berger.de/filiale/freiburg/"
+street: Hanferstraße
+housenumber: "24"
+phone: +49 1805 330 120
+opening_hours: Mo-Fr 09:30-17:00; Sa 09:30-14:00
+website: https://www.fritz-berger.de/filiale/freiburg/

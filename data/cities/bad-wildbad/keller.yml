@@ -1,11 +1,11 @@
 id: 131905936
-type: way
+type: node
 latitude: 48.77595
 longitude: 8.57736
 postcode: "75323"
 city: Bad Wildbad
-street: "Kriegsstraße"
-housenumber: 5
+street: Kriegsstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

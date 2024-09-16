@@ -4,8 +4,8 @@ latitude: 48.5306
 longitude: 8.0794
 postcode: "77704"
 city: Oberkirch
-street: "Hauptstraße"
-housenumber: 39
-phone: "+49 7802 4559"
-opening_hours: "Mo-Fr 09:00-12:30, 14:30-18:00; Sa 09:00-13:00"
-website: "https://www.foto-harder.de/"
+street: Hauptstraße
+housenumber: "39"
+phone: +49 7802 4559
+opening_hours: Mo-Fr 09:00-12:30, 14:30-18:00; Sa 09:00-13:00
+website: https://www.foto-harder.de/

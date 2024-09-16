@@ -4,8 +4,8 @@ latitude: 48.67379
 longitude: 9.23909
 postcode: "70794"
 city: Filderstadt
-street: "Rathausplatz"
-housenumber: 2
+street: Rathausplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-17:00; Su 08:00-18:00"
-website: "https://www.baeckerei-treiber.de"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-17:00; Su 08:00-18:00
+website: https://www.baeckerei-treiber.de

@@ -1,11 +1,11 @@
 id: 256588071
-type: way
+type: node
 latitude: 48.81488
 longitude: 10.12515
 postcode: "73432"
 city: Aalen
-street: "Im Bühl"
-housenumber: 5
-phone: "+49 7361 5009666"
+street: Im Bühl
+housenumber: "5"
+phone: +49 7361 5009666
 opening_hours: ""
 website: ""

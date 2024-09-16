@@ -1,11 +1,11 @@
 id: 193003138
-type: way
+type: node
 latitude: 49.7719
 longitude: 9.33043
 postcode: "97903"
 city: Collenberg
-street: "Hauptstraße"
-housenumber: 43
+street: Hauptstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-18:00; We 10:00-12:30; Sa 09:00-12:30; PH off"
-website: "https://www.euronics.de/collenberg-pfeifer/"
+opening_hours: Mo,Tu,Th,Fr 10:00-18:00; We 10:00-12:30; Sa 09:00-12:30; PH off
+website: https://www.euronics.de/collenberg-pfeifer/

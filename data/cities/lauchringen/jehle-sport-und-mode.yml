@@ -4,8 +4,9 @@ latitude: 47.63163
 longitude: 8.30375
 postcode: "79787"
 city: Lauchringen
-street: "Gerhart-Hauptmann-Straße"
-housenumber: 13
-phone: "+49 7741 2595"
-opening_hours: "Mo-Tu 08:30-12:30,14:30-18:30, We 08:30-12:30, Th-Fr 08:30-12:30,14:00-20:00, Sa 08:30-14:00"
-website: "https://www.jehle-sport.de/"
+street: Gerhart-Hauptmann-Straße
+housenumber: "13"
+phone: +49 7741 2595
+opening_hours: Mo-Tu 08:30-12:30,14:30-18:30, We 08:30-12:30, Th-Fr 08:30-12:30,14:00-20:00,
+    Sa 08:30-14:00
+website: https://www.jehle-sport.de/

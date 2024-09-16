@@ -4,8 +4,9 @@ latitude: 47.72068
 longitude: 9.39067
 postcode: "88677"
 city: Markdorf
-street: "Marktstraße"
-housenumber: 2
+street: Marktstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Fr 09:00-12:30,14:30-18:00; We 09:00-12:30; Th 08:30-12:30,14:30-18:00; Sa 09:00-13:00"
+opening_hours: Mo,Tu,Fr 09:00-12:30,14:30-18:00; We 09:00-12:30; Th 08:30-12:30,14:30-18:00;
+    Sa 09:00-13:00
 website: ""

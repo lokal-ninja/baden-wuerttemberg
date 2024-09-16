@@ -1,11 +1,11 @@
 id: 40450744
-type: way
+type: node
 latitude: 48.54421
 longitude: 8.72832
 postcode: "72202"
 city: Nagold
-street: "Haiterbacher Straße"
-housenumber: 70
+street: Haiterbacher Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

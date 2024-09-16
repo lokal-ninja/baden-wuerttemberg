@@ -4,8 +4,8 @@ latitude: 48.85489
 longitude: 8.66383
 postcode: "75180"
 city: Pforzheim
-street: "Dillweißensteiner Straße"
-housenumber: 5
+street: Dillweißensteiner Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu,Th,Fr 16:00-18:00"
-website: "https://www.birnbaum-creative.de/"
+opening_hours: Tu,Th,Fr 16:00-18:00
+website: https://www.birnbaum-creative.de/

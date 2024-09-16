@@ -1,11 +1,11 @@
 id: 204275364
-type: way
+type: node
 latitude: 48.78857
 longitude: 9.36276
 postcode: "71384"
 city: Weinstadt
-street: "Hauptstraße"
-housenumber: 110
+street: Hauptstraße
+housenumber: "110"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

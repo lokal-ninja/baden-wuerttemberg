@@ -1,11 +1,11 @@
 id: 249771956
-type: way
+type: node
 latitude: 48.19748
 longitude: 8.23367
 postcode: "78132"
 city: Hornberg
-street: "Landstraße"
-housenumber: 24
+street: Landstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-aberle.de"
+website: https://www.auto-aberle.de

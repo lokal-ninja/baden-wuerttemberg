@@ -1,11 +1,11 @@
 id: 378929962
-type: way
+type: node
 latitude: 47.9347
 longitude: 8.85999
 postcode: "78576"
 city: Emmingen-Liptingen
-street: "Carl-Benz-Straße"
-housenumber: 2
+street: Carl-Benz-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

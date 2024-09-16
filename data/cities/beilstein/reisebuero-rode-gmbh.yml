@@ -1,11 +1,11 @@
 id: 320521319
-type: way
+type: node
 latitude: 49.03982
 longitude: 9.3151
 postcode: "71717"
 city: Beilstein
-street: "Hauptstraße"
-housenumber: 44
-phone: "+49 7062 94990"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.rodereisen.de"
+street: Hauptstraße
+housenumber: "44"
+phone: +49 7062 94990
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.rodereisen.de

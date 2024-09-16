@@ -1,11 +1,11 @@
 id: 91618874
-type: way
+type: node
 latitude: 47.92736
 longitude: 8.45
 postcode: "78199"
 city: Bräunlingen
-street: "Dögginger Straße"
-housenumber: 6
-phone: "+49 771 973130"
-opening_hours: "Mo-Fr 06:30-12:30,14:30-18:30; Sa 06:30-13:00; ph off"
+street: Dögginger Straße
+housenumber: "6"
+phone: +49 771 973130
+opening_hours: Mo-Fr 06:30-12:30,14:30-18:30; Sa 06:30-13:00; ph off
 website: ""

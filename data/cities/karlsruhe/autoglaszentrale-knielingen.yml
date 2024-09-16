@@ -1,11 +1,11 @@
 id: 108336507
-type: way
+type: node
 latitude: 49.02969
 longitude: 8.34305
 postcode: "76187"
 city: Karlsruhe
-street: "Sudetenstraße"
-housenumber: 1
-phone: "+49 721 562922"
-opening_hours: "Mo-Fr 07:00-17:00"
+street: Sudetenstraße
+housenumber: "1"
+phone: +49 721 562922
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

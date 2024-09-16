@@ -1,11 +1,11 @@
 id: 416757914
-type: way
+type: node
 latitude: 48.14421
 longitude: 7.62201
 postcode: "79361"
 city: Sasbach am Kaiserstuhl
-street: "Gewerbestraße"
-housenumber: 2
+street: Gewerbestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:30"
+opening_hours: Mo-Sa 07:30-21:30
 website: ""

@@ -1,11 +1,11 @@
 id: 451909274
-type: way
+type: node
 latitude: 48.06284
 longitude: 8.55193
 postcode: "78056"
 city: Villingen-Schwenningen
-street: "Lichtensteinstraße"
-housenumber: 54
-phone: "+497720 7786"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH off"
-website: "http://www.autohaus-bechmann.de/"
+street: Lichtensteinstraße
+housenumber: "54"
+phone: +497720 7786
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH off
+website: http://www.autohaus-bechmann.de/

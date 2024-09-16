@@ -1,11 +1,11 @@
 id: 668516721
-type: way
+type: node
 latitude: 48.72592
 longitude: 9.64215
 postcode: "73098"
 city: Rechberghausen
-street: "Bahnhofstraße"
-housenumber: 50
-phone: "+49 7161 95900"
+street: Bahnhofstraße
+housenumber: "50"
+phone: +49 7161 95900
 opening_hours: ""
-website: "https://www.vw-mueller.de/"
+website: https://www.vw-mueller.de/

@@ -1,11 +1,11 @@
 id: 176151217
-type: way
+type: node
 latitude: 48.94383
 longitude: 9.34197
 postcode: "71737"
 city: Kirchberg an der Murr
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

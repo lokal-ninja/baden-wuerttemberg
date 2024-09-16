@@ -1,11 +1,11 @@
 id: 222003854
-type: way
+type: node
 latitude: 48.23792
 longitude: 9.0234
 postcode: "72461"
 city: Albstadt
-street: "Rossentalstraße"
-housenumber: 27
+street: Rossentalstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

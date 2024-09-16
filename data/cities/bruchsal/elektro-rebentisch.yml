@@ -1,11 +1,11 @@
 id: 372589876
-type: way
+type: node
 latitude: 49.10294
 longitude: 8.64444
 postcode: "76646"
 city: Bruchsal
-street: "Törlesstraße"
-housenumber: 9
+street: Törlesstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

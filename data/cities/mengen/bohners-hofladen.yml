@@ -1,11 +1,11 @@
 id: 255578983
-type: way
+type: node
 latitude: 48.03218
 longitude: 9.29371
 postcode: "88512"
 city: Mengen
-street: "Lohbachstraße"
-housenumber: 100
-phone: "+49 7576 356"
-opening_hours: "Mo-Su 08:00-20:30"
-website: "https://www.bohner-rulfingen.de"
+street: Lohbachstraße
+housenumber: "100"
+phone: +49 7576 356
+opening_hours: Mo-Su 08:00-20:30
+website: https://www.bohner-rulfingen.de

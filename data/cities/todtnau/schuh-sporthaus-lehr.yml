@@ -4,8 +4,8 @@ latitude: 47.83025
 longitude: 7.94696
 postcode: "79674"
 city: Todtnau
-street: "Friedrichstraße"
-housenumber: 7
-phone: "+49 7671 317"
-opening_hours: "Mo-Fr 09:00-12:30, 13:30-18:00; Sa 09:00-13:00"
-website: "https://www.sport-lehr.de/"
+street: Friedrichstraße
+housenumber: "7"
+phone: +49 7671 317
+opening_hours: Mo-Fr 09:00-12:30, 13:30-18:00; Sa 09:00-13:00
+website: https://www.sport-lehr.de/

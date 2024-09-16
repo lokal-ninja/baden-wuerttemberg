@@ -4,8 +4,9 @@ latitude: 48.79455
 longitude: 10.11331
 postcode: "73447"
 city: Oberkochen
-street: "Eulerstraße"
-housenumber: 2
-phone: "+49 7364 2909624"
-opening_hours: "Mo-Tu 7:30-12:00, 16:00-18:00; We 7:30-12:00; Th-Fr 7:30-12:00, 16:00-18:00; Sa 7:30-12:00; Su 7:30-10:00"
-website: "https://heideladen-oko.de/"
+street: Eulerstraße
+housenumber: "2"
+phone: +49 7364 2909624
+opening_hours: Mo-Tu 7:30-12:00, 16:00-18:00; We 7:30-12:00; Th-Fr 7:30-12:00, 16:00-18:00;
+    Sa 7:30-12:00; Su 7:30-10:00
+website: https://heideladen-oko.de/

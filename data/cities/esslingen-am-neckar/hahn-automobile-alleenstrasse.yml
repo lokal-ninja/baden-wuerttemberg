@@ -1,11 +1,11 @@
 id: 375908916
-type: way
+type: node
 latitude: 48.72389
 longitude: 9.34942
 postcode: "73730"
 city: Esslingen am Neckar
-street: "Alleenstraße"
-housenumber: 43
+street: Alleenstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

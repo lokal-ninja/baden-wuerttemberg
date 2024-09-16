@@ -1,11 +1,11 @@
 id: 297999063
-type: way
+type: node
 latitude: 48.92921
 longitude: 9.47972
 postcode: "71554"
 city: Weissach im Tal
-street: "Kelterweg"
-housenumber: 3
-phone: "+49 7191 56147"
+street: Kelterweg
+housenumber: "3"
+phone: +49 7191 56147
 opening_hours: ""
 website: ""

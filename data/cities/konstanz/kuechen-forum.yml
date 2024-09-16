@@ -4,8 +4,8 @@ latitude: 47.67186
 longitude: 9.17505
 postcode: "78467"
 city: Konstanz
-street: "Markgrafenstraße"
-housenumber: 28
+street: Markgrafenstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo,Su off; Tu-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:00
 website: ""

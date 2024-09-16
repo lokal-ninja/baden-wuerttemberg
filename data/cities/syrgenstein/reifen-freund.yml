@@ -1,11 +1,12 @@
 id: 405658847
-type: way
+type: node
 latitude: 48.6407
 longitude: 10.29823
 postcode: "89428"
 city: Syrgenstein
-street: "Gewerbestraße"
-housenumber: 3
+street: Gewerbestraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-We 08:30-12:00,13:00-18:00; Th 08:00-12:00,13:00-18:00; Fr 08:30-12:00,13:00-18:00; Sa 08:30-12:00"
+opening_hours: Mo-We 08:30-12:00,13:00-18:00; Th 08:00-12:00,13:00-18:00; Fr 08:30-12:00,13:00-18:00;
+    Sa 08:30-12:00
 website: ""

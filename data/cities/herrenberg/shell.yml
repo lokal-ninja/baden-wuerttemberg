@@ -1,11 +1,11 @@
 id: 254654837
-type: way
+type: node
 latitude: 48.58101
 longitude: 8.89424
 postcode: "71083"
 city: Herrenberg
-street: "Ohmstraße"
-housenumber: 5
+street: Ohmstraße
+housenumber: "5"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,9 @@ latitude: 48.65839
 longitude: 9.35606
 postcode: "72669"
 city: Unterensingen
-street: "Esslinger Straße"
-housenumber: 39
+street: Esslinger Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo 08:00-12:30,14:30-18:00; Tu 08:00-14:00; We-Fr 08:00-18:00; Sa 08:00-14:00; PH off"
+opening_hours: Mo 08:00-12:30,14:30-18:00; Tu 08:00-14:00; We-Fr 08:00-18:00; Sa 08:00-14:00;
+    PH off
 website: ""

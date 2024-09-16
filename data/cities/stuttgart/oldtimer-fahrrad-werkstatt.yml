@@ -4,8 +4,8 @@ latitude: 48.80963
 longitude: 9.21527
 postcode: "70376"
 city: Stuttgart
-street: "Neckartalstraße"
-housenumber: 127
-phone: "+49 160 4466000"
-opening_hours: "Tu-Fr 13:00-18:00; Sa 10:00-16:00"
-website: "https://oldtimer-fahrrad-werkstatt.business.site/"
+street: Neckartalstraße
+housenumber: "127"
+phone: +49 160 4466000
+opening_hours: Tu-Fr 13:00-18:00; Sa 10:00-16:00
+website: https://oldtimer-fahrrad-werkstatt.business.site/

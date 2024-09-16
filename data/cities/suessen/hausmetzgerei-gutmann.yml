@@ -4,8 +4,9 @@ latitude: 48.66899
 longitude: 9.74839
 postcode: "73079"
 city: Süßen
-street: "Grünenberger Straße"
+street: Grünenberger Straße
 housenumber: 86/1
 phone: ""
-opening_hours: "Mo 15:30-18:30; Tu off; We-Th 15:30-18:30; Fr 10:00-12:00, 15:30-18:30; Sa 09:00-12:00"
+opening_hours: Mo 15:30-18:30; Tu off; We-Th 15:30-18:30; Fr 10:00-12:00, 15:30-18:30;
+    Sa 09:00-12:00
 website: ""

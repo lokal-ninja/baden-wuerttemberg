@@ -1,11 +1,11 @@
 id: 211365602
-type: way
+type: node
 latitude: 49.19359
 longitude: 9.48908
 postcode: "74613"
 city: Öhringen
-street: "Dresdner Straße"
-housenumber: 2
-phone: "+49 7941 959166"
+street: Dresdner Straße
+housenumber: "2"
+phone: +49 7941 959166
 opening_hours: ""
-website: "https://www.jukatan.de/"
+website: https://www.jukatan.de/

@@ -1,11 +1,11 @@
 id: 123349598
-type: way
+type: node
 latitude: 49.007
 longitude: 8.34573
 postcode: "76185"
 city: Karlsruhe
-street: "Daxlander Straße"
-housenumber: 68
+street: Daxlander Straße
+housenumber: "68"
 phone: ""
-opening_hours: "11:00-22:00"
+opening_hours: 11:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.40942
 longitude: 8.70345
 postcode: "69117"
 city: Heidelberg
-street: "Plöck"
-housenumber: 54
-phone: "+49 6221 5028599"
-opening_hours: "Tu-Fr 12:00-19:00;Sa 12:00-16:00"
-website: "http://www.absolut-tattoo.de/"
+street: Plöck
+housenumber: "54"
+phone: +49 6221 5028599
+opening_hours: Tu-Fr 12:00-19:00;Sa 12:00-16:00
+website: http://www.absolut-tattoo.de/

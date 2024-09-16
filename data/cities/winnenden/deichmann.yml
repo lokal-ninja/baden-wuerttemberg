@@ -1,11 +1,11 @@
 id: 389713341
-type: way
+type: node
 latitude: 48.88022
 longitude: 9.39132
 postcode: "71364"
 city: Winnenden
-street: "Marbacher Straße"
-housenumber: 6
+street: Marbacher Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

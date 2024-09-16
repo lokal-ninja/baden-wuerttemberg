@@ -4,8 +4,8 @@ latitude: 49.48643
 longitude: 8.47797
 postcode: "68161"
 city: Mannheim
-street: "Berliner Straße"
-housenumber: 18
-phone: "+49 621 72488248"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
-website: "http://www.asialand.info/"
+street: Berliner Straße
+housenumber: "18"
+phone: +49 621 72488248
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off
+website: http://www.asialand.info/

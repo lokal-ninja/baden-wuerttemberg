@@ -1,11 +1,11 @@
 id: 29006669
-type: way
+type: node
 latitude: 47.65629
 longitude: 7.57449
 postcode: ""
 city: Efringen-Kirchen
-street: "Im Schlöttle"
-housenumber: 1
+street: Im Schlöttle
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

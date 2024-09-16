@@ -4,8 +4,8 @@ latitude: 48.53918
 longitude: 9.28516
 postcode: "72555"
 city: Metzingen
-street: "Friedrichstraße"
-housenumber: 7
-phone: "+49 7123 15152"
-opening_hours: "Mo-Fr 10:00-13:00; Th-Fr 15:00-18:00"
-website: "https://munz-markensecondhand.de/"
+street: Friedrichstraße
+housenumber: "7"
+phone: +49 7123 15152
+opening_hours: Mo-Fr 10:00-13:00; Th-Fr 15:00-18:00
+website: https://munz-markensecondhand.de/

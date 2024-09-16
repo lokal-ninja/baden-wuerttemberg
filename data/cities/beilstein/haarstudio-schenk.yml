@@ -1,11 +1,11 @@
 id: 108891901
-type: way
+type: node
 latitude: 49.04198
 longitude: 9.31275
 postcode: "71717"
 city: Beilstein
-street: "Auensteiner Straße"
-housenumber: 1
-phone: "+49 7062 65000"
+street: Auensteiner Straße
+housenumber: "1"
+phone: +49 7062 65000
 opening_hours: ""
 website: ""

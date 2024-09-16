@@ -1,11 +1,11 @@
 id: 127307247
-type: way
+type: node
 latitude: 48.27609
 longitude: 9.00017
 postcode: "72461"
 city: Albstadt
-street: "Wilhelmstraße"
-housenumber: 130
+street: Wilhelmstraße
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

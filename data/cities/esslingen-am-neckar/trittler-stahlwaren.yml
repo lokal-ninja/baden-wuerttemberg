@@ -4,8 +4,8 @@ latitude: 48.73852
 longitude: 9.30425
 postcode: "73728"
 city: Esslingen am Neckar
-street: "Pliensaustraße"
-housenumber: 44
+street: Pliensaustraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,14:00-18:30, Sa 09:30-14:00; PH off"
-website: "https://www.messer-esslingen.de/"
+opening_hours: Mo-Fr 09:30-13:00,14:00-18:30, Sa 09:30-14:00; PH off
+website: https://www.messer-esslingen.de/

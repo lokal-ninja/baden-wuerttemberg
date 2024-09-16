@@ -1,11 +1,11 @@
 id: 200175350
-type: way
+type: node
 latitude: 48.8356
 longitude: 9.82514
 postcode: "73527"
 city: Schwäbisch Gmünd
-street: "Bänglesäcker"
-housenumber: 20
+street: Bänglesäcker
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "http://www.reifen-teuber.de/"
+website: http://www.reifen-teuber.de/

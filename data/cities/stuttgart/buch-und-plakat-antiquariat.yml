@@ -1,11 +1,11 @@
 id: 123184377
-type: way
+type: node
 latitude: 48.77353
 longitude: 9.18306
 postcode: "70182"
 city: Stuttgart
-street: "Wagnerstraße"
-housenumber: 43
+street: Wagnerstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "http://www.buch-plakat.de/"
+website: http://www.buch-plakat.de/

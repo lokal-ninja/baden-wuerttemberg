@@ -1,11 +1,11 @@
 id: 310932245
-type: way
+type: node
 latitude: 48.02702
 longitude: 8.60153
 postcode: "78609"
 city: Tuningen
-street: "Friedhofstraße"
-housenumber: 2
-phone: "+49 7464 96216"
-opening_hours: "Tu-Fr 08:00-12:00,13:30-18:00; Sa 07:00-13:00"
-website: "https://www.salon-manger.de/"
+street: Friedhofstraße
+housenumber: "2"
+phone: +49 7464 96216
+opening_hours: Tu-Fr 08:00-12:00,13:30-18:00; Sa 07:00-13:00
+website: https://www.salon-manger.de/

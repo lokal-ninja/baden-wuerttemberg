@@ -5,7 +5,8 @@ longitude: 8.38956
 postcode: "76133"
 city: Karlsruhe
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Feb-Oct: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Nov-Jan: Mo-Fr 10:00-18:00; Sa 09:00-13:00"
+opening_hours: 'Feb-Oct: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Nov-Jan: Mo-Fr 10:00-18:00;
+    Sa 09:00-13:00'
 website: ""

@@ -1,11 +1,11 @@
 id: 138936072
-type: way
+type: node
 latitude: 49.09661
 longitude: 9.57684
 postcode: "74535"
 city: Mainhardt
-street: "Geißelhadter Straße"
-housenumber: 2
+street: Geißelhadter Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.getraenke-ungerer.de/"
+website: https://www.getraenke-ungerer.de/

@@ -1,11 +1,11 @@
 id: 54856329
-type: way
+type: node
 latitude: 48.99506
 longitude: 8.46548
 postcode: "76227"
 city: Karlsruhe
-street: "Rommelstraße"
-housenumber: 5
+street: Rommelstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00; PH,Su off
+website: https://www.netto-online.de

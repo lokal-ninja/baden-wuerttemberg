@@ -1,11 +1,11 @@
 id: 142458150
-type: way
+type: node
 latitude: 49.17881
 longitude: 9.22671
 postcode: "74172"
 city: Neckarsulm
-street: "Heiner-Fleischmann-Straße"
-housenumber: 3
+street: Heiner-Fleischmann-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "www.reifen-pischinger.de"
+website: www.reifen-pischinger.de

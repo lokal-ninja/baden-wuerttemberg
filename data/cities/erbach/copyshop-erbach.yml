@@ -1,11 +1,11 @@
 id: 235899446
-type: way
+type: node
 latitude: 48.32566
 longitude: 9.89215
 postcode: "89155"
 city: Erbach
-street: "Ehinger Straße"
-housenumber: 20
+street: Ehinger Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00
 website: ""

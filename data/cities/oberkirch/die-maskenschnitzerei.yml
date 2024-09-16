@@ -4,8 +4,8 @@ latitude: 48.52923
 longitude: 8.08241
 postcode: "77704"
 city: Oberkirch
-street: "Hauptstraße"
-housenumber: 15
-phone: "+49 7802 6706"
-opening_hours: "Mo-Fr 09:00-12:00, 14:30-18:00; Sa 09:00-12:00"
-website: "https://www.maskenschnitzerei.de/"
+street: Hauptstraße
+housenumber: "15"
+phone: +49 7802 6706
+opening_hours: Mo-Fr 09:00-12:00, 14:30-18:00; Sa 09:00-12:00
+website: https://www.maskenschnitzerei.de/

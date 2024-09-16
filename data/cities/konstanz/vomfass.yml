@@ -4,8 +4,8 @@ latitude: 47.66014
 longitude: 9.17252
 postcode: "78462"
 city: Konstanz
-street: "Hussenstraße"
-housenumber: 14
+street: Hussenstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.vomfass.de/konstanz"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.vomfass.de/konstanz

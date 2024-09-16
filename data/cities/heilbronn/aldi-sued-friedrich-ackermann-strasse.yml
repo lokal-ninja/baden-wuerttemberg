@@ -1,11 +1,11 @@
 id: 135968418
-type: way
+type: node
 latitude: 49.11919
 longitude: 9.19308
 postcode: "74081"
 city: Heilbronn
-street: "Friedrich-Ackermann-Straße"
-housenumber: 22
+street: Friedrich-Ackermann-Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 308649252
-type: way
+type: node
 latitude: 49.33416
 longitude: 9.11157
 postcode: "74821"
 city: Mosbach
-street: "Hinterer Waldhauerweg"
-housenumber: 3
-phone: "+49 6261 2825"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 08:30-13:30;Su,PH off"
-website: "http://www.gaertnerei-posert.de/"
+street: Hinterer Waldhauerweg
+housenumber: "3"
+phone: +49 6261 2825
+opening_hours: Mo-Fr 09:00-18:00;Sa 08:30-13:30;Su,PH off
+website: http://www.gaertnerei-posert.de/

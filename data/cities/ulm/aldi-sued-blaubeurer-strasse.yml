@@ -1,11 +1,11 @@
 id: 277767588
-type: way
+type: node
 latitude: 48.40075
 longitude: 9.97137
 postcode: "89077"
 city: Ulm
-street: "Blaubeurer Straße"
-housenumber: 47
-phone: "+49 1803 252722"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://aldi-sued.de/"
+street: Blaubeurer Straße
+housenumber: "47"
+phone: +49 1803 252722
+opening_hours: Mo-Sa 07:00-21:00
+website: https://aldi-sued.de/

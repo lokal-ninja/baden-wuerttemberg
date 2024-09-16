@@ -1,11 +1,11 @@
 id: 338402258
-type: way
+type: node
 latitude: 49.25521
 longitude: 8.54059
 postcode: "68753"
 city: Waghäusel
-street: "Boschstraße"
-housenumber: 12
+street: Boschstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo, We, Fr 10:00-12:00, 15:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo, We, Fr 10:00-12:00, 15:00-18:00; Sa 10:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 37446313
-type: way
+type: node
 latitude: 48.06993
 longitude: 8.44528
 postcode: "78048"
 city: Villingen-Schwenningen
-street: "Karlsruher Straße"
-housenumber: 31
+street: Karlsruher Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:00-18:00; Sa 09:00-12:00; PH off"
+opening_hours: Mo-Fr 07:30-12:00,13:00-18:00; Sa 09:00-12:00; PH off
 website: ""

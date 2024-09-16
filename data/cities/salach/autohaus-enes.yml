@@ -1,11 +1,11 @@
 id: 549949869
-type: way
+type: node
 latitude: 48.6843
 longitude: 9.7324
 postcode: "73084"
 city: Salach
-street: "Postweg"
-housenumber: 11
+street: Postweg
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://autohaus-enes.de/"
+website: https://autohaus-enes.de/

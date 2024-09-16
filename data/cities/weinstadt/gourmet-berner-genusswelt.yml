@@ -1,11 +1,11 @@
 id: 130864882
-type: way
+type: node
 latitude: 48.81388
 longitude: 9.3841
 postcode: "71384"
 city: Weinstadt
-street: "Benzstraße"
-housenumber: 1
+street: Benzstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-16:00
 website: ""

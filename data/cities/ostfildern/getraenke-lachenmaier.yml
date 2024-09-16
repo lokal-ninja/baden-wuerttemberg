@@ -4,8 +4,8 @@ latitude: 48.72277
 longitude: 9.22782
 postcode: "73760"
 city: Ostfildern
-street: "Zeppelinstraße"
-housenumber: 19
+street: Zeppelinstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00"
-website: "http://www.getraenke-lachenmaier.de"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00
+website: http://www.getraenke-lachenmaier.de

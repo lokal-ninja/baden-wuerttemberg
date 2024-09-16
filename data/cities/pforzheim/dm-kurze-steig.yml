@@ -1,11 +1,11 @@
 id: 197911171
-type: way
+type: node
 latitude: 48.8917
 longitude: 8.6699
 postcode: "75179"
 city: Pforzheim
-street: "Kurze Steig"
-housenumber: 2
+street: Kurze Steig
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

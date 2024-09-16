@@ -4,8 +4,9 @@ latitude: 48.49393
 longitude: 9.40323
 postcode: "72574"
 city: Bad Urach
-street: "Pfählerstraße"
-housenumber: 44
+street: Pfählerstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, Mo-Th 14:00-18:00, Fr 13:30-18:00, Sa 07:30-12:30, Su off; PH off"
+opening_hours: Mo-Fr 08:00-12:00, Mo-Th 14:00-18:00, Fr 13:30-18:00, Sa 07:30-12:30,
+    Su off; PH off
 website: ""

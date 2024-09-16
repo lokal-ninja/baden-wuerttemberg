@@ -1,11 +1,11 @@
 id: 27732984
-type: way
+type: node
 latitude: 48.23044
 longitude: 9.02778
 postcode: "72461"
 city: Albstadt
-street: "Rudolf-Diesel-Straße"
-housenumber: 11
+street: Rudolf-Diesel-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

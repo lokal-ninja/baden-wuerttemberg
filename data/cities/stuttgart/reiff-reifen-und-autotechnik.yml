@@ -4,8 +4,8 @@ latitude: 48.72137
 longitude: 9.12209
 postcode: "70565"
 city: Stuttgart
-street: "Gewerbestraße"
-housenumber: 2
+street: Gewerbestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:15; Sa 08:00-12:00"
-website: "https://www.reiff-reifen.de/de/REIFF-Standorte/standort-42/Stuttgart-Moehringen.html"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:15; Sa 08:00-12:00
+website: https://www.reiff-reifen.de/de/REIFF-Standorte/standort-42/Stuttgart-Moehringen.html

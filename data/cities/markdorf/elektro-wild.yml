@@ -1,11 +1,11 @@
 id: 123601607
-type: way
+type: node
 latitude: 47.71762
 longitude: 9.38913
 postcode: "88677"
 city: Markdorf
-street: "Bahnhofstraße"
-housenumber: 19
+street: Bahnhofstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30, Mo,Tu,Th,Fr 14:30-18:00"
-website: "https://www.elektrotechnikwild.de/"
+opening_hours: Mo-Sa 09:00-12:30, Mo,Tu,Th,Fr 14:30-18:00
+website: https://www.elektrotechnikwild.de/

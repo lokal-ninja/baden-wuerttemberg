@@ -1,11 +1,11 @@
 id: 227688955
-type: way
+type: node
 latitude: 48.45174
 longitude: 9.08277
 postcode: "72810"
 city: Gomaringen
-street: "Nehrener Straße"
-housenumber: 4
+street: Nehrener Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

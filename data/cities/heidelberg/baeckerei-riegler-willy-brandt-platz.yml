@@ -1,11 +1,11 @@
 id: 462362693
-type: way
+type: node
 latitude: 49.40458
 longitude: 8.67562
 postcode: "69115"
 city: Heidelberg
-street: "Willy-Brandt-Platz"
-housenumber: 5
-phone: "+49 6221 6539736"
-opening_hours: "Mo-Sa 05:00-20:00; Su,PH 07:00-15:00"
-website: "https://baeckerei-riegler.de/"
+street: Willy-Brandt-Platz
+housenumber: "5"
+phone: +49 6221 6539736
+opening_hours: Mo-Sa 05:00-20:00; Su,PH 07:00-15:00
+website: https://baeckerei-riegler.de/

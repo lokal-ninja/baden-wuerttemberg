@@ -1,11 +1,11 @@
 id: 244428533
-type: way
+type: node
 latitude: 49.51112
 longitude: 8.72935
 postcode: "69469"
 city: Weinheim
-street: "Großsachsener Straße"
-housenumber: 4
+street: Großsachsener Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

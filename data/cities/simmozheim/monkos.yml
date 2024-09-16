@@ -1,11 +1,11 @@
 id: 161699967
-type: way
+type: node
 latitude: 48.74579
 longitude: 8.80828
 postcode: "75397"
 city: Simmozheim
-street: "Im Mönchgraben"
-housenumber: 24
+street: Im Mönchgraben
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

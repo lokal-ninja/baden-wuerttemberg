@@ -1,11 +1,11 @@
 id: 191457694
-type: way
+type: node
 latitude: 49.33606
 longitude: 8.65291
 postcode: "69207"
 city: Sandhausen
-street: "Hauptstraße"
-housenumber: 19
+street: Hauptstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

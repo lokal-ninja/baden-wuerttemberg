@@ -1,11 +1,11 @@
 id: 105770843
-type: way
+type: node
 latitude: 48.12683
 longitude: 8.33272
 postcode: "78112"
 city: St. Georgen
-street: "Bärenplatz"
-housenumber: 12
+street: Bärenplatz
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

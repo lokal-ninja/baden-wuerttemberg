@@ -4,8 +4,9 @@ latitude: 47.68688
 longitude: 9.83378
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Herrenstraße"
-housenumber: 16
-phone: "+49 7522 4033"
-opening_hours: "Mo-Tu 09:00-18:00, We 08:00-18:00, Th-Fr 09:00-18:00, Sa 09:00-14:00; PH,Su off"
-website: "https://www.kaesehimmel-wangen.de"
+street: Herrenstraße
+housenumber: "16"
+phone: +49 7522 4033
+opening_hours: Mo-Tu 09:00-18:00, We 08:00-18:00, Th-Fr 09:00-18:00, Sa 09:00-14:00;
+    PH,Su off
+website: https://www.kaesehimmel-wangen.de

@@ -1,11 +1,11 @@
 id: 218211392
-type: way
+type: node
 latitude: 48.82444
 longitude: 9.06495
 postcode: "71254"
 city: Ditzingen
-street: "Johannes-Fuchs-Straße"
-housenumber: 5
+street: Johannes-Fuchs-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-17:30"
+opening_hours: Mo-Fr 08:30-12:00,14:00-17:30
 website: ""

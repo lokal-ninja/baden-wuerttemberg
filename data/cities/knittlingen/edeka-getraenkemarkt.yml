@@ -1,11 +1,11 @@
 id: 118446855
-type: way
+type: node
 latitude: 49.02069
 longitude: 8.74945
 postcode: "75438"
 city: Knittlingen
-street: "Siemensstraße"
-housenumber: 3
+street: Siemensstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

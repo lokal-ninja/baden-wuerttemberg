@@ -1,11 +1,11 @@
 id: 436001289
-type: way
+type: node
 latitude: 49.30083
 longitude: 9.97565
 postcode: "74572"
 city: Blaufelden
-street: "Schrozberger Straße"
-housenumber: 1
+street: Schrozberger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

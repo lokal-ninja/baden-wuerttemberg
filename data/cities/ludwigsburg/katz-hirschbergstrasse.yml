@@ -4,8 +4,8 @@ latitude: 48.90824
 longitude: 9.16396
 postcode: "71634"
 city: Ludwigsburg
-street: "Hirschbergstraße"
-housenumber: 44
-phone: "+49 7141 2994482"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.baeckerei-katz.de/filialsuche/"
+street: Hirschbergstraße
+housenumber: "44"
+phone: +49 7141 2994482
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.baeckerei-katz.de/filialsuche/

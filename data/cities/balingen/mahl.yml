@@ -1,11 +1,11 @@
 id: 143045467
-type: way
+type: node
 latitude: 48.24968
 longitude: 8.86898
 postcode: "72336"
 city: Balingen
-street: "Balinger Straße"
-housenumber: 94
+street: Balinger Straße
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

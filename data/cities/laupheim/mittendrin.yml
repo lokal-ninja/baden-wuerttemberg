@@ -4,8 +4,8 @@ latitude: 48.22936
 longitude: 9.88325
 postcode: "88471"
 city: Laupheim
-street: "Mittelstraße"
-housenumber: 7
-phone: "+49 7392 91388 13"
-opening_hours: "Mo-We 09:00-18:00; Th-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.mittendrin-in-laupheim.de/"
+street: Mittelstraße
+housenumber: "7"
+phone: +49 7392 91388 13
+opening_hours: Mo-We 09:00-18:00; Th-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.mittendrin-in-laupheim.de/

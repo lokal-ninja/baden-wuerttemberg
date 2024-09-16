@@ -1,11 +1,11 @@
 id: 98613650
-type: way
+type: node
 latitude: 49.14328
 longitude: 9.12004
 postcode: "74211"
 city: Leingarten
-street: "Kastanienstraße"
-housenumber: 1
+street: Kastanienstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.hirschweine.de/"
+website: https://www.hirschweine.de/

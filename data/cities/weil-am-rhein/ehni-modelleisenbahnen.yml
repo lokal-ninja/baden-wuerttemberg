@@ -4,8 +4,8 @@ latitude: 47.59416
 longitude: 7.62759
 postcode: "79576"
 city: Weil am Rhein
-street: "Hauptstraße"
-housenumber: 154
+street: Hauptstraße
+housenumber: "154"
 phone: ""
-opening_hours: "Di 15 - 18; Sa 10 - 13"
-website: "https://www.eisenbahn-ehni.de/index.html"
+opening_hours: Di 15 - 18; Sa 10 - 13
+website: https://www.eisenbahn-ehni.de/index.html

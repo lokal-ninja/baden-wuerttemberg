@@ -1,11 +1,11 @@
 id: 541109239
-type: way
+type: node
 latitude: 48.60109
 longitude: 7.83621
 postcode: "77694"
 city: Kehl
-street: "Freiburger Straße"
+street: Freiburger Straße
 housenumber: 1b
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/kehl-auenheim/freiburger-str-1-b/5563"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/kehl-auenheim/freiburger-str-1-b/5563

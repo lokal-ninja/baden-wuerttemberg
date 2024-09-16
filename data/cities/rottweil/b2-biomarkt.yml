@@ -1,11 +1,11 @@
 id: 136753756
-type: way
+type: node
 latitude: 48.16013
 longitude: 8.63155
 postcode: "78628"
 city: Rottweil
-street: "Heerstraße"
-housenumber: 44
+street: Heerstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su off
 website: ""

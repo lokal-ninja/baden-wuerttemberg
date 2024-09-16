@@ -4,8 +4,8 @@ latitude: 49.04767
 longitude: 8.73309
 postcode: "75015"
 city: Bretten
-street: "Gewerbestraße"
-housenumber: 33
-phone: "+49 7252 93760"
-opening_hours: "Mo 06:00-13:00; Tu-Fr 06:00-14:00; Sa 08:00-11:00; Su off"
-website: "https://www.foerster-fleisch.com/"
+street: Gewerbestraße
+housenumber: "33"
+phone: +49 7252 93760
+opening_hours: Mo 06:00-13:00; Tu-Fr 06:00-14:00; Sa 08:00-11:00; Su off
+website: https://www.foerster-fleisch.com/

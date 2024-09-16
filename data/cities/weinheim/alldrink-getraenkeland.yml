@@ -4,8 +4,8 @@ latitude: 49.54642
 longitude: 8.65601
 postcode: "69469"
 city: Weinheim
-street: "Cavaillonstraße"
-housenumber: 11
-phone: "+49 6201 843324"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-15:00; Su,PH off"
-website: "https://alldrink.de/filiale/"
+street: Cavaillonstraße
+housenumber: "11"
+phone: +49 6201 843324
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-15:00; Su,PH off
+website: https://alldrink.de/filiale/

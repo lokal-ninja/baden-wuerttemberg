@@ -1,11 +1,11 @@
 id: 997972317
-type: way
+type: node
 latitude: 47.56762
 longitude: 8.08586
 postcode: "79725"
 city: Laufenburg (Baden)
-street: "Gehrengrabenstraße"
-housenumber: 2
+street: Gehrengrabenstraße
+housenumber: "2"
 phone: "+4977638049680"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 10:00-16:00"
-website: "http://e-biker.de/"
+opening_hours: Tu-Fr 09:00-19:00; Sa 10:00-16:00
+website: http://e-biker.de/

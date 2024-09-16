@@ -1,11 +1,11 @@
 id: 92696335
-type: way
+type: node
 latitude: 47.66878
 longitude: 9.56018
 postcode: "88069"
 city: Tettnang
-street: "Hopfenstraße"
-housenumber: 2
+street: Hopfenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 99621163
-type: way
+type: node
 latitude: 48.57135
 longitude: 8.87598
 postcode: "71083"
 city: Herrenberg
-street: "Nebringer Straße"
-housenumber: 2
-phone: "+49 7032 992425"
-opening_hours: "Mo-Tu,Th-Sa 09:30-12:00; Mo-Tu,Th-Fr 15:00-17:30"
-website: "https://www.muehle-unsoeld.de"
+street: Nebringer Straße
+housenumber: "2"
+phone: +49 7032 992425
+opening_hours: Mo-Tu,Th-Sa 09:30-12:00; Mo-Tu,Th-Fr 15:00-17:30
+website: https://www.muehle-unsoeld.de

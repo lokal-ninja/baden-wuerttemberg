@@ -1,11 +1,11 @@
 id: 100145798
-type: way
+type: node
 latitude: 48.84335
 longitude: 9.13819
 postcode: "70435"
 city: Stuttgart
-street: "Schwieberdinger Straße"
-housenumber: 230
+street: Schwieberdinger Straße
+housenumber: "230"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

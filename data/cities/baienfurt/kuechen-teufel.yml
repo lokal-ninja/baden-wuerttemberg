@@ -1,11 +1,11 @@
 id: 401824842
-type: way
+type: node
 latitude: 47.82798
 longitude: 9.64067
 postcode: "88255"
 city: Baienfurt
-street: "Niederbieger Straße"
-housenumber: 43
-phone: "+49 751 59990"
+street: Niederbieger Straße
+housenumber: "43"
+phone: +49 751 59990
 opening_hours: ""
 website: ""

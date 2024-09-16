@@ -4,8 +4,8 @@ latitude: 48.80395
 longitude: 9.09063
 postcode: "70499"
 city: Stuttgart
-street: "Krötenweg"
-housenumber: 3
+street: Krötenweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa 07:00-22:00"
+opening_hours: Mo-Fr 08:00-22:00; Sa 07:00-22:00
 website: ""

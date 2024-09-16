@@ -1,11 +1,11 @@
 id: 122164698
-type: way
+type: node
 latitude: 48.99749
 longitude: 8.3605
 postcode: "76185"
 city: Karlsruhe
-street: "Herrmann-Leichtlin-Straße"
-housenumber: 13
+street: Herrmann-Leichtlin-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

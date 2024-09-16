@@ -4,8 +4,8 @@ latitude: 49.12556
 longitude: 8.59693
 postcode: "76646"
 city: Bruchsal
-street: "Kaiserstraße"
-housenumber: 30
-phone: "+49 7251 384800"
-opening_hours: "Sa 09:00-16:00; Mo-Fr 09:30-18:30"
-website: "http://www.braunbarth.de/"
+street: Kaiserstraße
+housenumber: "30"
+phone: +49 7251 384800
+opening_hours: Sa 09:00-16:00; Mo-Fr 09:30-18:30
+website: http://www.braunbarth.de/

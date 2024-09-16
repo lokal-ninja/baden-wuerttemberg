@@ -1,11 +1,11 @@
 id: 89218934
-type: way
+type: node
 latitude: 48.78579
 longitude: 10.11661
 postcode: "73447"
 city: Oberkochen
-street: "Röchlingstraße"
-housenumber: 16
+street: Röchlingstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

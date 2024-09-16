@@ -4,8 +4,8 @@ latitude: 49.35941
 longitude: 8.81387
 postcode: "69257"
 city: Wiesenbach
-street: "Hauptstraße"
-housenumber: 92
+street: Hauptstraße
+housenumber: "92"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://derhaarfluesterer.de/"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://derhaarfluesterer.de/

@@ -4,8 +4,8 @@ latitude: 49.55366
 longitude: 8.67514
 postcode: "69469"
 city: Weinheim
-street: "Hauptstraße"
-housenumber: 4
-phone: "+49 6201 3890072"
-opening_hours: "Th-Sa 12-17:30"
-website: "https://caramel-weinheim.de"
+street: Hauptstraße
+housenumber: "4"
+phone: +49 6201 3890072
+opening_hours: Th-Sa 12-17:30
+website: https://caramel-weinheim.de

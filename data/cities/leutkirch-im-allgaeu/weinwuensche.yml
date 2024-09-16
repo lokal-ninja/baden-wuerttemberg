@@ -4,8 +4,9 @@ latitude: 47.8272
 longitude: 10.02337
 postcode: "88299"
 city: Leutkirch im Allgäu
-street: "Bachstraße"
-housenumber: 8
-phone: "+49 7561 3434"
-opening_hours: "Mo 10:00-12:30; Tu-We,Su off; Th 10:00-12:30,16:00-22:00; Fr 10:00-12:30,16:00-23:00; Sa 10:00-13:00,17:30-23:00"
-website: "https://weinwünsche.de/"
+street: Bachstraße
+housenumber: "8"
+phone: +49 7561 3434
+opening_hours: Mo 10:00-12:30; Tu-We,Su off; Th 10:00-12:30,16:00-22:00; Fr 10:00-12:30,16:00-23:00;
+    Sa 10:00-13:00,17:30-23:00
+website: https://weinwünsche.de/

@@ -4,8 +4,8 @@ latitude: 48.74851
 longitude: 9.17
 postcode: "70597"
 city: Stuttgart
-street: "Epplestraße"
-housenumber: 5
-phone: "+49 711 760621"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
-website: "https://www.glotz.de/"
+street: Epplestraße
+housenumber: "5"
+phone: +49 711 760621
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00
+website: https://www.glotz.de/

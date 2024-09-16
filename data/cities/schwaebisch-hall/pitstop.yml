@@ -1,11 +1,11 @@
 id: 503412779
-type: way
+type: node
 latitude: 49.12104
 longitude: 9.73714
 postcode: "74523"
 city: Schwäbisch Hall
-street: "Heilbronner Straße"
-housenumber: 25
+street: Heilbronner Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

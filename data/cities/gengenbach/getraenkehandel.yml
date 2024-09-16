@@ -1,11 +1,11 @@
 id: 345752634
-type: way
+type: node
 latitude: 48.39709
 longitude: 8.02612
 postcode: "77723"
 city: Gengenbach
-street: "Brambachstraße"
-housenumber: 29
+street: Brambachstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

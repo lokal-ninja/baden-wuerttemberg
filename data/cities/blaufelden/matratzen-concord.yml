@@ -1,11 +1,11 @@
 id: 417791184
-type: way
+type: node
 latitude: 49.29611
 longitude: 9.97214
 postcode: "74572"
 city: Blaufelden
-street: "Hauptstraße"
-housenumber: 22
+street: Hauptstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

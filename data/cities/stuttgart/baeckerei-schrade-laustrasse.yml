@@ -4,8 +4,8 @@ latitude: 48.7433
 longitude: 9.15369
 postcode: "70597"
 city: Stuttgart
-street: "Laustraße"
-housenumber: 22
+street: Laustraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su,PH off
 website: ""

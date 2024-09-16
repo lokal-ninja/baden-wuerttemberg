@@ -1,11 +1,11 @@
 id: 186924910
-type: way
+type: node
 latitude: 48.46869
 longitude: 8.50019
 postcode: "72280"
 city: Dornstetten
-street: "Hauptstraße"
-housenumber: 34
+street: Hauptstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

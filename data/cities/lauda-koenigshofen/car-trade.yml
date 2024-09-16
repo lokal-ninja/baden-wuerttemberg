@@ -1,11 +1,11 @@
 id: 392723865
-type: way
+type: node
 latitude: 49.52894
 longitude: 9.74441
 postcode: "97922"
 city: Lauda-Königshofen
-street: "Bildweg"
-housenumber: 2
+street: Bildweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 281880123
-type: way
+type: node
 latitude: 49.29946
 longitude: 8.6443
 postcode: "69190"
 city: Walldorf
-street: "Bahnhofstraße"
-housenumber: 32
+street: Bahnhofstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

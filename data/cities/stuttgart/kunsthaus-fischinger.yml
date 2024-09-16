@@ -4,8 +4,8 @@ latitude: 48.77436
 longitude: 9.18214
 postcode: "70182"
 city: Stuttgart
-street: "Esslinger Straße"
-housenumber: 20
-phone: "+49 711 232990"
-opening_hours: "Tu-Fr 10:30-18:00; Sa 10:30-16:00"
-website: "https://www.galeriefischinger.de/"
+street: Esslinger Straße
+housenumber: "20"
+phone: +49 711 232990
+opening_hours: Tu-Fr 10:30-18:00; Sa 10:30-16:00
+website: https://www.galeriefischinger.de/

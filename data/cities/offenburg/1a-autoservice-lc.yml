@@ -1,11 +1,11 @@
 id: 154151724
-type: way
+type: node
 latitude: 48.48862
 longitude: 7.94933
 postcode: "77652"
 city: Offenburg
-street: "Okenstraße"
-housenumber: 286
+street: Okenstraße
+housenumber: "286"
 phone: ""
 opening_hours: ""
-website: "https://lc.go1a.de/"
+website: https://lc.go1a.de/

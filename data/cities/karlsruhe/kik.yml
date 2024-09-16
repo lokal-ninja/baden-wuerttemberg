@@ -4,8 +4,8 @@ latitude: 49.00987
 longitude: 8.401
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 94
+street: Kaiserstraße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://www.kik.de/filialfinder/5801/Karlsruhe"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://www.kik.de/filialfinder/5801/Karlsruhe

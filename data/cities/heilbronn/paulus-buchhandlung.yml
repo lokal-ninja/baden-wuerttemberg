@@ -4,8 +4,8 @@ latitude: 49.14416
 longitude: 9.23199
 postcode: "74076"
 city: Heilbronn
-street: "Goethestraße"
-housenumber: 38
+street: Goethestraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.paulus-verlag.de/"
+website: https://www.paulus-verlag.de/

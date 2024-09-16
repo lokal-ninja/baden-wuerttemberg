@@ -4,8 +4,8 @@ latitude: 49.07689
 longitude: 8.37824
 postcode: ""
 city: Eggenstein-Leopoldshafen
-street: "Boschstraße"
-housenumber: 4
-phone: "+49 721 78316622"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-16:00"
-website: "https://sprudelmannheimathafen.de/"
+street: Boschstraße
+housenumber: "4"
+phone: +49 721 78316622
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-16:00
+website: https://sprudelmannheimathafen.de/

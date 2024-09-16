@@ -1,11 +1,11 @@
 id: 128134974
-type: way
+type: node
 latitude: 47.56571
 longitude: 8.08001
 postcode: "79725"
 city: Laufenburg (Baden)
-street: "Heinrich-Brockmann-Straße"
-housenumber: 6
+street: Heinrich-Brockmann-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

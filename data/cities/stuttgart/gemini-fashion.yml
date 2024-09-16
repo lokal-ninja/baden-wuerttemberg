@@ -4,8 +4,8 @@ latitude: 48.77724
 longitude: 9.16876
 postcode: "70174"
 city: Stuttgart
-street: "Fritz-Elsas-Straße"
-housenumber: 50
-phone: "+49 (0) 711 293668"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "http://gemini-fashion.de"
+street: Fritz-Elsas-Straße
+housenumber: "50"
+phone: +49 (0) 711 293668
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: http://gemini-fashion.de

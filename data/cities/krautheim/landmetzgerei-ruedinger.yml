@@ -1,11 +1,11 @@
 id: 67272137
-type: way
+type: node
 latitude: 49.37964
 longitude: 9.63272
 postcode: "74238"
 city: Krautheim
-street: "Jagststraße"
-housenumber: 5
+street: Jagststraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

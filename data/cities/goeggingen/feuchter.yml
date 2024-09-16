@@ -1,11 +1,11 @@
 id: 199504491
-type: way
+type: node
 latitude: 48.85467
 longitude: 9.88097
 postcode: "73571"
 city: Göggingen
-street: "Brunnenäcker"
-housenumber: 4
+street: Brunnenäcker
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:15-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:15-18:00; Sa 08:00-12:00
 website: ""

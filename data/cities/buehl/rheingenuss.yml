@@ -1,11 +1,11 @@
 id: 61489595
-type: way
+type: node
 latitude: 48.71778
 longitude: 8.06295
 postcode: "77815"
 city: Bühl
-street: "Mooser Straße"
-housenumber: 41
+street: Mooser Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

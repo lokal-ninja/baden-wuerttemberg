@@ -1,11 +1,11 @@
 id: 89825831
-type: way
+type: node
 latitude: 47.9648
 longitude: 8.50884
 postcode: "78166"
 city: Donaueschingen
-street: "Raiffeisenstraße"
-housenumber: 62
-phone: "+49 7654 8677"
+street: Raiffeisenstraße
+housenumber: "62"
+phone: +49 7654 8677
 opening_hours: ""
-website: "https://www.steiger-dach-fassade.de/"
+website: https://www.steiger-dach-fassade.de/

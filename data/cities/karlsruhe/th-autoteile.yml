@@ -4,8 +4,8 @@ latitude: 49.00098
 longitude: 8.35194
 postcode: "76185"
 city: Karlsruhe
-street: "Durmersheimer Straße"
-housenumber: 79
-phone: "+49 721 94268934"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 09:00-12:00; PH off"
-website: "https://www.th-autoteile-ka.de/"
+street: Durmersheimer Straße
+housenumber: "79"
+phone: +49 721 94268934
+opening_hours: Mo-Fr 08:30-17:00; Sa 09:00-12:00; PH off
+website: https://www.th-autoteile-ka.de/

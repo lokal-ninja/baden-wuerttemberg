@@ -1,11 +1,11 @@
 id: 236128525
-type: way
+type: node
 latitude: 47.98685
 longitude: 7.80107
 postcode: "79111"
 city: Freiburg im Breisgau
-street: "Friedrich-Neff-Straße"
-housenumber: 2
+street: Friedrich-Neff-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "08:00-18:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: 08:00-18:00; Sa 09:00-13:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.46926
 longitude: 8.47786
 postcode: "72280"
 city: Dornstetten
-street: "Grüntaler Straße"
-housenumber: 2
-phone: "+49 7443 2409056"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00"
-website: "https://baeckerei-maser.de/"
+street: Grüntaler Straße
+housenumber: "2"
+phone: +49 7443 2409056
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-11:00
+website: https://baeckerei-maser.de/

@@ -1,11 +1,11 @@
 id: 121619981
-type: way
+type: node
 latitude: 47.75582
 longitude: 8.86824
 postcode: "78224"
 city: Singen (Hohentwiel)
-street: "Carl-Benz-Straße"
-housenumber: 22
-phone: "+49 7731 87580"
-opening_hours: "Mo-Sa 09:30-19:00; PH off"
-website: "https://www.braun-moebel.de/"
+street: Carl-Benz-Straße
+housenumber: "22"
+phone: +49 7731 87580
+opening_hours: Mo-Sa 09:30-19:00; PH off
+website: https://www.braun-moebel.de/

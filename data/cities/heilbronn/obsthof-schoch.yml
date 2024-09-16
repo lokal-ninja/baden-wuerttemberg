@@ -1,11 +1,11 @@
 id: 79119883
-type: way
+type: node
 latitude: 49.17391
 longitude: 9.20061
 postcode: "74078"
 city: Heilbronn
-street: "Böllinger Straße"
-housenumber: 37
+street: Böllinger Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

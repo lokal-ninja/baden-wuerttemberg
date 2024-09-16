@@ -1,11 +1,11 @@
 id: 137228084
-type: way
+type: node
 latitude: 48.44207
 longitude: 9.25107
 postcode: "72805"
 city: Lichtenstein
-street: "Gutenbergstraße"
-housenumber: 16
+street: Gutenbergstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

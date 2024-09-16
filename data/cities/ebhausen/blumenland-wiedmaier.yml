@@ -1,11 +1,11 @@
 id: 931139047
-type: way
+type: node
 latitude: 48.57924
 longitude: 8.68623
 postcode: ""
 city: Ebhausen
-street: "Uferstraße"
-housenumber: 2
+street: Uferstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.blumenland-wiedmaier.de/"
+website: https://www.blumenland-wiedmaier.de/

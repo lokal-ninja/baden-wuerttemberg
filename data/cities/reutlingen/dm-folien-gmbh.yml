@@ -4,8 +4,8 @@ latitude: 48.49488
 longitude: 9.15117
 postcode: "72770"
 city: Reutlingen
-street: "Markwiesenstraße"
-housenumber: 33
+street: Markwiesenstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa off; Su off; PH off"
-website: "https://www.dm-folien.com/"
+opening_hours: Mo-Fr 08:00-17:00; Sa off; Su off; PH off
+website: https://www.dm-folien.com/

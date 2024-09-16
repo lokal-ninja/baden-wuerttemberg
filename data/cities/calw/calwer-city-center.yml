@@ -1,11 +1,11 @@
 id: 296313322
-type: way
+type: node
 latitude: 48.7132
 longitude: 8.74551
 postcode: "75365"
 city: Calw
-street: "Stuttgarter Straße"
-housenumber: 14
+street: Stuttgarter Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

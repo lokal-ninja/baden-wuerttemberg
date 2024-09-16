@@ -1,11 +1,11 @@
 id: 333547762
-type: way
+type: node
 latitude: 49.24677
 longitude: 8.50336
 postcode: "68753"
 city: Waghäusel
-street: "Mannheimer Straße"
-housenumber: 138
+street: Mannheimer Straße
+housenumber: "138"
 phone: ""
 opening_hours: ""
-website: "https://www.deichmann.com/"
+website: https://www.deichmann.com/

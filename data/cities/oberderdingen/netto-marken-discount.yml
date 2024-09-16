@@ -1,11 +1,11 @@
 id: 34237510
-type: way
+type: node
 latitude: 49.05893
 longitude: 8.79508
 postcode: "75038"
 city: Oberderdingen
-street: "Schillerstraße"
-housenumber: 59
+street: Schillerstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

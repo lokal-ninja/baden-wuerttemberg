@@ -1,11 +1,11 @@
 id: 784949747
-type: way
+type: node
 latitude: 48.41427
 longitude: 9.48917
 postcode: "72525"
 city: Münsingen
-street: "Lichtensteinstraße"
-housenumber: 32
+street: Lichtensteinstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-18:00"
-website: "https://jysk.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:30-18:00
+website: https://jysk.de/

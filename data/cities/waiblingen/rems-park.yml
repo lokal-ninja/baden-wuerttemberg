@@ -1,11 +1,11 @@
 id: 28785353
-type: way
+type: node
 latitude: 48.81825
 longitude: 9.30037
 postcode: "71332"
 city: Waiblingen
-street: "Ruhrstraße"
-housenumber: 5
+street: Ruhrstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

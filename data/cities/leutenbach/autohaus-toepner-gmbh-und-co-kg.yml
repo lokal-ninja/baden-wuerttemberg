@@ -1,11 +1,11 @@
 id: 354141016
-type: way
+type: node
 latitude: 48.90058
 longitude: 9.41662
 postcode: "71397"
 city: Leutenbach
-street: "Maybachstraße"
-housenumber: 9
-phone: "+49 7195 583540"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"
-website: "https://www.autohaus-toepner.de/"
+street: Maybachstraße
+housenumber: "9"
+phone: +49 7195 583540
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00
+website: https://www.autohaus-toepner.de/

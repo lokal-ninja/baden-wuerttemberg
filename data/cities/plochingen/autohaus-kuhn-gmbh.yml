@@ -1,11 +1,11 @@
 id: 254648572
-type: way
+type: node
 latitude: 48.71558
 longitude: 9.41434
 postcode: "73207"
 city: Plochingen
-street: "Karlstraße"
-housenumber: 29
+street: Karlstraße
+housenumber: "29"
 phone: "+49715389088"
 opening_hours: ""
-website: "http://www.opel-kuhn.de/"
+website: http://www.opel-kuhn.de/

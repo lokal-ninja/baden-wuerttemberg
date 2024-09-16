@@ -4,8 +4,8 @@ latitude: 48.78333
 longitude: 9.25325
 postcode: "70327"
 city: Stuttgart
-street: "Wallmerstraße"
-housenumber: 22
-phone: "+49 711 332270"
-opening_hours: "Termin nach Vereinbarung"
+street: Wallmerstraße
+housenumber: "22"
+phone: +49 711 332270
+opening_hours: '"Termin nach Vereinbarung"'
 website: ""

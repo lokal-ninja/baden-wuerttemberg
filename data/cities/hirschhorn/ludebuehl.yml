@@ -1,11 +1,11 @@
 id: 174167478
-type: way
+type: node
 latitude: 49.44972
 longitude: 8.89514
 postcode: "69434"
 city: Hirschhorn
-street: "Hainbrunner Straße"
-housenumber: 16
-phone: "+49 6272 2130"
+street: Hainbrunner Straße
+housenumber: "16"
+phone: +49 6272 2130
 opening_hours: ""
 website: ""

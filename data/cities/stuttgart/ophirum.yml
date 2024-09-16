@@ -4,8 +4,8 @@ latitude: 48.77082
 longitude: 9.15964
 postcode: "70178"
 city: Stuttgart
-street: "Rotebühlstraße"
-housenumber: 121
+street: Rotebühlstraße
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:30"
-website: "http://www.ophirum-stuttgart.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:30
+website: http://www.ophirum-stuttgart.de/

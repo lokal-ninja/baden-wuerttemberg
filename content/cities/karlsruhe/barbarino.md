@@ -1,5 +1,5 @@
 ---
-title: "Barbarino."
+title: "Barbarino"
 url: /karlsruhe/barbarino/
-shop: Tabak
+shop: Zeitungen
 ---

@@ -1,11 +1,11 @@
 id: 199025227
-type: way
+type: node
 latitude: 49.01817
 longitude: 8.74933
 postcode: "75438"
 city: Knittlingen
-street: "Im Gröner"
-housenumber: 1
-phone: "+49 7043 957970"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00; Su off"
-website: "https://www.motorradcenter-benedini.com/"
+street: Im Gröner
+housenumber: "1"
+phone: +49 7043 957970
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00; Su off
+website: https://www.motorradcenter-benedini.com/

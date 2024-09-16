@@ -1,11 +1,11 @@
 id: 158903578
-type: way
+type: node
 latitude: 48.56113
 longitude: 9.20469
 postcode: "72124"
 city: Pliezhausen
-street: "Bachenbergstraße"
-housenumber: 55
+street: Bachenbergstraße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.39363
 longitude: 8.56641
 postcode: "68723"
 city: Schwetzingen
-street: "Friedrich-Ebert-Straße"
-housenumber: 76
-phone: "+49 6202 17260"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30"
+street: Friedrich-Ebert-Straße
+housenumber: "76"
+phone: +49 6202 17260
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:30
 website: ""

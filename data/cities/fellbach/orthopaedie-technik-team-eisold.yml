@@ -4,8 +4,8 @@ latitude: 48.81409
 longitude: 9.27285
 postcode: "70736"
 city: Fellbach
-street: "Stuttgarter Straße"
-housenumber: 12
+street: Stuttgarter Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://eisold-im-www.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://eisold-im-www.de/

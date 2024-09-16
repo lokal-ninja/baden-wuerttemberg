@@ -1,11 +1,11 @@
 id: 298866372
-type: way
+type: node
 latitude: 49.52575
 longitude: 8.56283
 postcode: "68519"
 city: Viernheim
-street: "Robert-Schuman-Straße"
+street: Robert-Schuman-Straße
 housenumber: 8a
-phone: "+49 6204 7047777"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.rassa.de/viernheim/"
+phone: +49 6204 7047777
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.rassa.de/viernheim/

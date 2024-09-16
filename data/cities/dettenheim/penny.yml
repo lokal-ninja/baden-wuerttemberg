@@ -1,11 +1,11 @@
 id: 38084269
-type: way
+type: node
 latitude: 49.17617
 longitude: 8.42582
 postcode: "76706"
 city: Dettenheim
-street: "Liedolsheimer Straße"
-housenumber: 27
+street: Liedolsheimer Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

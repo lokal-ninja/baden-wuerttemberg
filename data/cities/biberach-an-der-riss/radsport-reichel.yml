@@ -4,8 +4,8 @@ latitude: 48.09493
 longitude: 9.78771
 postcode: "88400"
 city: Biberach an der Riß
-street: "Kolpingstraße"
-housenumber: 21
-phone: "+49 7351 9200"
-opening_hours: "Mo-We,Fr 09:00-12:00,14:00-18:00; Th,Sa 9:00-12:30; PH off"
-website: "https://www.radsportreichel.com"
+street: Kolpingstraße
+housenumber: "21"
+phone: +49 7351 9200
+opening_hours: Mo-We,Fr 09:00-12:00,14:00-18:00; Th,Sa 9:00-12:30; PH off
+website: https://www.radsportreichel.com

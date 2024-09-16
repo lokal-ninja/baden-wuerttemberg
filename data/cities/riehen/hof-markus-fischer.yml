@@ -4,8 +4,9 @@ latitude: 47.58223
 longitude: 7.66866
 postcode: "4125"
 city: Riehen
-street: "Leimgrubenweg"
-housenumber: 97
-phone: "+41 61 641 48 26"
-opening_hours: "nach Vereinbarung, Kirschen während der Saison täglich am Riehener Wochenmarkt"
-website: "https://www.fischer-multiwork.ch/"
+street: Leimgrubenweg
+housenumber: "97"
+phone: +41 61 641 48 26
+opening_hours: nach Vereinbarung, Kirschen während der Saison täglich am Riehener
+    Wochenmarkt
+website: https://www.fischer-multiwork.ch/

@@ -1,11 +1,11 @@
 id: 939340467
-type: way
+type: node
 latitude: 48.69372
 longitude: 9.66666
 postcode: "73037"
 city: Göppingen
-street: "Holzheimer Straße"
-housenumber: 
-phone: "+49 7161 6210"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00"
-website: "https://www.moebel-rieger.de/"
+street: Holzheimer Straße
+housenumber: ""
+phone: +49 7161 6210
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-18:00
+website: https://www.moebel-rieger.de/

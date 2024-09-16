@@ -4,8 +4,8 @@ latitude: 48.97821
 longitude: 9.5822
 postcode: "71540"
 city: Murrhardt
-street: "Fornsbacher Straße"
-housenumber: 8
-phone: "+49 7192 7791"
-opening_hours: "Mo-Fr 09:30-13:15 , 14:45-18:00, Sa nach Absprache"
-website: "http://www.kuechenshop-pfizenmaier.de"
+street: Fornsbacher Straße
+housenumber: "8"
+phone: +49 7192 7791
+opening_hours: Mo-Fr 09:30-13:15 , 14:45-18:00, Sa "nach Absprache"
+website: http://www.kuechenshop-pfizenmaier.de

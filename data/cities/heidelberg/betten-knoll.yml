@@ -1,11 +1,11 @@
 id: 89600590
-type: way
+type: node
 latitude: 49.36662
 longitude: 8.68279
 postcode: "69126"
 city: Heidelberg
-street: "Englerstraße"
-housenumber: 3
+street: Englerstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 127805328
-type: way
+type: node
 latitude: 48.333
 longitude: 7.84509
 postcode: "77933"
 city: Lahr/Schwarzwald
-street: "Im Götzmann"
-housenumber: 9
+street: Im Götzmann
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH Su off"
+opening_hours: Mo-Sa 08:00-20:00; PH Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 209415305
-type: way
+type: node
 latitude: 48.07323
 longitude: 9.94865
 postcode: "88416"
 city: Ochsenhausen
-street: "Biberacher Straße"
-housenumber: 6
+street: Biberacher Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 93856068
-type: way
+type: node
 latitude: 49.14532
 longitude: 9.05573
 postcode: "74193"
 city: Schwaigern
-street: "Weststraße"
-housenumber: 1
+street: Weststraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

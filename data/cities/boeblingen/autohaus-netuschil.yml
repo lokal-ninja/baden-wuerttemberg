@@ -1,11 +1,11 @@
 id: 195542290
-type: way
+type: node
 latitude: 48.68248
 longitude: 8.99768
 postcode: "71034"
 city: Böblingen
-street: "Herrenberger Straße"
-housenumber: 60
+street: Herrenberger Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00"
-website: "https://www.netuschil.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:00
+website: https://www.netuschil.de/

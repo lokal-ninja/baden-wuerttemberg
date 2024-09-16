@@ -5,7 +5,7 @@ longitude: 8.46825
 postcode: ""
 city: Mannheim
 street: ""
-housenumber: 18
-phone: "+49 621 14085"
+housenumber: "18"
+phone: +49 621 14085
 opening_hours: ""
-website: "http://www.galerie-artu.de/"
+website: http://www.galerie-artu.de/

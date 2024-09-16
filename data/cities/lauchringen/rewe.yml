@@ -1,11 +1,11 @@
 id: 397591389
-type: way
+type: node
 latitude: 47.63142
 longitude: 8.29854
 postcode: "79787"
 city: Lauchringen
-street: "Hauptstraße"
-housenumber: 87
-phone: "+49 7741 670644"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+street: Hauptstraße
+housenumber: "87"
+phone: +49 7741 670644
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

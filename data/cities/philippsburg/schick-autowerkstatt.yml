@@ -1,11 +1,11 @@
 id: 211691826
-type: way
+type: node
 latitude: 49.2016
 longitude: 8.45374
 postcode: "76661"
 city: Philippsburg
-street: "Im Schorrenfeld"
-housenumber: 3
+street: Im Schorrenfeld
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

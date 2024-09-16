@@ -1,11 +1,11 @@
 id: 338995980
-type: way
+type: node
 latitude: 48.23273
 longitude: 9.70527
 postcode: ""
 city: Rottenacker
-street: "Riedstraße"
-housenumber: 11
-phone: "+49 7393 917489"
+street: Riedstraße
+housenumber: "11"
+phone: +49 7393 917489
 opening_hours: ""
 website: ""

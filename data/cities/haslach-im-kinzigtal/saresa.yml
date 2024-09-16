@@ -4,8 +4,8 @@ latitude: 48.277
 longitude: 8.08793
 postcode: "77716"
 city: Haslach im Kinzigtal
-street: "Hauptstraße"
-housenumber: 32
-phone: "+49 7832 975090"
-opening_hours: "Mo,Tu,Th,Fr 09:15-12:30, Mo-Fr 14:30-18:00, We 09:30-12:30, Sa 09:15-14:00"
-website: "https://www.saresa.org/"
+street: Hauptstraße
+housenumber: "32"
+phone: +49 7832 975090
+opening_hours: Mo,Tu,Th,Fr 09:15-12:30, Mo-Fr 14:30-18:00, We 09:30-12:30, Sa 09:15-14:00
+website: https://www.saresa.org/

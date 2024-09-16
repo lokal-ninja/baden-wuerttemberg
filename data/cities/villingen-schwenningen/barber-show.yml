@@ -4,8 +4,8 @@ latitude: 48.05929
 longitude: 8.46304
 postcode: "78050"
 city: Villingen-Schwenningen
-street: "Kaiserring"
-housenumber: 1
+street: Kaiserring
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

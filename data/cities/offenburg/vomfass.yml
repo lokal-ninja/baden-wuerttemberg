@@ -4,8 +4,8 @@ latitude: 48.46921
 longitude: 7.94531
 postcode: "77652"
 city: Offenburg
-street: "Steinstraße"
-housenumber: 28
-phone: "+49 781 20396449"
-opening_hours: "Mo,We-Fr 10:00-18:00; Tu 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.vomfass.de/offenburg/"
+street: Steinstraße
+housenumber: "28"
+phone: +49 781 20396449
+opening_hours: Mo,We-Fr 10:00-18:00; Tu 09:00-18:00; Sa 09:00-16:00
+website: https://www.vomfass.de/offenburg/

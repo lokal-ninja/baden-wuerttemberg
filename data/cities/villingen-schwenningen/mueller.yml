@@ -4,8 +4,8 @@ latitude: 48.06295
 longitude: 8.53464
 postcode: "78054"
 city: Villingen-Schwenningen
-street: "Kronenstraße"
-housenumber: 21
-phone: "+49 7720 995878 0"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-18:00; Dec 24 Mo-Sa 08:00-14:00; PH off"
-website: "https://www.mueller.de/"
+street: Kronenstraße
+housenumber: "21"
+phone: +49 7720 995878 0
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:00-18:00; Dec 24 Mo-Sa 08:00-14:00; PH off
+website: https://www.mueller.de/

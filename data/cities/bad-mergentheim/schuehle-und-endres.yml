@@ -1,11 +1,11 @@
 id: 854526501
-type: way
+type: node
 latitude: 49.48977
 longitude: 9.77279
 postcode: "97980"
 city: Bad Mergentheim
-street: "Hans-Heinrich-Ehrler-Platz"
-housenumber: 26
+street: Hans-Heinrich-Ehrler-Platz
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.01113
 longitude: 8.41411
 postcode: "76131"
 city: Karlsruhe
-street: "Engesserstraße"
-housenumber: 17
-phone: "+49 721 608 48471"
-opening_hours: "Mo-Fr 09:30-14:30"
-website: "https://www.asta-kit.de/druckerei"
+street: Engesserstraße
+housenumber: "17"
+phone: +49 721 608 48471
+opening_hours: Mo-Fr 09:30-14:30
+website: https://www.asta-kit.de/druckerei

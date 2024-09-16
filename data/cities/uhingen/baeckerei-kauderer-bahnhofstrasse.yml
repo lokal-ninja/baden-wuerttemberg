@@ -1,11 +1,11 @@
 id: 202353069
-type: way
+type: node
 latitude: 48.70782
 longitude: 9.58363
 postcode: "73066"
 city: Uhingen
-street: "Bahnhofstraße"
-housenumber: 7
+street: Bahnhofstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-14:00; Su 08:00-17:00"
-website: "https://www.baeckerei-kauderer.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-14:00; Su 08:00-17:00
+website: https://www.baeckerei-kauderer.de/

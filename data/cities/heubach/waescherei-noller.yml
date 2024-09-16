@@ -4,8 +4,9 @@ latitude: 48.79055
 longitude: 9.93508
 postcode: "73540"
 city: Heubach
-street: "Hauptstraße"
-housenumber: 19
-phone: "+49 7173 3752"
-opening_hours: "Mo 08:00-12:30, 14:30-18:00; Tu 08:00-12:30, 14:30-18:00; We 08:00-12:30; Th 08:00-12:30, 14:30-18:00; Fr 08:00-12:30, 14:30-18:00; Sa 08:00-12:30"
+street: Hauptstraße
+housenumber: "19"
+phone: +49 7173 3752
+opening_hours: Mo 08:00-12:30, 14:30-18:00; Tu 08:00-12:30, 14:30-18:00; We 08:00-12:30;
+    Th 08:00-12:30, 14:30-18:00; Fr 08:00-12:30, 14:30-18:00; Sa 08:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 106285360
-type: way
+type: node
 latitude: 48.27837
 longitude: 8.09026
 postcode: "77716"
 city: Haslach im Kinzigtal
-street: "Im Spießacker"
-housenumber: 1
+street: Im Spießacker
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-24:00"
+opening_hours: Mo-Sa 07:00-24:00
 website: ""

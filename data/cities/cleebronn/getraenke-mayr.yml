@@ -4,8 +4,9 @@ latitude: 49.04097
 longitude: 9.02626
 postcode: "74389"
 city: Cleebronn
-street: "Steuppergstraße"
+street: Steuppergstraße
 housenumber: 88/1
-phone: "+49 7135 15660"
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:00,16:00-19:00; We 16:00-19:00; Sa 08:00-13:00; Su,PH off"
-website: "https://getraenkemayr.de"
+phone: +49 7135 15660
+opening_hours: Mo,Tu,Th,Fr 08:00-12:00,16:00-19:00; We 16:00-19:00; Sa 08:00-13:00;
+    Su,PH off
+website: https://getraenkemayr.de

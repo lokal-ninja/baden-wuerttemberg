@@ -4,8 +4,8 @@ latitude: 49.49421
 longitude: 9.77395
 postcode: "97980"
 city: Bad Mergentheim
-street: "Johann-Hammer-Straße"
-housenumber: 1
+street: Johann-Hammer-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://woolworth.de"
+website: https://woolworth.de

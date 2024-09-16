@@ -1,11 +1,11 @@
 id: 131856055
-type: way
+type: node
 latitude: 49.47435
 longitude: 8.48453
 postcode: "68165"
 city: Mannheim
-street: "Viehhofstraße"
-housenumber: 23
-phone: "+49 621 4310612"
-opening_hours: "24/7"
-website: "http://www.shell-select.de/stationsfinder/station_details_view.asp?site_id=D02350&adac=1"
+street: Viehhofstraße
+housenumber: "23"
+phone: +49 621 4310612
+opening_hours: 24/7
+website: http://www.shell-select.de/stationsfinder/station_details_view.asp?site_id=D02350&adac=1

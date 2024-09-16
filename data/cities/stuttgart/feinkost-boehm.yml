@@ -4,8 +4,8 @@ latitude: 48.778
 longitude: 9.17628
 postcode: "70173"
 city: Stuttgart
-street: "Kronprinzstraße"
-housenumber: 6
+street: Kronprinzstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr,Sa 09:00-19:00; Su off"
-website: "https://www.feinkost-boehm.de/"
+opening_hours: Mo-Th 10:00-19:00; Fr,Sa 09:00-19:00; Su off
+website: https://www.feinkost-boehm.de/

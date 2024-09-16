@@ -1,11 +1,11 @@
 id: 206008357
-type: way
+type: node
 latitude: 47.71009
 longitude: 7.53199
 postcode: "79415"
 city: Bad Bellingen
-street: "Burgunderstraße"
-housenumber: 9
+street: Burgunderstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 480013885
-type: way
+type: node
 latitude: 48.9391
 longitude: 8.94386
 postcode: "71665"
 city: Vaihingen an der Enz
-street: "Seemühle"
-housenumber: 17
-phone: "+49 7042 92626"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.pflanzenmarkt-seemuehle.de/"
+street: Seemühle
+housenumber: "17"
+phone: +49 7042 92626
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://www.pflanzenmarkt-seemuehle.de/

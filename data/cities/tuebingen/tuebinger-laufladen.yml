@@ -4,8 +4,8 @@ latitude: 48.53049
 longitude: 9.0642
 postcode: "72074"
 city: Tübingen
-street: "Nauklerstraße"
-housenumber: 61
-phone: "+49 7071 7787123"
-opening_hours: "Tu-Fr 12:00-18:00; Sa 10:00-14:00; PH,Su,Mo off"
-website: "http://www.tuebinger-laufladen.de"
+street: Nauklerstraße
+housenumber: "61"
+phone: +49 7071 7787123
+opening_hours: Tu-Fr 12:00-18:00; Sa 10:00-14:00; PH,Su,Mo off
+website: http://www.tuebinger-laufladen.de

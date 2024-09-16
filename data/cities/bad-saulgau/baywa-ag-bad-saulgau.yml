@@ -4,8 +4,8 @@ latitude: 48.0245
 longitude: 9.49725
 postcode: "88348"
 city: Bad Saulgau
-street: "Martin-Staud-Straße"
-housenumber: 24
+street: Martin-Staud-Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.baywa.de/standort/bad_saulgau/"
+website: https://www.baywa.de/standort/bad_saulgau/

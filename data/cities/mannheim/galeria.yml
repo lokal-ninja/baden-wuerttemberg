@@ -1,11 +1,11 @@
 id: 1164341148
-type: way
+type: node
 latitude: 49.48781
 longitude: 8.46643
 postcode: "68161"
 city: Mannheim
 street: ""
-housenumber: 1
-phone: "+49 621 380450"
-opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"
-website: "https://www.galeria-kaufhof.de/filialen/mannheim-paradeplatz/"
+housenumber: "1"
+phone: +49 621 380450
+opening_hours: Mo-Sa 09:30-20:00; Su,PH off
+website: https://www.galeria-kaufhof.de/filialen/mannheim-paradeplatz/

@@ -4,8 +4,8 @@ latitude: 49.01025
 longitude: 8.39281
 postcode: "76133"
 city: Karlsruhe
-street: "Kaiserstraße"
-housenumber: 166
-phone: "+49 721 55900250"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"
-website: "https://storch-beller.de/"
+street: Kaiserstraße
+housenumber: "166"
+phone: +49 721 55900250
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00
+website: https://storch-beller.de/

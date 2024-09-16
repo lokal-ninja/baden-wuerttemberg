@@ -1,11 +1,11 @@
 id: 16602464
-type: way
+type: node
 latitude: 48.88763
 longitude: 9.27134
 postcode: "71686"
 city: Remseck am Neckar
-street: "Neckaraue"
-housenumber: 8
+street: Neckaraue
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://filialen.aldi-sued.de/baden-wuerttemberg/remseck/neckaraue-8"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/remseck/neckaraue-8

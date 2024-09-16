@@ -1,11 +1,11 @@
 id: 219942389
-type: way
+type: node
 latitude: 48.91577
 longitude: 9.37052
 postcode: "71576"
 city: Burgstetten
-street: "Untere Hofstraße"
-housenumber: 24
+street: Untere Hofstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

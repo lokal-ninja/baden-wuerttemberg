@@ -4,8 +4,8 @@ latitude: 48.77136
 longitude: 9.17555
 postcode: "70178"
 city: Stuttgart
-street: "Christophstraße"
-housenumber: 12
+street: Christophstraße
+housenumber: "12"
 phone: "+497116494054"
-opening_hours: "Tu-Fr 13:00-18:00; Sa 10:00-16:00"
-website: "https://lix-stuttgart.de"
+opening_hours: Tu-Fr 13:00-18:00; Sa 10:00-16:00
+website: https://lix-stuttgart.de

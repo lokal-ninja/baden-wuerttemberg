@@ -4,8 +4,8 @@ latitude: 48.58522
 longitude: 8.6074
 postcode: "72213"
 city: Altensteig
-street: "Bahnhofstraße"
-housenumber: 25
-phone: "+49 7453 9320490"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka-rentschler.de/standorte/altensteig/"
+street: Bahnhofstraße
+housenumber: "25"
+phone: +49 7453 9320490
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka-rentschler.de/standorte/altensteig/

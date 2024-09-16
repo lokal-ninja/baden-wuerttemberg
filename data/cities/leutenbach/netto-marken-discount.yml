@@ -1,11 +1,11 @@
 id: 35470476
-type: way
+type: node
 latitude: 48.88434
 longitude: 9.39317
 postcode: "71397"
 city: Leutenbach
-street: "Winnender Straße"
-housenumber: 39
+street: Winnender Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

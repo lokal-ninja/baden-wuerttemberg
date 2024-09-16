@@ -1,11 +1,11 @@
 id: 808708145
-type: way
+type: node
 latitude: 48.67696
 longitude: 8.87241
 postcode: "71134"
 city: Aidlingen
-street: "Hardtheimer Weg"
-housenumber: 7
+street: Hardtheimer Weg
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://aknreifen.de/"
+website: https://aknreifen.de/

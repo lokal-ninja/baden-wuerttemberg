@@ -1,11 +1,11 @@
 id: 223660525
-type: way
+type: node
 latitude: 48.7082
 longitude: 7.96697
 postcode: "77866"
 city: Rheinau
-street: "Dorfstraße"
-housenumber: 125
+street: Dorfstraße
+housenumber: "125"
 phone: ""
-opening_hours: "Mo,Tu,Fr 10:00-13:00,17:00-19:00; Sa 10:00-15:00; We,Th,Su,PH off"
+opening_hours: Mo,Tu,Fr 10:00-13:00,17:00-19:00; Sa 10:00-15:00; We,Th,Su,PH off
 website: ""

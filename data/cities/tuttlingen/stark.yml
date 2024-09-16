@@ -1,11 +1,11 @@
 id: 257804289
-type: way
+type: node
 latitude: 47.99238
 longitude: 8.83056
 postcode: "78532"
 city: Tuttlingen
-street: "Max-Eyth-Straße"
-housenumber: 7
+street: Max-Eyth-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

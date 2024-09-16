@@ -4,8 +4,8 @@ latitude: 49.38292
 longitude: 8.69019
 postcode: "69126"
 city: Heidelberg
-street: "Karlsruher Straße"
-housenumber: 50
-phone: "+49 6221 373837"
-opening_hours: "Mo-Sa 09:00-13:00; Mo-Fr 14:00-18:00; Su,PH off"
+street: Karlsruher Straße
+housenumber: "50"
+phone: +49 6221 373837
+opening_hours: Mo-Sa 09:00-13:00; Mo-Fr 14:00-18:00; Su,PH off
 website: ""

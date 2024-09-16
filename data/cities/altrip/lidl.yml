@@ -1,11 +1,11 @@
 id: 371559234
-type: way
+type: node
 latitude: 49.43164
 longitude: 8.50297
 postcode: "67122"
 city: Altrip
-street: "Ludwigsplatz"
-housenumber: 5
+street: Ludwigsplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/altrip/ludwigsplatz-5.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/altrip/ludwigsplatz-5.html

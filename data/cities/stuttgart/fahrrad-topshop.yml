@@ -4,8 +4,8 @@ latitude: 48.80582
 longitude: 9.2299
 postcode: "70372"
 city: Stuttgart
-street: "Dennerstraße"
-housenumber: 62
+street: Dennerstraße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off
 website: ""

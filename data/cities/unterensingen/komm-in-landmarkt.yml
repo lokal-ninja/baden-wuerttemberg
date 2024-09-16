@@ -4,8 +4,9 @@ latitude: 48.6557
 longitude: 9.35622
 postcode: "72669"
 city: Unterensingen
-street: "Kanalstraße"
+street: Kanalstraße
 housenumber: 1/1
 phone: ""
-opening_hours: "Mo-We 08:00-13:00,14:30-18:30; Th-Fr 08:00-19:00; Sa 08:00-13:00; PH off"
+opening_hours: Mo-We 08:00-13:00,14:30-18:30; Th-Fr 08:00-19:00; Sa 08:00-13:00; PH
+    off
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.13601
 longitude: 8.56931
 postcode: "76646"
 city: Bruchsal
-street: "Kammerforststraße"
-housenumber: 3
-phone: "+49 7251 3020531"
-opening_hours: "Mo-Sa 08:00-20:00; PH,Su off"
-website: "https://www.dm.de/"
+street: Kammerforststraße
+housenumber: "3"
+phone: +49 7251 3020531
+opening_hours: Mo-Sa 08:00-20:00; PH,Su off
+website: https://www.dm.de/

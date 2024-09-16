@@ -1,11 +1,11 @@
 id: 225133447
-type: way
+type: node
 latitude: 48.53044
 longitude: 8.08443
 postcode: "77704"
 city: Oberkirch
-street: "Lohstraße"
-housenumber: 11
+street: Lohstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.hoellberg.de/"
+website: https://www.hoellberg.de/

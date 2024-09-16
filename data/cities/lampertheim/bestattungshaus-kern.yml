@@ -1,11 +1,11 @@
 id: 583430105
-type: way
+type: node
 latitude: 49.59575
 longitude: 8.46318
 postcode: "68623"
 city: Lampertheim
-street: "Römerstraße"
-housenumber: 129
-phone: "+49 6206 2282"
-opening_hours: "Mo-Fr 8:00-17:00,Sa 8:00-12:00"
-website: "http://www.bestattungen-lampertheim.de/"
+street: Römerstraße
+housenumber: "129"
+phone: +49 6206 2282
+opening_hours: Mo-Fr 8:00-17:00,Sa 8:00-12:00
+website: http://www.bestattungen-lampertheim.de/

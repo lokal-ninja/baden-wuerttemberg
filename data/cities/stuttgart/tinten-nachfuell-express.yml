@@ -4,8 +4,8 @@ latitude: 48.77438
 longitude: 9.15592
 postcode: "70197"
 city: Stuttgart
-street: "Schwabstraße"
-housenumber: 81
+street: Schwabstraße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.tinten-express.com/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.tinten-express.com/

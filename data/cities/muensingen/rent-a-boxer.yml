@@ -1,11 +1,11 @@
 id: 177544903
-type: way
+type: node
 latitude: 48.43328
 longitude: 9.44039
 postcode: "72525"
 city: Münsingen
-street: "Schlehenweg"
-housenumber: 8
-phone: "+49 7381 7150135"
+street: Schlehenweg
+housenumber: "8"
+phone: +49 7381 7150135
 opening_hours: ""
-website: "https://rent-a-boxer.com/"
+website: https://rent-a-boxer.com/

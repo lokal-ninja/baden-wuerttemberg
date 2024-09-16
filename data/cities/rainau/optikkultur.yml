@@ -1,11 +1,11 @@
 id: 139834235
-type: way
+type: node
 latitude: 48.90112
 longitude: 10.13241
 postcode: "73492"
 city: Rainau
-street: "Aalener Straße"
-housenumber: 55
+street: Aalener Straße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

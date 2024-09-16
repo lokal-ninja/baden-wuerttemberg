@@ -1,11 +1,11 @@
 id: 34157771
-type: way
+type: node
 latitude: 48.53996
 longitude: 10.22612
 postcode: "89168"
 city: Niederstotzingen
-street: "Theodor-Storm-Straße"
-housenumber: 12
+street: Theodor-Storm-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

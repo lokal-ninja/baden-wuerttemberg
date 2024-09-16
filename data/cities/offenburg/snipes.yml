@@ -4,8 +4,8 @@ latitude: 48.4718
 longitude: 7.94329
 postcode: "77652"
 city: Offenburg
-street: "Hauptstraße"
-housenumber: 33
-phone: "+49 781 97050007"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.snipes.com/storedetails?sid=SDE154"
+street: Hauptstraße
+housenumber: "33"
+phone: +49 781 97050007
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.snipes.com/storedetails?sid=SDE154

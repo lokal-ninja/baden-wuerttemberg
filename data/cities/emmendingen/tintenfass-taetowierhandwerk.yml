@@ -1,11 +1,11 @@
 id: 227674003
-type: way
+type: node
 latitude: 48.12166
 longitude: 7.85253
 postcode: "79312"
 city: Emmendingen
-street: "Hochburger Straße"
-housenumber: 11
+street: Hochburger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 12:00-17:00;PH off"
-website: "https://tintenfass-tattoo.de/"
+opening_hours: Tu-Fr 12:00-17:00;PH off
+website: https://tintenfass-tattoo.de/

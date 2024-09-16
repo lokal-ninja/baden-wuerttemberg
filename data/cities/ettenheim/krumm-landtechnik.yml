@@ -1,11 +1,11 @@
 id: 1248801698
-type: way
+type: node
 latitude: 48.27374
 longitude: 7.78519
 postcode: "77955"
 city: Ettenheim
-street: "Georges-Imbert-Straße"
-housenumber: 2
+street: Georges-Imbert-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

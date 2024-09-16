@@ -4,8 +4,8 @@ latitude: 48.95616
 longitude: 9.1319
 postcode: "74321"
 city: Bietigheim-Bissingen
-street: "Wobachstraße"
-housenumber: 11
+street: Wobachstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

@@ -4,8 +4,8 @@ latitude: 48.77681
 longitude: 8.17967
 postcode: "76547"
 city: Sinzheim
-street: "Industriestraße"
-housenumber: 28
-phone: "+49 7221 3744069"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.deichmann.com/"
+street: Industriestraße
+housenumber: "28"
+phone: +49 7221 3744069
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.deichmann.com/

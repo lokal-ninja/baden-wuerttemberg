@@ -4,8 +4,8 @@ latitude: 48.49552
 longitude: 9.50833
 postcode: "72587"
 city: Römerstein
-street: "Albstraße"
-housenumber: 66
-phone: "+49 7382 246"
-opening_hours: "Mo-Fr 07:00-12:00, 13:00-19:00; Sa 07:00-12:00"
-website: "http://www.auto-füllemann.de"
+street: Albstraße
+housenumber: "66"
+phone: +49 7382 246
+opening_hours: Mo-Fr 07:00-12:00, 13:00-19:00; Sa 07:00-12:00
+website: http://www.auto-füllemann.de

@@ -1,11 +1,11 @@
 id: 143666859
-type: way
+type: node
 latitude: 47.95783
 longitude: 7.7758
 postcode: "79285"
 city: Ebringen
-street: "Schönbergstraße"
-housenumber: 44
+street: Schönbergstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.leonhard-weine.de/"
+website: https://www.leonhard-weine.de/

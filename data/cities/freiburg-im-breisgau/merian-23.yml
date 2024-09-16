@@ -4,8 +4,8 @@ latitude: 47.99813
 longitude: 7.8502
 postcode: "79104"
 city: Freiburg im Breisgau
-street: "Merianstraße"
-housenumber: 23
+street: Merianstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:30; Tu-Fr 14:30-18:00; Sa 10:00-14:00"
-website: "https://merian23.de/"
+opening_hours: Tu-Fr 10:00-13:30; Tu-Fr 14:30-18:00; Sa 10:00-14:00
+website: https://merian23.de/

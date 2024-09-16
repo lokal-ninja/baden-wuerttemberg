@@ -1,11 +1,11 @@
 id: 892798956
-type: way
+type: node
 latitude: 48.02597
 longitude: 7.72266
 postcode: "79112"
 city: Freiburg im Breisgau
-street: "Im Wännele"
-housenumber: 6
+street: Im Wännele
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

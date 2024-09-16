@@ -1,11 +1,11 @@
 id: 47635907
-type: way
+type: node
 latitude: 48.78859
 longitude: 9.02926
 postcode: "71229"
 city: Leonberg
-street: "Ulmer Straße"
-housenumber: 34
+street: Ulmer Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.83817
 longitude: 8.5373
 postcode: "78176"
 city: Blumberg
-street: "Tevesstraße"
-housenumber: 58
-phone: "+49 7702 2466"
-opening_hours: "Mo-Fr 08:00-13:00; Mo-Tu 14:30-18:00; Th-Fr 14:30-18:00; Sa 07:00-12:30"
-website: "https://www.metzgerei-zier.de"
+street: Tevesstraße
+housenumber: "58"
+phone: +49 7702 2466
+opening_hours: Mo-Fr 08:00-13:00; Mo-Tu 14:30-18:00; Th-Fr 14:30-18:00; Sa 07:00-12:30
+website: https://www.metzgerei-zier.de

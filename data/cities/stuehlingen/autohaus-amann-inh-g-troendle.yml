@@ -1,11 +1,11 @@
 id: 196312467
-type: way
+type: node
 latitude: 47.74887
 longitude: 8.45545
 postcode: "79780"
 city: Stühlingen
-street: "Bundesstraße"
-housenumber: 14
+street: Bundesstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "http://partner.volkswagen.de/p_30198/de.html"
+website: http://partner.volkswagen.de/p_30198/de.html

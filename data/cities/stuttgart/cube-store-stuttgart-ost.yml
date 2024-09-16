@@ -1,11 +1,11 @@
 id: 126440654
-type: way
+type: node
 latitude: 48.7693
 longitude: 9.26251
 postcode: "70329"
 city: Stuttgart
-street: "Augsburger Straße"
-housenumber: 564
+street: Augsburger Straße
+housenumber: "564"
 phone: ""
-opening_hours: "Tu,We 10:00-13:00,14:00-18:00; Th,Fr 10:00-13:00,14:00-19:00; Sa 10:00-15:00"
-website: "https://www.cube-store-stuttgart-ost.de/"
+opening_hours: Tu,We 10:00-13:00,14:00-18:00; Th,Fr 10:00-13:00,14:00-19:00; Sa 10:00-15:00
+website: https://www.cube-store-stuttgart-ost.de/

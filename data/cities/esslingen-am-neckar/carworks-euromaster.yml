@@ -1,11 +1,11 @@
 id: 404262939
-type: way
+type: node
 latitude: 48.73032
 longitude: 9.32972
 postcode: "73730"
 city: Esslingen am Neckar
-street: "Ulmer Straße"
-housenumber: 83
+street: Ulmer Straße
+housenumber: "83"
 phone: ""
-opening_hours: "07:30 -18:00"
+opening_hours: 07:30 -18:00
 website: ""

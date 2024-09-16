@@ -1,11 +1,11 @@
 id: 25309825
-type: way
+type: node
 latitude: 48.68009
 longitude: 10.15215
 postcode: "89518"
 city: Heidenheim an der Brenz
-street: "Karlstraße"
-housenumber: 12
+street: Karlstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 11:00-18:00
 website: ""

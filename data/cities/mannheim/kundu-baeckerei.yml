@@ -4,8 +4,8 @@ latitude: 49.48084
 longitude: 8.48469
 postcode: "68165"
 city: Mannheim
-street: "Augustaanlage"
-housenumber: 37
-phone: "+49 621 3288367"
-opening_hours: "Mo-Fr 06:30-16:00; Sa 06:30-12:00"
-website: "http://k-und-u.com"
+street: Augustaanlage
+housenumber: "37"
+phone: +49 621 3288367
+opening_hours: Mo-Fr 06:30-16:00; Sa 06:30-12:00
+website: http://k-und-u.com

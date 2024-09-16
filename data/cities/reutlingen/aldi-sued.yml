@@ -1,11 +1,11 @@
 id: 30744814
-type: way
+type: node
 latitude: 48.4778
 longitude: 9.20006
 postcode: "72762"
 city: Reutlingen
-street: "Ringelbachstraße"
-housenumber: 183
+street: Ringelbachstraße
+housenumber: "183"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su off; PH off
 website: ""

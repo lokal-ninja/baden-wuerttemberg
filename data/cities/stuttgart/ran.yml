@@ -1,11 +1,11 @@
 id: 356767297
-type: way
+type: node
 latitude: 48.80397
 longitude: 9.10116
 postcode: "70499"
 city: Stuttgart
-street: "Engelbergstraße"
-housenumber: 5
+street: Engelbergstraße
+housenumber: "5"
 phone: "+497118601916"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su, PH 08:00-22:00"
-website: "https://www.ran-tankstellen.de/tankstelle-stuttgart-weilimdorf"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su, PH 08:00-22:00
+website: https://www.ran-tankstellen.de/tankstelle-stuttgart-weilimdorf

@@ -1,11 +1,11 @@
 id: 882858488
-type: way
+type: node
 latitude: 48.86939
 longitude: 8.85466
 postcode: "71297"
 city: Mönsheim
-street: "Im Gödelmann"
-housenumber: 2
+street: Im Gödelmann
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

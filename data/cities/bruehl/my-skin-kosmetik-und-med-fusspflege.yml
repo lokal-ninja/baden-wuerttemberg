@@ -1,11 +1,11 @@
 id: 175841227
-type: way
+type: node
 latitude: 49.41417
 longitude: 8.524
 postcode: "68782"
 city: Brühl
-street: "Scheffelstraße"
-housenumber: 17
-phone: "+49 6202 5778648"
+street: Scheffelstraße
+housenumber: "17"
+phone: +49 6202 5778648
 opening_hours: ""
-website: "http://www.my-skin.de/"
+website: http://www.my-skin.de/

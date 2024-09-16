@@ -1,11 +1,11 @@
 id: 144653015
-type: way
+type: node
 latitude: 48.7773
 longitude: 9.13243
 postcode: "70195"
 city: Stuttgart
-street: "Beethovenstraße"
-housenumber: 11
+street: Beethovenstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

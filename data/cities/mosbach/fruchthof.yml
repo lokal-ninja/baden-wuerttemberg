@@ -1,11 +1,11 @@
 id: 191495392
-type: way
+type: node
 latitude: 49.34262
 longitude: 9.1226
 postcode: "74821"
 city: Mosbach
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

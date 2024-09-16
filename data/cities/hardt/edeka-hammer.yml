@@ -1,11 +1,11 @@
 id: 204662689
-type: way
+type: node
 latitude: 48.18396
 longitude: 8.40878
 postcode: "78739"
 city: Hardt
-street: "Sankt-Georgener Straße"
-housenumber: 2
-phone: "+49 7422 3998"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-14:00; PH off"
-website: "https://www.edeka-hardt.de"
+street: Sankt-Georgener Straße
+housenumber: "2"
+phone: +49 7422 3998
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-14:00; PH off
+website: https://www.edeka-hardt.de

@@ -4,8 +4,8 @@ latitude: 48.90294
 longitude: 9.17484
 postcode: "71634"
 city: Ludwigsburg
-street: "Teinacher Straße"
-housenumber: 9
+street: Teinacher Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.netto-online.de/filialfinder"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.netto-online.de/filialfinder

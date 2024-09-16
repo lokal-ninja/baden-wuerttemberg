@@ -1,11 +1,11 @@
 id: 47900220
-type: way
+type: node
 latitude: 48.82088
 longitude: 9.28303
 postcode: "70736"
 city: Fellbach
-street: "Marie-Curie-Straße"
-housenumber: 6
-phone: "+49 711 584792"
+street: Marie-Curie-Straße
+housenumber: "6"
+phone: +49 711 584792
 opening_hours: ""
-website: "https://www.reifen-kaiser.com/"
+website: https://www.reifen-kaiser.com/

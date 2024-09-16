@@ -1,11 +1,11 @@
 id: 104164432
-type: way
+type: node
 latitude: 47.97067
 longitude: 7.72022
 postcode: "79227"
 city: Schallstadt
-street: "An der A5"
-housenumber: 
+street: An der A5
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "http://www.rast.de/standorte/suche/detail.html?ID=48"
+opening_hours: 24/7
+website: http://www.rast.de/standorte/suche/detail.html?ID=48

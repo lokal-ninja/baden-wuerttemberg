@@ -1,11 +1,11 @@
 id: 389439711
-type: way
+type: node
 latitude: 49.36715
 longitude: 9.61172
 postcode: "74238"
 city: Krautheim
-street: "Hauptstraße"
-housenumber: 79
+street: Hauptstraße
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1268214014
-type: way
+type: node
 latitude: 49.01291
 longitude: 9.2144
 postcode: "74354"
 city: Besigheim
-street: "Max-Eyth-Straße"
-housenumber: 8
-phone: "+49 7143 9692717"
-opening_hours: "Mo-Di, Do-Fr: 08:30-18:00 Sa: 09:00-12:00"
+street: Max-Eyth-Straße
+housenumber: "8"
+phone: +49 7143 9692717
+opening_hours: 'Mo-Di, Do-Fr: 08:30-18:00 Sa: 09:00-12:00'
 website: ""

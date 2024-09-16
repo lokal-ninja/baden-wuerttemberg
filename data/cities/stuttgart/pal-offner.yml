@@ -4,8 +4,8 @@ latitude: 48.77556
 longitude: 9.16316
 postcode: ""
 city: Stuttgart
-street: "Johannisstraße"
-housenumber: 20
-phone: "+49 (0)711 500 93 594"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.paloffner.de/das-sind-wir-atelier-shop"
+street: Johannisstraße
+housenumber: "20"
+phone: +49 (0)711 500 93 594
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.paloffner.de/das-sind-wir-atelier-shop

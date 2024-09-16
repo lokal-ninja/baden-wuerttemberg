@@ -4,8 +4,8 @@ latitude: 49.44813
 longitude: 8.50286
 postcode: "68199"
 city: Mannheim
-street: "Casterfeldstraße"
-housenumber: 62
-phone: "+49 621 8425990"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.babyone.de/"
+street: Casterfeldstraße
+housenumber: "62"
+phone: +49 621 8425990
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.babyone.de/

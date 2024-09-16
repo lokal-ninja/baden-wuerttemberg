@@ -1,11 +1,11 @@
 id: 391634261
-type: way
+type: node
 latitude: 49.07383
 longitude: 8.7103
 postcode: "75015"
 city: Bretten
-street: "Hügellandstraße"
-housenumber: 32
+street: Hügellandstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

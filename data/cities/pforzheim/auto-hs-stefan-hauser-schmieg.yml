@@ -1,11 +1,11 @@
 id: 264092326
-type: way
+type: node
 latitude: 48.90018
 longitude: 8.66567
 postcode: "75179"
 city: Pforzheim
-street: "Stuttgarter Straße"
-housenumber: 1
+street: Stuttgarter Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

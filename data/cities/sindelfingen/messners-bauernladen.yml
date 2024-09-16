@@ -4,8 +4,8 @@ latitude: 48.72497
 longitude: 8.96544
 postcode: "71069"
 city: Sindelfingen
-street: "Stuttgarter Straße"
-housenumber: 2
-phone: "+49 7031 385510"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-13:30; PH off"
-website: "http://www.messners-bauernladen.de/"
+street: Stuttgarter Straße
+housenumber: "2"
+phone: +49 7031 385510
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-13:30; PH off
+website: http://www.messners-bauernladen.de/

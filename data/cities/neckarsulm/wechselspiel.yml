@@ -4,8 +4,8 @@ latitude: 49.19112
 longitude: 9.22378
 postcode: "74172"
 city: Neckarsulm
-street: "Schindlerstraße"
-housenumber: 2
+street: Schindlerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "By appointment only"
+opening_hours: '"By appointment only"'
 website: ""

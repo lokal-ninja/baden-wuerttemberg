@@ -4,8 +4,8 @@ latitude: 49.13981
 longitude: 9.22528
 postcode: "74072"
 city: Heilbronn
-street: "Herbststraße"
-housenumber: 5
+street: Herbststraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 13:00-19:00; Sa 10:00-14:00"
-website: "https://www.plattenladen-heilbronn.de/"
+opening_hours: Mo-Th 13:00-19:00; Sa 10:00-14:00
+website: https://www.plattenladen-heilbronn.de/

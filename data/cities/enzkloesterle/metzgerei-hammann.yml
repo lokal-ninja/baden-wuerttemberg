@@ -1,11 +1,11 @@
 id: 103587129
-type: way
+type: node
 latitude: 48.66577
 longitude: 8.47259
 postcode: "75337"
 city: Enzklösterle
-street: "Freudenstädter Straße"
-housenumber: 9
-phone: "+49 7085 1708"
+street: Freudenstädter Straße
+housenumber: "9"
+phone: +49 7085 1708
 opening_hours: ""
 website: ""

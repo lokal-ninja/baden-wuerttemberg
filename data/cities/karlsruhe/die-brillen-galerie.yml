@@ -4,8 +4,9 @@ latitude: 49.00966
 longitude: 8.42283
 postcode: "76131"
 city: Karlsruhe
-street: "Ludwig-Wilhelm-Straße"
-housenumber: 17
-phone: "+49 721 697888"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:00-18:30; We 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "http://brillengaleriekarlsruhe.de/"
+street: Ludwig-Wilhelm-Straße
+housenumber: "17"
+phone: +49 721 697888
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:30; We 09:00-13:00,14:00-18:00; Sa
+    09:00-13:00
+website: http://brillengaleriekarlsruhe.de/

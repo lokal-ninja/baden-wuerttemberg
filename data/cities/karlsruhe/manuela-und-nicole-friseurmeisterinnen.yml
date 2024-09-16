@@ -4,8 +4,8 @@ latitude: 48.95322
 longitude: 8.50992
 postcode: "76228"
 city: Karlsruhe
-street: "Ortsstraße"
-housenumber: 17
-phone: "+49 721 97646106"
-opening_hours: "Tue-Fr 08:30-18:00, Sa closed; Mo closed; Public holiday closed"
-website: "https://friseurmeisterinnen.de"
+street: Ortsstraße
+housenumber: "17"
+phone: +49 721 97646106
+opening_hours: Tue-Fr 08:30-18:00, Sa closed; Mo closed; Public holiday closed
+website: https://friseurmeisterinnen.de

@@ -4,8 +4,8 @@ latitude: 49.40435
 longitude: 8.68696
 postcode: "69115"
 city: Heidelberg
-street: "Blumenstraße"
-housenumber: 25
+street: Blumenstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://wortreich-hd.buchkatalog.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://wortreich-hd.buchkatalog.de/

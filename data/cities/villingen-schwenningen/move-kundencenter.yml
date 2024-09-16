@@ -4,8 +4,9 @@ latitude: 48.05839
 longitude: 8.465
 postcode: "78048"
 city: Villingen-Schwenningen
-street: "Bahnhofstraße"
-housenumber: 5
-phone: "+49 7721 40206 40"
-opening_hours: "Mo-Tu 08:00-12:30,14:00-16:00; We 08:00-12:30; Th 08:00-12:30,14:00-17:30; Fr 08:00-12:00; PH closed"
-website: "https://mein-move.de/"
+street: Bahnhofstraße
+housenumber: "5"
+phone: +49 7721 40206 40
+opening_hours: Mo-Tu 08:00-12:30,14:00-16:00; We 08:00-12:30; Th 08:00-12:30,14:00-17:30;
+    Fr 08:00-12:00; PH closed
+website: https://mein-move.de/

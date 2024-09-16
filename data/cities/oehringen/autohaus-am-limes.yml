@@ -1,11 +1,11 @@
 id: 696204565
-type: way
+type: node
 latitude: 49.20187
 longitude: 9.49555
 postcode: "74613"
 city: Öhringen
-street: "Heilbronner Straße"
-housenumber: 15
-phone: "+49 7941 6498 07"
-opening_hours: "Mo-Fr 09:00-18:15; Sa 09:00-14:00"
-website: "https://www.autohaus-limes.de/"
+street: Heilbronner Straße
+housenumber: "15"
+phone: +49 7941 6498 07
+opening_hours: Mo-Fr 09:00-18:15; Sa 09:00-14:00
+website: https://www.autohaus-limes.de/

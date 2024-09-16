@@ -4,8 +4,8 @@ latitude: 49.00526
 longitude: 8.50142
 postcode: "76229"
 city: Karlsruhe
-street: "Eisenbahnstraße"
-housenumber: 6
+street: Eisenbahnstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00"
-website: "https://baeckerei-nussbaumer.de/filialen/filialen.html"
+opening_hours: Mo-Sa 06:00-21:00
+website: https://baeckerei-nussbaumer.de/filialen/filialen.html

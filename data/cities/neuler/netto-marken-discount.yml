@@ -1,11 +1,11 @@
 id: 501765434
-type: way
+type: node
 latitude: 48.93171
 longitude: 10.06876
 postcode: "73491"
 city: Neuler
-street: "Ellwanger Straße"
-housenumber: 17
+street: Ellwanger Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH closed"
+opening_hours: Mo-Sa 07:00-21:00; PH closed
 website: ""

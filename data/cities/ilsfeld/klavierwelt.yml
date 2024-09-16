@@ -1,11 +1,11 @@
 id: 87051123
-type: way
+type: node
 latitude: 49.04283
 longitude: 9.27371
 postcode: "74360"
 city: Ilsfeld
-street: "Wunnensteinstraße"
-housenumber: 31
+street: Wunnensteinstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

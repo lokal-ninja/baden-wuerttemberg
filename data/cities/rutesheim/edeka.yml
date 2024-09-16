@@ -1,11 +1,11 @@
 id: 23642690
-type: way
+type: node
 latitude: 48.80681
 longitude: 8.95514
 postcode: "71277"
 city: Rutesheim
-street: "Gutenbergstraße"
-housenumber: 33
+street: Gutenbergstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

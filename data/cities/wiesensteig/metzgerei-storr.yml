@@ -1,11 +1,11 @@
 id: 163622673
-type: way
+type: node
 latitude: 48.56276
 longitude: 9.62698
 postcode: "73349"
 city: Wiesensteig
-street: "Hauptstraße"
-housenumber: 44
+street: Hauptstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

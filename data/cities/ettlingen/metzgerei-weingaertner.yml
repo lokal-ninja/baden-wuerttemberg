@@ -1,11 +1,11 @@
 id: 131990839
-type: way
+type: node
 latitude: 48.93612
 longitude: 8.38218
 postcode: "76275"
 city: Ettlingen
-street: "Otto-Lilienthal-Straße"
-housenumber: 3
+street: Otto-Lilienthal-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:30"
-website: "https://www.weingaertner-ettl.de/"
+opening_hours: Mo-Fr 10:00-13:30
+website: https://www.weingaertner-ettl.de/

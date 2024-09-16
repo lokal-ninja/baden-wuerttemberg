@@ -5,7 +5,7 @@ longitude: 9.17242
 postcode: ""
 city: Stuttgart
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.babyone.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.babyone.de/

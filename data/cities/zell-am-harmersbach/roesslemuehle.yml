@@ -1,11 +1,11 @@
 id: 132619898
-type: way
+type: node
 latitude: 48.35093
 longitude: 8.0839
 postcode: "77736"
 city: Zell am Harmersbach
-street: "Mühlweg"
-housenumber: 7
+street: Mühlweg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

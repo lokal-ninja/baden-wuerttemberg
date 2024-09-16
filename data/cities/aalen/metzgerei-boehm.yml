@@ -4,8 +4,9 @@ latitude: 48.83462
 longitude: 10.10174
 postcode: "73431"
 city: Aalen
-street: "Alte Heidenheimer Straße"
-housenumber: 72
-phone: "+49 7361 31626"
-opening_hours: "Mo,Tu 08:00-12:30,14:30-18:00; We 08:00-12:30; Th,Fr 07:30-12:30,14:00-18:00; Sa 07:30-12:00; PH off"
+street: Alte Heidenheimer Straße
+housenumber: "72"
+phone: +49 7361 31626
+opening_hours: Mo,Tu 08:00-12:30,14:30-18:00; We 08:00-12:30; Th,Fr 07:30-12:30,14:00-18:00;
+    Sa 07:30-12:00; PH off
 website: ""

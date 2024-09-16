@@ -1,11 +1,11 @@
 id: 192625639
-type: way
+type: node
 latitude: 49.24037
 longitude: 8.4604
 postcode: "76661"
 city: Philippsburg
-street: "Tullastraße"
-housenumber: 2
+street: Tullastraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.lidl.de/

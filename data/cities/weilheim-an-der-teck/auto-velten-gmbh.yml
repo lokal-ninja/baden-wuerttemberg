@@ -1,11 +1,11 @@
 id: 174487083
-type: way
+type: node
 latitude: 48.62498
 longitude: 9.52815
 postcode: "73235"
 city: Weilheim an der Teck
-street: "Im Stockach"
-housenumber: 5
+street: Im Stockach
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://auto-velten.eu/"
+website: https://auto-velten.eu/

@@ -1,11 +1,11 @@
 id: 188473261
-type: way
+type: node
 latitude: 48.87454
 longitude: 9.6337
 postcode: "73642"
 city: Welzheim
-street: "Kirchplatz"
-housenumber: 8
-phone: "+49 7182 8755"
+street: Kirchplatz
+housenumber: "8"
+phone: +49 7182 8755
 opening_hours: ""
-website: "https://optik-linde.com/"
+website: https://optik-linde.com/

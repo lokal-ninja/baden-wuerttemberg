@@ -1,11 +1,11 @@
 id: 121620050
-type: way
+type: node
 latitude: 47.75518
 longitude: 8.85629
 postcode: "78224"
 city: Singen (Hohentwiel)
-street: "Laubwaldstraße"
-housenumber: 8
-phone: "+49 7731 8741-0"
+street: Laubwaldstraße
+housenumber: "8"
+phone: +49 7731 8741-0
 opening_hours: ""
-website: "https://www.fschuenke.de"
+website: https://www.fschuenke.de

@@ -1,11 +1,11 @@
 id: 99909047
-type: way
+type: node
 latitude: 48.72216
 longitude: 9.35627
 postcode: "73730"
 city: Esslingen am Neckar
-street: "Steinbeisstraße"
-housenumber: 12
+street: Steinbeisstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Th 07:00-15:30; Fr 07:00-12:00"
+opening_hours: Mo-Th 07:00-15:30; Fr 07:00-12:00
 website: ""

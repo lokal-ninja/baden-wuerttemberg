@@ -1,11 +1,11 @@
 id: 159331627
-type: way
+type: node
 latitude: 48.71512
 longitude: 8.90588
 postcode: "71120"
 city: Grafenau
-street: "Hofstetten"
-housenumber: 2
+street: Hofstetten
+housenumber: "2"
 phone: ""
-opening_hours: "PH off; Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.autohaus-gehann.de/"
+opening_hours: PH off; Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.autohaus-gehann.de/

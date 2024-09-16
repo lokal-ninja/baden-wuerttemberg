@@ -1,11 +1,11 @@
 id: 496986406
-type: way
+type: node
 latitude: 49.05428
 longitude: 9.89113
 postcode: "74423"
 city: Obersontheim
-street: "Stockäcker"
-housenumber: 1
-phone: "+49 7973 9292260"
-opening_hours: "Mo-Sa 08:00-22:00"
+street: Stockäcker
+housenumber: "1"
+phone: +49 7973 9292260
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

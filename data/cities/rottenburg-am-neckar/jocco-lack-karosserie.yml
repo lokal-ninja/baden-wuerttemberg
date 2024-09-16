@@ -4,8 +4,8 @@ latitude: 48.47724
 longitude: 8.95272
 postcode: "72108"
 city: Rottenburg am Neckar
-street: "Maieräckerstraße"
-housenumber: 21
-phone: "+49 7472 24698"
-opening_hours: "Mo-Th 07:30-12:00, 13:00-17:30; Fr 07:30-12:00, 13:00-16:30"
-website: "https://www.joccokarosserie.de/"
+street: Maieräckerstraße
+housenumber: "21"
+phone: +49 7472 24698
+opening_hours: Mo-Th 07:30-12:00, 13:00-17:30; Fr 07:30-12:00, 13:00-16:30
+website: https://www.joccokarosserie.de/

@@ -1,11 +1,11 @@
 id: 320517953
-type: way
+type: node
 latitude: 49.0037
 longitude: 9.20109
 postcode: "74395"
 city: Mundelsheim
-street: "Wertweg"
-housenumber: 26
+street: Wertweg
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

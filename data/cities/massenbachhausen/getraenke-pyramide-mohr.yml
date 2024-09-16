@@ -1,11 +1,11 @@
 id: 120739634
-type: way
+type: node
 latitude: 49.17059
 longitude: 9.0378
 postcode: "74252"
 city: Massenbachhausen
-street: "Daimlerstraße"
-housenumber: 29
+street: Daimlerstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

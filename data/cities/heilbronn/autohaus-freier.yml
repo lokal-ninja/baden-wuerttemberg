@@ -1,11 +1,11 @@
 id: 60178083
-type: way
+type: node
 latitude: 49.16991
 longitude: 9.21582
 postcode: "74076"
 city: Heilbronn
-street: "Karl-Wüst-Straße"
-housenumber: 21
+street: Karl-Wüst-Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

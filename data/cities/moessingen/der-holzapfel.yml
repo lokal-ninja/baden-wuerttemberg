@@ -4,8 +4,8 @@ latitude: 48.40558
 longitude: 9.05782
 postcode: "72116"
 city: Mössingen
-street: "Bahnhofstraße"
-housenumber: 1
-phone: "+49 7473 9594 399"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:00; Su,PH off"
-website: "https://derholzapfel.de"
+street: Bahnhofstraße
+housenumber: "1"
+phone: +49 7473 9594 399
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:00; Su,PH off
+website: https://derholzapfel.de

@@ -1,11 +1,11 @@
 id: 385683692
-type: way
+type: node
 latitude: 48.57292
 longitude: 9.26604
 postcode: "72658"
 city: Bempflingen
-street: "Lindenstraße"
-housenumber: 32
+street: Lindenstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Tu,We 09:00-19:00; Th,Fr 08:00-18:00"
+opening_hours: Tu,We 09:00-19:00; Th,Fr 08:00-18:00
 website: ""

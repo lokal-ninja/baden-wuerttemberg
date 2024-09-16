@@ -1,11 +1,11 @@
 id: 206594307
-type: way
+type: node
 latitude: 48.76595
 longitude: 9.81629
 postcode: "73550"
 city: Waldstetten
-street: "Straßdorfer Straße"
-housenumber: 15
+street: Straßdorfer Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 48.63056
 longitude: 8.07252
 postcode: "77855"
 city: Achern
-street: "Kirchstraße"
-housenumber: 5
-phone: "+49 7841 24901"
-opening_hours: "Mo,Tu,Th,Fr 09:30-12:30, 14:00-18:30; We 09:30-12:30, 14:00-18:00; Sa 09:30-14:00"
-website: "https://www.messer-deuchler.de"
+street: Kirchstraße
+housenumber: "5"
+phone: +49 7841 24901
+opening_hours: Mo,Tu,Th,Fr 09:30-12:30, 14:00-18:30; We 09:30-12:30, 14:00-18:00;
+    Sa 09:30-14:00
+website: https://www.messer-deuchler.de

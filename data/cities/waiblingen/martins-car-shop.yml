@@ -1,11 +1,11 @@
 id: 72671055
-type: way
+type: node
 latitude: 48.85883
 longitude: 9.32887
 postcode: "71336"
 city: Waiblingen
-street: "Liststraße"
-housenumber: 19
+street: Liststraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

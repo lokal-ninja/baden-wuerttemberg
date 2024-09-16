@@ -4,8 +4,8 @@ latitude: 48.01452
 longitude: 7.84524
 postcode: "79106"
 city: Freiburg im Breisgau
-street: "Paul-Ehrlich-Straße"
-housenumber: 9
-phone: "+49 761 504960"
+street: Paul-Ehrlich-Straße
+housenumber: "9"
+phone: +49 761 504960
 opening_hours: ""
-website: "https://streit.de"
+website: https://streit.de

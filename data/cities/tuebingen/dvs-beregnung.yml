@@ -4,8 +4,8 @@ latitude: 48.49699
 longitude: 9.05769
 postcode: "72072"
 city: Tübingen
-street: "Ernst-Simon-Straße"
-housenumber: 8
-phone: "+49 7071 1450050"
+street: Ernst-Simon-Straße
+housenumber: "8"
+phone: +49 7071 1450050
 opening_hours: ""
-website: "https://dvs-beregnung.de/"
+website: https://dvs-beregnung.de/

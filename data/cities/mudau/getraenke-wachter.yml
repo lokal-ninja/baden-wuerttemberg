@@ -1,11 +1,11 @@
 id: 117339845
-type: way
+type: node
 latitude: 49.52889
 longitude: 9.20456
 postcode: "69427"
 city: Mudau
-street: "Bahnhofstraße"
-housenumber: 9
+street: Bahnhofstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

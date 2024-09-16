@@ -1,11 +1,11 @@
 id: 4622737
-type: way
+type: node
 latitude: 48.94513
 longitude: 8.39009
 postcode: "76275"
 city: Ettlingen
-street: "Zehntwiesenstraße"
-housenumber: 47
+street: Zehntwiesenstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "www.kaufland.de"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: www.kaufland.de

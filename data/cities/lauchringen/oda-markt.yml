@@ -1,11 +1,11 @@
 id: 157771650
-type: way
+type: node
 latitude: 47.62939
 longitude: 8.3076
 postcode: "79787"
 city: Lauchringen
-street: "Martin-Luther-Straße"
-housenumber: 30
+street: Martin-Luther-Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-19:00; Sa 08:00-19:00"
-website: "http://www.oda-markt.de/"
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-19:00; Sa 08:00-19:00
+website: http://www.oda-markt.de/

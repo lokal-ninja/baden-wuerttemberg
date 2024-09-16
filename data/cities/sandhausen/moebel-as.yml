@@ -1,11 +1,11 @@
 id: 224316069
-type: way
+type: node
 latitude: 49.35071
 longitude: 8.6521
 postcode: "69207"
 city: Sandhausen
-street: "Robert-Bosch-Straße"
-housenumber: 2
-phone: "+49 6224 93740"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.moebel-as.de/standorte/sandhausen"
+street: Robert-Bosch-Straße
+housenumber: "2"
+phone: +49 6224 93740
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.moebel-as.de/standorte/sandhausen

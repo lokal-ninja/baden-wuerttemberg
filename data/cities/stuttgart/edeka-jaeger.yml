@@ -1,11 +1,11 @@
 id: 436537481
-type: way
+type: node
 latitude: 48.69068
 longitude: 9.1939
 postcode: "70629"
 city: Stuttgart
-street: "Flughafenstraße"
-housenumber: 100
+street: Flughafenstraße
+housenumber: "100"
 phone: ""
-opening_hours: "24/7"
-website: "https://edeka-jaeger.com/"
+opening_hours: 24/7
+website: https://edeka-jaeger.com/

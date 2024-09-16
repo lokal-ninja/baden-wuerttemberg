@@ -4,8 +4,8 @@ latitude: 47.64955
 longitude: 9.47995
 postcode: "88045"
 city: Friedrichshafen
-street: "Karlstraße"
-housenumber: 20
-phone: "+49 7541 22337"
-opening_hours: "09:00-13:00, 14:00-18:00, Th 14:00-19:00; Sa 09:00-14:00; PH off"
-website: "https://optikmueller.info/"
+street: Karlstraße
+housenumber: "20"
+phone: +49 7541 22337
+opening_hours: 09:00-13:00, 14:00-18:00, Th 14:00-19:00; Sa 09:00-14:00; PH off
+website: https://optikmueller.info/

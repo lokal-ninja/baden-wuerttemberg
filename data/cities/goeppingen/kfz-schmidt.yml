@@ -1,11 +1,11 @@
 id: 268610908
-type: way
+type: node
 latitude: 48.7085
 longitude: 9.6492
 postcode: "73033"
 city: Göppingen
-street: "Lorcher Straße"
-housenumber: 32
-phone: "+49-7161-25753"
+street: Lorcher Straße
+housenumber: "32"
+phone: +49-7161-25753
 opening_hours: ""
 website: ""

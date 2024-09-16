@@ -1,11 +1,11 @@
 id: 131761704
-type: way
+type: node
 latitude: 48.92139
 longitude: 8.48404
 postcode: "76337"
 city: Waldbronn
-street: "Pforzheimer Straße"
-housenumber: 77
-phone: "+49 7243 567811"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:00-17:00"
-website: "https://baeckerei-nussbaumer.de/"
+street: Pforzheimer Straße
+housenumber: "77"
+phone: +49 7243 567811
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:00-17:00
+website: https://baeckerei-nussbaumer.de/

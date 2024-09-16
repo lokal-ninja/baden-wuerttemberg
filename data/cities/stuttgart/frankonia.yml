@@ -4,8 +4,8 @@ latitude: 48.7773
 longitude: 9.17604
 postcode: "70173"
 city: Stuttgart
-street: "Kronprinzstraße"
-housenumber: 6
-phone: "+49 711 23760-0"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.frankonia.de/service/filialen/stuttgart.html"
+street: Kronprinzstraße
+housenumber: "6"
+phone: +49 711 23760-0
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.frankonia.de/service/filialen/stuttgart.html

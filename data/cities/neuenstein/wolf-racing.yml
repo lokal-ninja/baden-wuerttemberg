@@ -1,11 +1,11 @@
 id: 239490489
-type: way
+type: node
 latitude: 49.21263
 longitude: 9.58783
 postcode: "74632"
 city: Neuenstein
-street: "Max-Eyth-Straße"
-housenumber: 17
+street: Max-Eyth-Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.wolf-racing.de/"
+website: https://www.wolf-racing.de/

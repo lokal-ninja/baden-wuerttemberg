@@ -1,11 +1,11 @@
 id: 416220911
-type: way
+type: node
 latitude: 48.97761
 longitude: 8.98393
 postcode: "71665"
 city: Vaihingen an der Enz
-street: "Pforzheimer Straße"
-housenumber: 55
+street: Pforzheimer Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:30"
+opening_hours: Mo-Sa 07:30-20:30
 website: ""

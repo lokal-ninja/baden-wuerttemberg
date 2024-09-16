@@ -4,8 +4,8 @@ latitude: 47.6604
 longitude: 9.17528
 postcode: "78462"
 city: Konstanz
-street: "Marktstätte"
-housenumber: 28
-phone: "+49 7531 23362"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-18:00"
+street: Marktstätte
+housenumber: "28"
+phone: +49 7531 23362
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 275243473
-type: way
+type: node
 latitude: 48.7464
 longitude: 9.38632
 postcode: "73773"
 city: Aichwald
-street: "Himbeerweg"
-housenumber: 4
+street: Himbeerweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00
 website: ""

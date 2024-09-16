@@ -4,8 +4,8 @@ latitude: 47.64352
 longitude: 8.60201
 postcode: "8462"
 city: Rheinau
-street: "Schulstrasse"
-housenumber: 9
-phone: "+41 52 319 12 82"
-opening_hours: "Tu,Fr 08:00-11:30,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.baschnagel-elektro.ch"
+street: Schulstrasse
+housenumber: "9"
+phone: +41 52 319 12 82
+opening_hours: Tu,Fr 08:00-11:30,14:00-18:00; Sa 09:00-12:00
+website: https://www.baschnagel-elektro.ch

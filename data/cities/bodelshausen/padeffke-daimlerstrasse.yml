@@ -4,8 +4,8 @@ latitude: 48.38616
 longitude: 8.98049
 postcode: "72411"
 city: Bodelshausen
-street: "Daimlerstraße"
-housenumber: 22
+street: Daimlerstraße
+housenumber: "22"
 phone: "+4974717397041"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 08:00-11:00"
-website: "https://www.baeckerei-padeffke.de/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 08:00-11:00
+website: https://www.baeckerei-padeffke.de/

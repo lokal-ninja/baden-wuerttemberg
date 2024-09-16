@@ -4,8 +4,8 @@ latitude: 48.99838
 longitude: 8.47268
 postcode: "76227"
 city: Karlsruhe
-street: "Rebenstraße"
-housenumber: 10
-phone: "+49 721 3841443"
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "https://www.soapmystic.com/"
+street: Rebenstraße
+housenumber: "10"
+phone: +49 721 3841443
+opening_hours: Mo-Fr 14:00-18:00
+website: https://www.soapmystic.com/

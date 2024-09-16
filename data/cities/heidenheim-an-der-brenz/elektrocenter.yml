@@ -4,8 +4,8 @@ latitude: 48.67783
 longitude: 10.15321
 postcode: "89518"
 city: Heidenheim an der Brenz
-street: "Grabenstraße"
+street: Grabenstraße
 housenumber: 1/1
-phone: "+49 7321 2 30 81"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00 || nach Vereinbarung"
-website: "https://www.elektrocenter-heidenheim.de/"
+phone: +49 7321 2 30 81
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00 || "nach Vereinbarung"
+website: https://www.elektrocenter-heidenheim.de/

@@ -1,11 +1,11 @@
 id: 30714972
-type: way
+type: node
 latitude: 48.56237
 longitude: 8.84849
 postcode: "71126"
 city: Gäufelden
-street: "Öschelbronner Straße"
-housenumber: 1
+street: Öschelbronner Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

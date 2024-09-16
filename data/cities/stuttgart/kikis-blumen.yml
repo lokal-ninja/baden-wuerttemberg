@@ -4,8 +4,8 @@ latitude: 48.78594
 longitude: 9.1905
 postcode: "70190"
 city: Stuttgart
-street: "Neckarstraße"
-housenumber: 86
-phone: "+49 711 8878 233"
-opening_hours: "Mo-Fr 08:30-18:30"
+street: Neckarstraße
+housenumber: "86"
+phone: +49 711 8878 233
+opening_hours: Mo-Fr 08:30-18:30
 website: ""

@@ -1,11 +1,11 @@
 id: 211933335
-type: way
+type: node
 latitude: 49.18094
 longitude: 9.41028
 postcode: "74626"
 city: Bretzfeld
-street: "Schwabenstraße"
-housenumber: 35
+street: Schwabenstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

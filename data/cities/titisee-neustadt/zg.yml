@@ -1,11 +1,11 @@
 id: 101835675
-type: way
+type: node
 latitude: 47.90744
 longitude: 8.22531
 postcode: "79822"
 city: Titisee-Neustadt
-street: "Donaueschinger Straße"
-housenumber: 14
+street: Donaueschinger Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.48582
 longitude: 8.44657
 postcode: "67061"
 city: Ludwigshafen am Rhein
-street: "Im Zollhof"
-housenumber: 4
+street: Im Zollhof
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.rheingalerie-ludwigshafen.de/de/shopdetails/presentshop.php"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.rheingalerie-ludwigshafen.de/de/shopdetails/presentshop.php

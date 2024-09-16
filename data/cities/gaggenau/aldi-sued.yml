@@ -1,11 +1,11 @@
 id: 126557446
-type: way
+type: node
 latitude: 48.80825
 longitude: 8.30893
 postcode: "76571"
 city: Gaggenau
-street: "Rindeschwenderstraße"
-housenumber: 40
+street: Rindeschwenderstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

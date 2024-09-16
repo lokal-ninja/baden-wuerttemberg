@@ -1,11 +1,11 @@
 id: 325893011
-type: way
+type: node
 latitude: 48.67486
 longitude: 10.15122
 postcode: "89522"
 city: Heidenheim an der Brenz
-street: "Hauptstraße"
-housenumber: 88
+street: Hauptstraße
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

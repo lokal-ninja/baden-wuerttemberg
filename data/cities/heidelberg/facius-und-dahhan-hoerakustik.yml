@@ -4,8 +4,8 @@ latitude: 49.40833
 longitude: 8.69019
 postcode: "69115"
 city: Heidelberg
-street: "Bergheimer Straße"
-housenumber: 23
+street: Bergheimer Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.fd-hoerakustik.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.fd-hoerakustik.de/

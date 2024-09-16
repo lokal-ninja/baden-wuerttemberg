@@ -1,11 +1,11 @@
 id: 625930412
-type: way
+type: node
 latitude: 48.44163
 longitude: 7.92698
 postcode: "77656"
 city: Offenburg
-street: "Isaak-Blum-Straße"
-housenumber: 10
-phone: "+49 781 96801910"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00; PH off"
-website: "https://www.sto.de/s/LocationDetails/0012p00003SnbRBAAZ/sto-vc-offenburg-verkaufscenter"
+street: Isaak-Blum-Straße
+housenumber: "10"
+phone: +49 781 96801910
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00; PH off
+website: https://www.sto.de/s/LocationDetails/0012p00003SnbRBAAZ/sto-vc-offenburg-verkaufscenter

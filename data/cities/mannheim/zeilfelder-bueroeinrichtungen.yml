@@ -1,11 +1,11 @@
 id: 310429667
-type: way
+type: node
 latitude: 49.49383
 longitude: 8.50472
 postcode: "68167"
 city: Mannheim
-street: "Dudenstraße"
-housenumber: 52
+street: Dudenstraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://www.zeilfelder.de/"
+website: https://www.zeilfelder.de/

@@ -1,11 +1,11 @@
 id: 822306284
-type: way
+type: node
 latitude: 48.63779
 longitude: 9.34025
 postcode: "72622"
 city: Nürtingen
-street: "Walter-Rauch-Straße"
-housenumber: 7
-phone: "+49 7022 2165280"
-opening_hours: "Mo, We-Fr 08:30-12:30; Tu 08:30-12:30"
-website: "https://gtü-kfz-prüfservice.de"
+street: Walter-Rauch-Straße
+housenumber: "7"
+phone: +49 7022 2165280
+opening_hours: Mo, We-Fr 08:30-12:30; Tu 08:30-12:30
+website: https://gtü-kfz-prüfservice.de

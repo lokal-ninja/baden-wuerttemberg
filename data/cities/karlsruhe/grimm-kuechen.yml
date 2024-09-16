@@ -1,11 +1,11 @@
 id: 97938942
-type: way
+type: node
 latitude: 49.02011
 longitude: 8.45992
 postcode: "76139"
 city: Karlsruhe
-street: "Printzstraße"
-housenumber: 1
+street: Printzstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00 || nach Vereinbarung; Su,PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-16:00 || "nach Vereinbarung"; Su,PH off
 website: ""

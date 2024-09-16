@@ -1,11 +1,11 @@
 id: 255127218
-type: way
+type: node
 latitude: 49.3545
 longitude: 9.14775
 postcode: "74821"
 city: Mosbach
-street: "Hauptstraße"
-housenumber: 98
+street: Hauptstraße
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

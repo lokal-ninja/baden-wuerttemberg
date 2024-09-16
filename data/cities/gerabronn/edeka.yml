@@ -1,11 +1,11 @@
 id: 160773656
-type: way
+type: node
 latitude: 49.24731
 longitude: 9.9211
 postcode: "74582"
 city: Gerabronn
-street: "Haller Straße"
-housenumber: 11
+street: Haller Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

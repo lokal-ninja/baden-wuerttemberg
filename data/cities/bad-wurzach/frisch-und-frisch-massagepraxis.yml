@@ -4,8 +4,8 @@ latitude: 47.9069
 longitude: 9.89372
 postcode: "88410"
 city: Bad Wurzach
-street: "Franz-Graf-Straße"
-housenumber: 5
+street: Franz-Graf-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

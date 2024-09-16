@@ -4,8 +4,8 @@ latitude: 48.32778
 longitude: 9.23909
 postcode: "72818"
 city: Trochtelfingen
-street: "Klaus-Freidler-Straße"
-housenumber: 1
+street: Klaus-Freidler-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su,PH 11:00-18:00"
-website: "https://www.alb-gold.de/kundenzentrum/landmarkt.html"
+opening_hours: Mo-Sa 09:00-19:00; Su,PH 11:00-18:00
+website: https://www.alb-gold.de/kundenzentrum/landmarkt.html

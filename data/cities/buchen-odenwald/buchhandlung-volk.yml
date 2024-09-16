@@ -1,11 +1,11 @@
 id: 188721471
-type: way
+type: node
 latitude: 49.52206
 longitude: 9.32491
 postcode: "74722"
 city: Buchen (Odenwald)
-street: "Marktstraße"
-housenumber: 23
+street: Marktstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo 09:00-13:30; Tu-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo 09:00-13:30; Tu-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

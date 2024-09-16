@@ -4,8 +4,9 @@ latitude: 48.80604
 longitude: 9.52745
 postcode: "73614"
 city: Schorndorf
-street: "Marktplatz"
-housenumber: 22
+street: Marktplatz
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Th 09:00-13:00, 14:00-19:00; Sa 09:00-16:00; Su, PH off"
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Th 09:00-13:00, 14:00-19:00; Sa 09:00-16:00;
+    Su, PH off
 website: ""

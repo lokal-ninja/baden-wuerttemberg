@@ -4,8 +4,8 @@ latitude: 48.78197
 longitude: 9.17778
 postcode: "70174"
 city: Stuttgart
-street: "Friedrichstraße"
-housenumber: 15
-phone: "+49 711 97803050"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-15:00"
-website: "https://www.boxie24.com/de-de/lagerraum-mieten-stuttgart/"
+street: Friedrichstraße
+housenumber: "15"
+phone: +49 711 97803050
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-15:00
+website: https://www.boxie24.com/de-de/lagerraum-mieten-stuttgart/

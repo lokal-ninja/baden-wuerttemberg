@@ -1,11 +1,11 @@
 id: 35476107
-type: way
+type: node
 latitude: 48.7827
 longitude: 9.15997
 postcode: "70176"
 city: Stuttgart
-street: "Silberburgstraße"
-housenumber: 42
-phone: "+49 711 1204224"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
-website: "https://www.naseweis-kinderfachbuch.de/"
+street: Silberburgstraße
+housenumber: "42"
+phone: +49 711 1204224
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00
+website: https://www.naseweis-kinderfachbuch.de/

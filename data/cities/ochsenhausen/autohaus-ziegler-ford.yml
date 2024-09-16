@@ -1,11 +1,11 @@
 id: 216244575
-type: way
+type: node
 latitude: 48.06492
 longitude: 9.95313
 postcode: ""
 city: Ochsenhausen
-street: "Brühlstraße"
-housenumber: 8
+street: Brühlstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

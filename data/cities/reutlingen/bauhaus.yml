@@ -1,11 +1,11 @@
 id: 759059433
-type: way
+type: node
 latitude: 48.49542
 longitude: 9.15605
 postcode: "72770"
 city: Reutlingen
-street: "Justus-von-Liebig-Straße"
-housenumber: 1
+street: Justus-von-Liebig-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su off; PH off
 website: ""

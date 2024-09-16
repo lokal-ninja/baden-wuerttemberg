@@ -4,8 +4,8 @@ latitude: 48.48661
 longitude: 9.21531
 postcode: "72764"
 city: Reutlingen
-street: "Georgenstraße"
-housenumber: 26
-phone: "+49 7121 370139"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-19:00; Sa 10:00-16:00"
+street: Georgenstraße
+housenumber: "26"
+phone: +49 7121 370139
+opening_hours: Mo-Fr 10:00-13:00,15:00-19:00; Sa 10:00-16:00
 website: ""

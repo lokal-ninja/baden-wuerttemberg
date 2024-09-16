@@ -1,11 +1,11 @@
 id: 155351672
-type: way
+type: node
 latitude: 48.94209
 longitude: 8.26276
 postcode: "76448"
 city: Durmersheim
-street: "Zeppelinstraße"
-housenumber: 8
+street: Zeppelinstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

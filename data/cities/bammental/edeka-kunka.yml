@@ -1,11 +1,11 @@
 id: 164124786
-type: way
+type: node
 latitude: 49.35528
 longitude: 8.77564
 postcode: "69245"
 city: Bammental
-street: "Hauptstraße"
-housenumber: 66
+street: Hauptstraße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

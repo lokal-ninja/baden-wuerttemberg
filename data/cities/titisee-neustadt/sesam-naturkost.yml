@@ -1,11 +1,11 @@
 id: 161723798
-type: way
+type: node
 latitude: 47.9142
 longitude: 8.21467
 postcode: "79822"
 city: Titisee-Neustadt
-street: "Scheuerlenstraße"
-housenumber: 32
+street: Scheuerlenstraße
+housenumber: "32"
 phone: "+4976511630"
-opening_hours: "Di - Fr 8 - 18 Uhr, Sa 8 - 13 Uhr, Mo geschlossen"
+opening_hours: Di - Fr 8 - 18 Uhr, Sa 8 - 13 Uhr, Mo geschlossen
 website: ""

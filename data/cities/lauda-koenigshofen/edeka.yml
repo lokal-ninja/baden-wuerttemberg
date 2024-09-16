@@ -1,11 +1,11 @@
 id: 500880649
-type: way
+type: node
 latitude: 49.5617
 longitude: 9.70721
 postcode: "97922"
 city: Lauda-Königshofen
-street: "Badstraße"
-housenumber: 56
+street: Badstraße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

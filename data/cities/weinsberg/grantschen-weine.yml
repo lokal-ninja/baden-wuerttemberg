@@ -1,11 +1,11 @@
 id: 42463294
-type: way
+type: node
 latitude: 49.15889
 longitude: 9.32471
 postcode: "74189"
 city: Weinsberg
-street: "Wimmentaler Straße"
-housenumber: 36
+street: Wimmentaler Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "http://www.grantschen.de/"
+website: http://www.grantschen.de/

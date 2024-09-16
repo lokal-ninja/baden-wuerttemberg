@@ -1,11 +1,11 @@
 id: 91573639
-type: way
+type: node
 latitude: 49.03558
 longitude: 9.05292
 postcode: "74389"
 city: Cleebronn
-street: "Dorfstraße"
-housenumber: 
+street: Dorfstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

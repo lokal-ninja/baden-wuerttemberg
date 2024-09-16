@@ -1,11 +1,11 @@
 id: 998762272
-type: way
+type: node
 latitude: 48.81805
 longitude: 9.25897
 postcode: "70736"
 city: Fellbach
-street: "Schaflandstraße"
-housenumber: 32
-phone: "+49 711 9528170"
-opening_hours: "Mo-Th 07:00-13:00,14:00-17:00; Fr 07:00-15:00"
+street: Schaflandstraße
+housenumber: "32"
+phone: +49 711 9528170
+opening_hours: Mo-Th 07:00-13:00,14:00-17:00; Fr 07:00-15:00
 website: ""

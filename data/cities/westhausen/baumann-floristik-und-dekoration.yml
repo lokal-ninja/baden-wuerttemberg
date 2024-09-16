@@ -1,11 +1,11 @@
 id: 149021381
-type: way
+type: node
 latitude: 48.88535
 longitude: 10.17586
 postcode: "73463"
 city: Westhausen
-street: "In der Waage"
-housenumber: 15
+street: In der Waage
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

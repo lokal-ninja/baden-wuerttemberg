@@ -4,8 +4,8 @@ latitude: 48.72029
 longitude: 9.20857
 postcode: "70599"
 city: Stuttgart
-street: "Welfenstraße"
-housenumber: 21
-phone: "+49 711 454803"
-opening_hours: "Mo-Fr 07:15-18:15; Sa 07:00-13:15"
-website: "http://metzgerei-boese.de"
+street: Welfenstraße
+housenumber: "21"
+phone: +49 711 454803
+opening_hours: Mo-Fr 07:15-18:15; Sa 07:00-13:15
+website: http://metzgerei-boese.de

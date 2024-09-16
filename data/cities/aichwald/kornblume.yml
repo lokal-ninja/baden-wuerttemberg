@@ -1,11 +1,11 @@
 id: 109585706
-type: way
+type: node
 latitude: 48.7792
 longitude: 9.39252
 postcode: "73773"
 city: Aichwald
-street: "Schurwaldstraße"
-housenumber: 48
+street: Schurwaldstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Fr 07:30-19:00; Sa 07:00-14:00; Tu 07:30-19:00"
+opening_hours: Fr 07:30-19:00; Sa 07:00-14:00; Tu 07:30-19:00
 website: ""

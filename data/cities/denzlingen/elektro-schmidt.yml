@@ -1,11 +1,11 @@
 id: 111315329
-type: way
+type: node
 latitude: 48.06656
 longitude: 7.88425
 postcode: "79211"
 city: Denzlingen
-street: "Hauptstraße"
-housenumber: 138
-phone: "+49 7666 2352"
-opening_hours: "09:00-12:30,14:30-18:00; We,Sa 09:00-12:30; PH,Su off"
-website: "https://iq-elektro-schmidt.de"
+street: Hauptstraße
+housenumber: "138"
+phone: +49 7666 2352
+opening_hours: 09:00-12:30,14:30-18:00; We,Sa 09:00-12:30; PH,Su off
+website: https://iq-elektro-schmidt.de

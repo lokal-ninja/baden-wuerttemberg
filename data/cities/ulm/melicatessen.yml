@@ -4,8 +4,8 @@ latitude: 48.39974
 longitude: 9.99631
 postcode: "89073"
 city: Ulm
-street: "Kornhausgasse"
-housenumber: 11
-phone: "+49 731 71806125"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://melicatessen-ulm.de"
+street: Kornhausgasse
+housenumber: "11"
+phone: +49 731 71806125
+opening_hours: Mo-Sa 10:00-19:00
+website: https://melicatessen-ulm.de

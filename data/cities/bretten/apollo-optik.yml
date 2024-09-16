@@ -4,8 +4,8 @@ latitude: 49.03725
 longitude: 8.70548
 postcode: "75015"
 city: Bretten
-street: "Melanchthonstraße"
-housenumber: 20
+street: Melanchthonstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-14:00"
-website: "https://www.apollo.de/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-14:00
+website: https://www.apollo.de/

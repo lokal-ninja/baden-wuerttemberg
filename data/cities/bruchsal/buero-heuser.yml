@@ -1,11 +1,11 @@
 id: 287749965
-type: way
+type: node
 latitude: 49.12338
 longitude: 8.59963
 postcode: "76646"
 city: Bruchsal
-street: "Kaiserstraße"
-housenumber: 103
-phone: "+49 7251 2855"
+street: Kaiserstraße
+housenumber: "103"
+phone: +49 7251 2855
 opening_hours: ""
-website: "https://www.bueroheuser.de/"
+website: https://www.bueroheuser.de/

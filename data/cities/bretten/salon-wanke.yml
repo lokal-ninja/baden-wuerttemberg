@@ -1,11 +1,11 @@
 id: 117929708
-type: way
+type: node
 latitude: 49.02993
 longitude: 8.71478
 postcode: "75015"
 city: Bretten
-street: "Mörikeweg"
-housenumber: 29
+street: Mörikeweg
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

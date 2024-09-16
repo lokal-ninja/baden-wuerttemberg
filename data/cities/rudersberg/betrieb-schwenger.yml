@@ -1,11 +1,11 @@
 id: 193727475
-type: way
+type: node
 latitude: 48.88982
 longitude: 9.5371
 postcode: "73635"
 city: Rudersberg
-street: "Rudersberger Straße"
-housenumber: 61
+street: Rudersberger Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

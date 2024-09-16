@@ -1,11 +1,11 @@
 id: 224628756
-type: way
+type: node
 latitude: 48.54104
 longitude: 8.07127
 postcode: "77704"
 city: Oberkirch
-street: "Gewerbestraße"
-housenumber: 5
+street: Gewerbestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

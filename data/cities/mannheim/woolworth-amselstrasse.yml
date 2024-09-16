@@ -4,8 +4,8 @@ latitude: 49.54816
 longitude: 8.45555
 postcode: "68307"
 city: Mannheim
-street: "Amselstraße"
-housenumber: 10
-phone: "+49 2303 5938100"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://lilienthal-center.com/shop/woolworth/"
+street: Amselstraße
+housenumber: "10"
+phone: +49 2303 5938100
+opening_hours: Mo-Sa 08:00-20:00
+website: https://lilienthal-center.com/shop/woolworth/

@@ -1,11 +1,11 @@
 id: 172122760
-type: way
+type: node
 latitude: 49.5355
 longitude: 8.45265
 postcode: "68307"
 city: Mannheim
-street: "Sandhofer Straße"
-housenumber: 199
-phone: "+49 621 772317"
+street: Sandhofer Straße
+housenumber: "199"
+phone: +49 621 772317
 opening_hours: ""
-website: "https://www.heller-mannheim.de/"
+website: https://www.heller-mannheim.de/

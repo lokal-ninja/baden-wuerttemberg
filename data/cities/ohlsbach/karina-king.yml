@@ -1,11 +1,11 @@
 id: 338829036
-type: way
+type: node
 latitude: 48.42978
 longitude: 7.99398
 postcode: "77797"
 city: Ohlsbach
-street: "Hauptstraße"
-housenumber: 32
+street: Hauptstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

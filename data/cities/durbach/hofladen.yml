@@ -1,11 +1,11 @@
 id: 80456858
-type: way
+type: node
 latitude: 48.50169
 longitude: 8.02842
 postcode: "77770"
 city: Durbach
-street: "Schloß Staufenberg"
-housenumber: 
+street: Schloß Staufenberg
+housenumber: ""
 phone: ""
-opening_hours: "Sa-Su 11:00-17:00"
+opening_hours: Sa-Su 11:00-17:00
 website: ""

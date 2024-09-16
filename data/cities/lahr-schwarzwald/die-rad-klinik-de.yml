@@ -4,8 +4,8 @@ latitude: 48.34022
 longitude: 7.87004
 postcode: "77933"
 city: Lahr/Schwarzwald
-street: "Eichrodtstraße"
-housenumber: 2
+street: Eichrodtstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:30-13:30,14:30-18:00; Sa 09:30-12:30"
-website: "https://die-rad-klinik.de"
+opening_hours: Tu-Fr 09:30-13:30,14:30-18:00; Sa 09:30-12:30
+website: https://die-rad-klinik.de

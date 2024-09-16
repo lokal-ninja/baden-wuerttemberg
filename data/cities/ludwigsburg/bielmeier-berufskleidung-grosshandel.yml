@@ -1,11 +1,11 @@
 id: 301656317
-type: way
+type: node
 latitude: 48.89447
 longitude: 9.22199
 postcode: "71640"
 city: Ludwigsburg
-street: "Hofweg"
-housenumber: 27
-phone: "+49 7141 9908767"
+street: Hofweg
+housenumber: "27"
+phone: +49 7141 9908767
 opening_hours: ""
-website: "http://www.berufskleidung-bielmeier.de/"
+website: http://www.berufskleidung-bielmeier.de/

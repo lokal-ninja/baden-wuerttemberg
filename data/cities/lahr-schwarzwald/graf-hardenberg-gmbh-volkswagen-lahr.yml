@@ -1,11 +1,11 @@
 id: 77386439
-type: way
+type: node
 latitude: 48.33948
 longitude: 7.86388
 postcode: "77933"
 city: Lahr/Schwarzwald
-street: "Lotzbeckstraße"
-housenumber: 33
-phone: "+49 7821 27070"
+street: Lotzbeckstraße
+housenumber: "33"
+phone: +49 7821 27070
 opening_hours: ""
-website: "https://www.grafhardenberg.de/de/standorte/lahr/vw-lahr/"
+website: https://www.grafhardenberg.de/de/standorte/lahr/vw-lahr/

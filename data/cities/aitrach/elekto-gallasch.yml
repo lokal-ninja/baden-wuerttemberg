@@ -1,11 +1,11 @@
 id: 297999286
-type: way
+type: node
 latitude: 47.94076
 longitude: 10.0861
 postcode: "88319"
 city: Aitrach
-street: "Hauptstraße"
-housenumber: 13
+street: Hauptstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.elektro-gallasch.de/"
+website: https://www.elektro-gallasch.de/

@@ -1,11 +1,11 @@
 id: 89007593
-type: way
+type: node
 latitude: 49.3479
 longitude: 8.98371
 postcode: "74858"
 city: Aglasterhausen
-street: "Im Oberen Tal"
-housenumber: 18
+street: Im Oberen Tal
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00;Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00;Su,PH off
 website: ""

@@ -4,8 +4,9 @@ latitude: 48.79966
 longitude: 9.06233
 postcode: "70839"
 city: Gerlingen
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 21/1
 phone: "+49715624560"
-opening_hours: "Mo closed; Tu 09:00-13:00,14:30-18:30; We 09:00-13:00; Th-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00"
-website: "https://www.onewelt.com"
+opening_hours: Mo closed; Tu 09:00-13:00,14:30-18:30; We 09:00-13:00; Th-Fr 09:00-13:00,14:30-18:30;
+    Sa 09:00-13:00
+website: https://www.onewelt.com

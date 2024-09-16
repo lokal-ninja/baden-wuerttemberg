@@ -1,11 +1,11 @@
 id: 24434091
-type: way
+type: node
 latitude: 48.79048
 longitude: 9.00897
 postcode: "71229"
 city: Leonberg
-street: "Wilhelmstraße"
-housenumber: 13
+street: Wilhelmstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

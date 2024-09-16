@@ -1,11 +1,11 @@
 id: 305841593
-type: way
+type: node
 latitude: 49.29978
 longitude: 9.15079
 postcode: "74855"
 city: Haßmersheim
-street: "Marktstraße"
-housenumber: 23
+street: Marktstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

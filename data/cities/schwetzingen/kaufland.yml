@@ -1,11 +1,11 @@
 id: 94871423
-type: way
+type: node
 latitude: 49.386
 longitude: 8.57669
 postcode: "68723"
 city: Schwetzingen
-street: "Carl-Theodor-Straße"
-housenumber: 33
-phone: "+49 6202 9787590"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Carl-Theodor-Straße
+housenumber: "33"
+phone: +49 6202 9787590
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

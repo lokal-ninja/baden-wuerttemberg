@@ -1,11 +1,11 @@
 id: 93925076
-type: way
+type: node
 latitude: 49.2073
 longitude: 9.203
 postcode: "74257"
 city: Untereisesheim
-street: "Im Kressgraben"
-housenumber: 1
+street: Im Kressgraben
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

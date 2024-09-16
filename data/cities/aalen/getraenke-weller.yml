@@ -1,11 +1,11 @@
 id: 211936997
-type: way
+type: node
 latitude: 48.83505
 longitude: 10.08934
 postcode: "73430"
 city: Aalen
-street: "Untere Wöhrstraße"
-housenumber: 11
+street: Untere Wöhrstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 08:00-12:30; Su,PH off"
-website: "http://getraenke-weller.de"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 08:00-12:30; Su,PH off
+website: http://getraenke-weller.de

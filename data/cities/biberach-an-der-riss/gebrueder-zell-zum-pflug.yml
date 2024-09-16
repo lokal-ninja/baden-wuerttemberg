@@ -1,11 +1,11 @@
 id: 103226601
-type: way
+type: node
 latitude: 48.09653
 longitude: 9.78214
 postcode: "88400"
 city: Biberach an der Riß
-street: "Hardtsteigstraße"
-housenumber: 2
+street: Hardtsteigstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

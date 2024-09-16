@@ -4,8 +4,8 @@ latitude: 48.27482
 longitude: 8.85127
 postcode: "72336"
 city: Balingen
-street: "Friedrichstraße"
-housenumber: 18
-phone: "+49 7433 9021555"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-18:00"
-website: "https://www.baeckerei-padeffke.de/"
+street: Friedrichstraße
+housenumber: "18"
+phone: +49 7433 9021555
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-18:00
+website: https://www.baeckerei-padeffke.de/

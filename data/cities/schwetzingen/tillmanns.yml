@@ -4,8 +4,8 @@ latitude: 49.38572
 longitude: 8.57402
 postcode: "68723"
 city: Schwetzingen
-street: "Mannheimer Straße"
-housenumber: 19
+street: Mannheimer Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Th-Fr 11:00-18:00, Sa 10:00-14:00"
-website: "https://www.tillmanns-wohnen.de/"
+opening_hours: Th-Fr 11:00-18:00, Sa 10:00-14:00
+website: https://www.tillmanns-wohnen.de/

@@ -4,8 +4,8 @@ latitude: 48.92844
 longitude: 9.18187
 postcode: "71691"
 city: Freiberg am Neckar
-street: "Weidengasse"
-housenumber: 5
+street: Weidengasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=%20Weidengasse%205%2071691%20Freiberg%20am%20Neckar&Mode=None"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=%20Weidengasse%205%2071691%20Freiberg%20am%20Neckar&Mode=None

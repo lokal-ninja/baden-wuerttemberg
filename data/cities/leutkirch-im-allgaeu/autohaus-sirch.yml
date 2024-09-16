@@ -1,11 +1,11 @@
 id: 235608039
-type: way
+type: node
 latitude: 47.8227
 longitude: 10.00642
 postcode: "88299"
 city: Leutkirch im Allgäu
-street: "Wangener Straße"
-housenumber: 90
+street: Wangener Straße
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

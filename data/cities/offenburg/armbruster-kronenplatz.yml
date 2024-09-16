@@ -4,8 +4,8 @@ latitude: 48.46779
 longitude: 7.93813
 postcode: "77652"
 city: Offenburg
-street: "Kronenplatz"
-housenumber: 1
-phone: "+49 781 94867534"
-opening_hours: "Mo-Sa 07:00-18:00; Su 08:00-18:00"
-website: "http://www.armbruster-backshop.de/"
+street: Kronenplatz
+housenumber: "1"
+phone: +49 781 94867534
+opening_hours: Mo-Sa 07:00-18:00; Su 08:00-18:00
+website: http://www.armbruster-backshop.de/

@@ -1,11 +1,11 @@
 id: 28699177
-type: way
+type: node
 latitude: 48.15405
 longitude: 9.50024
 postcode: ""
 city: Riedlingen
-street: "Opelstraße"
-housenumber: 2
+street: Opelstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

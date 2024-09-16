@@ -1,11 +1,11 @@
 id: 145134258
-type: way
+type: node
 latitude: 49.50483
 longitude: 8.60415
 postcode: "68542"
 city: Heddesheim
-street: "Oberdorfstraße"
-housenumber: 7
+street: Oberdorfstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

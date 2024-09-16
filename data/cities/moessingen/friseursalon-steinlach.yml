@@ -4,8 +4,8 @@ latitude: 48.40462
 longitude: 9.04971
 postcode: "72116"
 city: Mössingen
-street: "Breite Straße"
-housenumber: 34
-phone: "+49 7473 921899"
-opening_hours: "Tu,Th,Fr 07:30-12:30,14:00-18:30;We 7:30-13:30;Sa 07:30-12:30"
+street: Breite Straße
+housenumber: "34"
+phone: +49 7473 921899
+opening_hours: Tu,Th,Fr 07:30-12:30,14:00-18:30;We 7:30-13:30;Sa 07:30-12:30
 website: ""

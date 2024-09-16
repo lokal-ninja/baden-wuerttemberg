@@ -4,8 +4,8 @@ latitude: 48.77548
 longitude: 9.18058
 postcode: "70173"
 city: Stuttgart
-street: "Eduard-Breuninger-Straße"
-housenumber: 6
+street: Eduard-Breuninger-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH,Su off"
-website: "https://rivieramaison.de/de/winkels/riviera-maison-stuttgart-dorotheen-quartier"
+opening_hours: Mo-Sa 10:00-19:00; PH,Su off
+website: https://rivieramaison.de/de/winkels/riviera-maison-stuttgart-dorotheen-quartier

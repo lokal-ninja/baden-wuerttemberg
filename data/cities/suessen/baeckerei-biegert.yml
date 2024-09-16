@@ -1,11 +1,11 @@
 id: 591328817
-type: way
+type: node
 latitude: 48.67822
 longitude: 9.75685
 postcode: "73079"
 city: Süßen
-street: "Johann-Georg-Fischer-Straße"
-housenumber: 3
+street: Johann-Georg-Fischer-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

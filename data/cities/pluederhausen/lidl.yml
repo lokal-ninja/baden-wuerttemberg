@@ -1,11 +1,11 @@
 id: 176663941
-type: way
+type: node
 latitude: 48.79798
 longitude: 9.59605
 postcode: "73655"
 city: Plüderhausen
-street: "Bahnhofstraße"
-housenumber: 6
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://lidl.de"
+street: Bahnhofstraße
+housenumber: "6"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://lidl.de

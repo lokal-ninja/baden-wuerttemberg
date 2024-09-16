@@ -4,8 +4,9 @@ latitude: 48.99739
 longitude: 8.41054
 postcode: "76137"
 city: Karlsruhe
-street: "Rüppurrer Straße"
-housenumber: 94
+street: Rüppurrer Straße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo 10:00-12:30,14:30-16:00; Tu,We 10:00-12:30; Th,Fr 10:00-13:00,14:30-16:30; Sa,Su,PH off Mo,Tu,Th,Fr 14:30-16:30"
+opening_hours: Mo 10:00-12:30,14:30-16:00; Tu,We 10:00-12:30; Th,Fr 10:00-13:00,14:30-16:30;
+    Sa,Su,PH off Mo,Tu,Th,Fr 14:30-16:30
 website: ""

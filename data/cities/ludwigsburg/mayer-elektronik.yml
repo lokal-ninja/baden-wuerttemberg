@@ -4,8 +4,8 @@ latitude: 48.89185
 longitude: 9.194
 postcode: "71638"
 city: Ludwigsburg
-street: "Stuttgarter Straße"
-housenumber: 32
+street: Stuttgarter Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30, Mo,Tu,Th,Fr 14:30-18:00"
-website: "https://www.mayer-elektronik.de/"
+opening_hours: Mo-Sa 09:00-12:30, Mo,Tu,Th,Fr 14:30-18:00
+website: https://www.mayer-elektronik.de/

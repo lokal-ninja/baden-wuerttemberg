@@ -1,11 +1,11 @@
 id: 329735660
-type: way
+type: node
 latitude: 48.13062
 longitude: 8.23241
 postcode: "78098"
 city: Triberg
-street: "Hauptstraße"
-housenumber: 55
+street: Hauptstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 06:30-18:00, Su 07:30-18:00"
+opening_hours: Mo-Sa 06:30-18:00, Su 07:30-18:00
 website: ""

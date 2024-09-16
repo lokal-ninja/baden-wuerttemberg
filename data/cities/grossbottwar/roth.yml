@@ -1,11 +1,11 @@
 id: 117693119
-type: way
+type: node
 latitude: 49.00157
 longitude: 9.29306
 postcode: "71723"
 city: Großbottwar
-street: "Hauptstraße"
-housenumber: 39
+street: Hauptstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

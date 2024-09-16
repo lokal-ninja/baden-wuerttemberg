@@ -1,11 +1,11 @@
 id: 148890256
-type: way
+type: node
 latitude: 48.9015
 longitude: 8.31071
 postcode: "76316"
 city: Malsch
-street: "Durmersheimer Straße"
-housenumber: 8
+street: Durmersheimer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 14:00-17:30"
+opening_hours: Mo-Fr 14:00-17:30
 website: ""

@@ -4,8 +4,9 @@ latitude: 48.68656
 longitude: 9.00558
 postcode: "71034"
 city: Böblingen
-street: "Wilhelmstraße"
-housenumber: 34
+street: Wilhelmstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:30; PH,Sa,Su off"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:30; PH,Sa,Su
+    off
 website: ""

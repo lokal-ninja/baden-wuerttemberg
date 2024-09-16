@@ -1,11 +1,11 @@
 id: 144409402
-type: way
+type: node
 latitude: 48.80273
 longitude: 9.06916
 postcode: "70839"
 city: Gerlingen
-street: "Schillerstraße"
-housenumber: 62
+street: Schillerstraße
+housenumber: "62"
 phone: ""
 opening_hours: ""
-website: "https://www.jutz.de/"
+website: https://www.jutz.de/

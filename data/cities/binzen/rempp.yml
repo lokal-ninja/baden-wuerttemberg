@@ -1,11 +1,11 @@
 id: 91887572
-type: way
+type: node
 latitude: 47.62474
 longitude: 7.6088
 postcode: "79589"
 city: Binzen
-street: "Eulerstraße"
-housenumber: 1
+street: Eulerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-15:00"
-website: "https://www.rempp.de/rempp-binzen/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-15:00
+website: https://www.rempp.de/rempp-binzen/

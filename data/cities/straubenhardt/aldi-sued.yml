@@ -1,11 +1,11 @@
 id: 27489906
-type: way
+type: node
 latitude: 48.84625
 longitude: 8.52358
 postcode: "75334"
 city: Straubenhardt
-street: "Max-Planck-Straße"
-housenumber: 8
+street: Max-Planck-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

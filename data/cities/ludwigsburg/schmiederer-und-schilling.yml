@@ -1,11 +1,11 @@
 id: 172451841
-type: way
+type: node
 latitude: 48.89631
 longitude: 9.20887
 postcode: "71638"
 city: Ludwigsburg
-street: "Schorndorfer Straße"
-housenumber: 105
+street: Schorndorfer Straße
+housenumber: "105"
 phone: "+49714181477"
-opening_hours: "Mo-Fr 07:30-13:00, 14:30-18:30; Sa 07:30-13:00"
+opening_hours: Mo-Fr 07:30-13:00, 14:30-18:30; Sa 07:30-13:00
 website: ""

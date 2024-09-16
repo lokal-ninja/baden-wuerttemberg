@@ -4,8 +4,8 @@ latitude: 48.7283
 longitude: 9.30547
 postcode: "73734"
 city: Esslingen am Neckar
-street: "Zollernplatz"
-housenumber: 
+street: Zollernplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Su 08:00-11:00; Sa 06:30-16:00"
-website: "https://www.backhaus-zoller.de/"
+opening_hours: Mo-Fr 06:30-18:00; Su 08:00-11:00; Sa 06:30-16:00
+website: https://www.backhaus-zoller.de/

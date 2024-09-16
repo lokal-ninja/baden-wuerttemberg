@@ -1,11 +1,11 @@
 id: 108324911
-type: way
+type: node
 latitude: 48.75871
 longitude: 8.16789
 postcode: "76547"
 city: Sinzheim
-street: "Landstraße"
-housenumber: 11
+street: Landstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

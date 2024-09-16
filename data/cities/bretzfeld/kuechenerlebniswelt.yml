@@ -1,11 +1,11 @@
 id: 211934077
-type: way
+type: node
 latitude: 49.17981
 longitude: 9.41062
 postcode: "74626"
 city: Bretzfeld
-street: "Im Eisenhütle"
-housenumber: 20
+street: Im Eisenhütle
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

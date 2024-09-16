@@ -1,11 +1,11 @@
 id: 422927237
-type: way
+type: node
 latitude: 48.46275
 longitude: 8.41781
 postcode: "72250"
 city: Freudenstadt
-street: "Bahnhofstraße"
-housenumber: 19
+street: Bahnhofstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

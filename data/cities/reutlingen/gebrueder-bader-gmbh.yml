@@ -4,8 +4,8 @@ latitude: 48.54482
 longitude: 9.17494
 postcode: "72768"
 city: Reutlingen
-street: "Steigäckerstraße"
-housenumber: 14
-phone: "+49 7121 907630"
-opening_hours: "Mo-Sa 8:30-12:30; Tu,Th,Fr 15:00-19:00"
-website: "https://gebrueder-bader.com/"
+street: Steigäckerstraße
+housenumber: "14"
+phone: +49 7121 907630
+opening_hours: Mo-Sa 8:30-12:30; Tu,Th,Fr 15:00-19:00
+website: https://gebrueder-bader.com/

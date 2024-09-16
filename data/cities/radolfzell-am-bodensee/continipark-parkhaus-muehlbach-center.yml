@@ -1,11 +1,11 @@
 id: 45129915
-type: way
+type: node
 latitude: 47.73968
 longitude: 8.96966
 postcode: "78315"
 city: Radolfzell am Bodensee
-street: "Markthallenstraße"
-housenumber: 1
+street: Markthallenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

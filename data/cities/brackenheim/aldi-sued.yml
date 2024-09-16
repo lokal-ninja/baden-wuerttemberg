@@ -1,11 +1,11 @@
 id: 137843684
-type: way
+type: node
 latitude: 49.07483
 longitude: 9.06038
 postcode: "74336"
 city: Brackenheim
-street: "Maulbronner Straße"
-housenumber: 24
+street: Maulbronner Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

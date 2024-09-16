@@ -4,8 +4,8 @@ latitude: 47.67172
 longitude: 9.17548
 postcode: "78467"
 city: Konstanz
-street: "Markgrafenstraße"
-housenumber: 26
-phone: "+49 7531 52600"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-16:00; Su off"
-website: "http://www.zoo-riedle.de"
+street: Markgrafenstraße
+housenumber: "26"
+phone: +49 7531 52600
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-16:00; Su off
+website: http://www.zoo-riedle.de

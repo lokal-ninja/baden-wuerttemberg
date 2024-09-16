@@ -4,8 +4,8 @@ latitude: 48.46098
 longitude: 7.92596
 postcode: "77656"
 city: Offenburg
-street: "Rabenplatz"
-housenumber: 3
+street: Rabenplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00"
-website: "https://www.baeckerei-siegwart.de/"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-13:00
+website: https://www.baeckerei-siegwart.de/

@@ -1,11 +1,11 @@
 id: 677840082
-type: way
+type: node
 latitude: 48.89062
 longitude: 9.45745
 postcode: "73663"
 city: Berglen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Fr"
-website: "https://www.haeussermann-heidenhof.de"
+opening_hours: Fr
+website: https://www.haeussermann-heidenhof.de

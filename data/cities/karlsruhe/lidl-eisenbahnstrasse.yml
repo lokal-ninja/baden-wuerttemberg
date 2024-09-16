@@ -4,8 +4,8 @@ latitude: 49.0055
 longitude: 8.50013
 postcode: "76229"
 city: Karlsruhe
-street: "Eisenbahnstraße"
-housenumber: 8
+street: Eisenbahnstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/filialen/karlsruhe/groetzingen-eisenbahnstr-8.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/filialen/karlsruhe/groetzingen-eisenbahnstr-8.html

@@ -1,11 +1,11 @@
 id: 59366526
-type: way
+type: node
 latitude: 48.92734
 longitude: 9.46852
 postcode: "71554"
 city: Weissach im Tal
-street: "Beethovenstraße"
-housenumber: 2
+street: Beethovenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

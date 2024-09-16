@@ -1,11 +1,11 @@
 id: 258727284
-type: way
+type: node
 latitude: 47.68334
 longitude: 9.55539
 postcode: "88074"
 city: Meckenbeuren
-street: "Hauptstraße"
-housenumber: 175
+street: Hauptstraße
+housenumber: "175"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

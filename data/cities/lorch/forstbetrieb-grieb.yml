@@ -1,11 +1,11 @@
 id: 249639170
-type: way
+type: node
 latitude: 48.78439
 longitude: 9.66382
 postcode: "73547"
 city: Lorch
-street: "Kaiserstraße"
-housenumber: 122
+street: Kaiserstraße
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

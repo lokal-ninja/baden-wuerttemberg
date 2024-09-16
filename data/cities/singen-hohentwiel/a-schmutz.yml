@@ -1,11 +1,11 @@
 id: 414617422
-type: way
+type: node
 latitude: 47.74672
 longitude: 8.84643
 postcode: "78224"
 city: Singen (Hohentwiel)
-street: "Worblinger Straße"
-housenumber: 56
+street: Worblinger Straße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

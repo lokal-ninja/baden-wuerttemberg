@@ -1,11 +1,11 @@
 id: 289019729
-type: way
+type: node
 latitude: 48.77511
 longitude: 8.22193
 postcode: ""
 city: Baden-Baden
-street: "Rheinstraße"
-housenumber: 24
-phone: "+49 7221 967833"
-opening_hours: "Mo,Tu,Th,Fr 07:30-13:00,15:00-18:00; We 07:30-13:00; Sa 07:30-12:30"
+street: Rheinstraße
+housenumber: "24"
+phone: +49 7221 967833
+opening_hours: Mo,Tu,Th,Fr 07:30-13:00,15:00-18:00; We 07:30-13:00; Sa 07:30-12:30
 website: ""

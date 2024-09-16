@@ -4,8 +4,9 @@ latitude: 47.64418
 longitude: 7.74113
 postcode: "79585"
 city: Steinen
-street: "Kanderner Straße"
+street: Kanderner Straße
 housenumber: 15a
 phone: "+4915158517666"
-opening_hours: "Tu,Th,Fr 09:00-12:00,15:00-18:00; We 09:00-12:00; Sa[1] 10:00-12:00; PH off"
+opening_hours: Tu,Th,Fr 09:00-12:00,15:00-18:00; We 09:00-12:00; Sa[1] 10:00-12:00;
+    PH off
 website: ""

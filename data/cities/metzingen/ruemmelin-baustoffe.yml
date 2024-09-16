@@ -1,11 +1,12 @@
 id: 168988988
-type: way
+type: node
 latitude: 48.53178
 longitude: 9.29064
 postcode: "72555"
 city: Metzingen
-street: "Paul-Lechler-Straße"
-housenumber: 4
+street: Paul-Lechler-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mar-Nov Mo-Fr 07:00-12:00,13:00-18:00; Mar-Nov Sa 07:00-12:00; Dec-Feb Mo-Sa 08:00-12:00,13:00-17:00; Dec-Feb Sa 08:00-12:00; PH closed"
+opening_hours: Mar-Nov Mo-Fr 07:00-12:00,13:00-18:00; Mar-Nov Sa 07:00-12:00; Dec-Feb
+    Mo-Sa 08:00-12:00,13:00-17:00; Dec-Feb Sa 08:00-12:00; PH closed
 website: ""

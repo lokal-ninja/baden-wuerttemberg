@@ -1,11 +1,11 @@
 id: 260632225
-type: way
+type: node
 latitude: 49.43692
 longitude: 9.33767
 postcode: "74743"
 city: Seckach
-street: "In der Au"
-housenumber: 31
+street: In der Au
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

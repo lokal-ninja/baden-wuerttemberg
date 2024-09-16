@@ -4,8 +4,8 @@ latitude: 48.70728
 longitude: 9.58362
 postcode: "73066"
 city: Uhingen
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.tintenfaessle.de"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.tintenfaessle.de

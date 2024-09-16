@@ -1,11 +1,11 @@
 id: 226926720
-type: way
+type: node
 latitude: 47.82791
 longitude: 7.94399
 postcode: "79674"
 city: Todtnau
-street: "Schönauer Straße"
-housenumber: 22
+street: Schönauer Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.teichmann.biz/go.to/modix/now/home.html"
+website: https://www.teichmann.biz/go.to/modix/now/home.html

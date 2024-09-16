@@ -4,8 +4,8 @@ latitude: 48.67541
 longitude: 10.1512
 postcode: "89522"
 city: Heidenheim an der Brenz
-street: "Hauptstraße"
-housenumber: 60
+street: Hauptstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo,Tu,Fr 09:00-18:00; We,Sa 09:00-13:30; Th 13:30-20:00; PH off"
-website: "https://tante-heidi.de/"
+opening_hours: Mo,Tu,Fr 09:00-18:00; We,Sa 09:00-13:30; Th 13:30-20:00; PH off
+website: https://tante-heidi.de/

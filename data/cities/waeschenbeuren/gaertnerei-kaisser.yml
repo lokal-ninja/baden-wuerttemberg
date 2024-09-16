@@ -1,11 +1,11 @@
 id: 221854743
-type: way
+type: node
 latitude: 48.76644
 longitude: 9.70268
 postcode: "73116"
 city: Wäschenbeuren
-street: "Wäscherhof"
-housenumber: 12
+street: Wäscherhof
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

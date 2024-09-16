@@ -1,11 +1,11 @@
 id: 96007565
-type: way
+type: node
 latitude: 48.77271
 longitude: 8.58141
 postcode: "75323"
 city: Bad Wildbad
-street: "Häberlenstraße"
-housenumber: 16
+street: Häberlenstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "http://www.opel-haag.de/"
+website: http://www.opel-haag.de/

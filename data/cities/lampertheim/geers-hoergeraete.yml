@@ -1,11 +1,11 @@
 id: 582387700
-type: way
+type: node
 latitude: 49.59444
 longitude: 8.46863
 postcode: "68623"
 city: Lampertheim
-street: "Kaiserstraße"
-housenumber: 7
-phone: "+49 6206 3373"
+street: Kaiserstraße
+housenumber: "7"
+phone: +49 6206 3373
 opening_hours: ""
-website: "https://standorte.geers.de/lampertheim/kaiserstrasse-7.html"
+website: https://standorte.geers.de/lampertheim/kaiserstrasse-7.html

@@ -4,8 +4,8 @@ latitude: 48.28412
 longitude: 8.16773
 postcode: "77756"
 city: Hausach
-street: "Gartenstraße"
-housenumber: 25
+street: Gartenstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Tu,Th,Fr 06:00-18:00; We,Sa 06:00-13:00; Su 07:30-10:30"
+opening_hours: Tu,Th,Fr 06:00-18:00; We,Sa 06:00-13:00; Su 07:30-10:30
 website: ""

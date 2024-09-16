@@ -4,8 +4,8 @@ latitude: 48.94732
 longitude: 8.57381
 postcode: "75196"
 city: Remchingen
-street: "Hauptstraße"
-housenumber: 35
-phone: "+49 7232 7352120"
-opening_hours: "Mo-Fr 06:00-13:00; Sa 06:00-12:30; PH,Su off"
+street: Hauptstraße
+housenumber: "35"
+phone: +49 7232 7352120
+opening_hours: Mo-Fr 06:00-13:00; Sa 06:00-12:30; PH,Su off
 website: ""

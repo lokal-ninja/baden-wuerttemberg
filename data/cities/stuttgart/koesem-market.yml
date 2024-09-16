@@ -4,8 +4,8 @@ latitude: 48.80203
 longitude: 9.21965
 postcode: "70372"
 city: Stuttgart
-street: "Seelbergstraße"
-housenumber: 26
-phone: "0711 55347438"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Seelbergstraße
+housenumber: "26"
+phone: 0711 55347438
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 192403388
-type: way
+type: node
 latitude: 49.12888
 longitude: 8.41731
 postcode: "76351"
 city: Linkenheim-Hochstetten
-street: "Karlsruher Straße"
-housenumber: 84
-phone: "+49 7247 207154"
-opening_hours: "Mo-Sa 7:00-22:00; PH closed"
+street: Karlsruher Straße
+housenumber: "84"
+phone: +49 7247 207154
+opening_hours: Mo-Sa 7:00-22:00; PH closed
 website: ""

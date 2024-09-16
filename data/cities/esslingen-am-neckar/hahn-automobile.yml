@@ -1,11 +1,11 @@
 id: 282520577
-type: way
+type: node
 latitude: 48.73757
 longitude: 9.29351
 postcode: "73734"
 city: Esslingen am Neckar
-street: "Ottostraße"
-housenumber: 5
+street: Ottostraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

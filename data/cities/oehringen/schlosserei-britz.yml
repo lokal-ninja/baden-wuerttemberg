@@ -1,11 +1,11 @@
 id: 368192208
-type: way
+type: node
 latitude: 49.2048
 longitude: 9.53765
 postcode: "74613"
 city: Öhringen
-street: "Eichklingenweg"
-housenumber: 7
+street: Eichklingenweg
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://www.schlosserei-britz.de"
+website: http://www.schlosserei-britz.de

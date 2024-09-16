@@ -1,11 +1,11 @@
 id: 475475392
-type: way
+type: node
 latitude: 48.02024
 longitude: 9.49217
 postcode: "88348"
 city: Bad Saulgau
-street: "Herbertinger Straße"
-housenumber: 31
-phone: "+49 7581 7306"
+street: Herbertinger Straße
+housenumber: "31"
+phone: +49 7581 7306
 opening_hours: ""
-website: "https://blickle24.de/"
+website: https://blickle24.de/

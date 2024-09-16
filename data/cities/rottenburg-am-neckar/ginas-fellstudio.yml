@@ -4,8 +4,8 @@ latitude: 48.48096
 longitude: 8.96072
 postcode: "72108"
 city: Rottenburg am Neckar
-street: "Grasiger Weg"
-housenumber: 1
-phone: "+49 177 3346102"
-opening_hours: "on appointment"
+street: Grasiger Weg
+housenumber: "1"
+phone: +49 177 3346102
+opening_hours: '"on appointment"'
 website: ""

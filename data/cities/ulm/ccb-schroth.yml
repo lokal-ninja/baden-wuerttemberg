@@ -4,8 +4,8 @@ latitude: 48.38672
 longitude: 9.95587
 postcode: "89077"
 city: Ulm
-street: "Köllestraße"
-housenumber: 52
-phone: "+49 731 385000"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00; Sa,Su,Mo,PH off"
-website: "http://www.ccb-schroth.de"
+street: Köllestraße
+housenumber: "52"
+phone: +49 731 385000
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:00; Sa,Su,Mo,PH off
+website: http://www.ccb-schroth.de

@@ -1,11 +1,11 @@
 id: 129829274
-type: way
+type: node
 latitude: 49.15546
 longitude: 9.22808
 postcode: "74076"
 city: Heilbronn
-street: "Käferflugstraße"
-housenumber: 40
+street: Käferflugstraße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

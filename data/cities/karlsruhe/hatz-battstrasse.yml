@@ -4,8 +4,8 @@ latitude: 48.96587
 longitude: 8.40538
 postcode: "76199"
 city: Karlsruhe
-street: "Battstraße"
-housenumber: 2
+street: Battstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Su,Su 07:00-22:00"
-website: "http://ich-geh-zum-hatz.de/index.php/efabattstrasse.html"
+opening_hours: Mo-Fr 06:00-22:00; Su,Su 07:00-22:00
+website: http://ich-geh-zum-hatz.de/index.php/efabattstrasse.html

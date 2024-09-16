@@ -1,11 +1,11 @@
 id: 198382433
-type: way
+type: node
 latitude: 49.12881
 longitude: 8.56554
 postcode: "76646"
 city: Bruchsal
-street: "Industriestraße"
-housenumber: 13
+street: Industriestraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

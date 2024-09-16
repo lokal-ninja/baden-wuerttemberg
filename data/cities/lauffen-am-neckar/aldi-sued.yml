@@ -1,11 +1,11 @@
 id: 96856342
-type: way
+type: node
 latitude: 49.0786
 longitude: 9.14838
 postcode: "74348"
 city: Lauffen am Neckar
-street: "Im Brühl"
-housenumber: 6
+street: Im Brühl
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

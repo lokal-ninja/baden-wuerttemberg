@@ -1,11 +1,11 @@
 id: 171892619
-type: way
+type: node
 latitude: 49.58203
 longitude: 9.37681
 postcode: "74731"
 city: Walldürn
-street: "Würzburger Straße"
-housenumber: 20
+street: Würzburger Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "http://www.kuechen-duo.de/"
+website: http://www.kuechen-duo.de/

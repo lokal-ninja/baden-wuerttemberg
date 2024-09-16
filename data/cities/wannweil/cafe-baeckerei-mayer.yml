@@ -4,8 +4,8 @@ latitude: 48.51406
 longitude: 9.15206
 postcode: "72827"
 city: Wannweil
-street: "Hauptstraße"
-housenumber: 26
+street: Hauptstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-17:00; Su,PH 07:30-17:00"
-website: "https://www.cafe-baecker-mayer.de/standorte/"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-17:00; Su,PH 07:30-17:00
+website: https://www.cafe-baecker-mayer.de/standorte/

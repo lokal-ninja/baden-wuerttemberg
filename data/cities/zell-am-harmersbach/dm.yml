@@ -1,11 +1,11 @@
 id: 619743819
-type: way
+type: node
 latitude: 48.34609
 longitude: 8.05774
 postcode: "77736"
 city: Zell am Harmersbach
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 4a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.dm.de/store/d4im/zell-am-harmersbach/keramikstrasse-6"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.dm.de/store/d4im/zell-am-harmersbach/keramikstrasse-6

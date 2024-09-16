@@ -1,11 +1,11 @@
 id: 227361966
-type: way
+type: node
 latitude: 48.12077
 longitude: 7.84923
 postcode: "79312"
 city: Emmendingen
-street: "Marktplatz"
-housenumber: 5
+street: Marktplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:30, Sa 09:00-13:00"
-website: "https://www.optik-nosch.de/"
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:30, Sa 09:00-13:00
+website: https://www.optik-nosch.de/

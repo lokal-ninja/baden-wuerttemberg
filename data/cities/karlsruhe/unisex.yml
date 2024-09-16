@@ -4,8 +4,8 @@ latitude: 49.00967
 longitude: 8.39712
 postcode: "76133"
 city: Karlsruhe
-street: "Waldstraße"
-housenumber: 41
-phone: "+49 721 1617950"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-17:00"
-website: "https://www.unisex-friseure.de/karlsruhe"
+street: Waldstraße
+housenumber: "41"
+phone: +49 721 1617950
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-17:00
+website: https://www.unisex-friseure.de/karlsruhe

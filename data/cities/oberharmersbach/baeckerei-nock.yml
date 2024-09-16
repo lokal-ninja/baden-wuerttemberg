@@ -1,11 +1,11 @@
 id: 118644247
-type: way
+type: node
 latitude: 48.37309
 longitude: 8.12558
 postcode: "77784"
 city: Oberharmersbach
-street: "Dorf"
-housenumber: 20
+street: Dorf
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

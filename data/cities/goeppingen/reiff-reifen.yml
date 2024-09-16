@@ -1,11 +1,11 @@
 id: 486946036
-type: way
+type: node
 latitude: 48.69731
 longitude: 9.68055
 postcode: "73037"
 city: Göppingen
-street: "Esslinger Straße"
-housenumber: 3
+street: Esslinger Straße
+housenumber: "3"
 phone: ""
-opening_hours: "07:30-18:00, Sa 08:00-12:00"
+opening_hours: 07:30-18:00, Sa 08:00-12:00
 website: ""

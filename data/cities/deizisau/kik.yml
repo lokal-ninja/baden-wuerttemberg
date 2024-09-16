@@ -1,11 +1,11 @@
 id: 298516546
-type: way
+type: node
 latitude: 48.71588
 longitude: 9.39206
 postcode: "73779"
 city: Deizisau
-street: "Plochinger Straße"
-housenumber: 35
+street: Plochinger Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-19:00"
-website: "https://www.kik.de/filialfinder/"
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-19:00
+website: https://www.kik.de/filialfinder/

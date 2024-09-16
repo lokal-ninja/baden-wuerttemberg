@@ -1,11 +1,11 @@
 id: 223708829
-type: way
+type: node
 latitude: 49.13671
 longitude: 8.56707
 postcode: "76646"
 city: Bruchsal
-street: "Kammerforststraße"
-housenumber: 3
-phone: "+49 7251 367010"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.pflanzen-mauk.de/"
+street: Kammerforststraße
+housenumber: "3"
+phone: +49 7251 367010
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.pflanzen-mauk.de/

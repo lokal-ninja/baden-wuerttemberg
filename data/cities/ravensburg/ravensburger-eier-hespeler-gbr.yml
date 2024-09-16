@@ -1,11 +1,11 @@
 id: 266579347
-type: way
+type: node
 latitude: 47.77048
 longitude: 9.64366
 postcode: "88212"
 city: Ravensburg
 street: ""
-housenumber: 16
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://www.ravensburger-eier.de/"
+opening_hours: Mo-Su 08:00-19:00
+website: https://www.ravensburger-eier.de/

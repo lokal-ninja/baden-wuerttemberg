@@ -1,11 +1,11 @@
 id: 246497460
-type: way
+type: node
 latitude: 48.79328
 longitude: 9.93199
 postcode: "73540"
 city: Heubach
-street: "Gmünder Straße"
-housenumber: 14
+street: Gmünder Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.sh-brendle.de/"
+website: https://www.sh-brendle.de/

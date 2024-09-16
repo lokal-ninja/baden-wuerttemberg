@@ -4,8 +4,8 @@ latitude: 48.81401
 longitude: 9.11242
 postcode: "70499"
 city: Stuttgart
-street: "Löwen-Markt"
-housenumber: 12
-phone: "+49 711 8872571"
-opening_hours: "Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 14:30-18:00,Sa 09:00-12:00"
-website: "http://www.orthopaedie-schwermer.de/"
+street: Löwen-Markt
+housenumber: "12"
+phone: +49 711 8872571
+opening_hours: Mo-Fr 09:00-12:30, Mo,Tu,Th,Fr 14:30-18:00,Sa 09:00-12:00
+website: http://www.orthopaedie-schwermer.de/

@@ -1,11 +1,11 @@
 id: 309280036
-type: way
+type: node
 latitude: 49.15796
 longitude: 8.48435
 postcode: "76676"
 city: Graben-Neudorf
-street: "Schulstraße"
-housenumber: 2
+street: Schulstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:00"
-website: "https://www.baeckerei-koehler.de/"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-12:00
+website: https://www.baeckerei-koehler.de/

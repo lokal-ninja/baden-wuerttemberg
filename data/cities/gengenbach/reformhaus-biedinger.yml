@@ -4,8 +4,9 @@ latitude: 48.40422
 longitude: 8.01564
 postcode: "77723"
 city: Gengenbach
-street: "Victor-Kretz-Straße"
-housenumber: 4
-phone: "+49 7803 2644"
-opening_hours: "Mo,Tu,Th,Fr 08:30-12:30, 14:00-18:00; We 08:00-12:30, 14:00-18:00; Sa 08:00-13:00"
-website: "https://www.reformhaus-biedinger.de/"
+street: Victor-Kretz-Straße
+housenumber: "4"
+phone: +49 7803 2644
+opening_hours: Mo,Tu,Th,Fr 08:30-12:30, 14:00-18:00; We 08:00-12:30, 14:00-18:00;
+    Sa 08:00-13:00
+website: https://www.reformhaus-biedinger.de/

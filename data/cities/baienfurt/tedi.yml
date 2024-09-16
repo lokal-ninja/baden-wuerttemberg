@@ -1,11 +1,11 @@
 id: 27821552
-type: way
+type: node
 latitude: 47.82847
 longitude: 9.65266
 postcode: "88255"
 city: Baienfurt
-street: "Baindter Straße"
-housenumber: 4
+street: Baindter Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

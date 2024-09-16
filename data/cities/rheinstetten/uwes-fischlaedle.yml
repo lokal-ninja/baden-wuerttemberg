@@ -1,11 +1,11 @@
 id: 251091438
-type: way
+type: node
 latitude: 48.95906
 longitude: 8.29164
 postcode: "76287"
 city: Rheinstetten
-street: "Bismarckstraße"
-housenumber: 11
+street: Bismarckstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Th-Fr 08:30-18:00; Sa 09:00-12:00"
+opening_hours: Th-Fr 08:30-18:00; Sa 09:00-12:00
 website: ""

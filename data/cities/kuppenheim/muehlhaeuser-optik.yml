@@ -4,8 +4,8 @@ latitude: 48.82831
 longitude: 8.2545
 postcode: "76456"
 city: Kuppenheim
-street: "Friedrichstraße"
-housenumber: 74
-phone: "+49 7222 4443"
-opening_hours: "Mo-Fr 09:00-13:00; Mo,Tu,Th,Fr 14:00-18:00; Sa 09:00-12:30"
-website: "https://www.muehlhaeuser-optik.de/"
+street: Friedrichstraße
+housenumber: "74"
+phone: +49 7222 4443
+opening_hours: Mo-Fr 09:00-13:00; Mo,Tu,Th,Fr 14:00-18:00; Sa 09:00-12:30
+website: https://www.muehlhaeuser-optik.de/

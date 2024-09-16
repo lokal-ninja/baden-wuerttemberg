@@ -4,8 +4,8 @@ latitude: 48.69627
 longitude: 8.13432
 postcode: "77815"
 city: Bühl
-street: "Eisenbahnstraße"
-housenumber: 5
-phone: "+49 7223 26227"
-opening_hours: "Tu,We,Fr 09:00-18:00; Th 09:00-17:00; Sa 08:00-13:00"
+street: Eisenbahnstraße
+housenumber: "5"
+phone: +49 7223 26227
+opening_hours: Tu,We,Fr 09:00-18:00; Th 09:00-17:00; Sa 08:00-13:00
 website: ""

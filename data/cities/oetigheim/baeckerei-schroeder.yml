@@ -1,11 +1,11 @@
 id: 296735218
-type: way
+type: node
 latitude: 48.89161
 longitude: 8.23069
 postcode: "76470"
 city: Ötigheim
-street: "Kronenstraße"
-housenumber: 12
-phone: "+49 7222 23673"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-17:00; Su 07:00-17:00"
-website: "https://baeckerei-schroeder.de/"
+street: Kronenstraße
+housenumber: "12"
+phone: +49 7222 23673
+opening_hours: Mo-Fr 05:00-18:00; Sa 05:00-17:00; Su 07:00-17:00
+website: https://baeckerei-schroeder.de/

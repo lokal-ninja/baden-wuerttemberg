@@ -1,11 +1,11 @@
 id: 30554964
-type: way
+type: node
 latitude: 47.68315
 longitude: 9.20309
 postcode: "78464"
 city: Konstanz
-street: "Mainaustraße"
-housenumber: 164
+street: Mainaustraße
+housenumber: "164"
 phone: "+49753132303"
 opening_hours: ""
 website: ""

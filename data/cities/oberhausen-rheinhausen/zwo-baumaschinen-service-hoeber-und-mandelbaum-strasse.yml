@@ -1,11 +1,11 @@
 id: 192061526
-type: way
+type: node
 latitude: 49.25528
 longitude: 8.5038
 postcode: "68794"
 city: Oberhausen-Rheinhausen
-street: "Hoeber-und-Mandelbaum-Straße"
-housenumber: 10
+street: Hoeber-und-Mandelbaum-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.99913
 longitude: 8.47263
 postcode: "76227"
 city: Karlsruhe
-street: "Pfinztalstraße"
-housenumber: 15
-phone: "+49 721 91567671"
-opening_hours: "Mo,Tu,Th,Fr 09:30-13:30,14:30-18:30; We 09:30-13:30; Sa 09:30-14:00"
-website: "https://www.bunterhund-spielwaren.de/"
+street: Pfinztalstraße
+housenumber: "15"
+phone: +49 721 91567671
+opening_hours: Mo,Tu,Th,Fr 09:30-13:30,14:30-18:30; We 09:30-13:30; Sa 09:30-14:00
+website: https://www.bunterhund-spielwaren.de/

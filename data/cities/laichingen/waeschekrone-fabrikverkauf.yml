@@ -1,11 +1,11 @@
 id: 122048133
-type: way
+type: node
 latitude: 48.4926
 longitude: 9.70101
 postcode: ""
 city: Laichingen
-street: "Hirschstraße"
-housenumber: 98
+street: Hirschstraße
+housenumber: "98"
 phone: ""
 opening_hours: ""
-website: "https://www.waeschekrone.de/de/die-marke/unternehmen/"
+website: https://www.waeschekrone.de/de/die-marke/unternehmen/

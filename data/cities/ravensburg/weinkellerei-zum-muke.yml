@@ -1,11 +1,11 @@
 id: 284160431
-type: way
+type: node
 latitude: 47.78446
 longitude: 9.59114
 postcode: "88212"
 city: Ravensburg
-street: "Höll"
-housenumber: 2
+street: Höll
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

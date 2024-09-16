@@ -4,8 +4,8 @@ latitude: 48.77592
 longitude: 9.18039
 postcode: "70173"
 city: Stuttgart
-street: "Eduard-Breuninger-Straße"
-housenumber: 5
+street: Eduard-Breuninger-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.isabella-patisserie.de/"
+opening_hours: Mo-Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.isabella-patisserie.de/

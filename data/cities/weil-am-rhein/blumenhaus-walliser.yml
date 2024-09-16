@@ -1,11 +1,11 @@
 id: 804684697
-type: way
+type: node
 latitude: 47.6043
 longitude: 7.59928
 postcode: "79576"
 city: Weil am Rhein
-street: "Rebgartenweg"
-housenumber: 17
-phone: "+49 7621 62201"
-opening_hours: "Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.blumen-walliser.de/"
+street: Rebgartenweg
+housenumber: "17"
+phone: +49 7621 62201
+opening_hours: Mo-Fr 09:00-12:30,15:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.blumen-walliser.de/

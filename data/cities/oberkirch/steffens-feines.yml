@@ -4,8 +4,8 @@ latitude: 48.5311
 longitude: 8.0786
 postcode: "77704"
 city: Oberkirch
-street: "Hauptstraße"
-housenumber: 55
-phone: "+49 7802 705 70 05"
-opening_hours: "Mo-Sa 08:00-18:00; Su, PH 09:00-18:00"
-website: "https://steffens-feines.de/"
+street: Hauptstraße
+housenumber: "55"
+phone: +49 7802 705 70 05
+opening_hours: Mo-Sa 08:00-18:00; Su, PH 09:00-18:00
+website: https://steffens-feines.de/

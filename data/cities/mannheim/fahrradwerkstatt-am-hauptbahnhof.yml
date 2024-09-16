@@ -4,8 +4,8 @@ latitude: 49.47902
 longitude: 8.47106
 postcode: "68161"
 city: Mannheim
-street: "Heinrich-von-Stephan-Straße"
-housenumber: 2
-phone: "+49 1578 8393313"
-opening_hours: "Mo-Th 07:30-09:00; 16:00-18:00; Fr 08:00-10:00"
-website: "https://fahrradwerkstatt-am-hauptbahnhof.business.site/"
+street: Heinrich-von-Stephan-Straße
+housenumber: "2"
+phone: +49 1578 8393313
+opening_hours: Mo-Th 07:30-09:00; 16:00-18:00; Fr 08:00-10:00
+website: https://fahrradwerkstatt-am-hauptbahnhof.business.site/

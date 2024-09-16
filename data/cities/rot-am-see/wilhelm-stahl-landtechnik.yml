@@ -1,11 +1,11 @@
 id: 151029111
-type: way
+type: node
 latitude: 49.24718
 longitude: 10.02862
 postcode: ""
 city: Rot am See
-street: "Crailsheimer Straße"
-housenumber: 9
+street: Crailsheimer Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

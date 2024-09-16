@@ -4,8 +4,8 @@ latitude: 47.6865
 longitude: 9.83547
 postcode: "88239"
 city: Wangen im Allgäu
-street: "Bindstraße"
-housenumber: 19
+street: Bindstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,02:00-18:00"
-website: "https://www.clarifee.de/"
+opening_hours: Mo-Fr 09:00-13:00,02:00-18:00
+website: https://www.clarifee.de/

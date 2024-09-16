@@ -1,11 +1,11 @@
 id: 178697900
-type: way
+type: node
 latitude: 48.97278
 longitude: 9.386
 postcode: ""
 city: Aspach
-street: "Boschstraße"
-housenumber: 3
+street: Boschstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

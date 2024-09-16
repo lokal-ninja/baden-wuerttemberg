@@ -1,11 +1,11 @@
 id: 358867277
-type: way
+type: node
 latitude: 48.95716
 longitude: 10.18336
 postcode: "73479"
 city: Ellwangen (Jagst)
-street: "Max-Eyth-Straße"
-housenumber: 1
+street: Max-Eyth-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

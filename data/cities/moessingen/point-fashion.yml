@@ -4,8 +4,8 @@ latitude: 48.4061
 longitude: 9.05427
 postcode: "72116"
 city: Mössingen
-street: "Bahnhofstraße"
-housenumber: 19
-phone: "+49 7473 91123"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.point-fashion.de/"
+street: Bahnhofstraße
+housenumber: "19"
+phone: +49 7473 91123
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.point-fashion.de/

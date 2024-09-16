@@ -1,11 +1,11 @@
 id: 257837094
-type: way
+type: node
 latitude: 48.2779
 longitude: 8.08605
 postcode: "77716"
 city: Haslach im Kinzigtal
-street: "Neue Eisenbahnstraße"
-housenumber: 1
+street: Neue Eisenbahnstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.77503
 longitude: 9.17999
 postcode: "70173"
 city: Stuttgart
-street: "Marktstraße"
+street: Marktstraße
 housenumber: 1-3
-phone: "+49 7112112000"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-20:00"
-website: "https://www.breuninger.com/"
+phone: +49 7112112000
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:30-20:00
+website: https://www.breuninger.com/

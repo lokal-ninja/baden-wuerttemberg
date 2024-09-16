@@ -1,11 +1,11 @@
 id: 218534177
-type: way
+type: node
 latitude: 48.85233
 longitude: 9.94269
 postcode: "73572"
 city: Heuchlingen
-street: "Leinzeller Straße"
-housenumber: 7
+street: Leinzeller Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

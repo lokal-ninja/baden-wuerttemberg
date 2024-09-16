@@ -1,11 +1,11 @@
 id: 372125954
-type: way
+type: node
 latitude: 49.10961
 longitude: 9.78271
 postcode: "74523"
 city: Schwäbisch Hall
-street: "Schmollerstraße"
-housenumber: 7
+street: Schmollerstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.busch-brunner.de/startseite/"
+website: https://www.busch-brunner.de/startseite/

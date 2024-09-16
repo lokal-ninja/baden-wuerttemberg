@@ -1,11 +1,11 @@
 id: 686317743
-type: way
+type: node
 latitude: 49.5929
 longitude: 8.46941
 postcode: "68623"
 city: Lampertheim
-street: "Römerstraße"
-housenumber: 58
-phone: "+49 6206 950760"
-opening_hours: "Tu 10:00-12:00; Th 16:00-18:00; Sa 9:00-12:00"
-website: "https://www.billau-jungpflanzen.de/"
+street: Römerstraße
+housenumber: "58"
+phone: +49 6206 950760
+opening_hours: Tu 10:00-12:00; Th 16:00-18:00; Sa 9:00-12:00
+website: https://www.billau-jungpflanzen.de/

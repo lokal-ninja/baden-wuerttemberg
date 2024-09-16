@@ -1,11 +1,11 @@
 id: 291985558
-type: way
+type: node
 latitude: 47.73306
 longitude: 8.00212
 postcode: "79682"
 city: Todtmoos
-street: "Jägermatt"
-housenumber: 2
+street: Jägermatt
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.schmidts-maerkte.de/"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.schmidts-maerkte.de/

@@ -1,11 +1,11 @@
 id: 96638599
-type: way
+type: node
 latitude: 49.14917
 longitude: 9.12583
 postcode: "74211"
 city: Leingarten
-street: "Liebigstraße"
-housenumber: 7
-phone: "+49 7131 6187376"
+street: Liebigstraße
+housenumber: "7"
+phone: +49 7131 6187376
 opening_hours: ""
-website: "https://steiger-naturals.de/"
+website: https://steiger-naturals.de/

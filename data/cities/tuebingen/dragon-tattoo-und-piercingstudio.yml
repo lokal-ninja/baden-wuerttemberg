@@ -4,8 +4,8 @@ latitude: 48.5327
 longitude: 9.09115
 postcode: "72074"
 city: Tübingen
-street: "Stäudach"
-housenumber: 88
-phone: "+49 7071 550823"
-opening_hours: "Tu-Fr 14:00-19:00"
-website: "https://www.dragon-tat2.de/"
+street: Stäudach
+housenumber: "88"
+phone: +49 7071 550823
+opening_hours: Tu-Fr 14:00-19:00
+website: https://www.dragon-tat2.de/

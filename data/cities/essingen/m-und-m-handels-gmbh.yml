@@ -1,11 +1,11 @@
 id: 248788894
-type: way
+type: node
 latitude: 48.82178
 longitude: 10.05499
 postcode: "73457"
 city: Essingen
-street: "Dauerwangstraße"
-housenumber: 103
+street: Dauerwangstraße
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

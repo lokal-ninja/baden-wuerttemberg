@@ -4,8 +4,8 @@ latitude: 49.00905
 longitude: 8.40085
 postcode: "76133"
 city: Karlsruhe
-street: "Ritterstraße"
-housenumber: 7
-phone: "+49 721 66992900"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-18:00"
+street: Ritterstraße
+housenumber: "7"
+phone: +49 721 66992900
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.67672
 longitude: 9.22359
 postcode: "70794"
 city: Filderstadt
-street: "Karlstraße"
-housenumber: 60
+street: Karlstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.baeckerei-treiber.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.baeckerei-treiber.de

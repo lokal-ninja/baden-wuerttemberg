@@ -1,11 +1,11 @@
 id: 458455680
-type: way
+type: node
 latitude: 48.78255
 longitude: 8.19221
 postcode: "76532"
 city: Baden-Baden
-street: "Gewerbepark Cité"
-housenumber: 7
-phone: "+49 7221 97 166 00"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://jysk.de/stores-locator?storeId=1821"
+street: Gewerbepark Cité
+housenumber: "7"
+phone: +49 7221 97 166 00
+opening_hours: Mo-Sa 09:30-20:00
+website: https://jysk.de/stores-locator?storeId=1821

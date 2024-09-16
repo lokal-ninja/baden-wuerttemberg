@@ -4,8 +4,8 @@ latitude: 47.69424
 longitude: 9.27124
 postcode: "88709"
 city: Meersburg
-street: "Steigstraße"
-housenumber: 14
+street: Steigstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Sa 11:00-17:00"
-website: "https://www.maurisch.com/"
+opening_hours: Tu-Sa 11:00-17:00
+website: https://www.maurisch.com/

@@ -4,8 +4,8 @@ latitude: 47.78035
 longitude: 9.61604
 postcode: "88212"
 city: Ravensburg
-street: "Marktstraße"
-housenumber: 51
+street: Marktstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Th 16:00-18:00; Sa 10:00-13:00"
+opening_hours: Th 16:00-18:00; Sa 10:00-13:00
 website: ""

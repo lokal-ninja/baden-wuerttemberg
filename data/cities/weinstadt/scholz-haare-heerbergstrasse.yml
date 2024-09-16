@@ -1,11 +1,11 @@
 id: 328099747
-type: way
+type: node
 latitude: 48.81411
 longitude: 9.35318
 postcode: "71384"
 city: Weinstadt
-street: "Heerbergstraße"
-housenumber: 6
+street: Heerbergstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

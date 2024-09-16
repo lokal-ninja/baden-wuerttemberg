@@ -1,11 +1,11 @@
 id: 303672121
-type: way
+type: node
 latitude: 49.26711
 longitude: 8.59903
 postcode: "68789"
 city: St. Leon-Rot
-street: "Marktstraße"
-housenumber: 77
+street: Marktstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 08:30-20:00"
+opening_hours: Mo-Fr 09:30-20:00; Sa 08:30-20:00
 website: ""

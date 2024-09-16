@@ -1,11 +1,11 @@
 id: 222306006
-type: way
+type: node
 latitude: 48.11155
 longitude: 7.84786
 postcode: "79312"
 city: Emmendingen
-street: "Denzlinger Straße"
-housenumber: 29
-phone: "+49 7641 4010"
-opening_hours: "Tu-Fr 10:00-13:00,15:00-19:00; Sa 10:00-14:00; PH off"
-website: "http://radsport-petermann.de/"
+street: Denzlinger Straße
+housenumber: "29"
+phone: +49 7641 4010
+opening_hours: Tu-Fr 10:00-13:00,15:00-19:00; Sa 10:00-14:00; PH off
+website: http://radsport-petermann.de/

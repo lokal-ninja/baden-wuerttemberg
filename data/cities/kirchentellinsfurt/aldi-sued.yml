@@ -1,11 +1,11 @@
 id: 921809906
-type: way
+type: node
 latitude: 48.52685
 longitude: 9.14265
 postcode: "72138"
 city: Kirchentellinsfurt
-street: "Wannweiler Straße"
-housenumber: 50
+street: Wannweiler Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su off; PH off
 website: ""

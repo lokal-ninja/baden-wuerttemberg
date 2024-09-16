@@ -1,11 +1,11 @@
 id: 120174193
-type: way
+type: node
 latitude: 47.69358
 longitude: 9.06966
 postcode: "78479"
 city: Reichenau
-street: "Gewerbestraße"
+street: Gewerbestraße
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-14:00; Sa 09:00-12:00"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-14:00; Sa 09:00-12:00
 website: ""

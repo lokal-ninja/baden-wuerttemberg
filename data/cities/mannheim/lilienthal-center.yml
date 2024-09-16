@@ -1,11 +1,11 @@
 id: 452550148
-type: way
+type: node
 latitude: 49.54956
 longitude: 8.45575
 postcode: "68307"
 city: Mannheim
-street: "Amselstraße"
-housenumber: 10
+street: Amselstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.lilienthal-center.com/"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.lilienthal-center.com/

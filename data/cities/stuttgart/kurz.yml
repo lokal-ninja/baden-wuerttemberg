@@ -1,11 +1,11 @@
 id: 107741767
-type: way
+type: node
 latitude: 48.78337
 longitude: 9.16123
 postcode: "70176"
 city: Stuttgart
-street: "Kornbergstraße"
-housenumber: 19
+street: Kornbergstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo 07:30-13:00; Tu-Fr 07:30-13:00, 15:00-18:00; Sa 07:30-13:30"
+opening_hours: Mo 07:30-13:00; Tu-Fr 07:30-13:00, 15:00-18:00; Sa 07:30-13:30
 website: ""

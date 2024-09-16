@@ -1,11 +1,11 @@
 id: 96639878
-type: way
+type: node
 latitude: 49.14913
 longitude: 9.13003
 postcode: "74211"
 city: Leingarten
-street: "Siemensstraße"
-housenumber: 1
-phone: "+49 7131 40620"
+street: Siemensstraße
+housenumber: "1"
+phone: +49 7131 40620
 opening_hours: ""
-website: "https://www.dietz-tabak.de/"
+website: https://www.dietz-tabak.de/

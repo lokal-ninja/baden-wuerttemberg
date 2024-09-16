@@ -4,8 +4,8 @@ latitude: 49.29444
 longitude: 8.69724
 postcode: "69168"
 city: Wiesloch
-street: "Hauptstraße"
-housenumber: 110
-phone: "+49 6222 2314"
-opening_hours: "Mo-Fr 06:00-19:00, Sa 06:00-16:00, Su, PH closed"
-website: "https://www.rutz.de/filialen/uebersicht/"
+street: Hauptstraße
+housenumber: "110"
+phone: +49 6222 2314
+opening_hours: Mo-Fr 06:00-19:00, Sa 06:00-16:00, Su, PH closed
+website: https://www.rutz.de/filialen/uebersicht/

@@ -4,8 +4,8 @@ latitude: 48.71349
 longitude: 8.7407
 postcode: "75365"
 city: Calw
-street: "Hermann-Hesse-Platz"
-housenumber: 8
+street: Hermann-Hesse-Platz
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th,Sa 09:30-13:00, Mo-Th 14:00-18:00, Fr 09:30-12:00"
-website: "http://calwerhandydoktor.de/"
+opening_hours: Mo-Th,Sa 09:30-13:00, Mo-Th 14:00-18:00, Fr 09:30-12:00
+website: http://calwerhandydoktor.de/

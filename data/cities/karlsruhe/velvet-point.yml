@@ -4,8 +4,8 @@ latitude: 49.00768
 longitude: 8.42866
 postcode: "76131"
 city: Karlsruhe
-street: "Seubertstraße"
-housenumber: 8
-phone: "+49 721 5687797"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 11:00-16:00"
-website: "https://www.velvet-point.de/"
+street: Seubertstraße
+housenumber: "8"
+phone: +49 721 5687797
+opening_hours: Mo-Fr 10:00-18:00, Sa 11:00-16:00
+website: https://www.velvet-point.de/

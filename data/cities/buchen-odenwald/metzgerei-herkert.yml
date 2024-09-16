@@ -1,11 +1,11 @@
 id: 112838314
-type: way
+type: node
 latitude: 49.52147
 longitude: 9.32592
 postcode: "74722"
 city: Buchen (Odenwald)
-street: "Kellereistraße"
-housenumber: 11
-phone: "+49 6281 8987"
-opening_hours: "Mo,Tu,Th,Fr 08:00-18:00; Sa 07:45-13:00; We 08:00-13:30"
-website: "https://www.metzgerei-herkert.de/"
+street: Kellereistraße
+housenumber: "11"
+phone: +49 6281 8987
+opening_hours: Mo,Tu,Th,Fr 08:00-18:00; Sa 07:45-13:00; We 08:00-13:30
+website: https://www.metzgerei-herkert.de/

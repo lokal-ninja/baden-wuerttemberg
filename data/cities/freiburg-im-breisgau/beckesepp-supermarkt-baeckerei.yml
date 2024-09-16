@@ -1,11 +1,11 @@
 id: 87422873
-type: way
+type: node
 latitude: 47.98537
 longitude: 7.89116
 postcode: "79117"
 city: Freiburg im Breisgau
-street: "Hansjakobstraße"
-housenumber: 158
-phone: "+49 761 69666000"
-opening_hours: "Mo-Sa 08:00-22:00; Su,PH off"
-website: "https://www.beckesepp.de/standorte/freiburg-hansjakobstrasse-supermarkt-baeckerei/"
+street: Hansjakobstraße
+housenumber: "158"
+phone: +49 761 69666000
+opening_hours: Mo-Sa 08:00-22:00; Su,PH off
+website: https://www.beckesepp.de/standorte/freiburg-hansjakobstrasse-supermarkt-baeckerei/

@@ -1,11 +1,11 @@
 id: 83054991
-type: way
+type: node
 latitude: 47.63285
 longitude: 8.31881
 postcode: "79787"
 city: Lauchringen
-street: "Industriestraße"
-housenumber: 21
-phone: "+49 7741 672493"
+street: Industriestraße
+housenumber: "21"
+phone: +49 7741 672493
 opening_hours: ""
-website: "https://www.mahler-kfz.de/"
+website: https://www.mahler-kfz.de/

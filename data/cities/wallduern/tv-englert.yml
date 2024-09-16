@@ -1,11 +1,11 @@
 id: 262146922
-type: way
+type: node
 latitude: 49.58309
 longitude: 9.3681
 postcode: "74731"
 city: Walldürn
-street: "Am Plan"
-housenumber: 4
+street: Am Plan
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

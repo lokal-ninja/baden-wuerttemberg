@@ -1,11 +1,11 @@
 id: 300709850
-type: way
+type: node
 latitude: 48.72146
 longitude: 9.60818
 postcode: "73117"
 city: Wangen
-street: "Robert-Bosch-Straße"
+street: Robert-Bosch-Straße
 housenumber: 5/1
-phone: "+49 7161 21541"
-opening_hours: "Mo-Th 14:00-18:00; Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
+phone: +49 7161 21541
+opening_hours: Mo-Th 14:00-18:00; Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
 website: ""
