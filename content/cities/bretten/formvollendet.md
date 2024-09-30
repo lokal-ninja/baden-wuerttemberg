@@ -1,5 +1,5 @@
 ---
 title: "Formvollendet"
 url: /bretten/formvollendet/
-shop: Modehaus
+shop: Kleidung
 ---

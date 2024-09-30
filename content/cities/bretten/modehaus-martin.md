@@ -1,5 +1,5 @@
 ---
 title: "Modehaus Martin"
 url: /bretten/modehaus-martin/
-shop: Modehaus
+shop: Kleidung
 ---
