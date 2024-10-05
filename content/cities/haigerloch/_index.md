@@ -1,6 +1,6 @@
 ---
 title: Haigerloch
 url: /haigerloch/
-latitude: 48.384
-longitude: 8.808
+latitude: 48.364
+longitude: 8.798
 ---

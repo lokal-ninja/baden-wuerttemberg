@@ -1,6 +1,6 @@
 ---
 title: Rielasingen-Worblingen
 url: /rielasingen-worblingen/
-latitude: 47.725
-longitude: 8.844
+latitude: 47.732
+longitude: 8.838
 ---
