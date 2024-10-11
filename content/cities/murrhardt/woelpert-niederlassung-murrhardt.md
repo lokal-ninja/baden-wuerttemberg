@@ -1,5 +1,5 @@
 ---
-title: "WÖLPERT - Niederlassung Murrhardt"
+title: "Wölpert - Niederlassung Murrhardt"
 url: /murrhardt/woelpert-niederlassung-murrhardt/
 shop: Baumarkt
 ---

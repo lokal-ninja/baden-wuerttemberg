@@ -1,6 +1,6 @@
 ---
 title: Sölden
 url: /soelden/
-latitude: 47.934
-longitude: 7.811
+latitude: 47.935
+longitude: 7.805
 ---

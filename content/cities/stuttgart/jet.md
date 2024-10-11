@@ -1,5 +1,5 @@
 ---
-title: "JET"
+title: "Jet"
 url: /stuttgart/jet/
-shop: Allgemein
+shop: Kiosk
 ---

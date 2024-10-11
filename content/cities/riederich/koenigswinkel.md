@@ -1,5 +1,5 @@
 ---
 title: "Königswinkel"
 url: /riederich/koenigswinkel/
-shop: Supermarkt
+shop: Lebensmittel
 ---

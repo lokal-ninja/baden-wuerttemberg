@@ -1,6 +1,6 @@
 ---
 title: Creglingen
 url: /creglingen/
-latitude: 49.469
-longitude: 10.031
+latitude: 49.444
+longitude: 9.999
 ---
