@@ -1,11 +1,11 @@
 id: 38163768
 type: node
-latitude: 47.81757
-longitude: 7.55685
+latitude: 47.81765
+longitude: 7.55659
 postcode: "79395"
 city: Neuenburg am Rhein
 street: Colmarer Straße
 housenumber: "5"
 phone: ""
-opening_hours: Mo-Sa 08:00-20:00
-website: ""
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://filialen.aldi-sued.de/baden-wuerttemberg/neuenburg/colmarer-strasse-5
