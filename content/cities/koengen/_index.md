@@ -1,6 +1,6 @@
 ---
 title: Köngen
 url: /koengen/
-latitude: 48.686
-longitude: 9.363
+latitude: 48.683
+longitude: 9.37
 ---
