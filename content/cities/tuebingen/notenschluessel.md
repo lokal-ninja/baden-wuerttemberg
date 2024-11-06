@@ -1,5 +1,5 @@
 ---
 title: "Notenschlüssel"
 url: /tuebingen/notenschluessel/
-shop: Instrumente
+shop: Leerstehend
 ---

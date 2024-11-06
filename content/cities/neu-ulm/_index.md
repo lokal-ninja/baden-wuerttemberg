@@ -1,6 +1,6 @@
 ---
 title: Neu-Ulm
 url: /neu-ulm/
-latitude: 48.395
-longitude: 9.997
+latitude: 48.397
+longitude: 10.003
 ---
