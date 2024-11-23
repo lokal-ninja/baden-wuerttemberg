@@ -1,5 +1,5 @@
 ---
 title: "Textilecke"
 url: /schallstadt/textilecke/
-shop: Modehaus
+shop: Kleidung
 ---

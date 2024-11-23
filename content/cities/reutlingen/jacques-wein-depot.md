@@ -1,5 +1,5 @@
 ---
-title: "Jacques’ Wein-Depot"
+title: "Jacques' Wein-Depot"
 url: /reutlingen/jacques-wein-depot/
 shop: Wein
 ---

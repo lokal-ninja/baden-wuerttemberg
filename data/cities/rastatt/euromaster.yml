@@ -7,5 +7,5 @@ city: Rastatt
 street: Hohlohstraße
 housenumber: "1"
 phone: +49 7222 52118
-opening_hours: Mo-Fr 08:00-17:00
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00
 website: ""
