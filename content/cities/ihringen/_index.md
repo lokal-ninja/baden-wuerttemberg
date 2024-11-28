@@ -1,6 +1,6 @@
 ---
 title: Ihringen
 url: /ihringen/
-latitude: 48.045
-longitude: 7.645
+latitude: 48.04
+longitude: 7.649
 ---

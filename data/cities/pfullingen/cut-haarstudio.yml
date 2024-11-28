@@ -6,6 +6,7 @@ postcode: "72793"
 city: Pfullingen
 street: Schlossstraße
 housenumber: "3"
-phone: +49 7121 73145
-opening_hours: Mo,Su off; Tu-We,Fr 08:00-18:00; Th 09:00-19:00
+phone: ""
+opening_hours: Mo,Su off; Tu-We,Fr 08:00-18:00; Th 09:00-19:00; Sa "nach Vereinbarung";
+    PH off
 website: ""
