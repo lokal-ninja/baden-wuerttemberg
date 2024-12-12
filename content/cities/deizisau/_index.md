@@ -1,6 +1,6 @@
 ---
 title: Deizisau
 url: /deizisau/
-latitude: 48.712
-longitude: 9.389
+latitude: 48.713
+longitude: 9.384
 ---

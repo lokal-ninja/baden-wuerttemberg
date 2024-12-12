@@ -1,5 +1,5 @@
 ---
 title: Sanitätshaus
 url: /sanitaetshaus/
-icon: other
+icon: medical_supply
 ---
