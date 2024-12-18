@@ -1,5 +1,5 @@
 ---
 title: "HEMA"
 url: /stuttgart/hema/
-shop: Lebensmittel
+shop: Haushaltsartikel
 ---
