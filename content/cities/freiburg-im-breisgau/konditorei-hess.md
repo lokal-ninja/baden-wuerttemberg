@@ -1,5 +1,0 @@
----
-title: "Konditorei Hess"
-url: /freiburg-im-breisgau/konditorei-hess/
-shop: Bäckerei
----

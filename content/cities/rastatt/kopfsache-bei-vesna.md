@@ -1,5 +1,0 @@
----
-title: "Kopfsache bei Vesna"
-url: /rastatt/kopfsache-bei-vesna/
-shop: Friseur
----
