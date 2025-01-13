@@ -7,5 +7,5 @@ city: Stuttgart
 street: Große Falterstraße
 housenumber: "80"
 phone: +49 711 91249368
-opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-15:00
+opening_hours: Mo,Tu,Th,Fr 08:30-18:00; Sa 08:30-13:00; We 12:00-18:00
 website: ""

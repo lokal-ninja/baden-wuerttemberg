@@ -1,5 +1,5 @@
 ---
 title: "Spaichinger Nudelladen"
 url: /spaichingen/spaichinger-nudelladen/
-shop: Allgemein
+shop: Lebensmittel
 ---
