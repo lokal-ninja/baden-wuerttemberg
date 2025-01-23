@@ -7,5 +7,5 @@ city: Stuttgart
 street: Köstlinstraße
 housenumber: "2"
 phone: +49 711 8873220
-opening_hours: Mo,We 07:00-13:30; Tu,Fr 07:00-18:30; Sa 07:00-13:00; Th 07:00-18:00
-website: https://www.nouvel.de/
+opening_hours: We 07:00-13:30; Tu, Th, Fr 07:00-18:00; Sa 07:00-13:00
+website: https://www.nouvel.de
