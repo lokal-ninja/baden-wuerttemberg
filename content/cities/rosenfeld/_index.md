@@ -1,6 +1,6 @@
 ---
 title: Rosenfeld
 url: /rosenfeld/
-latitude: 48.267
-longitude: 8.706
+latitude: 48.286
+longitude: 8.723
 ---

@@ -7,6 +7,6 @@ city: Reichenau
 street: Zelleleweg
 housenumber: "2"
 phone: +49 7534 7730
-opening_hours: 'Nov-Mar: Mo-Fr 06:00-19:00;Nov-Mar: Sa 07:00-18:00;Nov-Mar: Su 08:00-18:00;Apr-Oct:
-    Mo-Fr 06:00-20:00;Apr-Oct: Sa 07:00-20:00;Apr-Oct: Su 08:00-20:00'
+opening_hours: 'Nov-Mar: Mo-Su,PH 07:00-17:00; Apr-Oct: Mo-Fr 06:00-20:00; Apr-Oct:
+    Sa 07:00-20:00; Apr-Oct: Su 08:00-20:00'
 website: https://www.laibundseele.de/
