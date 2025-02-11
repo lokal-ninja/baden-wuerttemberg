@@ -1,6 +1,6 @@
 ---
 title: Ostrach
 url: /ostrach/
-latitude: 47.952
-longitude: 9.383
+latitude: 47.954
+longitude: 9.382
 ---

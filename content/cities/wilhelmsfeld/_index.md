@@ -1,6 +1,6 @@
 ---
 title: Wilhelmsfeld
 url: /wilhelmsfeld/
-latitude: 49.469
-longitude: 8.756
+latitude: 49.466
+longitude: 8.774
 ---
