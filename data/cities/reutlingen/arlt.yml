@@ -7,5 +7,5 @@ city: Reutlingen
 street: Listplatz
 housenumber: "1"
 phone: ""
-opening_hours: Mo-Fr 10:00-19:00; PH,Su off; Sa 10:00-16:00
+opening_hours: Su,PH off; Sa 10:00-16:00; Mo-Fr 10:00-13:30,14:15-19:00
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Laudenbach
 url: /laudenbach/
-latitude: 49.613
-longitude: 8.649
+latitude: 49.61
+longitude: 8.655
 ---
