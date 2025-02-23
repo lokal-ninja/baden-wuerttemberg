@@ -1,6 +1,6 @@
 ---
 title: Stühlingen
 url: /stuehlingen/
-latitude: 47.745
-longitude: 8.445
+latitude: 47.779
+longitude: 8.462
 ---
