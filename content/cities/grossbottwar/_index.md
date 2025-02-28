@@ -1,6 +1,6 @@
 ---
 title: Großbottwar
 url: /grossbottwar/
-latitude: 49.004
-longitude: 9.296
+latitude: 48.996
+longitude: 9.289
 ---
