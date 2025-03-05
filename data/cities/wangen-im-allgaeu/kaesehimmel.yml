@@ -7,6 +7,6 @@ city: Wangen im Allgäu
 street: Herrenstraße
 housenumber: "16"
 phone: +49 7522 4033
-opening_hours: Mo-Tu 09:00-18:00, We 08:00-18:00, Th-Fr 09:00-18:00, Sa 09:00-14:00;
-    PH,Su off
+opening_hours: Tu 09:00-18:00, We 08:00-18:00, Th-Fr 09:00-18:00, Sa 09:00-14:00;
+    PH,Su,Mo off
 website: https://www.kaesehimmel-wangen.de

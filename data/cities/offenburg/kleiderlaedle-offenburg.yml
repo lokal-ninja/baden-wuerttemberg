@@ -7,5 +7,5 @@ city: Offenburg
 street: Zeller Straße
 housenumber: "28"
 phone: ""
-opening_hours: Tu-Fr 11:00-16:30; Sa 09:30-13:00
+opening_hours: Tu,Th 10:00-12:30, Tu-Th 13:00-16:30, We 13:00-15:00, We,Fr 10:00-14:00
 website: https://www.drkoffenburg.de/angebote/existenzsichernde-hilfe/kleiderlaedele.html
