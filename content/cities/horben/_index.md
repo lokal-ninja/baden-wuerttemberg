@@ -1,6 +1,6 @@
 ---
 title: Horben
 url: /horben/
-latitude: 47.938
-longitude: 7.844
+latitude: 47.919
+longitude: 7.855
 ---

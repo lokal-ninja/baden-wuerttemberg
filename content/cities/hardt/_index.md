@@ -1,6 +1,6 @@
 ---
 title: Hardt
 url: /hardt/
-latitude: 48.184
-longitude: 8.41
+latitude: 48.179
+longitude: 8.419
 ---
