@@ -1,5 +1,5 @@
 ---
-title: "NaturLex"
+title: "Naturlex"
 url: /filderstadt/naturlex/
-shop: Allgemein
+shop: Kosmetik
 ---

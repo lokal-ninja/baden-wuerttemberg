@@ -1,6 +1,6 @@
 ---
 title: Altenriet
 url: /altenriet/
-latitude: 48.59
-longitude: 9.219
+latitude: 48.591
+longitude: 9.222
 ---

@@ -7,5 +7,6 @@ city: Aichwald
 street: Karlsteinstraße
 housenumber: "5"
 phone: ""
-opening_hours: Mo-Fr 08:00-12:30, 13:30-18:00; Sa 09:00-12:30
+opening_hours: 'afely used in OSM, after all warnings have been solved): Mo-Fr 08:00-18:00;
+    Mo-Fr 12:30-13:30 off "Mittagspause"; Sa 09:00-12:30'
 website: ""

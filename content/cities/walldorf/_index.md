@@ -1,6 +1,6 @@
 ---
 title: Walldorf
 url: /walldorf/
-latitude: 49.303
-longitude: 8.643
+latitude: 49.306
+longitude: 8.642
 ---

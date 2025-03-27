@@ -1,5 +1,5 @@
 ---
-title: "Lyra"
+title: "lyra"
 url: /stuttgart/lyra/
-shop: Kleidung
+shop: Modehaus
 ---
