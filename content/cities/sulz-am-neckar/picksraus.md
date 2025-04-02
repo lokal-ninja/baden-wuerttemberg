@@ -1,5 +1,5 @@
 ---
 title: "PicksRaus"
 url: /sulz-am-neckar/picksraus/
-shop: Supermarkt
+shop: Kramladen
 ---

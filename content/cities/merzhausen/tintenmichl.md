@@ -1,5 +1,5 @@
 ---
 title: "Tintenmichl"
 url: /merzhausen/tintenmichl/
-shop: Computer
+shop: Schreibwaren
 ---
