@@ -1,5 +1,5 @@
 ---
-title: "Yorma’s"
+title: "Yorma's"
 url: /stuttgart/yormas/
 shop: Kiosk
 ---

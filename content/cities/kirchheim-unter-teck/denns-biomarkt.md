@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denns BioMarkt"
 url: /kirchheim-unter-teck/denns-biomarkt/
 shop: Supermarkt
 ---

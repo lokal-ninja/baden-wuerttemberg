@@ -1,5 +1,5 @@
 ---
-title: "StoreBox"
+title: "Storebox"
 url: /stuttgart/storebox/
 shop: Mieten
 ---
