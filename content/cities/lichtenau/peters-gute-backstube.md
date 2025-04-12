@@ -1,5 +1,5 @@
 ---
-title: "Peter's gute Backstube"
+title: "Peters gute Backstube"
 url: /lichtenau/peters-gute-backstube/
 shop: Bäckerei
 ---

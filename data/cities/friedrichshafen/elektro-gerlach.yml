@@ -7,5 +7,6 @@ city: Friedrichshafen
 street: Olgastraße
 housenumber: "57"
 phone: +49 7541 21486
-opening_hours: ""
-website: http://www.elektro-gerlach-fn.de
+opening_hours: Mo-Tu 09:00-12:00,14:00-17:00; We-Th 09:00-12:00; Fr 14:00-17:00; Sa,Su,PH
+    off
+website: https://www.elektrogerlachfn.de/

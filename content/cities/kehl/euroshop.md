@@ -1,5 +1,5 @@
 ---
-title: "EuroShop"
+title: "Euroshop"
 url: /kehl/euroshop/
-shop: Kramladen
+shop: Lebensmittel
 ---

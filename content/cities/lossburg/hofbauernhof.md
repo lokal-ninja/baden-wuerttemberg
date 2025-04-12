@@ -1,5 +1,5 @@
 ---
 title: "Hofbauernhof"
 url: /lossburg/hofbauernhof/
-shop: Hofladen
+shop: Bäckerei
 ---
