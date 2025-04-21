@@ -1,6 +1,6 @@
 ---
 title: Uhingen
 url: /uhingen/
-latitude: 48.707
-longitude: 9.583
+latitude: 48.709
+longitude: 9.577
 ---

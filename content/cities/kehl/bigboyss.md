@@ -1,5 +1,5 @@
 ---
-title: "BIGBOYSS"
+title: "BigBoyss"
 url: /kehl/bigboyss/
 shop: Kleidung
 ---
