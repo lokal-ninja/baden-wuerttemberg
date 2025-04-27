@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denns BioMarkt"
 url: /korntal-muenchingen/denns-biomarkt/
 shop: Supermarkt
 ---

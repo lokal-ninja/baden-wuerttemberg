@@ -7,5 +7,6 @@ city: Freiburg im Breisgau
 street: Oberlinden
 housenumber: "14"
 phone: ""
-opening_hours: Mo,Tu,Th,Fr 09:30-13:00; Sa,Su,PH off
+opening_hours: Mo,Tu,Th,Fr 09:30-12:30; Sa,Su,PH off, Mo,Tu,Th,Fr 15:00-18:00, We
+    09:00-12:30
 website: ""
