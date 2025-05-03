@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
 url: /mosbach/kaufland-pfalzgraf-otto-strasse/
-shop: Supermarkt
+shop: Getränke
 ---

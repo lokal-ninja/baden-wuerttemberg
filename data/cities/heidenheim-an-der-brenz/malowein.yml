@@ -7,5 +7,6 @@ city: Heidenheim an der Brenz
 street: Hauptstraße
 housenumber: "3"
 phone: +49 176 615 07 878
-opening_hours: Mo-Th 10:00-14:00; Fr 14:00-22:00; Sa 10:00-14:00
+opening_hours: Tu-Th 10:00-14:00; Th-Fr 18:00-22:00; Sa 10:00-14:00; Su 10:00-13:00;
+    Mo off
 website: https://www.malo-wein.de/
