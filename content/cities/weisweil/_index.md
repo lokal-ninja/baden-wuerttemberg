@@ -2,5 +2,5 @@
 title: Weisweil
 url: /weisweil/
 latitude: 48.199
-longitude: 7.674
+longitude: 7.676
 ---

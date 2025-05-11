@@ -1,6 +1,6 @@
 ---
 title: Mahlberg
 url: /mahlberg/
-latitude: 48.286
-longitude: 7.818
+latitude: 48.275
+longitude: 7.786
 ---
