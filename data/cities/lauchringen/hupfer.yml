@@ -7,5 +7,5 @@ city: Lauchringen
 street: Bundesstraße
 housenumber: "14"
 phone: +49 7741 3289
-opening_hours: Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-14:00
+opening_hours: Mo, Tu, Th, Fr 09:00-12:30, 14:00-18:30; Sa 09:00-14:00; We, Su off
 website: https://www.hupfer-fahrradladen.de/

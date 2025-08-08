@@ -7,5 +7,5 @@ city: Wangen im Allgäu
 street: Marktplatz
 housenumber: "5"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-18:00; We 09:00-13:00
 website: https://www.prooptik.de/optik-zentrum/wangen

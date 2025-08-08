@@ -1,6 +1,6 @@
 ---
 title: Ingoldingen
 url: /ingoldingen/
-latitude: 48.049
-longitude: 9.755
+latitude: 48.025
+longitude: 9.742
 ---

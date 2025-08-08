@@ -1,6 +1,6 @@
 ---
 title: Obermarchtal
 url: /obermarchtal/
-latitude: 48.231
-longitude: 9.569
+latitude: 48.233
+longitude: 9.571
 ---

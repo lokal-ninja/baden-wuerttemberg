@@ -1,6 +1,6 @@
 ---
 title: Maulbronn
 url: /maulbronn/
-latitude: 48.995
-longitude: 8.796
+latitude: 49.006
+longitude: 8.858
 ---

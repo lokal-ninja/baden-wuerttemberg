@@ -1,5 +1,5 @@
 ---
 title: "Technische Orthopädie Gutzeit"
 url: /stuttgart/technische-orthopaedie-gutzeit/
-shop: Allgemein
+shop: Sanitätshaus
 ---

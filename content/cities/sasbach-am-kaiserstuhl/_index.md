@@ -1,6 +1,6 @@
 ---
 title: Sasbach am Kaiserstuhl
 url: /sasbach-am-kaiserstuhl/
-latitude: 48.137
-longitude: 7.612
+latitude: 48.14
+longitude: 7.617
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hülben
 url: /huelben/
-latitude: 48.521
-longitude: 9.399
+latitude: 48.522
+longitude: 9.406
 ---

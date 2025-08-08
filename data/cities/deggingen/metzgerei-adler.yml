@@ -7,6 +7,6 @@ city: Deggingen
 street: Hauptstraße
 housenumber: "38"
 phone: ""
-opening_hours: Mo,Tu,Th 07:30-13:00,14:30-18:00; We 07:30-13:00; Fr 07:30-13:00,14:00-18:00;
-    Sa 07:30-12:30
+opening_hours: Mo-Fr 07:30-13:00, Mo,Tu 15:00-18:00, Th 14:30-18:00, Fr 14:00-18:00,
+    Sa 07:00-12:30; Su,PH off
 website: http://www.metzgerei-zum-adler.de

@@ -1,6 +1,6 @@
 ---
 title: Schallstadt
 url: /schallstadt/
-latitude: 47.968
-longitude: 7.778
+latitude: 47.957
+longitude: 7.759
 ---

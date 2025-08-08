@@ -7,6 +7,5 @@ city: Freiburg
 street: Marie-Curie-Straße
 housenumber: "3"
 phone: +49 761 4014411
-opening_hours: Mo-Tu 09:00-14:00, We 14:30-19:00, Th 09:00-14:00, Fr 14:30-19:00,
-    PH open "Emergency only"
+opening_hours: Mo,We-Fr 10:00-13:00,14:00-17:00; Tu 10:00-13:00; PH off
 website: https://scottycomputer.de

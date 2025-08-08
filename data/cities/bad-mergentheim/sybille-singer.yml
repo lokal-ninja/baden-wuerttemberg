@@ -7,5 +7,6 @@ city: Bad Mergentheim
 street: Marktplatz
 housenumber: "9"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,We 09:00-18:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-15:00;
+    Su,Mo off
 website: ""

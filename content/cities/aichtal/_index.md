@@ -1,6 +1,6 @@
 ---
 title: Aichtal
 url: /aichtal/
-latitude: 48.622
-longitude: 9.238
+latitude: 48.623
+longitude: 9.24
 ---

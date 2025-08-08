@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /dogern/aldi-sued/
 shop: Supermarkt
 ---

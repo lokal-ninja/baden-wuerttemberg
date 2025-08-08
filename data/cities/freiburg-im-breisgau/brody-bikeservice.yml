@@ -7,6 +7,5 @@ city: Freiburg im Breisgau
 street: Kartäuserstraße
 housenumber: "59"
 phone: +49 176 61809442
-opening_hours: 'Mo, Mi u. Fr: 9:00 - 16:00 Uhr; Di u. Do: 12:00 - 17:00 Uhr; Sa: 9:00
-    - 11:00 Uhr'
+opening_hours: Mo, We, Fr 09:00-16:00; Sa 09:00-11:00; Tu, Th 12:00-19:00
 website: ""

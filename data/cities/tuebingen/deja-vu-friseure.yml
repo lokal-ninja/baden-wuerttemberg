@@ -7,5 +7,6 @@ city: Tübingen
 street: Dorfackerstraße
 housenumber: "24"
 phone: +49 7071 885540
-opening_hours: Tu-Fr 09:00-13:00,14:00-18:30; Sa 09.00-14:30; Mo,PH off
+opening_hours: Tu-Fr 09:00-13:00, Tu,Fr 14:00-20:00, We,Th 14:00-19:30; Sa,Su,Mo,PH
+    off
 website: https://www.dejavu-friseure.de

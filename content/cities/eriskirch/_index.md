@@ -1,6 +1,6 @@
 ---
 title: Eriskirch
 url: /eriskirch/
-latitude: 47.633
-longitude: 9.524
+latitude: 47.634
+longitude: 9.523
 ---

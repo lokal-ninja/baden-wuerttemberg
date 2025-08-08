@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /trossingen/norma/
 shop: Supermarkt
 ---

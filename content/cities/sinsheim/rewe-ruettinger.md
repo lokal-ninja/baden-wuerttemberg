@@ -1,5 +1,5 @@
 ---
-title: "Rewe Rüttinger"
+title: "REWE Rüttinger"
 url: /sinsheim/rewe-ruettinger/
 shop: Supermarkt
 ---

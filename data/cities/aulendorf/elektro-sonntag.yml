@@ -7,5 +7,5 @@ city: Aulendorf
 street: Bachstraße
 housenumber: "14"
 phone: ""
-opening_hours: Mo-Sa 08:00-12:30; Mo,Tu 14:00-18:00; Th,Fr 14:00-18:00
+opening_hours: Mo, Tu, Th, Fr 08:00-12:30, 14:00-18:00; We 08:00-12:30; Sa 08:00-12:00
 website: ""

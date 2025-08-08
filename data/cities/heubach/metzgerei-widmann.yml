@@ -7,6 +7,5 @@ city: Heubach
 street: Rosensteinstraße
 housenumber: "49"
 phone: ""
-opening_hours: Mo-We 07:00-12:30; Th-Fr 07:00-12:30, 14:30-18:00; Sa 07:00-12:00;
-    Su,PH off
+opening_hours: Mo-Fr 07:00-12:30, Mo,Tu,Th,Fr 14:30-18:00, Sa 07:00-12:00; Su,PH off
 website: ""

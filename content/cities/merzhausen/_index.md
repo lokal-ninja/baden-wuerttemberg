@@ -1,6 +1,6 @@
 ---
 title: Merzhausen
 url: /merzhausen/
-latitude: 47.965
+latitude: 47.971
 longitude: 7.828
 ---

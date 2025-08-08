@@ -1,5 +1,5 @@
 ---
 title: "Stöckle"
 url: /stuttgart/stoeckle/
-shop: Bäckerei
+shop: Konditorei
 ---

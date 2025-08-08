@@ -7,6 +7,5 @@ city: Konstanz
 street: Max-Stromeyer-Straße
 housenumber: "41"
 phone: +49 7531 36257-0
-opening_hours: Mo 08:00-12:00,13:00-17:10, Tu 08:00-12:00,13:00-17:10, We 08:00-12:00,13:00-17:10,
-    Th 08:00-12:00,13:00-17:10, Fr 08:00-12:00,13:00-17:10, Sa 08:00-12:00
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:15; Sa,Su,PH off
 website: ""

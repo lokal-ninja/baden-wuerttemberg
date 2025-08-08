@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /reutlingen/tedi/
-shop: Kramladen
+shop: Leerstehend
 ---

@@ -7,5 +7,5 @@ city: Karlsruhe
 street: Zirkel
 housenumber: "27"
 phone: +49 721 22236
-opening_hours: Mo-Tu, Th-Fr 10:00-13:00, 14:00-18:30; Sa 10:00-15:00
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00, 14:00-18:30; Sa 10:00-15:00; PH off
 website: https://www.fahrrad-strebel.de/

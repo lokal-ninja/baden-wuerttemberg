@@ -7,6 +7,5 @@ city: Heidelberg
 street: Ladenburger Straße
 housenumber: "20"
 phone: ""
-opening_hours: Tu-Th 09:30-13:00, Mo-Th 15:00-18:00, Fr 09:30-18:00, Sa 08:30-13:30,
-    Mo 10:00-13:00
+opening_hours: Sa 08:30-13:30; Tu-Fr 15:00-18:00,09:30-13:00; Mo off
 website: ""

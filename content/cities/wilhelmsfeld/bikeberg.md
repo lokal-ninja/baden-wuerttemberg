@@ -1,5 +1,5 @@
 ---
-title: "BIKEBERG"
+title: "Bikeberg"
 url: /wilhelmsfeld/bikeberg/
 shop: Fahrrad
 ---

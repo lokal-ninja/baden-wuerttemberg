@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /eggenstein-leopoldshafen/aldi-sued/
 shop: Supermarkt
 ---

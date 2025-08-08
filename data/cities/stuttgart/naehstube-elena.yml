@@ -7,5 +7,5 @@ city: Stuttgart
 street: Felix-Dahn-Straße
 housenumber: 11 A
 phone: +49 71123123097
-opening_hours: Mo-Fr 08:30-18:30; We,Sa 08:30-14:00; PH off
+opening_hours: Mo,Tu,Th,Fr 08:30-18:30; We,Sa 08:30-14:00
 website: ""

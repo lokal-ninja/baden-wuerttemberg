@@ -1,6 +1,6 @@
 ---
 title: Forbach
 url: /forbach/
-latitude: 48.68
-longitude: 8.358
+latitude: 48.679
+longitude: 8.359
 ---

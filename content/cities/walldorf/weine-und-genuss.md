@@ -1,5 +1,5 @@
 ---
-title: "Weine und Genuss"
+title: "Weine & Genuss"
 url: /walldorf/weine-und-genuss/
 shop: Wein
 ---

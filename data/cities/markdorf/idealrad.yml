@@ -7,5 +7,6 @@ city: Markdorf
 street: Marktstraße
 housenumber: "4"
 phone: ""
-opening_hours: Mo-Fr 09:30-13:00,14:00-18:30; Tu-We off; Sa 09:30-14:00
+opening_hours: Mo,Th,Fr 09:30-13:00,14:00-18:30; Tu 14:00-18:30; Sa 09:30-14:00; We,Su,PH
+    off
 website: ""

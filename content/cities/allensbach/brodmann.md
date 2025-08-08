@@ -1,5 +1,5 @@
 ---
 title: "Brodmann"
 url: /allensbach/brodmann/
-shop: Autohaus
+shop: Autowerkstatt
 ---

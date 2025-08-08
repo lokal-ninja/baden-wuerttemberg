@@ -7,5 +7,5 @@ city: Ravensburg
 street: Marienplatz
 housenumber: "57"
 phone: +49 751 351175
-opening_hours: Mo-Sa 9:00-18:30
+opening_hours: Mo-We,Fr 09:00-18:30; Th 09:00-19:00; Sa 09:00-18:00; Su,PH off
 website: ""

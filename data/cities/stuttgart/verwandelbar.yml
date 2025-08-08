@@ -7,5 +7,5 @@ city: Stuttgart
 street: Hasenbergstraße
 housenumber: "85"
 phone: +49711 65 66 88 98
-opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-14:00
+opening_hours: Tu,We 07:30-14:30; Th,Fr 11:30-19:00; Sa 09:00-14:00
 website: https://verwandelbar.de/

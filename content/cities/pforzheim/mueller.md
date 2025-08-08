@@ -1,5 +1,5 @@
 ---
 title: "Müller"
 url: /pforzheim/mueller/
-shop: Drogerie
+shop: Warenhaus
 ---

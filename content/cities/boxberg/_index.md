@@ -1,6 +1,6 @@
 ---
 title: Boxberg
 url: /boxberg/
-latitude: 49.485
-longitude: 9.647
+latitude: 49.486
+longitude: 9.643
 ---

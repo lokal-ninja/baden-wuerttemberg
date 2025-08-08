@@ -1,6 +1,6 @@
 ---
 title: Deggingen
 url: /deggingen/
-latitude: 48.603
-longitude: 9.73
+latitude: 48.597
+longitude: 9.722
 ---

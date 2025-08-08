@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /freiburg-im-breisgau/tk-maxx/
-shop: Kleidung
+shop: Warenhaus
 ---
