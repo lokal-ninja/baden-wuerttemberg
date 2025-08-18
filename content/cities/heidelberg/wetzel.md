@@ -1,5 +1,5 @@
 ---
 title: "Wetzel"
 url: /heidelberg/wetzel/
-shop: Allgemein
+shop: Platzpflege
 ---
