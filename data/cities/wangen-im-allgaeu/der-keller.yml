@@ -7,6 +7,6 @@ city: Wangen im Allgäu
 street: Ravensburger Straße
 housenumber: "71"
 phone: +49 7522 93020
-opening_hours: 'Mar-Sep: Mo-Fr 09:30-18:00; Mar-Sep: Sa 09:30-16:00; Mar-Sep: Su closed;
-    Oct-Feb: Mo-Fr 09:30-18:00; Oct-Feb: Sa 09:30-14:00; Oct-Feb: Su closed'
+opening_hours: 'Mar-Sep: Mo-Fr 09:30-18:00; Mar-Sep: Sa 09:30-15:00; Mar-Sep: Su,PH
+    closed; Oct-Feb: Mo-Fr 09:30-18:00; Oct-Feb: Sa 09:30-14:00; Oct-Feb: Su,PH closed'
 website: https://www.der-keller.de/

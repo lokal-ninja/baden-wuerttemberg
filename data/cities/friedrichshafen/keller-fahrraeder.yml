@@ -7,6 +7,6 @@ city: Friedrichshafen
 street: Spatenstraße
 housenumber: "20"
 phone: ""
-opening_hours: '09:00-18:00; Sa 09:00-16:00; Oct-Feb: 09:30-18:00; Oct-Feb: Sa 09:30-14:00;
-    Su,PH off'
+opening_hours: 'Mar-Sep: Mo-Fr 09:30-18:00; Mar-Sep: Sa 09:30-15:00; Mar-Sep: Su,PH
+    closed; Oct-Feb: Mo-Fr 09:30-18:00; Oct-Feb: Sa 09:30-14:00; Oct-Feb: Su,PH closed'
 website: ""
