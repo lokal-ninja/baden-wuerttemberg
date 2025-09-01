@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /boeblingen/aldi-sued-rudolf-diesel-strasse/
 shop: Supermarkt
 ---

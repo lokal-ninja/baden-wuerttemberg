@@ -2,5 +2,5 @@
 title: Weinsberg
 url: /weinsberg/
 latitude: 49.152
-longitude: 9.289
+longitude: 9.287
 ---
