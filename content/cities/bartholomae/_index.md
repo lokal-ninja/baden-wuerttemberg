@@ -1,6 +1,6 @@
 ---
 title: Bartholomä
 url: /bartholomae/
-latitude: 48.753
-longitude: 9.989
+latitude: 48.752
+longitude: 9.988
 ---

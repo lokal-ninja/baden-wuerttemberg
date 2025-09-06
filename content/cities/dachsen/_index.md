@@ -1,6 +1,6 @@
 ---
 title: Dachsen
 url: /dachsen/
-latitude: 47.667
-longitude: 8.614
+latitude: 47.662
+longitude: 8.617
 ---
