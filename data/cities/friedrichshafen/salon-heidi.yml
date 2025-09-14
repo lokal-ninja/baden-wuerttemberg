@@ -7,5 +7,5 @@ city: Friedrichshafen
 street: Röntgenstraße
 housenumber: "2"
 phone: +49 7541 42424
-opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00; Su,Mo,PH off
+opening_hours: Tu,We,Fr 08:30-18:00; Th 08:30-16-00; Sa-Mo,PH off
 website: ""
