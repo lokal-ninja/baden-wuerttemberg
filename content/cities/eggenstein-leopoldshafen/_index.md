@@ -1,6 +1,6 @@
 ---
 title: Eggenstein-Leopoldshafen
 url: /eggenstein-leopoldshafen/
-latitude: 49.068
-longitude: 8.396
+latitude: 49.075
+longitude: 8.394
 ---
