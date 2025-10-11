@@ -7,5 +7,5 @@ city: Oberkirch
 street: Hauptstraße
 housenumber: "50"
 phone: +49 7802 7878
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 10:00-18:00; We 10:00-14:00; Sa 09:30-13:00
 website: https://reise-habermehl.de/

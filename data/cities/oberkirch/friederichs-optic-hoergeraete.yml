@@ -7,5 +7,5 @@ city: Oberkirch
 street: Hauptstraße
 housenumber: "79"
 phone: +49 7802 91210
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00, We,Sa 09:00-12:30, Mo,Tu,Th,Fr 14:00-18:00
 website: https://www.friederichs.de/

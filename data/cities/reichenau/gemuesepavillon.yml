@@ -7,5 +7,6 @@ city: Reichenau
 street: Marktstraße
 housenumber: "1"
 phone: +49 7534 1752
-opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-16:00
+opening_hours: 'Apr 01-Oct 03: Mo-Fr 09:00-18:30, Sa 08:00-16:00, Su,PH 10:00-17:00;
+    Oct 04-Mar 31: Mo-Fr 09:00-18:00, Sa 08:30-16:00'
 website: ""

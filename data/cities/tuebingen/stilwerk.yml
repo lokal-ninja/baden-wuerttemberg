@@ -7,5 +7,6 @@ city: Tübingen
 street: Hechinger Straße
 housenumber: "49"
 phone: ""
-opening_hours: Tu 09:00-18:00; Sa 09:00-14:00; We 09:00-16:00; Th,Fr 09:00-19:00
+opening_hours: Mo "nach Vereinbarung"; Tu 09:00-18:00; Sa 09:00-14:00; We 09:00-16:00;
+    Th,Fr 09:00-19:00
 website: ""
