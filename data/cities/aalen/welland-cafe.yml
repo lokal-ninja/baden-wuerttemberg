@@ -7,5 +7,6 @@ city: Aalen
 street: Fachsenfelder Straße
 housenumber: 4/1
 phone: +49 7366 9299657
-opening_hours: Mo-Fr 6:30-19:00; Sa7:00-13:00; Su 08:00-10:00
+opening_hours: Mo 06:30-18:00; Tu 06:30-13:00, 15:00-18:00; We 06:30-18:00; Th 06:30-18:00;
+    Fr 06:30-18:00; Sa 07:00-12:00
 website: https://www.wellandmitte.de/

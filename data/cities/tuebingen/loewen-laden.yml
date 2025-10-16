@@ -7,6 +7,6 @@ city: Tübingen
 street: Kornhausstraße
 housenumber: "5"
 phone: ""
-opening_hours: Jun-Aug Mo-Sa 09:00-22:00; Jun-Aug PH,Su off; Sep-May Mo-Sa 09:00-21:00;
-    Sep-May PH,Su off
+opening_hours: Jun-Aug Mo-Sa 09:00-22:00; Jun-Aug Su,PH off; Sep-May Mo-Sa 09:00-21:00;
+    Sep-May Su,PH off
 website: ""

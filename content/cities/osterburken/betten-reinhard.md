@@ -1,5 +1,5 @@
 ---
-title: "Betten-Reinhard"
+title: "Betten Reinhard"
 url: /osterburken/betten-reinhard/
-shop: Betten
+shop: Teppiche
 ---

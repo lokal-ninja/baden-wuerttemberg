@@ -1,6 +1,6 @@
 ---
 title: Ummendorf
 url: /ummendorf/
-latitude: 48.07
-longitude: 9.824
+latitude: 48.063
+longitude: 9.83
 ---
