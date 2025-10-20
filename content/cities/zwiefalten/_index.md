@@ -1,6 +1,6 @@
 ---
 title: Zwiefalten
 url: /zwiefalten/
-latitude: 48.232
-longitude: 9.459
+latitude: 48.231
+longitude: 9.463
 ---
