@@ -1,6 +1,6 @@
 ---
 title: Nagold
 url: /nagold/
-latitude: 48.55
-longitude: 8.723
+latitude: 48.517
+longitude: 8.754
 ---
