@@ -7,6 +7,6 @@ city: Eberdingen
 street: Quellenstraße
 housenumber: "2"
 phone: +49 7042 78121
-opening_hours: Mo-Th 09:00-13:00,15:00-18:00;Fr 09:00-18:00;Sa 08:30-14:00; PH,Su
+opening_hours: Mo-Th 09:00-13:00,15:00-18:00; Fr 09:00-18:00; Sa 08:30-13:00; Su,PH
     off
 website: https://becks-hofmarkt.de

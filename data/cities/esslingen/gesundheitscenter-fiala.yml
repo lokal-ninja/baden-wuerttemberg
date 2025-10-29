@@ -7,5 +7,5 @@ city: Esslingen
 street: Plochinger Straße
 housenumber: "115"
 phone: ""
-opening_hours: Mo-Fr 09:00-13:00; Mo-Th 14:30-18:00
+opening_hours: Mo-Th 09:00-13:00,14:30-18:00; Fr 09:00-13:00
 website: https://www.fiala-online.de/
