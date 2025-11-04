@@ -1,6 +1,6 @@
 ---
 title: Brühl
 url: /bruehl/
-latitude: 49.396
-longitude: 8.534
+latitude: 49.388
+longitude: 8.523
 ---
