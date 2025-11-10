@@ -1,5 +1,5 @@
 ---
 title: "Beinert"
 url: /kehl/beinert/
-shop: Blumen
+shop: Garten-Center
 ---
