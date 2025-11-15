@@ -1,0 +1,5 @@
+---
+title: "Aldi Süd"
+url: /ludwigsburg/aldi-sued-marstallstrasse/
+shop: Supermarkt
+---

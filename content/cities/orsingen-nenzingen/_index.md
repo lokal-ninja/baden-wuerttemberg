@@ -1,6 +1,6 @@
 ---
 title: Orsingen-Nenzingen
 url: /orsingen-nenzingen/
-latitude: 47.841
-longitude: 8.936
+latitude: 47.843
+longitude: 8.958
 ---
