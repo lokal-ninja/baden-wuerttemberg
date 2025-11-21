@@ -1,5 +1,5 @@
 ---
-title: "Roberta Goods"
+title: "Roberta goods"
 url: /stuttgart/roberta-goods/
-shop: Lebensmittel
+shop: Allgemein
 ---

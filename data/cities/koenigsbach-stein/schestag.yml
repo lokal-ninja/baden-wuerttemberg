@@ -7,5 +7,6 @@ city: Königsbach-Stein
 street: Brühlstraße
 housenumber: "38"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Fr 7:30-18:00, Sa 9:00-13:00 open "Reparaturannahme und Ersatzteile";
+    Mo-Fr 9:00-18:00,Sa 9:00-13:00 open "Verkauf"; PH off
 website: ""

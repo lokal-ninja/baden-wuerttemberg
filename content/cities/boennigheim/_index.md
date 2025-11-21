@@ -1,6 +1,6 @@
 ---
 title: Bönnigheim
 url: /boennigheim/
-latitude: 49.04
+latitude: 49.039
 longitude: 9.094
 ---

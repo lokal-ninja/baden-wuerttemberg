@@ -1,5 +1,5 @@
 ---
 title: "Spießmühle"
 url: /messkirch/spiessmuehle/
-shop: Supermarkt
+shop: Hofladen
 ---
