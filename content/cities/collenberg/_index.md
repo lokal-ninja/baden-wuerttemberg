@@ -1,6 +1,6 @@
 ---
 title: Collenberg
 url: /collenberg/
-latitude: 49.773
-longitude: 9.336
+latitude: 49.771
+longitude: 9.343
 ---

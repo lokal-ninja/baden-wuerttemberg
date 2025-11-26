@@ -1,11 +1,11 @@
 id: 10011583682
 type: node
-latitude: 48.98251
-longitude: 8.55009
+latitude: 48.98246
+longitude: 8.55026
 postcode: "76327"
 city: Pfinztal
 street: Hauptstraße
 housenumber: "151"
 phone: +49 7240 927981
-opening_hours: Mo-Fr 07:15-18:00
+opening_hours: 'Mo-Th 07:15-12:00, 13:15-18:00, Fr 7:15-12:00,13:15-17:00: PH off'
 website: https://oswald-heiss.de/
