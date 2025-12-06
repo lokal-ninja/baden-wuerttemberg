@@ -1,6 +1,6 @@
 ---
 title: Bruchsal
 url: /bruchsal/
-latitude: 49.125
-longitude: 8.595
+latitude: 49.077
+longitude: 8.587
 ---
