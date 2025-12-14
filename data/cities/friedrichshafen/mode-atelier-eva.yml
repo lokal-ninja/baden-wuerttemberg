@@ -1,11 +1,11 @@
 id: 4020492379
 type: node
-latitude: 47.6539
-longitude: 9.4739
+latitude: 47.65391
+longitude: 9.47388
 postcode: "88045"
 city: Friedrichshafen
 street: Franziskusplatz
 housenumber: "2"
 phone: ""
-opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00
-website: ""
+opening_hours: Mo-Tu 09:00-12:00,14:00-18:00; We,Sa-Su off; Th-Fr 09:00-12:00,14:00-18:00
+website: https://www.artmodeeva.de

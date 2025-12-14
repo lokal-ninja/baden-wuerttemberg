@@ -1,5 +1,5 @@
 ---
-title: "Essanelle"
+title: "essanelle"
 url: /konstanz/essanelle/
 shop: Friseur
 ---
