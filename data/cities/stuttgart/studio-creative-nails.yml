@@ -7,5 +7,5 @@ city: Stuttgart
 street: Kirchheimer Straße
 housenumber: "81"
 phone: +49 711 91245916
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,14:00-20:00
 website: ""
