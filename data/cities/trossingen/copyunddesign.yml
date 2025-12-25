@@ -7,5 +7,5 @@ city: Trossingen
 street: Hauptstraße
 housenumber: "26"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:30-12:30,14:00-17:30; We 09:30-12:30; Sa 10:00-12:15
 website: ""

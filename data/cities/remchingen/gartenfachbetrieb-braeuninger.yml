@@ -7,5 +7,6 @@ city: Remchingen
 street: Lammstraße
 housenumber: 21/1
 phone: ""
-opening_hours: ""
+opening_hours: Jan-Feb,Jul-Aug,Nov-Dec Mo,Tu,Th,Fr 9:00-17:00, Sa 9:00-13:00; Mar-Jun,Sep-Oct
+    Mo,Tu,Th,Fr 9:00-18:00, Sa 9:00-14:00; PH off
 website: ""
