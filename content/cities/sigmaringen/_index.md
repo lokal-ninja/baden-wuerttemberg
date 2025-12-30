@@ -1,6 +1,6 @@
 ---
 title: Sigmaringen
 url: /sigmaringen/
-latitude: 48.091
-longitude: 9.234
+latitude: 48.087
+longitude: 9.216
 ---
