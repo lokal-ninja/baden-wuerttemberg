@@ -1,12 +1,11 @@
-id: 2326176878
+id: 13141563567
 type: node
-latitude: 49.497
-longitude: 8.48077
-postcode: "68167"
+latitude: 49.47477
+longitude: 8.52588
+postcode: "68163"
 city: Mannheim
-street: Lenaustraße
-housenumber: "14"
+street: Hans-Thoma-Straße
+housenumber: "5"
 phone: +49 621 3361386
-opening_hours: 'Oct-Mar: Di-Fr 14:00-18:00; Sa 10:00-14:00; Su,Mo,PH off; Apr-Sep:
-    Di-Fr 14:00-19:00; Sa 10:00-15:00; Su,Mo,PH off; Dec 27.-Jan 8. "Betriebsferien"'
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
 website: https://www.radsport-altig.de

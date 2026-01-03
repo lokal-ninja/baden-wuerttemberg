@@ -1,6 +1,6 @@
 ---
 title: Bad Säckingen
 url: /bad-saeckingen/
-latitude: 47.558
-longitude: 7.951
+latitude: 47.554
+longitude: 7.949
 ---
