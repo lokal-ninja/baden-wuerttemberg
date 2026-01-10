@@ -1,6 +1,6 @@
 ---
 title: Schömberg
 url: /schoemberg/
-latitude: 48.799
-longitude: 8.636
+latitude: 48.801
+longitude: 8.633
 ---

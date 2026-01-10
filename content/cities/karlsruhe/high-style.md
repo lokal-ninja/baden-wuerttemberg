@@ -1,5 +1,5 @@
 ---
-title: "High style"
+title: "high style"
 url: /karlsruhe/high-style/
 shop: Kleidung
 ---

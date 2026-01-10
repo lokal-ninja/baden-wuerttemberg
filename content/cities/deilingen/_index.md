@@ -1,6 +1,6 @@
 ---
 title: Deilingen
 url: /deilingen/
-latitude: 48.169
-longitude: 8.784
+latitude: 48.177
+longitude: 8.782
 ---

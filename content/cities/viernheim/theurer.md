@@ -1,5 +1,5 @@
 ---
-title: "THEURER"
+title: "Theurer"
 url: /viernheim/theurer/
 shop: Bäckerei
 ---
