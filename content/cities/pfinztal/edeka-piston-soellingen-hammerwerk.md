@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Piston Söllingen Hammerwerk"
+title: "Edeka Piston Söllingen Hammerwerk"
 url: /pfinztal/edeka-piston-soellingen-hammerwerk/
 shop: Supermarkt
 ---

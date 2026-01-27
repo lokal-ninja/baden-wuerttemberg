@@ -7,5 +7,5 @@ city: Karlsruhe
 street: Kaiserstraße
 housenumber: "112"
 phone: +49 721 9765949
-opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00
+opening_hours: Mo-Th 10:00-19:00; Fr,Sa 10:00-19:00
 website: https://www.malison24.de/

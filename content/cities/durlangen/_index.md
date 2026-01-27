@@ -1,6 +1,6 @@
 ---
 title: Durlangen
 url: /durlangen/
-latitude: 48.858
-longitude: 9.796
+latitude: 48.859
+longitude: 9.795
 ---

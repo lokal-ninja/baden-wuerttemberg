@@ -1,6 +1,6 @@
 ---
 title: Warthausen
 url: /warthausen/
-latitude: 48.131
-longitude: 9.796
+latitude: 48.129
+longitude: 9.798
 ---

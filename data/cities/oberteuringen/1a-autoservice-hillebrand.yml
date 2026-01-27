@@ -7,5 +7,6 @@ city: Oberteuringen
 street: von-Deuring-Straße
 housenumber: 21/1
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-16:00; Sa,Su,PH
+    off
 website: https://hillebrand.go1a.de/

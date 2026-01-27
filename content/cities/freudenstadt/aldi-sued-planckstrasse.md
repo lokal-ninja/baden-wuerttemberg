@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /freudenstadt/aldi-sued-planckstrasse/
 shop: Supermarkt
 ---
