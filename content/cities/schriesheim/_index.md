@@ -1,6 +1,6 @@
 ---
 title: Schriesheim
 url: /schriesheim/
-latitude: 49.478
-longitude: 8.664
+latitude: 49.476
+longitude: 8.665
 ---

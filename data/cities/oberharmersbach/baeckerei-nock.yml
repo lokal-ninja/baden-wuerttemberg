@@ -7,5 +7,5 @@ city: Oberharmersbach
 street: Dorf
 housenumber: "20"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 06:00-17:45; We 06:30-11:00; Sa 06:00-13:00
 website: ""

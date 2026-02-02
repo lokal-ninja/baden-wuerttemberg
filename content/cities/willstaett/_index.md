@@ -1,6 +1,6 @@
 ---
 title: Willstätt
 url: /willstaett/
-latitude: 48.572
-longitude: 7.915
+latitude: 48.54
+longitude: 7.906
 ---

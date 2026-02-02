@@ -7,5 +7,5 @@ city: Endingen am Kaiserstuhl
 street: Hauptstraße
 housenumber: "22"
 phone: ""
-opening_hours: Mo,Su,PH off; Tu-Sa 10:00-22:00
+opening_hours: Mo off; Tu-Sa 10:00-22:00; Su,PH 12:00-22:00
 website: ""

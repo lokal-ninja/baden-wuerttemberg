@@ -7,5 +7,5 @@ city: Weingarten
 street: Karlstraße
 housenumber: "2"
 phone: ""
-opening_hours: Tu,Th,Fr 09:00-18:00; We 08:00-18:00; Sa 09:00-13:00; PH,Su,Mo off
+opening_hours: Mo-Tu,Th-Fr 09:00-18:00; We 08:30-18:00; Sa 09:00-13:00; Su,PH off
 website: ""
