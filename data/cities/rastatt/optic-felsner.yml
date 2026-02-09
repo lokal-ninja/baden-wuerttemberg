@@ -7,5 +7,5 @@ city: Rastatt
 street: Kaiserstraße
 housenumber: "6"
 phone: +49 7222 35834
-opening_hours: Mo-Fr 09:00-18:00; Th 09:00-19:00; Sa 09:00-13:00
+opening_hours: Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00
 website: https://www.opticfelsner.de/

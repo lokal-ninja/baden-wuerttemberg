@@ -1,5 +1,5 @@
 ---
 title: "Spiceland"
 url: /boeblingen/spiceland/
-shop: Supermarkt
+shop: Lebensmittel
 ---

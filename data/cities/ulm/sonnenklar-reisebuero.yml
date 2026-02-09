@@ -7,5 +7,6 @@ city: Ulm
 street: Kornhausgasse
 housenumber: "9"
 phone: +49 731 38081414
-opening_hours: ""
-website: https://www.sonnenklartv-reisebuero.de
+opening_hours: Mo,Tu,Th,Fr 10:00-13:30,14:30-17:00; We 10:00-14:00; Sa 10:00-12:00;
+    Su off
+website: https://www.sonnenklartv-reisebuero.de/ulm

@@ -7,5 +7,5 @@ city: Ulm
 street: Sterngasse
 housenumber: "5"
 phone: "+4973124744"
-opening_hours: ""
+opening_hours: Mo,Su off; Tu 09:00-18:00; We 09:00-19:00; Th-Fr 09:00-20:00
 website: https://www.friseurhaargenau-ulm.de/
