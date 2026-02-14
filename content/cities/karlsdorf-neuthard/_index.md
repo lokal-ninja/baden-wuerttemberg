@@ -1,6 +1,6 @@
 ---
 title: Karlsdorf-Neuthard
 url: /karlsdorf-neuthard/
-latitude: 49.125
-longitude: 8.519
+latitude: 49.141
+longitude: 8.552
 ---

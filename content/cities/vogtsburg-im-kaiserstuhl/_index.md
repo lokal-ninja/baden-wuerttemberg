@@ -1,6 +1,6 @@
 ---
 title: Vogtsburg im Kaiserstuhl
 url: /vogtsburg-im-kaiserstuhl/
-latitude: 48.103
-longitude: 7.63
+latitude: 48.099
+longitude: 7.597
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eberbach
 url: /eberbach/
-latitude: 49.462
-longitude: 8.984
+latitude: 49.473
+longitude: 8.987
 ---
