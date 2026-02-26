@@ -1,6 +1,6 @@
 ---
 title: Ühlingen-Birkendorf
 url: /uehlingen-birkendorf/
-latitude: 47.695
-longitude: 8.259
+latitude: 47.748
+longitude: 8.313
 ---

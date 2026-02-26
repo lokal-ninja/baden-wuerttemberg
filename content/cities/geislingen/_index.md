@@ -1,6 +1,6 @@
 ---
 title: Geislingen
 url: /geislingen/
-latitude: 48.287
-longitude: 8.82
+latitude: 48.288
+longitude: 8.815
 ---

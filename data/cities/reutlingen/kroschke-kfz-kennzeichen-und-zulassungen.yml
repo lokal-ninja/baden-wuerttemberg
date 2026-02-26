@@ -7,5 +7,6 @@ city: Reutlingen
 street: Aulberstraße
 housenumber: "25"
 phone: +49 7121 9487207
-opening_hours: Mo-We 07:30-15:00; Th 07:30-17:30; Fr 07:30-12:45; Sa,Su,PH off
+opening_hours: Fr 07:30-13:00; Mo,Tu 07:30-16:30; We 10:00-14:00; Th 07:30-17:00;
+    Sa,Su,PH off
 website: https://www.kroschke.de/standortfinder#!/filiale-reutlingen/5273
