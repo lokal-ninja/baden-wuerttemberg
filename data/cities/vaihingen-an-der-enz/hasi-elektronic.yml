@@ -1,12 +1,12 @@
-id: 940018421
+id: 324240528
 type: node
-latitude: 48.9322
-longitude: 8.95822
+latitude: 48.93292
+longitude: 8.95774
 postcode: "71665"
 city: Vaihingen an der Enz
-street: Radbrunnengasse
-housenumber: "5"
+street: Grabenstraße
+housenumber: "18"
 phone: +49 7042 16391
-opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; We 09:00-12:30; Sa "nach Vereinbarung";
-    PH,Su off
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:30-18:00; We off; Sa 10:00-13:00; PH,Su
+    off
 website: https://hasi-elektronic.de/
