@@ -1,6 +1,6 @@
 ---
 title: Ittlingen
 url: /ittlingen/
-latitude: 49.191
-longitude: 8.937
+latitude: 49.19
+longitude: 8.932
 ---

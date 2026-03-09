@@ -1,6 +1,6 @@
 ---
 title: Singen (Hohentwiel)
 url: /singen-hohentwiel/
-latitude: 47.76
-longitude: 8.841
+latitude: 47.769
+longitude: 8.84
 ---
