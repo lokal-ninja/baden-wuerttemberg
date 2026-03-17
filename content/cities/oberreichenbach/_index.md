@@ -1,6 +1,6 @@
 ---
 title: Oberreichenbach
 url: /oberreichenbach/
-latitude: 48.744
-longitude: 8.66
+latitude: 48.734
+longitude: 8.664
 ---

@@ -7,6 +7,6 @@ city: Kehl
 street: Grießenstraße
 housenumber: "8"
 phone: ""
-opening_hours: 'Oct-Feb: Mo-Fr 10:00-12:00,15:00-18:00; We off; Sa 10:00-13:00; Mar-Sep:
-    Mo-Fr 10:00-12:00,15:00-18:30; Sa 10:00-14:00'
+opening_hours: 'Oct-Feb: Mo-Fr 10:00-12:00,15:00-18:00, Mar-Sep Sa 10:00-13:00; Mar-Sep
+    Mo-Fr 10:00-12:00,15:00-18:30, Mar-Sep Sa 10:00-14:00'
 website: http://rad-lutz.de

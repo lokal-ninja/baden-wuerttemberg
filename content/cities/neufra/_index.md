@@ -1,6 +1,6 @@
 ---
 title: Neufra
 url: /neufra/
-latitude: 48.252
-longitude: 9.18
+latitude: 48.246
+longitude: 9.184
 ---
