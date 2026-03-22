@@ -1,6 +1,6 @@
 ---
 title: Kuchen
 url: /kuchen/
-latitude: 48.645
-longitude: 9.79
+latitude: 48.635
+longitude: 9.799
 ---
