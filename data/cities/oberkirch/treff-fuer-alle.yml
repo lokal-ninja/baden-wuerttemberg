@@ -7,6 +7,5 @@ city: Oberkirch
 street: Hauptstraße
 housenumber: "37"
 phone: +49 7802 9169520
-opening_hours: 'Mo.-Fr.: 8:30 - 17:00 Uhr; Sa: 9:00 - 14:00 Uhr; So: 9:00 - 17:00
-    Uhr'
+opening_hours: Mo-Fr 08:30-17:00; Sa 09:00-14:00; Su 09:00-17:00
 website: https://www.integrierte-dienste.eu/markt-und-bistro-treff-fuer-alle/

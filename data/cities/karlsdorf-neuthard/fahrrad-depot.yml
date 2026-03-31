@@ -7,5 +7,5 @@ city: Karlsdorf-Neuthard
 street: Schulstraße
 housenumber: "67"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00, Sa 10:00-13:00, Mo,Tu,Th,Fr 15:00-17:00
 website: https://www.fahrraddepot-neuthard.de

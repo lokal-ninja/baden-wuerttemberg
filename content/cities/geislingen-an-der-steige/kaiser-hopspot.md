@@ -1,5 +1,5 @@
 ---
 title: "Kaiser Hopspot"
 url: /geislingen-an-der-steige/kaiser-hopspot/
-shop: Allgemein
+shop: Spirituosen
 ---

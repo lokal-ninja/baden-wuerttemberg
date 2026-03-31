@@ -1,6 +1,6 @@
 ---
 title: Ebringen
 url: /ebringen/
-latitude: 47.958
-longitude: 7.775
+latitude: 47.957
+longitude: 7.774
 ---
