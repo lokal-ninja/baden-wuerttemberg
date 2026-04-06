@@ -7,5 +7,5 @@ city: Ummendorf
 street: Waldseer Straße
 housenumber: "6"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,We,Sa 06:00-12:00; Tu,Th,Fr 06:00-12:00,15:00-17:00
 website: ""
