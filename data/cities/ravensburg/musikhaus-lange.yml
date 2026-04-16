@@ -7,5 +7,5 @@ city: Ravensburg
 street: Marktstraße
 housenumber: "27"
 phone: +49 751 359000
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:30-18:00; Sa 09:30-13:30
 website: http://www.musikhaus-lange.de
