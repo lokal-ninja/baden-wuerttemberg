@@ -1,5 +1,5 @@
 ---
-title: "sehne"
+title: "Sehne"
 url: /holzgerlingen/sehne/
 shop: Bäckerei
 ---

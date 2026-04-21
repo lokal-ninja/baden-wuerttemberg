@@ -1,6 +1,6 @@
 ---
 title: Bretten
 url: /bretten/
-latitude: 49.038
-longitude: 8.701
+latitude: 49.04
+longitude: 8.69
 ---
