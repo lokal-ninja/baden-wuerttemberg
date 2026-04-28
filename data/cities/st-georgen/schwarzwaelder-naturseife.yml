@@ -7,5 +7,5 @@ city: St. Georgen
 street: Bahnhofstraße
 housenumber: 56a
 phone: ""
-opening_hours: Tu-Th 09:00-12:30; Tu-Fr 14:00-18:00
+opening_hours: 'Mo,Sa closed; Tu-Fr 09:00-12:30; Tu,Th,Fr 14:00-18:00; '
 website: https://www.schwarzwaelder-naturseife.de

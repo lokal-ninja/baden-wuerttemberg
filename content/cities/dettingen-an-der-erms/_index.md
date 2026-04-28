@@ -1,6 +1,6 @@
 ---
 title: Dettingen an der Erms
 url: /dettingen-an-der-erms/
-latitude: 48.527
-longitude: 9.347
+latitude: 48.531
+longitude: 9.331
 ---

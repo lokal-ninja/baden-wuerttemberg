@@ -1,5 +1,5 @@
 ---
-title: "Jysk"
+title: "JYSK"
 url: /horb-am-neckar/jysk/
-shop: Betten
+shop: Möbel
 ---

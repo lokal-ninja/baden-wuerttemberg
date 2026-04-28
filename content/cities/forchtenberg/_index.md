@@ -1,6 +1,6 @@
 ---
 title: Forchtenberg
 url: /forchtenberg/
-latitude: 49.29
-longitude: 9.564
+latitude: 49.289
+longitude: 9.563
 ---

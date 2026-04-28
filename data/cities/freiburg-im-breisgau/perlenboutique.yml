@@ -7,5 +7,6 @@ city: Freiburg im Breisgau
 street: Fuhrmannsgasse
 housenumber: "2"
 phone: ""
-opening_hours: Mo-Tu,Th-Sa 09:30-13:00,Mo,Tu,Fr 15:00-18:00, We 16:30-19:00; PH off
+opening_hours: Mo,Tu 09:30-13:00, 15:00-18:00; We 16:00-19:00; Th 09:30-13:00; Fr
+    09:30-13:00, 15:00-18:00; Sa 09:30-13:00; PH off
 website: ""
