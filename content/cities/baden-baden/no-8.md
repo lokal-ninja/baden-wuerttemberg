@@ -1,5 +1,5 @@
 ---
-title: "No 8"
+title: "No. 8"
 url: /baden-baden/no-8/
 shop: Leder
 ---

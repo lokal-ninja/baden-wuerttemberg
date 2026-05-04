@@ -1,6 +1,6 @@
 ---
 title: Mühlheim an der Donau
 url: /muehlheim-an-der-donau/
-latitude: 48.025
-longitude: 8.89
+latitude: 48.024
+longitude: 8.889
 ---

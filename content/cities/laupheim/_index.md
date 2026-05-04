@@ -1,6 +1,6 @@
 ---
 title: Laupheim
 url: /laupheim/
-latitude: 48.221
-longitude: 9.879
+latitude: 48.229
+longitude: 9.877
 ---
