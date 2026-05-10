@@ -1,6 +1,6 @@
 ---
 title: Ebenweiler
 url: /ebenweiler/
-latitude: 47.898
-longitude: 9.515
+latitude: 47.901
+longitude: 9.514
 ---

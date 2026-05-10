@@ -1,6 +1,6 @@
 ---
 title: Neuenstein
 url: /neuenstein/
-latitude: 49.208
-longitude: 9.571
+latitude: 49.203
+longitude: 9.572
 ---

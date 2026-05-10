@@ -1,5 +1,5 @@
 ---
-title: "UrSpices"
+title: "URSPICES"
 url: /auenwald/urspices/
 shop: Gewürze
 ---
