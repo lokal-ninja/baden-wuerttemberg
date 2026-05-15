@@ -1,5 +1,5 @@
 ---
-title: "Tante-M"
+title: "Tante m"
 url: /wertheim/tante-m/
-shop: Lebensmittel
+shop: Supermarkt
 ---
