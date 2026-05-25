@@ -1,6 +1,6 @@
 ---
 title: Tauberbischofsheim
 url: /tauberbischofsheim/
-latitude: 49.624
-longitude: 9.668
+latitude: 49.623
+longitude: 9.664
 ---

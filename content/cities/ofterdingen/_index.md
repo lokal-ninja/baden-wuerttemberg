@@ -1,6 +1,6 @@
 ---
 title: Ofterdingen
 url: /ofterdingen/
-latitude: 48.421
-longitude: 9.036
+latitude: 48.423
+longitude: 9.035
 ---
