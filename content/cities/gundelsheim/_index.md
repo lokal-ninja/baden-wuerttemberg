@@ -1,6 +1,6 @@
 ---
 title: Gundelsheim
 url: /gundelsheim/
-latitude: 49.291
-longitude: 9.152
+latitude: 49.279
+longitude: 9.16
 ---

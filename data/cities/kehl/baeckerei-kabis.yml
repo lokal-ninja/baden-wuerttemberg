@@ -7,5 +7,5 @@ city: Kehl
 street: Elsässer Straße
 housenumber: "32"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 05:00-12:00,16:00-18:00; We,Sa 05:00-12:00; Su,PH off
 website: ""

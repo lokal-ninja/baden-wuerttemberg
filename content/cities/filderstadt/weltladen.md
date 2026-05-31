@@ -1,5 +1,5 @@
 ---
 title: "Weltladen"
 url: /filderstadt/weltladen/
-shop: Lebensmittel
+shop: Allgemein
 ---
