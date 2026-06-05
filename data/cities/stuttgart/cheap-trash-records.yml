@@ -7,5 +7,5 @@ city: Stuttgart
 street: Forststraße
 housenumber: "166"
 phone: ""
-opening_hours: Tu 18:30-20:30, Th 18:30-20:30, Sa 13:00-16:00
+opening_hours: Tu,Th 18:30-20:30; Sa 13:00-16:00; PH off
 website: https://www.cheaptrashrecords.de

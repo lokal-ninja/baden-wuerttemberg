@@ -1,5 +1,5 @@
 ---
-title: "JANAILS - Nagelstudio"
+title: "JaNails - Nagelstudio"
 url: /neckarsulm/janails-nagelstudio/
 shop: Kosmetik
 ---

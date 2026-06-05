@@ -7,5 +7,5 @@ city: Empfingen
 street: Haigerlocher Straße
 housenumber: "4"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 07:30-12:45,14:30-18:00; We 07:30-12:45; Sa 07:00-12:30
 website: ""

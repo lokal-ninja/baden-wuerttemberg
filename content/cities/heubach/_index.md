@@ -1,6 +1,6 @@
 ---
 title: Heubach
 url: /heubach/
-latitude: 48.792
-longitude: 9.934
+latitude: 48.789
+longitude: 9.933
 ---

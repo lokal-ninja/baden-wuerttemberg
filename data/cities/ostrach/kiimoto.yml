@@ -7,5 +7,5 @@ city: Ostrach
 street: Rentamtstraße
 housenumber: "11"
 phone: +49 7585 2692
-opening_hours: by_appointment
+opening_hours: '"by appointment"'
 website: https://www.kiimoto-feuer.de/

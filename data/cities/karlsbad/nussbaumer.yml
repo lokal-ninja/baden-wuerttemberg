@@ -7,5 +7,6 @@ city: Karlsbad
 street: Hirtenstraße
 housenumber: "45"
 phone: +49 7202 924768
-opening_hours: Mo-Fr 05:30-18:30, Sa 06:30-18:00, Su 07:00-18:00
-website: https://baeckerei-nussbaumer.de/
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-17:00; Su,PH 07:00-17:00; Jan 01,easter
+    - 2 days,Dec 25-26 off
+website: https://baeckerei-nussbaumer.de
