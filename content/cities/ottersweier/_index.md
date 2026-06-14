@@ -1,6 +1,6 @@
 ---
 title: Ottersweier
 url: /ottersweier/
-latitude: 48.674
-longitude: 8.115
+latitude: 48.675
+longitude: 8.118
 ---

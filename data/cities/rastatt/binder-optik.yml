@@ -7,5 +7,5 @@ city: Rastatt
 street: Poststraße
 housenumber: "8"
 phone: ""
-opening_hours: Mo-Fr 09:00-18:30; Sa 21:00-14:00
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,13:45-18:30; We 09:00-13:00; Sa 09:00-14:00
 website: http://www.binder-optik.com
