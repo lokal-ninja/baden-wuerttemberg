@@ -7,5 +7,5 @@ city: Stuttgart
 street: Eichwiesenring
 housenumber: "10"
 phone: +49 711 4899234
-opening_hours: Mo-Fr 08:00-13:00 und 14:00-18:00
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; PH off
 website: https://grossmann-classic.de/

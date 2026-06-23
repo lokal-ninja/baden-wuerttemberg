@@ -7,5 +7,5 @@ city: Albstadt
 street: Eisenbahnstraße
 housenumber: "12"
 phone: +49 7432 98406-0
-opening_hours: 'Mo,Di,Do,Fr: 09:00-12:00,13:30-18:30; Mi:09:00-12:00; Sa:09:00-13:00'
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00,13:30-18:30; We 09:00-12:00; Sa 09:00-13:00
 website: https://www.musicland-albstadt.de/

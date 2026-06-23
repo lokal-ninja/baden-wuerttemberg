@@ -7,5 +7,5 @@ city: Stuttgart
 street: Payerstraße
 housenumber: "8"
 phone: +49 711 626032
-opening_hours: „nach telefonischer Terminvereinbarung“
-website: ""
+opening_hours: '"nach telefonischer Terminvereinbarung"'
+website: https://antiquariat-held.de/

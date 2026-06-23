@@ -1,5 +1,5 @@
 ---
 title: "Die BioEcke"
 url: /loeffingen/die-bioecke/
-shop: Allgemein
+shop: Lebensmittel
 ---

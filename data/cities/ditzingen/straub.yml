@@ -7,5 +7,6 @@ city: Ditzingen
 street: Leonberger Straße
 housenumber: "28"
 phone: ""
-opening_hours: Tu-Fr 08:00-12:15,14:00-18:00; Sa 07:00-13:00; PH off
+opening_hours: Tu-Fr 08:00-12:15, Tu,We,Fr 14:00-18:00, Th 14:00-20:00, Sa 07:00-13:00;
+    Mo off
 website: ""

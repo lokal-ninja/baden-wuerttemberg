@@ -7,5 +7,5 @@ city: Ravensburg
 street: Adlerstraße
 housenumber: "16"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Su off; Tu-We,Fr-Sa 10:00-17:30; Th 10:00-20:00
 website: https://www.tearoom-ladygrey.de/
