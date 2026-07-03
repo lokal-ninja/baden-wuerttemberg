@@ -1,6 +1,6 @@
 ---
 title: Hirrlingen
 url: /hirrlingen/
-latitude: 48.41
-longitude: 8.887
+latitude: 48.411
+longitude: 8.888
 ---
