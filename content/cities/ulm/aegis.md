@@ -1,5 +1,5 @@
 ---
-title: "aegis"
+title: "Aegis"
 url: /ulm/aegis/
 shop: Bücher
 ---
