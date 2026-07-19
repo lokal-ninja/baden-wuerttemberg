@@ -7,5 +7,7 @@ city: Weinstadt
 street: Gundelsbacher Straße
 housenumber: "1"
 phone: +49 7151 603848
-opening_hours: Th-Sa[-1] 16:00-21:00; So[-1] 14:00-19:00
+opening_hours: Apr,May,Sep,Oct Th[-1],Fr[-1],Sa[-1] 16:00-21:00; Apr,May,Sep,Oct Su[-1]
+    14:00-19:00; Jun,Jul,Aug Th[-1],Fr[-1],Sa[-1] 17:00-22:00; Jun,Jul,Aug Su[-1]
+    15:00-20:00
 website: https://www.weingut-klopfer.de/

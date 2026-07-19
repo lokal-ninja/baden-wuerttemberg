@@ -7,6 +7,5 @@ city: Blaubeuren
 street: Küfergasse
 housenumber: "26"
 phone: +49 7344 921449
-opening_hours: Mo. bis Fr. von 9.00 bis 12.30 Uhr und von 14.00 bis 18.00 Uhr, Sa.
-    von 9.00 bis 12.30 Uhr, Mittwoch Nachmittag geschlossen
+opening_hours: Mo-Sa 09:00-12:30; Mo,Tu,Th,Fr 14:00-18:00; Su off
 website: ""
