@@ -1,6 +1,6 @@
 ---
 title: Waldkirch
 url: /waldkirch/
-latitude: 48.084
-longitude: 7.946
+latitude: 48.094
+longitude: 7.96
 ---

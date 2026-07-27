@@ -1,5 +1,5 @@
 ---
 title: "Premio"
 url: /loerrach/premio/
-shop: Reifen
+shop: Autowerkstatt
 ---

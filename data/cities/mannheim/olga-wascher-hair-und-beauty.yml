@@ -7,6 +7,6 @@ city: Mannheim
 street: Mosbacher Straße
 housenumber: "19"
 phone: +49 621 5867 8955
-opening_hours: mo off; tu-we 09:30-13:00,14:00-18:00; th 09:30-13:00; fr 09:30-13:00,14:00-18:00;
-    sa 09:30-14:00;
+opening_hours: Mo off; Tu-We 09:30-13:00,14:00-18:00; Th 09:30-13:00; Fr 09:30-13:00,14:00-18:00;
+    Sa 09:30-14:00
 website: ""

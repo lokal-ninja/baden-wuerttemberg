@@ -1,6 +1,6 @@
 ---
 title: Rutesheim
 url: /rutesheim/
-latitude: 48.81
-longitude: 8.946
+latitude: 48.809
+longitude: 8.945
 ---
