@@ -7,5 +7,6 @@ city: Basel
 street: Goldbachweg
 housenumber: "12"
 phone: +41 61 209 37 09
-opening_hours: MO-FR 10-14, MO,DI,DO,FR 16-18.30
+opening_hours: Mo-Tu 10:00-14:00,16:00-18:30; We 10:00-14:00; Th-Fr 10:00-14:00,16:00-18:30;
+    Sa,Su,PH off
 website: https://www.robabuona.ch

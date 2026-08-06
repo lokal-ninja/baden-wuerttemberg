@@ -7,5 +7,6 @@ city: Karlsruhe
 street: Ettlinger-Tor-Platz
 housenumber: 1a
 phone: +49 721 933333
-opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-13:00; PH off
-website: https://www.staatstheater.karlsruhe.de/
+opening_hours: Mo-Tu 10:00-18:00; We 10:00-13:00; Th-Fr 10:00-18:00; Sa 10:00-13:00;
+    PH off; 2026 Aug 01-30 closed "Theaterferien"
+website: https://www.staatstheater-karlsruhe.de
