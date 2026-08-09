@@ -7,6 +7,6 @@ city: Sternenfels
 street: Kürnbacher Straße
 housenumber: "2"
 phone: ""
-opening_hours: Mo 6:00-13:00, 15:00-18:00; Tu 6:00-13:00; We-Fr 6:00-13:00, 15:00-18:00;
-    Sa 6:00-13:00; Su, PH off
+opening_hours: Mo 06:00-13:00,15:00-18:00; Tu 06:00-13:00; We-Fr 06:00-13:00,15:00-18:00;
+    Sa 06:00-13:00; Su,PH off
 website: ""
