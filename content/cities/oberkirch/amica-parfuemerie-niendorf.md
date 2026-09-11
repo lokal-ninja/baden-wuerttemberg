@@ -1,5 +1,5 @@
 ---
-title: "Amica Parfümerie Niendorf"
+title: "AMICA Parfümerie Niendorf"
 url: /oberkirch/amica-parfuemerie-niendorf/
 shop: Parfümerie
 ---

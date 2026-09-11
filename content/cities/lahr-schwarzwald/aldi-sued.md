@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /lahr-schwarzwald/aldi-sued/
 shop: Supermarkt
 ---

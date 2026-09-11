@@ -1,5 +1,5 @@
 ---
-title: "Amica Parfümerie Bittel"
+title: "AMICA Parfümerie Bittel"
 url: /schorndorf/amica-parfuemerie-bittel/
-shop: Kosmetik
+shop: Parfümerie
 ---

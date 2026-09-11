@@ -1,6 +1,6 @@
 ---
 title: Remseck am Neckar
 url: /remseck-am-neckar/
-latitude: 48.889
-longitude: 9.27
+latitude: 48.89
+longitude: 9.271
 ---

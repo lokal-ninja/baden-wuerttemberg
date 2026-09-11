@@ -1,6 +1,6 @@
 ---
 title: Oedheim
 url: /oedheim/
-latitude: 49.239
-longitude: 9.25
+latitude: 49.252
+longitude: 9.239
 ---

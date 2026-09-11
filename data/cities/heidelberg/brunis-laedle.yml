@@ -7,5 +7,5 @@ city: Heidelberg
 street: Dammweg
 housenumber: "6"
 phone: +49 6221 839151
-opening_hours: Mo-Sa 08:00-13:00, Mo We Th Fr 14:30-18:00
+opening_hours: Mo-Sa 08:00-13:00, Mo,We,Th,Fr 14:30-18:00
 website: ""

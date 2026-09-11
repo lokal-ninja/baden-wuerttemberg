@@ -1,6 +1,6 @@
 ---
 title: Zell am Harmersbach
 url: /zell-am-harmersbach/
-latitude: 48.347
-longitude: 8.064
+latitude: 48.35
+longitude: 8.078
 ---

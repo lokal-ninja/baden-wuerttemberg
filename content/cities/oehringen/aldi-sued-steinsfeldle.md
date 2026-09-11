@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /oehringen/aldi-sued-steinsfeldle/
 shop: Supermarkt
 ---

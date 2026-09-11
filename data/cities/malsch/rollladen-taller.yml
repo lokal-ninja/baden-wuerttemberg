@@ -7,5 +7,5 @@ city: Malsch
 street: Stephanstraße
 housenumber: "12"
 phone: +49 7246 1320
-opening_hours: Mo+Tu+Th 08:00-12:00 + 14:00-17:00; We + Fr 08:00-12:00
+opening_hours: Mo,Tu,Th 08:00-12:00, 14:00-17:00; We, Fr 08:00-12:00
 website: https://rollladentaller.de

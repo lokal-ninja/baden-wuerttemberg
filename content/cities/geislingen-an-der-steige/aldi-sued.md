@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /geislingen-an-der-steige/aldi-sued/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
-title: "LUCKY BIKE"
+title: "Lucky Bike"
 url: /karlsruhe/lucky-bike/
 shop: Fahrrad
 ---

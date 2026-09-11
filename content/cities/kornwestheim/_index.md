@@ -1,6 +1,6 @@
 ---
 title: Kornwestheim
 url: /kornwestheim/
-latitude: 48.856
-longitude: 9.185
+latitude: 48.863
+longitude: 9.181
 ---

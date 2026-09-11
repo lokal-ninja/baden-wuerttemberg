@@ -1,5 +1,5 @@
 ---
-title: "Beckabeck `Zum Becki`"
+title: "BeckaBeck 'Zum Becki'"
 url: /tuebingen/beckabeck-zum-becki/
 shop: Bäckerei
 ---
