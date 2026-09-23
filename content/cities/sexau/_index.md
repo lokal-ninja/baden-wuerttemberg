@@ -1,6 +1,6 @@
 ---
 title: Sexau
 url: /sexau/
-latitude: 48.094
+latitude: 48.093
 longitude: 7.897
 ---

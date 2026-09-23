@@ -1,6 +1,6 @@
 ---
 title: Dischingen
 url: /dischingen/
-latitude: 48.701
-longitude: 10.351
+latitude: 48.697
+longitude: 10.362
 ---

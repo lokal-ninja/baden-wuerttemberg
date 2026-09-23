@@ -7,5 +7,5 @@ city: Dossenheim
 street: Heidelberger Straße
 housenumber: "13"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,Th,Fr 08:00-12:00,13:30-18:00; We 08:00-16:00; Sa-Mo off
 website: ""

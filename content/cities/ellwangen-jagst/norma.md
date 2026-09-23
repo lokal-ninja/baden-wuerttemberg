@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /ellwangen-jagst/norma/
 shop: Supermarkt
 ---
