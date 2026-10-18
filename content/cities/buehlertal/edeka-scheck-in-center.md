@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Scheck-in Center"
+title: "Edeka Scheck-in Center"
 url: /buehlertal/edeka-scheck-in-center/
 shop: Supermarkt
 ---

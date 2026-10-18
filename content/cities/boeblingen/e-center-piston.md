@@ -1,5 +1,5 @@
 ---
-title: "E-Center Piston"
+title: "E center Piston"
 url: /boeblingen/e-center-piston/
 shop: Supermarkt
 ---

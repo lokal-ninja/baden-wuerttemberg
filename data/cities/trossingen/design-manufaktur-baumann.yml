@@ -1,11 +1,12 @@
-id: 11080263968
+id: 14278114517
 type: node
-latitude: 48.0754
-longitude: 8.63533
+latitude: 48.07687
+longitude: 8.63812
 postcode: "78647"
 city: Trossingen
-street: Hauptstraße
-housenumber: "20"
+street: Marktplatz
+housenumber: "4"
 phone: ""
-opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-14:00
+opening_hours: Mo-Fr 13:30-18:30; We,Th 09:00-12:00,13:30-18:30; Sa 08:00-14:00; PH
+    off
 website: ""

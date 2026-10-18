@@ -7,5 +7,5 @@ city: Mannheim
 street: Schwetzinger Straße
 housenumber: "42"
 phone: +49 621 44579090
-opening_hours: by appointment
+opening_hours: '"by appointment"'
 website: https://www.die-stimmgabel.com/de/
