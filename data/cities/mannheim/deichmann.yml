@@ -7,5 +7,5 @@ city: Mannheim
 street: E1
 housenumber: "1"
 phone: +49 621 1567037
-opening_hours: Mo-Sa 10:00-20:00
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
 website: https://stores.deichmann.com/de-de/de/baden-wuerttemberg/mannheim/e1-1

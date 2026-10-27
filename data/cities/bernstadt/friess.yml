@@ -7,5 +7,5 @@ city: Bernstadt
 street: Bürggasse
 housenumber: "21"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 06:15-18:00; We 06:15-12:30; Sa 06:15-12:00
 website: ""

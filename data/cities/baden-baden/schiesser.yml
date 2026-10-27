@@ -7,5 +7,6 @@ city: Baden-Baden
 street: Lange Straße
 housenumber: "39"
 phone: ""
-opening_hours: Mo-Sa 10:00-14:00,14:30-18:00; Su,PH off
-website: ""
+opening_hours: Mo-Th 11:00-14:00,14:30-18:00; Fr,Sa 10:00-14:00,14:30-18:00; Su,PH
+    off
+website: https://stores.schiesser.com/schiesser-store-lange-strasse-39-baden-baden/
