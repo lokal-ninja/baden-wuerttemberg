@@ -1,5 +1,5 @@
 ---
-title: "Mayers"
+title: "MayerS"
 url: /schorndorf/mayers-wieslauftalstrasse/
 shop: Bäckerei
 ---

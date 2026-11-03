@@ -7,5 +7,5 @@ city: Reutlingen
 street: Wilhelmstraße
 housenumber: "59"
 phone: ""
-opening_hours: Su off; Mo-Sa 10:00-18:00
+opening_hours: Mo,Tu,Th,Fr 10:00-18:00; Sa 09:30-18:00; Su off
 website: ""

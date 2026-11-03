@@ -1,5 +1,5 @@
 ---
 title: "Trikotparadies"
 url: /karlsruhe/trikotparadies/
-shop: Allgemein
+shop: Kleidung
 ---

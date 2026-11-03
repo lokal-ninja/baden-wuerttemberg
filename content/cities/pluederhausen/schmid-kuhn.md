@@ -1,5 +1,5 @@
 ---
-title: "Schmid Kuhn"
+title: "Schmid-Kuhn"
 url: /pluederhausen/schmid-kuhn/
 shop: Bäckerei
 ---

@@ -7,5 +7,5 @@ city: Karlsruhe
 street: Durmersheimer Straße
 housenumber: "128"
 phone: "+49721571081"
-opening_hours: Mo-Fr 08:00-17:00
+opening_hours: Mo,Tu,Th,Fr 08:00-17:00; We 08:00-16:30
 website: http://content.gebrueder-ziegler.de/

@@ -1,5 +1,5 @@
 ---
 title: "Leitermann Schlafkultur"
 url: /kehl/leitermann-schlafkultur/
-shop: Möbel
+shop: Betten
 ---

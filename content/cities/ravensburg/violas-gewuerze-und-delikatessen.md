@@ -1,5 +1,5 @@
 ---
-title: "VIOLAS' Gewürze und Delikatessen"
+title: "Violas' Gewürze und Delikatessen"
 url: /ravensburg/violas-gewuerze-und-delikatessen/
 shop: Feinkost
 ---

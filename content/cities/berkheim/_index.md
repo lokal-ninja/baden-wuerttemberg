@@ -1,6 +1,6 @@
 ---
 title: Berkheim
 url: /berkheim/
-latitude: 48.049
-longitude: 10.08
+latitude: 48.038
+longitude: 10.085
 ---
